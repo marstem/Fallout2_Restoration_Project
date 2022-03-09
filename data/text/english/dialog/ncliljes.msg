@@ -290,6 +290,7 @@
 {863}{}{Try it, and I'll add so many scars to your face you'll look like a jigsaw puzzle.}
 {864}{}{Calm down... I was just kidding with you.}
 {865}{}{Chill. I had some other questions...}
+{866}{}{That's it, never mind.}
 {867}{}{I'm leaving. Great talking to someone as cultured as you.}
 
 # 50. I AIN'T GOT 10 SECONDS FOR YOU RIGHT NOW . . . [GOOD RESPONSE] (48, 52)
