@@ -1,11 +1,11 @@
-{100}{}{Egy halálra rémült utazót látsz.}
-{101}{}{A kereskedõ testõrét látod.}
-{200}{}{A fõnök közelében ne nyúlj a fegyveredhez!}
-{201}{}{Senki sem mehet a fõnök közelébe fegyveresen.}
-{202}{}{Tedd el a fegyveredet, mielõtt lelövünk!}
+{100}{}{Egy halÃ¡lra rÃ©mÃ¼lt utazÃ³t lÃ¡tsz.}
+{101}{}{A kereskedÅ‘ testÅ‘rÃ©t lÃ¡tod.}
+{200}{}{A fÅ‘nÃ¶k kÃ¶zelÃ©ben ne nyÃºlj a fegyveredhez!}
+{201}{}{Senki sem mehet a fÅ‘nÃ¶k kÃ¶zelÃ©be fegyveresen.}
+{202}{}{Tedd el a fegyveredet, mielÅ‘tt lelÃ¶vÃ¼nk!}
 {203}{}{Tedd el, vagy menj el!}
-{250}{}{Figyelmeztettünk - most megfizetsz!}
-{300}{}{Beszélj a fõnökkel, õ majd segít rajtad!}
-{301}{}{Komolyan veszem a melómat. Szórakozz csak a fõnökkel, és meghalsz!}
-{302}{}{A fõnök rendszerint jó srác...}
-{303}{}{Meg ne forduljon a fejedben, hogy meglopod a fõnököt!}
+{250}{}{FigyelmeztettÃ¼nk - most megfizetsz!}
+{300}{}{BeszÃ©lj a fÅ‘nÃ¶kkel, Å‘ majd segÃ­t rajtad!}
+{301}{}{Komolyan veszem a melÃ³mat. SzÃ³rakozz csak a fÅ‘nÃ¶kkel, Ã©s meghalsz!}
+{302}{}{A fÅ‘nÃ¶k rendszerint jÃ³ srÃ¡c...}
+{303}{}{Meg ne forduljon a fejedben, hogy meglopod a fÅ‘nÃ¶kÃ¶t!}

@@ -1,7 +1,7 @@
-{100}{}{Ebben a számítógépben mûködik a víztisztító chip.}
-{101}{}{A számítógépben nem mûködik a víztisztító chip.}
-{102}{}{Összetörted a víztisztító chipet... még 100-150 nap, és ez a Menedék kifogy az ivóvízbõl. Valami rejtélyes oknál fogva felvidít ez a gondolat.}
+{100}{}{Ebben a szÃ¡mÃ­tÃ³gÃ©pben mÅ±kÃ¶dik a vÃ­ztisztÃ­tÃ³ chip.}
+{101}{}{A szÃ¡mÃ­tÃ³gÃ©pben nem mÅ±kÃ¶dik a vÃ­ztisztÃ­tÃ³ chip.}
+{102}{}{Ã–sszetÃ¶rted a vÃ­ztisztÃ­tÃ³ chipet... mÃ©g 100-150 nap, Ã©s ez a MenedÃ©k kifogy az ivÃ³vÃ­zbÅ‘l. Valami rejtÃ©lyes oknÃ¡l fogva felvidÃ­t ez a gondolat.}
 {103}{}{Uppsz.}
-{104}{}{*Bíííp*}
-{105}{}{*Bííí-úúúp*}
-{106}{}{*Bíííp* *Bííí-úúúp*}
+{104}{}{*Bipp*}
+{105}{}{*Bipp... Bipp*}
+{106}{}{*BÃ­Ã­Ã­p* *BÃ­Ã­Ã­-ÃºÃºÃºp*}

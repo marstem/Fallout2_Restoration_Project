@@ -1,33 +1,33 @@
-{100}{}{Õ a csapos.}
-{150}{}{A löttyedt fickó egykedvûen áll a pult mögött. Amikor rádnéz, fejével biccent egyet.}
-{200}{}{Hé! }
-{201}{}{! Jó munka volt farba billenteni az Enklávésokat! Akarsz valamit inni?}
+{100}{}{Å a csapos.}
+{150}{}{A lÃ¶ttyedt fickÃ³ egykedvÅ±en Ã¡ll a pult mÃ¶gÃ¶tt. Amikor rÃ¡dnÃ©z, fejÃ©vel biccent egyet.}
+{200}{}{HÃ©! }
+{201}{}{! JÃ³ munka volt farba billenteni az EnklÃ¡vÃ©sokat! Akarsz valamit inni?}
 {206}{}{! Mi a nagy helyzet?}
 {210}{}{Egy adag rotgut rendel...}
-{211}{}{Három dolcsi lesz...}
-{212}{}{Esetleg egy másikat, haver?}
-{213}{}{Itt egy érfogó, ha kell.}
-{214}{}{Ne egyszerre lélegezd be a Jetet... szívj egy slukkot, végy mély levegõt, és hagyd, hogy átjárja a tested!}
+{211}{}{HÃ¡rom dolcsi lesz...}
+{212}{}{Esetleg egy mÃ¡sikat, haver?}
+{213}{}{Itt egy Ã©rfogÃ³, ha kell.}
+{214}{}{Ne egyszerre lÃ©legezd be a Jetet... szÃ­vj egy slukkot, vÃ©gy mÃ©ly levegÅ‘t, Ã©s hagyd, hogy Ã¡tjÃ¡rja a tested!}
 {215}{}{You want two half ounce bags, or a canister?}
-{216}{}{A Jet-belélegzõ extrának számít...}
-{217}{}{Várj, kitalálom: Magad akarod eldönteni?}
-{218}{}{Egy ütõs atombomba rendel...}
-{219}{}{Nem engedjük, hogy a kuncsaftok Buffout-ozzanak itt, haver.}
-{225}{}{Jobban tennéd, ha eltûnnél, mielõtt az egészséges szintnél több ólmot szolgálok fel! Megértetted?!}
-{226}{}{Gyerünk... kifelé! Itt nem fogsz bajt keverni!}
-{227}{}{Meg fognak ölni, ha ideszoksz. Kopj le!}
-{228}{}{Mindenbõl kifogytunk. És most mi legyen, hülyegyerek?}
-{236}{}{! Mivel akarod mérgezni magad?}
-{237}{}{Héééé, bajnok! Mivel akarod mérgezni magad?}
-{238}{}{Mivel akarod mérgezni magad, haver?}
-{239}{}{Mivel akarod mérgezni magad, drágám?}
-{240}{}{Méh-gezni hangoz jól.}
-{241}{}{Mérgezni? Én nem akarni méreg!}
+{216}{}{A Jet-belÃ©legzÅ‘ extrÃ¡nak szÃ¡mÃ­t...}
+{217}{}{VÃ¡rj, kitalÃ¡lom: Magad akarod eldÃ¶nteni?}
+{218}{}{Egy Ã¼tÅ‘s atombomba rendel...}
+{219}{}{Nem engedjÃ¼k, hogy a kuncsaftok Buffout-ozzanak itt, haver.}
+{225}{}{Jobban tennÃ©d, ha eltÅ±nnÃ©l, mielÅ‘tt az egÃ©szsÃ©ges szintnÃ©l tÃ¶bb Ã³lmot szolgÃ¡lok fel! MegÃ©rtetted?!}
+{226}{}{GyerÃ¼nk... kifelÃ©! Itt nem fogsz bajt keverni!}
+{227}{}{Meg fognak Ã¶lni, ha ideszoksz. Kopj le!}
+{228}{}{MindenbÅ‘l kifogytunk. Ã‰s most mi legyen, hÃ¼lyegyerek?}
+{236}{}{! Mivel akarod mÃ©rgezni magad?}
+{237}{}{HÃ©Ã©Ã©Ã©, bajnok! Mivel akarod mÃ©rgezni magad?}
+{238}{}{Mivel akarod mÃ©rgezni magad, haver?}
+{239}{}{Mivel akarod mÃ©rgezni magad, drÃ¡gÃ¡m?}
+{240}{}{MÃ©h-gezni hangoz jÃ³l.}
+{241}{}{MÃ©rgezni? Ã‰n nem akarni mÃ©reg!}
 {242}{}{Mit tud adni?}
 {243}{}{What kind of drugs do you have?}
-{244}{}{Ki az az idõsebb fickó ott annál a szakadt játékgépnél?}
-{245}{}{Ki az a késes fickó ott a bárpultnál?}
-{246}{}{Kösz, egyelõre elleszek magam is.}
+{244}{}{Ki az az idÅ‘sebb fickÃ³ ott annÃ¡l a szakadt jÃ¡tÃ©kgÃ©pnÃ©l?}
+{245}{}{Ki az a kÃ©ses fickÃ³ ott a bÃ¡rpultnÃ¡l?}
+{246}{}{TÅ‘led? Semmit.}
 {250}{}{Oh, you mean old man McGee? He's mostly harmless. Spent near a fortune on
  that old slot machine and hasn't seen a return in years. I think it's busted. 
  Anyways... can I get you something, friend?}

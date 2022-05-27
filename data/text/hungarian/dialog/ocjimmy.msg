@@ -1,84 +1,84 @@
-{100}{}{Egy magas és szikár embert látsz, vastag szemüveggel az orrán.}
-{101}{}{Õ Jimmy.}
-{102}{}{Egy magas, szikár embert látsz, vastag szemüveggel az orrán. Ahogy magában beszélve elmerül a gondolataiban, homlokát mélyen összeráncolja, és körbe-körbe járkál a szobában.}
-{103}{}{Ó, helló! Jim vagyok, illetve Jimmy. No, mi a helyzet?}
-{104}{}{Én nézni körül.}
-{105}{}{Én}
-{106}{}{Öö... Én csak járkálni. Mostan menni el.}
-{107}{}{Csak nézelõdök.}
-{108}{}{Helló, Jim. A nevem}
-{109}{}{Semmi közöd hozzá, négyszemû. Tûnés!}
-{110}{}{Csak épp erre császkáltam. Már megyek is.}
-{111}{}{Nyugodtan nézelõdj ameddig csak akarsz, de ne nyúlj semmihez! Van itt pár érzékeny berendezés.}
-{112}{}{Én csak nézelõdje. Én nem nyúlni.}
-{113}{}{Csak nézelõdök. Semmihez sem nyúlok.}
-{114}{}{Idegesítõ vagy! Menj el!}
-{115}{}{Elnézést, nem akartalak megbántani. Békén is hagylak szépen...}
-{116}{}{Jó.}
-{117}{}{Örülök, hogy találkoztunk,}
-{118}{}{Mit szeretnél tudni?}
-{119}{}{Mit csinálsz itt?}
-{120}{}{Mik ezek a gépek?}
-{121}{}{Menedéknek van felvigyázó. Ez felvigyázó szoba?}
-{122}{}{Saját akaratodból vagy itt a Menedékben?}
-{123}{}{Mit gondolsz a karmokról?}
-{124}{}{Számítógépbe kellje rész. Te tudod hol lenni rész?}
-{125}{}{Én tudni elég. Én menni elfele.}
-{126}{}{Mi a munkád?}
-{127}{}{Mire való ez a sok gépezet?}
-{128}{}{Nem ez a Menedék felvigyázói terme?}
-{129}{}{Saját akaratodból vagy itt a Menedékben?}
-{130}{}{Mit gondolsz a halálkarmokról?}
-{131}{}{Kéne egy alkatrész a számítógépbe. Meg tudnád mondani, hol találom?}
+{100}{}{Egy magas Ã©s szikÃ¡r embert lÃ¡tsz, vastag szemÃ¼veggel az orrÃ¡n.}
+{101}{}{Å Jimmy.}
+{102}{}{Egy magas, szikÃ¡r embert lÃ¡tsz, vastag szemÃ¼veggel az orrÃ¡n. Ahogy magÃ¡ban beszÃ©lve elmerÃ¼l a gondolataiban, homlokÃ¡t mÃ©lyen Ã¶sszerÃ¡ncolja, Ã©s kÃ¶rbe-kÃ¶rbe jÃ¡rkÃ¡l a szobÃ¡ban.}
+{103}{}{Ã“, hellÃ³! Jim vagyok, illetve Jimmy. No, mi a helyzet?}
+{104}{}{Ã‰n nÃ©zni kÃ¶rÃ¼l.}
+{105}{}{Ã‰n }
+{106}{}{Ã–Ã¶... Ã‰n csak jÃ¡rkÃ¡lni. Mostan menni el.}
+{107}{}{Csak nÃ©zelÅ‘dÃ¶k.}
+{108}{}{HellÃ³, Jim. A nevem}
+{109}{}{Semmi kÃ¶zÃ¶d hozzÃ¡, nÃ©gyszemÅ±. TÅ±nÃ©s!}
+{110}{}{Csak Ã©pp erre csÃ¡szkÃ¡ltam. MÃ¡r megyek is.}
+{111}{}{Nyugodtan nÃ©zelÅ‘dj ameddig csak akarsz, de ne nyÃºlj semmihez! Van itt pÃ¡r Ã©rzÃ©keny berendezÃ©s.}
+{112}{}{Ã‰n csak nÃ©zelÅ‘dje. Ã‰n nem nyÃºlni.}
+{113}{}{Csak nÃ©zelÅ‘dÃ¶k. Semmihez sem nyÃºlok.}
+{114}{}{IdegesÃ­tÅ‘ vagy! Menj el!}
+{115}{}{ElnÃ©zÃ©st, nem akartalak megbÃ¡ntani. BÃ©kÃ©n is hagylak szÃ©pen...}
+{116}{}{JÃ³.}
+{117}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk,}
+{118}{}{Mit szeretnÃ©l tudni?}
+{119}{}{Mit csinÃ¡lsz itt?}
+{120}{}{Mik ezek a gÃ©pek?}
+{121}{}{MenedÃ©knek van felvigyÃ¡zÃ³. Ez felvigyÃ¡zÃ³ szoba?}
+{122}{}{SajÃ¡t akaratodbÃ³l vagy itt a MenedÃ©kben?}
+{123}{}{Mit gondolsz a karmokrÃ³l?}
+{124}{}{SzÃ¡mÃ­tÃ³gÃ©pbe kellje rÃ©sz. Te tudod hol lenni rÃ©sz?}
+{125}{}{Ã‰n tudni elÃ©g. Ã‰n menni elfele.}
+{126}{}{Mit csinÃ¡lsz itt?}
+{127}{}{Mire valÃ³ ez a sok gÃ©pezet?}
+{128}{}{Nem ez a MenedÃ©k felvigyÃ¡zÃ³i terme?}
+{129}{}{SajÃ¡t akaratodbÃ³l vagy itt a MenedÃ©kben?}
+{130}{}{Mit gondolsz a halÃ¡lkarmokrÃ³l?}
+{131}{}{KÃ©ne egy alkatrÃ©sz a szÃ¡mÃ­tÃ³gÃ©pbe. Meg tudnÃ¡d mondani, hol talÃ¡lom?}
 {132}{}{Azt hiszem, most megyek.}
-{133}{}{Hát... van néhány problémánk a gépekkel, és épp azokat vizsgálom. Sajnos a szoftverekhez jobban értek, mint a hardverekhez.}
-{134}{}{Mi lenni probléma?}
-{135}{}{Mi a probléma?}
-{136}{}{Igen, Gruthar említette nekem, és megkért, hogy nézzem meg. Szabad lesz?}
-{137}{}{Elromlott a hangvezérlés, így Gruthar nem tudja irányítani a menedéket. Az étel és ivóvíz feldolgozás már leállt. Valószínû, hogy a következõ az áramellátás lesz.}
-{138}{}{Mér nem használni billen-tüzet?}
-{139}{}{Miért nem gépelitek be billentyûzetrõl?}
-{140}{}{Nos, ez a legérdekesebb. A rendszer elutasítja a billentyûzetet. Ennél a pontnál már csõdöt mond a tudásom.}
-{141}{}{Megnézni én lehet?}
-{142}{}{Szabad lesz megnéznem?}
-{143}{}{Igen, Gruthar említette nekem, és megkért, hogy nézzem meg. Szabad lesz?}
-{144}{}{Hát... rendben, de biztosan értesz hozzá? Áh, mindegy. Ennél rosszabb már úgysem lehet. Tessék csak.}
-{145}{}{Ennél rosszabb már úgysem lehet. Tessék csak.}
-{146}{}{Oké, de én elõbb kérdezni.}
-{147}{}{Rendben, de elõbb feltennék néhány kérdést.}
-{148}{}{Ez itt a szuper-számítógép és a hozzátartozó kiegészítõ rendszerek. Innen a menedék valamennyi része irányítható.}
-{149}{}{Öö... ha te mondod.}
-{150}{}{Hm, értem.}
-{151}{}{Ez itt a Menedék-felvigyázó terme, de a 13-as Menedéket teljesen automatizálták.}
-{152}{}{Miért?}
-{153}{}{Oké, én kérdez még.}
-{154}{}{Miért? Úgy értem, ez nem szokatlan dolog?}
-{155}{}{Értem. Beszéljünk másról!}
-{156}{}{Nem ismerem a teljes sztorit, de a menedék történetében volt egy lázadás. A felvigyázót megölték, vagy leváltották, nem tudom. Így vagy úgy, a lázadás vezetõi nem akarták az emberek sorsát egy másik felvigyázó kezébe adni, így idetelepítették ezt a szuper-számítógépet. A feljegyzések szerint ezt egy külsõ szervezettõl vásárolták. Melyiktõl is... hm... ó, igen, az "Acél Testvériségtõl".}
-{157}{}{Mondol még Testvérségrõ'?}
-{158}{}{Tudnál még mondani valamit errõl a Testvériségrõl?}
-{159}{}{Sajnálom, de nem tudok róluk semmit. Ez nagyon rég történt, és azóta semmi jel nem utalt rájuk. Szerintem a Testvériség egy katonai szervezet volt. Nyugatra innen megtalálhatod egy katonai bázis romjait. Talán tõlük maradt ránk.}
-{160}{}{Oké. Én kérdez még.}
-{161}{}{Rendben. Hát, akkor feltennék még néhány kérdést.}
-{162}{}{Ó, igen. Jól érzem itt magam, mióta ide kerültem, és nem is szeretnék elmenni. Mindig magányos farkas voltam, és nem törõdtem sokat az emberekkel. Jaj, nem akartalak megbántani.}
-{163}{}{Nem bánt.}
+{133}{}{HÃ¡t... van nÃ©hÃ¡ny problÃ©mÃ¡nk a gÃ©pekkel, Ã©s Ã©pp azokat vizsgÃ¡lom. Sajnos a szoftverekhez jobban Ã©rtek, mint a hardverekhez.}
+{134}{}{Mi lenni problÃ©ma?}
+{135}{}{Mi a problÃ©ma?}
+{136}{}{Igen, Gruthar emlÃ­tette nekem, Ã©s megkÃ©rt, hogy nÃ©zzem meg. Szabad lesz?}
+{137}{}{Elromlott a hangvezÃ©rlÃ©s, Ã­gy Gruthar nem tudja irÃ¡nyÃ­tani a menedÃ©ket. Az Ã©tel Ã©s ivÃ³vÃ­z feldolgozÃ¡s mÃ¡r leÃ¡llt. ValÃ³szÃ­nÅ±, hogy a kÃ¶vetkezÅ‘ az Ã¡ramellÃ¡tÃ¡s lesz.}
+{138}{}{MÃ©r nem hasznÃ¡lni billen-tÃ¼zet?}
+{139}{}{MiÃ©rt nem gÃ©pelitek be billentyÅ±zetrÅ‘l?}
+{140}{}{Nos, ez a legÃ©rdekesebb. A rendszer elutasÃ­tja a billentyÅ±zetet. EnnÃ©l a pontnÃ¡l mÃ¡r csÅ‘dÃ¶t mond a tudÃ¡som.}
+{141}{}{MegnÃ©zni Ã©n lehet?}
+{142}{}{Szabad lesz megnÃ©znem?}
+{143}{}{Igen, Gruthar emlÃ­tette nekem, Ã©s megkÃ©rt, hogy nÃ©zzem meg. Szabad lesz?}
+{144}{}{HÃ¡t... rendben, de biztosan Ã©rtesz hozzÃ¡? Ãh, mindegy. EnnÃ©l rosszabb mÃ¡r Ãºgysem lehet. TessÃ©k csak.}
+{145}{}{EnnÃ©l rosszabb mÃ¡r Ãºgysem lehet. TessÃ©k csak.}
+{146}{}{OkÃ©, de Ã©n elÅ‘bb kÃ©rdezni.}
+{147}{}{Rendben, de elÅ‘bb feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{148}{}{Ez itt a szuper-szÃ¡mÃ­tÃ³gÃ©p Ã©s a hozzÃ¡tartozÃ³ kiegÃ©szÃ­tÅ‘ rendszerek. Innen a menedÃ©k valamennyi rÃ©sze irÃ¡nyÃ­thatÃ³.}
+{149}{}{Ã–Ã¶... Ã©r-teem...}
+{150}{}{Hm, Ã©rtem.}
+{151}{}{Ez itt a MenedÃ©k-felvigyÃ¡zÃ³ terme, de a 13-as MenedÃ©ket teljesen automatizÃ¡ltÃ¡k.}
+{152}{}{MiÃ©rt?}
+{153}{}{OkÃ©, Ã©n kÃ©rdez mÃ©g.}
+{154}{}{MiÃ©rt? Ãšgy Ã©rtem, ez nem szokatlan dolog?}
+{155}{}{Ã‰rtem. BeszÃ©ljÃ¼nk mÃ¡srÃ³l!}
+{156}{}{Nem ismerem a teljes sztorit, de a menedÃ©k tÃ¶rtÃ©netÃ©ben volt egy lÃ¡zadÃ¡s. A felvigyÃ¡zÃ³t megÃ¶ltÃ©k, vagy levÃ¡ltottÃ¡k, nem tudom. Ãgy vagy Ãºgy, a lÃ¡zadÃ¡s vezetÅ‘i nem akartÃ¡k az emberek sorsÃ¡t egy mÃ¡sik felvigyÃ¡zÃ³ kezÃ©be adni, Ã­gy idetelepÃ­tettÃ©k ezt a szuper-szÃ¡mÃ­tÃ³gÃ©pet. A feljegyzÃ©sek szerint ezt egy kÃ¼lsÅ‘ szervezettÅ‘l vÃ¡sÃ¡roltÃ¡k. MelyiktÅ‘l is... hm... Ã³, igen, az "AcÃ©l TestvÃ©risÃ©gtÅ‘l".}
+{157}{}{Mondol mÃ©g TestvÃ©rsÃ©grÅ‘'?}
+{158}{}{TudnÃ¡l mÃ©g mondani valamit errÅ‘l a TestvÃ©risÃ©grÅ‘l?}
+{159}{}{SajnÃ¡lom, de nem tudok rÃ³luk semmit. Ez nagyon rÃ©g tÃ¶rtÃ©nt, Ã©s azÃ³ta semmi jel nem utalt rÃ¡juk. Szerintem a TestvÃ©risÃ©g egy katonai szervezet volt. Nyugatra innen megtalÃ¡lhatod egy katonai bÃ¡zis romjait. TalÃ¡n tÅ‘lÃ¼k maradt rÃ¡nk.}
+{160}{}{OkÃ©. Ã‰n kÃ©rdez mÃ©g.}
+{161}{}{Rendben. HÃ¡t, akkor feltennÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st.}
+{162}{}{Ã“, igen. JÃ³l Ã©rzem itt magam, miÃ³ta ide kerÃ¼ltem, Ã©s nem is szeretnÃ©k elmenni. Mindig magÃ¡nyos farkas voltam, Ã©s nem tÃ¶rÅ‘dtem sokat az emberekkel. Jaj, nem akartalak megbÃ¡ntani.}
+{163}{}{Nem bÃ¡nt.}
 {164}{}{Semmi gond.}
-{165}{}{Ami azt illeti... Egyfelõl csodálom õket azért, amik, és amivé akarnak válni, másfelõl azonban halálra ijesztenek. Képtelen vagyok hozzászokni, hogy vannak köztük olyan okosak, mint én... legalábbis némelyikük.}
-{166}{}{Veszélyesek lenni emberre?}
-{167}{}{Szerinted fenyegetést jelentenek az emberi társadalomra?}
-{168}{}{Abszolúte! Sokkal erõsebb testfelépítésûek és a mentális képességeik vetekednek a miénkkel. Ez elég nagy veszélyforrássá teszi õket. A végén úgyis mindenképp a morálnál meg az erkölcsnél kötünk ki. Szerencsére, mindkét tekintetben elég fejlettek.}
-{169}{}{Én érteni.}
-{170}{}{Ühüm, értem, mire gondolsz.}
-{171}{}{Helló! Örülök, hogy ismét találkoztunk. Miben segíthetek?}
-{172}{}{Kell kérdezni kérdés.}
-{173}{}{Csak köszönni. És menni is.}
-{174}{}{Kérdezni akarok tõled valamit.}
-{175}{}{Csak benéztem.}
-{176}{}{Hát, lássuk csak... A legjobb hely talán Menedékváros lenne, az a legmodernebb város, amirõl tudok. De próbálkozhatsz akár New Renóban is. Közelebb is van, és kereskedik Menedékvárossal.}
-{177}{}{Köszi.}
-{178}{}{Kösz, hogy megjavítottad a számítógépet. Mindannyiunkat megmentettél.}
-{179}{}{Jobb dolgom is akad, mint agyonlõni téged, de hát valakinek ezt is meg kell tenni!}
-{180}{}{. Én tesz kérdés?}
-{181}{}{. Feltehetek néhány kérdést?}
-{182}{}{. Szívesen válaszolnék néhány kérdésre.}
-{183}{}{Tudatnod kéne Grutharral, hogy megjavítottad a számítógépet.}
+{165}{}{Ami azt illeti... EgyfelÅ‘l csodÃ¡lom Å‘ket azÃ©rt, amik, Ã©s amivÃ© akarnak vÃ¡lni, mÃ¡sfelÅ‘l azonban halÃ¡lra ijesztenek. KÃ©ptelen vagyok hozzÃ¡szokni, hogy vannak kÃ¶ztÃ¼k olyan okosak, mint Ã©n... legalÃ¡bbis nÃ©melyikÃ¼k.}
+{166}{}{VeszÃ©lyesek lenni emberre?}
+{167}{}{Szerinted fenyegetÃ©st jelentenek az emberi tÃ¡rsadalomra?}
+{168}{}{AbszolÃºte! Sokkal erÅ‘sebb testfelÃ©pÃ­tÃ©sÅ±ek Ã©s a mentÃ¡lis kÃ©pessÃ©geik vetekednek a miÃ©nkkel. Ez elÃ©g nagy veszÃ©lyforrÃ¡ssÃ¡ teszi Å‘ket. A vÃ©gÃ©n Ãºgyis mindenkÃ©pp a morÃ¡lnÃ¡l meg az erkÃ¶lcsnÃ©l kÃ¶tÃ¼nk ki. SzerencsÃ©re, mindkÃ©t tekintetben elÃ©g fejlettek.}
+{169}{}{Ã‰rteni.}
+{170}{}{ÃœhÃ¼m, Ã©rtem, mire gondolsz.}
+{171}{}{HellÃ³! Ã–rÃ¼lÃ¶k, hogy ismÃ©t talÃ¡lkoztunk. Miben segÃ­thetek?}
+{172}{}{Kell kÃ©rdezni kÃ©rdÃ©s.}
+{173}{}{Csak kÃ¶szÃ¶nni. Ã‰s menni is.}
+{174}{}{Meg kell kÃ©rdeznem valamit.}
+{175}{}{Csak benÃ©ztem.}
+{176}{}{HÃ¡t, lÃ¡ssuk csak... A legjobb hely talÃ¡n MenedÃ©kvÃ¡ros lenne, az a legmodernebb vÃ¡ros, amirÅ‘l tudok. De prÃ³bÃ¡lkozhatsz akÃ¡r New RenÃ³ban is. KÃ¶zelebb is van, Ã©s kereskedik MenedÃ©kvÃ¡rossal.}
+{177}{}{KÃ¶sz.}
+{178}{}{KÃ¶sz, hogy megjavÃ­tottad a szÃ¡mÃ­tÃ³gÃ©pet. Mindannyiunkat megmentettÃ©l.}
+{179}{}{Jobb dolgom is akad, mint agyonlÅ‘ni tÃ©ged, de hÃ¡t valakinek ezt is meg kell tenni!}
+{180}{}{. Ã‰n tesz kÃ©rdÃ©s?}
+{181}{}{. Feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{182}{}{. SzÃ­vesen vÃ¡laszolnÃ©k nÃ©hÃ¡ny kÃ©rdÃ©sre.}
+{183}{}{Tudatnod kÃ©ne Grutharral, hogy megjavÃ­tottad a szÃ¡mÃ­tÃ³gÃ©pet.}

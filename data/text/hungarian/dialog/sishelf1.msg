@@ -1,7 +1,7 @@
-{100}{}{Egy könyvespolcot látsz, melyet különbözõ tárgyak tárolásra használnak.}
-{101}{}{Egy régi könyvespolc áll itt, mely elég masszívnak tûnik különféle tárgyak tárolására.}
-{195}{}{Úgy tûnik, nincs csapda a könyvespolcon.}
-{200}{}{ szerint nincs csapda a könyvespolcon.}
-{206}{}{Hé, azt ne rakd ide!}
-{207}{}{Hagyd békén azt a rohadt könyvespolcot, különben súlyos szankciókat vezetek be ellened!}
-{208}{}{Ne csináld ez!}
+{100}{}{Egy kÃ¶nyvespolcot lÃ¡tsz, melyet kÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak tÃ¡rolÃ¡sra hasznÃ¡lnak.}
+{101}{}{Egy rÃ©gi kÃ¶nyvespolc Ã¡ll itt, mely elÃ©g masszÃ­vnak tÅ±nik kÃ¼lÃ¶nfÃ©le tÃ¡rgyak tÃ¡rolÃ¡sÃ¡ra.}
+{195}{}{Ãšgy tÅ±nik, nincs csapda a kÃ¶nyvespolcon.}
+{200}{}{ szerint nincs csapda a kÃ¶nyvespolcon.}
+{206}{}{HÃ©, azt ne rakd ide!}
+{207}{}{Hagyd bÃ©kÃ©n azt a rohadt kÃ¶nyvespolcot, kÃ¼lÃ¶nben sÃºlyos szankciÃ³kat vezetek be ellened!}
+{208}{}{Ne csinÃ¡ld ezt!}

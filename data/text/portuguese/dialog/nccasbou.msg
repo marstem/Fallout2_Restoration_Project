@@ -1,81 +1,81 @@
-{100}{}{You see a casino bouncer.}
-{150}{}{You see a casino bouncer. He's HUGE.}
-{151}{}{You see a casino bouncer. He looks big. And angry.}
-{152}{}{You see a casino bouncer. He's looking at you suspiciously.}
-{153}{}{You see a casino bouncer. You thought only mutants got that big.}
-{200}{}{Uh... you'll need to remove that armor... actually, nevermind.}
-{201}{}{Uh, sir... or ma'am... you'll need to remove that armor... uh, nevermind.}
-{202}{}{Sir... ma'am... you can't wear that in the casino... uh, unless you really want to. Nevermind.}
-{205}{}{Uh, why are you sneaking around, sir?}
-{206}{}{Uh, are you undercover, sir?}
-{210}{}{Uh, why are you sneaking around, ma'am?}
-{211}{}{Uh, are you undercover, ma'am?}
-{215}{}{Good evening, sir.}
-{216}{}{Evening, sir.}
-{220}{}{Good evening, ma'am.}
-{221}{}{Evening, ma'am.}
-{225}{}{Good day, sir.}
-{230}{}{Good day, ma'am.}
-{235}{}{Friend, you're walking into the wrong casino.}
-{236}{}{You better leave. Now.}
-{237}{}{This ain't the place to be gambling with your life. You better leave.}
-{240}{}{Bitch, you're walking into the wrong casino.}
-{241}{}{You better leave. Now.}
-{242}{}{This ain't the place to be gambling with your life. You better leave.}
-{245}{}{Sir, I'm sorry, you'll have to secure that weapon.}
-{250}{}{Ma'am, I'm sorry, you'll have to secure that weapon.}
-{255}{}{Honey, I'm sorry, you can't carry weapons into the casino. Heh-heh... you're deadly enough as it is.}
-{260}{}{Querida, com um corpo desse, voc� n�o poder� se esgueirar para lugar nenhum.}
-{265}{}{Tribal, � melhor voc� guardar essa arma AGORA.}
-{270}{}{Tribal, � melhor voc� parar com essa merda AGORA.}
-{275}{}{Hey, hey... Myron! Ain't seen you outside the lab in a long time.}
-{276}{}{You here to sample some of the new merchandise, Myron?}
-{277}{}{Hey! Come on in, Myron.}
-{280}{}{No mutants. He waits outside.}
-{281}{}{Keep your pet outside, mutant-lover.}
-{282}{}{That mutant freak ain't allowed in here.}
-{285}{}{No droids.}
-{286}{}{We don't serve droids.}
-{287}{}{No droids. They wait outside.}
-{290}{}{Welcome to the casino, sir.}
-{291}{}{Like the threads, sir.}
-{292}{}{No problems today, sir.}
-{293}{}{Uh, is there a problem, sir? Or just visiting?}
-{294}{}{Tommy the Balls sends his regards.}
+{100}{}{Você vê um segurança do cassino.}
+{150}{}{Você vê um segurança do cassino. Ele é ENORME.}
+{151}{}{Você vê um segurança do cassino. Ele parece grande e raivoso.}
+{152}{}{Você vê um segurança do cassino. Ele te olha com desconfiança.}
+{153}{}{Você vê um segurança do cassino. E você achando que só mutantes eram tão grandes.}
+{200}{}{Eh... você deveria tirar essa armadura... bem, esquece.}
+{201}{}{Uh, senhor... ou senhora... você precisará remover essa armadura... uh, deixa pra lá.}
+{202}{}{Senhor... senhora... você não pode usar isso no cassino... uh, a menos que realmente queira. Não importa.}
+{205}{}{Uh, por que você está se esgueirando, senhor?}
+{206}{}{Uh, você está disfarçado, senhor?}
+{210}{}{Uh, por que você está se esgueirando, senhora?}
+{211}{}{Uh, você está disfarçada, senhora?}
+{215}{}{Boa tarde, senhor.}
+{216}{}{Tarde, senhor.}
+{220}{}{Boa tarde, senhora.}
+{221}{}{Tarde, senhora.}
+{225}{}{Bom dia, senhor.}
+{230}{}{Bom dia, senhora.}
+{235}{}{Amigo, você está entrando no cassino errado.}
+{236}{}{É melhor você sair. Agora.}
+{237}{}{Este não é um lugar para brincar com sua vida. É melhor ir embora.}
+{240}{}{Ô Biscate, entrou no cassino errado.}
+{241}{}{É melhor você sair. Agora.}
+{242}{}{Este não é um lugar para brincar com sua vida. É melhor ir embora.}
+{245}{}{Senhor, sinto muito, você terá que guardar essa arma.}
+{250}{}{Senhora, sinto muito, você terá que guardar essa arma.}
+{255}{}{Querida, desculpe, você não pode levar armas para o cassino. Heh-heh... você já é mortífera o suficiente.}
+{260}{}{Querida, com um corpo desse, você não poderá se esgueirar para lugar nenhum.}
+{265}{}{Tribal, é melhor você guardar essa arma AGORA.}
+{270}{}{Tribal, é melhor você parar com essa merda AGORA.}
+{275}{}{Ei, ei... Myron! Não te vejo fora do laboratório há muito tempo.}
+{276}{}{Você veio aqui para provar algumas das novas mercadorias, Myron?}
+{277}{}{Ei! Myron, chega mais.}
+{280}{}{Nada de mutantes. Terá que esperar lá fora.}
+{281}{}{Deixe seu animal de estimação para fora, amigão dos mutantes.}
+{282}{}{Aquele mutante nojento não é permitido aqui.}
+{285}{}{Nada de droides.}
+{286}{}{Nós não servimos droides.}
+{287}{}{Sem droides. Ele espera lá fora.}
+{290}{}{Bem vindo ao cassino, senhor.}
+{291}{}{Como a seda, senhor.}
+{292}{}{Sem problemas hoje, senhor.}
+{293}{}{Há algum problema, senhor? Ou apenas visitando?}
+{294}{}{Tommy Bengala manda lembranças.}
 {295}{}{Fale bem de mim pro chefe, beleza?}
-{296}{}{Welcome to the casino, ma'am.}
-{297}{}{Like the threads, ma'am.}
-{298}{}{No problems today, ma'am.}
-{299}{}{Uh, is there a problem, ma'am? Or just visiting?}
-{310}{}{Welcome to the casino, sir.}
-{311}{}{Like the threads, sir.}
-{312}{}{When's your next match, sir?}
-{315}{}{Welcome to the casino, ma'am.}
-{316}{}{Like the threads, ma'am.}
-{317}{}{When's your next match, ma'am?}
-{320}{}{When are you going to stop by and see me?}
-{321}{}{Hey, welcome to the casino! You gonna dance tonight?}
-{322}{}{Looking deadly, sweetheart.}
-{323}{}{Lady Luck gonna get jealous you keep coming around here.}
-{324}{}{Ouvi dizer que o Tommy the Balls quer um fazer um exame m�dico privado com voc�.}
-{330}{}{Casino's inside. Don't talk to me.}
-{331}{}{Casino's INSIDE. IN-SIDE. Stupid tribals.}
-{335}{}{Go wiggle at somebody else, tribal.}
-{336}{}{Casino's INSIDE. IN-SIDE. Stupid tribals.}
-{337}{}{I ain't looking for no tribal ass right now. Get.}
-{338}{}{Blow, dogface. I'm working.}
-{339}{}{Go bark at someone drunker than me, dogface.}
-{345}{}{I'm not s'posed ta chat while on duty, but I'm glad you kicked the Enclave's ass.}
-{346}{}{Yer all right, tribal. Take a rest from saving the world and have some fun.}
-{347}{}{I heard Tommy the Balls is looking for you. Watch out.}
-{350}{}{You got some serious balls to have taken out the Enclave like that.}
-{351}{}{I figger that taking out the Enclave like you did took more balls than everyone in New Reno combined.}
-{352}{}{Busting the Enclave makes you almost as much a badass as Tommy the Balls.}
-{353}{}{I'm not s'posed ta chat while on duty, but I'm glad you kicked the Enclave's ass.}
-{354}{}{Yer all right, tribal. Take a rest from saving the world and have some fun.}
-{355}{}{You got some serious balls to have taken out the Enclave like that. Well, not BALLS, per se, but you know what I mean.}
-{356}{}{Honey, I figger that taking out the Enclave like you did took more balls than everyone in New Reno combined.}
-{357}{}{Think you could go for a guy like me? I mean, I ain't no world-saving type, but I'm pretty strong n' got a good heart.}
-{360}{}{That ghoul comes in here, he's going to die twice.}
-{361}{}{The ghoul stays outside.}
-{362}{}{We don't let ghouls in here. Take him back to Gecko where his kind belongs.}
+{296}{}{Bem vinda ao cassino, senhora.}
+{297}{}{Como a seda, senhora.}
+{298}{}{Sem problemas hoje, senhora.}
+{299}{}{Há algum problema, senhora? Ou apenas visitando?}
+{310}{}{Bem vindo ao cassino, senhor.}
+{311}{}{Como a seda, senhor.}
+{312}{}{Quando é sua próxima luta, senhor?}
+{315}{}{Bem vinda ao cassino, senhora.}
+{316}{}{Como a seda, senhora.}
+{317}{}{Quando é sua próxima luta, senhora?}
+{320}{}{Quando você vai vir aqui me ver?}
+{321}{}{Ei, bem-vindo ao cassino! Você vai dançar esta noite?}
+{322}{}{É espetacular, querida.}
+{323}{}{A Dama da Sorte vai ficar com ciúmes por você continuar vindo aqui.}
+{324}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame médico privado com você.}
+{330}{}{Interior do cassino, não fale comigo.}
+{331}{}{DENTRO do cassino, DEN-TRO. Tribais retardados.}
+{335}{}{Vai encher outra pessoa, tribal.}
+{336}{}{DENTRO do cassino, DEN-TRO. Tribais retardados.}
+{337}{}{Eu não estou procurando por nenhuma bunda tribal agora. Saia.}
+{338}{}{Some daqui, comédia. Estou trabalhando.}
+{339}{}{Vai latir para alguém mais bêbado que eu, pedaço de bosta.}
+{345}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
+{346}{}{Tudo bem, tribal. Descanse de salvar o mundo e divirta-se.}
+{347}{}{Ouvi dizer que Tommy Bengala está procurando por você. Cuidado.}
+{350}{}{Você teve muita coragem para destruir a Enclave assim.}
+{351}{}{Acredito que destruir a Enclave como você fez exigiu mais coragem do que todos em New Reno juntos.}
+{352}{}{Destruir a Enclave faz de você ser quase tão foda quanto Tommy Bengala.}
+{353}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
+{354}{}{Tudo bem, tribal. Descanse de salvar o mundo e divirta-se.}
+{355}{}{Você teve saco roxo para derrotar a Enclave assim. Bem, não SACO mesmo, sabe, você entendeu o que eu quis dizer.}
+{356}{}{Querida, imagino que derrubar a Enclave como você fez precisou de mais coragem do que todos em New Reno juntos.}
+{357}{}{Acha que poderia se interessar em um cara como eu? Quer dizer, não sou do tipo que salva o mundo, mas sou muito forte e tenho um bom coração.}
+{360}{}{Se aquele ghoul entra aqui, ele morre duas vezes.}
+{361}{}{O ghoul fica para fora.}
+{362}{}{Nós não permitimos ghouls aqui. Leve ele de volta para Gecko, onde sua espécie pertence.}

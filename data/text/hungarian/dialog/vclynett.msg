@@ -1,793 +1,793 @@
-{100}{}{A hölgy igen szigorú tekintetû, erõs szemüveget visel, és Menedékváros kezeslábasát hordja. A viselkedése alapján fontos személyiségnek tûnik.}
-{101}{}{Õ Lynette, az Elsõ Polgár. Elfoglalt nõ a javából.}
-{102}{}{Õ Lynette, az Elsõ Polgár. Elfoglalt nõ a javából.}
-{103}{}{Ma már késõ van. Holnap reggelre beszéljen le egy idõpontot, és akkor fogadom magát.}
-{104}{}{Amint azt már MONDTAM, ilyen késõn már nem fogadok látogatókat. A LEGTÖBB Polgár már rég ágyban van ilyenkor.}
-{105}{}{Egyeztessen le egy holnapi idõpontot, akkor majd fogadom.}
-{106}{}{HOLNAP beszélhetünk.}
-{107}{}{Nem tudom, hogy jutott át az õrségen, egyenesen az irodámba, de legjobb lenne, ha most szépen távozna.}
-{108}{}{Nem tudom, mi a célja azzal, hogy piszkál, de nem tûröm tovább!}
-{109}{}{Lehet, hogy szórakoztatónak találja, ha... piszkál. Remélem, a Nevelõközpontot is ugyanilyen humorosnak fogja találni.}
-{110}{}{Kitüntet a figyelmével, de ha felbosszantanak, fenemód harapós vagyok.}
-{111}{}{Én vagyok az Elsõ Polgár! Nyugovóra kell térnem!}
-{112}{}{Távozzon!}
-{113}{}{Tûnés kifelé!}
-{114}{}{Kifelé! Kifelé! Kifelé!}
-{115}{}{Csodálatra méltó a kitartása, de ha lehet, inkább távolról csodálnám.}
-{116}{}{Ez valami ügyefogyott próbálkozás arra, hogy tudassa velem, tetszem??}
-{117}{}{Tetszenek a kis rasztafürtjeim? Szerintem Scott Rodenhizer furcsa humorérzékkel van megáldva.}
-{118}{lyn002}{A bátor tetteirõl szóló mendemondák gyorsan terjednek. Tényleg igaz lenne? A kormány még mindig háborúskodni akar?}
+{100}{}{A hÃ¶lgy igen szigorÃº tekintetÅ±, erÅ‘s szemÃ¼veget visel, Ã©s MenedÃ©kvÃ¡ros kezeslÃ¡basÃ¡t hordja. A viselkedÃ©se alapjÃ¡n fontos szemÃ©lyisÃ©gnek tÅ±nik.}
+{101}{}{Å Lynette, az ElsÅ‘ PolgÃ¡r. Elfoglalt nÅ‘ a javÃ¡bÃ³l.}
+{102}{}{Å Lynette, az ElsÅ‘ PolgÃ¡r. Elfoglalt nÅ‘ a javÃ¡bÃ³l.}
+{103}{}{Ma mÃ¡r kÃ©sÅ‘ van. Holnap reggelre beszÃ©ljen le egy idÅ‘pontot, Ã©s akkor fogadom magÃ¡t.}
+{104}{}{Amint azt mÃ¡r MONDTAM, ilyen kÃ©sÅ‘n mÃ¡r nem fogadok lÃ¡togatÃ³kat. A LEGTÃ–BB PolgÃ¡r mÃ¡r rÃ©g Ã¡gyban van ilyenkor.}
+{105}{}{Egyeztessen le egy holnapi idÅ‘pontot, akkor majd fogadom.}
+{106}{}{HOLNAP beszÃ©lhetÃ¼nk.}
+{107}{}{Nem tudom, hogy jutott Ã¡t az Å‘rsÃ©gen, egyenesen az irodÃ¡mba, de legjobb lenne, ha most szÃ©pen tÃ¡vozna.}
+{108}{}{Nem tudom, mi a cÃ©lja azzal, hogy piszkÃ¡l, de nem tÅ±rÃ¶m tovÃ¡bb!}
+{109}{}{Lehet, hogy szÃ³rakoztatÃ³nak talÃ¡lja, ha... piszkÃ¡l. RemÃ©lem, a NevelÅ‘kÃ¶zpontot is ugyanilyen humorosnak fogja talÃ¡lni.}
+{110}{}{KitÃ¼ntet a figyelmÃ©vel, de ha felbosszantanak, fenemÃ³d harapÃ³s vagyok.}
+{111}{}{Ã‰n vagyok az ElsÅ‘ PolgÃ¡r! NyugovÃ³ra kell tÃ©rnem!}
+{112}{}{TÃ¡vozzon!}
+{113}{}{HÃºzd el innen a beled!}
+{114}{}{KifelÃ©! KifelÃ©! KifelÃ©!}
+{115}{}{CsodÃ¡latra mÃ©ltÃ³ a kitartÃ¡sa, de ha lehet, inkÃ¡bb tÃ¡volrÃ³l csodÃ¡lnÃ¡m.}
+{116}{}{Ez valami Ã¼gyefogyott prÃ³bÃ¡lkozÃ¡s arra, hogy tudassa velem, tetszem??}
+{117}{}{Tetszenek a kis rasztafÃ¼rtjeim? Szerintem Scott Rodenhizer furcsa humorÃ©rzÃ©kkel van megÃ¡ldva.}
+{118}{lyn002}{A bÃ¡tor tetteirÅ‘l szÃ³lÃ³ mendemondÃ¡k gyorsan terjednek. TÃ©nyleg igaz lenne? A kormÃ¡ny mÃ©g mindig hÃ¡borÃºskodni akar?}
 {119}{}{Gyak? Gyak, gyak?}
-{120}{}{Igen. Akartak használni egy vírust, amely minden életet kiirtana. Elölrõl akarták kezdeni... még az itt felépített várost sem kímélték volna.}
-{121}{}{Rosszul hallotta. Utazó vagyok, semmi egyéb... hõs kiváltképp nem. Csak békességet szeretnék, remélve, hogy nem háborgatnak, miközben a pusztaságot járom és a helyem keresem ebben az új világban. Ég magával, Elsõ Polgár... mindörökre.}
-{122}{lyn003}{Még a legegyszerûbb lényekbõl is - mint tenmagad - emberi nagyságok bontakozhatnak ki. Légy jó, kis ügyefogyottam... egész Menedékváros háláját kivívtad.}
+{120}{}{Igen. Akartak hasznÃ¡lni egy vÃ­rust, amely minden Ã©letet kiirtana. ElÃ¶lrÅ‘l akartÃ¡k kezdeni... mÃ©g az itt felÃ©pÃ­tett vÃ¡rost sem kÃ­mÃ©ltÃ©k volna.}
+{121}{}{Rosszul hallotta. UtazÃ³ vagyok, semmi egyÃ©b... hÅ‘s kivÃ¡ltkÃ©pp nem. Csak bÃ©kessÃ©get szeretnÃ©k, remÃ©lve, hogy nem hÃ¡borgatnak, mikÃ¶zben a pusztasÃ¡got jÃ¡rom Ã©s a helyem keresem ebben az Ãºj vilÃ¡gban. Ã‰g magÃ¡val, ElsÅ‘ PolgÃ¡r... mindÃ¶rÃ¶kre.}
+{122}{lyn003}{MÃ©g a legegyszerÅ±bb lÃ©nyekbÅ‘l is - mint tenmagad - emberi nagysÃ¡gok bontakozhatnak ki. LÃ©gy jÃ³, kis Ã¼gyefogyottam... egÃ©sz MenedÃ©kvÃ¡ros hÃ¡lÃ¡jÃ¡t kivÃ­vtad.}
 {123}{}{(Hug her.)}
-{124}{}{Óó... Szia-Szia.}
-{125}{lyn004}{Auuu... ugyan, ugyan. Ha bármikor egy kis ölelésre vágysz, látogasd meg Lynett nénit, rendben?}
+{124}{}{Ã“Ã³... Szia-Szia.}
+{125}{lyn004}{Auuu... ugyan, ugyan. Ha bÃ¡rmikor egy kis Ã¶lelÃ©sre vÃ¡gysz, lÃ¡togasd meg Lynett nÃ©nit, rendben?}
 {126}{}{Oki-doki.}
-{127}{}{Viszlát!}
-{128}{lyn005}{Micsoda arcátlanság! Micsoda érzéketlenség! Nincsenek tisztában, miféle társadalmat építettünk ki itt az évek során?}
-{129}{}{Lehet, hogy fontos tanulságot lehetne levonni ebbõl, Lynette. A világtól elzárt kormány eltökélte magát, hogy megsemmisítik ezt a helyet anélkül, hogy tisztában lennének közösségük értékével. Lehet, hogy Menedékvárosnak felül kéne vizsgálnia, mi történik a világban... és talán a saját, benne elfoglalt helyét is.}
-{130}{}{Arcátlanság, érzéketlenség... meglehet. Azt tudom, hogy az általam képviselt tûzerõ jelentõs. Minden jót, Elsõ Polgár.}
-{131}{lyn006}{Ebben van ráció. A következõ alkalommal hathatósabban kéne a kormány maradványait felkutatnunk, és szövetkezni velük. Úgy hallottam, nagyszerû erõpáncéljaik vannak.}
-{132}{}{De hát... na mindegy, felejtse el. Legyen szerencséje, Elsõ Polgár.}
-{133}{}{A felével sincs tisztában, Elsõ Polgár! Erõvisszacsatolás, testnedvek elvezetése, fenyegetõ külsõ... iszonyat jó cucc.}
-{134}{}{Viszlát, minden Polgárok Elsõje! Vár a külvilág... meg kell találnom benne a helyem.}
-{135}{lyn007}{Kérem, szólítson Lynette-nek... és vigyázzon ha úton van... barátom. Sosem feledjük el. Menedékváros falai közt mindig otthonra lel majd.}
-{136}{}{Köszönöm... Lynette.}
-{137}{}{Hát igen, JÓ KIS otthon lenne ez a hely. Az új skulóimmal meg a brutál tûzerõmmel öt perc alatt szarrá lõhetnék mindenkit ebben a posványos falanszterben. Szép álmokat, Lynette. Ha ha ha ha ha.}
-{138}{lyn008}{Maga menedékruhát visel! Sosem gondoltam volna, hogy valaha találkozom egy másik menedék lakójával. Ez a 13-as menedéké... érdekelne, merre található.}
-{139}{}{Hönh?}
-{140}{}{Menelék! Menelék!}
-{141}{}{Evótam jóól!}
-{142}{}{Hela-hela.}
-{143}{}{Nem az itteni Menedék az, ahonnan az õsöm származik?}
-{144}{}{Fogalmam sincs. Egy nyugati faluból jöttem.}
-{145}{}{Nem tudom. Próbálom felkutatni azt a Menedéket, amelybõl az õsöm származik... tud nekem segíteni?}
-{146}{}{Most nincs idõm ecsetelni az egész történetet. Legyen jó napja.}
-{147}{lyn009}{A szám a kezeslábasodon nem a Menedék száma, hanem az IQ-d nagysága lesz.}
+{127}{}{ViszlÃ¡t!}
+{128}{lyn005}{Micsoda arcÃ¡tlansÃ¡g! Micsoda Ã©rzÃ©ketlensÃ©g! Nincsenek tisztÃ¡ban, mifÃ©le tÃ¡rsadalmat Ã©pÃ­tettÃ¼nk ki itt az Ã©vek sorÃ¡n?}
+{129}{}{Lehet, hogy fontos tanulsÃ¡got lehetne levonni ebbÅ‘l, Lynette. A vilÃ¡gtÃ³l elzÃ¡rt kormÃ¡ny eltÃ¶kÃ©lte magÃ¡t, hogy megsemmisÃ­tik ezt a helyet anÃ©lkÃ¼l, hogy tisztÃ¡ban lennÃ©nek kÃ¶zÃ¶ssÃ©gÃ¼k Ã©rtÃ©kÃ©vel. Lehet, hogy MenedÃ©kvÃ¡rosnak felÃ¼l kÃ©ne vizsgÃ¡lnia, mi tÃ¶rtÃ©nik a vilÃ¡gban... Ã©s talÃ¡n a sajÃ¡t, benne elfoglalt helyÃ©t is.}
+{130}{}{ArcÃ¡tlansÃ¡g, Ã©rzÃ©ketlensÃ©g... meglehet. Azt tudom, hogy az Ã¡ltalam kÃ©pviselt tÅ±zerÅ‘ jelentÅ‘s. Minden jÃ³t, ElsÅ‘ PolgÃ¡r.}
+{131}{lyn006}{Ebben van rÃ¡ciÃ³. A kÃ¶vetkezÅ‘ alkalommal hathatÃ³sabban kÃ©ne a kormÃ¡ny maradvÃ¡nyait felkutatnunk, Ã©s szÃ¶vetkezni velÃ¼k. Ãšgy hallottam, nagyszerÅ± erÅ‘pÃ¡ncÃ©ljaik vannak.}
+{132}{}{De hÃ¡t... na mindegy, felejtse el. Legyen szerencsÃ©je, ElsÅ‘ PolgÃ¡r.}
+{133}{}{A felÃ©vel sincs tisztÃ¡ban, ElsÅ‘ PolgÃ¡r! ErÅ‘visszacsatolÃ¡s, testnedvek elvezetÃ©se, fenyegetÅ‘ kÃ¼lsÅ‘... iszonyat jÃ³ cucc.}
+{134}{}{ViszlÃ¡t, minden PolgÃ¡rok ElsÅ‘je! VÃ¡r a kÃ¼lvilÃ¡g... meg kell talÃ¡lnom benne a helyem.}
+{135}{lyn007}{KÃ©rem, szÃ³lÃ­tson Lynette-nek... Ã©s vigyÃ¡zzon ha Ãºton van... barÃ¡tom. Sosem feledjÃ¼k el. MenedÃ©kvÃ¡ros falai kÃ¶zt mindig otthonra lel majd.}
+{136}{}{KÃ¶szÃ¶nÃ¶m... Lynette.}
+{137}{}{HÃ¡t igen, JÃ“ KIS otthon lenne ez a hely. Az Ãºj skulÃ³immal meg a brutÃ¡l tÅ±zerÅ‘mmel Ã¶t perc alatt szarrÃ¡ lÅ‘hetnÃ©k mindenkit ebben a posvÃ¡nyos falanszterben. SzÃ©p Ã¡lmokat, Lynette. Ha ha ha ha ha.}
+{138}{lyn008}{Maga menedÃ©kruhÃ¡t visel! Sosem gondoltam volna, hogy valaha talÃ¡lkozom egy mÃ¡sik menedÃ©k lakÃ³jÃ¡val. Ez a 13-as menedÃ©kÃ©... Ã©rdekelne, merre talÃ¡lhatÃ³.}
+{139}{}{HÃ¶nh?}
+{140}{}{MenelÃ©k! MenelÃ©k!}
+{141}{}{EvÃ³tam jÃ³Ã³l!}
+{142}{}{Szia-szia}
+{143}{}{Nem az itteni MenedÃ©k az, ahonnan az Å‘sÃ¶m szÃ¡rmazik?}
+{144}{}{Fogalmam sincs. Egy nyugati falubÃ³l jÃ¶ttem.}
+{145}{}{Nem tudom. PrÃ³bÃ¡lom felkutatni azt a MenedÃ©ket, amelybÅ‘l az Å‘sÃ¶m szÃ¡rmazik... tud nekem segÃ­teni?}
+{146}{}{Most nincs idÅ‘m ecsetelni az egÃ©sz tÃ¶rtÃ©netet. Legyen jÃ³ napja.}
+{147}{lyn009}{A szÃ¡m a kezeslÃ¡basodon nem a MenedÃ©k szÃ¡ma, hanem az IQ-d nagysÃ¡ga lesz.}
 {148}{}{Mi?}
-{149}{}{Van Szááám}
-{150}{}{Evótamám!}
-{151}{}{[Elcsoszogsz]}
-{152}{lyn010}{Nem tudom, honnan tettél szert akkora agykapacitásra, hogy bejuss a városba, de most garantálom, hogy többet nem tévedsz erre... õrség! Vigyék ki ezt a tökkelütöttet a falon kívülre!}
+{149}{}{Van SzÃ¡Ã¡Ã¡m}
+{150}{}{EvÃ³tamÃ¡m!}
+{151}{}{[TovÃ¡bbÃ¡llsz]}
+{152}{lyn010}{Nem tudom, honnan tettÃ©l szert akkora agykapacitÃ¡sra, hogy bejuss a vÃ¡rosba, de most garantÃ¡lom, hogy tÃ¶bbet nem tÃ©vedsz erre... Å‘rsÃ©g! VigyÃ©k ki ezt a tÃ¶kkelÃ¼tÃ¶ttet a falon kÃ­vÃ¼lre!}
 {153}{}{NE!}
-{154}{}{ megy fémes népekkel...}
-{155}{lyn011}{Jó napot, idegen. Én Lynett vagyok, az Elsõ Polgár. Megérdeklõdhetem, mi járatban van errefelé?}
-{156}{}{Gyárat? Lyárrat?}
-{157}{}{Ööö!}
-{158}{}{Viszlát!}
-{159}{}{Az Édenkert Létrehozást Elõsegítõ Táska nyomában járok. Nincs maguknak egy fölösleges darab?}
-{160}{}{Elsõ Polgár asszony, az Édenkert Létrehozást Elõsegítõ Táskát keresem. Van az önök városának ilyenje? Megvásárolnám.}
-{161}{}{Maga a... maga ennek a Menedéknek a Felvigyázója?}
-{162}{}{Bocsásson meg tudatlanságomért, Elsõ Polgár. Ez a cím azt jelenti, hogy ön az itteni Menedék Felvigyázója?}
-{163}{}{Ez Menedékváros? Miért nem élnek Menedékben?}
-{164}{}{Most nincs különösebb dolgom itt. Talán máskor.}
-{165}{}{Ma semmi különös dolgom nincs itt. Bocsásson meg, hogy zavartam, Elsõ Polgár. Minden jót!}
-{166}{lyn012a}{Egy ilyen MAGAFAJTA honnan hallott egyáltalán az Édenkert Létrehozást Elõsegítõ Táskáról?}
-{167}{lyn012b}{Azt a technológiát nem kívülállók számára találták ki.}
-{168}{}{Van valami problémája a Kívülállókkal, jóasszony?}
-{169}{}{Van valami problémája a Kívülállókkal?}
-{170}{}{Elnézését kérem... de van valami baja a Kívülállókkal, Elsõ Polgár?}
-{171}{}{A Menedéklakó leszármazottja vagyok. Az ÉLET azért kell, hogy segítsek a szülõfalumon.}
-{172}{}{A Menedéklakó leszármazottja vagyok, Elsõ Polgár. Az ÉLET azért kell, hogy segítsek a szülõfalumon.}
-{173}{}{Ide az ÉLET-tel, asszony, különben erõvel veszem el!}
-{174}{}{Ide az ÉLET-tel, különben erõvel veszem el.}
-{175}{}{Akkor nincs mirõl társalognunk. Ég magával.}
-{176}{lyn013}{Az a probléma, hogy a Kívülállók részt akarnak a társadalmunkból, s ez egyszerûen megengedhetetlen. Minden kétséget kizáróan magunk is a külvilágot mételyezõ anarchiába süllyednénk.}
-{177}{}{Értem. A Menedék Felvigyázójával óhajtok beszélni. El tud hozzá vinni?}
-{178}{}{Mi vezet rá egy magadfajtát, hogy Menedéklakóvá váljék?}
-{179}{}{Ha annyira gyûlöli a külvilágot, miért él idekinn, miért nem a Menedékben?}
-{180}{}{Nekem erre nincs idõm.}
-{181}{}{Hát... értem... Kösz, hogy rám pazarolta az idejét, Elsõ Polgár.}
-{182}{lyn014}{Az ÖSSZES létezõ Kívülálló erõszakos. Kulturálatlanok és primitívek, nagyjából az állatok szintjén! Most pedig kifelé. Vagy erõnek erejével vezettetem ki innen.}
-{183}{}{Nem én! Addig nem mozdulok, amíg nem kapom meg a válaszaimat!}
-{184}{}{"Erõnek erejével kivezettet?" Próba cseresznye! Állok elébe.}
-{185}{}{Akkor csendben távozom... most még.}
-{186}{}{Megyek én, megyek!}
-{187}{lyn015a}{Száz éve nincs itt semmiféle Felvigyázó. Honnan tud a Menedékek Felvigyázóiról?}
-{188}{lyn015b}{Már elmondtam. A Felvigyázók a távoli múlt emlékei.}
-{189}{}{Az elsõ Menedéklakó leszármazottja vagyok. Nagyon sok... történetet hallottam a Felvigyázóról.}
-{190}{}{Mi történt a Felvigyázóval? Beszélnem kell vele.}
-{191}{}{Maga NYILVÁNVALÓAN nem az a személy, aki illetékes itt. Jóasszony, rögvest hozza ide a Felvigyázót!}
-{192}{}{Maga NYILVÁNVALÓAN nem az a személy, aki illetékes itt. Rögvest hozza ide a Felvigyázót!}
-{193}{}{Vegye úgy, mintha nem is mondtam volna. Most mennem kell. Viszlát!}
-{194}{lyn016}{Mit ért az alatt, hogy a Menedéklakó leszármazottja?}
-{195}{}{Az elsõ Menedéklakó ükunokája vagyok.}
-{196}{}{Asszony, csak az idõt vesztegetem azzal, hogy szóba elegyedtünk. Ide a Felvigyázót, de rögvest!}
-{197}{}{Csak az idõt vesztegetem azzal, hogy szóba elegyedtünk. Hozza ide a Felvigyázót, de rögvest!}
-{198}{}{Semmi-semmi, felejtse el. Késõbb majd folytatjuk a beszélgetést.}
-{199}{lyn017a}{Beront a szobámba és még van bõr a képén inzultálni engem, Lynette-et, Menedékváros Elsõ Polgárát!}
-{200}{lyn017b}{Beront a szobámba és még van bõr a képén követelõzni Lynette-nél, Menedékváros Elsõ Polgáránál!}
-{201}{lyn017c}{Távozzék! Ön mostantól fogva "Persona non grata" a városban.}
-{202}{}{Addig nem megyek sehova, amíg nem kapok választ a kérdéseimre.}
+{154}{}{ megy fÃ©mes nÃ©pekkel...}
+{155}{lyn011}{JÃ³ napot, idegen. Ã‰n Lynett vagyok, az ElsÅ‘ PolgÃ¡r. MegÃ©rdeklÅ‘dhetem, mi jÃ¡ratban van errefelÃ©?}
+{156}{}{GyÃ¡rat? LyÃ¡rrat?}
+{157}{}{Ã–Ã¶Ã¶!}
+{158}{}{ViszlÃ¡t!}
+{159}{}{Az Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡ska nyomÃ¡ban jÃ¡rok. Nincs maguknak egy fÃ¶lÃ¶sleges darab?}
+{160}{}{ElsÅ‘ PolgÃ¡r asszony, az Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t keresem. Van az Ã¶nÃ¶k vÃ¡rosÃ¡nak ilyenje? MegvÃ¡sÃ¡rolnÃ¡m.}
+{161}{}{Maga a... maga ennek a MenedÃ©knek a FelvigyÃ¡zÃ³ja?}
+{162}{}{BocsÃ¡sson meg tudatlansÃ¡gomÃ©rt, ElsÅ‘ PolgÃ¡r. Ez a cÃ­m azt jelenti, hogy Ã¶n az itteni MenedÃ©k FelvigyÃ¡zÃ³ja?}
+{163}{}{Hogyhogy MenedÃ©kvÃ¡rosnak hÃ­vjÃ¡k? MiÃ©rt nem Ã©lnek a MenedÃ©k mÃ©lyÃ©n?}
+{164}{}{Most nincs kÃ¼lÃ¶nÃ¶sebb dolgom itt. TalÃ¡n mÃ¡skor.}
+{165}{}{Ma semmi kÃ¼lÃ¶nÃ¶s dolgom nincs itt. BocsÃ¡sson meg, hogy zavartam, ElsÅ‘ PolgÃ¡r. Minden jÃ³t!}
+{166}{lyn012a}{Egy ilyen MAGAFAJTA honnan hallott egyÃ¡ltalÃ¡n az Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡rÃ³l?}
+{167}{lyn012b}{Azt a technolÃ³giÃ¡t nem kÃ­vÃ¼lÃ¡llÃ³k szÃ¡mÃ¡ra talÃ¡ltÃ¡k ki.}
+{168}{}{Van valami problÃ©mÃ¡ja a KÃ­vÃ¼lÃ¡llÃ³kkal, jÃ³asszony?}
+{169}{}{Van valami problÃ©mÃ¡ja a KÃ­vÃ¼lÃ¡llÃ³kkal?}
+{170}{}{ElnÃ©zÃ©sÃ©t kÃ©rem... de van valami baja a KÃ­vÃ¼lÃ¡llÃ³kkal, ElsÅ‘ PolgÃ¡r?}
+{171}{}{A MenedÃ©klakÃ³ leszÃ¡rmazottja vagyok. Az Ã‰LET azÃ©rt kell, hogy segÃ­tsek a szÃ¼lÅ‘falumon.}
+{172}{}{A MenedÃ©klakÃ³ leszÃ¡rmazottja vagyok, ElsÅ‘ PolgÃ¡r. Az Ã‰LET azÃ©rt kell, hogy segÃ­tsek a szÃ¼lÅ‘falumon.}
+{173}{}{Ide az Ã‰LET-tel, asszony, kÃ¼lÃ¶nben erÅ‘vel veszem el!}
+{174}{}{Ide az Ã‰LET-tel, kÃ¼lÃ¶nben erÅ‘vel veszem el.}
+{175}{}{Akkor nincs mirÅ‘l tÃ¡rsalognunk. Ã‰g magÃ¡val.}
+{176}{lyn013}{Az a problÃ©ma, hogy a KÃ­vÃ¼lÃ¡llÃ³k rÃ©szt akarnak a tÃ¡rsadalmunkbÃ³l, s ez egyszerÅ±en megengedhetetlen. Minden kÃ©tsÃ©get kizÃ¡rÃ³an magunk is a kÃ¼lvilÃ¡got mÃ©telyezÅ‘ anarchiÃ¡ba sÃ¼llyednÃ©nk.}
+{177}{}{Ã‰rtem. A MenedÃ©k FelvigyÃ¡zÃ³jÃ¡val Ã³hajtok beszÃ©lni. El tud hozzÃ¡ vinni?}
+{178}{}{Mi vezet rÃ¡ egy magadfajtÃ¡t, hogy MenedÃ©klakÃ³vÃ¡ vÃ¡ljÃ©k?}
+{179}{}{Ha annyira gyÅ±lÃ¶li a kÃ¼lvilÃ¡got, miÃ©rt Ã©l idekinn, miÃ©rt nem a MenedÃ©kben?}
+{180}{}{Eleget hallottam. ViszlÃ¡t!}
+{181}{}{HÃ¡t... Ã©rtem... KÃ¶sz, hogy rÃ¡m pazarolta az idejÃ©t, ElsÅ‘ PolgÃ¡r.}
+{182}{lyn014}{Az Ã–SSZES lÃ©tezÅ‘ KÃ­vÃ¼lÃ¡llÃ³ erÅ‘szakos. KulturÃ¡latlanok Ã©s primitÃ­vek, nagyjÃ¡bÃ³l az Ã¡llatok szintjÃ©n! Most pedig kifelÃ©. Vagy erÅ‘nek erejÃ©vel vezettetem ki innen.}
+{183}{}{Nem Ã©n! Addig nem mozdulok, amÃ­g nem kapom meg a vÃ¡laszaimat!}
+{184}{}{"ErÅ‘nek erejÃ©vel kivezettet?" PrÃ³ba cseresznye! Ãllok elÃ©be.}
+{185}{}{Akkor csendben tÃ¡vozom... most mÃ©g.}
+{186}{}{Megyek Ã©n, megyek!}
+{187}{lyn015a}{SzÃ¡z Ã©ve nincs itt semmifÃ©le FelvigyÃ¡zÃ³. Honnan tud a MenedÃ©kek FelvigyÃ¡zÃ³irÃ³l?}
+{188}{lyn015b}{MÃ¡r elmondtam. A FelvigyÃ¡zÃ³k a tÃ¡voli mÃºlt emlÃ©kei.}
+{189}{}{Az elsÅ‘ MenedÃ©klakÃ³ leszÃ¡rmazottja vagyok. Nagyon sok... tÃ¶rtÃ©netet hallottam a FelvigyÃ¡zÃ³rÃ³l.}
+{190}{}{Mi tÃ¶rtÃ©nt a FelvigyÃ¡zÃ³val? BeszÃ©lnem kell vele.}
+{191}{}{Maga NYILVÃNVALÃ“AN nem az a szemÃ©ly, aki illetÃ©kes itt. JÃ³asszony, rÃ¶gvest hozza ide a FelvigyÃ¡zÃ³t!}
+{192}{}{Maga NYILVÃNVALÃ“AN nem az a szemÃ©ly, aki illetÃ©kes itt. RÃ¶gvest hozza ide a FelvigyÃ¡zÃ³t!}
+{193}{}{Vegye Ãºgy, mintha nem is mondtam volna. Most mennem kell. ViszlÃ¡t!}
+{194}{lyn016}{Mit Ã©rt az alatt, hogy a MenedÃ©klakÃ³ leszÃ¡rmazottja?}
+{195}{}{Az elsÅ‘ MenedÃ©klakÃ³ Ã¼kunokÃ¡ja vagyok.}
+{196}{}{Asszony, csak az idÅ‘t vesztegetem azzal, hogy szÃ³ba elegyedtÃ¼nk. Ide a FelvigyÃ¡zÃ³t, de rÃ¶gvest!}
+{197}{}{Csak az idÅ‘t vesztegetem azzal, hogy szÃ³ba elegyedtÃ¼nk. Ide a FelvigyÃ¡zÃ³t, de rÃ¶gvest!}
+{198}{}{Semmi-semmi, felejtse el. KÃ©sÅ‘bb majd folytatjuk a beszÃ©lgetÃ©st.}
+{199}{lyn017a}{Beront a szobÃ¡mba Ã©s mÃ©g van bÅ‘r a kÃ©pÃ©n inzultÃ¡lni engem, Lynette-et, MenedÃ©kvÃ¡ros ElsÅ‘ PolgÃ¡rÃ¡t!}
+{200}{lyn017b}{Beront a szobÃ¡mba Ã©s mÃ©g van bÅ‘r a kÃ©pÃ©n kÃ¶vetelÅ‘zni Lynette-nÃ©l, MenedÃ©kvÃ¡ros ElsÅ‘ PolgÃ¡rÃ¡nÃ¡l!}
+{201}{lyn017c}{TÃ¡vozzÃ©k! Ã–n mostantÃ³l fogva "Persona non grata" a vÃ¡rosban.}
+{202}{}{Addig nem megyek sehova, amÃ­g nem kapok vÃ¡laszt a kÃ©rdÃ©seimre.}
 {203}{}{Megyek... ez alkalommal.}
-{204}{lyn018}{Nem, nem, mi nem élünk a Menedék mélyén. Átmeneti megoldásnak szánták, hogy a kiválasztott keveseket megóvja a háborútól, és segítse õket egy új világ megteremtésében.}
-{205}{}{Honnan tudták, mikor kell elhagyni a Menedéket? Úgy hallottam, a Menedékeket izolálták a külvilágtól.}
-{206}{}{Nagyon fontos, hogy beszélhessek a Felvigyázóval. Hozzá tudna vezetni?}
-{207}{}{Csak az idõt vesztegetem azzal, hogy szóba elegyedtünk, asszony. Hozza ide a Felvigyázót, de rögvest!}
-{208}{}{Csak az idõt vesztegetem azzal, hogy szóba elegyedtünk. Hozza ide a Felvigyázót, de rögvest!}
-{209}{}{Nekem erre nincs idõm.}
-{210}{}{Köszönöm, hogy idõt szakított rám, Elsõ Polgár. Viszontlátásra.}
-{211}{lyn019}{Nálunk nincs "Felvigyázó". Amikor kijöttünk a felszínre, új kormányt alakítottunk. A Felvigyázói pozíció idejét múlttá vált.}
-{212}{}{Meséljen errõl az új kormányról.}
-{213}{}{Ezek szerint maga az egykori menedéklakók vezetõje?}
-{214}{}{Nem rossz. Megszabadultak a korrupt Felvigyázótól.}
-{215}{}{Értem. Köszönet az információért. Viszlát!}
-{216}{lyn020}{Amit hallott, nem állja meg a helyét. Adattárunk elég kiterjedt: Menedékünk két évvel a lepecsételés után vette a "minden tiszta" jelet.}
-{217}{}{Honnan vették azt a "minden tiszta" jelet?}
-{218}{}{Hol van az az adattár?}
-{219}{}{Hol találom a Felvigyázót? Beszélnem kell vele!}
-{220}{}{Nos, a törzsi legendáink szerint a Menedéket évekre lezárták... és soha semmilyen "minden tiszta" jel nem érkezett.}
-{221}{}{Maga hazudik! Az a "minden tiszta" jelzés soha a büdös életben nem érkezett meg!}
-{222}{}{Értem. Köszönet az információért. Viszlát!}
-{223}{lyn021}{Hát... gondolom a felszínt figyelõ monitorok által. Biztos vagyok benne, hogy mindenféle érzékelõk figyelték a környezetet. Különben honnan tudta volna a Felvigyázó, mikor biztonságos a napvilágra menni?}
-{224}{}{Ezek a monitorok még léteznek? Láthatnám õket?}
-{225}{}{Tehát... a Menedékek elhagyása a Felvigyázó parancsa volt?}
-{226}{}{Jó is hogy eszembe jut. Hol van a Felvigyázó? Beszélhetnék vele?}
-{227}{}{Hazudik! A "minden tiszta" jel soha nem ért el hozzánk!}
-{228}{}{Egyelõre... bizonytalan vagyok. Viszlát!}
-{229}{lyn022}{A közelmúltban szétszedték, és más rendszerek felújítására használták fel õket.}
-{230}{}{Hmmm. Tehát a Menedék elhagyására a Felvigyázó adta a parancsot?}
-{231}{}{Hol van a Felvigyázó? Most azonnal beszélnem kell vele!}
-{232}{}{Nem hiszek magának. Elmondanám, hogy a "minden tiszta" jel soha az életben nem érkezett meg hozzánk!}
-{233}{}{Értem. Köszönet az információért. Viszlát!}
-{234}{lyn023}{Igen... legalábbis az adattárból erre emlékszem. Mindazonáltal, biztos vagyok benne, hogy számos Polgárunk volt beosztva a felszíni érzékelõk figyelésére.}
-{235}{}{Van valami ötlete, hol lehetnek most ezek a felszíni érzékelõk?}
-{236}{}{Hol van az az adattár?}
-{237}{}{Hol találom a Felvigyázót? Beszélnem kell vele!}
-{238}{}{Hazudik! A "minden tiszta" jel soha nem ért el hozzánk!}
-{239}{}{Értem. Köszönet az információért. Viszlát!}
-{240}{lyn024}{Ha képes lenne felfogni a saját szavai értelmét, mindjárt nyilvánvalóvá válna egy-két dolog. Az adattár biztosítja, hogy az adataink ne jussanak a szájról szájra járó "törzsi legendák" sorsára.}
-{241}{}{Hol van az az adattár?}
-{242}{}{Hol találom a Felvigyázót? Beszélnem kell vele!}
-{243}{}{Nézze, egyet el kell mondanom... a "minden tiszta" jel soha nem érkezett meg hozzánk!}
-{244}{}{Eleget hallottam. Minden jót!}
-{245}{lyn025}{Van bõr a képén HAZUGSÁGGAL vádolni engem, Lynette-et, Menedékváros elsõ polgárát? Távozzék! Többé nem szívesen látott vendég nálunk!}
-{246}{}{Addig nem megyek sehova, amíg nem kapok választ a kérdéseimre!}
-{247}{}{Most az egyszer távozom...}
+{204}{lyn018}{Nem, nem, mi nem Ã©lÃ¼nk a MenedÃ©k mÃ©lyÃ©n. Ãtmeneti megoldÃ¡snak szÃ¡ntÃ¡k, hogy a kivÃ¡lasztott keveseket megÃ³vja a hÃ¡borÃºtÃ³l, Ã©s segÃ­tse Å‘ket egy Ãºj vilÃ¡g megteremtÃ©sÃ©ben.}
+{205}{}{Honnan tudtÃ¡k, mikor kell elhagyni a MenedÃ©ket? Ãšgy hallottam, a MenedÃ©keket izolÃ¡ltÃ¡k a kÃ¼lvilÃ¡gtÃ³l.}
+{206}{}{Nagyon fontos, hogy beszÃ©lhessek a FelvigyÃ¡zÃ³val. HozzÃ¡ tudna vezetni?}
+{207}{}{Csak az idÅ‘t vesztegetem azzal, hogy szÃ³ba elegyedtÃ¼nk, asszony. Hozza ide a FelvigyÃ¡zÃ³t, de rÃ¶gvest!}
+{208}{}{Csak az idÅ‘t vesztegetem azzal, hogy szÃ³ba elegyedtÃ¼nk. Ide a FelvigyÃ¡zÃ³t, de rÃ¶gvest!}
+{209}{}{Eleget hallottam. ViszlÃ¡t!}
+{210}{}{KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m, ElsÅ‘ PolgÃ¡r. ViszontlÃ¡tÃ¡sra.}
+{211}{lyn019}{NÃ¡lunk nincs "FelvigyÃ¡zÃ³". Amikor kijÃ¶ttÃ¼nk a felszÃ­nre, Ãºj kormÃ¡nyt alakÃ­tottunk. A FelvigyÃ¡zÃ³i pozÃ­ciÃ³ idejÃ©t mÃºlttÃ¡ vÃ¡lt.}
+{212}{}{MesÃ©ljen errÅ‘l az Ãºj kormÃ¡nyrÃ³l.}
+{213}{}{Ezek szerint maga az egykori menedÃ©klakÃ³k vezetÅ‘je?}
+{214}{}{Nem rossz. Megszabadultak a korrupt FelvigyÃ¡zÃ³tÃ³l.}
+{215}{}{Ã‰rtem. KÃ¶szÃ¶net az informÃ¡ciÃ³Ã©rt. Minden jÃ³t magÃ¡nak!}
+{216}{lyn020}{Amit hallott, nem Ã¡llja meg a helyÃ©t. AdattÃ¡runk elÃ©g kiterjedt: MenedÃ©kÃ¼nk kÃ©t Ã©vvel a lepecsÃ©telÃ©s utÃ¡n vette a "minden tiszta" jelet.}
+{217}{}{Honnan vettÃ©k azt a "minden tiszta" jelet?}
+{218}{}{Hol van ez az adattÃ¡r?}
+{219}{}{Hol van a FelvigyÃ¡zÃ³? BeszÃ©lnem kell vele.}
+{220}{}{Nos, a tÃ¶rzsi legendÃ¡ink szerint a MenedÃ©ket Ã©vekre lezÃ¡rtÃ¡k... Ã©s soha semmilyen "minden tiszta" jel nem Ã©rkezett.}
+{221}{}{Maga hazudik! Az a "minden tiszta" jelzÃ©s soha a bÃ¼dÃ¶s Ã©letben nem Ã©rkezett meg!}
+{222}{}{Ã‰rtem. KÃ¶szÃ¶net az informÃ¡ciÃ³Ã©rt. Minden jÃ³t magÃ¡nak!}
+{223}{lyn021}{HÃ¡t... gondolom a felszÃ­nt figyelÅ‘ monitorok Ã¡ltal. Biztos vagyok benne, hogy mindenfÃ©le Ã©rzÃ©kelÅ‘k figyeltÃ©k a kÃ¶rnyezetet. KÃ¼lÃ¶nben honnan tudta volna a FelvigyÃ¡zÃ³, mikor biztonsÃ¡gos a napvilÃ¡gra menni?}
+{224}{}{Ezek a monitorok mÃ©g lÃ©teznek? LÃ¡thatnÃ¡m Å‘ket?}
+{225}{}{TehÃ¡t... a MenedÃ©kek elhagyÃ¡sa a FelvigyÃ¡zÃ³ parancsa volt?}
+{226}{}{JÃ³ is hogy eszembe jut. Hol van a FelvigyÃ¡zÃ³? BeszÃ©lhetnÃ©k vele?}
+{227}{}{Hazudik! Az a "minden tiszta" jel soha nem Ã©rkezett meg!}
+{228}{}{EgyelÅ‘re... bizonytalan vagyok. ViszlÃ¡t!}
+{229}{lyn022}{A kÃ¶zelmÃºltban szÃ©tszedtÃ©k, Ã©s mÃ¡s rendszerek felÃºjÃ­tÃ¡sÃ¡ra hasznÃ¡ltÃ¡k fel Å‘ket.}
+{230}{}{Hmmm. TehÃ¡t a MenedÃ©k elhagyÃ¡sÃ¡ra a FelvigyÃ¡zÃ³ adta a parancsot?}
+{231}{}{Hol van a FelvigyÃ¡zÃ³? Most azonnal beszÃ©lnem kell vele!}
+{232}{}{Nem hiszek magÃ¡nak. ElmondanÃ¡m, hogy a "minden tiszta" jel soha az Ã©letben nem Ã©rkezett meg hozzÃ¡nk!}
+{233}{}{Ã‰rtem. KÃ¶szÃ¶net az informÃ¡ciÃ³Ã©rt. Minden jÃ³t magÃ¡nak!}
+{234}{lyn023}{Igen... legalÃ¡bbis az adattÃ¡rbÃ³l erre emlÃ©kszem. MindazonÃ¡ltal, biztos vagyok benne, hogy szÃ¡mos PolgÃ¡runk volt beosztva a felszÃ­ni Ã©rzÃ©kelÅ‘k figyelÃ©sÃ©re.}
+{235}{}{Van valami Ã¶tlete, hol lehetnek most ezek a felszÃ­ni Ã©rzÃ©kelÅ‘k?}
+{236}{}{Hol van ez az adattÃ¡r?}
+{237}{}{Hol van a FelvigyÃ¡zÃ³? BeszÃ©lnem kell vele.}
+{238}{}{Hazudik! Az a "minden tiszta" jel soha nem Ã©rkezett meg!}
+{239}{}{Ã‰rtem. KÃ¶szÃ¶net az informÃ¡ciÃ³Ã©rt. Minden jÃ³t magÃ¡nak!}
+{240}{lyn024}{Ha kÃ©pes lenne felfogni a sajÃ¡t szavai Ã©rtelmÃ©t, mindjÃ¡rt nyilvÃ¡nvalÃ³vÃ¡ vÃ¡lna egy-kÃ©t dolog. Az adattÃ¡r biztosÃ­tja, hogy az adataink ne jussanak a szÃ¡jrÃ³l szÃ¡jra jÃ¡rÃ³ "tÃ¶rzsi legendÃ¡k" sorsÃ¡ra.}
+{241}{}{Hol van ez az adattÃ¡r?}
+{242}{}{Hol van a FelvigyÃ¡zÃ³? BeszÃ©lnem kell vele.}
+{243}{}{NÃ©zze, egyet el kell mondanom... a "minden tiszta" jel soha nem Ã©rkezett meg hozzÃ¡nk!}
+{244}{}{Eleget hallottam. Minden jÃ³t!}
+{245}{lyn025}{Van bÅ‘r a kÃ©pÃ©n HAZUGSÃGGAL vÃ¡dolni engem, Lynette-et, MenedÃ©kvÃ¡ros elsÅ‘ polgÃ¡rÃ¡t? TÃ¡vozzÃ©k! TÃ¶bbÃ© nem szÃ­vesen lÃ¡tott vendÃ©g nÃ¡lunk!}
+{246}{}{Addig nem megyek sehova, amÃ­g nem kapok vÃ¡laszt a kÃ©rdÃ©seimre!}
+{247}{}{Most az egyszer tÃ¡vozom...}
 {248}{lyn026}{The archives are stored within our vault. Only Citizens have access to them... they are
  NOT for Outsiders.}
-{249}{}{Remek. Hol találom a Felvigyázót? Rákérdeznék nála erre az adattárra.}
-{250}{}{De hát én jogosult Polgár vagyok.}
-{251}{}{Hogy lesz a magukfajtából Menedéklakó?}
-{252}{}{Hogy válhatok teljes jogú Polgárrá?}
-{253}{}{Eleget hallottam. Minden jót!}
-{254}{lyn027}{Mi már nem tekintjük magunkat "Menedéklakóknak"... mi már régóta Polgárok vagyunk. Ha a közösségünk részévé akar válni, elõször is bizonyítania kell a rátermettségét.}
-{255}{}{Hogy bizonyítsam be a rátermettségemet?}
-{256}{}{Az elsõ Menedéklakó leszármazottja vagyok - ha ez nem elég, akkor semmi.}
-{257}{}{Még gondolkodom efelõl. Viszlát!}
-{258}{lyn028}{Félreért engem... nem a világra, hanem a benne élõ emberekre gondoltam. Nézzen körül - e falakon belül található minden, ami megmarad a háború elõttrõl.}
-{259}{}{Hol találom a Felvigyázót? Beszélnem kell vele.}
-{260}{}{Nem helyes, hogy így gondolkodik. A maga felelõssége, hogy mindenkin segítsen... nem csak azokon, akik e falakon belül élnek.}
-{261}{}{Ah... értem. Köszönöm, hogy idõt szakított rám. Viszontlátásra.}
-{262}{lyn029}{Maguk Kívülállók aztán leckét vehetnének "felelõsségtudatból". Folyton segítségért ácsingóznak, de hogy maguk tennének saját magukért valamit, az már smafu. A beszélgetésünk ezennel véget ért... most pedig távozzék, mielõtt szólítom az õrséget.}
-{263}{}{Akkor szólítsa csak az õrséget, mert több lehetõsége úgysem lesz rá.}
-{264}{}{Addig nem megyek sehova, amíg elém nem hozza a Felvigyázót!}
+{249}{}{Remek. Hol talÃ¡lom a FelvigyÃ¡zÃ³t? RÃ¡kÃ©rdeznÃ©k nÃ¡la erre az adattÃ¡rra.}
+{250}{}{De hÃ¡t nekem PolgÃ¡ri jogaim vannak.}
+{251}{}{Hogy lesz a magukfajtÃ¡bÃ³l MenedÃ©klakÃ³?}
+{252}{}{Mit kell tennem, hogy PolgÃ¡r lehessek?}
+{253}{}{Eleget hallottam. Minden jÃ³t!}
+{254}{lyn027}{Mi mÃ¡r nem tekintjÃ¼k magunkat "MenedÃ©klakÃ³knak"... mi mÃ¡r rÃ©gÃ³ta PolgÃ¡rok vagyunk. Ha a kÃ¶zÃ¶ssÃ©gÃ¼nk rÃ©szÃ©vÃ© akar vÃ¡lni, elÅ‘szÃ¶r is bizonyÃ­tania kell a rÃ¡termettsÃ©gÃ©t.}
+{255}{}{Hogy bizonyÃ­tsam be a rÃ¡termettsÃ©gemet?}
+{256}{}{Az elsÅ‘ MenedÃ©klakÃ³ leszÃ¡rmazottja vagyok - ha ez nem elÃ©g, akkor semmi.}
+{257}{}{MÃ©g gondolkodom efelÅ‘l. ViszlÃ¡t!}
+{258}{lyn028}{FÃ©lreÃ©rt engem... nem a vilÃ¡gra, hanem a benne Ã©lÅ‘ emberekre gondoltam. NÃ©zzen kÃ¶rÃ¼l - e falakon belÃ¼l talÃ¡lhatÃ³ minden, ami megmarad a hÃ¡borÃº elÅ‘ttrÅ‘l.}
+{259}{}{Hol talÃ¡lom a FelvigyÃ¡zÃ³t? BeszÃ©lnem kell vele.}
+{260}{}{Nem helyes, hogy Ã­gy gondolkodik. A maga felelÅ‘ssÃ©ge, hogy mindenkin segÃ­tsen... nem csak azokon, akik e falakon belÃ¼l Ã©lnek.}
+{261}{}{Ah... Ã©rtem. KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m. ViszontlÃ¡tÃ¡sra.}
+{262}{lyn029}{Maguk KÃ­vÃ¼lÃ¡llÃ³k aztÃ¡n leckÃ©t vehetnÃ©nek "felelÅ‘ssÃ©gtudatbÃ³l". Folyton segÃ­tsÃ©gÃ©rt Ã¡csingÃ³znak, de hogy maguk tennÃ©nek sajÃ¡t magukÃ©rt valamit, az mÃ¡r smafu. A beszÃ©lgetÃ©sÃ¼nk ezennel vÃ©get Ã©rt... most pedig tÃ¡vozzÃ©k, mielÅ‘tt szÃ³lÃ­tom az Å‘rsÃ©get.}
+{263}{}{Akkor szÃ³lÃ­tsa csak az Å‘rsÃ©get, mert tÃ¶bb lehetÅ‘sÃ©ge Ãºgysem lesz rÃ¡.}
+{264}{}{Addig nem megyek sehova, amÃ­g elÃ©m nem hozza a FelvigyÃ¡zÃ³t!}
 {265}{}{Most az egyszer... elmegyek.}
-{266}{}{Nagyon jó. Köszönöm, hogy beszélhettünk. Viszlát!}
-{267}{lyn030}{Nem tudom mire vélni ezt az "elsõ Menedéklakó" dolgot. Létezik egy másik Menedék is? Soha nem voltunk kapcsolatban másik Menedékekkel! Hol található?}
-{268}{}{Úgy tudom, hogy EZ volt az a Menedék, ahonnan az õsöm is származik.}
-{269}{}{Nem élek Menedékben. Egy nyugati törzs gyermeke vagyok.}
-{270}{}{Hát nem is tudom... próbálom megtalálni azt a Menedéket, amelybõl az õsöm is származik.}
-{271}{}{Ha rátaláltam, értesíteni fogom. Addig is viszlát!}
-{272}{lyn031}{120 évvel ezelõtt elhagytuk a Menedéket, és a saját Éden Táskánkkal belefogtunk Menedékváros felépítésébe. Tíz évvel késõbb a Felvigyázó visszavonult és rövidesen megalakult a Polgári Tanács, amely kis idõ múlva bevezette az Elsõ Polgár intézményét.}
-{273}{}{Említette az ÉLET-et. Nem volna véletlenül még egy a számomra?}
-{274}{}{Akkor tehát maga a város vezetõje?}
-{275}{}{120 éve? Az hetven évvel korábban volt, mint ahogy a Menedéklakó móresre tanította a Mestert. Ez a Menedék úgy látszik nem az a Menedék, amit én keresek.}
-{276}{}{Értem. Viszlátásra.}
-{277}{lyn032}{Pontosan így van... én vagyok Menedékváros Elsõ Polgára.}
-{278}{}{Elsõ Polgár, sürgõs kérésem lenne. A falumnak égetõen szüksége lenne egy Édenkert Létesítést Elõsegítõ Táskára. Nincs maguknak egy tartalék, amit felhasználhatnék?}
-{279}{}{Akkor maga az, akit keresek. Arroyói testvéreim nevében érkeztem, hogy benyújtsam igényünket a minket jogosan megilletõ szent ÉLET-re.}
-{280}{}{Értem. Köszönöm, hogy beszélt velem. Viszlátásra.}
-{281}{lyn033}{Mirõl beszél? A Felvigyázó nagyszerû, feddhetetlen ember volt. Tanításai, és bölcsessége a mai napig meghatározzák a tananyagunkat.}
-{282}{}{Hát ezek után van rá esély, hogy õ nem a Menedéklakó által ismert Felvigyázó.}
-{283}{}{Miután a Menedéket megmentette, a Felvigyázó elzavarta a Menedéklakót. Miféle dolog ez?}
-{284}{}{Akkor tudatlanságban nõttek fel. Ne pazarolja az idõmet, asszony! Hozzon ide valakit, aki segíteni tud nekem!}
-{285}{}{Akkor tudatlanságban nõttek fel. Ne pazarolja az idõmet! Hozzon ide valakit, aki segíteni tud nekem!}
-{286}{}{Hát ez bizony nem túl szerencsés eset. Na, viszlát!}
-{287}{lyn034a}{Beszéljen Gregory Fõbiztos úrral. Õ jogosult az állampolgársági tesztet levezetni. Lejjebb a folyosón megtalálja õt a tárgyalóteremben.}
-{288}{lyn034b}{Illetve... van még egy MÁSIK mód, hogy jogosult Polgárrá váljon.}
-{289}{}{Mégpedig?}
-{290}{}{Azt hiszem, beszélek a Fõbiztossal. Késõbb találkozunk.}
-{291}{}{Akkor beszélek a Fõbiztos úrral.}
-{292}{}{Megyek és beszélek Gregory-val. Köszönöm, hogy idõt szakított rám, Elsõ Polgár.}
-{293}{lyn035}{Aligha hinném. Ebben a században végig a Menedéken kívül éltünk, és soha senki nem akart innen elmenni. Mellesleg régen volt két Polgárunk, akiket számûznünk kellett innen... ezzel bûnhõdtek a tetteikért.}
-{294}{}{Tehát maguk HAJÍTOTTÁK KI a Menedéklakót! Azért jöttem, ami jogosan megillet bennünket!}
-{295}{}{Mit követett el az a két Polgár?}
-{296}{}{Ha nem ez a keresett Menedék, akkor meg kell találnom azt, ahonnan az õsöm származik.}
-{297}{}{Mennem kell. Viszlát!}
-{298}{lyn036a}{Falut mondott? De hát Menedékruhát visel... mi-miféle faluról beszél? Ne kerteljen! A türelmemnek is van határa.}
-{299}{lyn036b}{Falut mondott? Elõször még azt állította, hogy egy Menedékbõl jön, most meg egy faluból? Most akkor melyikbõl? Ne handabandázzon itt nekem, mert kijövök a sodromból!}
-{300}{}{Várjon, félreért engem. A Menedéklakó a falum alapítója volt.}
-{301}{}{Az én türelmemnek talán nincs határa, asszony??? Na, hozzon ide gyorsan valaki mást... valakit, aki segíthet nekem.}
-{302}{}{Az én türelmemnek talán nincs határa, asszony??? Na, hozzon ide gyorsan valaki mást... valakit, aki segíthet nekem.}
-{303}{}{Azt hiszem, majd késõbb visszajövök. Minden jót!}
-{304}{lyn037}{Aha... most már értem. Ellenben miféle bizonyítéka van, hogy az Õse egy Menedékbõl származik?}
-{305}{}{A legendák, melyeket a falunk törzsfõje hagyott rám, azok bizonyítják.}
-{306}{}{A Menedéklakó szent ereklyéit birtoklom... ezt a Menedékruhát és ezt a szent flaskát.}
-{307}{}{Nálam van ez a Menedék-kezeslábas és ez a kulacs. Mindkettõ az õsömé volt.}
-{308}{}{Fárasztanak a kérdései. Megyek, és keresek valaki mást, aki segíteni tud nekem.}
-{309}{}{Mennem kell. Viszlát!}
-{310}{lyn038}{Hmm... talán az adattárunk tartalmaz némi információt a maga Menedékérõl.}
-{311}{}{Hát... esetleg megnézhetnénk?}
-{312}{}{Elsõ Polgár, nagyon fontos lenne számomra, hogy megtaláljam az õsöm Menedékét. Nagyon hálás lennék, ha vethetnék egy pillantást az adattárra.}
-{313}{}{Hmmmm. Köszönöm a tájékoztatást. Viszontlátásra.}
-{314}{lyn039}{Sajnálom, de a miénket felhasználtuk Menedékváros építésekor. Nem hinném, hogy volna tartalék, de azért nyugodtan keresse csak fel a Beszerzési Irodánkat, melyet a menedékünk bejáratánál talál meg.}
-{315}{}{Nagyszerû! Kérdezhetek még valamit?}
-{316}{}{Nem tudja esetleg, hol találhatnám meg a 13-as Menedéket?}
-{317}{}{Nagyszerû! Már megyek is oda. Minden jót!}
-{318}{lyn040}{Egy koszos menedékruha és egy ütött-kopott kulacs? Ez volna a bizonyíték? Ki tudja, hol guberálta ezeket a "relikviákat"... vagy éppen kit ölt meg érte.}
-{319}{}{Kérem... nézze meg õket újra. Ezek egyediek!}
-{320}{}{Ronggyá jártam a lábam, mire elértem idáig! Legalább nézze meg õket, jóasszony!}
-{321}{}{Ronggyá jártam a lábam, mire elértem idáig! Legalább nézze meg õket!}
-{322}{}{Ha ez nem elég, hogy meggyõzze magát, akkor nincs mirõl beszélnünk. Viszlát!}
-{323}{lyn041a}{Van valami halvány fogalma arról, milyen elfoglalt ember vagyok? Én vezetem ezt a várost, és nem sok idõm van a maga légbõlkapott igényeivel foglalkozni!}
-{324}{lyn041b}{Van valami halvány fogalma arról, milyen elfoglalt ember vagyok? Én vezetem ezt a várost, és nem sok idõm van magával foglalkozni!}
-{325}{lyn041c}{Most pedig azonnal távozzék, vagy hívom az õrséget!}
-{326}{}{Hajrá, hívja csak õket! Nem fognak ideérni, hogy megmentsék az életét!}
-{327}{}{Rendben. Már megyek is.}
-{328}{}{Rendben van, Elsõ Polgár. Viszontlátásra.}
-{329}{lyn042}{Törzsi legendáknak higgyek? A törzsi mítosznál valami hihetõbbet is elõáshatna, ha azt akarja, hogy higgyenek magának.}
-{330}{}{De hát nálam vannak a Menedéklakó szent ereklyéi... a Menedékruha, és ez a szent flaska.}
-{331}{}{Nálam van ez a Menedék-kezeslábas és ez a kulacs. Mindkettõ az õsömé volt.}
-{332}{}{Ha nem hisz a szavamnak, mit csináljak, hogy bebizonyítsam a származásomat?}
-{333}{}{Rendben. Már megyek is.}
-{334}{}{Nagyon jó, akkor nincs mirõl beszélnünk. Minden jót, Elsõ Polgár!}
-{335}{lyn043}{Ránézhetnénk a Menedékbeli számítógépekre. Van rá esély, hogy megtalálja bennük a keresett információt, viszont a számítógépeket csak Polgárok használhatják.}
-{336}{}{De hát én jogosult Polgár vagyok.}
-{337}{}{Van rá mód, hogy jogosult Polgár legyek?}
-{338}{}{Akkor megint elhagyott a szerencsém... Viszlát!}
-{339}{lyn044}{A teszt kitöltése helyett egy sokkal, hogyismondjam csak... kifinomultabb módon is bebizonyíthatja a Menedékekhez való elkötelezettségét. Kívülállóként abban a kivételes helyzetben van, hogy pontot tehet egy... számunkra igen kellemetlen szituáció végére.}
-{340}{}{Miféle szituációról van szó?}
-{341}{}{Mi sem természetesebb ennél. Bármi is kell a Menedéknek, kötelességemnek érzem, hogy segítsek.}
-{342}{}{Hát nem tudom... ez az Állampolgársági teszt nem szabványeljárás?}
-{343}{}{Nem hinném, hogy én vagyok a legmegfelelõbb a feladatra... viszlát!}
-{344}{}{Nem, köszönöm, most már tényleg indulnom kéne. Legyen jó napja, Elsõ Polgár.}
-{345}{lyn045}{Mindkettõ gyilkos volt. Boyarsky-t tíz évvel ezelõtt számûztük, Richard Moreau-t pedig röviddel azután, hogy elhagytuk a Menedéket. Polgárnak lenni bizalmi kérdés - a bûncselekményeket pedig nem tûrjük e falakon belül.}
-{346}{}{Ha nem ez a keresett Menedék, akkor meg kell találnom azt, ahonnan az õsöm származik.}
-{347}{}{Hogyan lesz valakibõl Polgár?}
-{348}{}{Eleget hallottam, most már mennem kell.}
-{349}{}{Értem. Azért köszönöm, hogy idõt szakított rám, Elsõ Polgár. Minden jót magának.}
-{350}{lyn046}{Mirõl beszél? Valami félreértés lesz. Akármilyen "Menedéklakót" is emleget itt nekem, egy másik Menedékbõl származik, nem innen.}
-{351}{}{Ha ez igaz, akkor meg kell találnom azt a másik Menedéket.}
-{352}{}{Hazudik! EZ az a menedék, ahonnan az õsöm származik!}
-{353}{}{Meglehet. Kösz, hogy beszélt velem. Viszlátásra.}
-{354}{lyn047}{Van egy város... már ha városnak lehetne nevezni... tõlünk észak-kelet felé. Tele van afféle... teremtményekkel, amik veszélyes sugárzással szennyezik a talajvizet.}
-{355}{}{Hogy képesek mérgezni a talajvizet?}
-{356}{}{Mit csináljak velük?}
-{357}{}{Most, hogy jobban meggondolom, ez nem olyan dolog, ami felkeltené az érdeklõdésemet. Viszlát!}
-{358}{lyn048}{Iktassa ki az erõmûvüket, egyszer s mindenkorra! Akkor nem tudnak többet ártani.}
-{359}{}{Elég könnyûnek tûnik. Visszajövök, ha a szituációt... "megoldottam".}
-{360}{}{Egész pontosan hogy szivárog a sugárzás abból az erõmûbõl?}
-{361}{}{Hadd gondolkozzam rajta. Késõbb visszajövök.}
-{362}{lyn049}{Azok a... lények... egy sérült atomerõmûvet mûködtetnek. Immunisak a sugárzásra... nem érdekli õket, hogy szép lassan kiirtanak minket a mérgükkel.}
-{363}{}{Elsimítjuk a problémát. Visszajövök, ha a szituációt... "megoldottam".}
-{364}{}{Úgy tûnik, a világ nevében cselekszenek. Találjon magának másik "Kívülállót", hogy a piszkos munkát elvégezze.}
-{365}{}{Ezt még jól át kell gondolnom. Késõbb visszajövök.}
-{366}{lyn050}{Hát nézzük csak... Nahát... ezek eredetiek! Hihetetlen... egy másik Menedék túlélõjéhez van szerencsém! Üdvözlet a Városunkban... rengeteget szenvedhetett a külvilágban.}
-{367}{}{Meg kell találnom a Menedéket, ahonnan a népem származik.}
-{368}{}{Szükségem van egy Édenkert Táskára. Van maguknak?}
-{369}{}{Ó, tehát most már szívesen látott vendég vagyok? Felejtse el... már tûnök is innen.}
+{266}{}{Nagyon jÃ³. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lhettÃ¼nk. ViszlÃ¡t!}
+{267}{lyn030}{Nem tudom mire vÃ©lni ezt az "elsÅ‘ MenedÃ©klakÃ³" dolgot. LÃ©tezik egy mÃ¡sik MenedÃ©k is? Soha nem voltunk kapcsolatban mÃ¡sik MenedÃ©kekkel! Hol talÃ¡lhatÃ³?}
+{268}{}{Ãšgy tudom, hogy EZ volt az a MenedÃ©k, ahonnan az Å‘sÃ¶m is szÃ¡rmazik.}
+{269}{}{Nem Ã©lek MenedÃ©kben. Egy nyugati tÃ¶rzs gyermeke vagyok.}
+{270}{}{HÃ¡t nem is tudom... prÃ³bÃ¡lom megtalÃ¡lni azt a MenedÃ©ket, amelybÅ‘l az Å‘sÃ¶m is szÃ¡rmazik.}
+{271}{}{Ha rÃ¡talÃ¡ltam, Ã©rtesÃ­teni fogom. Addig is viszlÃ¡t!}
+{272}{lyn031}{120 Ã©vvel ezelÅ‘tt elhagytuk a MenedÃ©ket, Ã©s a sajÃ¡t Ã‰den TÃ¡skÃ¡nkkal belefogtunk MenedÃ©kvÃ¡ros felÃ©pÃ­tÃ©sÃ©be. TÃ­z Ã©vvel kÃ©sÅ‘bb a FelvigyÃ¡zÃ³ visszavonult Ã©s rÃ¶videsen megalakult a PolgÃ¡ri TanÃ¡cs, amely kis idÅ‘ mÃºlva bevezette az ElsÅ‘ PolgÃ¡r intÃ©zmÃ©nyÃ©t.}
+{273}{}{EmlÃ­tette az Ã‰LET-et. Nem volna vÃ©letlenÃ¼l mÃ©g egy a szÃ¡momra?}
+{274}{}{Akkor tehÃ¡t maga a vÃ¡ros vezetÅ‘je?}
+{275}{}{120 Ã©ve? Az hetven Ã©vvel korÃ¡bban volt, mint ahogy a MenedÃ©klakÃ³ mÃ³resre tanÃ­totta a Mestert. Ez a MenedÃ©k Ãºgy lÃ¡tszik nem az a MenedÃ©k, amit Ã©n keresek.}
+{276}{}{Ã‰rtem. ViszlÃ¡tÃ¡sra.}
+{277}{lyn032}{Pontosan Ã­gy van... Ã©n vagyok MenedÃ©kvÃ¡ros ElsÅ‘ PolgÃ¡ra.}
+{278}{}{ElsÅ‘ PolgÃ¡r, sÃ¼rgÅ‘s kÃ©rÃ©sem lenne. A falumnak Ã©getÅ‘en szÃ¼ksÃ©ge lenne egy Ã‰denkert LÃ©tesÃ­tÃ©st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡ra. Nincs maguknak egy tartalÃ©k, amit felhasznÃ¡lhatnÃ©k?}
+{279}{}{Akkor maga az, akit keresek. ArroyÃ³i testvÃ©reim nevÃ©ben Ã©rkeztem, hogy benyÃºjtsam igÃ©nyÃ¼nket a minket jogosan megilletÅ‘ szent Ã‰LET-re.}
+{280}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lt velem. ViszlÃ¡tÃ¡sra.}
+{281}{lyn033}{MirÅ‘l beszÃ©l? A FelvigyÃ¡zÃ³ nagyszerÅ±, feddhetetlen ember volt. TanÃ­tÃ¡sai, Ã©s bÃ¶lcsessÃ©ge a mai napig meghatÃ¡rozzÃ¡k a tananyagunkat.}
+{282}{}{HÃ¡t ezek utÃ¡n van rÃ¡ esÃ©ly, hogy Å‘ nem a MenedÃ©klakÃ³ Ã¡ltal ismert FelvigyÃ¡zÃ³.}
+{283}{}{MiutÃ¡n a MenedÃ©ket megmentette, a FelvigyÃ¡zÃ³ elzavarta a MenedÃ©klakÃ³t. MifÃ©le dolog ez?}
+{284}{}{Akkor tudatlansÃ¡gban nÅ‘ttek fel. Ne pazarolja az idÅ‘met, asszony! Hozzon ide valakit, aki segÃ­teni tud nekem!}
+{285}{}{Akkor tudatlansÃ¡gban nÅ‘ttek fel. Ne pazarolja az idÅ‘met! Hozzon ide valakit, aki segÃ­teni tud nekem!}
+{286}{}{HÃ¡t ez bizony nem tÃºl szerencsÃ©s eset. Na, viszlÃ¡t!}
+{287}{lyn034a}{BeszÃ©ljen Gregory FÅ‘biztos Ãºrral. Å jogosult az Ã¡llampolgÃ¡rsÃ¡gi tesztet levezetni. Lejjebb a folyosÃ³n megtalÃ¡lja Å‘t a tÃ¡rgyalÃ³teremben.}
+{288}{lyn034b}{Illetve... van mÃ©g egy MÃSIK mÃ³d, hogy jogosult PolgÃ¡rrÃ¡ vÃ¡ljon.}
+{289}{}{MÃ©gpedig?}
+{290}{}{Azt hiszem, beszÃ©lek a FÅ‘biztossal. KÃ©sÅ‘bb talÃ¡lkozunk.}
+{291}{}{Akkor beszÃ©lek a FÅ‘biztos Ãºrral.}
+{292}{}{Megyek Ã©s beszÃ©lek Gregory-val. KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m, ElsÅ‘ PolgÃ¡r.}
+{293}{lyn035}{Aligha hinnÃ©m. Ebben a szÃ¡zadban vÃ©gig a MenedÃ©ken kÃ­vÃ¼l Ã©ltÃ¼nk, Ã©s soha senki nem akart innen elmenni. Mellesleg rÃ©gen volt kÃ©t PolgÃ¡runk, akiket szÃ¡mÅ±znÃ¼nk kellett innen... ezzel bÅ±nhÅ‘dtek a tetteikÃ©rt.}
+{294}{}{TehÃ¡t maguk HAJÃTOTTÃK KI a MenedÃ©klakÃ³t! AzÃ©rt jÃ¶ttem, ami jogosan megillet bennÃ¼nket!}
+{295}{}{Mit kÃ¶vetett el az a kÃ©t PolgÃ¡r?}
+{296}{}{Ha ez nem a keresett MenedÃ©k, akkor indulnom kell, hogy megtalÃ¡ljam, honnan szÃ¡rmazik az Å‘sÃ¶m.}
+{297}{}{Mennem kell. ViszlÃ¡t!}
+{298}{lyn036a}{Falut mondott? De hÃ¡t MenedÃ©kruhÃ¡t visel... mi-mifÃ©le falurÃ³l beszÃ©l? Ne kerteljen! A tÃ¼relmemnek is van hatÃ¡ra.}
+{299}{lyn036b}{Falut mondott? ElÅ‘szÃ¶r mÃ©g azt Ã¡llÃ­totta, hogy egy MenedÃ©kbÅ‘l jÃ¶n, most meg egy falubÃ³l? Most akkor melyikbÅ‘l? Ne handabandÃ¡zzon itt nekem, mert kijÃ¶vÃ¶k a sodrombÃ³l!}
+{300}{}{VÃ¡rjon, fÃ©lreÃ©rt engem. A MenedÃ©klakÃ³ a falum alapÃ­tÃ³ja volt.}
+{301}{}{Az Ã©n tÃ¼relmemnek talÃ¡n nincs hatÃ¡ra, asszony??? Na, hozzon ide gyorsan valaki mÃ¡st... valakit, aki segÃ­thet nekem.}
+{302}{}{Az Ã©n tÃ¼relmemnek talÃ¡n nincs hatÃ¡ra, asszony??? Na, hozzon ide gyorsan valaki mÃ¡st... valakit, aki segÃ­thet nekem.}
+{303}{}{Azt hiszem, majd kÃ©sÅ‘bb visszajÃ¶vÃ¶k. Minden jÃ³t!}
+{304}{lyn037}{Aha... most mÃ¡r Ã©rtem. Ellenben mifÃ©le bizonyÃ­tÃ©ka van, hogy az Åse egy MenedÃ©kbÅ‘l szÃ¡rmazik?}
+{305}{}{A legendÃ¡k, melyeket a falunk tÃ¶rzsfÅ‘je hagyott rÃ¡m, azok bizonyÃ­tjÃ¡k.}
+{306}{}{A MenedÃ©klakÃ³ szent ereklyÃ©it birtoklom... ezt a MenedÃ©kruhÃ¡t Ã©s ezt a szent flaskÃ¡t.}
+{307}{}{Itt van ez a MenedÃ©k-kezeslÃ¡bas meg ez a kulacs. MindkettÅ‘ az Å‘sÃ¶mÃ© volt.}
+{308}{}{FÃ¡rasztanak a kÃ©rdÃ©sei. Megyek, Ã©s keresek valaki mÃ¡st, aki segÃ­teni tud nekem.}
+{309}{}{Mennem kell. ViszlÃ¡t!}
+{310}{lyn038}{Hmm... talÃ¡n az adattÃ¡runk tartalmaz nÃ©mi informÃ¡ciÃ³t a maga MenedÃ©kÃ©rÅ‘l.}
+{311}{}{HÃ¡t... esetleg megnÃ©zhetnÃ©nk?}
+{312}{}{ElsÅ‘ PolgÃ¡r, nagyon fontos lenne szÃ¡momra, hogy megtalÃ¡ljam az Å‘sÃ¶m MenedÃ©kÃ©t. Nagyon hÃ¡lÃ¡s lennÃ©k, ha vethetnÃ©k egy pillantÃ¡st az adattÃ¡rra.}
+{313}{}{Hmmmm. KÃ¶szÃ¶nÃ¶m a tÃ¡jÃ©koztatÃ¡st. ViszontlÃ¡tÃ¡sra.}
+{314}{lyn039}{SajnÃ¡lom, de a miÃ©nket felhasznÃ¡ltuk MenedÃ©kvÃ¡ros Ã©pÃ­tÃ©sekor. Nem hinnÃ©m, hogy volna tartalÃ©k, de azÃ©rt nyugodtan keresse csak fel a BeszerzÃ©si IrodÃ¡nkat, melyet a menedÃ©kÃ¼nk bejÃ¡ratÃ¡nÃ¡l talÃ¡l meg.}
+{315}{}{KÃ¶szÃ¶nÃ¶m. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{316}{}{Nem tudja esetleg, hol talÃ¡lhatnÃ¡m meg a 13-as MenedÃ©ket?}
+{317}{}{NagyszerÅ±! MÃ¡r megyek is oda. Minden jÃ³t!}
+{318}{lyn040}{Egy koszos menedÃ©kruha Ã©s egy Ã¼tÃ¶tt-kopott kulacs? Ez volna a bizonyÃ­tÃ©k? Ki tudja, hol guberÃ¡lta ezeket a "relikviÃ¡kat"... vagy Ã©ppen kit Ã¶lt meg Ã©rte.}
+{319}{}{KÃ©rem... nÃ©zze meg Å‘ket Ãºjra. Ezek egyediek!}
+{320}{}{RonggyÃ¡ jÃ¡rtam a lÃ¡bam, mire elÃ©rtem idÃ¡ig! LegalÃ¡bb nÃ©zze meg Å‘ket, jÃ³asszony!}
+{321}{}{RonggyÃ¡ jÃ¡rtam a lÃ¡bam, mire elÃ©rtem idÃ¡ig! LegalÃ¡bb nÃ©zze meg Å‘ket!}
+{322}{}{Ha ez nem elÃ©g, hogy meggyÅ‘zze magÃ¡t, akkor nincs mirÅ‘l beszÃ©lnÃ¼nk. ViszlÃ¡t!}
+{323}{lyn041a}{Van valami halvÃ¡ny fogalma arrÃ³l, milyen elfoglalt ember vagyok? Ã‰n vezetem ezt a vÃ¡rost, Ã©s nem sok idÅ‘m van a maga lÃ©gbÅ‘lkapott igÃ©nyeivel foglalkozni!}
+{324}{lyn041b}{Van valami halvÃ¡ny fogalma arrÃ³l, milyen elfoglalt ember vagyok? Ã‰n vezetem ezt a vÃ¡rost, Ã©s nem sok idÅ‘m van magÃ¡val foglalkozni!}
+{325}{lyn041c}{Akkor most tÃ¡vozzon szÃ©pen, vagy hÃ­vom az Å‘rÃ¶ket!}
+{326}{}{HajrÃ¡, hÃ­vja csak Å‘ket! Nem fognak ideÃ©rni, hogy megmentsÃ©k az Ã©letÃ©t!}
+{327}{}{Rendben. MÃ¡r itt sem vagyok!}
+{328}{}{JÃ³l van, ElsÅ‘ PolgÃ¡r. ViszonlÃ¡tÃ¡s!}
+{329}{lyn042}{TÃ¶rzsi legendÃ¡knak higgyek? A tÃ¶rzsi mÃ­tosznÃ¡l valami hihetÅ‘bbet is elÅ‘Ã¡shatna, ha azt akarja, hogy higgyenek magÃ¡nak.}
+{330}{}{De hÃ¡t nÃ¡lam vannak a MenedÃ©klakÃ³ szent ereklyÃ©i... a MenedÃ©kruha, Ã©s ez a szent flaska.}
+{331}{}{Itt van ez a MenedÃ©k-kezeslÃ¡bas meg ez a kulacs. MindkettÅ‘ az Å‘sÃ¶mÃ© volt.}
+{332}{}{Ha nem hisz a szavamnak, mit csinÃ¡ljak, hogy bebizonyÃ­tsam a szÃ¡rmazÃ¡somat?}
+{333}{}{Rendben. MÃ¡r itt sem vagyok!}
+{334}{}{Nagyon jÃ³, akkor nincs mirÅ‘l beszÃ©lnÃ¼nk. Minden jÃ³t, ElsÅ‘ PolgÃ¡r!}
+{335}{lyn043}{RÃ¡nÃ©zhetnÃ©nk a MenedÃ©kbeli szÃ¡mÃ­tÃ³gÃ©pekre. Van rÃ¡ esÃ©ly, hogy megtalÃ¡lja bennÃ¼k a keresett informÃ¡ciÃ³t, viszont a szÃ¡mÃ­tÃ³gÃ©peket csak PolgÃ¡rok hasznÃ¡lhatjÃ¡k.}
+{336}{}{De hÃ¡t nekem PolgÃ¡ri jogaim vannak.}
+{337}{}{Van rÃ¡ mÃ³d, hogy jogosult PolgÃ¡r legyek?}
+{338}{}{Akkor megint elhagyott a szerencsÃ©m... ViszlÃ¡t!}
+{339}{lyn044}{A teszt kitÃ¶ltÃ©se helyett egy sokkal, hogyismondjam csak... kifinomultabb mÃ³don is bebizonyÃ­thatja a MenedÃ©kekhez valÃ³ elkÃ¶telezettsÃ©gÃ©t. KÃ­vÃ¼lÃ¡llÃ³kÃ©nt abban a kivÃ©teles helyzetben van, hogy pontot tehet egy... szÃ¡munkra igen kellemetlen szituÃ¡ciÃ³ vÃ©gÃ©re.}
+{340}{}{MifÃ©le szituÃ¡ciÃ³rÃ³l van szÃ³?}
+{341}{}{Mi sem termÃ©szetesebb ennÃ©l. BÃ¡rmi is kell a MenedÃ©knek, kÃ¶telessÃ©gemnek Ã©rzem, hogy segÃ­tsek.}
+{342}{}{HÃ¡t nem tudom... ez az ÃllampolgÃ¡rsÃ¡gi teszt nem szabvÃ¡nyeljÃ¡rÃ¡s?}
+{343}{}{Nem hinnÃ©m, hogy Ã©n lennÃ©k a megfelelÅ‘ ember a feladatra... viszlÃ¡t!}
+{344}{}{Nem, kÃ¶szÃ¶nÃ¶m, most mÃ¡r tÃ©nyleg indulnom kÃ©ne. Legyen jÃ³ napja, ElsÅ‘ PolgÃ¡r.}
+{345}{lyn045}{MindkettÅ‘ gyilkos volt. Boyarsky-t tÃ­z Ã©vvel ezelÅ‘tt szÃ¡mÅ±ztÃ¼k, Richard Moreau-t pedig rÃ¶viddel azutÃ¡n, hogy elhagytuk a MenedÃ©ket. PolgÃ¡rnak lenni bizalmi kÃ©rdÃ©s - a bÅ±ncselekmÃ©nyeket pedig nem tÅ±rjÃ¼k e falakon belÃ¼l.}
+{346}{}{Ha ez nem a keresett MenedÃ©k, akkor indulnom kell, hogy megtalÃ¡ljam, honnan szÃ¡rmazik az Å‘sÃ¶m.}
+{347}{}{Hogyan lesz valakibÅ‘l PolgÃ¡r?}
+{348}{}{Eleget hallottam, most mÃ¡r mennem kell.}
+{349}{}{Ã‰rtem. AzÃ©rt kÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m, ElsÅ‘ PolgÃ¡r. Minden jÃ³t magÃ¡nak.}
+{350}{lyn046}{MirÅ‘l beszÃ©l? Valami fÃ©lreÃ©rtÃ©s lesz. AkÃ¡rmilyen "MenedÃ©klakÃ³t" is emleget itt nekem, egy mÃ¡sik MenedÃ©kbÅ‘l szÃ¡rmazik, nem innen.}
+{351}{}{Ha ez igaz, akkor meg kell talÃ¡lnom azt a mÃ¡sik MenedÃ©ket.}
+{352}{}{Hazudik! EZ az a menedÃ©k, ahonnan az Å‘sÃ¶m szÃ¡rmazik!}
+{353}{}{Meglehet. KÃ¶sz, hogy beszÃ©lt velem. ViszlÃ¡tÃ¡sra.}
+{354}{lyn047}{Van egy vÃ¡ros... mÃ¡r ha vÃ¡rosnak lehetne nevezni... tÅ‘lÃ¼nk Ã©szak-kelet felÃ©. Tele van affÃ©le... teremtmÃ©nyekkel, amik veszÃ©lyes sugÃ¡rzÃ¡ssal szennyezik a talajvizet.}
+{355}{}{Hogy kÃ©pesek mÃ©rgezni a talajvizet?}
+{356}{}{Mit csinÃ¡ljak velÃ¼k?}
+{357}{}{Most, hogy jobban meggondolom, ez nem olyan dolog, ami felkeltenÃ© az Ã©rdeklÅ‘dÃ©semet. ViszlÃ¡t!}
+{358}{lyn048}{Iktassa ki az erÅ‘mÅ±vÃ¼ket, egyszer s mindenkorra! Akkor nem tudnak tÃ¶bbet Ã¡rtani.}
+{359}{}{ElÃ©g kÃ¶nnyÅ±nek tÅ±nik. VisszajÃ¶vÃ¶k, ha a szituÃ¡ciÃ³t... "megoldottam".}
+{360}{}{EgÃ©sz pontosan hogy szivÃ¡rog a sugÃ¡rzÃ¡s abbÃ³l az erÅ‘mÅ±bÅ‘l?}
+{361}{}{Hadd gondolkozzam rajta. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{362}{lyn049}{Azok a... lÃ©nyek... egy sÃ©rÃ¼lt atomerÅ‘mÅ±vet mÅ±kÃ¶dtetnek. Immunisak a sugÃ¡rzÃ¡sra... nem Ã©rdekli Å‘ket, hogy szÃ©p lassan kiirtanak minket a mÃ©rgÃ¼kkel.}
+{363}{}{ElsimÃ­tjuk a problÃ©mÃ¡t. VisszajÃ¶vÃ¶k, ha a szituÃ¡ciÃ³t... "megoldottam".}
+{364}{}{Ãšgy tÅ±nik, a vilÃ¡g nevÃ©ben cselekszenek. TalÃ¡ljon magÃ¡nak mÃ¡sik "KÃ­vÃ¼lÃ¡llÃ³t", hogy a piszkos munkÃ¡t elvÃ©gezze.}
+{365}{}{Ezt mÃ©g jÃ³l Ã¡t kell gondolnom. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{366}{lyn050}{HÃ¡t nÃ©zzÃ¼k csak... NahÃ¡t... ezek eredetiek! Hihetetlen... egy mÃ¡sik MenedÃ©k tÃºlÃ©lÅ‘jÃ©hez van szerencsÃ©m! ÃœdvÃ¶zlet a VÃ¡rosunkban... rengeteget szenvedhetett a kÃ¼lvilÃ¡gban.}
+{367}{}{Meg kell talÃ¡lnom a MenedÃ©ket, ahonnan a nÃ©pem szÃ¡rmazik.}
+{368}{}{SzÃ¼ksÃ©gem van egy Ã‰denkert TÃ¡skÃ¡ra. Van maguknak?}
+{369}{}{Ã“, tehÃ¡t most mÃ¡r szÃ­vesen lÃ¡tott vendÃ©g vagyok? Felejtse el... mÃ¡r tÅ±nÃ¶k is innen.}
 {370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
-{371}{lyn051}{Felajánlom a lehetõséget, ami kevés Kívülállónak adatik meg. Megpróbálhatja a tesztet, ha óhajtja, de a szituáció megoldása sokkal kifizetõdöbb lehet. Megért engem?}
-{372}{}{Értem-értem. Miféle szituációról is van szó?}
-{373}{}{Értem én. Bármi is kell a Menedéknek, kötelességemnek érzem, hogy segítsek.}
-{374}{}{Nem hinném, hogy én vagyok a legmegfelelõbb a feladatra... viszlát!}
-{375}{}{Szerintem mennem kéne, de sürgõsen. Viszlátásra, Elsõ Polgár!}
-{376}{lyn052}{Ó... igen-igen. A Fõbiztos említette, hogy egy új Polgárral bõvültünk. Üdvözöljük, Polgártárs. Ami az adattárat illeti, igen... nos, a Menedékben található. Használja csak, ahogy jól esik.}
-{377}{}{Mielõtt átvizsgálnám az adattárat, szeretnék feltenni néhány újabb kérdést...}
-{378}{}{Esetleg volna egy ÉLET is raktáron?}
-{379}{}{Nagyszerû! Köszönöm.}
-{380}{}{Köszönöm, Elsõ Polgár.}
-{381}{lyn053a}{Igen? Miben segíthetek önnek?}
+{371}{lyn051}{FelajÃ¡nlom a lehetÅ‘sÃ©get, ami kevÃ©s KÃ­vÃ¼lÃ¡llÃ³nak adatik meg. MegprÃ³bÃ¡lhatja a tesztet, ha Ã³hajtja, de a szituÃ¡ciÃ³ megoldÃ¡sa sokkal kifizetÅ‘dÃ¶bb lehet. MegÃ©rt engem?}
+{372}{}{Ã‰rtem-Ã©rtem. MifÃ©le szituÃ¡ciÃ³rÃ³l is van szÃ³?}
+{373}{}{Ã‰rtem Ã©n. BÃ¡rmi is kell a MenedÃ©knek, kÃ¶telessÃ©gemnek Ã©rzem, hogy segÃ­tsek.}
+{374}{}{Nem hinnÃ©m, hogy Ã©n lennÃ©k a megfelelÅ‘ ember a feladatra... viszlÃ¡t!}
+{375}{}{Szerintem mennem kÃ©ne, de sÃ¼rgÅ‘sen. ViszlÃ¡tÃ¡sra, ElsÅ‘ PolgÃ¡r!}
+{376}{lyn052}{Ã“... igen-igen. A FÅ‘biztos emlÃ­tette, hogy egy Ãºj PolgÃ¡rral bÅ‘vÃ¼ltÃ¼nk. ÃœdvÃ¶zÃ¶ljÃ¼k, PolgÃ¡rtÃ¡rs. Ami az adattÃ¡rat illeti, igen... nos, a MenedÃ©kben talÃ¡lhatÃ³. HasznÃ¡lja csak, ahogy jÃ³l esik.}
+{377}{}{MielÅ‘tt Ã¡tvizsgÃ¡lnÃ¡m az adattÃ¡rat, szeretnÃ©k feltenni nÃ©hÃ¡ny Ãºjabb kÃ©rdÃ©st...}
+{378}{}{Esetleg volna egy Ã‰LET is raktÃ¡ron?}
+{379}{}{Nagyon jÃ³! KÃ¶sz!}
+{380}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r asszony.}
+{381}{lyn053a}{Igen? Miben segÃ­thetek Ã¶nnek?}
 {382}{lyn053b}{Igen? Mit akar?}
-{383}{}{Hönh?}
-{384}{}{Menelék! Menelék!}
-{385}{}{Furiszemûûû!}
-{386}{}{Hela-hela.}
-{387}{}{Lenne néhány kérdésem, amit megválaszolhatna.}
-{388}{}{Lenne néhány kérdésem, amit megválaszolhatna.}
-{389}{}{Hogy lesz valakibõl Menedékváros jogosult Polgára?}
-{390}{}{Újragondoltam a Polgárságra tett ajánlatát.}
-{391}{}{Térjünk vissza a gekkói erõmûre...}
-{392}{}{Van egy-két információm a várost zaklató rablókról.}
-{393}{}{Újabb információkat találtam azokról a rablókról, akik a várost zaklatták.}
-{394}{}{Találtam valamit Bishop széfjében, ami talán érdekelhetné magát.}
-{395}{}{Úgy hiszem, hogy Dr. Troy valami illegális dologba keveredett.}
+{383}{}{HÃ¶nh?}
+{384}{}{MenelÃ©k! MenelÃ©k!}
+{385}{}{FuriszemÅ±Å±Å±!}
+{386}{}{Szia-szia}
+{387}{}{Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem, amit megvÃ¡laszolhatna.}
+{388}{}{Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem, amit megvÃ¡laszolhatna.}
+{389}{}{Hogy lesz valakibÅ‘l MenedÃ©kvÃ¡ros jogosult PolgÃ¡ra?}
+{390}{}{Ãšjragondoltam a PolgÃ¡rsÃ¡gra tett ajÃ¡nlatÃ¡t.}
+{391}{}{TÃ©rjÃ¼nk vissza a gekkÃ³i erÅ‘mÅ±re...}
+{392}{}{Van egy-kÃ©t informÃ¡ciÃ³m a vÃ¡rost zaklatÃ³ rablÃ³krÃ³l.}
+{393}{}{Ãšjabb informÃ¡ciÃ³kat talÃ¡ltam azokrÃ³l a rablÃ³krÃ³l, akik a vÃ¡rost zaklattÃ¡k.}
+{394}{}{TalÃ¡ltam valamit Bishop szÃ©fjÃ©ben, ami talÃ¡n Ã©rdekelhetnÃ© magÃ¡t.}
+{395}{}{Ãšgy hiszem, hogy Dr. Troy valami illegÃ¡lis dologba keveredett.}
 {396}{}{I must speak with you on the delivery of that holodisk.}
 {397}{}{I've changed my mind. I will deliver that holodisk to the Counselor in the NCR.}
-{398}{}{Bocs, hogy zavartalak.}
-{399}{lyn054a}{Természetesen. Miben segíthetek, Polgártárs?}
-{400}{lyn054b}{Természetesen. Miben segíthetek, Kapitány?}
-{401}{}{Mit tudna elmondani nekem a városunkat idõrõl-idõre érõ rablótámadásokról?}
-{402}{}{A külvárosban belebotlottam Thomas Moore polgártársunkba. Õ kicsoda?}
-{403}{}{Nincs egy ÉLETED?}
-{404}{}{A 13-as Menedéket keresem.}
-{405}{}{Ez Menedékváros? Miért nem élnek Menedékben?}
-{406}{}{Miért támogatják a rabszolga-tartást?}
-{407}{}{Kösz, egyelõre elleszek magam is.}
-{408}{lyn055}{Egy nem jogosult Polgárhoz képest maga aztán elég sok idõmet elfoglalja.}
-{409}{}{De hát én jogosult Polgár vagyok!!!}
-{410}{}{Nincs egy ÉLETED?}
-{411}{}{A 13-as Menedéket keresem.}
-{412}{}{Mire van szükségem, ha netán helyi Polgár akarok lenni?}
-{413}{}{Ez Menedékváros? Miért nem élnek Menedékben?}
-{414}{}{Miért támogatják a rabszolga-tartást?}
-{415}{}{Vegye úgy, hogy nem szóltam. Viszlát!}
-{416}{lyn056}{Mi van már megint? Nincs idõm a marhaságaira!}
-{417}{}{Reménykedtem, hogy feltehetek egy újabb kérdést.}
-{418}{}{Bocsánatot kérek a korábbi kijelentéseimért, Elsõ Polgár. Reméltem, hogy feltehetek néhány kérdést Menedékvárossal kapcsolatban.}
-{419}{}{Tudja, vannak koffeinmentes termékek, amelyek ugyanolyan ízûek, mint az eredeti.}
-{420}{}{Senkit.}
-{421}{}{Elnézést, Elsõ Polgár. Bocsánat, hogy zavartam.}
-{422}{lyn057}{Micsoda? Hát nem intézte el õket?}
-{423}{}{Egy kicsit komplikáltabb az ügy, mint gondoltam. Azok a fickók nem egyszerû rablóbanda... hanem kõkemény zsoldosok.}
-{424}{}{Felejtse el. Viszlátásra.}
-{425}{lyn058}{Nem emlékszem, hogy elnyerte volna ezt a címet. Mutassa a papírjait!}
-{426}{}{Tessék. Minden rendben van vele.}
-{427}{}{Ööö... most nincsenek nálam a papírok.}
-{428}{}{A papírjaimat? Hát még ki sem állították. Nagyjából egy nap kell még, mire a maga íróasztalára kerül.}
-{429}{}{A papírjaimat? Hát még ki sem állították. Nagyjából egy nap kell még, mire a maga íróasztalára kerül.}
-{430}{lyn059}{Ne szórakozzon velem, "Polgártárs", különben teszek róla, hogy többet ne tehesse a lábát Menedékváros utcáira. Most pedig távozzék!}
-{431}{}{Semmi probléma... Mintha itt sem lettem volna. Viszlát!}
-{432}{}{Legyen jó napja, Elsõ Polgár.}
-{433}{lyn060}{BOLONDNAK néz engem? Errõl még én is megmondom, hogy hamisítvány! Ki adta magának ezeket a papírokat? Ha megmondja, magánál hagyom a Napi Belépõjét.}
-{434}{}{Egy Skeev nevû Polgár adta a fõkapunál.}
-{435}{}{Ööö... nem emlékszem.}
-{436}{}{Elõbb engem kell elkapnia!}
-{437}{lyn061}{Hmmmm... remek-remek. De nehogy idejöjjön nekem, amíg nincsenek meg a Polgárságra jogosító iratai! Minden jót magának!}
-{438}{}{Viszlát!}
-{439}{}{Legyen jó napja, Elsõ Polgár.}
-{440}{lyn062}{Ó, csakugyan? Ez akkor igazolja a gyanúmat. Menedékvárosi hozzáférését ezennel bevonom. Nyújtsa át a Napi Belépõt és az õrökkel irány a fõkapu!}
-{441}{}{Micsoda? Azt mondta, megtarthatom a Napi Belépõmet!}
-{442}{}{Nem megyek én sehova! Ha kell magának a Napi Belépõ, vegye el!}
-{443}{}{Rendben, már itt sem vagyok. Nem akarok itt bajt keverni.}
-{444}{lyn063}{Valóban? Ezek szerint véget vet a gekkói vízszennyezésnek? Minden szükséges eszköz bevetésével?}
-{445}{}{Igen, véget vetek... a Polgárságot bizonyító papírokért és a Menedékbeli számítógépek használatáért cserébe.}
-{446}{}{Nem, nem igazán. Csak meg akartam gyõzõdni, él-e még az ajánlat.}
-{447}{lyn064}{Nagyon jó. Jelentse, ha a munkát elvégezte, és megadom magának a Polgárságot bizonyító okmányokat.}
-{448}{}{Mielõtt mennék, kérdezhetek valamit?}
-{449}{}{Rendben. Ha a szituációt elboronáltam, visszajövök.}
-{450}{lyn065}{Megoldotta a szituációt?}
-{451}{}{Rájöttem, hogy nekik semmi másra nincs szükségük az erõmû hibátlan mûködéséhez, mint egy hidroelektromos magnetoszféra szabályzóra.}
-{452}{}{Az erõmûvet megsemmisítettem. A maguk helyében mostantól egy kicsit dél-nyugatabbra legeltetném a brahminjaikat.}
-{453}{}{Elboronáltam a gekkói erõmû kérdését. A szivárgással többet nem lesz gond, az biztos.}
-{454}{}{Nem, még nem. Még dolgozom rajta.}
-{455}{lyn066}{Akkor ne fecsérelje a drága idõmet! Akkor jöjjön vissza, ha van valami jelentenivalója!}
-{456}{}{Rendben. Késõbb visszajövök.}
-{457}{}{Nos rendben. Legyen jó napja, Elsõ Polgár.}
-{458}{lyn067a}{Ezek szerint NEM intézte el a problémát?}
-{459}{lyn067b}{Ha még igényt tart a Polgárságunkra, jobban teszi, ha mihamarabb utánanéz a dolgoknak.}
-{460}{}{Tehát maguknak Menedékvárosban megvan az alkatrész, amellyel meg lehet javítani a gekkói erõmûvet.}
-{461}{}{Rendben. Késõbb visszajövök.}
-{462}{}{Nos rendben. Legyen jó napja, Elsõ Polgár.}
-{463}{lyn068}{És mi van, ha igen? Ez csak egy átmeneti megoldás. Kérem, a problémát HOZZA RENDBE és ne az erõmûvüket. Érthetõen fejeztem ki magam?}
-{464}{}{Elsõ Polgár, nem akarok tiszteletlen lenni, de volna egy megoldás, amelynek segítségével a ghoul-ok megölése vagy az atomerõmûvük lekapcsolása nélkül is megoldhatnánk a problémájukat. Szóval, megkaphatnám az alkatrészt...?}
-{465}{}{Azt mondta, hogy javítsam meg az erõmûvet, nem volt szó Gekkó lemészárlásáról.}
-{466}{}{Kristálytiszta. Késõbb visszajövök.}
-{467}{}{Igen. Legyen jó napja, Elsõ Polgár.}
-{468}{lyn069a}{Mi ez a... teremtmény... itt magával? Ezek a... lények nem léphetik át a kapuinkat! Õrség! Vezessék ki a behatolókat a fõkapuhoz!}
-{469}{lyn069b}{Ó, csakugyan? Én úgy emlékszem, mintha azt állította volna, hogy ön Állampolgár nálunk. Magát többé nem engedjük be Menedékváros kapuin. Az õrök kikísérik a fõkapuhoz.}
-{470}{lyn069c}{Elegem van az oktalanságaiból! Többé nem akarom látni Menedékvároson belül. Az õrség kivezeti a kapuhoz.}
-{471}{}{Meghósz fényllõszemûûûû!}
-{472}{}{[Bólogatsz]}
-{473}{}{Nem szereti a barátomat, mi? Ez rossz hír, ugyanis õ szereti magát... finom mártásban.}
-{474}{}{Az õrség nem fog idõben ideérni, hogy megmentsék az életét... "Elsõ Polgárka."}
-{475}{}{Nem kell ide semmiféle õrség - megyek én magamtól is.}
-{476}{lyn070}{Micsoda? Megsemmisítette az erõmûvet? De hát a szennyezõdés! Maga IDIÓTA! Mondjuk az jó, hogy a ghoul-ok mind eltûntek... na kotródjon a szemem elõl.}
-{477}{}{Ejha! És mi a helyzet a Polgárságot bizonyító papírokkal, amit megígért?}
-{478}{}{Nézze, azt a pusztítást nem volt könnyû véghezvinni. Valami kompenzációra igényt tartok...}
-{479}{}{Rendben, rendben, már megyek is.}
-{480}{}{Jó napokat, Elsõ Polgár.}
-{481}{lyn071}{Ne szórakozzon velem, különben elintézem, hogy többé az életben ne tegye ide a lábát!}
-{482}{}{Nézzen magába, "Elsõ Polgár". Minden jót!}
-{483}{}{Legyen jó napja, Elsõ Polgár.}
-{484}{lyn072a}{Hát megcsinálta?!! Nagyszerû! Felbecsülhetetlen szolgálatot tett Menedékváros számára. Kérem, fogadja el ezt megbecsülésünk jeleként. Ha arra gondolok, hogy egy rakás fosztogató okozta azt a temérdek problémát...}
-{485}{lyn072b}{Kiváló. Pont azt kapták, amit megérdemeltek. Ha arra gondolok, hogy egy rakás fosztogató okozta azt a temérdek problémát...}
-{486}{}{Hát nem igazán fosztogatók voltak... hanem inkább zsoldosok.}
-{487}{lyn073}{Ezek szerint kiiktatta az erõmûvüket?}
-{488}{}{Nem, megjavítottam. McClure Tanácsos adta a szükséges alkatrészt, ami lehetõvé tette, hogy az erõmû most tökéletesen mûködjön.}
-{489}{}{Mindent elindéztem.}
-{490}{lyn074}{Micsoda? McClure ilyet tett? Gondolom, Polgári papírokat is kiállított magának! Gekkó erõmûvének megjavítása semmit nem old meg. Azok a... teremtmények! Nem lehet bennük bízni! Mi lesz, ha újra szivárogni kezd az erõmû?!}
-{491}{}{Nem tudom... talán SEGÍTENI kéne nekik megjavítani?}
-{492}{}{Nézze, a talajvíz többé nem szennyezõdik, és senki nem sérült meg. A probléma el van boronálva.}
-{493}{}{Majd visszajövök, ha lecsillapodott.}
-{494}{}{Mennem kell, Elõs Polgár. Viszlát!}
-{495}{lyn075}{Jobb, ha minden mozdulatára gondosan ügyel, "Polgártárs"! Figyelni fogom magát. Egy rossz lépés, és számûzzük innen.}
-{496}{}{Na, idefigyeljen! Senki nem fog engem fenyegetni, különösen nem egy ilyen bigott, karót nyelt lotyó. Azt tudja, hogy most annyi magának...}
-{497}{}{Csak nyugodtan kekeckedjen velem, Lynette, és Menedékvárosnak hamarosan új Elsõ Polgárt kell választania. Értve vagyok?}
-{498}{}{És? Majd szólok McClure-nak, hogy visszakapjam a papírjaimat. Õ aztán kiérdemelné, hogy Elsõ Polgár legyen.}
-{499}{}{Majd visszajövök, ha lecsillapodott.}
-{500}{}{Legyen jó napja, Elsõ Polgár.}
-{501}{lyn076a}{Kiváló. Derék menekültvárosi Polgárhoz méltó módon járt el.}
-{502}{lyn076b}{Örömmel állítom ki a Polgárságot bizonyító dokumentumot, amellyel a jelentõs privilégiumok mellett a szolgáltatásaink igénybevételének széleskörû joga is együtt jár.}
-{503}{}{Hát gondoltam, valami anyagi vonzata is lesz a segítségemnek.}
-{504}{}{Oda se neki. Csak a munkámat végzem. Viszlát!}
-{505}{}{Örömmel tettem, Elsõ Polgár asszony. Minden jót!}
-{506}{}{Nagyszerû, köszönöm. Megyek és ki is próbálom.}
-{507}{}{Igazán nagyra értékelem, amit értem tett, Elsõ Polgár. Viszlát!}
-{508}{lyn077ab}{Már eddig is túl sokat kapott, Kívülálló. Az Állampolgárság már önmagában is jutalom.}
-{509}{lyn077b}{Az Állampolgárság már önmagában is jutalom.}
-{510}{}{Francokat! Nyúljon bele gyorsan a zsebébe, különben a Menedékvárosiak új Elsõ Polgár után nézhetnek!}
-{511}{}{Semmi gond... csak kiváncsi voltam. Viszlát!}
-{512}{}{Rendben van, Elsõ Polgár. Viszontlátásra.}
-{513}{lyn077_a}{Egyáltalán nem.}
-{514}{}{Kiváncsi leszek, ki veszi át a helyét, ha meghalt... ez ugyanis pillanatokon belül megtörténik.}
-{515}{}{Semmi gond... gondoltam próbálkozom. Viszlát!}
-{516}{lyn078}{Dr. Troy? Õ hogy jön ide?}
+{398}{}{Semmi-semmi. BocsÃ¡nat, hogy zavartam.}
+{399}{lyn054a}{TermÃ©szetesen. Miben segÃ­thetek, PolgÃ¡rtÃ¡rs?}
+{400}{lyn054b}{TermÃ©szetesen. Miben segÃ­thetek, KapitÃ¡ny?}
+{401}{}{Mit tudna elmondani nekem a vÃ¡rosunkat idÅ‘rÅ‘l-idÅ‘re Ã©rÅ‘ rablÃ³tÃ¡madÃ¡sokrÃ³l?}
+{402}{}{A kÃ¼lvÃ¡rosban belebotlottam Thomas Moore polgÃ¡rtÃ¡rsunkba. Å kicsoda?}
+{403}{}{Nincs egy Ã‰LETED?}
+{404}{}{A 13-as MenedÃ©ket keresem.}
+{405}{}{Hogyhogy MenedÃ©kvÃ¡rosnak hÃ­vjÃ¡k? MiÃ©rt nem Ã©lnek a MenedÃ©k mÃ©lyÃ©n?}
+{406}{}{MiÃ©rt tÃ¡mogatjÃ¡k a rabszolga-tartÃ¡st?}
+{407}{}{TÅ‘led? Semmit.}
+{408}{lyn055}{Egy nem jogosult PolgÃ¡rhoz kÃ©pest maga aztÃ¡n elÃ©g sok idÅ‘met elfoglalja.}
+{409}{}{De hÃ¡t Ã©n jogosult PolgÃ¡r vagyok!!!}
+{410}{}{Nincs egy Ã‰LETED?}
+{411}{}{A 13-as MenedÃ©ket keresem.}
+{412}{}{Mire van szÃ¼ksÃ©gem, ha netÃ¡n helyi PolgÃ¡r akarok lenni?}
+{413}{}{Hogyhogy MenedÃ©kvÃ¡rosnak hÃ­vjÃ¡k? MiÃ©rt nem Ã©lnek a MenedÃ©k mÃ©lyÃ©n?}
+{414}{}{MiÃ©rt tÃ¡mogatjÃ¡k a rabszolga-tartÃ¡st?}
+{415}{}{Vegye Ãºgy, hogy nem szÃ³ltam. ViszlÃ¡t!}
+{416}{lyn056}{Mi van mÃ¡r megint? Nincs idÅ‘m a marhasÃ¡gaira!}
+{417}{}{RemÃ©nykedtem, hogy feltehetek egy Ãºjabb kÃ©rdÃ©st.}
+{418}{}{BocsÃ¡natot kÃ©rek a korÃ¡bbi kijelentÃ©seimÃ©rt, ElsÅ‘ PolgÃ¡r. RemÃ©ltem, hogy feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st MenedÃ©kvÃ¡rossal kapcsolatban.}
+{419}{}{Tudja, vannak koffeinmentes termÃ©kek, amelyek ugyanolyan Ã­zÅ±ek, mint az eredeti.}
+{420}{}{Hagyjuk!}
+{421}{}{ElnÃ©zÃ©st, ElsÅ‘ PolgÃ¡r. BocsÃ¡nat, hogy zavartam.}
+{422}{lyn057}{Micsoda? HÃ¡t nem intÃ©zte el Å‘ket?}
+{423}{}{Egy kicsit komplikÃ¡ltabb az Ã¼gy, mint gondoltam. Azok a fickÃ³k nem egyszerÅ± rablÃ³banda... hanem kÅ‘kemÃ©ny zsoldosok.}
+{424}{}{Felejtse el. ViszlÃ¡tÃ¡sra.}
+{425}{lyn058}{Nem emlÃ©kszem, hogy elnyerte volna ezt a cÃ­met. Mutassa a papÃ­rjait!}
+{426}{}{TessÃ©k. Minden rendben van vele.}
+{427}{}{Ã–Ã¶Ã¶... most nincsenek nÃ¡lam a papÃ­rok.}
+{428}{}{A papÃ­rjaimat? HÃ¡t mÃ©g ki sem Ã¡llÃ­tottÃ¡k. NagyjÃ¡bÃ³l egy nap kell mÃ©g, mire a maga Ã­rÃ³asztalÃ¡ra kerÃ¼l.}
+{429}{}{A papÃ­rjaimat? HÃ¡t mÃ©g ki sem Ã¡llÃ­tottÃ¡k. NagyjÃ¡bÃ³l egy nap kell mÃ©g, mire a maga Ã­rÃ³asztalÃ¡ra kerÃ¼l.}
+{430}{lyn059}{Ne szÃ³rakozzon velem, "PolgÃ¡rtÃ¡rs", kÃ¼lÃ¶nben teszek rÃ³la, hogy tÃ¶bbet ne tehesse a lÃ¡bÃ¡t MenedÃ©kvÃ¡ros utcÃ¡ira. Most pedig tÃ¡vozzÃ©k!}
+{431}{}{Semmi problÃ©ma... Mintha itt sem lettem volna. ViszlÃ¡t!}
+{432}{}{JÃ³napot, ElsÅ‘ PolgÃ¡r.}
+{433}{lyn060}{BOLONDNAK nÃ©z engem? ErrÅ‘l mÃ©g Ã©n is megmondom, hogy hamisÃ­tvÃ¡ny! Ki adta magÃ¡nak ezeket a papÃ­rokat? Ha megmondja, magÃ¡nÃ¡l hagyom a Napi BelÃ©pÅ‘jÃ©t.}
+{434}{}{Egy Skeev nevÅ± PolgÃ¡r adta a fÅ‘kapunÃ¡l.}
+{435}{}{Ã–Ã¶Ã¶... nem emlÃ©kszem.}
+{436}{}{ElÅ‘bb engem kell elkapnia!}
+{437}{lyn061}{Hmmmm... remek-remek. De nehogy idejÃ¶jjÃ¶n nekem, amÃ­g nincsenek meg a PolgÃ¡rsÃ¡gra jogosÃ­tÃ³ iratai! Minden jÃ³t magÃ¡nak!}
+{438}{}{ViszlÃ¡t!}
+{439}{}{JÃ³napot, ElsÅ‘ PolgÃ¡r.}
+{440}{lyn062}{Ã“, csakugyan? Ez akkor igazolja a gyanÃºmat. MenedÃ©kvÃ¡rosi hozzÃ¡fÃ©rÃ©sÃ©t ezennel bevonom. NyÃºjtsa Ã¡t a Napi BelÃ©pÅ‘t Ã©s az Å‘rÃ¶kkel irÃ¡ny a fÅ‘kapu!}
+{441}{}{Micsoda? Azt mondta, megtarthatom a Napi BelÃ©pÅ‘met!}
+{442}{}{Nem megyek Ã©n sehova! Ha kell magÃ¡nak a Napi BelÃ©pÅ‘, vegye el!}
+{443}{}{Rendben, mÃ¡r itt sem vagyok. Nem akarok itt bajt keverni.}
+{444}{lyn063}{ValÃ³ban? Ezek szerint vÃ©get vet a gekkÃ³i vÃ­zszennyezÃ©snek? Minden szÃ¼ksÃ©ges eszkÃ¶z bevetÃ©sÃ©vel?}
+{445}{}{Igen, vÃ©get vetek... a PolgÃ¡rsÃ¡got bizonyÃ­tÃ³ papÃ­rokÃ©rt Ã©s a MenedÃ©kbeli szÃ¡mÃ­tÃ³gÃ©pek hasznÃ¡latÃ¡Ã©rt cserÃ©be.}
+{446}{}{Nem, nem igazÃ¡n. Csak meg akartam gyÅ‘zÅ‘dni, Ã©l-e mÃ©g az ajÃ¡nlat.}
+{447}{lyn064}{Nagyon jÃ³. Jelentse, ha a munkÃ¡t elvÃ©gezte, Ã©s megadom magÃ¡nak a PolgÃ¡rsÃ¡got bizonyÃ­tÃ³ okmÃ¡nyokat.}
+{448}{}{MielÅ‘tt mennÃ©k, kÃ©rdezhetek valamit?}
+{449}{}{Rendben. Ha a szituÃ¡ciÃ³t elboronÃ¡ltam, visszajÃ¶vÃ¶k.}
+{450}{lyn065}{Megoldotta a szituÃ¡ciÃ³t?}
+{451}{}{RÃ¡jÃ¶ttem, hogy nekik semmi mÃ¡sra nincs szÃ¼ksÃ©gÃ¼k az erÅ‘mÅ± hibÃ¡tlan mÅ±kÃ¶dÃ©sÃ©hez, mint egy hidroelektromos magnetoszfÃ©ra szabÃ¡lyzÃ³ra.}
+{452}{}{Az erÅ‘mÅ±vet megsemmisÃ­tettem. A maguk helyÃ©ben mostantÃ³l egy kicsit dÃ©l-nyugatabbra legeltetnÃ©m a brahminjaikat.}
+{453}{}{ElboronÃ¡ltam a gekkÃ³i erÅ‘mÅ± kÃ©rdÃ©sÃ©t. A szivÃ¡rgÃ¡ssal tÃ¶bbet nem lesz gond, az biztos.}
+{454}{}{Nem, mÃ©g nem. MÃ©g dolgozom rajta.}
+{455}{lyn066}{Akkor ne fecsÃ©relje a drÃ¡ga idÅ‘met! Akkor jÃ¶jjÃ¶n vissza, ha van valami jelentenivalÃ³ja!}
+{456}{}{Rendben, kÃ©sÅ‘bb mÃ©g lÃ¡tjuk egymÃ¡st.}
+{457}{}{JÃ³l van. SzÃ©p napot magÃ¡nak, ElsÅ‘ PolgÃ¡r.}
+{458}{lyn067a}{Ezek szerint NEM intÃ©zte el a problÃ©mÃ¡t?}
+{459}{lyn067b}{Ha mÃ©g igÃ©nyt tart a PolgÃ¡rsÃ¡gunkra, jobban teszi, ha mihamarabb utÃ¡nanÃ©z a dolgoknak.}
+{460}{}{TehÃ¡t maguknak MenedÃ©kvÃ¡rosban megvan az alkatrÃ©sz, amellyel meg lehet javÃ­tani a gekkÃ³i erÅ‘mÅ±vet.}
+{461}{}{Rendben, kÃ©sÅ‘bb mÃ©g lÃ¡tjuk egymÃ¡st.}
+{462}{}{JÃ³l van. SzÃ©p napot magÃ¡nak, ElsÅ‘ PolgÃ¡r.}
+{463}{lyn068}{Ã‰s mi van, ha igen? Ez csak egy Ã¡tmeneti megoldÃ¡s. KÃ©rem, a problÃ©mÃ¡t HOZZA RENDBE Ã©s ne az erÅ‘mÅ±vÃ¼ket. Ã‰rthetÅ‘en fejeztem ki magam?}
+{464}{}{ElsÅ‘ PolgÃ¡r, nem akarok tiszteletlen lenni, de volna egy megoldÃ¡s, amelynek segÃ­tsÃ©gÃ©vel a ghoul-ok megÃ¶lÃ©se vagy az atomerÅ‘mÅ±vÃ¼k lekapcsolÃ¡sa nÃ©lkÃ¼l is megoldhatnÃ¡nk a problÃ©mÃ¡jukat. SzÃ³val, megkaphatnÃ¡m az alkatrÃ©szt...?}
+{465}{}{Azt mondta, hogy javÃ­tsam meg az erÅ‘mÅ±vet, nem volt szÃ³ GekkÃ³ lemÃ©szÃ¡rlÃ¡sÃ¡rÃ³l.}
+{466}{}{KristÃ¡lytiszta. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{467}{}{Igen. Legyen jÃ³ napja, ElsÅ‘ PolgÃ¡r.}
+{468}{lyn069a}{Mi ez a... teremtmÃ©ny... itt magÃ¡val? Ezek a... lÃ©nyek nem lÃ©phetik Ã¡t a kapuinkat! ÅrsÃ©g! VezessÃ©k ki a behatolÃ³kat a fÅ‘kapuhoz!}
+{469}{lyn069b}{Ã“, csakugyan? Ã‰n Ãºgy emlÃ©kszem, mintha azt Ã¡llÃ­totta volna, hogy Ã¶n ÃllampolgÃ¡r nÃ¡lunk. MagÃ¡t tÃ¶bbÃ© nem engedjÃ¼k be MenedÃ©kvÃ¡ros kapuin. Az Å‘rÃ¶k kikÃ­sÃ©rik a fÅ‘kapuhoz.}
+{470}{lyn069c}{Elegem van az oktalansÃ¡gaibÃ³l! TÃ¶bbÃ© nem akarom lÃ¡tni MenedÃ©kvÃ¡roson belÃ¼l. Az Å‘rsÃ©g kivezeti a kapuhoz.}
+{471}{}{MeghÃ³sz fÃ©nyllÅ‘szemÅ±Å±Å±Å±!}
+{472}{}{(BÃ³logatsz)}
+{473}{}{Nem szereti a barÃ¡tomat, mi? Ez rossz hÃ­r, ugyanis Å‘ szereti magÃ¡t... finom mÃ¡rtÃ¡sban.}
+{474}{}{Az Å‘rei nem fognak idÅ‘ben ideÃ©rni, hogy megmentsÃ©k az Ã©letÃ©t "ElsÅ‘ PolgÃ¡r".}
+{475}{}{Nincs szÃ¼ksÃ©g az Å‘rÃ¶kre, bÃ©kÃ©sen tÃ¡vozom.}
+{476}{lyn070}{Micsoda? MegsemmisÃ­tette az erÅ‘mÅ±vet? De hÃ¡t a szennyezÅ‘dÃ©s! Maga IDIÃ“TA! Mondjuk az jÃ³, hogy a ghoul-ok mind eltÅ±ntek... na kotrÃ³djon a szemem elÅ‘l.}
+{477}{}{Ejha! Ã‰s mi a helyzet a PolgÃ¡rsÃ¡got bizonyÃ­tÃ³ papÃ­rokkal, amit megÃ­gÃ©rt?}
+{478}{}{NÃ©zze, azt a pusztÃ­tÃ¡st nem volt kÃ¶nnyÅ± vÃ©ghezvinni. Valami kompenzÃ¡ciÃ³ra igÃ©nyt tartok...}
+{479}{}{Rendben, rendben, mÃ¡r megyek is.}
+{480}{}{JÃ³ napokat, ElsÅ‘ PolgÃ¡r.}
+{481}{lyn071}{Ne szÃ³rakozzon velem, kÃ¼lÃ¶nben elintÃ©zem, hogy tÃ¶bbÃ© az Ã©letben ne tegye ide a lÃ¡bÃ¡t!}
+{482}{}{NÃ©zzen magÃ¡ba, "ElsÅ‘ PolgÃ¡r". Minden jÃ³t!}
+{483}{}{JÃ³napot, ElsÅ‘ PolgÃ¡r.}
+{484}{lyn072a}{HÃ¡t megcsinÃ¡lta?!! NagyszerÅ±! FelbecsÃ¼lhetetlen szolgÃ¡latot tett MenedÃ©kvÃ¡ros szÃ¡mÃ¡ra. KÃ©rem, fogadja el ezt megbecsÃ¼lÃ©sÃ¼nk jelekÃ©nt. Ha arra gondolok, hogy egy rakÃ¡s fosztogatÃ³ okozta azt a temÃ©rdek problÃ©mÃ¡t...}
+{485}{lyn072b}{KivÃ¡lÃ³. Pont azt kaptÃ¡k, amit megÃ©rdemeltek. Ha arra gondolok, hogy egy rakÃ¡s fosztogatÃ³ okozta azt a temÃ©rdek problÃ©mÃ¡t...}
+{486}{}{HÃ¡t nem igazÃ¡n fosztogatÃ³k voltak... hanem inkÃ¡bb zsoldosok.}
+{487}{lyn073}{Ezek szerint kiiktatta az erÅ‘mÅ±vÃ¼ket?}
+{488}{}{Nem, megjavÃ­tottam. McClure TanÃ¡csos adta a szÃ¼ksÃ©ges alkatrÃ©szt, ami lehetÅ‘vÃ© tette, hogy az erÅ‘mÅ± most tÃ¶kÃ©letesen mÅ±kÃ¶djÃ¶n.}
+{489}{}{Mindent elindÃ©ztem.}
+{490}{lyn074}{Micsoda? McClure ilyet tett? Gondolom, PolgÃ¡ri papÃ­rokat is kiÃ¡llÃ­tott magÃ¡nak! GekkÃ³ erÅ‘mÅ±vÃ©nek megjavÃ­tÃ¡sa semmit nem old meg. Azok a... teremtmÃ©nyek! Nem lehet bennÃ¼k bÃ­zni! Mi lesz, ha Ãºjra szivÃ¡rogni kezd az erÅ‘mÅ±?!}
+{491}{}{Nem tudom... talÃ¡n SEGÃTENI kÃ©ne nekik megjavÃ­tani?}
+{492}{}{NÃ©zze, a talajvÃ­z tÃ¶bbÃ© nem szennyezÅ‘dik, Ã©s senki nem sÃ©rÃ¼lt meg. A problÃ©ma el van boronÃ¡lva.}
+{493}{}{KÃ©sÅ‘bb, ha mÃ¡r lenyugodott, visszajÃ¶vÃ¶k.}
+{494}{}{Mennem kell, ElÅ‘s PolgÃ¡r. ViszlÃ¡t!}
+{495}{lyn075}{Jobb, ha minden mozdulatÃ¡ra gondosan Ã¼gyel, "PolgÃ¡rtÃ¡rs"! Figyelni fogom magÃ¡t. Egy rossz lÃ©pÃ©s, Ã©s szÃ¡mÅ±zzÃ¼k innen.}
+{496}{}{Na, idefigyeljen! Senki nem fog engem fenyegetni, kÃ¼lÃ¶nÃ¶sen nem egy ilyen bigott, karÃ³t nyelt lotyÃ³. Azt tudja, hogy most annyi magÃ¡nak...}
+{497}{}{Csak nyugodtan kekeckedjen velem, Lynette, Ã©s MenedÃ©kvÃ¡rosnak hamarosan Ãºj ElsÅ‘ PolgÃ¡rt kell vÃ¡lasztania. Ã‰rtve vagyok?}
+{498}{}{Ã‰s? Majd szÃ³lok McClure-nak, hogy visszakapjam a papÃ­rjaimat. Å aztÃ¡n kiÃ©rdemelnÃ©, hogy ElsÅ‘ PolgÃ¡r legyen.}
+{499}{}{KÃ©sÅ‘bb, ha mÃ¡r lenyugodott, visszajÃ¶vÃ¶k.}
+{500}{}{JÃ³napot, ElsÅ‘ PolgÃ¡r.}
+{501}{lyn076a}{KivÃ¡lÃ³. DerÃ©k menekÃ¼ltvÃ¡rosi PolgÃ¡rhoz mÃ©ltÃ³ mÃ³don jÃ¡rt el.}
+{502}{lyn076b}{Ã–rÃ¶mmel Ã¡llÃ­tom ki a PolgÃ¡rsÃ¡got bizonyÃ­tÃ³ dokumentumot, amellyel a jelentÅ‘s privilÃ©giumok mellett a szolgÃ¡ltatÃ¡saink igÃ©nybevÃ©telÃ©nek szÃ©leskÃ¶rÅ± joga is egyÃ¼tt jÃ¡r.}
+{503}{}{HÃ¡t gondoltam, valami anyagi vonzata is lesz a segÃ­tsÃ©gemnek.}
+{504}{}{Oda se neki. Csak a munkÃ¡mat vÃ©gzem. ViszlÃ¡t!}
+{505}{}{Ã–rÃ¶mmel tettem, ElsÅ‘ PolgÃ¡r asszony. Minden jÃ³t!}
+{506}{}{NagyszerÅ±, kÃ¶szÃ¶nÃ¶m. Megyek Ã©s ki is prÃ³bÃ¡lom.}
+{507}{}{IgazÃ¡n nagyra Ã©rtÃ©kelem, amit Ã©rtem tett, ElsÅ‘ PolgÃ¡r. ViszlÃ¡t!}
+{508}{lyn077ab}{MÃ¡r eddig is tÃºl sokat kapott, KÃ­vÃ¼lÃ¡llÃ³. Az ÃllampolgÃ¡rsÃ¡g mÃ¡r Ã¶nmagÃ¡ban is jutalom.}
+{509}{lyn077b}{Az ÃllampolgÃ¡rsÃ¡g mÃ¡r Ã¶nmagÃ¡ban is jutalom.}
+{510}{}{Francokat! NyÃºljon bele gyorsan a zsebÃ©be, kÃ¼lÃ¶nben a MenedÃ©kvÃ¡rosiak Ãºj ElsÅ‘ PolgÃ¡r utÃ¡n nÃ©zhetnek!}
+{511}{}{Semmi gond... csak kivÃ¡ncsi voltam. ViszlÃ¡t!}
+{512}{}{JÃ³l van, ElsÅ‘ PolgÃ¡r. ViszonlÃ¡tÃ¡s!}
+{513}{lyn077_a}{EgyÃ¡ltalÃ¡n nem.}
+{514}{}{KivÃ¡ncsi leszek, ki veszi Ã¡t a helyÃ©t, ha meghalt... ez ugyanis pillanatokon belÃ¼l megtÃ¶rtÃ©nik.}
+{515}{}{Semmi gond... gondoltam prÃ³bÃ¡lkozom. ViszlÃ¡t!}
+{516}{lyn078}{Dr. Troy? Å hogy jÃ¶n ide?}
 {517}{}{He asked me to smuggle in some illegal drugs into the city.}
-{518}{}{Az õ dolga a Polgáraink gyógyítása.}
-{519}{}{Semmi-semmi... csak félrebeszéltem. Viszlát!}
-{520}{lyn079}{Kinek képzeli magát, hogy egy Polgárt ilyen bûnökkel mer vádolni? Õrség! Kísérjék ki ezt a Kívülállót a kapuhoz!}
-{521}{}{Az õrség nem fog idõben ideérni, hogy megmentsék az életét... "Elsõ Polgárka."}
-{522}{}{Nem kell ide semmiféle õrség - megyek én magamtól is.}
-{523}{}{Ez az igazság! Hinnie kell nekem. Be fogom bi -!}
-{524}{lyn080}{Ez nagyon komoly vád. Mivel maga most már Polgártársunknak számít, hitelt kell adnom a szavának... de hát... teljesen biztos benne? Ha így van, a doktor Állampolgárságát visszavonjuk, és számûzzük õt.}
-{525}{}{Nézze, tudom, hogy nehéz elhinnie, de õ maga kért meg engem, hogy csempésszek be neki Jet-et a városba.}
-{526}{}{Nem erõs ez egy kicsit? Egy sima rehabilitáció elég lenne, és folytathatná a praxisát... nincs igazam?}
-{527}{}{Oh. Izé... félrebeszéltem. Az találtam mondani, hogy Dr. Troy töménytelen dolgot hozzon be nem törvénytelen drogot.}
-{528}{}{Hmmmm. Megyek, és megnézem, találok-e még valamit.}
-{529}{lyn081}{Nem létezik, hogy egy ilyen komoly ember drogfüggõ lenne. Köszönjük az õszinteségét, Polgártárs. Most azonnal utánanézek a dolognak.}
-{530}{}{Lenne pár kérdésem.}
-{531}{}{Nagyszerû. Végül is nem tudtam kívülrõl szemlélni ezt az egész ügyet. Minden jót!}
-{532}{}{Köszönöm, Elsõ Polgár. Csak azt akartam, hogy érvényesüljön az igazság.}
-{533}{lyn082a}{Azonnal értesítsen, ha további dolgokra fény derül.}
-{534}{lyn082b}{Polgártárs, Menedékváros mindenek felett!}
-{535}{}{Lenne pár kérdésem.}
-{536}{}{Hogyne. Viszlát!}
-{537}{}{Úgy lesz. Köszönöm, Elsõ Polgár.}
-{538}{lyn083}{A törvény az törvény. Ha kivételt teszünk, nem vagyunk jobbak, mint a kívülállók. Még egyszer megkérdezem: teljes mértékben biztos, hogy a vádjai megalapozottak?}
-{539}{}{Akkor visszakérdezek. Azzal, hogy Állampolgárságot ígér a gekkói szituáció megoldásáért cserébe, vajon törvényes módon jár el?}
-{540}{}{Igen. Megkért, hogy csempésszek Menedékvárosba Jet-et, és vigyem el hozzá.}
-{541}{}{Oh. Izé... félrebeszéltem. Az találtam mondani, hogy Dr. Troy töménytelen dolgot hozzon be nem törvénytelen drogot.}
-{542}{}{Hmmmm. Megyek, és megnézem, találok-e még valamit.}
-{543}{lyn084a}{Jobb lenne, ha átgondolná, mit beszél.}
-{544}{lyn084b}{Jobb lenne, ha átgondolná, mit beszél, Kívülálló.}
-{545}{lyn084c}{Ha meghallom, hogy Dr. Troy-jal vagy bármelyik más polgártásunkkal balhét csinál, többet be nem teszi ide a lábát. Értve vagyok?}
+{518}{}{Az Å‘ dolga a PolgÃ¡raink gyÃ³gyÃ­tÃ¡sa.}
+{519}{}{Semmi-semmi... csak fÃ©lrebeszÃ©ltem. ViszlÃ¡t!}
+{520}{lyn079}{Kinek kÃ©pzeli magÃ¡t, hogy egy PolgÃ¡rt ilyen bÅ±nÃ¶kkel mer vÃ¡dolni? ÅrsÃ©g! KÃ­sÃ©rjÃ©k ki ezt a KÃ­vÃ¼lÃ¡llÃ³t a kapuhoz!}
+{521}{}{Az Å‘rei nem fognak idÅ‘ben ideÃ©rni, hogy megmentsÃ©k az Ã©letÃ©t "ElsÅ‘ PolgÃ¡r".}
+{522}{}{Nincs szÃ¼ksÃ©g az Å‘rÃ¶kre, bÃ©kÃ©sen tÃ¡vozom.}
+{523}{}{Ez az igazsÃ¡g! Hinnie kell nekem. Be fogom bi -!}
+{524}{lyn080}{Ez nagyon komoly vÃ¡d. Mivel maga most mÃ¡r PolgÃ¡rtÃ¡rsunknak szÃ¡mÃ­t, hitelt kell adnom a szavÃ¡nak... de hÃ¡t... teljesen biztos benne? Ha Ã­gy van, a doktor ÃllampolgÃ¡rsÃ¡gÃ¡t visszavonjuk, Ã©s szÃ¡mÅ±zzÃ¼k Å‘t.}
+{525}{}{NÃ©zze, tudom, hogy nehÃ©z elhinnie, de Å‘ maga kÃ©rt meg engem, hogy csempÃ©sszek be neki Jet-et a vÃ¡rosba.}
+{526}{}{Nem erÅ‘s ez egy kicsit? Egy sima rehabilitÃ¡ciÃ³ elÃ©g lenne, Ã©s folytathatnÃ¡ a praxisÃ¡t... nincs igazam?}
+{527}{}{Oh. IzÃ©... fÃ©lrebeszÃ©ltem. Az talÃ¡ltam mondani, hogy Dr. Troy tÃ¶mÃ©nytelen dolgot hozzon be nem tÃ¶rvÃ©nytelen drogot.}
+{528}{}{Hmmmm. Megyek, megnÃ©zem, talÃ¡lok-e valamit.}
+{529}{lyn081}{Nem lÃ©tezik, hogy egy ilyen komoly ember drogfÃ¼ggÅ‘ lenne. KÃ¶szÃ¶njÃ¼k az Å‘szintesÃ©gÃ©t, PolgÃ¡rtÃ¡rs. Most azonnal utÃ¡nanÃ©zek a dolognak.}
+{530}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{531}{}{NagyszerÅ±. VÃ©gÃ¼l is nem tudtam kÃ­vÃ¼lrÅ‘l szemlÃ©lni ezt az egÃ©sz Ã¼gyet. Minden jÃ³t!}
+{532}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r. Csak azt akartam, hogy Ã©rvÃ©nyesÃ¼ljÃ¶n az igazsÃ¡g.}
+{533}{lyn082a}{Azonnal Ã©rtesÃ­tsen, ha tovÃ¡bbi dolgokra fÃ©ny derÃ¼l.}
+{534}{lyn082b}{PolgÃ¡rtÃ¡rs, MenedÃ©kvÃ¡ros mindenek felett!}
+{535}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{536}{}{Hogyne. ViszlÃ¡t!}
+{537}{}{Ãšgy lesz. KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r.}
+{538}{lyn083}{A tÃ¶rvÃ©ny az tÃ¶rvÃ©ny. Ha kivÃ©telt teszÃ¼nk, nem vagyunk jobbak, mint a kÃ­vÃ¼lÃ¡llÃ³k. MÃ©g egyszer megkÃ©rdezem: teljes mÃ©rtÃ©kben biztos, hogy a vÃ¡djai megalapozottak?}
+{539}{}{Akkor visszakÃ©rdezek. Azzal, hogy ÃllampolgÃ¡rsÃ¡got Ã­gÃ©r a gekkÃ³i szituÃ¡ciÃ³ megoldÃ¡sÃ¡Ã©rt cserÃ©be, vajon tÃ¶rvÃ©nyes mÃ³don jÃ¡r el?}
+{540}{}{Igen. MegkÃ©rt, hogy csempÃ©sszek MenedÃ©kvÃ¡rosba Jet-et, Ã©s vigyem el hozzÃ¡.}
+{541}{}{Oh. IzÃ©... fÃ©lrebeszÃ©ltem. Az talÃ¡ltam mondani, hogy Dr. Troy tÃ¶mÃ©nytelen dolgot hozzon be nem tÃ¶rvÃ©nytelen drogot.}
+{542}{}{Hmmmm. Megyek, megnÃ©zem, talÃ¡lok-e valamit.}
+{543}{lyn084a}{Jobb lenne, ha Ã¡tgondolnÃ¡, mit beszÃ©l.}
+{544}{lyn084b}{Jobb lenne, ha Ã¡tgondolnÃ¡, mit beszÃ©l, KÃ­vÃ¼lÃ¡llÃ³.}
+{545}{lyn084c}{Ha meghallom, hogy Dr. Troy-jal vagy bÃ¡rmelyik mÃ¡s polgÃ¡rtÃ¡sunkkal balhÃ©t csinÃ¡l, tÃ¶bbet be nem teszi ide a lÃ¡bÃ¡t. Ã‰rtve vagyok?}
 {546}{}{Uh... sure. Sorry. I had some other questions...}
-{547}{}{Kristálytisztán érthetõ. Akkor most nem is zavarok tovább.}
-{548}{}{Elnézést kérek, Elsõ Polgár. Viszontlátásra.}
-{549}{lyn085}{TERMÉSZETES, hogy csak Polgárokat gyógyít. Arra nincs energiája, hogy Kívülállókkal is foglalkozzon. Arra ott van az Auto-doki.}
+{547}{}{KristÃ¡lytisztÃ¡n Ã©rthetÅ‘. Akkor most nem is zavarok tovÃ¡bb.}
+{548}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, ElsÅ‘ PolgÃ¡r. ViszontlÃ¡tÃ¡sra.}
+{549}{lyn085}{TERMÃ‰SZETES, hogy csak PolgÃ¡rokat gyÃ³gyÃ­t. Arra nincs energiÃ¡ja, hogy KÃ­vÃ¼lÃ¡llÃ³kkal is foglalkozzon. Arra ott van az Auto-doki.}
 {550}{}{Well, you might want to know that the Doctor asked me to smuggle some illegal drugs into the city.}
-{551}{}{Oh... Hát akkor volna néhány kérdésem...}
-{552}{}{Igen, azoknak, akik megengedhetik maguknak... és ez azt feltételezi, hogy egy darabban voltak képesek eljutni az Auto-dokihoz.}
-{553}{}{Hát akkor vegye úgy, hogy nem is mondtam semmit. Viszlát!}
-{554}{}{Elnézést kérek, Elsõ Polgár. Viszontlátásra.}
-{555}{lyn086}{Úgy vélem, eljött az idõ, hogy távozzék. Ajánlom, hogy fogja rövidre a Menedékvárosban való tartózkodását.}
-{556}{}{Mielõtt elmennék, feltennék néhány kérdést...}
-{557}{}{Rendben. Már itt sem vagyok.}
-{558}{lyn087}{Moore? Az egy bajkeverõ, semmi más.}
-{559}{}{Igaza van. Kívülállókhoz méltó... dolgokban utazik.}
-{560}{}{Maga szerint miért bajkeverõ?}
-{561}{}{Feltehetnék egy másik kérdést?}
-{562}{}{Beszéltem vele... a mondandójának nagy részében van igazság.}
-{563}{}{Egyetértek. Ha gondolja... ránézhetek a körmére....}
-{564}{}{Akkor vonja vissza az Állampolgári jogait.}
-{565}{}{Értem. Távol tartom magam tõle. Viszlát!}
-{566}{lyn088}{Állandóan arról akarja meggyõzni Menedékváros Polgárait, hogy "demokráciára" van szükségük, ahogy õ nevezi. Azt papolja, hogy mindenkinek joga lenne beleszólni a törvényekbe, a döntéshozásba. Én ezt anarchiának nevezném.}
-{567}{}{"Demokrácia?"}
-{568}{}{Hogyan próbálja meggyõzni a Polgárságot?}
-{569}{}{Hát elég problémás alaknak tûnik. Mi lenne, ha... a körmére néznék?}
-{570}{}{Nem tudja egyszerûen kipenderíteni innen?}
-{571}{}{Lenne pár kérdésem.}
-{572}{}{Ó, értem, köszönöm az információt. Viszlát!}
-{573}{lyn089}{Az adatbázis szerint rengeteg régi állam ilyen berendezkedés szerint mûködött. Mindannyian tudjuk, HOVA juttatta ez õket. El tudja képzelni, mennyi fejtörést okozna egy ilyen társadalom? Ez egyszerûen kivihetetlen.}
-{574}{}{Miért lenne kivihetetlen?}
-{575}{}{Moore hogyan próbálja meggyõzni a többi Állampolgárt?}
-{576}{}{Lenne pár kérdésem.}
-{577}{}{Meglehet. Most mennem kéne.}
-{578}{}{Köszönöm, hogy idõt szakított rám, Elsõ Polgár. Viszlát!}
-{579}{lyn090}{Egy kormánynak erõs, rátermett vezetõre van szüksége, aki gyorsan képes döntéseket hozni, és megvan a hatalma, hogy érvényt is szerezzen nekik. A parlamentáris kormányzás az nem kormányzás.}
-{580}{}{Moore hogyan próbálja meggyõzni a Polgárokat, hogy Menedékvárosnak demokráciában kellene élnie?}
-{581}{}{Lenne pár kérdésem.}
-{582}{}{Meglehet. Most mennem kéne.}
-{583}{}{Köszönöm, hogy idõt szakított rám, Elsõ Polgár. Viszlát!}
-{584}{lyn091}{Kiáll a térre, és végetnemérõ beszédeket tart. Ezzel saját magát is nevetségessé teszi. A ÚKK-ban történt betegség ecsetelésével próbál a szívünkhöz szólni, mintha nekünk kéne az egész világot gatyába ráznunk.}
-{585}{}{Elég problémásnak tûnik. Ha gondolja... a körmére nézhetek...}
-{586}{}{Pedig igaza van. Ez maguknak semmiség lenne. A gyógyászati technológiájuk, hogy úgy mondjam, eléggé impresszív.}
-{587}{}{Nem tudja egyszerûen kipenderíteni innen?}
-{588}{}{Hát csak kiváncsiskodtam. Viszlát!}
-{589}{lyn092}{Már maga is kezdi? Polgártársaink szabadon gondolkodhatnak, de ez... EZ A...! Lehet, hogy maga nem képes eleget tenni az Állampolgárság által megkövetelt felelõsségtudatnak.}
-{590}{}{Ez igen... bocsánat! Hát vegye úgy, hogy nem mondtam semmit. Akartam még kérdezni ezt-azt.}
-{591}{}{Ha ez azt jelenti, hogy mindenben vakon kell követni magát, akkor lehet, hogy éppen MAGA nem képes eleget tenni az Állampolgárság által megkövetelt felelõsségtudatnak.}
-{592}{}{Thomas Moore egy Polgártársunk, és e mozgalom vezetõje.}
-{593}{}{Új idõket élünk, eljött a változás szele.}
-{594}{}{Sajnálom, hogy így érez. Viszlát!}
-{595}{lyn093}{Õ nem IGAZI Polgár... már nem. Amikor két évvel ezelõtt idejött, mindent úgy tett, ahogy az egy Polgártól elvárható. Azonban már egy évvel késõbb... megváltozott. Ellenünk fordult.}
-{596}{}{Hát ez megmagyarázna egy-két dolgot. Moore valószínûleg színészkedett egy darabig.}
-{597}{}{Talán épp most jött el a megújulás ideje.}
-{598}{}{Sajnálom, hogy maga szerint Moore nem "igazi" Polgár. Talán felül kéne vizsgálnia magában, hogy mit jelent Polgárnak lenni.}
-{599}{}{Meglehet, hogy õ látta a fától az erdõt. Na, viszlát!}
-{600}{lyn094}{Mi fennmaradtunk egy olyan világban, ahol a nagy többség elbukott, és maga beszél nekem változásról? Nézzen ki a külvilágba! Anarchia, pusztulás, betegségek... Menedékváros egy paradicsom ahhoz képest!}
-{601}{}{Pontosan ez az, AMIÉRT a változásra szükség van. Másokkal is meg kellene osztaniuk az eredményeiket.}
-{602}{}{Néhány embernek paradicsom... Meglehet... bár szerintem a rabszolgáik máshogy vélekednének.}
-{603}{}{Nem kívánok vitát nyitni errõl. Viszlát!}
-{604}{lyn095}{Menedékvárost kemény munkával, rengeteg Polgár szenvedése árán építettük. A külvilág példát vehetne rólunk és követniük kéne minket, nem csak odakinn kuporogni és alamizsnáért könyörögni.}
-{605}{}{Polgárok kemény munkájáról beszél? Akármerre megyek a városban, mindenütt rabszolgákat látok dolgozni.}
-{606}{}{Nem kívánok vitát nyitni errõl. Viszlát!}
-{607}{lyn096}{Hogy miért támogatjuk a rabszolga-tartást? A rendszerünk évek óta fennáll és igen jól mûködik. Mindkét félnek csak hasznára van.}
-{608}{}{Értem. Kérdezhetek még?}
-{609}{}{Biztos vagyok benne, hogy a rabszolgáik másképp vélekednének.}
-{610}{}{De hát... úgy adják-veszik az emberi lényeket, mint a brahminokat. Nem éreznek lelkiismeretfurdalást emiatt?}
-{611}{}{Nekem erre nincs idõm.}
-{612}{}{Köszönöm, hogy idõt szakított rám, Elsõ Polgár. Viszlát!}
-{613}{lyn097}{Õk nem rabszolgák, hanem a "szolgáink". Otthont, ételt, ruhát és célokat adtunk nekik. Életet, ha úgy tetszik.}
-{614}{}{Hát persze. Miért is akarnának szabadok lenni, amikor maguknak is dolgozhatnak?}
-{615}{}{Nézze, nem számít, milyen mézesmázos szavakkal próbálja itt nekem elmismásolni a bûzt, attól ez még kõkemény rabszolgaság.}
-{616}{}{Ööö... hogyne. Hát, volna még egy-két kérdésem, ha nem gond.}
-{617}{}{Nem kívánok vitát nyitni errõl. Viszlát!}
-{618}{}{Hmmmm. Ezt még sosem néztem ebbõl a szemszögbõl. Megyek, végiggondolom.}
-{619}{lyn098}{A kétszínûsége elég jól fejlett, meg kell hagyni. A Rabszolga-tartók jelét viseli, de azért a rabszolgaságot kikéri magának.}
-{620}{}{Nem kérem ki magamnak. Egyszerûen csak arra próbálok utalni, hogy az igazi munkát õk végzik itt.}
-{621}{}{Nézze, a jelet azért viselem magamon, hogy információkhoz jussak... nem vagyok rabszolga-tartó.}
-{622}{}{Fiatal voltam... kellett a pénz...}
-{623}{}{Nem kívánok vitát nyitni errõl. Viszlát!}
-{624}{lyn099}{Ez hogy kell érteni?}
-{625}{}{Moore igazából az Új Kalifornia Köztársaságnak dolgozik.}
-{626}{}{Hagyjuk! Kérdeznék valami mást.}
-{627}{}{Semmi-semmi. Mennem kell. Viszlát!}
-{628}{}{Semmi-semmi. Félrebeszélek. Viszlátásra, Elsõ Polgár.}
-{629}{lyn100}{Gyilkosságról szó se essék. Az ilyesmi semmiféle módon, köntösben, formában nem engedélyezett Menedékváros területén. Akkor sem, ha okunk volna rá. Ne is említse többet.}
-{630}{}{Értem. Feltehetek még egy kérdést?}
+{551}{}{Oh... HÃ¡t akkor volna nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{552}{}{Igen, azoknak, akik megengedhetik maguknak... Ã©s ez azt feltÃ©telezi, hogy egy darabban voltak kÃ©pesek eljutni az Auto-dokihoz.}
+{553}{}{HÃ¡t akkor vegye Ãºgy, hogy nem is mondtam semmit. ViszlÃ¡t!}
+{554}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, ElsÅ‘ PolgÃ¡r. ViszontlÃ¡tÃ¡sra.}
+{555}{lyn086}{Ãšgy vÃ©lem, eljÃ¶tt az idÅ‘, hogy tÃ¡vozzÃ©k. AjÃ¡nlom, hogy fogja rÃ¶vidre a MenedÃ©kvÃ¡rosban valÃ³ tartÃ³zkodÃ¡sÃ¡t.}
+{556}{}{MielÅ‘tt elmennÃ©k, feltennÃ©k nÃ©hÃ¡ny kÃ©rdÃ©st...}
+{557}{}{Rendben. Akkor mÃ¡r itt sem vagyok.}
+{558}{lyn087}{Moore? Az egy bajkeverÅ‘, semmi mÃ¡s.}
+{559}{}{Igaza van. KÃ­vÃ¼lÃ¡llÃ³khoz mÃ©ltÃ³... dolgokban utazik.}
+{560}{}{Maga szerint miÃ©rt bajkeverÅ‘?}
+{561}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{562}{}{BeszÃ©ltem vele... a mondandÃ³jÃ¡nak nagy rÃ©szÃ©ben van igazsÃ¡g.}
+{563}{}{EgyetÃ©rtek. Ha gondolja... rÃ¡nÃ©zhetek a kÃ¶rmÃ©re....}
+{564}{}{Akkor vonja vissza az ÃllampolgÃ¡ri jogait.}
+{565}{}{Ã‰rtem. TÃ¡vol tartom magam tÅ‘le. ViszlÃ¡t!}
+{566}{lyn088}{ÃllandÃ³an arrÃ³l akarja meggyÅ‘zni MenedÃ©kvÃ¡ros PolgÃ¡rait, hogy "demokrÃ¡ciÃ¡ra" van szÃ¼ksÃ©gÃ¼k, ahogy Å‘ nevezi. Azt papolja, hogy mindenkinek joga lenne beleszÃ³lni a tÃ¶rvÃ©nyekbe, a dÃ¶ntÃ©shozÃ¡sba. Ã‰n ezt anarchiÃ¡nak neveznÃ©m.}
+{567}{}{"DemokrÃ¡cia?"}
+{568}{}{Hogyan prÃ³bÃ¡lja meggyÅ‘zni a PolgÃ¡rsÃ¡got?}
+{569}{}{HÃ¡t elÃ©g problÃ©mÃ¡s alaknak tÅ±nik. Mi lenne, ha... a kÃ¶rmÃ©re nÃ©znÃ©k?}
+{570}{}{Nem tudja egyszerÅ±en kipenderÃ­teni innen?}
+{571}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{572}{}{Ã“, Ã©rtem, kÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{573}{lyn089}{Az adatbÃ¡zis szerint rengeteg rÃ©gi Ã¡llam ilyen berendezkedÃ©s szerint mÅ±kÃ¶dÃ¶tt. Mindannyian tudjuk, HOVA juttatta ez Å‘ket. El tudja kÃ©pzelni, mennyi fejtÃ¶rÃ©st okozna egy ilyen tÃ¡rsadalom? Ez egyszerÅ±en kivihetetlen.}
+{574}{}{MiÃ©rt lenne kivihetetlen?}
+{575}{}{Moore hogyan prÃ³bÃ¡lja meggyÅ‘zni a tÃ¶bbi ÃllampolgÃ¡rt?}
+{576}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{577}{}{Meglehet. Most mennem kell.}
+{578}{}{KÃ¶sz, hogy idÅ‘t szakÃ­tott rÃ¡m, ElsÅ‘ PolgÃ¡r. ViszlÃ¡t!}
+{579}{lyn090}{Egy kormÃ¡nynak erÅ‘s, rÃ¡termett vezetÅ‘re van szÃ¼ksÃ©ge, aki gyorsan kÃ©pes dÃ¶ntÃ©seket hozni, Ã©s megvan a hatalma, hogy Ã©rvÃ©nyt is szerezzen nekik. A parlamentÃ¡ris kormÃ¡nyzÃ¡s az nem kormÃ¡nyzÃ¡s.}
+{580}{}{Moore hogyan prÃ³bÃ¡lja meggyÅ‘zni a PolgÃ¡rokat, hogy MenedÃ©kvÃ¡rosnak demokrÃ¡ciÃ¡ban kellene Ã©lnie?}
+{581}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{582}{}{Meglehet. Most mennem kell.}
+{583}{}{KÃ¶sz, hogy idÅ‘t szakÃ­tott rÃ¡m, ElsÅ‘ PolgÃ¡r. ViszlÃ¡t!}
+{584}{lyn091}{KiÃ¡ll a tÃ©rre, Ã©s vÃ©getnemÃ©rÅ‘ beszÃ©deket tart. Ezzel sajÃ¡t magÃ¡t is nevetsÃ©gessÃ© teszi. A ÃšKK-ban tÃ¶rtÃ©nt betegsÃ©g ecsetelÃ©sÃ©vel prÃ³bÃ¡l a szÃ­vÃ¼nkhÃ¶z szÃ³lni, mintha nekÃ¼nk kÃ©ne az egÃ©sz vilÃ¡got gatyÃ¡ba rÃ¡znunk.}
+{585}{}{ElÃ©g problÃ©mÃ¡snak tÅ±nik. Ha gondolja... a kÃ¶rmÃ©re nÃ©zhetek...}
+{586}{}{Pedig igaza van. Ez maguknak semmisÃ©g lenne. A gyÃ³gyÃ¡szati technolÃ³giÃ¡juk, hogy Ãºgy mondjam, elÃ©ggÃ© impresszÃ­v.}
+{587}{}{Nem tudja egyszerÅ±en kipenderÃ­teni innen?}
+{588}{}{HÃ¡t csak kivÃ¡ncsiskodtam. ViszlÃ¡t!}
+{589}{lyn092}{MÃ¡r maga is kezdi? PolgÃ¡rtÃ¡rsaink szabadon gondolkodhatnak, de ez... EZ A...! Lehet, hogy maga nem kÃ©pes eleget tenni az ÃllampolgÃ¡rsÃ¡g Ã¡ltal megkÃ¶vetelt felelÅ‘ssÃ©gtudatnak.}
+{590}{}{Ez igen... bocsÃ¡nat! HÃ¡t vegye Ãºgy, hogy nem mondtam semmit. Akartam mÃ©g kÃ©rdezni ezt-azt.}
+{591}{}{Ha ez azt jelenti, hogy mindenben vakon kell kÃ¶vetni magÃ¡t, akkor lehet, hogy Ã©ppen MAGA nem kÃ©pes eleget tenni az ÃllampolgÃ¡rsÃ¡g Ã¡ltal megkÃ¶vetelt felelÅ‘ssÃ©gtudatnak.}
+{592}{}{Thomas Moore egy PolgÃ¡rtÃ¡rsunk, Ã©s e mozgalom vezetÅ‘je.}
+{593}{}{Ãšj idÅ‘ket Ã©lÃ¼nk, eljÃ¶tt a vÃ¡ltozÃ¡s szele.}
+{594}{}{SajnÃ¡lom, hogy Ã­gy Ã©rez. ViszlÃ¡t!}
+{595}{lyn093}{Å nem IGAZI PolgÃ¡r... mÃ¡r nem. Amikor kÃ©t Ã©vvel ezelÅ‘tt idejÃ¶tt, mindent Ãºgy tett, ahogy az egy PolgÃ¡rtÃ³l elvÃ¡rhatÃ³. Azonban mÃ¡r egy Ã©vvel kÃ©sÅ‘bb... megvÃ¡ltozott. EllenÃ¼nk fordult.}
+{596}{}{HÃ¡t ez megmagyarÃ¡zna egy-kÃ©t dolgot. Moore valÃ³szÃ­nÅ±leg szÃ­nÃ©szkedett egy darabig.}
+{597}{}{TalÃ¡n Ã©pp most jÃ¶tt el a megÃºjulÃ¡s ideje.}
+{598}{}{SajnÃ¡lom, hogy maga szerint Moore nem "igazi" PolgÃ¡r. TalÃ¡n felÃ¼l kÃ©ne vizsgÃ¡lnia magÃ¡ban, hogy mit jelent PolgÃ¡rnak lenni.}
+{599}{}{Meglehet, hogy Å‘ lÃ¡tta a fÃ¡tÃ³l az erdÅ‘t. Na, viszlÃ¡t!}
+{600}{lyn094}{Mi fennmaradtunk egy olyan vilÃ¡gban, ahol a nagy tÃ¶bbsÃ©g elbukott, Ã©s maga beszÃ©l nekem vÃ¡ltozÃ¡srÃ³l? NÃ©zzen ki a kÃ¼lvilÃ¡gba! Anarchia, pusztulÃ¡s, betegsÃ©gek... MenedÃ©kvÃ¡ros egy paradicsom ahhoz kÃ©pest!}
+{601}{}{Pontosan ez az, AMIÃ‰RT a vÃ¡ltozÃ¡sra szÃ¼ksÃ©g van. MÃ¡sokkal is meg kellene osztaniuk az eredmÃ©nyeiket.}
+{602}{}{NÃ©hÃ¡ny embernek paradicsom... Meglehet... bÃ¡r szerintem a rabszolgÃ¡ik mÃ¡shogy vÃ©lekednÃ©nek.}
+{603}{}{ErrÅ‘l nem Ã³hajtok vitÃ¡t nyitni. Minden jÃ³t magÃ¡nak.}
+{604}{lyn095}{MenedÃ©kvÃ¡rost kemÃ©ny munkÃ¡val, rengeteg PolgÃ¡r szenvedÃ©se Ã¡rÃ¡n Ã©pÃ­tettÃ¼k. A kÃ¼lvilÃ¡g pÃ©ldÃ¡t vehetne rÃ³lunk Ã©s kÃ¶vetniÃ¼k kÃ©ne minket, nem csak odakinn kuporogni Ã©s alamizsnÃ¡Ã©rt kÃ¶nyÃ¶rÃ¶gni.}
+{605}{}{PolgÃ¡rok kemÃ©ny munkÃ¡jÃ¡rÃ³l beszÃ©l? AkÃ¡rmerre megyek a vÃ¡rosban, mindenÃ¼tt rabszolgÃ¡kat lÃ¡tok dolgozni.}
+{606}{}{ErrÅ‘l nem Ã³hajtok vitÃ¡t nyitni. Minden jÃ³t magÃ¡nak.}
+{607}{lyn096}{Hogy miÃ©rt tÃ¡mogatjuk a rabszolga-tartÃ¡st? A rendszerÃ¼nk Ã©vek Ã³ta fennÃ¡ll Ã©s igen jÃ³l mÅ±kÃ¶dik. MindkÃ©t fÃ©lnek csak hasznÃ¡ra van.}
+{608}{}{Ã‰rtem. KÃ©rdezhetek mÃ©g?}
+{609}{}{Biztos vagyok benne, hogy a rabszolgÃ¡ik mÃ¡skÃ©pp vÃ©lekednÃ©nek.}
+{610}{}{De hÃ¡t... Ãºgy adjÃ¡k-veszik az emberi lÃ©nyeket, mint a brahminokat. Nem Ã©reznek lelkiismeretfurdalÃ¡st emiatt?}
+{611}{}{Eleget hallottam. ViszlÃ¡t!}
+{612}{}{KÃ¶sz, hogy idÅ‘t szakÃ­tott rÃ¡m, ElsÅ‘ PolgÃ¡r. ViszlÃ¡t!}
+{613}{lyn097}{Åk nem rabszolgÃ¡k, hanem a "szolgÃ¡ink". Otthont, Ã©telt, ruhÃ¡t Ã©s cÃ©lokat adtunk nekik. Ã‰letet, ha Ãºgy tetszik.}
+{614}{}{HÃ¡t persze. MiÃ©rt is akarnÃ¡nak szabadok lenni, amikor maguknak is dolgozhatnak?}
+{615}{}{NÃ©zze, nem szÃ¡mÃ­t, milyen mÃ©zesmÃ¡zos szavakkal prÃ³bÃ¡lja itt nekem elmismÃ¡solni a bÅ±zt, attÃ³l ez mÃ©g kÅ‘kemÃ©ny rabszolgasÃ¡g.}
+{616}{}{Ã–Ã¶Ã¶... hogyne. HÃ¡t, volna mÃ©g egy-kÃ©t kÃ©rdÃ©sem, ha nem gond.}
+{617}{}{ErrÅ‘l nem Ã³hajtok vitÃ¡t nyitni. Minden jÃ³t magÃ¡nak.}
+{618}{}{Hmmmm. Ezt mÃ©g sosem nÃ©ztem ebbÅ‘l a szemszÃ¶gbÅ‘l. Megyek, vÃ©giggondolom.}
+{619}{lyn098}{A kÃ©tszÃ­nÅ±sÃ©ge elÃ©g jÃ³l fejlett, meg kell hagyni. A Rabszolga-tartÃ³k jelÃ©t viseli, de azÃ©rt a rabszolgasÃ¡got kikÃ©ri magÃ¡nak.}
+{620}{}{Nem kÃ©rem ki magamnak. EgyszerÅ±en csak arra prÃ³bÃ¡lok utalni, hogy az igazi munkÃ¡t Å‘k vÃ©gzik itt.}
+{621}{}{NÃ©zze, a jelet azÃ©rt viselem magamon, hogy informÃ¡ciÃ³khoz jussak... nem vagyok rabszolga-tartÃ³.}
+{622}{}{Fiatal voltam... kellett a pÃ©nz...}
+{623}{}{ErrÅ‘l nem Ã³hajtok vitÃ¡t nyitni. Minden jÃ³t magÃ¡nak.}
+{624}{lyn099}{Ezt hogy kell Ã©rteni?}
+{625}{}{Moore valÃ³jÃ¡ban az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gnak dolgozik.}
+{626}{}{Nem szÃ¡mÃ­t. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{627}{}{Semmi-semmi. Mennem kell. ViszlÃ¡t!}
+{628}{}{Semmi-semmi. FÃ©lrebeszÃ©lek. ViszlÃ¡tÃ¡sra, ElsÅ‘ PolgÃ¡r.}
+{629}{lyn100}{GyilkossÃ¡grÃ³l szÃ³ se essÃ©k. Az ilyesmi semmifÃ©le mÃ³don, kÃ¶ntÃ¶sben, formÃ¡ban nem engedÃ©lyezett MenedÃ©kvÃ¡ros terÃ¼letÃ©n. Akkor sem, ha okunk volna rÃ¡. Ne is emlÃ­tse tÃ¶bbet.}
+{630}{}{Ã‰rtem. FÃ¶ltehetek mÃ©g egy kÃ©rdÃ©st?}
 {631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
  mauled by a brahmin... any of a number of things can happen in this dangerous world.}
-{632}{}{Rendben. Már itt sem vagyok.}
-{633}{}{Rendben van, Elsõ Polgár. Viszontlátásra.}
-{634}{lyn101}{Egy Polgár fejében nem járhatnak ilyen gondolatok! Ezennel bevonom a papírjait. Az õrség megmutatja, merre van a kijárat.}
-{635}{}{Az õrség nem fog idõben ideérni, hogy megmentsék az életét... "Elsõ Polgárka."}
-{636}{}{Nem kellenek az õrök. Megyek én magamtól is.}
-{637}{lyn102}{Habár ez egybeesne Menedékváros érdekeivel, nem támogatom... addig, amíg nem szegi meg a törvényt, Moore azt mond, amit akar.}
-{638}{}{Mit szólna, ha... a körmére néznék?}
-{639}{}{Hát ez nem így van. Moore nem egyszerûen a Polgárok egyike... Mások dolgába is beleüti az orrát.}
-{640}{}{Feltehetnék egy másik kérdést?}
-{641}{}{Nos, ha így halad az illetõ, maga alatt vágja a fát. Késõbb beszélünk.}
-{642}{}{Értem. Nos, kösz, hogy meghallgatott, Elsõ Polgár.}
-{643}{lyn103}{ÚKK kém lenne? Ez... ez... ez iszonyúan sok dolgot megmagyarázna. Köszönöm, Polgártárs. Most azonnal kezembe veszem a problémát.}
-{644}{}{Lenne pár kérdésem.}
-{645}{}{Nagyszerû, köszönöm. Viszlát!}
-{646}{}{Köszönöm, Elsõ Polgár.}
-{647}{lyn104}{Jónéhány hónappal ezelõtt kezdték. A lézerlövegek eddig távol tartották õket, de nem tudom, meddig leszünk képesek megálljt parancsolni nekik.}
-{648}{}{Banditák?}
-{649}{}{Lenne pár kérdésem.}
-{650}{}{Most mennem kell. Viszlát!}
-{651}{}{Sajnálattal hallom ezt. Talán elmennek majd máshova, hogy könnyebb célpontot találjanak. Legyen jó napja, Elsõ Polgár.}
-{652}{lyn105}{Kívülálló söpredék. A városunkat már jó egy évszázada próbálják kifosztani... mindhiába. Alkalomadtán ezeket is hidegre tesszük.}
-{653}{}{Hogyhogy alkalomadtán? Eddig miért nem intézték el õket?}
-{654}{}{Feltehetnék egy másik kérdést?}
-{655}{}{Most mennem kell. Viszlát!}
-{656}{}{Most mennem kell. Viszontlátásra, Elsõ Polgár.}
-{657}{lyn106}{A bázisuk megtalálása nehézségekbe ütközött. Ráadásul jelentõs tûzerõvel rendelkeznek. Ettõl eltekintve persze minden támadásukat visszavertük... és alig voltak veszteségeink.}
-{658}{}{Feltehetnék egy másik kérdést?}
-{659}{}{Most mennem kell. Viszlát!}
-{660}{}{Köszönöm, hogy idõt szakított rám. Viszlát, Elsõ Polgár.}
+{632}{}{Rendben. Akkor mÃ¡r itt sem vagyok.}
+{633}{}{JÃ³l van, ElsÅ‘ PolgÃ¡r. ViszonlÃ¡tÃ¡s!}
+{634}{lyn101}{Egy PolgÃ¡r fejÃ©ben nem jÃ¡rhatnak ilyen gondolatok! Ezennel bevonom a papÃ­rjait. Az Å‘rsÃ©g megmutatja, merre van a kijÃ¡rat.}
+{635}{}{Az Å‘rei nem fognak idÅ‘ben ideÃ©rni, hogy megmentsÃ©k az Ã©letÃ©t "ElsÅ‘ PolgÃ¡r".}
+{636}{}{Nem kellenek az Å‘rÃ¶k. Megyek Ã©n magamtÃ³l is.}
+{637}{lyn102}{HabÃ¡r ez egybeesne MenedÃ©kvÃ¡ros Ã©rdekeivel, nem tÃ¡mogatom... addig, amÃ­g nem szegi meg a tÃ¶rvÃ©nyt, Moore azt mond, amit akar.}
+{638}{}{Mit szÃ³lna, ha... a kÃ¶rmÃ©re nÃ©znÃ©k?}
+{639}{}{HÃ¡t ez nem Ã­gy van. Moore nem egyszerÅ±en a PolgÃ¡rok egyike... MÃ¡sok dolgÃ¡ba is beleÃ¼ti az orrÃ¡t.}
+{640}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{641}{}{Nos, ha Ã­gy halad az illetÅ‘, maga alatt vÃ¡gja a fÃ¡t. KÃ©sÅ‘bb beszÃ©lÃ¼nk.}
+{642}{}{Ã‰rtem. Nos, kÃ¶sz, hogy meghallgatott, ElsÅ‘ PolgÃ¡r.}
+{643}{lyn103}{ÃšKK kÃ©m lenne? Ez... ez... ez iszonyÃºan sok dolgot megmagyarÃ¡zna. KÃ¶szÃ¶nÃ¶m, PolgÃ¡rtÃ¡rs. Most azonnal kezembe veszem a problÃ©mÃ¡t.}
+{644}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{645}{}{NagyszerÅ±, kÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{646}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r asszony.}
+{647}{lyn104}{JÃ³nÃ©hÃ¡ny hÃ³nappal ezelÅ‘tt kezdtÃ©k. A lÃ©zerlÃ¶vegek eddig tÃ¡vol tartottÃ¡k Å‘ket, de nem tudom, meddig leszÃ¼nk kÃ©pesek megÃ¡lljt parancsolni nekik.}
+{648}{}{BanditÃ¡k?}
+{649}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{650}{}{Most mennem kell. ViszontlÃ¡tÃ¡sra.}
+{651}{}{SajnÃ¡lattal hallom ezt. TalÃ¡n elmennek majd mÃ¡shova, hogy kÃ¶nnyebb cÃ©lpontot talÃ¡ljanak. Legyen jÃ³ napja, ElsÅ‘ PolgÃ¡r.}
+{652}{lyn105}{KÃ­vÃ¼lÃ¡llÃ³ sÃ¶predÃ©k. A vÃ¡rosunkat mÃ¡r jÃ³ egy Ã©vszÃ¡zada prÃ³bÃ¡ljÃ¡k kifosztani... mindhiÃ¡ba. AlkalomadtÃ¡n ezeket is hidegre tesszÃ¼k.}
+{653}{}{Hogyhogy alkalomadtÃ¡n? Eddig miÃ©rt nem intÃ©ztÃ©k el Å‘ket?}
+{654}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{655}{}{Most mennem kell. ViszontlÃ¡tÃ¡sra.}
+{656}{}{Most mennem kell. ViszontlÃ¡tÃ¡sra, ElsÅ‘ PolgÃ¡r.}
+{657}{lyn106}{A bÃ¡zisuk megtalÃ¡lÃ¡sa nehÃ©zsÃ©gekbe Ã¼tkÃ¶zÃ¶tt. RÃ¡adÃ¡sul jelentÅ‘s tÅ±zerÅ‘vel rendelkeznek. EttÅ‘l eltekintve persze minden tÃ¡madÃ¡sukat visszavertÃ¼k... Ã©s alig voltak vesztesÃ©geink.}
+{658}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{659}{}{Most mennem kell. ViszontlÃ¡tÃ¡sra.}
+{660}{}{KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m. ViszlÃ¡t, ElsÅ‘ PolgÃ¡r.}
 {661}{lyn107}{Nos?}
-{662}{}{Megtaláltam a bázisukat. Egy dél felé húzódó dombvidéknél találtam egy barlangrendszert, oda ásták be magukat.}
-{663}{}{Kifüstöltem õket. Egy dél felé húzódó dombvidék barlangrendszerébe ásták be magukat.}
-{664}{}{Az információnak ára van.}
-{665}{}{Semmi gond. Viszont mennem kell.}
-{666}{lyn108}{Nahát! Kiváló! A városi õrök eléggé kivannak... magával mi a helyzet? Véget tudna vetni a támadásoknak? Nem lennék szûkmarkú.}
-{667}{}{Nem, jelen pillanatban túlságosan elfoglalt vagyok.}
-{668}{}{Megnézem, mit tehetek.}
-{669}{lyn109}{Na, jó... Ha megbocsát, én is nagyon elfoglalt ember vagyok. Remélem, kitalál innen.}
-{670}{}{Elõször fel szerettem volna tenni néhány kérdést...}
-{671}{}{Elnézést, csak megszaladt a pofám. Már itt sem vagyok.}
-{672}{}{Nos rendben. Legyen jó napja, Elsõ Polgár.}
-{673}{lyn110a}{Miféle zsoldosokról van szó? Ki bérelte fel õket?}
-{674}{lyn110b}{Igen, úgy vélem, már említette ezt korábban. Tudja, ki bérelte fel õket?}
-{675}{}{Le merném fogadni, hogy a New Reno-i Bishop család keze van a dologban.}
-{676}{}{A New Reno-i illetõségû Bishop család.}
-{677}{}{Még nem vagyok benne biztos. Dolgozom az ügyön.}
-{678}{lyn111a}{Micsoda? Honnan tudja ezt? Miféle bizonyítéka van erre?}
-{679}{lyn111b}{Van valami bizonyítéka erre?}
-{680}{}{Kézzelfogható bizonyítékom nincs, de New Reno-ban azt rebesgetik, hogy a Bishop-ok állnak a dolog mögött.}
-{681}{}{A fosztogatók széfjében találtam ezt a számlakönyvet, melyben Bishop által kitöltött számlák vannak a maguk városa ellen indított három hónapos terrorhadjárat pénzügyeinek bizonyítékaképp... egy hónap ráhagyással, ha maguk esetleg túl sokat akadékoskodnának.}
-{682}{}{Egyelõre nincs közvetlen bizonyítékom, de rajta vagyok a problémán.}
-{683}{lyn112}{Nem lennék meglepõdve ezen. Bishop nem is olyan régen látogatást tett nálunk, és azt ajánlotta, hogy kössünk szövetséget. Természetesen visszautasítottam. Mi nem paktálunk le bûnözõkkel.}
-{684}{}{Lehet, hogy ezáltal akarta magukat szövetségbe kényszeríteni.}
-{685}{lyn113}{Hamarosan segítséget kell kérnünk az ÚKK-tól. Ha netán valami kézzelfogható bizonyítékot találna Bishop tevékenységét illetõen, kérem, hozza el nekünk azonnal!}
-{686}{}{Méltányos. Viszont kérdeznék egy s mást...}
-{687}{}{Ha találok valamit, tudatni fogom magával.}
-{688}{}{Úgy lesz, Elsõ Polgár. Viszlát!}
-{689}{lyn114}{Nem vagyok meglepõdve ezen. Bishop nem is olyan régen látogatást tett nálunk, és szövetséget ajánlott. Természetesen visszautasítottam. Mi nem paktálunk le bûnözõkkel.}
+{662}{}{MegtalÃ¡ltam a bÃ¡zisukat. Egy dÃ©l felÃ© hÃºzÃ³dÃ³ dombvidÃ©knÃ©l talÃ¡ltam egy barlangrendszert, oda Ã¡stÃ¡k be magukat.}
+{663}{}{KifÃ¼stÃ¶ltem Å‘ket. Egy dÃ©l felÃ© hÃºzÃ³dÃ³ dombvidÃ©k barlangrendszerÃ©be Ã¡stÃ¡k be magukat.}
+{664}{}{Az informÃ¡ciÃ³nak Ã¡ra van.}
+{665}{}{Felejtse el. Most mennem kell.}
+{666}{lyn108}{NahÃ¡t! KivÃ¡lÃ³! A vÃ¡rosi Å‘rÃ¶k elÃ©ggÃ© kivannak... magÃ¡val mi a helyzet? VÃ©get tudna vetni a tÃ¡madÃ¡soknak? Nem lennÃ©k szÅ±kmarkÃº.}
+{667}{}{Nem, jelen pillanatban tÃºlsÃ¡gosan elfoglalt vagyok.}
+{668}{}{Majd kiderÃ¼l, mit tudok tenni az Ã¼gy Ã©rdekÃ©ben.}
+{669}{lyn109}{Na, jÃ³... Ha megbocsÃ¡t, Ã©n is nagyon elfoglalt ember vagyok. RemÃ©lem, kitalÃ¡l innen.}
+{670}{}{ElÅ‘szÃ¶r fel szerettem volna tenni nÃ©hÃ¡ny kÃ©rdÃ©st...}
+{671}{}{BocsÃ¡nat, akkor megyek is.}
+{672}{}{JÃ³l van. SzÃ©p napot magÃ¡nak, ElsÅ‘ PolgÃ¡r.}
+{673}{lyn110a}{MifÃ©le zsoldosokrÃ³l van szÃ³? Ki bÃ©relte fel Å‘ket?}
+{674}{lyn110b}{Igen, Ãºgy vÃ©lem, mÃ¡r emlÃ­tette ezt korÃ¡bban. Tudja, ki bÃ©relte fel Å‘ket?}
+{675}{}{Le mernÃ©m fogadni, hogy a New Reno-i Bishop csalÃ¡d keze van a dologban.}
+{676}{}{A New Reno-i illetÅ‘sÃ©gÅ± Bishop csalÃ¡d.}
+{677}{}{MÃ©g nem vagyok benne biztos. Dolgozom az Ã¼gyÃ¶n.}
+{678}{lyn111a}{Micsoda? Honnan tudja ezt? MifÃ©le bizonyÃ­tÃ©ka van erre?}
+{679}{lyn111b}{Van valami bizonyÃ­tÃ©ka erre?}
+{680}{}{KÃ©zzelfoghatÃ³ bizonyÃ­tÃ©kom nincs, de New Reno-ban azt rebesgetik, hogy a Bishop-ok Ã¡llnak a dolog mÃ¶gÃ¶tt.}
+{681}{}{A fosztogatÃ³k szÃ©fjÃ©ben talÃ¡ltam ezt a szÃ¡mlakÃ¶nyvet, melyben Bishop Ã¡ltal kitÃ¶ltÃ¶tt szÃ¡mlÃ¡k vannak a maguk vÃ¡rosa ellen indÃ­tott hÃ¡rom hÃ³napos terrorhadjÃ¡rat pÃ©nzÃ¼gyeinek bizonyÃ­tÃ©kakÃ©pp... egy hÃ³nap rÃ¡hagyÃ¡ssal, ha maguk esetleg tÃºl sokat akadÃ©koskodnÃ¡nak.}
+{682}{}{EgyelÅ‘re nincs kÃ¶zvetlen bizonyÃ­tÃ©kom, de rajta vagyok a problÃ©mÃ¡n.}
+{683}{lyn112}{Nem lennÃ©k meglepÅ‘dve ezen. Bishop nem is olyan rÃ©gen lÃ¡togatÃ¡st tett nÃ¡lunk, Ã©s azt ajÃ¡nlotta, hogy kÃ¶ssÃ¼nk szÃ¶vetsÃ©get. TermÃ©szetesen visszautasÃ­tottam. Mi nem paktÃ¡lunk le bÅ±nÃ¶zÅ‘kkel.}
+{684}{}{Lehet, hogy ezÃ¡ltal akarta magukat szÃ¶vetsÃ©gbe kÃ©nyszerÃ­teni.}
+{685}{lyn113}{Hamarosan segÃ­tsÃ©get kell kÃ©rnÃ¼nk az ÃšKK-tÃ³l. Ha netÃ¡n valami kÃ©zzelfoghatÃ³ bizonyÃ­tÃ©kot talÃ¡lna Bishop tevÃ©kenysÃ©gÃ©t illetÅ‘en, kÃ©rem, hozza el nekÃ¼nk azonnal!}
+{686}{}{MÃ©ltÃ¡nyos. Viszont kÃ©rdeznÃ©k egy s mÃ¡st...}
+{687}{}{Ha talÃ¡lok valamit, tudatni fogom magÃ¡val.}
+{688}{}{Ãšgy lesz, ElsÅ‘ PolgÃ¡r. ViszlÃ¡t!}
+{689}{lyn114}{Nem vagyok meglepÅ‘dve ezen. Bishop nem is olyan rÃ©gen lÃ¡togatÃ¡st tett nÃ¡lunk, Ã©s szÃ¶vetsÃ©get ajÃ¡nlott. TermÃ©szetesen visszautasÃ­tottam. Mi nem paktÃ¡lunk le bÅ±nÃ¶zÅ‘kkel.}
 {690}{}{I think he expected that. I found this holodisc in Bishop's safe. He was hired by NCR to get
  Vault City to join the Republic. When you refused his offer, he hired the mercenaries to attack you
  so you would ask NCR for help.}
-{691}{}{Lehet, hogy ezáltal akarta magukat szövetségbe kényszeríteni.}
-{692}{lyn115}{Lehetséges... de ez sosem mûködne. Hamarosan az ÚKK segítségéhez kell folyamodnom. Ön nagy szolgálatot tett Menedékvárosnak. Kérem, fogadja el ezt az elismerésünk jeléül.}
-{693}{}{Nagyszerû! Kérdezhetek még valamit?}
-{694}{}{Ha hallok még valamit, tudatni fogom magukkal.}
-{695}{}{Örömömre szolgált, Elsõ Polgár. Minden jót magának.}
-{696}{lyn116}{Természetesen. Zsoldosokat küldtek a népem kiirtására csak azért mert nem akartam csatlakozni a kormányukhoz? Ezt... ezt nem akarom elhinni.}
-{697}{}{A dolog ennél sokkal komplikáltabb, ugyanis Thomas Moore is nyakig benne van.}
-{698}{}{Segíthetek bármiben?}
-{699}{}{Ez bizony durva egy világ. Viszont most beszélhetnénk a kompenz - }
-{700}{lyn117}{Amit maga tesz, nem Polgárhoz méltó, viszont szükségem van az információra. Mennyit akar?}
-{701}{}{100 dollárt}
-{702}{}{200 dollárt}
-{703}{}{400 dollárt}
-{704}{}{500 dollárt}
-{705}{}{Emiatt ne aggódjon. Ingyen is elmondom az információt.}
-{706}{lyn118}{Jól van, fogja a pénzét. Most pedig ki vele, mit tud?}
-{707}{}{Megtaláltam a bázisukat. Egy dél felé húzódó dombvidéknél találtam egy barlangrendszert, oda ásták be magukat.}
-{708}{}{Kifüstöltem õket. Egy dél felé húzódó dombvidék barlangrendszerébe ásták be magukat.}
-{709}{}{Az igazat megvallva, semmi újdonságot nem tudok mondani.}
-{710}{}{Kösz a pénzért. Most mennem kell.}
+{691}{}{Lehet, hogy ezÃ¡ltal akarta magukat szÃ¶vetsÃ©gbe kÃ©nyszerÃ­teni.}
+{692}{lyn115}{LehetsÃ©ges... de ez sosem mÅ±kÃ¶dne. Hamarosan az ÃšKK segÃ­tsÃ©gÃ©hez kell folyamodnom. Ã–n nagy szolgÃ¡latot tett MenedÃ©kvÃ¡rosnak. KÃ©rem, fogadja el ezt az elismerÃ©sÃ¼nk jelÃ©Ã¼l.}
+{693}{}{KÃ¶szÃ¶nÃ¶m. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{694}{}{Ha hallok mÃ©g valamit, tudatni fogom magukkal.}
+{695}{}{Ã–rÃ¶mÃ¶mre szolgÃ¡lt, ElsÅ‘ PolgÃ¡r. Minden jÃ³t magÃ¡nak.}
+{696}{lyn116}{TermÃ©szetesen. Zsoldosokat kÃ¼ldtek a nÃ©pem kiirtÃ¡sÃ¡ra csak azÃ©rt mert nem akartam csatlakozni a kormÃ¡nyukhoz? Ezt... ezt nem akarom elhinni.}
+{697}{}{A dolog ennÃ©l sokkal komplikÃ¡ltabb, ugyanis Thomas Moore is nyakig benne van.}
+{698}{}{Van valami, amiben segÃ­thetnÃ©k?}
+{699}{}{Ez bizony durva egy vilÃ¡g. Viszont most beszÃ©lhetnÃ©nk a kompenz - }
+{700}{lyn117}{Amit maga tesz, nem PolgÃ¡rhoz mÃ©ltÃ³, viszont szÃ¼ksÃ©gem van az informÃ¡ciÃ³ra. Mennyit akar?}
+{701}{}{100 dollÃ¡rt}
+{702}{}{200 dollÃ¡rt}
+{703}{}{400 dollÃ¡rt}
+{704}{}{500 dollÃ¡rt}
+{705}{}{Emiatt ne aggÃ³djon. Ingyen is elmondom az informÃ¡ciÃ³t.}
+{706}{lyn118}{JÃ³l van, fogja a pÃ©nzÃ©t. Most pedig ki vele, mit tud?}
+{707}{}{MegtalÃ¡ltam a bÃ¡zisukat. Egy dÃ©l felÃ© hÃºzÃ³dÃ³ dombvidÃ©knÃ©l talÃ¡ltam egy barlangrendszert, oda Ã¡stÃ¡k be magukat.}
+{708}{}{KifÃ¼stÃ¶ltem Å‘ket. Egy dÃ©l felÃ© hÃºzÃ³dÃ³ dombvidÃ©k barlangrendszerÃ©be Ã¡stÃ¡k be magukat.}
+{709}{}{Az igazat megvallva, semmi ÃºjdonsÃ¡got nem tudok mondani.}
+{710}{}{KÃ¶sz a pÃ©nzÃ©rt. Most mennem kell.}
 {711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
  Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
-{712}{}{Öö... nem hallotta jól? Westin halott. Úgy értem, baleset érte. Halálos baleset. Hosszú történet.}
-{713}{}{Várjunk egy pillanatra. Most menjek az ÚKK-ba? Nem õk felelõsek ezért az egészért?}
-{714}{}{Rendben. Elvállalom.}
-{715}{}{Nem, köszönöm, olyan elfoglalt vagyok, mint még soha.}
-{716}{lyn120}{Roger Westin valószínûleg az egyetlen Új Kaliforniai ember, akit õszintének lehetett nevezni, és szimpatizált az ügyünkkel... halála szörnyû veszteség.}
-{717}{}{Igen, elég kemény fickó volt. Jó gyerek. Csomó életponttal. Szóval... ettõl eltekintve megkapom a jutalmamat a megszerzendõ információért, vagy...?}
-{718}{}{Igen, én is szomorúan hallottam. Mintha épp csak az imént láttam volna õt.}
-{719}{lyn121a}{Úgy emlékszem, hogy a "fosztogatókért" járó fizetségét már megkapta. A kompenzáció megvolt, most pedig távozzék.}
-{720}{lyn121b}{Igen, igen... nagyon jó szolgálatot tett. Kérem... fogadja el a jutalmat tõlünk.}
-{721}{}{Nincs jutalom? Erre a politikai szarságra nem volt könnyû rájönni. Szerintem valami pluszt érdemlek, nem gondolja?}
-{722}{}{Várjon, még nem végeztem. Volna még egynéhány kérdésem.}
-{723}{}{Elnézést, csak megszaladt a pofám. Már itt sem vagyok.}
-{724}{}{Nagyszerû! Kérdezhetek még valamit?}
-{725}{}{Nagyszerû! Köszönöm... most azonban mennem kell.}
-{726}{}{Köszönöm, Elsõ Polgár.}
-{727}{lyn122}{Roger Westin valószínûleg az egyetlen Új Kaliforniai ember, akit õszintének lehet nevezni, és szimpatizál az ügyünkkel...}
+{712}{}{Ã–Ã¶... nem hallotta jÃ³l? Westin halott. Ãšgy Ã©rtem, baleset Ã©rte. HalÃ¡los baleset. HosszÃº tÃ¶rtÃ©net.}
+{713}{}{VÃ¡rjunk egy pillanatra. Most menjek az ÃšKK-ba? Nem Å‘k felelÅ‘sek ezÃ©rt az egÃ©szÃ©rt?}
+{714}{}{Rendben. ElvÃ¡llalom.}
+{715}{}{Nem, kÃ¶szÃ¶nÃ¶m, olyan elfoglalt vagyok, mint mÃ©g soha.}
+{716}{lyn120}{Roger Westin valÃ³szÃ­nÅ±leg az egyetlen Ãšj Kaliforniai ember, akit Å‘szintÃ©nek lehetett nevezni, Ã©s szimpatizÃ¡lt az Ã¼gyÃ¼nkkel... halÃ¡la szÃ¶rnyÅ± vesztesÃ©g.}
+{717}{}{Igen, elÃ©g kemÃ©ny fickÃ³ volt. JÃ³ gyerek. CsomÃ³ Ã©letponttal. SzÃ³val... ettÅ‘l eltekintve megkapom a jutalmamat a megszerzendÅ‘ informÃ¡ciÃ³Ã©rt, vagy...?}
+{718}{}{Igen, Ã©n is szomorÃºan hallottam. Mintha Ã©pp csak az imÃ©nt lÃ¡ttam volna Å‘t.}
+{719}{lyn121a}{Ãšgy emlÃ©kszem, hogy a "fosztogatÃ³kÃ©rt" jÃ¡rÃ³ fizetsÃ©gÃ©t mÃ¡r megkapta. A kompenzÃ¡ciÃ³ megvolt, most pedig tÃ¡vozzÃ©k.}
+{720}{lyn121b}{Igen, igen... nagyon jÃ³ szolgÃ¡latot tett. KÃ©rem... fogadja el a jutalmat tÅ‘lÃ¼nk.}
+{721}{}{Nincs jutalom? Erre a politikai szarsÃ¡gra nem volt kÃ¶nnyÅ± rÃ¡jÃ¶nni. Szerintem valami pluszt Ã©rdemlek, nem gondolja?}
+{722}{}{VÃ¡rjon, mÃ©g nem vÃ©geztem. Volna mÃ©g egynÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{723}{}{BocsÃ¡nat, akkor megyek is.}
+{724}{}{KÃ¶szÃ¶nÃ¶m. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{725}{}{NagyszerÅ±! KÃ¶szÃ¶nÃ¶m... most azonban mennem kell.}
+{726}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r asszony.}
+{727}{lyn122}{Roger Westin valÃ³szÃ­nÅ±leg az egyetlen Ãšj Kaliforniai ember, akit Å‘szintÃ©nek lehet nevezni, Ã©s szimpatizÃ¡l az Ã¼gyÃ¼nkkel...}
 {728}{}{Rendben, elviszem neki a lemezt.}
-{729}{}{Nem köszönöm. Mostanság túl elfoglalt vagyok.}
+{729}{}{Nem kÃ¶szÃ¶nÃ¶m. MostansÃ¡g tÃºl elfoglalt vagyok.}
 {730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
-{731}{}{Mielõtt útnak erednék, volna néhány kérdésem.}
-{732}{}{Elvállalom.}
-{733}{}{Számíthat rám, Elsõ Polgár. Amint visszavittem a lemezt Westinnek, benézek.}
-{734}{lyn124}{Akárhogy is legyen, Menedékváros a jövõben is mindenek felett fog állni. Ön értékes szolgálatot tett nekünk... kérem, fogadja el ezt elismerésünk jeleként.}
-{735}{}{Nagyszerû! Kérdezhetek még valamit?}
-{736}{}{Nagyszerû! Köszönöm... most azonban mennem kell.}
-{737}{}{Köszönöm, Elsõ Polgár.}
-{738}{lyn125}{Elvitte a lemezt a rendeltetési helyére?}
-{739}{}{Nem. Azon gondolkodtam volt, miféle jutalomról beszélt nekem.}
-{740}{}{Nem, most túl elfoglalt vagyok ehhez.}
-{741}{}{Nem, még nem. Viszont kérdésem az volna néhány...}
-{742}{}{Elvittem a lemezt Westin képviselõnek.}
-{743}{}{Még nem. Amint megvagyok, visszajövök.}
-{744}{}{Még nem, Elsõ Polgár. Amint elvittem Westin-nek, visszajövök.}
-{745}{lyn126}{Megteszi nekünk?! Remek! Vigye el a Bishop-tól szerzett lemezt, és ne késlekedjen. Sürget az idõ.}
-{746}{}{Mielõtt útnak erednék, volna néhány kérdésem.}
-{747}{}{Elvállalom.}
-{748}{}{Számíthat rám, Elsõ Polgár. Amint visszavittem a lemezt Westinnek, benézek.}
+{731}{}{MielÅ‘tt mennÃ©k, volna egynÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{732}{}{Hallgatom.}
+{733}{}{SzÃ¡mÃ­that rÃ¡m, ElsÅ‘ PolgÃ¡r. VisszatÃ©rek, amint a lemezt Ã¡tadtam Westin-nek.}
+{734}{lyn124}{AkÃ¡rhogy is legyen, MenedÃ©kvÃ¡ros a jÃ¶vÅ‘ben is mindenek felett fog Ã¡llni. Ã–n Ã©rtÃ©kes szolgÃ¡latot tett nekÃ¼nk... kÃ©rem, fogadja el ezt elismerÃ©sÃ¼nk jelekÃ©nt.}
+{735}{}{KÃ¶szÃ¶nÃ¶m. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{736}{}{NagyszerÅ±! KÃ¶szÃ¶nÃ¶m... most azonban mennem kell.}
+{737}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r asszony.}
+{738}{lyn125}{Elvitte a lemezt a rendeltetÃ©si helyÃ©re?}
+{739}{}{Nem. Azon gondolkodtam volt, mifÃ©le jutalomrÃ³l beszÃ©lt nekem.}
+{740}{}{Nem, most tÃºl elfoglalt vagyok ehhez.}
+{741}{}{Nem, mÃ©g nem. Viszont kÃ©rdÃ©sem az volna nÃ©hÃ¡ny...}
+{742}{}{Elvittem a lemezt Westin kÃ©pviselÅ‘nek.}
+{743}{}{MÃ©g nem. Amint megvagyok, visszajÃ¶vÃ¶k.}
+{744}{}{MÃ©g nem, ElsÅ‘ PolgÃ¡r. Amint elvittem Westin-nek, visszajÃ¶vÃ¶k.}
+{745}{lyn126}{Megteszi nekÃ¼nk?! Remek! Vigye el a Bishop-tÃ³l szerzett lemezt, Ã©s ne kÃ©slekedjen. SÃ¼rget az idÅ‘.}
+{746}{}{MielÅ‘tt mennÃ©k, volna egynÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{747}{}{Hallgatom.}
+{748}{}{SzÃ¡mÃ­that rÃ¡m, ElsÅ‘ PolgÃ¡r. VisszatÃ©rek, amint a lemezt Ã¡tadtam Westin-nek.}
 {749}{lyn127}{Believe me, you will not be disappointed. Now please deliver that holodisk.}
-{750}{}{Mielõtt útnak erednék, volna néhány kérdésem.}
+{750}{}{MielÅ‘tt mennÃ©k, volna egynÃ©hÃ¡ny kÃ©rdÃ©sem...}
 {751}{}{Rendben, hallgatom.}
-{752}{}{Számíthat rám, Elsõ Polgár. Amint visszavittem a lemezt Westinnek, benézek.}
-{753}{lyn128}{Látom, hogy a megállapodásunk nem jelentett semmit magának. Így is jó. A maga menedékvárosi privilégiumait ezennel megvonom. Az õrség kivezeti magát a kapuhoz.}
-{754}{}{Az õrökkel végzek... miután végeztem magával.}
-{755}{}{Oké! Itt a lemez, most megyek.}
-{756}{lyn129}{Köszönöm! Nagyon nagy szolgálatot tett nekünk! Westin küldött választ?}
-{757}{}{Igen, kezdem a Jövõ Hírnökének érezni magamat. Tessék, azt akarta, hogy adjam át magának ezt a lemezt.}
-{758}{}{Nem, elveszítettem.}
+{752}{}{SzÃ¡mÃ­that rÃ¡m, ElsÅ‘ PolgÃ¡r. VisszatÃ©rek, amint a lemezt Ã¡tadtam Westin-nek.}
+{753}{lyn128}{LÃ¡tom, hogy a megÃ¡llapodÃ¡sunk nem jelentett semmit magÃ¡nak. Ãgy is jÃ³. A maga menedÃ©kvÃ¡rosi privilÃ©giumait ezennel megvonom. Az Å‘rsÃ©g kivezeti magÃ¡t a kapuhoz.}
+{754}{}{Az Å‘rÃ¶kkel vÃ©gzek... miutÃ¡n vÃ©geztem magÃ¡val.}
+{755}{}{OkÃ©! Itt a lemez, most megyek.}
+{756}{lyn129}{KÃ¶szÃ¶nÃ¶m! Nagyon nagy szolgÃ¡latot tett nekÃ¼nk! Westin kÃ¼ldÃ¶tt vÃ¡laszt?}
+{757}{}{Igen, kezdem a JÃ¶vÅ‘ HÃ­rnÃ¶kÃ©nek Ã©rezni magamat. TessÃ©k, azt akarta, hogy adjam Ã¡t magÃ¡nak ezt a lemezt.}
+{758}{}{Nem, elveszÃ­tettem.}
 {759}{}{Nem, nem adott nekem semmit.}
-{760}{lyn130a}{Kiváló. Hadd szkenneljem le.}
+{760}{lyn130a}{KivÃ¡lÃ³. Hadd szkenneljem le.}
 {761}{}{Fade out 3 seconds}
-{762}{lyn130b}{Az ÚKK-val most jó sokáig nem lesz gondunk.}
-{763}{}{Ez bizony jó hír.}
-{764}{lyn131}{Most... térjünk rá a fizetségre. Keresse fel Randal-t, a Komforthivatal vezetõjét. Mondja meg neki, hogy én küldtem és majd õ átadja a jutalmát. Még egyszer köszönjük.}
-{765}{}{Mielõtt útnak erednék, volna néhány kérdésem.}
-{766}{}{Rendben. Hé, jutalom, már itt is vagyok.}
-{767}{}{Köszönöm, Elsõ Polgár. Viszontlátásra.}
-{768}{lyn132}{Egyedülálló szolgálatot tett. Oly nagy szolgálatot, hogy tisztségemnél fogva ezennel az õrség századosának nevezem ki. Fogadja gratulációmat, Kapitány. Megérdemli.}
-{769}{}{Ööö... köszönöm.}
-{770}{}{Köszönöm, Elsõ Polgár.}
-{771}{lyn133}{Ezenfelül jelentkezzen be Randal-nál, a Komforthivatal vezetõjénél! Mondja meg neki, hogy én küldtem, és megkapja a jutalmát. Lekötelezett bennünket... Kapitány.}
-{772}{}{Mielõtt útnak erednék, volna néhány kérdésem.}
-{773}{}{Rendben. Hé, jutalom, már itt is vagyok!}
-{774}{}{Köszönöm, Elsõ Polgár. Viszontlátásra.}
-{775}{lyn134}{Elvesztette? Az a válasz hihetetlenül fontos volt! Na, mindegy... itt a fizetsége a lemez elszállításáért. Most pedig, ha megbocsát...}
-{776}{}{Várjon egy pillanatra! Mielõtt elmennék, volna még néhány kérdésem.}
-{777}{}{Késõbb találkozunk.}
-{778}{}{Legyen jó napja, Elsõ Polgár.}
-{779}{lyn135}{Nem adott magának semmit? Különös... akárhogy is legyen, itt a fizetsége a lemez elviteléért. Most pedig, ha megbocsát...}
-{780}{}{Várjon egy pillanatra! Mielõtt elmennék, volna még néhány kérdésem.}
-{781}{}{Késõbb találkozunk.}
-{782}{}{Legyen jó napja, Elsõ Polgár.}
+{762}{lyn130b}{Az ÃšKK-val most jÃ³ sokÃ¡ig nem lesz gondunk.}
+{763}{}{Ez bizony jÃ³ hÃ­r.}
+{764}{lyn131}{Most... tÃ©rjÃ¼nk rÃ¡ a fizetsÃ©gre. Keresse fel Randal-t, a Komforthivatal vezetÅ‘jÃ©t. Mondja meg neki, hogy Ã©n kÃ¼ldtem Ã©s majd Å‘ Ã¡tadja a jutalmÃ¡t. MÃ©g egyszer kÃ¶szÃ¶njÃ¼k.}
+{765}{}{MielÅ‘tt mennÃ©k, volna egynÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{766}{}{Rendben. HÃ©, jutalom, mÃ¡r itt is vagyok.}
+{767}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r. Legyen jÃ³ napja.}
+{768}{lyn132}{EgyedÃ¼lÃ¡llÃ³ szolgÃ¡latot tett. Oly nagy szolgÃ¡latot, hogy tisztsÃ©gemnÃ©l fogva ezennel az Å‘rsÃ©g szÃ¡zadosÃ¡nak nevezem ki. Fogadja gratulÃ¡ciÃ³mat, KapitÃ¡ny. MegÃ©rdemli.}
+{769}{}{Ã–Ã¶Ã¶... kÃ¶szÃ¶nÃ¶m.}
+{770}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r asszony.}
+{771}{lyn133}{EzenfelÃ¼l jelentkezzen be Randal-nÃ¡l, a Komforthivatal vezetÅ‘jÃ©nÃ©l! Mondja meg neki, hogy Ã©n kÃ¼ldtem, Ã©s megkapja a jutalmÃ¡t. LekÃ¶telezett bennÃ¼nket... KapitÃ¡ny.}
+{772}{}{MielÅ‘tt mennÃ©k, volna egynÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{773}{}{Rendben. HÃ©, jutalom, mÃ¡r itt is vagyok!}
+{774}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r. Legyen jÃ³ napja.}
+{775}{lyn134}{Elvesztette? Az a vÃ¡lasz hihetetlenÃ¼l fontos volt! Na, mindegy... itt a fizetsÃ©ge a lemez elszÃ¡llÃ­tÃ¡sÃ¡Ã©rt. Most pedig, ha megbocsÃ¡t...}
+{776}{}{VÃ¡rjon egy pillanatra! MielÅ‘tt elindulnÃ©k, volna nÃ©hÃ¡ny kÃ©rdÃ©s a tarsolyomban.}
+{777}{}{KÃ©sÅ‘bb talÃ¡lkozunk mÃ©g.}
+{778}{}{JÃ³napot, ElsÅ‘ PolgÃ¡r.}
+{779}{lyn135}{Nem adott magÃ¡nak semmit? KÃ¼lÃ¶nÃ¶s... akÃ¡rhogy is legyen, itt a fizetsÃ©ge a lemez elvitelÃ©Ã©rt. Most pedig, ha megbocsÃ¡t...}
+{780}{}{VÃ¡rjon egy pillanatra! MielÅ‘tt elindulnÃ©k, volna nÃ©hÃ¡ny kÃ©rdÃ©s a tarsolyomban.}
+{781}{}{KÃ©sÅ‘bb talÃ¡lkozunk mÃ©g.}
+{782}{}{JÃ³napot, ElsÅ‘ PolgÃ¡r.}
 {783}{lyn136}{Nos?}
-{784}{}{Ezt a hololemezt Bishop széfjében találtam. Az ÚKK bérelte fel, hogy rávegye Menedékvárost a Köztársasághoz való csatlakozásra. Amikor maga visszautasította Bishop ajánlatát, a férfi zsoldosokat bérelt fel, hogy támadják meg Menedékvárost, és emiatt mindenképpen az ÚKK segítségéhez kelljen folyamodniuk.}
-{785}{lyn099}{Ez hogy kell érteni?}
-{786}{}{Moore igazából az Új Kalifornia Köztársaságnak dolgozik.}
-{787}{lyn138}{Az ÚKK-nak kémkedne? Ez... ez... nagyon sok mindent megmagyarázna. Köszönjük, hogy fényt derített erre, Polgártárs. Ezt a problémát azon nyomban a kezembe veszem.}
-{788}{}{Az ÚKK problémáról volna szó... van valami, amiben segíthetnék?}
-{789}{}{Ezt jó hallani. Egyébként a Reno és az ÚKK ügyében tett dolgokért esetleg számítanék valami jutal - }
-{790}{}{Õrség!}
-{791}{}{Kérem, keresse fel a Fõbiztost! Nála lesz, amire szüksége van.}
-{792}{}{Kérem, keresse meg McClure Fõtanácsost! Nála lesz, amire szüksége van.}
-{793}{}{Kérem, keresse fel az asszisztensemet! Nála lesz, amire szüksége van.}
-{794}{}{Észak}
-{795}{}{Dél}
+{784}{}{Ezt a hololemezt Bishop szÃ©fjÃ©ben talÃ¡ltam. Az ÃšKK bÃ©relte fel, hogy rÃ¡vegye MenedÃ©kvÃ¡rost a KÃ¶ztÃ¡rsasÃ¡ghoz valÃ³ csatlakozÃ¡sra. Amikor maga visszautasÃ­totta Bishop ajÃ¡nlatÃ¡t, a fÃ©rfi zsoldosokat bÃ©relt fel, hogy tÃ¡madjÃ¡k meg MenedÃ©kvÃ¡rost, Ã©s emiatt mindenkÃ©ppen az ÃšKK segÃ­tsÃ©gÃ©hez kelljen folyamodniuk.}
+{785}{lyn099}{Ezt hogy kell Ã©rteni?}
+{786}{}{Moore valÃ³jÃ¡ban az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gnak dolgozik.}
+{787}{lyn138}{Az ÃšKK-nak kÃ©mkedne? Ez... ez... nagyon sok mindent megmagyarÃ¡zna. KÃ¶szÃ¶njÃ¼k, hogy fÃ©nyt derÃ­tett erre, PolgÃ¡rtÃ¡rs. Ezt a problÃ©mÃ¡t azon nyomban a kezembe veszem.}
+{788}{}{Az ÃšKK problÃ©mÃ¡rÃ³l volna szÃ³... van valami, amiben segÃ­thetnÃ©k?}
+{789}{}{Ezt jÃ³ hallani. EgyÃ©bkÃ©nt a Reno Ã©s az ÃšKK Ã¼gyÃ©ben tett dolgokÃ©rt esetleg szÃ¡mÃ­tanÃ©k valami jutal - }
+{790}{}{ÅrsÃ©g!}
+{791}{}{KÃ©rem, keresse fel a FÅ‘biztost! NÃ¡la lesz, amire szÃ¼ksÃ©ge van.}
+{792}{}{KÃ©rem, keresse meg McClure FÅ‘tanÃ¡csost! NÃ¡la lesz, amire szÃ¼ksÃ©ge van.}
+{793}{}{KÃ©rem, keresse fel az asszisztensemet! NÃ¡la lesz, amire szÃ¼ksÃ©ge van.}
+{794}{}{Ã‰szak}
+{795}{}{DÃ©l}
 {796}{}{Kelet}
 {797}{}{Nyugat}
-{798}{}{Észak-nyugat}
-{799}{}{Észak-kelet}
-{800}{}{Dél-nyugat}
-{801}{}{Dél-kelet}
-{802}{}{Északra}
-{803}{}{Délre}
-{804}{}{Kelet felé}
+{798}{}{Ã‰szak-nyugat}
+{799}{}{Ã‰szak-kelet}
+{800}{}{DÃ©l-nyugat}
+{801}{}{DÃ©l-kelet}
+{802}{}{Ã‰szakra}
+{803}{}{DÃ©lre}
+{804}{}{Kelet felÃ©}
 {805}{}{Nyugatra}
-{806}{}{Észak-nyugatra}
-{807}{}{Észak-keletre.}
-{808}{}{Dél-nyugatra}
-{809}{}{Dél-keletre}
+{806}{}{Ã‰szak-nyugatra}
+{807}{}{Ã‰szak-keletre.}
+{808}{}{DÃ©l-nyugatra}
+{809}{}{DÃ©l-keletre}
 {810}{}{Nem akarom.}
-{811}{}{Köszönöm!}
-{812}{}{Köszönöm, hogy idõt szakított rám.}
-{813}{}{Õrség!}
-{814}{}{Én bizony szeretem Scott Rodenhizer-t, aki a karakterek fejeit tervezte.}
-{815}{}{Csinosak a kis rasztafürtjeim.}
+{811}{}{KÃ¶szÃ¶nÃ¶m.}
+{812}{}{KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m.}
+{813}{}{ÅrsÃ©g!}
+{814}{}{Ã‰n bizony szeretem Scott Rodenhizer-t, aki a karakterek fejeit tervezte.}
+{815}{}{Csinosak a kis rasztafÃ¼rtjeim.}
 {816}{}{T-Ray thinks a little too highly of himself.}
-{817}{}{Ez jó hír.}
-{818}{}{Rendben.}
-{819}{}{Minden jót!}
-{820}{}{Jó napot, Polgártárs!}
-{821}{}{Én viszem el.}
+{817}{}{Ez jÃ³ hÃ­r.}
+{818}{}{JÃ³l van.}
+{819}{}{JÃ³ napot.}
+{820}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{821}{}{Ã‰n viszem el.}
 {822}{}{Adja ezt oda nekem!}
-{823}{}{Arról semmit se tudok.}
+{823}{}{ArrÃ³l semmit se tudok.}
 {824}{}{Nem tudom.}
 {825}{}{Igen.}
 {826}{}{Nem.}
 {827}{}{Minden bizonnyal.}
-{828}{}{Persze.}
-{829}{}{Így van.}
+{828}{}{TermÃ©szetesen.}
+{829}{}{Ãgy van.}
 {830}{}{Pontosan.}
-{831}{}{Úgy van.}
+{831}{}{Folytatom.}
 {832}{}{Hmmmmm.}
-{833}{}{Elmagyarázná nekem, hogy a Fallout 2-ben, miért nincsenek fekete fõszereplõk?}
-{834}{}{Menedékváros mindenek felett!}
-{835}{}{Menedékváros mindenek felett, Polgártárs.}
-{836}{}{A Ratracer információs szolgálata az Ön rendelkezésére áll, Asszonyom!}
-{837}{}{Degenerált!}
-{838}{}{Kívülálló}
-{839}{}{Mocskos Kívülálló...}
-{840}{}{*Hortyogás*}
+{833}{}{ElmagyarÃ¡znÃ¡ nekem, hogy a Fallout 2-ben, miÃ©rt nincsenek fekete fÅ‘szereplÅ‘k?}
+{834}{}{MenedÃ©kvÃ¡ros mindenek felett!}
+{835}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{836}{}{A Ratracer informÃ¡ciÃ³s szolgÃ¡lata az Ã–n rendelkezÃ©sÃ©re Ã¡ll, Asszonyom!}
+{837}{}{DegenerÃ¡lt!}
+{838}{}{KÃ­vÃ¼lÃ¡llÃ³}
+{839}{}{Mocskos KÃ­vÃ¼lÃ¡llÃ³...}
+{840}{}{*HortyogÃ¡s*}
 {841}{}{*Zzzzzzzzzzz*}
-{842}{}{A lemez tartalma elég kell, hogy legyen a megállításukra. A fosztogatók leleplezõdtek, és ha a lemez tartalma valaha is kikerül az ÚKK külsõ kerületeibe, többet nem bízik bennük senki.}
-{843}{}{A gekkót érintõ adataim szerint még mindig élnek ghoul-ok a városban. A maga Polgári státusza a szituáció megoldásától függ... csakis attól. Érthetõ voltam?}
-{844}{}{Sajnálom, azt hittem, mindet megöltem.}
-{845}{}{Jó kezdés, de a talajvíz továbbra is szennyezõdik. Ki kell iktatnia az erõmûvüket!}
-{846}{}{Az valóban segít, de nem oldja meg az elsõdleges problémánkat, mégpedig a talajvíz szennyezõdést. Meg kell akadályoznia, hogy az erõmûbõl kiszivároghasson a sugárzás.}
-{847}{}{A falunk vezetõje adott nekem egy vizesflaskát, de most épp nincs nálam. A törzsfõ által mesélt történetek szerint az õsöm egy Menedékbõl származik.}
-{848}{}{A ghoul-okra gondol? Igen, rájöttem, mi a baj az erõmûvükkel.}
-{849}{}{Az erõmûbe kell egy hidromágnes, öö, egy olyan izé, hogy mûködhessen. A ghoul-ok szerint maguknak van itt olyanjuk, ezért szeretném elkérni, hogy rendbehozhassuk az erõmûvet.}
-{850}{}{Egy hidroelektromos magnetoszféra szabályzóra van szükségük, hogy megjavítsák az erõmûvet és megakadályozzák a talajvíz szennyezõdését. Azt állítják, hogy Menedékvárosban van ilyesmi. Szóval, ha megkaphatnám azt az alkatrészt...}
-{851}{}{Na, sebaj. Késõbb is beszélhetünk errõl.}
-{852}{lyn047b}{És ha igen? Ez csak átmeneti megoldás.}
-{853}{}{Öö... hát, nem tudom a specifikációkat, de nagyon úgy hangzik, hogy a magneto-izé mind Gekkón, mind Menedékvároson egyaránt segítene. Megkaphatnám azt az alkatrészt?}
-{854}{}{Az a helyzet, hogy a szabályzó segítségével az erõmûvet évekig lehetne szennyezésmentesen üzemeltetni. Szóval, ha megkaphatnám azt az alkatrészt...}
-{855}{}{Na, sebaj. Talán valaki más majd segít nekem.}
-{856}{}{Jól mondja, Elsõ Polgár. Megnézzük, én magam mit tehetek az ügy érdekében.}
-{857}{}{Nem hinném, hogy értem. Van valami probléma Gekkóval... vagy a ghoul-okkal?}
-{858}{}{Elsõ Polgár, kérem, figyelmezzen reám... van valami akadálya, hogy megkapjam az alkatrészt? Megoldaná a maguk Gekkóval fennáló problémáját és a ghoul-okon is segítene...}
-{859}{}{Na, sebaj. Talán valaki más majd segít nekem.}
-{860}{}{Bocsánat, hogy zavartam, Elsõ Polgár.}
-{861}{}{Õk nem akarnak bántani senkit. Csak egyszerûen hiányzik nekik az alkatrész, amivel az erõmûvüket szennyezés nélkül tudnák üzemeltetni. Így hát, ha meg tudnának válni az alkatrésztõl...}
-{862}{}{Na, sebaj. Talán valaki más majd segít nekem.}
-{863}{}{Jól van akkor. Elnézést, hogy zavartam, Elsõ Polgár.}
-{864}{lyn017b}{Beront a szobámba és még van bõr a képén követelõzni Lynette-nél, Menedékváros Elsõ Polgáránál!}
-{865}{lyn041c}{Most pedig azonnal távozzék, vagy hívom az õrséget!}
-{866}{}{Na, ebbõl elég. Most fájdalmas leckét veszünk...}
-{867}{}{Na, sebaj. Talán valaki más majd segít nekem.}
-{868}{}{Bocsánat, hogy zavartam, Elsõ Polgár.}
-{869}{}{Szükségem van egy alkatrészre, hogy megjavítsam vele Gekkó erõmûvét.}
-{870}{}{Eljuttattad Westin hololemezét Lynette számára.}
-{871}{}{Eljuttattad Westin hololemezét Lynette számára, ezért az Õrség Kapitánya lettél.}
-{872}{}{Likvidáltad a fosztogatókat, ezzel nagy segítséget nyújtottál Menedékváros számára.}
-{873}{}{Leleplezted Moore-t, aki az ÚKK-nak kémkedett.}
-{874}{}{Bebizonyítottad, hogy Bishop bérelte fel a fosztogatókat.}
-{875}{}{Bebizonyítottad, hogy Bishop-ot az ÚKK bérelte fel.}
+{842}{}{A lemez tartalma elÃ©g kell, hogy legyen a megÃ¡llÃ­tÃ¡sukra. A fosztogatÃ³k leleplezÅ‘dtek, Ã©s ha a lemez tartalma valaha is kikerÃ¼l az ÃšKK kÃ¼lsÅ‘ kerÃ¼leteibe, tÃ¶bbet nem bÃ­zik bennÃ¼k senki.}
+{843}{}{A gekkÃ³t Ã©rintÅ‘ adataim szerint mÃ©g mindig Ã©lnek ghoul-ok a vÃ¡rosban. A maga PolgÃ¡ri stÃ¡tusza a szituÃ¡ciÃ³ megoldÃ¡sÃ¡tÃ³l fÃ¼gg... csakis attÃ³l. Ã‰rthetÅ‘ voltam?}
+{844}{}{SajnÃ¡lom, azt hittem, mindet megÃ¶ltem.}
+{845}{}{JÃ³ kezdÃ©s, de a talajvÃ­z tovÃ¡bbra is szennyezÅ‘dik. Ki kell iktatnia az erÅ‘mÅ±vÃ¼ket!}
+{846}{}{Az valÃ³ban segÃ­t, de nem oldja meg az elsÅ‘dleges problÃ©mÃ¡nkat, mÃ©gpedig a talajvÃ­z szennyezÅ‘dÃ©st. Meg kell akadÃ¡lyoznia, hogy az erÅ‘mÅ±bÅ‘l kiszivÃ¡roghasson a sugÃ¡rzÃ¡s.}
+{847}{}{A falunk vezetÅ‘je adott nekem egy vizesflaskÃ¡t, de most Ã©pp nincs nÃ¡lam. A tÃ¶rzsfÅ‘ Ã¡ltal mesÃ©lt tÃ¶rtÃ©netek szerint az Å‘sÃ¶m egy MenedÃ©kbÅ‘l szÃ¡rmazik.}
+{848}{}{A ghoul-okra gondol? Igen, rÃ¡jÃ¶ttem, mi a baj az erÅ‘mÅ±vÃ¼kkel.}
+{849}{}{Az erÅ‘mÅ±be kell egy hidromÃ¡gnes, Ã¶Ã¶, egy olyan izÃ©, hogy mÅ±kÃ¶dhessen. A ghoul-ok szerint maguknak van itt olyanjuk, ezÃ©rt szeretnÃ©m elkÃ©rni, hogy rendbehozhassuk az erÅ‘mÅ±vet.}
+{850}{}{Egy hidroelektromos magnetoszfÃ©ra szabÃ¡lyzÃ³ra van szÃ¼ksÃ©gÃ¼k, hogy megjavÃ­tsÃ¡k az erÅ‘mÅ±vet Ã©s megakadÃ¡lyozzÃ¡k a talajvÃ­z szennyezÅ‘dÃ©sÃ©t. Azt Ã¡llÃ­tjÃ¡k, hogy MenedÃ©kvÃ¡rosban van ilyesmi. SzÃ³val, ha megkaphatnÃ¡m azt az alkatrÃ©szt...}
+{851}{}{Na, sebaj. KÃ©sÅ‘bb is beszÃ©lhetÃ¼nk errÅ‘l.}
+{852}{lyn047b}{Ã‰s ha igen? Ez csak Ã¡tmeneti megoldÃ¡s.}
+{853}{}{Ã–Ã¶... hÃ¡t, nem tudom a specifikÃ¡ciÃ³kat, de nagyon Ãºgy hangzik, hogy a magneto-izÃ© mind GekkÃ³n, mind MenedÃ©kvÃ¡roson egyarÃ¡nt segÃ­tene. MegkaphatnÃ¡m azt az alkatrÃ©szt?}
+{854}{}{Az a helyzet, hogy a szabÃ¡lyzÃ³ segÃ­tsÃ©gÃ©vel az erÅ‘mÅ±vet Ã©vekig lehetne szennyezÃ©smentesen Ã¼zemeltetni. SzÃ³val, ha megkaphatnÃ¡m azt az alkatrÃ©szt...}
+{855}{}{Na, sebaj. TalÃ¡n talÃ¡lok mÃ¡st, aki segÃ­tene nekem.}
+{856}{}{JÃ³l mondja, ElsÅ‘ PolgÃ¡r. MegnÃ©zzÃ¼k, Ã©n magam mit tehetek az Ã¼gy Ã©rdekÃ©ben.}
+{857}{}{Nem hinnÃ©m, hogy Ã©rtem. Van valami problÃ©ma GekkÃ³val... vagy a ghoul-okkal?}
+{858}{}{ElsÅ‘ PolgÃ¡r, kÃ©rem, figyelmezzen reÃ¡m... van valami akadÃ¡lya, hogy megkapjam az alkatrÃ©szt? MegoldanÃ¡ a maguk GekkÃ³val fennÃ¡lÃ³ problÃ©mÃ¡jÃ¡t Ã©s a ghoul-okon is segÃ­tene...}
+{859}{}{Na, sebaj. TalÃ¡n valaki mÃ¡s majd segÃ­t nekem.}
+{860}{}{SajnÃ¡lom, hogy zavartam, ElsÅ‘ PolgÃ¡r.}
+{861}{}{Åk nem akarnak bÃ¡ntani senkit. Csak egyszerÅ±en hiÃ¡nyzik nekik az alkatrÃ©sz, amivel az erÅ‘mÅ±vÃ¼ket szennyezÃ©s nÃ©lkÃ¼l tudnÃ¡k Ã¼zemeltetni. Ãgy hÃ¡t, ha meg tudnÃ¡nak vÃ¡lni az alkatrÃ©sztÅ‘l...}
+{862}{}{Na, sebaj. TalÃ¡n talÃ¡lok mÃ¡st, aki segÃ­tene nekem.}
+{863}{}{JÃ³l van akkor. ElnÃ©zÃ©st, hogy zavartam, ElsÅ‘ PolgÃ¡r.}
+{864}{lyn017b}{Beront a szobÃ¡mba Ã©s mÃ©g van bÅ‘r a kÃ©pÃ©n kÃ¶vetelÅ‘zni Lynette-nÃ©l, MenedÃ©kvÃ¡ros ElsÅ‘ PolgÃ¡rÃ¡nÃ¡l!}
+{865}{lyn041c}{Akkor most tÃ¡vozzon szÃ©pen, vagy hÃ­vom az Å‘rÃ¶ket!}
+{866}{}{Na, ebbÅ‘l elÃ©g. Most fÃ¡jdalmas leckÃ©t veszÃ¼nk...}
+{867}{}{Na, sebaj. TalÃ¡n talÃ¡lok mÃ¡st, aki segÃ­tene nekem.}
+{868}{}{SajnÃ¡lom, hogy zavartam, ElsÅ‘ PolgÃ¡r.}
+{869}{}{SzÃ¼ksÃ©gem van egy alkatrÃ©szre, hogy megjavÃ­tsam vele GekkÃ³ erÅ‘mÅ±vÃ©t.}
+{870}{}{Eljuttattad Westin hololemezÃ©t Lynette szÃ¡mÃ¡ra.}
+{871}{}{Eljuttattad Westin hololemezÃ©t Lynette szÃ¡mÃ¡ra, ezÃ©rt az ÅrsÃ©g KapitÃ¡nya lettÃ©l.}
+{872}{}{LikvidÃ¡ltad a fosztogatÃ³kat, ezzel nagy segÃ­tsÃ©get nyÃºjtottÃ¡l MenedÃ©kvÃ¡ros szÃ¡mÃ¡ra.}
+{873}{}{Leleplezted Moore-t, aki az ÃšKK-nak kÃ©mkedett.}
+{874}{}{BebizonyÃ­tottad, hogy Bishop bÃ©relte fel a fosztogatÃ³kat.}
+{875}{}{BebizonyÃ­tottad, hogy Bishop-ot az ÃšKK bÃ©relte fel.}
 {876}{}{Kell nekem egy olyan, hogy megmentsem vele a -}
-{877}{}{Várjunk egy pillanatra -}
-{878}{}{Felejtse el. Már megyek is.}
-{879}{}{Látszik, hogy magával is csak az idõmet fecsérlem. Jobb lenne, ha menne, és hozna valakit, aki TUD segíteni nekem.}
-{880}{}{Akkor bocsánat, hogy zavartam. Viszlát!}
-{881}{}{Ezt jó hallani. Tehát...?}
-{882}{}{Köszönöm, Elsõ Polgár.}
-{883}{}{Jaj, elnézést, nem úgy gondoltam -}
-{884}{}{Elnézését kérem, Elsõ Polgár, én csak -}
-{885}{}{Õrség!}
+{877}{}{VÃ¡rjunk egy pillanatra -}
+{878}{}{Felejtse el. MÃ¡r megyek is.}
+{879}{}{LÃ¡tszik, hogy magÃ¡val is csak az idÅ‘met fecsÃ©rlem. Jobb lenne, ha menne, Ã©s hozna valakit, aki TUD segÃ­teni nekem.}
+{880}{}{Akkor bocsÃ¡nat, hogy zavartam. ViszlÃ¡t!}
+{881}{}{Ezt jÃ³ hallani. TehÃ¡t...?}
+{882}{}{KÃ¶szÃ¶nÃ¶m, ElsÅ‘ PolgÃ¡r asszony.}
+{883}{}{Jaj, elnÃ©zÃ©st, nem Ãºgy gondoltam -}
+{884}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, ElsÅ‘ PolgÃ¡r, Ã©n csak -}
+{885}{}{ÅrsÃ©g!}
 {1663}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}
 {1708}{}{They were holed up in a series of caves in the foothills to the South. I convinced their guide to not help them anymore. Without him, they will be unable to find their way through the mountains.}

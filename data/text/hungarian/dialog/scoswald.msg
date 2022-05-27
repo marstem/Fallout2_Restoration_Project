@@ -1,18 +1,18 @@
-{100}{}{Egy piszkos, vérfoltos ruhát viselõ ember.}
-{101}{}{Ez itt a foglyul ejtett földfoglaló.}
-{102}{}{Az arcán és a kezein késtõl származó régi sebek láthatók. Õrült tekintete egy igazi törvényenkívüli verekedõre enged következtetni.}
-{103}{}{Csak az idõdet vesztegeted! Egy szót se szólok se hozzád, se máshoz!}
-{104}{}{Menj el innen és hagyj békén, te disznó!}
-{105}{}{Hirtelen milyen büdös lett itt...}
-{106}{}{Mit fogsz csinálni? Addig fenyegetõzöl, míg ki nem nyitom a szám?}
-{107}{}{Nem ijedtem meg tõled.}
-{108}{}{Miért nem nyalod le a csizmámat?}
-{109}{}{Mi a picsa? Meg akarsz ölni? Õrség!}
-{110}{}{Beszéjjé' vagy én kinyírja te.}
-{111}{}{Senki nem fog a segítségedre sietni. Ha élni akarsz, beszélsz!}
-{112}{}{Oké, oké! Mit akarsz tudni? Csak ne bánts!}
-{113}{}{15-ös Menedék... beszélni!}
-{114}{}{Mit tudsz a 15-ös menedékrõl?}
-{115}{}{Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side. That's all I know. Honest!}
+{100}{}{Egy piszkos, vÃ©rfoltos ruhÃ¡t viselÅ‘ ember.}
+{101}{}{Ez itt a foglyul ejtett fÃ¶ldfoglalÃ³.}
+{102}{}{Az arcÃ¡n Ã©s a kezein kÃ©stÅ‘l szÃ¡rmazÃ³ rÃ©gi sebek lÃ¡thatÃ³k. ÅrÃ¼lt tekintete egy igazi tÃ¶rvÃ©nyenkÃ­vÃ¼li verekedÅ‘re enged kÃ¶vetkeztetni.}
+{103}{}{Csak az idÅ‘det vesztegeted! Egy szÃ³t se szÃ³lok se hozzÃ¡d, se mÃ¡shoz!}
+{104}{}{Menj el innen Ã©s hagyj bÃ©kÃ©n, te disznÃ³!}
+{105}{}{Hirtelen milyen bÃ¼dÃ¶s lett itt...}
+{106}{}{Mit fogsz csinÃ¡lni? Addig fenyegetÅ‘zÃ¶l, mÃ­g ki nem nyitom a szÃ¡m?}
+{107}{}{Nem ijedtem meg tÅ‘led.}
+{108}{}{MiÃ©rt nem nyalod le a csizmÃ¡mat?}
+{109}{}{Mi a picsa? Meg akarsz Ã¶lni? ÅrsÃ©g!}
+{110}{}{BeszÃ©jjÃ©' vagy Ã©n kinyÃ­rja te.}
+{111}{}{Senki nem fog a segÃ­tsÃ©gedre sietni. Ha Ã©lni akarsz, beszÃ©lsz!}
+{112}{}{OkÃ©, okÃ©! Mit akarsz tudni? Csak ne bÃ¡nts!}
+{113}{}{15-Ã¶s MenedÃ©k... beszÃ©lni!}
+{114}{}{Mit tudsz a 15-Ã¶s menedÃ©krÅ‘l?}
+{115}{}{NÃ©zd, Ã©n csak egy porszem vagyok, nem a vezÃ©regyÃ©nisÃ©g... az Darion. Å a te embered. Å talÃ¡lta ki ezt a dolgot Shady Sands-el, meg Tandival, a vÃ©n kurvÃ¡val. Van egy rejtekhelye a 15-Ã¶s MenedÃ©kben, mÃ©g a helyiekkel is elhitette, hogy velÃ¼k van. Csak ennyit tudok. Nem hazudok!}
 {116}{}{Really, I don't know anything else! I told you everything I know, really! Don't hurt me anymore.}
-{117}{}{Semmiképpen! Nem dõlök be ennek a trükknek. BANG!... lelõnek szökés közben. Felejtsd el!}
+{117}{}{SemmikÃ©ppen! Nem dÅ‘lÃ¶k be ennek a trÃ¼kknek. BANG!... lelÅ‘nek szÃ¶kÃ©s kÃ¶zben. Felejtsd el!}

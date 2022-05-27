@@ -1,200 +1,197 @@
-{100}{}{You see a computer terminal. It's engaged in some sort of diagnostic routine.}
-{101}{}{You see the Vault City central computer. }
-{102}{}{You see a computer terminal. It's engaged in some sort of diagnostic routine.}
-{103}{}{You see a metal box that is talking to itself in a woman's voice.}
-{104}{}{You see a talking metal box.}
-{105}{}{You see a metal box that is talking to itself in a woman's voice.}
-{106}{}{The computer terminal has shut down.}
-{107}{}{Beginning System Diagnostic. }
-{108}{}{Once begun, System Diagnostic may be cancelled at any point by the system operator.}
-{109}{}{Vault-Tec recommends regular system maintenance and diagnostics to insure smooth operation.}
-{110}{}{Vault-Tec: The first and last name in Vault technology.}
-{111}{}{Beginning System Diagnostic.}
-{112}{}{Security Systems...}
-{113}{}{Entrance Terminal: Offline.}
-{114}{}{Security Cameras... 1A... 1B... 1C are operating at optimum efficiency.}
-{115}{}{Security System... 2A... 2B... 2C are operating at optimum efficiency.}
-{116}{}{Security System... 3A... 3B... 3C are operating at optimum efficiency.}
-{117}{}{Environmental Systems...}
-{118}{}{Ventilation 1A... 1B... are operating at optimum efficiency.}
-{119}{}{Ventilation 2A... 2B...}
+{100}{}{Você vê um terminal de computador. Esta engajado em algum tipo de rotina de diagnostico.}
+{101}{}{Voce ve o computador central de Vault City. }
+{102}{}{Você vê um terminal de computador. Esta engajado em algum tipo de rotina de diagnostico.}
+{103}{}{Você ve uma caixa de metal que está falando sozinha com a voz de uma mulher.}
+{104}{}{Voce ve uma caixa de metal falante.}
+{105}{}{Você ve uma caixa de metal que está falando sozinha com a voz de uma mulher.}
+{106}{}{O terminal do computador foi desligado.}
+{107}{}{Iniciando o diagnostico do sistema. }
+{108}{}{Uma vez iniciado, o Diagnostico do Sistema pode ser cancelado a qualquer momento pelo operador do sistema.}
+{109}{}{A Vault-Tec recomenda a manutençeo e diagnosticos regulares do sistema para garantir um bom funcionamento.}
+{110}{}{Vault-Tec: O primeiro e ultimo nome em tecnologia Vault.}
+{111}{}{Iniciando o diagnostico do sistema.}
+{112}{}{Sistemas de segurança...}
+{113}{}{Terminal de entrada: Off-line.}
+{114}{}{Cameras de segurança... 1A... 1B... 1C estao operando com eficiencia ideal.}
+{115}{}{Sistema de segurança... 2A... 2B... 2C estao operando com eficiencia ideal.}
+{116}{}{Sistema de segurança... 3A... 3B... 3C estao operando com eficiencia ideal.}
+{117}{}{Sistemas Ambientais...}
+{118}{}{A ventilaçao 1A... 1B... esta operando com eficiencia ideal.}
+{119}{}{Ventilaçao 2A... 2B...}
 {120}{}{2B...}
-{121}{}{Confirming...}
-{122}{}{Attention: Obstruction has been detected in Ventilation 2B. }
-{123}{}{Cross-checking Environmental Systems...}
-{124}{}{Obstruction has been logged in the engineering maintenance report and an operator has been notified.}
-{125}{}{Continuing check...}
-{126}{}{Ventilation 2C... 2D... are operating at optimum efficiency.}
-{127}{}{Ventilation 3A... 3B... 3C... 3D... 3E... are operating at optimum efficiency.}
-{128}{}{Temperature and humidity within Vault is within required specifications.}
-{129}{}{Power Supply...}
-{130}{}{All energy levels are within required specifications. }
-{131}{}{Power saver mode for levels two and three remain in effect.}
-{132}{}{Attention: Door to Vault is open. In the event of an emergency, the door will seal.}
-{133}{}{All readings normal. System diagnostic concluded. Preparing to write to disk...}
-{134}{}{Readings have been saved to holodisk. }
-{135}{}{The list of readings has been transferred to the main List Office.}
-{136}{}{Three back-up lists are now being entered into Source Safe.}
-{137}{}{Failsafe back-up of lists is now being sent to the main list server for distribution to all other terminals in Vault City.}
-{138}{}{It is now safe to turn off the terminal. }
+{121}{}{Confirmando...}
+{122}{}{Atençao: Foi detectada obstruçao na Ventilaçao 2B. }
+{123}{}{Verificando Sistemas Ambientais...}
+{124}{}{A obstruçao foi registrada no relatorio de manutençao de engenharia e um operador foi notificado.}
+{125}{}{Continuando a verificaçao...}
+{126}{}{Ventilaçao 2C... 2D... estao operando com a maxima eficiencia.}
+{127}{}{Ventilaçao 3A... 3B... 3C... 3D... 3E... estao operando com eficiencia ideal.}
+{128}{}{A temperatura e a umidade dentro da Vault estao dentro das especificaçoes exigidas.}
+{129}{}{Fonte de energia...}
+{130}{}{Todos os niveis de energia estao dentro das especificaçoes exigidas. }
+{131}{}{O modo de economia de energia para os niveis dois e tres permanecem ativos.}
+{132}{}{Atençao: A porta da Vault esta aberta. Em caso de emergencia, a porta será vedada.}
+{133}{}{Todas as leituras normais. Diagnostico do sistema concluido. Preparando para gravar no disco...}
+{134}{}{As leituras foram salvas no holodisco. }
+{135}{}{A lista de leitura foi transferida para o escritorio principal de Listas.}
+{136}{}{TrEs listas de backup estão sendo inseridas no cofre principal.}
+{137}{}{Backup de listas a prova de falhas agora esta sendo enviado ao servidor de lista principal para distribuiçao a todos os outros terminais em Vault City.}
+{138}{}{Agora e seguro desligar o terminal. }
 {139}{}{Obrigado.}
-{140}{}{Beginning System Diagnostic. }
-{141}{}{Once begun, System Diagnostic may be cancelled at any point by the system operator.}
-{142}{}{Vault-Tec recommends regular system maintenance and diagnostics to insure smooth operation.}
-{143}{}{Vault-Tec: The first and last name in Vault technology.}
-{144}{}{Beginning System Diagnostic.}
-{145}{}{Security Systems...}
-{146}{}{Entrance Terminal: Offline.}
-{147}{}{Security Cameras... 1A... 1B... 1C are operating at optimum efficiency.}
-{148}{}{Security System... 2A... 2B... 2C are operating at optimum efficiency.}
-{149}{}{Security System... 3A... 3B... 3C are operating at optimum efficiency.}
-{150}{}{Environmental Systems... }
-{151}{}{Ventilation 1A... 1B... are operating at optimum efficiency.}
-{152}{}{Ventilation 2A... 2B... 2C... 2D... are operating at optimum efficiency.}
-{153}{}{Ventilation 3A... 3B... 3C... 3D... 3E... are operating at optimum efficiency.}
-{154}{}{Temperature and humidity within Vault is within required specifications.}
-{155}{}{Power Supply...}
-{156}{}{All energy levels are within required specifications. }
-{157}{}{Power saver mode for levels two and three remain in effect.}
-{158}{}{Attention: Door to Vault is open. In the event of an emergency, the door will seal.}
-{159}{}{All readings normal. System diagnostic concluded. Preparing to write to disk...}
-{160}{}{Readings have been saved to holodisk. }
-{161}{}{The list of readings has been transferred to the main List Office.}
-{162}{}{Three back-up lists are now being entered into Source Safe.}
-{163}{}{Failsafe back-up of lists is now being sent to the main list server for distribution to all other terminals in Vault City.}
-{164}{}{It is now safe to turn off the terminal. }
+{140}{}{Iniciando o diagnostico do sistema. }
+{141}{}{Uma vez iniciado, o Diagnostico do Sistema pode ser cancelado a qualquer momento pelo operador do sistema.}
+{142}{}{A Vault-Tec recomenda a manutençeo e diagnosticos regulares do sistema para garantir um bom funcionamento.}
+{143}{}{Vault-Tec: O primeiro e ultimo nome em tecnologia Vault.}
+{144}{}{Iniciando o diagnostico do sistema.}
+{145}{}{Sistemas de segurança...}
+{146}{}{Terminal de entrada: Off-line.}
+{147}{}{Cameras de segurança... 1A... 1B... 1C estao operando com eficiencia ideal.}
+{148}{}{Sistema de segurança... 2A... 2B... 2C estao operando com eficiencia ideal.}
+{149}{}{Sistema de segurança... 3A... 3B... 3C estao operando com eficiencia ideal.}
+{150}{}{Sistemas Ambientais... }
+{151}{}{A ventilaçao 1A... 1B... esta operando com eficiencia ideal.}
+{152}{}{Ventilação 2A... 2B... 2C... 2D... estao operando com eficiencia ideal.}
+{153}{}{Ventilaçao 3A... 3B... 3C... 3D... 3E... estao operando com eficiencia ideal.}
+{154}{}{A temperatura e a umidade dentro da Vault estao dentro das especificaçoes exigidas.}
+{155}{}{Fonte de energia...}
+{156}{}{Todos os niveis de energia estao dentro das especificaçoes exigidas. }
+{157}{}{O modo de economia de energia para os niveis dois e tres permanecem ativos.}
+{158}{}{Atençao: A porta da Vault esta aberta. Em caso de emergencia, a porta será vedada.}
+{159}{}{Todas as leituras normais. Diagnostico do sistema concluido. Preparando para gravar no disco...}
+{160}{}{As leituras foram salvas no holodisco. }
+{161}{}{A lista de leitura foi transferida para o escritorio principal de Listas.}
+{162}{}{TrEs listas de backup estão sendo inseridas no cofre principal.}
+{163}{}{Backup de listas a prova de falhas agora esta sendo enviado ao servidor de lista principal para distribuiçao a todos os outros terminais em Vault City.}
+{164}{}{Agora e seguro desligar o terminal. }
 {165}{}{Obrigado.}
-{166}{}{You see a metal box talking to the air in a woman's voice. The woman must be inside the box! She must be really, really cramped in there.}
-{167}{}{You have logged on to the Vault City Central Computer. The interface seems relatively easy to understand; everything seems to be broken down into archives.}
-{168}{}{Hewllo? Hewllo?}
-{169}{}{Try and pry open the box so the woman can get out.}
+{166}{}{Você ve uma caixa de metal falando ao ar com voz de mulher. A mulher deve estar dentro da caixa! Ela deve estar muito, muito apertada la.}
+{167}{}{Voce fez logon no computador central de Vault City. A interface parece relativamente facil de entender; tudo parece ser dividido em arquivos.}
+{168}{}{Ola? Ola?}
+{169}{}{Tenta abrir a caixa para que a mulher possa sair.}
 {170}{}{Desliga}
-{171}{}{Search the archives for location of Vault 13.}
+{171}{}{Pesquisa nos arquivos a localização da Vault 13.}
 {172}{}{Pesquisar por arquivos que mencionam a GECK.}
-{173}{}{Insert Gecko power plant disk into the computer.}
-{174}{}{Pry open the computer and look for a voice recognition module.}
-{175}{}{Insert the Pip-Boy into the slot you noticed before.}
-{176}{}{Insert the Pip-Boy into the slot you noticed before.}
+{173}{}{Insere o disco da usina Gecko no computador.}
+{174}{}{Abre o computador e procura por um modulo de reconhecimento de voz.}
+{175}{}{Insira o Pip-Boy no slot que voce notou antes.}
+{176}{}{Insira o Pip-Boy no slot que voce notou antes.}
 {177}{}{Deslogar do terminal.}
-{178}{}{The metal box does not answer.}
-{179}{}{Try and pry open the box so the woman can get out.}
+{178}{}{A caixa de metal nao responde.}
+{179}{}{Tenta abrir a caixa para que a mulher possa sair.}
 {180}{}{Desliga}
-{181}{}{You kneel down beneath the metal box. You dig your fingers into one of the boards under the box
- and yank it off. There isn't a woman in there! Just a bunch of dead snakes and sparkling lights.}
-{182}{}{Reach in the snakes, feel around.}
+{181}{}{Voce se ajoelha sob a caixa de metal. Enfia os dedos em uma das tabuas embaixo da caixa e a puxa.
+ Nao ha uma mulher la! Apenas um monte de cobras mortas e luzes cintilantes.}
+{182}{}{Voce afasta as cobras e procura.}
 {183}{}{Desliga}
-{184}{}{There is a GZZZZTTTTTT and then...}
-{185}{}{...you wake up.}
+{184}{}{Escuta um GZZZZTTTTTT e depois...}
+{185}{}{...voce acorda.}
 {186}{}{Desliga}
-{187}{}{You pry open the panel beneath the machine and search for a voice recognition module. You don't
- see one... the circuit boards in this computer look much different than the ones in the Vault 13
- computer.}
-{188}{}{Replace the panel and look through the computer archives.}
-{189}{}{It was worth a shot. Better go look somewhere else.}
-{190}{}{As you replace the panel, however, you suddenly notice a small picture of the Pip-Boy located
- beneath the terminal. Next to the picture is a slot that looks about the size of your Pip-Boy.}
-{191}{}{Insert your Pip-Boy into the empty slot.}
-{192}{}{Leave the terminal.}
-{193}{}{As you are about to shamble off, you see the smiling little person from your small blinky Pip
- Boy under the metal box! He's pointing to an empty space next to him. Maybe he wants to talk to your
- Pip-Boy little person.}
-{194}{}{As you are about to turn away, you suddenly notice a small picture of the Pip-Boy located
- beneath the terminal. Next to the picture is a slot that looks about the size of your Pip-Boy.}
-{195}{}{Shove your Pip-Boy person hand-held thingee into the slot so they can talk.}
-{196}{}{Insert your Pip-Boy into the empty slot.}
-{197}{}{Leave the terminal.}
-{198}{}{Boy! The two seem to have a LOT to talk about! They talk in funny words that sound like
- grinding, beeping, and mantis-chirping. Eventually, there is a beep, and your Pip-Boy slides out.}
-{199}{}{Take your Pip-Boy and leave.}
-{200}{}{A small window opens on the terminal screen with a smiling Pip-Boy next to it. As you watch, the
- Pip-Boy starts whistling silently and tapping his feet. A red light is flashing beside the computer slot.}
+{187}{}{Voce abre o painel embaixo da maquina e procura um modulo de reconhecimento de voz. Voce nao va
+ um... as placas de circuito neste computador parecem muito diferentes das do computador do Vault
+ 13}
+{188}{}{Recoloca o painel e examina os arquivos do computador.}
+{189}{}{Valeu a pena. Melhor ir procurar em outro lugar.}
+{190}{}{Ao substituir o painel, no entanto, de repente voce percebe uma pequena foto do Pip-Boy localizada
+ abaixo do terminal. Ao lado da foto ha um slot que parece do tamanho do seu Pip-Boy.}
+{191}{}{Insere seu Pip-Boy no slot vazio.}
+{192}{}{Deixa o terminal.}
+{193}{}{Quando voca está prestes a desmoronar, voce ve a pessoinha sorridente do seu pequeno Pip Boy
+ piscando sob a caixa de metal! Ele esta apontando para um espaço vazio ao lado dele. Talvez ele
+ queira falar com seu pequeno Pip-Boy.}
+{194}{}{Quando voce esta prestes a se afastar, de repente voce percebe uma pequena foto do Pip-Boy
+ localizada abaixo do terminal. Ao lado da foto ha um slot que parece do tamanho do seu Pip-Boy.}
+{195}{}{Voce coloca seu PipBoy de braçono buraco para que eles possam se falar.}
+{196}{}{Insere seu Pip-Boy no slot vazio.}
+{197}{}{Deixa o terminal.}
+{198}{}{Cara! Os dois parecem ter MUITO o que falar! Eles falam em palavras engraçadas que soam
+ como chiados, bipe e cantos de louva-a-deus. Eventualmente, ha um bipe e seu Pip-Boy desliza para fora.}
+{199}{}{Pega seu Pip-Boy e vai embora.}
+{200}{}{Uma pequena janela se abre na tela do terminal com um Pip-Boy sorridente ao lado. Enquanto voce
+ assiste, o Vault Boy começa a assobiar baixinho e bater o pe. Uma luz vermelha esta piscando ao lado do slot do computador.}
 {201}{}{Aguarde...}
-{202}{}{Cancel the procedure and log off terminal.}
-{203}{}{An unhealthy grinding noise comes from the Pip-Boy slot. The Pip-Boy continues to whistle
- silently and tap his feet.}
+{202}{}{Cancela o procedimento e faz logoff do terminal.}
+{203}{}{Ruidos e chiados parecem virdo slot Pip-Boy. O Vault Boy continua a assobiar silenciosamente
+ e a bater o pe.}
 {204}{}{Aguarde...}
-{205}{}{Cancel the procedure and log off terminal.}
-{206}{}{The Pip-Boy suddenly stops and frowns. An exclamation mark appears above his head, and he
- starts wagging his finger at you. }
-{207}{}{Give the little bastard the finger right back!}
-{208}{}{Try and determine what's wrong.}
-{209}{}{Cancel the procedure and log off terminal.}
-{210}{}{A small display beneath the Pip-Boy states that your last scheduled maintenance was 50.352 years
- ago. The archives are corrupted and need to be "re-formatted." Do you wish to proceed?}
+{205}{}{Cancela o procedimento e faz logoff do terminal.}
+{206}{}{O Vault Boy de repente para e franze a testa. Um ponto de exclamaçao aparece acima de
+ sua cabeça, e ele começa a apontar o dedo para você.}
+{207}{}{Voce devolve o gesto para o viadinho!}
+{208}{}{Voce tenta determinar qual e o problema.}
+{209}{}{Cancela o procedimento e faz logoff do terminal.}
+{210}{}{Uma pequena tela abaixo do Pip-Boy informa que sua ultima manutençao programada foi ha 50.352 anos.
+ Os arquivos estao corrompidos e precisam ser "reformatados". Voce deseja continuar?}
 {211}{}{Uh... sure.}
-{212}{}{Wha... no! No way! }
-{213}{}{Cancel the procedure and log off terminal.}
-{214}{}{Initialization procedure beginning... Reformatting Pip-Boy...}
+{212}{}{O que... nao! Nada disso! }
+{213}{}{Cancela o procedimento e faz logoff do terminal.}
+{214}{}{Procedimento de inicializaçao começando... Reformatando Pip-Boy...}
 {215}{}{}
 {216}{}{Aguarde...}
-{217}{}{Cancel the procedure and log off terminal.}
-{218}{}{Initialization procedure beginning...}
-{219}{}{                             Reformatting Pip-Boy...}
-{220}{}{Hey! Give me my goddamn Pip-Boy back!}
-{221}{}{Cancel! Cancel! }
-{222}{}{Northern California Geographical Archive is being copied into Pip-Boy database. }
-{223}{}{Copying archive... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download complete.}
-{224}{}{Continue to search the archives for more information.}
+{217}{}{Cancela o procedimento e faz logoff do terminal.}
+{218}{}{Procedimento de inicializaçao começando...}
+{219}{}{                             Reformatando Pip Boy...}
+{220}{}{Ei! Devolva meu maldito Pip-Boy!}
+{221}{}{Cancelar! Cancelar! }
+{222}{}{O Arquivo Geografico do Norte da California está sendo copiado para o banco de dados Pip-Boy. }
+{223}{}{Copiando arquivo... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completo.}
+{224}{}{Continua a pesquisar os arquivos para obter mais informaçoes.}
 {225}{}{Deslogar do terminal.}
-{226}{}{Voc� voltou para o menu inicial. Uma s�rie de arquivos e programas de pesquisa s�o listados na tela do terminal.}
-{227}{}{Pesquisar por qualquer men��o da Vault 13 nos arquivos.}
+{226}{}{Você voltou para o menu inicial. Uma série de arquivos e programas de pesquisa são listados na tela do terminal.}
+{227}{}{Pesquisar por qualquer menção da Vault 13 nos arquivos.}
 {228}{}{Pesquisar por qualquer referencia sobre a GECK.}
-{229}{}{Call up the reports on Vault City's power generator. }
+{229}{}{Solicita os relatorios sobre o gerador de energia de Vault City. }
 {230}{}{Deslogar do terminal.}
-{231}{}{According to the output reports, it looks like Gordon was correct. Vault City's generator is
- already approaching its limit. Without a new power supply, Vault City will be unable to expand.}
+{231}{}{De acordo com os relatorios de saida, parece que Gordon estava correto. O gerador de Vault City
+ esta chegando ao limite. Sem uma nova fonte de alimentaçao, Vault City nao podera se expandir.}
 {232}{}{Continuar a pesquisa dos arquivos.}
 {233}{}{Deslogar do terminal.}
-{234}{}{The archives list only two vaults: Vault 8 (this Vault) and Vault 15, located far to the south.
- Oddly enough, there is no mention of Vault 13.}
-{235}{}{You enter Vault 15's location into your Pip-Boy.}
-{236}{}{Continue to search the archives for more information.}
+{234}{}{Os arquivos listam apenas duas vaults: Vault 8 (esta Vault) e Vault 15, localizados bem ao
+ sul. Curiosamente, nao ha mençao ao Vault 13.}
+{235}{}{Voce insere a localização do Vault 15 no seu Pip-Boy.}
+{236}{}{Continua a pesquisar os arquivos para obter mais informaçoes.}
 {237}{}{Deslogar do terminal.}
-{238}{}{According to the archives, there is no GECK currently in stock at Vault City's Amenities Office.
- The people of Vault City seem to have used the only one they had to help establish the place when they
- came to the surface.}
-{239}{}{Scroll through the remaining information.}
-{240}{}{From what you can make out in the archives, two GECKs were part of every Vault's standard
- inventory package. Only one was shipped to Vault 8, however.}
-{241}{}{Cross-reference the GECK shipment information.}
-{242}{}{Return to the main menu.}
+{238}{}{De acordo com os arquivos, nao ha GECK atualmente em estoque na Loja de Utilidades
+ de Vault City. As pessoas de Vault City parecem ter usado o unico que tinham para ajudar a estabelecer o lugar quando vieram a superficie.}
+{239}{}{Percorre as informaçoes restantes.}
+{240}{}{Pelo que voce pode ver nos arquivos, dois GECKs faziam parte do pacote de inventario padrao de cada Vault. No entanto, apenas um foi enviado para o Vault 8.}
+{241}{}{Faça referencia cruzada das informaçoes da remessa do GECK.}
+{242}{}{Retorne ao menu principal.}
 {243}{}{Deslogar do terminal.}
-{244}{}{Due to a shipping error, it appears Vault 8 received a box of surplus water chips intended for
- another Vault. The other Vault most likely received Vault 8's second GECK.}
-{245}{}{Return to the main menu.}
+{244}{}{Devido a um erro de envio, parece que o Vault 8 recebeu uma caixa de purificadores de agua
+ excedentes destinadas a outro Vault. O outro Vault provavelmente recebeu o segundo GECK do Vault 8.}
+{245}{}{Retorne ao menu principal.}
 {246}{}{Deslogar do terminal.}
-{247}{}{A small window opens on the terminal screen with a smiling Pip-Boy next to it. As you watch, the
- Pip-Boy looks right at you, winks, then gives you a thumbs up. A red light is flashing beside the
- computer slot.}
-{248}{}{Give the Pip-Boy a thumbs up.}
-{249}{}{Give the Pip-Boy the finger.}
-{250}{}{Fallout 2 Development Information is being entered into Pip-Boy database. Copying file...
- Vault City Development Credits... Download complete.}
+{247}{}{Uma pequena janela se abre na tela do terminal com um Vault Boy sorridente ao lado. Enquanto
+ voce assiste, o Vault Boy olha diretamente para voce, pisca e depois da um sinal de positivo.
+ Uma luz vermelha esta piscando ao lado do slot do computador.}
+{248}{}{Da um sinal de positivo para o Vault Boy.}
+{249}{}{Mostra o dedo do meio ao Vault Boy.}
+{250}{}{As informações de desenvolvimento do Fallout 2 estão sendo inseridas no banco de dados
+ do Pip-Boy. Copiando arquivo... Creditos de desenvolvimento de Vault City... Download completo.}
 {251}{}{Obrigado.}
-{252}{}{This time-waster better be worth some extra skill points, or I'm going to be pissed off.}
-{253}{}{The Pip-Boy on the screen waves good-bye, and then the screen turns black. The terminal has shut
- down.}
+{252}{}{E melhor que esse desperdicio de tempo valha alguns pontos de experiencia extra, ou eu vou ficar puto.}
+{253}{}{O Pip-Boy na tela acena um adeus, e entao a tela fica preta. O terminal se apagou.}
 {254}{}{(Sair.)}
-{255}{}{Yeah, you better run, you little shit.}
-{256}{}{The terminal has shut down. You have no idea how to turn the system back on.}
+{255}{}{Sim, e melhor voce correr, seu merdinha}
+{256}{}{O terminal foi desligado. Voce nao tem ideia de como ligar o sistema novamente.}
 {257}{}{Deixar.}
-{258}{}{Reading Disk... Reactor Data: Atomic Power Plant... Efficiency: 43%/75%... Error: Plant Calibration - MD4/gh1... Do you wish to optimize?}
+{258}{}{Lendo o Disco... Dados do Reator: Usina Atomica... Eficiencia: 43%/75%... Erro: Calibraçao da Usina - MD4/gh1... Deseja otimizar?}
 {259}{}{}
 {260}{}{}
 {261}{}{}
 {262}{}{}
-{263}{}{Begin optimization procedure. }
-{264}{}{Cancel the operation and search the archives.}
+{263}{}{Inicia o procedimento de otimização. }
+{264}{}{Cancele a operaçao e pesquisa os arquivos.}
 {265}{}{Deslogar do terminal.}
-{266}{}{Beginning optimization procedure... Optimizing... Optimization complete. Please remove disk.}
+{266}{}{Iniciando o procedimento de otimizaçao... Otimizando... Otimizaçao concluida. Por favor, remova o disco.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
-{270}{}{Search the archives.}
+{270}{}{Pesquisa nos arquivos.}
 {271}{}{Deslogar do terminal.}
-{272}{}{Oooooooh. Dat tynglzzz.}
-{300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
-{301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}
+{272}{}{Oooooooh. Faz barulhoooo.}
+{300}{}{Quando voce esta prestes a retornar a lista de arquivos, voce percebe habilmente uma entrada oculta na mesma lista.}
+{301}{}{Quando voce esta prestes a fazer logoff do terminal, voce percebe habilmente uma entrada oculta na lista de arquivos.}
 {302}{}{[CONTINUAR]}
 {303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
  entitled "Classified." It looks like your skill points in Science are paying off.}

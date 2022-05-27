@@ -1,394 +1,394 @@
-{100}{}{Bõrpáncél}
-{101}{}{A leghétköznapibb, teljesen bõr öltözék. Finoman szabott, cserzett brahminbõrbõl készült.}
-{200}{}{Fémpáncél}
-{201}{}{Fényezett fémlapok rendetlen halmaza, mely durva páncélt alkot.}
-{300}{}{Erõpáncél}
-{301}{}{Összkomfortos öltözék, mely a legújabb technológiával készült. Energiáját egy mikro-fúziós reaktor biztosítja még legalább száz évig.}
-{400}{}{Kés}
-{401}{}{Egy pengeéles szúró- és vágófegyver. Min. ER: 2.}
+{100}{}{BÅ‘rpÃ¡ncÃ©l}
+{101}{}{A leghÃ©tkÃ¶znapibb, teljesen bÅ‘r Ã¶ltÃ¶zÃ©k. Finoman szabott, cserzett brahminbÅ‘rbÅ‘l kÃ©szÃ¼lt.}
+{200}{}{FÃ©mpÃ¡ncÃ©l}
+{201}{}{FÃ©nyezett fÃ©mlapok rendetlen halmaza, mely durva pÃ¡ncÃ©lt alkot.}
+{300}{}{ErÅ‘pÃ¡ncÃ©l}
+{301}{}{Ã–sszkomfortos Ã¶ltÃ¶zÃ©k, mely a legÃºjabb technolÃ³giÃ¡val kÃ©szÃ¼lt. EnergiÃ¡jÃ¡t egy mikro-fÃºziÃ³s reaktor biztosÃ­tja mÃ©g legalÃ¡bb szÃ¡z Ã©vig.}
+{400}{}{KÃ©s}
+{401}{}{Egy pengeÃ©les szÃºrÃ³- Ã©s vÃ¡gÃ³fegyver. Min. ER: 2.}
 {500}{}{Tonfa}
-{501}{}{A hadsereg és a rendõrség által használt népnevelõ eszköz. Anyaga tömör fa. Min. ER: 3.}
-{600}{}{Harci pöröly}
-{601}{}{Jókora kalapács hosszú nyéllel. Nagyon kedvelt az õt felemelni képes emberek körében. Min. ER: 6.}
-{700}{}{Lándzsa}
-{701}{}{Borotvaéles szálfegyver. Nyele fából készült, a hegye pedig edzett acél. Min. ER: 4.}
+{501}{}{A hadsereg Ã©s a rendÅ‘rsÃ©g Ã¡ltal hasznÃ¡lt nÃ©pnevelÅ‘ eszkÃ¶z. Anyaga tÃ¶mÃ¶r fa. Min. ER: 3.}
+{600}{}{Harci pÃ¶rÃ¶ly}
+{601}{}{JÃ³kora kalapÃ¡cs hosszÃº nyÃ©llel. Nagyon kedvelt az Å‘t felemelni kÃ©pes emberek kÃ¶rÃ©ben. Min. ER: 6.}
+{700}{}{LÃ¡ndzsa}
+{701}{}{BorotvaÃ©les szÃ¡lfegyver. Nyele fÃ¡bÃ³l kÃ©szÃ¼lt, a hegye pedig edzett acÃ©l. Min. ER: 4.}
 {800}{}{10 mm-es pisztoly}
 {801}{}{A Colt 6520 10mm autoloading pistol. Each pull of the trigger will automatically reload the firearm until the cylinder is empty. Single shot only, using the powerful 10mm round. Min ST: 3.}
 {900}{}{10 mm-es GPI}
-{901}{}{Heckler & Koch MP9-es géppisztoly (10 mm-es változat). Közepes méretû GPI, mely képes egyes lövések és sorozatok leadására is. Min. ER: 4.}
-{1000}{}{Vadászpuska}
-{1001}{}{,223-as kaliberû Colt Rangemaster félautomata vadászpuska. Csak egyes lövés adható le vele. Min. ER: 5.}
-{1100}{}{Lángszóró}
+{901}{}{Heckler & Koch MP9-es gÃ©ppisztoly (10 mm-es vÃ¡ltozat). KÃ¶zepes mÃ©retÅ± GPI, mely kÃ©pes egyes lÃ¶vÃ©sek Ã©s sorozatok leadÃ¡sÃ¡ra is. Min. ER: 4.}
+{1000}{}{VadÃ¡szpuska}
+{1001}{}{,223-as kaliberÅ± Colt Rangemaster fÃ©lautomata vadÃ¡szpuska. Csak egyes lÃ¶vÃ©s adhatÃ³ le vele. Min. ER: 5.}
+{1100}{}{LÃ¡ngszÃ³rÃ³}
 {1101}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. Min ST: 6.}
-{1200}{}{Gépágyú}
+{1200}{}{GÃ©pÃ¡gyÃº}
 {1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barreled chaingun firing 5mm ammunition at over 60,000 RPM. Min ST: 7.}
-{1300}{}{Rakétavetõ}
-{1301}{}{Egy Rockwell BigBazooka rakétavetõ, mely a "Deluxe" változatú 1,5 kg-os elsütõbillentyûvel van felszerelve. Páncéltörõ és robbanófejes rakétákat is képes kilõni. Min. ER: 6.}
-{1400}{}{Robbanó rakéta}
-{1401}{}{Egy mezei rakéta, bazi nagy robbanófejjel.}
+{1300}{}{RakÃ©tavetÅ‘}
+{1301}{}{Egy Rockwell BigBazooka rakÃ©tavetÅ‘, mely a "Deluxe" vÃ¡ltozatÃº 1,5 kg-os elsÃ¼tÅ‘billentyÅ±vel van felszerelve. PÃ¡ncÃ©ltÃ¶rÅ‘ Ã©s robbanÃ³fejes rakÃ©tÃ¡kat is kÃ©pes kilÅ‘ni. Min. ER: 6.}
+{1400}{}{RobbanÃ³ rakÃ©ta}
+{1401}{}{Egy mezei rakÃ©ta, bazi nagy robbanÃ³fejjel.}
 {1500}{}{Plazmapuska}
-{1501}{}{Winchester Model P94 típusú plazmapuska. Ipari osztályú energiafegyver, mely szuperforró plazmanyalábokat lõ ki szupravezetõ csövén keresztül. Energiáját mikro-fúziós elemekbõl meríti. Min. ER: 6.}
-{1600}{}{Lézerpisztoly}
-{1601}{}{Wattz 1000 gyártmányú lézerpisztoly. Ez egy utcai változat, ezért a teljesítménye kisebb, mint a rendõrségi vagy a katonai modelleké. Mûködtetéséhez kis elemekre van szükség. Min. ER: 3.}
-{1700}{}{Harci páncél}
-{1701}{}{Egy a legújabb polimerkompozitokból csúcstechnológiával gyártott páncélzatok közül.}
+{1501}{}{Winchester Model P94 tÃ­pusÃº plazmapuska. Ipari osztÃ¡lyÃº energiafegyver, mely szuperforrÃ³ plazmanyalÃ¡bokat lÅ‘ ki szupravezetÅ‘ csÃ¶vÃ©n keresztÃ¼l. EnergiÃ¡jÃ¡t mikro-fÃºziÃ³s elemekbÅ‘l merÃ­ti. Min. ER: 6.}
+{1600}{}{LÃ©zerpisztoly}
+{1601}{}{Wattz 1000 gyÃ¡rtmÃ¡nyÃº lÃ©zerpisztoly. Ez egy utcai vÃ¡ltozat, ezÃ©rt a teljesÃ­tmÃ©nye kisebb, mint a rendÅ‘rsÃ©gi vagy a katonai modellekÃ©. MÅ±kÃ¶dtetÃ©sÃ©hez kis elemekre van szÃ¼ksÃ©g. Min. ER: 3.}
+{1700}{}{Harci pÃ¡ncÃ©l}
+{1701}{}{Egy a legÃºjabb polimerkompozitokbÃ³l csÃºcstechnolÃ³giÃ¡val gyÃ¡rtott pÃ¡ncÃ©lzatok kÃ¶zÃ¼l.}
 {1800}{}{.44-es Desert Eagle}
-{1801}{}{Egy õsi .44-es Desert Eagle magnum. A késõ XX. századi filmek tették minden idõk egyik legnépszerûbb maroklõfegyverévé. Min ER: 4.}
-{1900}{}{Kõ}
-{1901}{}{Egy egyszerû kõdarab. A Granite-Inc. legkorszerûbb modellje. Min. ER: 1.}
-{2000}{}{Feszítõvas}
-{2001}{}{Egy nagyon kemény és súlyos fémdarab, amelyet arra terveztek, hogy emelõerõt tudjunk rajta keresztül kifejteni. Vagy éppen az ütõerõnket... Min. ER: 5.}
+{1801}{}{Egy Å‘si .44-es Desert Eagle magnum. A kÃ©sÅ‘ XX. szÃ¡zadi filmek tettÃ©k minden idÅ‘k egyik legnÃ©pszerÅ±bb maroklÅ‘fegyverÃ©vÃ©. Min ER: 4.}
+{1900}{}{KÅ‘}
+{1901}{}{Egy egyszerÅ± kÅ‘darab. A Granite-Inc. legkorszerÅ±bb modellje. Min. ER: 1.}
+{2000}{}{FeszÃ­tÅ‘vas}
+{2001}{}{Egy nagyon kemÃ©ny Ã©s sÃºlyos fÃ©mdarab, amelyet arra terveztek, hogy emelÅ‘erÅ‘t tudjunk rajta keresztÃ¼l kifejteni. Vagy Ã©ppen az Ã¼tÅ‘erÅ‘nket... Min. ER: 5.}
 {2100}{}{Boxer}
-{2101}{}{Acélból készített, ökölre húzható fegyver. Védi a kezet, és nagyobb sebzést biztosít pusztakezes harcban. Min. ER: 1.}
+{2101}{}{AcÃ©lbÃ³l kÃ©szÃ­tett, Ã¶kÃ¶lre hÃºzhatÃ³ fegyver. VÃ©di a kezet, Ã©s nagyobb sebzÃ©st biztosÃ­t pusztakezes harcban. Min. ER: 1.}
 {2200}{}{14 mm-es pisztoly}
 {2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship. Min ST: 4.}
 {2300}{}{Rohampuska}
-{2301}{}{Egy 5 mm-es AK-112-es rohampuska. Régi modell, a háború óta nem használja a kutya se. Képes egyenként vagy akár sorozatokban is szórni a nagy sebességû 5 mm-es lövedékeket. Min. ER: 5.}
+{2301}{}{Egy 5 mm-es AK-112-es rohampuska. RÃ©gi modell, a hÃ¡borÃº Ã³ta nem hasznÃ¡lja a kutya se. KÃ©pes egyenkÃ©nt vagy akÃ¡r sorozatokban is szÃ³rni a nagy sebessÃ©gÅ± 5 mm-es lÃ¶vedÃ©keket. Min. ER: 5.}
 {2400}{}{Plazmapisztoly}
-{2401}{}{Glock 86-os plazmapisztoly, melyet a Gaston Glock mesterséges agy tervezett. Kis nyalábokban nagy hõmérsékletû plazmát lõ ki magából. Kis energiacellákkal mûködik. Min. ER: 4.}
-{2500}{}{Repeszgránát}
-{2501}{}{Mezei repeszgránát. A gyilkos repeszekbõl álló burkolat kevés, ám nagy erejû robbanószert tartalmaz. Becsapódáskor robban. Min. ER: 3.}
-{2600}{}{Plazmagránát}
-{2601}{}{Mágnesesen lezárt plazmatároló egység detonátorral ellátva. Becsapódáskor túlhevített plazma lövell ki a gránátból. Min. ER: 4.}
-{2700}{}{Elektrogránát}
-{2701}{}{Elektromágneses gránát, amely a detonáció során kiterjedt mágneses mezõt hoz létre. Szerves élõlényekre nincs hatással. Min. ER: 4.}
-{2800}{}{Lézer gépágyú}
-{2801}{}{H&K L30-as gyorstüzelõ lézerágyú. Kifejezetten katonai használatra hozták létre, a háború kirobbanásakor még csak prototípusként létezett. Az öt csõ lehetõvé teszi, hogy hosszabb ideig lehessen vele tüzelni a túlmelegedés elõtt. Mikro-fúziós elemekkel üzemel. Min. ER: 6.}
-{2900}{}{10 mm ÜH}
-{2901}{}{10 mm kaliberû köpenyes üregeshegyû lõszer.}
+{2401}{}{Glock 86-os plazmapisztoly, melyet a Gaston Glock mestersÃ©ges agy tervezett. Kis nyalÃ¡bokban nagy hÅ‘mÃ©rsÃ©kletÅ± plazmÃ¡t lÅ‘ ki magÃ¡bÃ³l. Kis energiacellÃ¡kkal mÅ±kÃ¶dik. Min. ER: 4.}
+{2500}{}{RepeszgrÃ¡nÃ¡t}
+{2501}{}{Mezei repeszgrÃ¡nÃ¡t. A gyilkos repeszekbÅ‘l Ã¡llÃ³ burkolat kevÃ©s, Ã¡m nagy erejÅ± robbanÃ³szert tartalmaz. BecsapÃ³dÃ¡skor robban. Min. ER: 3.}
+{2600}{}{PlazmagrÃ¡nÃ¡t}
+{2601}{}{MÃ¡gnesesen lezÃ¡rt plazmatÃ¡rolÃ³ egysÃ©g detonÃ¡torral ellÃ¡tva. BecsapÃ³dÃ¡skor tÃºlhevÃ­tett plazma lÃ¶vell ki a grÃ¡nÃ¡tbÃ³l. Min. ER: 4.}
+{2700}{}{ElektrogrÃ¡nÃ¡t}
+{2701}{}{ElektromÃ¡gneses grÃ¡nÃ¡t, amely a detonÃ¡ciÃ³ sorÃ¡n kiterjedt mÃ¡gneses mezÅ‘t hoz lÃ©tre. Szerves Ã©lÅ‘lÃ©nyekre nincs hatÃ¡ssal. Min. ER: 4.}
+{2800}{}{LÃ©zer gÃ©pÃ¡gyÃº}
+{2801}{}{H&K L30-as gyorstÃ¼zelÅ‘ lÃ©zerÃ¡gyÃº. Kifejezetten katonai hasznÃ¡latra hoztÃ¡k lÃ©tre, a hÃ¡borÃº kirobbanÃ¡sakor mÃ©g csak prototÃ­puskÃ©nt lÃ©tezett. Az Ã¶t csÅ‘ lehetÅ‘vÃ© teszi, hogy hosszabb ideig lehessen vele tÃ¼zelni a tÃºlmelegedÃ©s elÅ‘tt. Mikro-fÃºziÃ³s elemekkel Ã¼zemel. Min. ER: 6.}
+{2900}{}{10 mm ÃœH}
+{2901}{}{10 mm kaliberÅ± kÃ¶penyes Ã¼regeshegyÅ± lÅ‘szer.}
 {3000}{}{10 mm PT}
-{3001}{}{10 mm-es páncéltörõ lövedék.}
-{3100}{}{,44 ÜH Magnum}
-{3101}{}{Egy tár ,44-es magnum típusú, üreges hegyû lõszer.}
-{3200}{}{Lángszóró üzemanyag}
-{3201}{}{Ez a tartály lángszórókba való fokozottan gyúlékony folyadékot tartalmaz.}
+{3001}{}{10 mm-es pÃ¡ncÃ©ltÃ¶rÅ‘ lÃ¶vedÃ©k.}
+{3100}{}{,44 ÃœH Magnum}
+{3101}{}{Egy tÃ¡r ,44-es magnum tÃ­pusÃº, Ã¼reges hegyÅ± lÅ‘szer.}
+{3200}{}{LÃ¡ngszÃ³rÃ³ Ã¼zemanyag}
+{3201}{}{Ez a tartÃ¡ly lÃ¡ngszÃ³rÃ³kba valÃ³ fokozottan gyÃºlÃ©kony folyadÃ©kot tartalmaz.}
 {3300}{}{14 mm PT}
-{3301}{}{Nagy kaliberû, páncéltörõ lõszer.}
+{3301}{}{Nagy kaliberÅ±, pÃ¡ncÃ©ltÃ¶rÅ‘ lÅ‘szer.}
 {3400}{}{,223 FK}
-{3401}{}{0,223 hüvelyk átmérõjû, fémköpenyes töltény.}
-{3500}{}{5 mm ÜH}
-{3501}{}{Egy tár, mely kis kaliberû lõszert tartalmaz. 5 mm-es átmerõ és köpenyelt üreges hegy jellemzi.}
+{3401}{}{0,223 hÃ¼velyk Ã¡tmÃ©rÅ‘jÅ±, fÃ©mkÃ¶penyes tÃ¶ltÃ©ny.}
+{3500}{}{5 mm ÃœH}
+{3501}{}{Egy tÃ¡r, mely kis kaliberÅ± lÅ‘szert tartalmaz. 5 mm-es Ã¡tmerÅ‘ Ã©s kÃ¶penyelt Ã¼reges hegy jellemzi.}
 {3600}{}{5 mm PT}
-{3601}{}{Ebben a tárban kis kaliberû, 5 mm-es páncéltörõ muníció van.}
-{3700}{}{PT rakéta}
-{3701}{}{Rakéta, melyben kisebb robbanótöltet van, de páncéltörõ tulajdonságokkal bír.}
+{3601}{}{Ebben a tÃ¡rban kis kaliberÅ±, 5 mm-es pÃ¡ncÃ©ltÃ¶rÅ‘ munÃ­ciÃ³ van.}
+{3700}{}{PT rakÃ©ta}
+{3701}{}{RakÃ©ta, melyben kisebb robbanÃ³tÃ¶ltet van, de pÃ¡ncÃ©ltÃ¶rÅ‘ tulajdonsÃ¡gokkal bÃ­r.}
 {3800}{}{Kis energiacella}
-{3801}{}{Kis méretû, független energiatároló eszköz.}
-{3900}{}{Mikro-fúziós cella}
-{3901}{}{Közepes méretû, fúziós energiatermelõ egység.}
+{3801}{}{Kis mÃ©retÅ±, fÃ¼ggetlen energiatÃ¡rolÃ³ eszkÃ¶z.}
+{3900}{}{Mikro-fÃºziÃ³s cella}
+{3901}{}{KÃ¶zepes mÃ©retÅ±, fÃºziÃ³s energiatermelÅ‘ egysÃ©g.}
 {4000}{}{Stimpakk}
 {4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
-{4100}{}{Pénz}
-{4101}{}{A puszta törvényes és elfogadott fizetõeszköze.}
-{4200}{}{Hûtõ}
-{4201}{}{Egy hûtõszekrény, hûtõfolyadék nélkül.}
-{4300}{}{Mélyhûtõ láda}
-{4301}{}{Egy jéggel töltött láda, még a letûnt korok idejébõl. A csuklópántok még mindig jól mûködnek.}
-{4400}{}{Mélyhûtõ láda}
-{4401}{}{Egy jéggel töltött láda, még a letûnt korok idejébõl. A csuklópántok még mindig jól mûködnek.}
-{4500}{}{Dobókés}
-{4501}{}{Ezt a kést kifejezetten dobásra egyensúlyoztak ki. Titánból készült, melyet lézerrel fentek félelmtesen élesre. Min. ER: 3.}
-{4600}{}{Szütyõ}
-{4601}{}{Egy teljesen hétköznapi méretû zsák, melyet brahminszõrbõl szõttek.}
-{4700}{}{Elsõsegély csomag}
-{4701}{}{Egy kis készlet, mely a legalapvetõbb orvosi eszközöket tartalmazza: kötszer, fásli, fertõtlenítõ folyadék, stb.}
+{4100}{}{PÃ©nz}
+{4101}{}{A puszta tÃ¶rvÃ©nyes Ã©s elfogadott fizetÅ‘eszkÃ¶ze.}
+{4200}{}{HÅ±tÅ‘}
+{4201}{}{Egy hÅ±tÅ‘szekrÃ©ny, hÅ±tÅ‘folyadÃ©k nÃ©lkÃ¼l.}
+{4300}{}{MÃ©lyhÅ±tÅ‘ lÃ¡da}
+{4301}{}{RÃ©gi stÃ­lusÃº fagyasztÃ³ lÃ¡da. A zsanÃ©rok mÃ©g mindig jÃ³ Ã¡llapotban vannak.}
+{4400}{}{MÃ©lyhÅ±tÅ‘ lÃ¡da}
+{4401}{}{RÃ©gi stÃ­lusÃº fagyasztÃ³ lÃ¡da. A zsanÃ©rok mÃ©g mindig jÃ³ Ã¡llapotban vannak.}
+{4500}{}{DobÃ³kÃ©s}
+{4501}{}{Ezt a kÃ©st kifejezetten dobÃ¡sra egyensÃºlyoztak ki. TitÃ¡nbÃ³l kÃ©szÃ¼lt, melyet lÃ©zerrel fentek fÃ©lelmtesen Ã©lesre. Min. ER: 3.}
+{4600}{}{ZsÃ¡k}
+{4601}{}{Egy teljesen hÃ©tkÃ¶znapi mÃ©retÅ± zsÃ¡k, melyet brahminszÅ‘rbÅ‘l szÅ‘ttek.}
+{4700}{}{ElsÅ‘segÃ©ly csomag}
+{4701}{}{Egy kis kÃ©szlet, mely a legalapvetÅ‘bb orvosi eszkÃ¶zÃ¶ket tartalmazza: kÃ¶tszer, fÃ¡sli, fertÅ‘tlenÃ­tÅ‘ folyadÃ©k, stb.}
 {4800}{}{RadAway}
-{4801}{}{Vegyi oldat, mely megköti a radioaktív részecskéket, amik így ki tudnak ürülni a szervezetbõl. A megfelelõ hatás eléréséhez kell némi idõ.}
-{4900}{}{Ellenméreg}
-{4901}{}{Ebben az üvegben házilag kotyvasztott méreg-ellenszer található. Valami tejszerû folyadék, amiben radskorpiók különbözõ darabjai úszkálnak.}
-{5000}{}{Fenntartott tárgy}
-{5001}{}{Ez egy késõbbi célokra fenntartott tárgy. NE HASZNÁLD!}
+{4801}{}{Vegyi oldat, mely megkÃ¶ti a radioaktÃ­v rÃ©szecskÃ©ket, amik Ã­gy ki tudnak Ã¼rÃ¼lni a szervezetbÅ‘l. A megfelelÅ‘ hatÃ¡s elÃ©rÃ©sÃ©hez kell nÃ©mi idÅ‘.}
+{4900}{}{EllenmÃ©reg}
+{4901}{}{Ebben az Ã¼vegben hÃ¡zilag kotyvasztott mÃ©reg-ellenszer talÃ¡lhatÃ³. Valami tejszerÅ± folyadÃ©k, amiben radskorpiÃ³k kÃ¼lÃ¶nbÃ¶zÅ‘ darabjai ÃºszkÃ¡lnak.}
+{5000}{}{Fenntartott tÃ¡rgy}
+{5001}{}{Ez egy kÃ©sÅ‘bbi cÃ©lokra fenntartott tÃ¡rgy. NE HASZNÃLD!}
 {5100}{}{Dinamit}
 {5101}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer.}
-{5200}{}{Geiger-számláló}
-{5201}{}{Wattz Electronics gyártmányú "C-Radz" Geiger-Müller számláló. Jelzi a radioaktivitást, és annak erõsségét.}
-{5300}{}{Mentát}
+{5200}{}{Geiger-szÃ¡mlÃ¡lÃ³}
+{5201}{}{Wattz Electronics gyÃ¡rtmÃ¡nyÃº "C-Radz" Geiger-MÃ¼ller szÃ¡mlÃ¡lÃ³. Jelzi a radioaktivitÃ¡st, Ã©s annak erÅ‘ssÃ©gÃ©t.}
+{5300}{}{MentÃ¡t}
 {5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
 {5400}{}{Stealth Boy}
-{5401}{}{RobCo Stealth Boy 3001 személyi álcázó készülék. Egy mezõt hoz létre, amely a visszavert fényt a tárgy másik oldalára irányítja.}
-{5500}{}{Víztisztító chip}
-{5501}{}{Menedék-Tek gyártmányú víztisztító chip. Általában 5-ös kiszerelésben szállították.}
-{5600}{}{Dögcédula}
+{5401}{}{"RobCo Stealth Boy 3001" szemÃ©lyi Ã¡lcÃ¡zÃ³ kÃ©szÃ¼lÃ©k. Olyan mezÅ‘t hoz lÃ©tre, amely a visszavert fÃ©nyt a tÃ¡rgy mÃ¡sik oldalÃ¡ra irÃ¡nyÃ­tja.}
+{5500}{}{VÃ­ztisztÃ­tÃ³ chip}
+{5501}{}{MenedÃ©k-Tek gyÃ¡rtmÃ¡nyÃº vÃ­ztisztÃ­tÃ³ chip. ÃltalÃ¡ban 5-Ã¶s kiszerelÃ©sben szÃ¡llÃ­tottÃ¡k.}
+{5600}{}{DÃ¶gcÃ©dula}
 {5601}{}{A set of military dog tags. The name Dickinson and the word Enclave are barely readable.}
 {5700}{}{Poloska}
-{5701}{}{Miniatûr hangfelveõ és továbbító készülék.}
+{5701}{}{MiniatÅ±r hangfelveÅ‘ Ã©s tovÃ¡bbÃ­tÃ³ kÃ©szÃ¼lÃ©k.}
 {5800}{}{Hololemez}
-{5801}{}{Wattz Electronics gyártmányú hololemez. Ez a példány nagyon rossz állapotban van.}
-{5900}{}{Mozgásérzékelõ}
-{5901}{}{Wattz Electronics gyártmányú C-U típusú mozgásérzékelõ. Radarjával szerves létformák mozgását érzékeli egy bizonyos hatótávolságig. Ha utazásaid során nálad van, segít elkerülni a nem kívánt találkozásokat (+20% a Túléléshez).}
-{6000}{}{Könyvespolc}
-{6001}{}{Fából készült könyvespolc.}
-{6100}{}{Könyvespolc}
-{6101}{}{Fából készült könyvespolc.}
-{6200}{}{Könyvespolc}
-{6201}{}{Fából készült könyvespolc.}
-{6300}{}{Könyvespolc}
-{6301}{}{Fából készült könyvespolc.}
-{6400}{}{Könyvespolc}
-{6401}{}{Fából készült könyvespolc.}
-{6500}{}{Könyvespolc}
-{6501}{}{Fából készült könyvespolc.}
+{5801}{}{Wattz Electronics gyÃ¡rtmÃ¡nyÃº hololemez. Ez a pÃ©ldÃ¡ny nagyon rossz Ã¡llapotban van.}
+{5900}{}{MozgÃ¡sÃ©rzÃ©kelÅ‘}
+{5901}{}{Wattz Electronics gyÃ¡rtmÃ¡nyÃº C-U tÃ­pusÃº mozgÃ¡sÃ©rzÃ©kelÅ‘. RadarjÃ¡val szerves lÃ©tformÃ¡k mozgÃ¡sÃ¡t Ã©rzÃ©keli egy bizonyos hatÃ³tÃ¡volsÃ¡gig. Ha utazÃ¡said sorÃ¡n nÃ¡lad van, segÃ­t elkerÃ¼lni a nem kÃ­vÃ¡nt talÃ¡lkozÃ¡sokat (+20% a TÃºlÃ©lÃ©shez).}
+{6000}{}{KÃ¶nyvespolc}
+{6001}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{6100}{}{KÃ¶nyvespolc}
+{6101}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{6200}{}{KÃ¶nyvespolc}
+{6201}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{6300}{}{KÃ¶nyvespolc}
+{6301}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{6400}{}{KÃ¶nyvespolc}
+{6401}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{6500}{}{KÃ¶nyvespolc}
+{6501}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
 {6600}{}{Asztal}
-{6601}{}{Fából készült asztal.}
+{6601}{}{FÃ¡bÃ³l kÃ©szÃ¼lt asztal.}
 {6700}{}{Asztal}
-{6701}{}{Fából készült asztal.}
-{6800}{}{Öltözõasztal}
-{6801}{}{Fából készült komód.}
-{6900}{}{Öltözõasztal}
-{6901}{}{Fából készült komód.}
-{7000}{}{Öltözõasztal}
-{7001}{}{Fából készült komód.}
-{7100}{}{Gyümölcs}
-{7101}{}{Furcsa gyümölcs. Tartósítószer és mesterséges színezék nélkül.}
-{7200}{}{Aktatáska}
-{7201}{}{Bõr aktatáska, "Made in the USA" címkével. Jó állapotban van, de a számzár nem mûködik.}
-{7300}{}{A Tudományok nagy könyve}
-{7301}{}{Könyvkészlet, mely különbözõ tudományágak ismereteit gyûjti össze.}
-{7400}{}{Bõrdzseki}
-{7401}{}{Egy fekete, nehéz bõrdzseki.}
-{7500}{}{Szerszám}
-{7501}{}{Szerszámkészlet, mely sok hasznos szerszámot tartalmaz, beleértve a fogót is.}
-{7600}{}{Elektronikai szakkönyv}
-{7601}{}{Elektronikával foglalkozó tankönyv. A borítója szerint "a mindenkiben megbúvó villamosmérnök számára" készült.}
-{7700}{}{Elektromos zárnyitó}
-{7701}{}{Wattz Electronics gyártmányú "Micromanipulator FingerStuff" típusú zárnyitó, elektromos zárak, és biztonsági berendezések feltörésére.}
-{7800}{}{Festmény}
-{7801}{}{Kép egy énekesrõl. Már nagyon régi, de a kép borításának köszönhetõen még mindig jó állapotban van.}
-{7900}{}{Jelzõfény}
-{7901}{}{Jelzõfény, mely egy rövid ideig fényt bocsát ki. A papír kicsit elnyûtt, de amúgy jó állapotban van. Ha aktiválni akarod, csavard el a tetejét!}
-{8000}{}{Elsõsegély könyv}
-{8001}{}{Ez a tankönyv az elsõsegélynyújtás elméleti és gyakorlati lépéseit mutatja be.}
-{8100}{}{Nyárson sült iguana}
+{6701}{}{FÃ¡bÃ³l kÃ©szÃ¼lt asztal.}
+{6800}{}{KomÃ³d}
+{6801}{}{FÃ¡bÃ³l kÃ©szÃ¼lt komÃ³d.}
+{6900}{}{KomÃ³d}
+{6901}{}{FÃ¡bÃ³l kÃ©szÃ¼lt komÃ³d.}
+{7000}{}{KomÃ³d}
+{7001}{}{FÃ¡bÃ³l kÃ©szÃ¼lt komÃ³d.}
+{7100}{}{GyÃ¼mÃ¶lcs}
+{7101}{}{Furcsa gyÃ¼mÃ¶lcs. TartÃ³sÃ­tÃ³szer Ã©s mestersÃ©ges szÃ­nezÃ©k nÃ©lkÃ¼l.}
+{7200}{}{AktatÃ¡ska}
+{7201}{}{BÅ‘r aktatÃ¡ska, "Made in the USA" cÃ­mkÃ©vel. JÃ³ Ã¡llapotban van, de a szÃ¡mzÃ¡r nem mÅ±kÃ¶dik.}
+{7300}{}{A TudomÃ¡nyok nagy kÃ¶nyve}
+{7301}{}{KÃ¶nyvkÃ©szlet, mely kÃ¼lÃ¶nbÃ¶zÅ‘ tudomÃ¡nyÃ¡gak ismereteit gyÅ±jti Ã¶ssze.}
+{7400}{}{BÅ‘rdzseki}
+{7401}{}{Egy fekete, nehÃ©z bÅ‘rdzseki.}
+{7500}{}{SzerszÃ¡m}
+{7501}{}{SzerszÃ¡mkÃ©szlet, mely sok hasznos szerszÃ¡mot tartalmaz, beleÃ©rtve a fogÃ³t is.}
+{7600}{}{Elektronikai szakkÃ¶nyv}
+{7601}{}{ElektronikÃ¡val foglalkozÃ³ tankÃ¶nyv. A borÃ­tÃ³ja szerint "a mindenkiben megbÃºvÃ³ villamosmÃ©rnÃ¶k szÃ¡mÃ¡ra" kÃ©szÃ¼lt.}
+{7700}{}{Elektromos zÃ¡rnyitÃ³}
+{7701}{}{Wattz Electronics gyÃ¡rtmÃ¡nyÃº "Micromanipulator FingerStuff" tÃ­pusÃº zÃ¡rnyitÃ³, elektromos zÃ¡rak, Ã©s biztonsÃ¡gi berendezÃ©sek feltÃ¶rÃ©sÃ©re.}
+{7800}{}{FestmÃ©ny}
+{7801}{}{KÃ©p egy Ã©nekesrÅ‘l. MÃ¡r nagyon rÃ©gi, de a kÃ©p borÃ­tÃ¡sÃ¡nak kÃ¶szÃ¶nhetÅ‘en mÃ©g mindig jÃ³ Ã¡llapotban van.}
+{7900}{}{FÃ¡klya}
+{7901}{}{JelzÅ‘fÃ©ny, mely egy rÃ¶vid ideig fÃ©nyt bocsÃ¡t ki. A papÃ­r kicsit elnyÅ±tt, de amÃºgy jÃ³ Ã¡llapotban van. Ha aktivÃ¡lni akarod, csavard el a tetejÃ©t!}
+{8000}{}{ElsÅ‘segÃ©ly kÃ¶nyv}
+{8001}{}{Ez a tankÃ¶nyv az elsÅ‘segÃ©lynyÃºjtÃ¡s elmÃ©leti Ã©s gyakorlati lÃ©pÃ©seit mutatja be.}
+{8100}{}{NyÃ¡rson sÃ¼lt iguana}
 {8101}{}{A cooked iguana, roasted in its own skin.}
 {8200}{}{Kulcs}
-{8201}{}{Ez a kulcs egy zárhoz tartozik.}
-{8300}{}{Kulcscsomó}
-{8301}{}{Több kulcs egybefûzve.}
-{8400}{}{Tolvajkulcs készlet}
-{8401}{}{Egy készlet, mely minden fontos eszközt tartalmaz egyszerûbb zárak kinyitásához, beleértve különbözõ fogókat és feszítõket.}
+{8201}{}{Ez a kulcs egy zÃ¡rhoz tartozik.}
+{8300}{}{KulcscsomÃ³}
+{8301}{}{TÃ¶bb kulcs egybefÅ±zve.}
+{8400}{}{Tolvajkulcs kÃ©szlet}
+{8401}{}{Egy kÃ©szlet, mely minden fontos eszkÃ¶zt tartalmaz egyszerÅ±bb zÃ¡rak kinyitÃ¡sÃ¡hoz, beleÃ©rtve kÃ¼lÃ¶nbÃ¶zÅ‘ fogÃ³kat Ã©s feszÃ­tÅ‘ket.}
 {8500}{}{Plasztikbomba}
-{8501}{}{Egy nagy darab, Cordex márkájú, katonai, plasztik robbanószer. Nagyon stabil és óriási pusztítóerõvel bír. Idõzítõ is van rajta.}
-{8600}{}{Felderítõk kézikönyve}
-{8601}{}{Egy könyv, mely a felderítés elvi és gyakorlati módszereit ismerteti. Hasznos tudnivalókat nyújt a szabadban való túléléshez.}
+{8501}{}{Egy nagy darab, Cordex mÃ¡rkÃ¡jÃº, katonai, plasztik robbanÃ³szer. Nagyon stabil Ã©s Ã³riÃ¡si pusztÃ­tÃ³erÅ‘vel bÃ­r. IdÅ‘zÃ­tÅ‘ is van rajta.}
+{8600}{}{FelderÃ­tÅ‘k kÃ©zikÃ¶nyve}
+{8601}{}{Egy kÃ¶nyv, mely a felderÃ­tÃ©s elvi Ã©s gyakorlati mÃ³dszereit ismerteti. Hasznos tudnivalÃ³kat nyÃºjt a szabadban valÃ³ tÃºlÃ©lÃ©shez.}
 {8700}{}{Buffout}
 {8701}{}{Highly advanced steroids. While in effect, they increase strength and reflexes. Very addictive.}
-{8800}{}{Karóra}
-{8801}{}{Egy értékes karóra. Nem mûködik, de még mindig jól néz ki.}
+{8800}{}{KarÃ³ra}
+{8801}{}{Egy Ã©rtÃ©kes karÃ³ra. Nem mÅ±kÃ¶dik, de mÃ©g mindig jÃ³l nÃ©z ki.}
 {8900}{}{Motor}
-{8901}{}{Ez egy 40 lóerõs, elektromos motor.}
-{9000}{}{Hátizsák}
-{9001}{}{Hátizsák a fakultatív szíjakkal.}
-{9100}{}{Orvosi táska}
+{8901}{}{Ez egy 40 lÃ³erÅ‘s, elektromos motor.}
+{9000}{}{HÃ¡tizsÃ¡k}
+{9001}{}{HÃ¡tizsÃ¡k a fakultatÃ­v szÃ­jakkal.}
+{9100}{}{Orvosi tÃ¡ska}
 {9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
-{9200}{}{Skorpiófarok}
-{9201}{}{Egy radskorpió levágott farka.}
-{9300}{}{Szütyõ}
-{9301}{}{Egy átlagos méretû szütyõ. Szõtt brahminszõrbõl készült.}
-{9400}{}{Sörétes puska}
-{9401}{}{Egy "Özvegyítõ" becenevû Winchester márkajelzésû duplacsövû sörétes puska. Rövid csõ, mahagóni markolat. Min ER: 4.}
-{9500}{}{Sörétes lõszer}
-{9501}{}{Lõszer sörétes puskához. A lõszeren ez áll: "12-es kaliberû lövedék, 3 éven aluli gyermekek elõl gondosan elzárandó!"}
-{9600}{}{Piros kódkártya}
-{9601}{}{Elektromos biztonsági kártya, vörös színkóddal.}
-{9700}{}{Kék kódkártya}
+{9200}{}{SkorpiÃ³farok}
+{9201}{}{Egy radskorpiÃ³ levÃ¡gott farka.}
+{9300}{}{ZsÃ¡k}
+{9301}{}{Egy Ã¡tlagos mÃ©retÅ± szÃ¼tyÅ‘. SzÅ‘tt brahminszÅ‘rbÅ‘l kÃ©szÃ¼lt.}
+{9400}{}{SÃ¶rÃ©tes puska}
+{9401}{}{Egy "Ã–zvegyÃ­tÅ‘" becenevÅ± Winchester mÃ¡rkajelzÃ©sÅ± duplacsÃ¶vÅ± sÃ¶rÃ©tes puska. RÃ¶vid csÅ‘, mahagÃ³ni markolat. Min ER: 4.}
+{9500}{}{SÃ¶rÃ©tes lÅ‘szer}
+{9501}{}{LÅ‘szer sÃ¶rÃ©tes puskÃ¡hoz. A lÅ‘szeren ez Ã¡ll: "12-es kaliberÅ± lÃ¶vedÃ©k, 3 Ã©ven aluli gyermekek elÅ‘l gondosan elzÃ¡randÃ³!"}
+{9600}{}{Piros kÃ³dkÃ¡rtya}
+{9601}{}{Elektronikus belÃ©ptetÅ‘kÃ¡rtya, piros szÃ­nkÃ³ddal.}
+{9700}{}{KÃ©k kÃ³dkÃ¡rtya}
 {9701}{}{An electronic security key, color coded blue.}
-{9800}{}{Szemét}
-{9801}{}{Egy kis limlom. Mindenbõl egy kevés.}
-{9900}{}{Aranymedál}
-{9901}{}{Ez egy igen értékes aranymedál.}
-{10000}{}{Rádió}
-{10001}{}{Egy 2043B típusú rádió adó-vevõ a Wattz Electronicstól. Megbízható, terepszínû modell, RS-121-es interfésszel felszerelve.}
-{10100}{}{Öngyújtó}
-{10101}{}{Egy jó állapotban lévõ ezüst butánöngyújtó.}
-{10200}{}{Fegyvermánia}
-{10201}{}{Fegyvermagazin, mely ismertetõket tartalmaz különbözõ tûzfegyverekrõl és azok hatékony használatáról.}
-{10300}{}{Nyárson sült iguana}
-{10301}{}{Egy adag nyárson sült iguanapecsenye némi zöldséggel.}
-{10400}{}{Lejátszó}
-{10401}{}{Wattz Electronics Játszd-Le-Nekem típusú kazettás magnó. Lejátszásra és felvételre egyaránt alkalmas. 30 perces egyszeri felvételre alkalmas kazettákat használ.}
+{9800}{}{Kacatok}
+{9801}{}{Egy kis limlom. MindenbÅ‘l egy kevÃ©s.}
+{9900}{}{AranymedÃ¡l}
+{9901}{}{Ez egy igen Ã©rtÃ©kes aranymedÃ¡l.}
+{10000}{}{RÃ¡diÃ³}
+{10001}{}{Egy 2043B tÃ­pusÃº rÃ¡diÃ³ adÃ³-vevÅ‘ a Wattz ElectronicstÃ³l. MegbÃ­zhatÃ³, terepszÃ­nÅ± modell, RS-121-es interfÃ©sszel felszerelve.}
+{10100}{}{Ã–ngyÃºjtÃ³}
+{10101}{}{Egy jÃ³ Ã¡llapotban lÃ©vÅ‘ ezÃ¼st butÃ¡nÃ¶ngyÃºjtÃ³.}
+{10200}{}{FegyvermÃ¡nia}
+{10201}{}{Fegyvermagazin, mely ismertetÅ‘ket tartalmaz kÃ¼lÃ¶nbÃ¶zÅ‘ tÅ±zfegyverekrÅ‘l Ã©s azok hatÃ©kony hasznÃ¡latÃ¡rÃ³l.}
+{10300}{}{NyÃ¡rson sÃ¼lt iguana}
+{10301}{}{Egy adag nyÃ¡rson sÃ¼lt iguanapecsenye nÃ©mi zÃ¶ldsÃ©ggel.}
+{10400}{}{LejÃ¡tszÃ³}
+{10401}{}{Wattz Electronics JÃ¡tszd-Le-Nekem tÃ­pusÃº kazettÃ¡s magnÃ³. LejÃ¡tszÃ¡sra Ã©s felvÃ©telre egyarÃ¡nt alkalmas. 30 perces egyszeri felvÃ©telre alkalmas kazettÃ¡kat hasznÃ¡l.}
 {10500}{}{Kulcs}
-{10501}{}{Speciális kulcs.}
+{10501}{}{SpeciÃ¡lis kulcs.}
 {10600}{}{Nuka-Cola}
-{10601}{}{Egy üveg Nuka-Cola, a posztnukleáris világ egyik legnépszerûbb itala. Langyos és buborékmentes.}
+{10601}{}{Egy Ã¼veg Nuka-Cola, a posztnukleÃ¡ris vilÃ¡g egyik legnÃ©pszerÅ±bb itala. Langyos Ã©s buborÃ©kmentes.}
 {10700}{}{Csontok}
-{10701}{}{Néhány érdekes csont.}
+{10701}{}{Egy pÃ¡r fura csont.}
 {10800}{}{Csontok}
-{10801}{}{Néhány érdekes csont.}
+{10801}{}{Egy pÃ¡r fura csont.}
 {10900}{}{Rad-X}
 {10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
 {11000}{}{Pszicho}
-{11001}{}{Valószínûleg katonai eredetû, ismeretlen vegyületeket tartalmazó szer. A katonák harci potenciálját hivatott növelni.}
+{11001}{}{ValÃ³szÃ­nÅ±leg katonai eredetÅ±, ismeretlen vegyÃ¼leteket tartalmazÃ³ szer. A katonÃ¡k harci potenciÃ¡ljÃ¡t hivatott nÃ¶velni.}
 {11100}{}{,44-es FK magnum}
-{11101}{}{Egy tár fémköpenyes, .44-es magnum lõszer.}
+{11101}{}{Egy tÃ¡r fÃ©mkÃ¶penyes, .44-es magnum lÅ‘szer.}
 {11200}{}{Urna}
-{11201}{}{Gyönyörû, aranyból készült urna, melyre a "Harriet" nevet gravírozták. Hamvakat tartalmaz.}
-{11300}{}{Köpeny}
+{11201}{}{GyÃ¶nyÃ¶rÅ±, aranybÃ³l kÃ©szÃ¼lt urna, melyre a "Harriet" nevet gravÃ­roztÃ¡k. Hamvakat tartalmaz.}
+{11300}{}{KÃ¶peny}
 {11301}{}{Worn-looking robes.}
 {11400}{}{Tangler keze}
-{11401}{}{Egy emberi kezet formázó kibernetikus manipulátor. Sajnos megsérült, ami a hanyag eltávolítás egyik jellegzetes velejárója.}
-{11500}{}{Szuper Pöröly}
-{11501}{}{Az Acél Testvérisége által a legfejlettebb technológia szerint gyártott kalapács. A lehetõ legnagyobb ütõerõ elérésének érdekében kinetikus energia tároló egységet tartalmaz. Min ER: 5.}
-{11600}{}{Hasfelmetszõ}
-{11601}{}{Hasfelmetszõ (TM) márkájú rezgõpenge. A kis energiacellákkal mûködõ lánclap gyorsan megtalálja az utat a célpont belsejébe. Min ER: 4.}
-{11700}{}{Virág}
-{11701}{}{Egy gyönyörû szép virág.}
-{11800}{}{Lézerpuska}
-{11801}{}{Wattz 2000 márkájú lézerpuska. Mikro-fúziós cellákkal mûködik, így nagyobb a tûzereje, a meghosszabbított csõ pedig nagyobb hatótávolságot eredményez. Min ER: 6.}
-{11900}{}{Nyaklánc}
-{11901}{}{Egy nagyon drága nyaklánc. Ezüst, arany és gyémánt felhasználásával készült.}
+{11401}{}{Egy emberi kezet formÃ¡zÃ³ kibernetikus manipulÃ¡tor. Sajnos megsÃ©rÃ¼lt, ami a hanyag eltÃ¡volÃ­tÃ¡s egyik jellegzetes velejÃ¡rÃ³ja.}
+{11500}{}{Szuper harcipÃ¶rÃ¶ly}
+{11501}{}{Az AcÃ©l TestvÃ©risÃ©ge Ã¡ltal a legfejlettebb technolÃ³gia szerint gyÃ¡rtott kalapÃ¡cs. A lehetÅ‘ legnagyobb Ã¼tÅ‘erÅ‘ elÃ©rÃ©sÃ©nek Ã©rdekÃ©ben kinetikus energia tÃ¡rolÃ³ egysÃ©get tartalmaz. Min ER: 5.}
+{11600}{}{HasfelmetszÅ‘}
+{11601}{}{HasfelmetszÅ‘ (TM) mÃ¡rkÃ¡jÃº rezgÅ‘penge. A kis energiacellÃ¡kkal mÅ±kÃ¶dÅ‘ lÃ¡nclap gyorsan megtalÃ¡lja az utat a cÃ©lpont belsejÃ©be. Min ER: 4.}
+{11700}{}{VirÃ¡g}
+{11701}{}{Egy gyÃ¶nyÃ¶rÅ± szÃ©p virÃ¡g.}
+{11800}{}{LÃ©zerpuska}
+{11801}{}{Wattz 2000 mÃ¡rkÃ¡jÃº lÃ©zerpuska. Mikro-fÃºziÃ³s cellÃ¡kkal mÅ±kÃ¶dik, Ã­gy nagyobb a tÅ±zereje, a meghosszabbÃ­tott csÅ‘ pedig nagyobb hatÃ³tÃ¡volsÃ¡got eredmÃ©nyez. Min ER: 6.}
+{11900}{}{NyaklÃ¡nc}
+{11901}{}{Egy nagyon drÃ¡ga nyaklÃ¡nc. EzÃ¼st, arany Ã©s gyÃ©mÃ¡nt felhasznÃ¡lÃ¡sÃ¡val kÃ©szÃ¼lt.}
 {12000}{}{Idegen fegyver}
-{12001}{}{Érdekes formájú, idegen lényektõl származó fegyver. Furcsa módon mégis mûködtethetõ kis energiacellákkal. Min ER: 2.}
+{12001}{}{Ã‰rdekes formÃ¡jÃº, idegen lÃ©nyektÅ‘l szÃ¡rmazÃ³ fegyver. Furcsa mÃ³don mÃ©gis mÅ±kÃ¶dtethetÅ‘ kis energiacellÃ¡kkal. Min ER: 2.}
 {12100}{}{9 mm-es}
-{12101}{}{Õsrégi, szabványos 9x19 mm-es golyók. Jól be vannak zsírozva, így védve vannak a környezet viszontagságaitól.}
+{12101}{}{ÅsrÃ©gi, szabvÃ¡nyos 9x19 mm-es golyÃ³k. JÃ³l be vannak zsÃ­rozva, Ã­gy vÃ©dve vannak a kÃ¶rnyezet viszontagsÃ¡gaitÃ³l.}
 {12200}{}{9 mm-es Mauser}
-{12201}{}{Mauser M/96 márkájú, 9x19 mm-es lõszert használó Parabellum. Remek állapotban van. Nagyon pontos. Min ER: 3.}
-{12300}{}{Pszichikai megsemmisítõ}
-{12301}{}{Egy különös, ismeretlen technológiával gyártott készülék.}
-{12400}{}{Sör}
-{12401}{}{Valamiféle házi készítésû sör.}
+{12201}{}{Mauser M/96 mÃ¡rkÃ¡jÃº, 9x19 mm-es lÅ‘szert hasznÃ¡lÃ³ Parabellum. Remek Ã¡llapotban van. Nagyon pontos. Min ER: 3.}
+{12300}{}{Pszichikai megsemmisÃ­tÅ‘}
+{12301}{}{Egy kÃ¼lÃ¶nÃ¶s, ismeretlen technolÃ³giÃ¡val gyÃ¡rtott kÃ©szÃ¼lÃ©k.}
+{12400}{}{SÃ¶r}
+{12401}{}{ValamifÃ©le hÃ¡zi kÃ©szÃ­tÃ©sÅ± sÃ¶r.}
 {12500}{}{Pia}
-{12501}{}{Õsi szeszes ital, még a háború elõtti idõkbõl.}
+{12501}{}{Åsi szeszes ital, mÃ©g a hÃ¡borÃº elÅ‘tti idÅ‘kbÅ‘l.}
 {12600}{}{Kulacs}
-{12601}{}{Víz, és egyéb folyadékok tárolására szolgál.}
-{12700}{}{Kötél}
-{12701}{}{Egy körülbelül 20 méter hosszú, erõs és vastag kötél.}
-{12800}{}{Láda}
-{12801}{}{Zárható tárolóeszköz az ágy lábánál.}
-{12900}{}{Láda}
-{12901}{}{Zárható tárolóeszköz az ágy lábánál.}
-{13000}{}{Láda}
-{13001}{}{Zárható tárolóeszköz az ágy lábánál.}
-{13100}{}{Láda}
-{13101}{}{Zárható tárolóeszköz az ágy lábánál.}
-{13200}{}{Szekrény}
-{13201}{}{Szekrény, tárolóegység.}
-{13300}{}{Szekrény}
-{13301}{}{Szekrény, tárolóegység.}
-{13400}{}{Szekrény}
-{13401}{}{Szekrény, tárolóegység.}
-{13500}{}{Szekrény}
-{13501}{}{Szekrény, tárolóegység.}
-{13600}{}{Szekrény}
-{13601}{}{Szekrény, tárolóegység.}
-{13700}{}{Szekrény}
-{13701}{}{Szekrény, tárolóegység.}
-{13800}{}{Szekrény}
-{13801}{}{Szekrény, tárolóegység.}
-{13900}{}{Szekrény}
-{13901}{}{Szekrény, tárolóegység.}
-{14000}{}{Beléptetõ kártya}
-{14001}{}{Biztonsági beléptetõ kártya. Még mindig mûködõképes állapotban van.}
-{14100}{}{KGY jelvény}
-{14101}{}{Jelvény, mely a Katedrális Gyermekeinek szimbólumát ábrázolja. Kinézete egy kulcsra emlékeztet téged.}
-{14200}{}{KGY jelvény}
-{14201}{}{Jelvény, mely a Katedrális Gyermekeinek szimbólumát ábrázolja. Kinézete egy kulcsra emlékeztet téged.}
-{14300}{}{Mesterlövész puska}
-{14301}{}{DKS-501 mesterlövész puska. Kiváló, nagy hatótávolságú fegyver. Eredetileg .308-as kaliberû, de ezt a darabot a jóval egyszerûbb .223-as lövedékek kilövésére módosították. Min ER: 5.}
+{12601}{}{VÃ­z, Ã©s egyÃ©b folyadÃ©kok tÃ¡rolÃ¡sÃ¡ra szolgÃ¡l.}
+{12700}{}{KÃ¶tÃ©l}
+{12701}{}{Egy kÃ¶rÃ¼lbelÃ¼l 20 mÃ©ter hosszÃº, erÅ‘s Ã©s vastag kÃ¶tÃ©l.}
+{12800}{}{LÃ¡da}
+{12801}{}{ZÃ¡rhatÃ³ tÃ¡rolÃ³eszkÃ¶z az Ã¡gy lÃ¡bÃ¡nÃ¡l.}
+{12900}{}{LÃ¡da}
+{12901}{}{ZÃ¡rhatÃ³ tÃ¡rolÃ³eszkÃ¶z az Ã¡gy lÃ¡bÃ¡nÃ¡l.}
+{13000}{}{LÃ¡da}
+{13001}{}{ZÃ¡rhatÃ³ tÃ¡rolÃ³eszkÃ¶z az Ã¡gy lÃ¡bÃ¡nÃ¡l.}
+{13100}{}{LÃ¡da}
+{13101}{}{ZÃ¡rhatÃ³ tÃ¡rolÃ³eszkÃ¶z az Ã¡gy lÃ¡bÃ¡nÃ¡l.}
+{13200}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13201}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13300}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13301}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13400}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13401}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13500}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13501}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13600}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13601}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13700}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13701}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13800}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13801}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{13900}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{13901}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{14000}{}{BelÃ©ptetÅ‘ kÃ¡rtya}
+{14001}{}{BiztonsÃ¡gi belÃ©ptetÅ‘ kÃ¡rtya. MÃ©g mindig mÅ±kÃ¶dÅ‘kÃ©pes Ã¡llapotban van.}
+{14100}{}{KGY jelvÃ©ny}
+{14101}{}{Egy jelvÃ©ny, mely a KatedrÃ¡lis Gyermekeinek szimbÃ³lumÃ¡t Ã¡brÃ¡zolja. KinÃ©zete egy kulcsra emlÃ©keztet tÃ©ged.}
+{14200}{}{KGY jelvÃ©ny}
+{14201}{}{Egy jelvÃ©ny, mely a KatedrÃ¡lis Gyermekeinek szimbÃ³lumÃ¡t Ã¡brÃ¡zolja. KinÃ©zete egy kulcsra emlÃ©keztet tÃ©ged.}
+{14300}{}{MesterlÃ¶vÃ©sz puska}
+{14301}{}{DKS-501 mesterlÃ¶vÃ©sz puska. KivÃ¡lÃ³, nagy hatÃ³tÃ¡volsÃ¡gÃº fegyver. Eredetileg .308-as kaliberÅ±, de ezt a darabot a jÃ³val egyszerÅ±bb .223-as lÃ¶vedÃ©kek kilÃ¶vÃ©sÃ©re mÃ³dosÃ­tottÃ¡k. Min ER: 5.}
 {14400}{}{Szuper Stimpakk}
 {14401}{}{An advanced healing chem. Very powerful. Superstims will cause a small amount of damage after a period of time due to the powerful nature of the chemicals used.}
-{14500}{}{Könyvespolc}
-{14501}{}{Fából készült könyvespolc.}
-{14600}{}{Könyvespolc}
-{14601}{}{Fából készült könyvespolc.}
-{14700}{}{Könyvespolc}
-{14701}{}{Fából készült könyvespolc.}
-{14800}{}{Könyvespolc}
-{14801}{}{Fából készült könyvespolc.}
-{14900}{}{Könyvespolc}
-{14901}{}{Fából készült könyvespolc.}
-{15000}{}{Könyvespolc}
-{15001}{}{Fából készült könyvespolc.}
+{14500}{}{KÃ¶nyvespolc}
+{14501}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{14600}{}{KÃ¶nyvespolc}
+{14601}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{14700}{}{KÃ¶nyvespolc}
+{14701}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{14800}{}{KÃ¶nyvespolc}
+{14801}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{14900}{}{KÃ¶nyvespolc}
+{14901}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
+{15000}{}{KÃ¶nyvespolc}
+{15001}{}{FÃ¡bÃ³l kÃ©szÃ¼lt kÃ¶nyvespolc.}
 {15100}{}{Polc}
-{15101}{}{Fából készült polcrendszer.}
+{15101}{}{FÃ¡bÃ³l kÃ©szÃ¼lt polcrendszer.}
 {15200}{}{Polc}
-{15201}{}{Fából készült polcrendszer.}
+{15201}{}{FÃ¡bÃ³l kÃ©szÃ¼lt polcrendszer.}
 {15300}{}{Polc}
-{15301}{}{Fából készült polcrendszer.}
+{15301}{}{FÃ¡bÃ³l kÃ©szÃ¼lt polcrendszer.}
 {15400}{}{Polc}
-{15401}{}{Fából készült polcrendszer.}
+{15401}{}{FÃ¡bÃ³l kÃ©szÃ¼lt polcrendszer.}
 {15500}{}{Polc}
-{15501}{}{Fából készült polcrendszer.}
+{15501}{}{FÃ¡bÃ³l kÃ©szÃ¼lt polcrendszer.}
 {15600}{}{Polc}
-{15601}{}{Fából készült polcrendszer.}
+{15601}{}{FÃ¡bÃ³l kÃ©szÃ¼lt polcrendszer.}
 {15700}{}{Munkasztal}
-{15701}{}{Munkaasztal. Bizony-bizony, a jó öreg szabványos munkaasztal. Jól mutat a helyén.}
-{15800}{}{Szerszámos tábla}
-{15801}{}{Ezen a munkaasztal feletti táblán különbözõ szerszámok találhatóak.}
-{15900}{}{Molotov-koktél}
-{15901}{}{Házi készítésû gyújtógránát. Min ER: 3.}
-{16000}{}{Elektromos ösztöke}
-{16001}{}{"A farmer legjobb barátja." Wattz Electronics gyártmány. Kis energiacellák mûködtetik. Min ER: 4.}
+{15701}{}{Munkaasztal. Bizony-bizony, a jÃ³ Ã¶reg szabvÃ¡nyos munkaasztal. JÃ³l mutat a helyÃ©n.}
+{15800}{}{SzerszÃ¡mos tÃ¡bla}
+{15801}{}{Ezen a munkaasztal feletti tÃ¡blÃ¡n kÃ¼lÃ¶nbÃ¶zÅ‘ szerszÃ¡mok talÃ¡lhatÃ³ak.}
+{15900}{}{Molotov koktÃ©l}
+{15901}{}{HÃ¡zi kÃ©szÃ­tÃ©sÅ± gyÃºjtÃ³grÃ¡nÃ¡t. Min ER: 3.}
+{16000}{}{Elektromos Ã¶sztÃ¶ke}
+{16001}{}{"A farmer legjobb barÃ¡tja." Wattz Electronics gyÃ¡rtmÃ¡ny. Kis energiacellÃ¡k mÅ±kÃ¶dtetik. Min ER: 4.}
 {16100}{}{Red Ryder BB puska}
-{16101}{}{A Red Ryder BB légpuska. Klasszikus. Min ER: 3.}
+{16101}{}{A Red Ryder BB lÃ©gpuska. Klasszikus. Min ER: 3.}
 {16200}{}{Red Ryder LE BB puska}
-{16201}{}{A Red Ryder BB korlátozott számú változata. Az igazi klasszikus. Min ER: 3.}
-{16300}{}{BB csapágygolyók}
-{16301}{}{Egy csomag csapágygolyó BB puskákba még a háború elõttrõl. Remek állapotban vannak. Rozsdamentes acélból készültek.}
-{16400}{}{A Testvériség hololemeze}
-{16401}{}{Hololemez az Acél Testvériségétõl.}
-{16500}{}{Iguana árusító hely}
-{16501}{}{Bob Iguana Falatkáinak otthona. Hogyan lehet nem szeretni a frissen sült, ropogós iguanát?}
+{16201}{}{A Red Ryder BB korlÃ¡tozott szÃ¡mÃº vÃ¡ltozata. Az igazi klasszikus. Min ER: 3.}
+{16300}{}{BB csapÃ¡gygolyÃ³k}
+{16301}{}{Egy csomag csapÃ¡gygolyÃ³ BB puskÃ¡kba mÃ©g a hÃ¡borÃº elÅ‘ttrÅ‘l. Remek Ã¡llapotban vannak. Rozsdamentes acÃ©lbÃ³l kÃ©szÃ¼ltek.}
+{16400}{}{A TestvÃ©risÃ©g hololemeze}
+{16401}{}{Hololemez az AcÃ©l TestvÃ©risÃ©gÃ©tÅ‘l.}
+{16500}{}{Iguana Ã¡rusÃ­tÃ³ hely}
+{16501}{}{Bob Iguana FalatkÃ¡inak otthona. Hogyan lehet nem szeretni a frissen sÃ¼lt, ropogÃ³s iguanÃ¡t?}
 {16600}{}{Asztal}
-{16601}{}{Egy szabványos asztal. Dolgok tárolására alkalmas.}
+{16601}{}{Egy szabvÃ¡nyos asztal. Dolgok tÃ¡rolÃ¡sÃ¡ra alkalmas.}
 {16700}{}{Asztal}
-{16701}{}{Egy szabványos asztal. Dolgok tárolására alkalmas.}
+{16701}{}{Egy szabvÃ¡nyos asztal. Dolgok tÃ¡rolÃ¡sÃ¡ra alkalmas.}
 {16800}{}{Cucc}
-{16801}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{16801}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {16900}{}{Cucc}
-{16901}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{16901}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17000}{}{Cucc}
-{17001}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17001}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17100}{}{Cucc}
-{17101}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17101}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17200}{}{Cucc}
-{17201}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17201}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17300}{}{Cucc}
-{17301}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17301}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17400}{}{Cucc}
-{17401}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17401}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17500}{}{Cucc}
-{17501}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17501}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17600}{}{Cucc}
-{17601}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17601}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17700}{}{Cucc}
-{17701}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17701}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17800}{}{Cucc}
-{17801}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
+{17801}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
 {17900}{}{Cucc}
-{17901}{}{Különbözõ tárgyak, azaz ismertebb nevükön "cuccok".}
-{18000}{}{Láda}
-{18001}{}{Különbözõ dolgokkal telerámolt fadoboz.}
+{17901}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ tÃ¡rgyak, azaz ismertebb nevÃ¼kÃ¶n "cuccok".}
+{18000}{}{Doboz}
+{18001}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ dolgokkal telerÃ¡molt fadoboz.}
 {18100}{}{Asztal}
-{18101}{}{Egy közönséges asztal. Ha láttál egyet, láttad mindet.}
+{18101}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal. Ha lÃ¡ttÃ¡l egyet, lÃ¡ttad mindet.}
 {18200}{}{Asztal}
-{18201}{}{Egy közönséges asztal.}
+{18201}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal.}
 {18300}{}{Asztal}
-{18301}{}{Egy közönséges asztal.}
+{18301}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal.}
 {18400}{}{Asztal}
-{18401}{}{Egy közönséges asztal.}
+{18401}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal.}
 {18500}{}{Asztal}
-{18501}{}{Egy közönséges asztal.}
+{18501}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal.}
 {18600}{}{Asztal}
-{18601}{}{Egy közönséges asztal.}
+{18601}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal.}
 {18700}{}{Asztal}
-{18701}{}{Egy közönséges asztal.}
-{18800}{}{Szekrény}
-{18801}{}{Öltözõszekrény.}
-{18900}{}{Szekrény}
-{18901}{}{Öltözõszekrény.}
+{18701}{}{Egy kÃ¶zÃ¶nsÃ©ges asztal.}
+{18800}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{18801}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny.}
+{18900}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny}
+{18901}{}{Ã–ltÃ¶zÅ‘szekrÃ©ny.}
 {19000}{}{FEV Hololemez}
 {19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
-{19100}{}{Biztonsági lemez}
+{19100}{}{BiztonsÃ¡gi lemez}
 {19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
-{19200}{}{Alfa kísérleti lemez}
-{19201}{}{Egy hololemez. Ez áll a címkéjén: "Alfa kísérleti napló"}
-{19300}{}{Delta kísérleti lemez}
-{19301}{}{Egy hololemez. Ez áll a címkéjén: "Delta kísérleti napló"}
-{19400}{}{Vree kísérleteinek lemeze}
+{19200}{}{Alfa kÃ­sÃ©rleti lemez}
+{19201}{}{Egy hololemez. Ez Ã¡ll a cÃ­mkÃ©jÃ©n: "Alfa kÃ­sÃ©rleti naplÃ³"}
+{19300}{}{Delta kÃ­sÃ©rleti lemez}
+{19301}{}{Egy hololemez. Ez Ã¡ll a cÃ­mkÃ©jÃ©n: "Delta kÃ­sÃ©rleti naplÃ³"}
+{19400}{}{Vree kÃ­sÃ©rleteinek lemeze}
 {19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
-{19500}{}{Testvériségi szabályzat}
+{19500}{}{TestvÃ©risÃ©gi szabÃ¡lyzat}
 {19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
-{19600}{}{Mutáns rádiókommunikációk}
+{19600}{}{MutÃ¡ns rÃ¡diÃ³kommunikÃ¡ciÃ³k}
 {19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
 {19700}{}{Doboz}
 {19800}{}{Doboz}
@@ -398,633 +398,633 @@
 {20200}{}{Doboz}
 {20300}{}{Doboz}
 {20400}{}{Doboz}
-{20500}{}{Jelzõfény}
-{20501}{}{Jelzõfény, mely egy rövid ideig fényt bocsát ki. A papír kicsit elnyûtt, de amúgy jó állapotban van. Éppen ég.}
+{20500}{}{FÃ¡klya}
+{20501}{}{JelzÅ‘fÃ©ny, mely egy rÃ¶vid ideig fÃ©nyt bocsÃ¡t ki. A papÃ­r kicsit elnyÅ±tt, de amÃºgy jÃ³ Ã¡llapotban van. Ã‰ppen Ã©g.}
 {20600}{}{Dinamit}
 {20601}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer, which is ticking.}
-{20700}{}{Geiger-számláló}
-{20701}{}{Wattz Electronics gyártmányú "C-Radz" Geiger-Müller számláló. Jelzi a radioaktivitást, és annak erõsségét. Be van kapcsolva.}
-{20800}{}{Mozgásérzékelõ}
-{20801}{}{Wattz Electronics gyártmányú C-U típusú mozgásérzékelõ. Radarjával érzékeli a szerves létformák mozgását egy bizonyos hatótávolságig. Be van kapcsolva.}
+{20700}{}{Geiger-szÃ¡mlÃ¡lÃ³}
+{20701}{}{Wattz Electronics gyÃ¡rtmÃ¡nyÃº "C-Radz" Geiger-MÃ¼ller szÃ¡mlÃ¡lÃ³. Jelzi a radioaktivitÃ¡st, Ã©s annak erÅ‘ssÃ©gÃ©t. Be van kapcsolva.}
+{20800}{}{MozgÃ¡sÃ©rzÃ©kelÅ‘}
+{20801}{}{Wattz Electronics gyÃ¡rtmÃ¡nyÃº C-U tÃ­pusÃº mozgÃ¡sÃ©rzÃ©kelÅ‘. RadarjÃ¡val Ã©rzÃ©keli a szerves lÃ©tformÃ¡k mozgÃ¡sÃ¡t egy bizonyos hatÃ³tÃ¡volsÃ¡gig. Be van kapcsolva.}
 {20900}{}{Plasztikbomba}
-{20901}{}{Egy nagy darab, Cordex márkájú, katonai, plasztik robbanószer. Nagyon stabil és óriási pusztítóerõvel bír. Idõzítõ is van rajta, ami most épp ketyeg.}
+{20901}{}{Egy nagy darab, Cordex mÃ¡rkÃ¡jÃº, katonai, plasztik robbanÃ³szer. Nagyon stabil Ã©s Ã³riÃ¡si pusztÃ­tÃ³erÅ‘vel bÃ­r. IdÅ‘zÃ­tÅ‘ is van rajta, ami most Ã©pp ketyeg.}
 {21000}{}{Stealth Boy}
-{21001}{}{RobCo Stealth Boy 3001 személyi álcázó készülék. Egy mezõt hoz létre, amely a visszavert fényt a tárgy másik oldalára irányítja.}
+{21001}{}{"RobCo Stealth Boy 3001" szemÃ©lyi Ã¡lcÃ¡zÃ³ kÃ©szÃ¼lÃ©k. Olyan mezÅ‘t hoz lÃ©tre, amely a visszavert fÃ©nyt a tÃ¡rgy mÃ¡sik oldalÃ¡ra irÃ¡nyÃ­tja.}
 {21100}{}{Csontok}
-{21101}{}{Õ Ed. Ed halott.}
+{21101}{}{Å Ed. Ed halott.}
 {21200}{}{Tandi}
-{21201}{}{Épp Tandi kiszabadításáért próbálsz valamit ajánlani.}
-{21300}{}{Gizmo maradványai}
-{21301}{}{Ez itt a halott Gizmo, Szemétváros bûnbandájának fõnöke. Eléggé büdös.}
+{21201}{}{Ã‰pp Tandi kiszabadÃ­tÃ¡sÃ¡Ã©rt prÃ³bÃ¡lsz valamit ajÃ¡nlani.}
+{21300}{}{Gizmo maradvÃ¡nyai}
+{21301}{}{Ez itt a halott Gizmo, SzemÃ©tvÃ¡ros bÅ±nbandÃ¡jÃ¡nak fÅ‘nÃ¶ke. ElÃ©ggÃ© bÃ¼dÃ¶s.}
 {21400}{}{Asztal}
-{21401}{}{Némi vizsgálódás után arra a következtetésre jutsz, hogy "ez bizony tényleg egy asztal".}
-{21500}{}{A Testvériség Története}
+{21401}{}{NÃ©mi vizsgÃ¡lÃ³dÃ¡s utÃ¡n arra a kÃ¶vetkeztetÃ©sre jutsz, hogy "ez bizony tÃ©nyleg egy asztal".}
+{21500}{}{A TestvÃ©risÃ©g TÃ¶rtÃ©nete}
 {21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
-{21600}{}{Maxson története}
-{21700}{}{Maxson folyóirata}
+{21600}{}{Maxson tÃ¶rtÃ©nete}
+{21700}{}{Maxson folyÃ³irata}
 {21800}{}{Light Healing}
 {21801}{}{Barter for this option if you want light healing.}
 {21900}{}{Medium Healing}
 {21901}{}{Barter for this option if you want medium healing.}
 {22000}{}{Heavy Healing}
 {22001}{}{Barter for this option if you want lots of care and heavy healing.}
-{22100}{}{Beléptetõ kártya}
-{22101}{}{Kulcskártya, melynek egyszerû elektronikája tartalmazza a beléptetõ kódot.}
-{22200}{}{Kapcsoló}
-{22201}{}{Elektromos váltóberendezés, hatalmas karral. Úgy tûnik, hogy nem rég készült és nagyon nagy kezekre tervezték.}
-{22300}{}{Sárga kódkártya}
-{22301}{}{Elektronikus beléptetõkártya, sárga színkóddal.}
+{22100}{}{BelÃ©ptetÅ‘ kÃ¡rtya}
+{22101}{}{KulcskÃ¡rtya, melynek egyszerÅ± elektronikÃ¡ja tartalmazza a belÃ©ptetÅ‘ kÃ³dot.}
+{22200}{}{KapcsolÃ³}
+{22201}{}{Elektromos vÃ¡ltÃ³berendezÃ©s, hatalmas karral. Ãšgy tÅ±nik, hogy nem rÃ©g kÃ©szÃ¼lt Ã©s nagyon nagy kezekre terveztÃ©k.}
+{22300}{}{SÃ¡rga kÃ³dkÃ¡rtya}
+{22301}{}{Elektronikus biztonsÃ¡gi kÃ¡rtya sÃ¡rga szÃ­nkÃ³ddal.}
 {22400}{}{Szobrocska}
-{22401}{}{A PipBoy figurájára hasonlít, de ebben nem vagy biztos.}
+{22401}{}{A PipBoy figurÃ¡jÃ¡ra hasonlÃ­t, de ebben nem vagy biztos.}
 {22500}{}{Cat's Paw magazin}
-{22501}{}{A Cat's Paw magazin egyik száma.}
-{22600}{}{Egy doboz tészta}
+{22501}{}{A Cat's Paw magazin egyik szÃ¡ma.}
+{22600}{}{Egy doboz tÃ©szta}
 {22601}{}{Fogalmad sincs, mit jelent az, hogy "Instant Spagetti".}
-{22700}{}{Valamiféle poros doboz}
-{22701}{}{Nem tudod, mi ez, de biztos, hogy nem ehetõ. Lehet hogy valaha az volt, de ebben sem vagy biztos.}
-{22800}{}{Használati utasítás}
-{22801}{}{A T-51b erõpáncél javítási útmutatója.}
+{22700}{}{ValamifÃ©le poros doboz}
+{22701}{}{Nem tudod, mi ez, de biztos, hogy nem ehetÅ‘. Lehet hogy valaha az volt, de ebben sem vagy biztos.}
+{22800}{}{HasznÃ¡lati utasÃ­tÃ¡s}
+{22801}{}{A T-51b erÅ‘pÃ¡ncÃ©l javÃ­tÃ¡si ÃºtmutatÃ³ja.}
 {22900}{}{Kicsiny szerkezet}
 {22901}{}{Some mechanical component for a machine. If a machine is missing one of these, then it's a safe bet it isn't working properly.}
-{23000}{}{Menedék napló}
-{23001}{}{A számítógépes rendszer naplója a menedék fontosabb eseményeirõl. Lehet, hogy sérült.}
-{23100}{}{A katonai bázis biztonsági kódja}
+{23000}{}{MenedÃ©k naplÃ³}
+{23001}{}{A szÃ¡mÃ­tÃ³gÃ©pes rendszer naplÃ³ja a menedÃ©k fontosabb esemÃ©nyeirÅ‘l. Lehet, hogy sÃ©rÃ¼lt.}
+{23100}{}{A katonai bÃ¡zis biztonsÃ¡gi kÃ³dja}
 {23101}{}{}
-{23200}{}{Megerõsített erõpáncél}
-{23201}{}{T-51b erõpáncél. A keményítõ edzés megnövelte e csúcstechnológiájú páncélzat védelmi képességeit.}
-{23300}{}{Turbó plazmapuska}
-{23301}{}{Módosított Winchester P94 plazmapuska. A gerjesztõkamrát átdrótozták, így gyorsabban tud a plazma kialakulni benne. Min ER: 6.}
-{23400}{}{Szöges bokszer}
-{23401}{}{A bokszer továbbfejlesztett változata. A szöges bokszer nagyobb sérülést okoz, mivel verekedés közben beletép az ellenfél húsába. Min ER: 1.}
-{23500}{}{Erõkesztyû}
-{23501}{}{Egy "Nagy Zúzó" becenevû erõkesztyû a BeatCo. mûvektõl. Az egyik legjobb fegyvernek tartják az ökölharcban. Senki nem szeret szembetalálkozni vele. Kis energiacellák mûködtetik. Min ER: 1.}
-{23600}{}{Harci kés}
-{23601}{}{Kiváló minõségû kés a SharpWit, Inc. jóvoltából. A penge éle garantáltan nem kopik, még egy évtizednyi használat után sem. Min ER: 2.}
-{23700}{}{Vegyészeti folyóiratok}
-{23701}{}{Némi szakirodalom a vegyészet területérõl. A molekuláris kémiával foglalkozó írások elég érdekesek.}
-{23800}{}{Rendfenntartók rádióüzenete}
-{23801}{}{Hololemez, mely egy felvett rádióbeszélgetést tartalmaz.}
-{23900}{}{Testvériségi páncél}
-{23901}{}{A harci páncél továbbfejlesztett változata. Az Acél Testvérisége rengeteg újítást eszközölt az alapváltozaton.}
-{24000}{}{Tesla-páncél}
-{24001}{}{Ez a csillogó páncél az energia alapú támadások ellen nyújt védelmet. A három beépített Tesla-tekercs elnyeli az energia jelentõs részét.}
+{23200}{}{MegerÅ‘sÃ­tett erÅ‘pÃ¡ncÃ©l}
+{23201}{}{T-51b erÅ‘pÃ¡ncÃ©l. A kemÃ©nyÃ­tÅ‘ edzÃ©s megnÃ¶velte e csÃºcstechnolÃ³giÃ¡jÃº pÃ¡ncÃ©lzat vÃ©delmi kÃ©pessÃ©geit.}
+{23300}{}{TurbÃ³ plazmapuska}
+{23301}{}{MÃ³dosÃ­tott Winchester P94 plazmapuska. A gerjesztÅ‘kamrÃ¡t Ã¡tdrÃ³toztÃ¡k, Ã­gy gyorsabban tud a plazma kialakulni benne. Min ER: 6.}
+{23400}{}{SzÃ¶ges bokszer}
+{23401}{}{A bokszer tovÃ¡bbfejlesztett vÃ¡ltozata. A szÃ¶ges bokszer nagyobb sÃ©rÃ¼lÃ©st okoz, mivel verekedÃ©s kÃ¶zben beletÃ©p az ellenfÃ©l hÃºsÃ¡ba. Min ER: 1.}
+{23500}{}{ErÅ‘kesztyÅ±}
+{23501}{}{Egy "Nagy ZÃºzÃ³" becenevÅ± erÅ‘kesztyÅ± a BeatCo. mÅ±vektÅ‘l. Az egyik legjobb fegyvernek tartjÃ¡k az Ã¶kÃ¶lharcban. Senki nem szeret szembetalÃ¡lkozni vele. Kis energiacellÃ¡k mÅ±kÃ¶dtetik. Min ER: 1.}
+{23600}{}{Harci kÃ©s}
+{23601}{}{KivÃ¡lÃ³ minÅ‘sÃ©gÅ± kÃ©s a SharpWit, Inc. jÃ³voltÃ¡bÃ³l. A penge Ã©le garantÃ¡ltan nem kopik, mÃ©g egy Ã©vtizednyi hasznÃ¡lat utÃ¡n sem. Min ER: 2.}
+{23700}{}{VegyÃ©szeti folyÃ³iratok}
+{23701}{}{NÃ©mi szakirodalom a vegyÃ©szet terÃ¼letÃ©rÅ‘l. A molekulÃ¡ris kÃ©miÃ¡val foglalkozÃ³ Ã­rÃ¡sok elÃ©g Ã©rdekesek.}
+{23800}{}{RendfenntartÃ³k rÃ¡diÃ³Ã¼zenete}
+{23801}{}{Hololemez, mely egy felvett rÃ¡diÃ³beszÃ©lgetÃ©st tartalmaz.}
+{23900}{}{TestvÃ©risÃ©gi pÃ¡ncÃ©l}
+{23901}{}{A harci pÃ¡ncÃ©l tovÃ¡bbfejlesztett vÃ¡ltozata. Az AcÃ©l TestvÃ©risÃ©ge rengeteg ÃºjÃ­tÃ¡st eszkÃ¶zÃ¶lt az alapvÃ¡ltozaton.}
+{24000}{}{Tesla-pÃ¡ncÃ©l}
+{24001}{}{Ez a csillogÃ³ pÃ¡ncÃ©l az energia alapÃº tÃ¡madÃ¡sok ellen nyÃºjt vÃ©delmet. A hÃ¡rom beÃ©pÃ­tett Tesla-tekercs elnyeli az energia jelentÅ‘s rÃ©szÃ©t.}
 {24100}{}{223 Pisztoly}
-{24101}{}{Egy ,223-as puska levágott csövû, pisztollyá módosított változata. Egyedülálló darab, melyet nagy precizitással és hozzáértéssel készítettek. Min ER: 5.}
-{24200}{}{Harci Sörétes}
-{24201}{}{Egy Winchester City-Killer harci sörétes hátsótáras változata. Remek állapotban van, és a "Sivatagi hadviselés" védõfelszereléssel van ellátva, mely különösen megbízhatóvá teszi. Min ER: 5.}
-{24300}{}{Fazék}
-{24301}{}{Egy nagyon szépen formázott agyagedény.}
-{24400}{}{Fazék}
-{24401}{}{Egy nagyon szépen formázott agyagedény.}
-{24500}{}{Láda}
-{24501}{}{Fából készült láda.}
+{24101}{}{Egy ,223-as puska levÃ¡gott csÃ¶vÅ±, pisztollyÃ¡ mÃ³dosÃ­tott vÃ¡ltozata. EgyedÃ¼lÃ¡llÃ³ darab, melyet nagy precizitÃ¡ssal Ã©s hozzÃ¡Ã©rtÃ©ssel kÃ©szÃ­tettek. Min ER: 5.}
+{24200}{}{Harci SÃ¶rÃ©tes}
+{24201}{}{Egy Winchester City-Killer harci sÃ¶rÃ©tes hÃ¡tsÃ³tÃ¡ras vÃ¡ltozata. Remek Ã¡llapotban van, Ã©s a "Sivatagi hadviselÃ©s" vÃ©dÅ‘felszerelÃ©ssel van ellÃ¡tva, mely kÃ¼lÃ¶nÃ¶sen megbÃ­zhatÃ³vÃ¡ teszi. Min ER: 5.}
+{24300}{}{CserÃ©pedÃ©ny}
+{24301}{}{Gondosan megmunkÃ¡lt cserÃ©pedÃ©ny.}
+{24400}{}{CserÃ©pedÃ©ny}
+{24401}{}{Gondosan megmunkÃ¡lt cserÃ©pedÃ©ny.}
+{24500}{}{LÃ¡da}
+{24501}{}{FÃ¡bÃ³l kÃ©szÃ¼lt lÃ¡da.}
 {24600}{}{Polc}
-{24601}{}{Egy polc, rajta különféle tárgyakkal.}
+{24601}{}{Egy polc, rajta kÃ¼lÃ¶nfÃ©le tÃ¡rgyakkal.}
 {24700}{}{Polc}
-{24701}{}{Egy polc, rajta különféle tárgyakkal.}
-{24800}{}{Fazék}
-{24801}{}{Egy nagyon szépen formázott agyagedény.}
-{24900}{}{Fazék}
-{24901}{}{Egy nagyon szépen formázott agyagedény.}
+{24701}{}{Egy polc, rajta kÃ¼lÃ¶nfÃ©le tÃ¡rgyakkal.}
+{24800}{}{CserÃ©pedÃ©ny}
+{24801}{}{Gondosan megmunkÃ¡lt cserÃ©pedÃ©ny.}
+{24900}{}{CserÃ©pedÃ©ny}
+{24901}{}{Gondosan megmunkÃ¡lt cserÃ©pedÃ©ny.}
 {25000}{}{Csontok}
 {25001}{}{Egy halom emberi csont.}
 {25100}{}{Anna csontjai}
-{25101}{}{Ezek a maradványok még temetetlenek.}
-{25200}{}{Anna aranymedálja}
-{25201}{}{Az aranymedált kinyitva egy bájos kép válik láthatóvá.}
-{25300}{}{Üzemanyagelosztó}
-{25301}{}{Ez a szerkezet vezérli az energia áramlását az autó elektromos motorjában. Az óvatlan vezetõk gyakran kiégetik ezt a chipet gyakori és hirtelen gyorsításokkal. Meglehetõsen értékes alkatrész... ha van egy kocsid, amibe belerakhatod.}
-{25400}{}{Üzemanyag szabályzó}
+{25101}{}{Ezek a maradvÃ¡nyok mÃ©g temetetlenek.}
+{25200}{}{Anna aranymedÃ¡lja}
+{25201}{}{Az aranymedÃ¡lt kinyitva egy bÃ¡jos kÃ©p vÃ¡lik lÃ¡thatÃ³vÃ¡.}
+{25300}{}{ÃœzemanyagelosztÃ³}
+{25301}{}{Ez a szerkezet vezÃ©rli az energia Ã¡ramlÃ¡sÃ¡t az autÃ³ elektromos motorjÃ¡ban. Az Ã³vatlan vezetÅ‘k gyakran kiÃ©getik ezt a chipet gyakori Ã©s hirtelen gyorsÃ­tÃ¡sokkal. MeglehetÅ‘sen Ã©rtÃ©kes alkatrÃ©sz... ha van egy kocsid, amibe belerakhatod.}
+{25400}{}{Ãœzemanyag szabÃ¡lyzÃ³}
 {25401}{}{Some car-owners installed this regulator, which doubles your car's mileage between charges, but most drivers didn't care how much juice their cars consumed, after all, power's cheap and plentiful so why worry?}
-{25500}{}{Napi Belépõ}
-{25501}{}{Ezzel az enyhén gyûrött papírdarabbal napközben bárhova mehetsz Menedékváros területén, kivéve magát a Menedéket.}
-{25600}{}{Hamis polgársági papírok}
-{25601}{}{Hamis ugyan, de elég hitelesnek tûnik. Ennek ellenére kétséges, hogy egy alapos ellenõrzésen ne derülne ki a turpisság.}
-{25700}{}{Cornelius aranyórája}
-{25701}{}{Õsrégi idõmérõ eszköz. Az idõ már eljárt fölötte, sok-sok éve már.}
-{25800}{}{Hidroelektromos alkatrész}
-{25801}{}{Ez egy hidroelektromos magnetoszféra szabályzó.}
+{25500}{}{Napi BelÃ©pÅ‘}
+{25501}{}{Ezzel az enyhÃ©n gyÅ±rÃ¶tt papÃ­rdarabbal napkÃ¶zben bÃ¡rhova mehetsz MenedÃ©kvÃ¡ros terÃ¼letÃ©n, kivÃ©ve magÃ¡t a MenedÃ©ket.}
+{25600}{}{Hamis polgÃ¡rsÃ¡gi papÃ­rok}
+{25601}{}{Hamis ugyan, de elÃ©g hitelesnek tÅ±nik. Ennek ellenÃ©re kÃ©tsÃ©ges, hogy egy alapos ellenÅ‘rzÃ©sen ne derÃ¼lne ki a turpissÃ¡g.}
+{25700}{}{Cornelius aranyÃ³rÃ¡ja}
+{25701}{}{ÅsrÃ©gi idÅ‘mÃ©rÅ‘ eszkÃ¶z. Az idÅ‘ mÃ¡r eljÃ¡rt fÃ¶lÃ¶tte, sok-sok Ã©ve mÃ¡r.}
+{25800}{}{Hidroelektromos alkatrÃ©sz}
+{25801}{}{Ez egy hidroelektromos magnetoszfÃ©ra szabÃ¡lyzÃ³.}
 {25900}{}{Jet}
 {25901}{}{Jet is a powerful methamphetamine that stimulates the central nervous system. The initial euphoric rush rarely lasts more than a few minutes, but during that time, the user is filled with a rush of energy & strength.}
 {26000}{}{Jet-ellenszer}
 {26001}{}{This antidote cures the Jet addiction.}
-{26100}{}{Jonny BB puskája}
-{26101}{}{Egy Red Ryder BB puska, melynek markolatába a "Jonny" nevet karcolták. Min ER: 3.}
+{26100}{}{Jonny BB puskÃ¡ja}
+{26101}{}{Egy Red Ryder BB puska, melynek markolatÃ¡ba a "Jonny" nevet karcoltÃ¡k. Min ER: 3.}
 {26200}{}{Gumicsizma}
-{26201}{}{Egy pár öreg munkáscsizma. Elég tartósnak tûnik. Valószínûleg nem engedi át a nedvességet, legalábbis egy ideig.}
-{26300}{}{Az Aljanép üzenete}
-{26301}{}{Az Aljanép vezérének üzenete Modoc lakói számára.}
-{26400}{}{Smith frankó cucca}
+{26201}{}{Egy pÃ¡r Ã¶reg munkÃ¡scsizma. ElÃ©g tartÃ³snak tÅ±nik. ValÃ³szÃ­nÅ±leg nem engedi Ã¡t a nedvessÃ©get, legalÃ¡bbis egy ideig.}
+{26300}{}{Az AljanÃ©p Ã¼zenete}
+{26301}{}{Az AljanÃ©p vezÃ©rÃ©nek Ã¼zenete Modoc lakÃ³i szÃ¡mÃ¡ra.}
+{26400}{}{Smith frankÃ³ cucca}
 {26401}{}{LONG DESCRIPTION HERE.}
-{26500}{}{Harci bõrdzseki}
-{26501}{}{Ez a jól bélelt bõrdzseki szokatlan, mivel két ujja van. Bárhol végigfeszítesz benne, biztos rácsodálkoznak, milyen divatos vagy.}
-{26600}{}{Vic rádiója}
-{26601}{}{Ez a rádió nem mûködik, de úgy tûnik, azért jó állapotban van. Néhány alkatrésze valószínûleg még felhasználható más rádiók javításához.}
+{26500}{}{Harci bÅ‘rdzseki}
+{26501}{}{Ez a jÃ³l bÃ©lelt bÅ‘rdzseki szokatlan, mivel kÃ©t ujja van. BÃ¡rhol vÃ©gigfeszÃ­tesz benne, biztos rÃ¡csodÃ¡lkoznak, milyen divatos vagy.}
+{26600}{}{Vic rÃ¡diÃ³ja}
+{26601}{}{Ez a rÃ¡diÃ³ nem mÅ±kÃ¶dik, de Ãºgy tÅ±nik, azÃ©rt jÃ³ Ã¡llapotban van. NÃ©hÃ¡ny alkatrÃ©sze valÃ³szÃ­nÅ±leg mÃ©g felhasznÃ¡lhatÃ³ mÃ¡s rÃ¡diÃ³k javÃ­tÃ¡sÃ¡hoz.}
 {26700}{}{Vic vizeskulacsa}
-{26701}{}{A Menedékbõl származó szent ereklye, melyben biztosan valami szentséges dolgot tároltak. A szent 13-as szám olvasható eme csodás tárgy oldalán, mely összekapcsolja néped múltját és reményteljes jövõjét.}
+{26701}{}{A MenedÃ©kbÅ‘l szÃ¡rmazÃ³ szent ereklye, melyben biztosan valami szentsÃ©ges dolgot tÃ¡roltak. A szent 13-as szÃ¡m olvashatÃ³ eme csodÃ¡s tÃ¡rgy oldalÃ¡n, mely Ã¶sszekapcsolja nÃ©ped mÃºltjÃ¡t Ã©s remÃ©nyteljes jÃ¶vÅ‘jÃ©t.}
 {26800}{}{H&K CAWS}
-{26801}{}{A "CAWS" a "Close Assault Weapons System" rövidítése (Közelharci Fegyverrendszer). Ez egy rövid lõtávra kiválóan alkalmazható sörétes puska. Hátsótáras szerkezete egyszerû használatot biztosít, elég csõhosszt hagyva a lövedék megvezetéséhez. Min ER: 6.}
-{26900}{}{Robotalkatrészek}
-{26901}{}{Néhány sérült robotalkatrész.}
-{27000}{}{Robo Rakétavetõ}
-{27001}{}{Csak a rakétákkal felszerelt robotok használják.}
-{27100}{}{Broc virág}
-{27101}{}{Ez a természetben gyakori virág képezi gyógyító por alapanyagát.}
-{27200}{}{Xander gyökér}
-{27201}{}{Ez a ritka gyökér adja a gyógyító por gyógyító tulajdonságát.}
-{27300}{}{Gyógyító por}
-{27301}{}{Nagyon erõs gyógyítómágia - csak sajnos álmosságot hoz a szemedre.}
-{27400}{}{Robo Rakéta lõszer}
-{27401}{}{Csak a rakétákkal felszerelt robotok használják.}
-{27500}{}{Az Elismerés trófeája}
-{27501}{}{Egy kis tömör arany trófea, melyen ez áll: "Dave-nek DC's-tõl, amiért olyan különleges ember vagy."}
-{27600}{}{Gekkó bõr}
-{27601}{}{Egy gekkó lenyúzott, megszárított és bepácolt bõre.}
-{27700}{}{Aranygekkó bõr}
-{27701}{}{Egy aranygekkó lenyúzott, megszárított és bepácolt bõre.}
-{27800}{}{Kovakõ}
-{27801}{}{Egy fegyverek élesítésére használatos kõdarab.}
-{27900}{}{Idegi csatolóegység}
+{26801}{}{A "CAWS" a "Close Assault Weapons System" rÃ¶vidÃ­tÃ©se (KÃ¶zelharci Fegyverrendszer). Ez egy rÃ¶vid lÅ‘tÃ¡vra kivÃ¡lÃ³an alkalmazhatÃ³ sÃ¶rÃ©tes puska. HÃ¡tsÃ³tÃ¡ras szerkezete egyszerÅ± hasznÃ¡latot biztosÃ­t, elÃ©g csÅ‘hosszt hagyva a lÃ¶vedÃ©k megvezetÃ©sÃ©hez. Min ER: 6.}
+{26900}{}{RobotalkatrÃ©szek}
+{26901}{}{NÃ©hÃ¡ny sÃ©rÃ¼lt robotalkatrÃ©sz.}
+{27000}{}{Robo RakÃ©tavetÅ‘}
+{27001}{}{A rakÃ©tÃ¡kkal felszerelt robotok hasznÃ¡ljÃ¡k.}
+{27100}{}{Broc virÃ¡g}
+{27101}{}{Ez a termÃ©szetben gyakori virÃ¡g kÃ©pezi gyÃ³gyÃ­tÃ³ por alapanyagÃ¡t.}
+{27200}{}{Xander gyÃ¶kÃ©r}
+{27201}{}{Ez a ritka gyÃ¶kÃ©r adja a gyÃ³gyÃ­tÃ³ por gyÃ³gyÃ­tÃ³ tulajdonsÃ¡gÃ¡t.}
+{27300}{}{GyÃ³gyÃ­tÃ³ por}
+{27301}{}{Nagyon erÅ‘s gyÃ³gyÃ­tÃ³mÃ¡gia - csak sajnos Ã¡lmossÃ¡got hoz a szemedre.}
+{27400}{}{Robo RakÃ©ta lÅ‘szer}
+{27401}{}{A rakÃ©tÃ¡kkal felszerelt robotok hasznÃ¡ljÃ¡k.}
+{27500}{}{Az ElismerÃ©s trÃ³feÃ¡ja}
+{27501}{}{Egy kis tÃ¶mÃ¶r arany trÃ³fea, melyen ez Ã¡ll: "Dave-nek DC's-tÅ‘l, amiÃ©rt olyan kÃ¼lÃ¶nleges ember vagy."}
+{27600}{}{GekkÃ³ bÅ‘r}
+{27601}{}{Egy gekkÃ³ lenyÃºzott, megszÃ¡rÃ­tott Ã©s bepÃ¡colt bÅ‘re.}
+{27700}{}{AranygekkÃ³ bÅ‘r}
+{27701}{}{Egy aranygekkÃ³ lenyÃºzott, megszÃ¡rÃ­tott Ã©s bepÃ¡colt bÅ‘re.}
+{27800}{}{KovakÅ‘}
+{27801}{}{Egy fegyverek Ã©lesÃ­tÃ©sÃ©re hasznÃ¡latos kÅ‘darab.}
+{27900}{}{Idegi csatolÃ³egysÃ©g}
 {27901}{}{It appears to be a set of electrodes built into a head unit with a standard computer interface plug. It's broken, however.}
-{28000}{}{Élezett lándzsa}
-{28001}{}{Borotvaéles szálfegyver. Nyele fából készült, a hegye pedig élesre fent acél. Min ER: 4.}
+{28000}{}{Ã‰lezett lÃ¡ndzsa}
+{28001}{}{BorotvaÃ©les szÃ¡lfegyver. Nyele fÃ¡bÃ³l kÃ©szÃ¼lt, a hegye pedig Ã©lesre fent acÃ©l. Min ER: 4.}
 {28100}{}{Dixon szeme}
-{28101}{}{Egy kis folyadékkal teli üvegcse, melyben egy emberi szem úszkál. A címkén a "Dixon tizedes" név olvasható.}
+{28101}{}{Egy kis folyadÃ©kkal teli Ã¼vegcse, melyben egy emberi szem ÃºszkÃ¡l. A cÃ­mkÃ©n a "Dixon tizedes" nÃ©v olvashatÃ³.}
 {28200}{}{Clifton szeme}
-{28201}{}{Egy kis folyadékkal teli üvegcse, melyben egy emberi szem úszkál. A címkén a "Clifton tábornok" név olvasható.}
+{28201}{}{Egy kis folyadÃ©kkal teli Ã¼vegcse, melyben egy emberi szem ÃºszkÃ¡l. A cÃ­mkÃ©n a "Clifton tÃ¡bornok" nÃ©v olvashatÃ³.}
 {28300}{}{Thompson puska}
-{28301}{}{Ez a Thompson M1928 géppisztoly meglehetõsen baljóslatú. Ha kezedbe veszed, egybõl fedora sapkát akarsz ölteni, s az ujjaidat akarod ropogtatni. 50 golyós dobtárral látták el. Min ER: 6.}
-{28400}{}{Szárított hús}
-{28401}{}{Ezek a szárított és füstölt húsdarabok igazán finomak és táplálóak maradnak sok-sok-sok éven át...}
-{28500}{}{Radskorpió végtagok}
-{28501}{}{Ezek a radskorpió ollók üregesek, és mindkettõre egy-egy szíj van erõsítve törött csattal a végükön.}
-{28600}{}{Tüzifa}
-{28601}{}{Egy rakás tüzifa és némi gyújtós.}
-{28700}{}{Távcsöves vadászpuska}
-{28701}{}{Nincs is szebb látvány a meglepett célpont arcánál. A Loophole x20-as távcsõvel gyakrabban részesülhetsz ebben a látványban. A fegyver halálpontos az elsõ lövéstõl az utolsóig, bármire is használod. Min ER: 5.}
-{28800}{}{Autó üzemanyag-cella}
-{28801}{}{Egy autó üzemanyag-cella.}
-{28900}{}{Ásó}
-{28901}{}{Ásó, árok és hasonlók ásására.}
-{29000}{}{Robo Közelharci fegyver 1}
-{29001}{}{Elektromos sebzés.}
-{29100}{}{Robo közelhari fegyver 2}
-{29101}{}{Elektromos sebzés.}
-{29200}{}{Bokszkesztyû}
-{29201}{}{Egy pár bokszkesztyû, melyen gyenge izzadtságszag érzõdik. Látszik, hogy sokat használták, mivel régi vérfoltok borítják.}
-{29300}{}{Fémbetétes bokszkesztyû}
-{29301}{}{Valaki "véletlenül" pár fémlemezt csúsztatott ezekbe a kesztyûkbe. Technikailag ez csalásnak minõsül, de te szívesebben gondolsz rá úgy, mint a csonttörõ erejû ütések esélynövelõ eszközére.}
-{29400}{}{13-as Menedék Hololemez}
-{29401}{}{Hololemez, mely remélhetõleg a 13-as menedék koordinátáit tartalmazza.}
+{28301}{}{Ez a Thompson M1928 gÃ©ppisztoly meglehetÅ‘sen baljÃ³slatÃº. Ha kezedbe veszed, egybÅ‘l fedora sapkÃ¡t akarsz Ã¶lteni, s az ujjaidat akarod ropogtatni. 50 golyÃ³s dobtÃ¡rral lÃ¡ttÃ¡k el. Min ER: 6.}
+{28400}{}{SzÃ¡rÃ­tott hÃºs}
+{28401}{}{Ezek a szÃ¡rÃ­tott Ã©s fÃ¼stÃ¶lt hÃºsdarabok igazÃ¡n finomak Ã©s tÃ¡plÃ¡lÃ³ak maradnak sok-sok-sok Ã©ven Ã¡t...}
+{28500}{}{RadskorpiÃ³ vÃ©gtagok}
+{28501}{}{Ezek a radskorpiÃ³ ollÃ³k Ã¼regesek, Ã©s mindkettÅ‘re egy-egy szÃ­j van erÅ‘sÃ­tve tÃ¶rÃ¶tt csattal a vÃ©gÃ¼kÃ¶n.}
+{28600}{}{TÃ¼zifa}
+{28601}{}{Egy rakÃ¡s tÃ¼zifa Ã©s nÃ©mi gyÃºjtÃ³s.}
+{28700}{}{TÃ¡vcsÃ¶ves vadÃ¡szpuska}
+{28701}{}{Nincs is szebb lÃ¡tvÃ¡ny a meglepett cÃ©lpont arcÃ¡nÃ¡l. A Loophole x20-as tÃ¡vcsÅ‘vel gyakrabban rÃ©szesÃ¼lhetsz ebben a lÃ¡tvÃ¡nyban. A fegyver halÃ¡lpontos az elsÅ‘ lÃ¶vÃ©stÅ‘l az utolsÃ³ig, bÃ¡rmire is hasznÃ¡lod. Min ER: 5.}
+{28800}{}{AutÃ³ Ã¼zemanyag-cella}
+{28801}{}{Egy autÃ³ Ã¼zemanyag-cella.}
+{28900}{}{ÃsÃ³}
+{28901}{}{ÃsÃ³, Ã¡rok Ã©s hasonlÃ³k Ã¡sÃ¡sÃ¡ra.}
+{29000}{}{Robo KÃ¶zelharci fegyver 1}
+{29001}{}{Elektromos sebzÃ©s.}
+{29100}{}{Robo kÃ¶zelhari fegyver 2}
+{29101}{}{Elektromos sebzÃ©s.}
+{29200}{}{BokszkesztyÅ±}
+{29201}{}{Egy pÃ¡r bokszkesztyÅ±, melybÅ‘l erÅ‘s izzadtsÃ¡gszag Ã¡rad. Sokat hasznÃ¡lhattÃ¡k, mivel mÃ©g mindig lÃ¡tszanak rajta a rÃ¡szÃ¡radt vÃ©rfoltok.}
+{29300}{}{FÃ©mbetÃ©tes bokszkesztyÅ±}
+{29301}{}{Valaki "egÃ©szen vÃ©letlenÃ¼l" pÃ¡r fÃ©mlemezt "rejtett" ezekbe a kesztyÅ±kbe. Ez csalÃ¡snak minÅ‘sÃ¼l, szerinted viszont nem tÃ¶bb, mint egy eszkÃ¶z, amivel megnÃ¶velheted a mÃ¡r amÃºgy is csonttÃ¶rÅ‘ hatÃ¡sÃº Ã¼tÃ©seid erejÃ©t.}
+{29400}{}{13-as MenedÃ©k Hololemez}
+{29401}{}{Hololemez, mely remÃ©lhetÅ‘leg a 13-as menedÃ©k koordinÃ¡tÃ¡it tartalmazza.}
 {29500}{}{Sajtos pufi}
-{29501}{}{Egy csomag sajtos ízesítésû pufi. Eszméletlenül finom.}
+{29501}{}{Egy csomag sajtos Ã­zesÃ­tÃ©sÅ± pufi. EszmÃ©letlenÃ¼l finom.}
 {29600}{}{H&K P90c}
-{29601}{}{A Heckler & Koch P90c-t a Háború idején kezdték használni. A hátsótáras kialakítás és a kis test biztos fogást biztosít. A P90c nem más, mint tûzerõ és megbízhatóság tartós csomagolásban. Min ER: 4.}
-{29700}{}{Fémrúd}
-{29701}{}{Egy hosszú fémbõl készült rúd. Mi mást vártál?}
-{29800}{}{Prémvadász Város kulcsa}
-{29801}{}{Egy szabványos kulcs.}
-{29900}{}{Csõpuska}
-{29901}{}{Házi barkácsolású, egyetlen lövésre alkalmas puska. Min ER: 5.}
+{29601}{}{A Heckler & Koch P90c-t a HÃ¡borÃº idejÃ©n kezdtÃ©k hasznÃ¡lni. A hÃ¡tsÃ³tÃ¡ras kialakÃ­tÃ¡s Ã©s a kis test biztos fogÃ¡st biztosÃ­t. A P90c nem mÃ¡s, mint tÅ±zerÅ‘ Ã©s megbÃ­zhatÃ³sÃ¡g tartÃ³s csomagolÃ¡sban. Min ER: 4.}
+{29700}{}{FÃ©mrÃºd}
+{29701}{}{Egy hosszÃº fÃ©mbÅ‘l kÃ©szÃ¼lt rÃºd. Mi mÃ¡st vÃ¡rtÃ¡l?}
+{29800}{}{PrÃ©mvadÃ¡sz VÃ¡ros kulcsa}
+{29801}{}{Egy szabvÃ¡nyos kulcs.}
+{29900}{}{CsÅ‘puska}
+{29901}{}{HÃ¡zi barkÃ¡csolÃ¡sÃº, egyetlen lÃ¶vÃ©sre alkalmas puska. Min ER: 5.}
 {30000}{}{Zip fegyver}
-{30001}{}{Házi barkácsolású pisztoly. Min ER: 4.}
-{30100}{}{Jegyzetgyûjtõ}
-{30101}{}{Jegyzetgyûjtõ mely a hûtõrendszerrõl szóló jelentést tartalmazza.}
-{30200}{}{Gekkó hololemez}
-{30201}{}{"Gekkó gazdasági adatai" - áll a lemez címkéjén. Nehezen értelmezhetõ táblázatokat, listákat és egyéb technikai adatokat tartalmaz, melyek egy lehetséges Gekkó-Menedékváros szövetség gazdasági elõnyeit írják le.}
+{30001}{}{HÃ¡zi barkÃ¡csolÃ¡sÃº pisztoly. Min ER: 4.}
+{30100}{}{JegyzetgyÅ±jtÅ‘}
+{30101}{}{JegyzetgyÅ±jtÅ‘ mely a hÅ±tÅ‘rendszerrÅ‘l szÃ³lÃ³ jelentÃ©st tartalmazza.}
+{30200}{}{GekkÃ³ hololemez}
+{30201}{}{"GekkÃ³ gazdasÃ¡gi adatai" - Ã¡ll a lemez cÃ­mkÃ©jÃ©n. Nehezen Ã©rtelmezhetÅ‘ tÃ¡blÃ¡zatokat, listÃ¡kat Ã©s egyÃ©b technikai adatokat tartalmaz, melyek egy lehetsÃ©ges GekkÃ³-MenedÃ©kvÃ¡ros szÃ¶vetsÃ©g gazdasÃ¡gi elÅ‘nyeit Ã­rjÃ¡k le.}
 {30300}{}{Reaktor hololemez}
-{30301}{}{"A gekkói reaktor teljesítményadatai" - olvasható a címkén. Semmit sem értesz a tartalmát képezõ rengeteg számadatból. Rengeteg információt hordozhat a lemez annak a valakinek, aki érti.}
-{30400}{}{Egy csomag "Tragic" kártya}
-{30401}{}{Egy csomag kártya a híres gyûjtögetõs kártyajátékhoz. Úgy tûnik, nem valami olcsó hobbi, ha valaki rászokik.}
-{30500}{}{Sárga kódkártya}
-{30501}{}{Elektronikus beléptetõkártya, sárga színkóddal.}
-{30600}{}{Piros kódkártya}
-{30601}{}{Elektromos biztonsági kártya, vörös színkóddal.}
-{30700}{}{Plazmaátalakító}
-{30701}{}{Ez egy háromfázisú plazmaátalakító.}
-{30800}{}{Szuper szerszámkészlet}
-{30801}{}{Nagyszerû szerszámos készlet a Snap-Off cégtõl.}
-{30900}{}{Talizmán}
-{30901}{}{A Vész követõinek talizmánja.}
-{31000}{}{Gamma Glutty sör}
-{31001}{}{Egy üveg Gamma Glutty márkájú sör. Világít a sötétben!}
-{31100}{}{Röntgen Rum}
-{31101}{}{Egy üveg Röntgen rum. Izzik a sötétben!}
-{31200}{}{Alkatrészigénylõ lap}
-{31201}{}{Ez egy alkatrészigénylõ lap.}
+{30301}{}{"A gekkÃ³i reaktor teljesÃ­tmÃ©nyadatai" - olvashatÃ³ a cÃ­mkÃ©n. Semmit sem Ã©rtesz a tartalmÃ¡t kÃ©pezÅ‘ rengeteg szÃ¡madatbÃ³l. Rengeteg informÃ¡ciÃ³t hordozhat a lemez annak a valakinek, aki Ã©rti.}
+{30400}{}{Egy csomag "Tragic" kÃ¡rtya}
+{30401}{}{Egy csomag kÃ¡rtya a hÃ­res gyÅ±jtÃ¶getÅ‘s kÃ¡rtyajÃ¡tÃ©khoz. Ãšgy tÅ±nik, nem valami olcsÃ³ hobbi, ha valaki rÃ¡szokik.}
+{30500}{}{SÃ¡rga kÃ³dkÃ¡rtya}
+{30501}{}{Elektronikus biztonsÃ¡gi kÃ¡rtya sÃ¡rga szÃ­nkÃ³ddal.}
+{30600}{}{Piros kÃ³dkÃ¡rtya}
+{30601}{}{Elektronikus belÃ©ptetÅ‘kÃ¡rtya, piros szÃ­nkÃ³ddal.}
+{30700}{}{PlazmaÃ¡talakÃ­tÃ³}
+{30701}{}{Ez egy hÃ¡romfÃ¡zisÃº plazmaÃ¡talakÃ­tÃ³.}
+{30800}{}{Szuper szerszÃ¡mkÃ©szlet}
+{30801}{}{NagyszerÅ± szerszÃ¡mos kÃ©szlet a Snap-Off cÃ©gtÅ‘l.}
+{30900}{}{TalizmÃ¡n}
+{30901}{}{A VÃ©sz kÃ¶vetÅ‘inek talizmÃ¡nja.}
+{31000}{}{Gamma Glutty sÃ¶r}
+{31001}{}{Egy Ã¼veg Gamma Glutty mÃ¡rkÃ¡jÃº sÃ¶r. VilÃ¡gÃ­t a sÃ¶tÃ©tben!}
+{31100}{}{RÃ¶ntgen Rum}
+{31101}{}{Egy Ã¼veg RÃ¶ntgen rum. Izzik a sÃ¶tÃ©tben!}
+{31200}{}{AlkatrÃ©szigÃ©nylÅ‘ lap}
+{31201}{}{Ez egy alkatrÃ©szigÃ©nylÅ‘ lap.}
 {31300}{}{.44 Magnum Revolver}
-{31301}{}{Mivel ez a legerõteljesebb maroklõfegyver, ami simán levisz egy fejet is a helyérõl, megkérdezheted magadat: Szerencsés vagyok? Nos, az vagy, punk? Min ER: 5.}
-{31400}{}{Óvszer (kék csomag)}
-{31401}{}{Jimmy Hats óvszer, nagyon megbízható márka. Ez a típus bordázott, a hölgyek nagyobb élvezete érdekében.}
-{31500}{}{Óvszer (zöld csomag)}
-{31501}{}{Jimmy Hats óvszer, nagyon megbízható márka. Foszforeszkáló zöld festés és spermicides sikosító jellemzi.}
-{31600}{}{Óvszer (Piros csomag)}
+{31301}{}{Mivel ez a legerÅ‘teljesebb maroklÅ‘fegyver, ami simÃ¡n levisz egy fejet is a helyÃ©rÅ‘l, megkÃ©rdezheted magadat: SzerencsÃ©s vagyok? Nos, az vagy, punk? Min ER: 5.}
+{31400}{}{Ã“vszer (kÃ©k csomag)}
+{31401}{}{Jimmy Hats Ã³vszer, nagyon megbÃ­zhatÃ³ mÃ¡rka. Ez a tÃ­pus bordÃ¡zott, a hÃ¶lgyek nagyobb Ã©lvezete Ã©rdekÃ©ben.}
+{31500}{}{Ã“vszer (zÃ¶ld csomag)}
+{31501}{}{Jimmy Hats Ã³vszer, nagyon megbÃ­zhatÃ³ mÃ¡rka. FoszforeszkÃ¡lÃ³ zÃ¶ld festÃ©s Ã©s spermicides sikosÃ­tÃ³ jellemzi.}
+{31600}{}{Ã“vszer (Piros csomag)}
 {31601}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one contains phosphorous red dye #5 and has a yummy cinnamon bun flavor... or so you heard.}
-{31700}{}{Arcápoló készlet}
-{31701}{}{Ez egy Mary May márkájú arcápoló készlet.}
-{31800}{}{Üres fecskendõ.}
-{31801}{}{Ez egy üres fecskendõ.}
-{31900}{}{Rugós bicska}
+{31700}{}{ArcÃ¡polÃ³ kÃ©szlet}
+{31701}{}{Ez egy Mary May mÃ¡rkÃ¡jÃº arcÃ¡polÃ³ kÃ©szlet.}
+{31800}{}{Ãœres fecskendÅ‘.}
+{31801}{}{Ez egy Ã¼res fecskendÅ‘.}
+{31900}{}{RugÃ³s bicska}
 {31901}{}{The blade of this small knife is held by a spring. When a button on the handle is pressed, the blade shoots out with a satisfying "Sssssshk" sound. Min ST: 1.}
-{32000}{}{Kihegyezett rúd}
-{32001}{}{Egy fa rúd, melynek egyik vége ki van hegyezve. Min ER: 4.}
-{32100}{}{Kibernetikus Agy}
-{32101}{}{Emberi agy, elektronikus és robotikus alkatrészekkel kiegészítve.}
-{32200}{}{Emberi Agy}
-{32201}{}{Egy átlagos emberi agy. Általában az emberi koponyában található. Böee!}
-{32300}{}{Csimpánz Agy}
-{32301}{}{Majomagyvelõ. Puha, és kocsonyás.}
-{32400}{}{Rendellenes Agy}
-{32401}{}{Valószínûleg emberi agy. A szín nem igazán stimmel, és a bal fele egy kicsit be van lappadva.}
-{32500}{}{Dobókocka}
-{32501}{}{Egy pár közönséges dobókocka. Milyen tuti lenne, ha találnál egy pár bolyhosat a kocsidba!}
-{32600}{}{Cinkelt dobókocka}
-{32601}{}{Egy pár súlyozott dobókocka. Ne nagyon villogj vele a kaszinó környékén!}
-{32700}{}{Húsvéti tojás}
-{32701}{}{Keményre fõzött tyúktojás, rajta színes mintákkal.}
-{32800}{}{Mágikus 8-as golyó}
-{32801}{}{Ez a fekete golyó egy igen furcsa szerkezet... úgy tûnik, hogy a kis ablak a tetején meg tudja mutatni a jövõt! A háború elõtti emberiségnek nagy zsenijei lehettek, ha képesek voltak feltalálni egy ilyen csodát!}
-{32900}{}{Mutagén szérum}
-{32901}{}{Egy különös szerves készítmény, mely visszafordíthatja az emberi mutációt.}
-{33000}{}{Lezuhant gépmadár}
+{32000}{}{Kihegyezett rÃºd}
+{32001}{}{Egy fa rÃºd, melynek egyik vÃ©ge ki van hegyezve. Min ER: 4.}
+{32100}{}{Kibernetikus agy}
+{32101}{}{Emberi agy, elektronikus Ã©s robotikus alkatrÃ©szekkel kiegÃ©szÃ­tve.}
+{32200}{}{Emberi agy}
+{32201}{}{Egy Ã¡tlagos emberi agy. ÃltalÃ¡ban az emberi koponyÃ¡ban talÃ¡lhatÃ³. BÃ¶ee!}
+{32300}{}{CsimpÃ¡nz agy}
+{32301}{}{MajomagyvelÅ‘. Puha, Ã©s kocsonyÃ¡s.}
+{32400}{}{AbnormÃ¡lis agy}
+{32401}{}{ValÃ³szÃ­nÅ±leg emberi agy. A szÃ­n nem igazÃ¡n stimmel, Ã©s a bal fele egy kicsit be van lappadva.}
+{32500}{}{DobÃ³kocka}
+{32501}{}{Egy pÃ¡r kÃ¶zÃ¶nsÃ©ges dobÃ³kocka. Milyen tuti lenne, ha talÃ¡lnÃ¡l egy pÃ¡r bolyhosat a kocsidba!}
+{32600}{}{Cinkelt dobÃ³kocka}
+{32601}{}{Egy pÃ¡r sÃºlyozott dobÃ³kocka. Ne nagyon villogj vele a kaszinÃ³ kÃ¶rnyÃ©kÃ©n!}
+{32700}{}{HÃºsvÃ©ti tojÃ¡s}
+{32701}{}{KemÃ©nyre fÅ‘zÃ¶tt tyÃºktojÃ¡s, rajta szÃ­nes mintÃ¡kkal.}
+{32800}{}{MÃ¡gikus 8-as golyÃ³}
+{32801}{}{Ez a fekete golyÃ³ egy igen furcsa szerkezet... Ãºgy tÅ±nik, hogy a kis ablak a tetejÃ©n meg tudja mutatni a jÃ¶vÅ‘t! A hÃ¡borÃº elÅ‘tti emberisÃ©gnek nagy zsenijei lehettek, ha kÃ©pesek voltak feltalÃ¡lni egy ilyen csodÃ¡t!}
+{32900}{}{MutagÃ©n szÃ©rum}
+{32901}{}{Egy kÃ¼lÃ¶nÃ¶s szerves kÃ©szÃ­tmÃ©ny, mely visszafordÃ­thatja az emberi mutÃ¡ciÃ³t.}
+{33000}{}{Lezuhant gÃ©pmadÃ¡r}
 {33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
-{33100}{}{A Cat's Paw 5-ös száma}
-{33101}{}{Egy Cat's Paw magazin, mégpedig a nagyon ritka 5-ös szám. A képek mellett egy rendkívül érdekes cikk található benne az energia-fegyverekrõl.}
-{33200}{}{M3A1 "Zsírfegyver" GPI}
-{33201}{}{Ez a géppisztoly volt a Nemzetõrség rendszeresített fegyvere, mielõtt újabbra nem cserélték. Mivel könnyen és olcsón lehetett gyártani, még található belõle itt-ott néhány darab. Min ER: 4.}
-{33300}{}{Szívgyógyszer}
-{33301}{}{A szívproblémákkal küszködõk számára készült gyógyszer.}
-{33400}{}{Méreg}
-{33401}{}{Ez egy injekcióstû, tele bivalyerõs méreggel.}
-{33500}{}{Moore aktatáskája}
-{33501}{}{Thomas Moore kért meg téged, hogy vidd el ezt a brahminbõr aktatáskát a Bishop családnak, New Renóba. Biztonságosan le van zárva, nem valószínû, hogy ki tudod nyitni.}
-{33600}{}{Moore aktatáskája}
-{33601}{}{Thomas Moore kért meg téged, hogy vidd el ezt a brahminbõr aktatáskát a Bishop családnak, New Renóba. Biztonságosan le van zárva, nem valószínû, hogy ki tudod nyitni.}
+{33100}{}{A Cat's Paw 5-Ã¶s szÃ¡ma}
+{33101}{}{Egy Cat's Paw magazin, mÃ©gpedig a nagyon ritka 5-Ã¶s szÃ¡m. A kÃ©pek mellett egy rendkÃ­vÃ¼l Ã©rdekes cikk talÃ¡lhatÃ³ benne az energia-fegyverekrÅ‘l.}
+{33200}{}{M3A1 "ZsÃ­rfegyver" GPI}
+{33201}{}{Ez a gÃ©ppisztoly volt a NemzetÅ‘rsÃ©g rendszeresÃ­tett fegyvere, mielÅ‘tt Ãºjabbra nem cserÃ©ltÃ©k. Mivel kÃ¶nnyen Ã©s olcsÃ³n lehetett gyÃ¡rtani, mÃ©g talÃ¡lhatÃ³ belÅ‘le itt-ott nÃ©hÃ¡ny darab. Min ER: 4.}
+{33300}{}{SzÃ­vgyÃ³gyszer}
+{33301}{}{A szÃ­vproblÃ©mÃ¡kkal kÃ¼szkÃ¶dÅ‘k szÃ¡mÃ¡ra kÃ©szÃ¼lt gyÃ³gyszer.}
+{33400}{}{MÃ©reg}
+{33401}{}{Ez egy injekciÃ³stÅ±, tele bivalyerÅ‘s mÃ©reggel.}
+{33500}{}{Moore tÃ¡skÃ¡ja}
+{33501}{}{Thomas Moore kÃ©rt meg tÃ©ged, hogy vidd el ezt a brahminbÅ‘r aktatÃ¡skÃ¡t a Bishop csalÃ¡dnak, New RenÃ³ba. BiztonsÃ¡gosan le van zÃ¡rva, nem valÃ³szÃ­nÅ±, hogy ki tudod nyitni.}
+{33600}{}{Moore tÃ¡skÃ¡ja}
+{33601}{}{Thomas Moore kÃ©rt meg tÃ©ged, hogy vidd el ezt a brahminbÅ‘r aktatÃ¡skÃ¡t a Bishop csalÃ¡dnak, New RenÃ³ba. BiztonsÃ¡gosan le van zÃ¡rva, nem valÃ³szÃ­nÅ±, hogy ki tudod nyitni.}
 {33700}{}{Lynette hololemeze}
-{33701}{}{Ezt a lemezt Lynette-tõl kaptad.}
+{33701}{}{Ezt a lemezt Lynette-tÅ‘l kaptad.}
 {33800}{}{Westin hololemeze}
-{33801}{}{Ezt a lemezt Westintõl kaptad.}
-{33900}{}{ÚKK Kém hololemez}
-{33901}{}{Ezen a hololemezen különféle jelentések találhatók az ÚKK karavánjainak menetrendjérõl, és biztonsági adatairól. Darionnak címezték, és az "F" aláírás olvasható rajta. Így már érthetõ, hogy eddig miért nem sikerült elkapni az útonállókat.}
+{33801}{}{Ezt a lemezt WestintÅ‘l kaptad.}
+{33900}{}{ÃšKK KÃ©m hololemez}
+{33901}{}{Ezen a hololemezen kÃ¼lÃ¶nfÃ©le jelentÃ©sek talÃ¡lhatÃ³k az ÃšKK karavÃ¡njainak menetrendjÃ©rÅ‘l, Ã©s biztonsÃ¡gi adatairÃ³l. Darionnak cÃ­meztÃ©k, Ã©s az "F" alÃ¡Ã­rÃ¡s olvashatÃ³ rajta. Ãgy mÃ¡r Ã©rthetÅ‘, hogy eddig miÃ©rt nem sikerÃ¼lt elkapni az ÃºtonÃ¡llÃ³kat.}
 {34000}{}{Orvosi jegyzetek}
-{34001}{}{Egy bizonyos Kibernetikus Õrzõkutya Egység nagyon részletes terve. Ezzel, s a megfelelõ eszközökkel bárki képes lehet egy robotkutya megépítésére.}
-{34100}{}{Elnöki engedély}
-{34101}{}{Ezen dokumentum hordozója legfelsõ szintû belépési engedéllyel bír, melyet az Új Kalifornia Köztársaság elnöke biztosított neki. Tandi Elnök aláírása olvasható rajta.}
-{34200}{}{Felderítõ jelvény}
-{34201}{}{Ez a jelvény mindenki tudtára hozza, hogy az Új Kalifornia Köztársaság hivatásos felderítõje vagy. Fúú, van rajta sorszám meg minden!}
-{34300}{}{Felderítõ térkép}
-{34301}{}{Egy a környékrõl készült térkép. Nem segít neked túl sokat, de megtalálhatók rajta az északra található felderítõbázisok kódnevei.}
-{34400}{}{Sírhely}
-{34500}{}{Sírhely}
-{34600}{}{Sírhely}
-{34700}{}{Sírhely}
+{34001}{}{Egy bizonyos Kibernetikus ÅrzÅ‘kutya EgysÃ©g nagyon rÃ©szletes terve. Ezzel, s a megfelelÅ‘ eszkÃ¶zÃ¶kkel bÃ¡rki kÃ©pes lehet egy robotkutya megÃ©pÃ­tÃ©sÃ©re.}
+{34100}{}{ElnÃ¶ki engedÃ©ly}
+{34101}{}{Ezen dokumentum hordozÃ³ja legfelsÅ‘ szintÅ± belÃ©pÃ©si engedÃ©llyel bÃ­r, melyet az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡g elnÃ¶ke biztosÃ­tott neki. Tandi ElnÃ¶k alÃ¡Ã­rÃ¡sa olvashatÃ³ rajta.}
+{34200}{}{FelderÃ­tÅ‘ jelvÃ©ny}
+{34201}{}{Ez a jelvÃ©ny mindenki tudtÃ¡ra hozza, hogy az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡g hivatÃ¡sos felderÃ­tÅ‘je vagy. FÃºÃº, van rajta sorszÃ¡m meg minden!}
+{34300}{}{FelderÃ­tÅ‘ tÃ©rkÃ©p}
+{34301}{}{Egy a kÃ¶rnyÃ©krÅ‘l kÃ©szÃ¼lt tÃ©rkÃ©p. Nem segÃ­t neked tÃºl sokat, de megtalÃ¡lhatÃ³k rajta az Ã©szakra talÃ¡lhatÃ³ felderÃ­tÅ‘bÃ¡zisok kÃ³dnevei.}
+{34400}{}{SÃ­rhely}
+{34500}{}{SÃ­rhely}
+{34600}{}{SÃ­rhely}
+{34700}{}{SÃ­rhely}
 {34701}{}{}
-{34800}{}{Fejlesztett erõpáncél}
-{34801}{}{Ez az erõpáncél pehelykönnyû fémötvözetbõl készült, kerámiaöntvényekkel megerõsítve a kulcspontoknál. A mozgást segítõ szervómotorok is kiváló minõségûnek tûnnek.}
-{34900}{}{Fejlesztett erõpáncél II}
-{34901}{}{Ez az erõpáncél teljes egészében kerámiakompozitokból készült, szakítva a kerámia-fém kombináció hagyományaival. Ennek ellenére úgy tûnik, nagyobb védelmet biztosít, mint a rendes energiapáncél.}
+{34800}{}{Fejlesztett erÅ‘pÃ¡ncÃ©l}
+{34801}{}{Ez az erÅ‘pÃ¡ncÃ©l pehelykÃ¶nnyÅ± fÃ©mÃ¶tvÃ¶zetbÅ‘l kÃ©szÃ¼lt, kerÃ¡miaÃ¶ntvÃ©nyekkel megerÅ‘sÃ­tve a kulcspontoknÃ¡l. A mozgÃ¡st segÃ­tÅ‘ szervÃ³motorok is kivÃ¡lÃ³ minÅ‘sÃ©gÅ±nek tÅ±nnek.}
+{34900}{}{Fejlesztett erÅ‘pÃ¡ncÃ©l II}
+{34901}{}{Ez az erÅ‘pÃ¡ncÃ©l teljes egÃ©szÃ©ben kerÃ¡miakompozitokbÃ³l kÃ©szÃ¼lt, szakÃ­tva a kerÃ¡mia-fÃ©m kombinÃ¡ciÃ³ hagyomÃ¡nyaival. Ennek ellenÃ©re Ãºgy tÅ±nik, nagyobb vÃ©delmet biztosÃ­t, mint a rendes energiapÃ¡ncÃ©l.}
 {35000}{}{Bozar}
-{35001}{}{A mesterlövészet mûvészetének tökéletesítése. Hajlamos meghibásodni, ha nem tartják tisztán, viszont a fegyver pontossága bõven kárpótol a karbantartásba ölt plusz energiáért. Min ER: 6.}
+{35001}{}{A mesterlÃ¶vÃ©szet mÅ±vÃ©szetÃ©nek tÃ¶kÃ©letesÃ­tÃ©se. Hajlamos meghibÃ¡sodni, ha nem tartjÃ¡k tisztÃ¡n, viszont a fegyver pontossÃ¡ga bÅ‘ven kÃ¡rpÃ³tol a karbantartÃ¡sba Ã¶lt plusz energiÃ¡Ã©rt. Min ER: 6.}
 {35100}{}{FN FAL}
-{35101}{}{Az FN FAL minden idõk egyik legelterjedtebb lõfegyvere a fegyveres testületek körében. Megbízható rohamfegyver bármilyen terepre és taktikai helyzetre. Min ER: 5.}
+{35101}{}{Az FN FAL minden idÅ‘k egyik legelterjedtebb lÅ‘fegyvere a fegyveres testÃ¼letek kÃ¶rÃ©ben. MegbÃ­zhatÃ³ rohamfegyver bÃ¡rmilyen terepre Ã©s taktikai helyzetre. Min ER: 5.}
 {35200}{}{H&K G11}
-{35201}{}{Ez a fegyver forradalmasította a rohampuskák kialakítását. Speciális hajtóanyaggal ellátott hüvelynélküli töltényeket lõ ki. Az emiatt létrejött súly és helymegtakarítás nagyobb tár használatát tette lehetõvé. Min ER: 5.}
+{35201}{}{Ez a fegyver forradalmasÃ­totta a rohampuskÃ¡k kialakÃ­tÃ¡sÃ¡t. SpeciÃ¡lis hajtÃ³anyaggal ellÃ¡tott hÃ¼velynÃ©lkÃ¼li tÃ¶ltÃ©nyeket lÅ‘ ki. Az emiatt lÃ©trejÃ¶tt sÃºly Ã©s helymegtakarÃ­tÃ¡s nagyobb tÃ¡r hasznÃ¡latÃ¡t tette lehetÅ‘vÃ©. Min ER: 5.}
 {35300}{}{XL70E3}
-{35301}{}{Ez a puska kísérleti fegyver volt a háború idején. Nagy szilárdságú polimerekbõl készült, így szinte elpusztíthatatlan. Könnyû, gyorsan tüzel, pontos és szerszámok nélkül is könnyen szétszerelhetõ. Min ER: 5.}
+{35301}{}{Ez a puska kÃ­sÃ©rleti fegyver volt a hÃ¡borÃº idejÃ©n. Nagy szilÃ¡rdsÃ¡gÃº polimerekbÅ‘l kÃ©szÃ¼lt, Ã­gy szinte elpusztÃ­thatatlan. KÃ¶nnyÅ±, gyorsan tÃ¼zel, pontos Ã©s szerszÃ¡mok nÃ©lkÃ¼l is kÃ¶nnyen szÃ©tszerelhetÅ‘. Min ER: 5.}
 {35400}{}{Pancor Jackhammer}
-{35401}{}{A Jackhammer, neve ellenére, egy igen könnyen kezelhetõ sörétes puska, még teljesen automata üzemmóban is. A népszerû hátsótáras elrendezés, mely az elsütõbillentyû mögé helyezi a tárat, jól kiegyensúlyozottá és könnyen kezelhetõvé teszi a fegyvert. Min ER: 5.}
-{35500}{}{Könnyû géppuska}
-{35501}{}{Gyalogsági könnyû géppuska. Hátsótáras kialakítása miatt nehezen lehet vele tüzelni fekvõ pozícióból, ezért csak a Nemzetõrség arzenáljában maradt meg. Ennek ellenére nagy hírnévre tett szert méretéhez képesti nagy tûzereje miatt. Min ER: 6.}
-{35600}{}{Hangfelismerõ modul}
-{35601}{}{Bõvítõkártya, rengeteg ismeretlen alkatrésszel, egy mikrofonnal és egy "Menedék-Tek hangfelismerõ modul" felirattal ellátva.}
+{35401}{}{A Jackhammer, neve ellenÃ©re, egy igen kÃ¶nnyen kezelhetÅ‘ sÃ¶rÃ©tes puska, mÃ©g teljesen automata Ã¼zemmÃ³ban is. A nÃ©pszerÅ± hÃ¡tsÃ³tÃ¡ras elrendezÃ©s, mely az elsÃ¼tÅ‘billentyÅ± mÃ¶gÃ© helyezi a tÃ¡rat, jÃ³l kiegyensÃºlyozottÃ¡ Ã©s kÃ¶nnyen kezelhetÅ‘vÃ© teszi a fegyvert. Min ER: 5.}
+{35500}{}{KÃ¶nnyÅ± gÃ©ppuska}
+{35501}{}{GyalogsÃ¡gi kÃ¶nnyÅ± gÃ©ppuska. HÃ¡tsÃ³tÃ¡ras kialakÃ­tÃ¡sa miatt nehezen lehet vele tÃ¼zelni fekvÅ‘ pozÃ­ciÃ³bÃ³l, ezÃ©rt csak a NemzetÅ‘rsÃ©g arzenÃ¡ljÃ¡ban maradt meg. Ennek ellenÃ©re nagy hÃ­rnÃ©vre tett szert mÃ©retÃ©hez kÃ©pesti nagy tÅ±zereje miatt. Min ER: 6.}
+{35600}{}{HangfelismerÅ‘ modul}
+{35601}{}{BÅ‘vÃ­tÅ‘kÃ¡rtya, rengeteg ismeretlen alkatrÃ©sszel, egy mikrofonnal Ã©s egy "MenedÃ©k-Tek hangfelismerÅ‘ modul" felirattal ellÃ¡tva.}
 {35700}{}{,45}
-{35701}{}{,45 hüvelyk átmérõjû lõszer.}
+{35701}{}{,45 hÃ¼velyk Ã¡tmÃ©rÅ‘jÅ± lÅ‘szer.}
 {35800}{}{2 mm EC}
-{35801}{}{Lõszer.}
-{35900}{}{4,7 mm-es hüvelynélküli}
-{35901}{}{4,7 mm kaliberû hüvelynélküli lõszer.}
-{36000}{}{9mm}
-{36001}{}{9 mm kaliberû lõszer.}
-{36100}{}{HN tûlövedék}
-{36101}{}{HN tûvetõ pisztolyba való lõszer. Minden "töltény" tulajdonképpen egy injekciós tû, mely tartalmát találat esetén a célpontba fecskendezi.}
-{36200}{}{HN AP Tûlövedék}
-{36201}{}{Páncéltörõ lövedék HN tûvetõ pisztolyhoz. A tûk hegye furcsa ötvözetbõl készült, így nagyon hegyesek és kemények.}
-{36300}{}{7.62mm}
-{36301}{}{7,62 mm kaliberû lõszer.}
-{36400}{}{Robot motivátor}
-{36401}{}{Egy robot irányító berendezése.}
-{36500}{}{Tüske}
-{36501}{}{Egy tüske, melyet a ragadozó növények köpnek potenciális tápanyagukra vagy maghordozóikra.}
-{36600}{}{É.L.E.T.}
-{36601}{}{"Édenkert Létrehozást Elõsegítõ Táska". A Menedék-Tek menedékek alapfelszerelésébe tartozik, az élet újrateremtésének forrása. Csak adj hozzá vizet és kevergesd!}
-{36700}{}{Lõszeres láda}
-{36800}{}{Lõszeres láda}
-{36900}{}{Lõszeres láda}
-{37000}{}{Lõszeres láda}
+{35801}{}{LÅ‘szer.}
+{35900}{}{4,7 mm-es hÃ¼velynÃ©lkÃ¼li}
+{35901}{}{4,7 mm kaliberÅ± hÃ¼velynÃ©lkÃ¼li lÅ‘szer.}
+{36000}{}{9 mm}
+{36001}{}{9 mm kaliberÅ± lÅ‘szer.}
+{36100}{}{HN tÅ±lÃ¶vedÃ©k}
+{36101}{}{HN tÅ±vetÅ‘ pisztolyba valÃ³ lÅ‘szer. Minden "tÃ¶ltÃ©ny" tulajdonkÃ©ppen egy injekciÃ³s tÅ±, mely tartalmÃ¡t talÃ¡lat esetÃ©n a cÃ©lpontba fecskendezi.}
+{36200}{}{HN AP TÅ±lÃ¶vedÃ©k}
+{36201}{}{PÃ¡ncÃ©ltÃ¶rÅ‘ lÃ¶vedÃ©k HN tÅ±vetÅ‘ pisztolyhoz. A tÅ±k hegye furcsa Ã¶tvÃ¶zetbÅ‘l kÃ©szÃ¼lt, Ã­gy nagyon hegyesek Ã©s kemÃ©nyek.}
+{36300}{}{7,62mm}
+{36301}{}{7,62 mm kaliberÅ± lÅ‘szer.}
+{36400}{}{Robot motivÃ¡tor}
+{36401}{}{Egy robot irÃ¡nyÃ­tÃ³ berendezÃ©se.}
+{36500}{}{TÃ¼ske}
+{36501}{}{Egy tÃ¼ske, melyet a ragadozÃ³ nÃ¶vÃ©nyek kÃ¶pnek potenciÃ¡lis tÃ¡panyagukra vagy maghordozÃ³ikra.}
+{36600}{}{Ã‰.L.E.T.}
+{36601}{}{"Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡ska". A MenedÃ©k-Tek menedÃ©kek alapfelszerelÃ©sÃ©be tartozik, az Ã©let ÃºjrateremtÃ©sÃ©nek forrÃ¡sa. Csak adj hozzÃ¡ vizet Ã©s kevergesd!}
+{36700}{}{LÅ‘szeres lÃ¡da}
+{36800}{}{LÅ‘szeres lÃ¡da}
+{36900}{}{LÅ‘szeres lÃ¡da}
+{37000}{}{LÅ‘szeres lÃ¡da}
 {37100}{}{Karom}
 {37101}{}{Karom}
 {37200}{}{Karom}
 {37201}{}{Karom}
-{37300}{}{15-ös Menedék kódkártya}
-{37301}{}{Elektromos biztonsági kártya, vörös színkóddal.}
-{37400}{}{Sírhely}
-{37500}{}{Sírhely}
-{37600}{}{Sírhely}
-{37700}{}{15-ös Menedék számítógép-alkatrészei}
-{37701}{}{Különbözõ számítógép-alkatrészek. Minden számítógép-õrült álma.}
-{37800}{}{Süti}
-{37801}{}{Csokis süti. Nyami!}
-{37900}{}{Bõrpáncél II}
-{37901}{}{Továbbfejlesztett bõrpáncél, extra védõrétegekkel ellátva. Remekül kimunkált, cserzett brahminbõrbõl készült.}
-{38000}{}{Fémpáncél II}
-{38001}{}{Fényezett fémlapokból összeállított nagyszerû páncélruha.}
-{38100}{}{Harci Páncél II}
-{38101}{}{Egy a legújabb polimerkompozitokból csúcstechnológiával gyártott páncélzatok közül.}
-{38200}{}{Lángszóró üzemanyag II}
-{38201}{}{Lángszórókba való folyadék, mely szupergyúlékony keveréket tartalmaz.}
+{37300}{}{15-Ã¶s MenedÃ©k kÃ³dkÃ¡rtya}
+{37301}{}{Elektronikus belÃ©ptetÅ‘kÃ¡rtya, piros szÃ­nkÃ³ddal.}
+{37400}{}{SÃ­rhely}
+{37500}{}{SÃ­rhely}
+{37600}{}{SÃ­rhely}
+{37700}{}{15-Ã¶s MenedÃ©k szÃ¡mÃ­tÃ³gÃ©p-alkatrÃ©szei}
+{37701}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ szÃ¡mÃ­tÃ³gÃ©p-alkatrÃ©szek. Minden szÃ¡mÃ­tÃ³gÃ©p-Å‘rÃ¼lt Ã¡lma.}
+{37800}{}{SÃ¼ti}
+{37801}{}{Csokis sÃ¼ti. Nyami!}
+{37900}{}{BÅ‘rpÃ¡ncÃ©l II}
+{37901}{}{TovÃ¡bbfejlesztett bÅ‘rpÃ¡ncÃ©l, extra vÃ©dÅ‘rÃ©tegekkel ellÃ¡tva. RemekÃ¼l kimunkÃ¡lt, cserzett brahminbÅ‘rbÅ‘l kÃ©szÃ¼lt.}
+{38000}{}{FÃ©mpÃ¡ncÃ©l II}
+{38001}{}{FÃ©nyezett fÃ©mlapokbÃ³l Ã¶sszeÃ¡llÃ­tott nagyszerÅ± pÃ¡ncÃ©lruha.}
+{38100}{}{Harci PÃ¡ncÃ©l II}
+{38101}{}{Egy a legÃºjabb polimerkompozitokbÃ³l csÃºcstechnolÃ³giÃ¡val gyÃ¡rtott pÃ¡ncÃ©lzatok kÃ¶zÃ¼l.}
+{38200}{}{LÃ¡ngszÃ³rÃ³ Ã¼zemanyag II}
+{38201}{}{LÃ¡ngszÃ³rÃ³kba valÃ³ folyadÃ©k, mely szupergyÃºlÃ©kony keverÃ©ket tartalmaz.}
 {38300}{}{Bicska}
-{38301}{}{Ez a házi készítésû kés nagyon veszélyes, mivel könnyen elrejthetõ. Mások nem veszik észre. Min ER: 1.}
-{38400}{}{Villáskulcs}
-{38401}{}{Egyszerû villáskulcs, melyet szerelõk használnak. Min ER: 3.}
-{38500}{}{Lefûrészelt csövû sörétes}
-{38501}{}{Valaki nem sajnálta az idõt, és lefûrészelt jó pár centit a puska csövébõl és tusából. Az így kapott nagyobb szórás miatt kiváló rövid hatótávú tömegoszlatás céljára. Min ER: 4.}
-{38600}{}{Fa testápoló}
-{38601}{}{Ezzel a tipikus, keményfából készült, amerikai baseball ütõvel bármit alaposan tönkre lehet verni. Min ER: 4.}
+{38301}{}{Ez a hÃ¡zi kÃ©szÃ­tÃ©sÅ± kÃ©s nagyon veszÃ©lyes, mivel kÃ¶nnyen elrejthetÅ‘. MÃ¡sok nem veszik Ã©szre. Min ER: 1.}
+{38400}{}{VillÃ¡skulcs}
+{38401}{}{EgyszerÅ± villÃ¡skulcs, melyet szerelÅ‘k hasznÃ¡lnak. Min ER: 3.}
+{38500}{}{LefÅ±rÃ©szelt csÃ¶vÅ± sÃ¶rÃ©tes}
+{38501}{}{Valaki nem sajnÃ¡lta az idÅ‘t, Ã©s lefÅ±rÃ©szelt jÃ³ pÃ¡r centit a puska csÃ¶vÃ©bÅ‘l Ã©s tusÃ¡bÃ³l. Az Ã­gy kapott nagyobb szÃ³rÃ¡s miatt kivÃ¡lÃ³ rÃ¶vid hatÃ³tÃ¡vÃº tÃ¶megoszlatÃ¡s cÃ©ljÃ¡ra. Min ER: 4.}
+{38600}{}{Fa testÃ¡polÃ³}
+{38601}{}{Ezzel a tipikus, kemÃ©nyfÃ¡bÃ³l kÃ©szÃ¼lt, amerikai baseball Ã¼tÅ‘vel bÃ¡rmit alaposan tÃ¶nkre lehet verni. Min ER: 4.}
 {38700}{}{M-60}
 {38701}{}{This relatively light machine gun was prized by militaries around the world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support. Min ST: 7.}
-{38800}{}{Tûvetõ pisztoly}
-{38801}{}{Az a gyanúd, hogy ezt a Bringham tûvetõ pisztolyt valamikor tudományos célokra használhatták. Kis méretû, kemény mûanyagból készült fecskendõ-lövedékeket használ. Min ER: 3.}
-{38900}{}{Avenger gépágyú}
-{38901}{}{A Rockwell a CZ53 személyi gépágyú lecserélésére fejlesztette ki az Avengert. Új, javított gélhûtést kapott, csöveit pedig krómmal vonták be, így messzebb hord és még halálosabb. Min ER: 7.}
-{39000}{}{Napenergiás pörkölõ}
+{38800}{}{TÅ±vetÅ‘ pisztoly}
+{38801}{}{Az a gyanÃºd, hogy ezt a Bringham tÅ±vetÅ‘ pisztolyt valamikor tudomÃ¡nyos cÃ©lokra hasznÃ¡lhattÃ¡k. Kis mÃ©retÅ±, kemÃ©ny mÅ±anyagbÃ³l kÃ©szÃ¼lt fecskendÅ‘-lÃ¶vedÃ©keket hasznÃ¡l. Min ER: 3.}
+{38900}{}{Avenger gÃ©pÃ¡gyÃº}
+{38901}{}{A Rockwell a CZ53 szemÃ©lyi gÃ©pÃ¡gyÃº lecserÃ©lÃ©sÃ©re fejlesztette ki az Avengert. Ãšj, javÃ­tott gÃ©lhÅ±tÃ©st kapott, csÃ¶veit pedig krÃ³mmal vontÃ¡k be, Ã­gy messzebb hord Ã©s mÃ©g halÃ¡losabb. Min ER: 7.}
+{39000}{}{NapenergiÃ¡s pÃ¶rkÃ¶lÅ‘}
 {39001}{}{Without the sun's rays to charge this weapon's capacitors this gun can't light a match. However, in full daylight, the experimental photo-electric cells that power the Scorcher allow it to turn almost anything into a crispy critter. Min ST: 3.}
 {39100}{}{H&K G11E}
-{39101}{}{Ez a fegyver forradalmasította a rohampuskák kialakítását. Speciális hajtóanyaggal ellátott hüvelynélküli töltényeket lõ ki. Az emiatt létrejött súly és helymegtakarítás nagyobb tár használatát tette lehetõvé. Min ER: 6.}
+{39101}{}{Ez a fegyver forradalmasÃ­totta a rohampuskÃ¡k kialakÃ­tÃ¡sÃ¡t. SpeciÃ¡lis hajtÃ³anyaggal ellÃ¡tott hÃ¼velynÃ©lkÃ¼li tÃ¶ltÃ©nyeket lÅ‘ ki. Az emiatt lÃ©trejÃ¶tt sÃºly Ã©s helymegtakarÃ­tÃ¡s nagyobb tÃ¡r hasznÃ¡latÃ¡t tette lehetÅ‘vÃ©. Min ER: 6.}
 {39200}{}{M72 Gauss-puska}
-{39201}{}{Az M72-es német gyártmány. Elektromágneses mezõvel gyorsítja hatalmas sebességre a lövedékeket, melyek így bármilyen páncélt átütnek. Hasonló hatótávolsága, pontossága és stophatása még egyetlen fegyvernek sem volt. Min ER: 6.}
-{39300}{}{Fézer}
+{39201}{}{Az M72-es nÃ©met gyÃ¡rtmÃ¡ny. ElektromÃ¡gneses mezÅ‘vel gyorsÃ­tja hatalmas sebessÃ©gre a lÃ¶vedÃ©keket, melyek Ã­gy bÃ¡rmilyen pÃ¡ncÃ©lt Ã¡tÃ¼tnek. HasonlÃ³ hatÃ³tÃ¡volsÃ¡ga, pontossÃ¡ga Ã©s stophatÃ¡sa mÃ©g egyetlen fegyvernek sem volt. Min ER: 6.}
+{39300}{}{FÃ©zer}
 {39301}{}{This mysterious high tech weapon appears to have some sort of energy generator inside. If it wasn't damaged, this gun could be the ultimate weapon against any enemy. The backup energy module consists of replaceable small energy cell. Min ST: 3.}
 {39400}{}{PPK12 Gauss-pisztoly}
-{39401}{}{Hatótávolságáért és stophatásáért dicsért, német gyártmányú fegyver. Elektromágneses mezõvel gyorsítja hatalmas sebességre a lövedékeket, melyek így bármilyen páncélt átütnek. Min ER: 4.}
-{39500}{}{Vindicator gépágyú}
-{39501}{}{A német Rheinmetal AG mûvek megteremtette a gépágyúk netovábbját. A Vindicator percenként 90000 golyót képes kilõni a hat darab szén-polimer csövén keresztül. Ez a fegyver nem más, mint a német fegyvergyártás csúcsa, a "végsõ kézifegyver". Min ER:7}
+{39401}{}{HatÃ³tÃ¡volsÃ¡gÃ¡Ã©rt Ã©s stophatÃ¡sÃ¡Ã©rt dicsÃ©rt, nÃ©met gyÃ¡rtmÃ¡nyÃº fegyver. ElektromÃ¡gneses mezÅ‘vel gyorsÃ­tja hatalmas sebessÃ©gre a lÃ¶vedÃ©keket, melyek Ã­gy bÃ¡rmilyen pÃ¡ncÃ©lt Ã¡tÃ¼tnek. Min ER: 4.}
+{39500}{}{Vindicator gÃ©pÃ¡gyÃº}
+{39501}{}{A nÃ©met Rheinmetal AG mÅ±vek megteremtette a gÃ©pÃ¡gyÃºk netovÃ¡bbjÃ¡t. A Vindicator percenkÃ©nt 90000 golyÃ³t kÃ©pes kilÅ‘ni a hat darab szÃ©n-polimer csÃ¶vÃ©n keresztÃ¼l. Ez a fegyver nem mÃ¡s, mint a nÃ©met fegyvergyÃ¡rtÃ¡s csÃºcsa, a "vÃ©gsÅ‘ kÃ©zifegyver". Min ER:7}
 {39600}{}{YK32 impulzuspisztoly}
-{39601}{}{Az YK32 egy elektromos impulzusfegyver a Yuma Flats Energy Consortiumtól. Habár rombolóereje nagy, gazdaságtalan energia-használata és elnagyolt kidolgozása miatt nem túl praktikus. Min ER: 3.}
+{39601}{}{Az YK32 egy elektromos impulzusfegyver a Yuma Flats Energy ConsortiumtÃ³l. HabÃ¡r rombolÃ³ereje nagy, gazdasÃ¡gtalan energia-hasznÃ¡lata Ã©s elnagyolt kidolgozÃ¡sa miatt nem tÃºl praktikus. Min ER: 3.}
 {39700}{}{YK42B impulzuspuska}
-{39701}{}{Az YK42B egy elektromos impulzusfegyver a Yuma Flats Energy Consortiumtól. Sokkal használhatóbb a YK32 pisztolynál, mivel nagyobb a kapacitása és a hatótávolsága. Min ER: 3.}
-{39800}{}{,44 Magnum (Gyorstöltõ)}
-{39801}{}{Egy ,44-es Magnum Revolver gyorstöltõvel ellátva. Min ER: 5.}
-{39900}{}{Szuper ösztöke}
-{39901}{}{"A farmer legjobb barátja." Wattz Electronics gyártmány. Ezt a változatot megberhelték, hogy nagyobb elektromos kisülésre legyen képes. Min ER: 4.}
-{40000}{}{Fejlesztett lángszóró}
+{39701}{}{Az YK42B egy elektromos impulzusfegyver a Yuma Flats Energy ConsortiumtÃ³l. Sokkal hasznÃ¡lhatÃ³bb a YK32 pisztolynÃ¡l, mivel nagyobb a kapacitÃ¡sa Ã©s a hatÃ³tÃ¡volsÃ¡ga. Min ER: 3.}
+{39800}{}{,44 Magnum (GyorstÃ¶ltÅ‘)}
+{39801}{}{Egy ,44-es Magnum Revolver gyorstÃ¶ltÅ‘vel ellÃ¡tva. Min ER: 5.}
+{39900}{}{Szuper Ã¶sztÃ¶ke}
+{39901}{}{"A farmer legjobb barÃ¡tja." Wattz Electronics gyÃ¡rtmÃ¡ny. Ezt a vÃ¡ltozatot megberheltÃ©k, hogy nagyobb elektromos kisÃ¼lÃ©sre legyen kÃ©pes. Min ER: 4.}
+{40000}{}{Fejlesztett lÃ¡ngszÃ³rÃ³}
 {40001}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. This model has been modified to fire a hotter mixture which causes greater combustibility. Min ST: 6.}
-{40100}{}{Lézerpuska (Bõv. kap.)}
-{40101}{}{Ennek a Wattz 2000 lézerpuskának átalakították a töltõszerkezetét, és egy energia-visszaforgató chippel látták el, mely 50%-kal csökkenti a mikro-fúziós cellákból felvett energiaszükségletet. Min ER: 6.}
-{40200}{}{Magneto-lézer pisztoly}
-{40201}{}{Ezt a Wattz 1000 lézerpisztolyt mágneses célzórendszerrel szerelték fel, mely koncentráltabb sugár kibocsátását teszi lehetõvé, ami így könnyebben áthatol a páncélon. Min ER: 3.}
-{40300}{}{FN FAL (Éjjellátó)}
-{40301}{}{Az FN FAL minden idõk egyik legelterjedtebb lõfegyvere a fegyveres testületek körében. Megbízható rohamfegyver bármilyen terepre és taktikai helyzetre. Ezt a példányt éjjellátó készülékkel szerelték fel, hogy a találatok sötétben is pontosak legyenek. Min ER: 5.}
-{40400}{}{Desert Eagle (Bõv. kap.)}
-{40401}{}{Egy õsi .44-es Desert Eagle magnum. A késõ XX. századi filmek tették minden idõk egyik legnépszerûbb maroklõfegyverévé. Ez a pisztoly bõvített tárral van ellátva, hogy tovább tartson a móka! Min ER: 4.}
-{40500}{}{Rohampuska (Bõv. kap.)}
-{40501}{}{Ennek a rohampuskának bõvített, katonai méretû tára van. Ez mókásabbá teszi a "szórd és ródd" játékokat. Min ER: 5.}
-{40600}{}{Plazmapisztoly (Bõv. kap.)}
-{40601}{}{Ennek a Glock 86-os plazmapisztolynak átépítették a mágneses kamráját, hogy kevesebb energiát fogyasszon. Így kétszer olyan sokáig bírják benne a kis energiacellák. Min ER: 4.}
-{40700}{}{Mega erõkesztyû}
-{40701}{}{Egy "Nagy Zúzó" becenevû erõkesztyû a BeatCo. mûvektõl. Az egyik legjobb fegyvernek tartják az ökölharcban. Senki nem szeret szembetalálkozni vele. Ennek a példánynak a szervóit kicsit felturbózták, hogy nagyobb erõt lehessen kifejteni vele. Kis energiacellák mûködtetik. Min ER: 1.}
-{40800}{}{Szakorvosi elsõsegély csomag}
-{40801}{}{Egy kis készlet, mely a legalapvetõbb orvosi eszközöket tartalmazza: kötszer, fásli, fertõtlenítõ folyadék, stb.}
-{40900}{}{Mentõorvosi táska}
+{40100}{}{LÃ©zerpuska (BÅ‘v. kap.)}
+{40101}{}{Ennek a Wattz 2000 lÃ©zerpuskÃ¡nak Ã¡talakÃ­tottÃ¡k a tÃ¶ltÅ‘szerkezetÃ©t, Ã©s egy energia-visszaforgatÃ³ chippel lÃ¡ttÃ¡k el, mely 50%-kal csÃ¶kkenti a mikro-fÃºziÃ³s cellÃ¡kbÃ³l felvett energiaszÃ¼ksÃ©gletet. Min ER: 6.}
+{40200}{}{Magneto-lÃ©zer pisztoly}
+{40201}{}{Ezt a Wattz 1000 lÃ©zerpisztolyt mÃ¡gneses cÃ©lzÃ³rendszerrel szereltÃ©k fel, mely koncentrÃ¡ltabb sugÃ¡r kibocsÃ¡tÃ¡sÃ¡t teszi lehetÅ‘vÃ©, ami Ã­gy kÃ¶nnyebben Ã¡thatol a pÃ¡ncÃ©lon. Min ER: 3.}
+{40300}{}{FN FAL (Ã‰jjellÃ¡tÃ³)}
+{40301}{}{Az FN FAL minden idÅ‘k egyik legelterjedtebb lÅ‘fegyvere a fegyveres testÃ¼letek kÃ¶rÃ©ben. MegbÃ­zhatÃ³ rohamfegyver bÃ¡rmilyen terepre Ã©s taktikai helyzetre. Ezt a pÃ©ldÃ¡nyt Ã©jjellÃ¡tÃ³ kÃ©szÃ¼lÃ©kkel szereltÃ©k fel, hogy a talÃ¡latok sÃ¶tÃ©tben is pontosak legyenek. Min ER: 5.}
+{40400}{}{Desert Eagle (BÅ‘v. kap.)}
+{40401}{}{Egy Å‘si .44-es Desert Eagle magnum. A kÃ©sÅ‘ XX. szÃ¡zadi filmek tettÃ©k minden idÅ‘k egyik legnÃ©pszerÅ±bb maroklÅ‘fegyverÃ©vÃ©. Ez a pisztoly bÅ‘vÃ­tett tÃ¡rral van ellÃ¡tva, hogy tovÃ¡bb tartson a mÃ³ka! Min ER: 4.}
+{40500}{}{Rohampuska (BÅ‘v. kap.)}
+{40501}{}{Ennek a rohampuskÃ¡nak bÅ‘vÃ­tett, katonai mÃ©retÅ± tÃ¡ra van. Ez mÃ³kÃ¡sabbÃ¡ teszi a "szÃ³rd Ã©s rÃ³dd" jÃ¡tÃ©kokat. Min ER: 5.}
+{40600}{}{Plazmapisztoly (BÅ‘v. kap.)}
+{40601}{}{Ennek a Glock 86-os plazmapisztolynak Ã¡tÃ©pÃ­tettÃ©k a mÃ¡gneses kamrÃ¡jÃ¡t, hogy kevesebb energiÃ¡t fogyasszon. Ãgy kÃ©tszer olyan sokÃ¡ig bÃ­rjÃ¡k benne a kis energiacellÃ¡k. Min ER: 4.}
+{40700}{}{Mega erÅ‘kesztyÅ±}
+{40701}{}{Egy "Nagy ZÃºzÃ³" becenevÅ± erÅ‘kesztyÅ± a BeatCo. mÅ±vektÅ‘l. Az egyik legjobb fegyvernek tartjÃ¡k az Ã¶kÃ¶lharcban. Senki nem szeret szembetalÃ¡lkozni vele. Ennek a pÃ©ldÃ¡nynak a szervÃ³it kicsit felturbÃ³ztÃ¡k, hogy nagyobb erÅ‘t lehessen kifejteni vele. Kis energiacellÃ¡k mÅ±kÃ¶dtetik. Min ER: 1.}
+{40800}{}{Szakorvosi elsÅ‘segÃ©ly csomag}
+{40801}{}{Egy kis kÃ©szlet, mely a legalapvetÅ‘bb orvosi eszkÃ¶zÃ¶ket tartalmazza: kÃ¶tszer, fÃ¡sli, fertÅ‘tlenÃ­tÅ‘ folyadÃ©k, stb.}
+{40900}{}{MentÅ‘orvosi tÃ¡ska}
 {40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
-{41000}{}{Bõvített tolvajkulcs készlet}
-{41001}{}{Egy készlet, mely minden fontos eszközt tartalmaz egyszerûbb zárak kinyitásához, beleértve különbözõ fogókat és feszítõket. Ez a készlet tartalmaz néhány speciális szerszámot is, bonyolultabb zárakhoz.}
-{41100}{}{Elektromos Zárnyitó II}
-{41101}{}{A Wattz Electronics Micromanipulator FingerStuff típusú elektromos zárnyitó második generációja. Elektromos zárak és biztonsági rendszerek feltörésére tervezték. Továbbfejlesztett szoftverrel és új csatlakozókkal rendelkezik.}
+{41000}{}{BÅ‘vÃ­tett tolvajkulcs kÃ©szlet}
+{41001}{}{Egy kÃ©szlet, mely minden fontos eszkÃ¶zt tartalmaz egyszerÅ±bb zÃ¡rak kinyitÃ¡sÃ¡hoz, beleÃ©rtve kÃ¼lÃ¶nbÃ¶zÅ‘ fogÃ³kat Ã©s feszÃ­tÅ‘ket. Ez a kÃ©szlet tartalmaz nÃ©hÃ¡ny speciÃ¡lis szerszÃ¡mot is, bonyolultabb zÃ¡rakhoz.}
+{41100}{}{Elektromos ZÃ¡rnyitÃ³ II}
+{41101}{}{A Wattz Electronics Micromanipulator FingerStuff tÃ­pusÃº elektromos zÃ¡rnyitÃ³ mÃ¡sodik generÃ¡ciÃ³ja. Elektromos zÃ¡rak Ã©s biztonsÃ¡gi rendszerek feltÃ¶rÃ©sÃ©re terveztÃ©k. TovÃ¡bbfejlesztett szoftverrel Ã©s Ãºj csatlakozÃ³kkal rendelkezik.}
 {41200}{}{Olajoskanna}
-{41201}{}{Egy kannányi Armor-Go. Ûrkorszaki polimerfolyadék erõpáncélok "olajozására".}
-{41300}{}{Istálló azonosító jelvény}
-{41301}{}{Ideiglenes azonosító jelvény. Piros csík látható rajta, mely azt jelzi, hogy te egy "Istállóbeli kutató" vagy.}
-{41400}{}{15-ös Menedék kulcs}
-{41401}{}{Egy szabványos kulcs.}
-{41500}{}{Szemüveg}
-{41501}{}{Szemüveg, mely a látás javítására szolgál.}
-{41600}{}{Üres Jet-adagoló}
-{41601}{}{Ezt az üres Jet-adagolót Richard Wright szobájában találtad. Még mindig van pár csepp Jet benne.}
-{41700}{}{Oxigénpalack}
-{41701}{}{Ez az oxigénpalack Salvatore légzõrendszerének fontos része.}
-{41800}{}{Méreggel teli palack}
-{41801}{}{Ez a palack kísértetiesen hasonlít egy oxigénpalackra, azonban egy kis koponya virít az alján két keresztbe tett lábszárcsonttal. Ha nem nézed meg alaposan, fel sem tûnik az embléma.}
-{41900}{}{Bánya alkatrészek}
-{41901}{}{Pár alkatrészt látsz, rajtuk pedig a következõ címkét: "GX-9 Légtisztító". Pengeéles logikád segítségével arra következtetsz, hogy valószínûleg a tönkrement légtisztítóba valók.}
-{42000}{}{Morningstar fizetési jegy}
-{42001}{}{Ez a kis cetli valószínûleg a Morningstar bányászainak kifizetésére szolgálhat.}
-{42100}{}{Szent kézigránát}
-{42101}{}{Az isteni hatalom szent ereklyéje.}
-{42200}{}{Exkavátor chip}
-{42201}{}{Ez a chip valószínûleg egy nagy ipari gépezet része. Eltekintve a piszoktól és a portól, jó állapotban van.}
-{42300}{}{Aranyrög}
-{42301}{}{Egy kis méretû aranyrög.}
-{42400}{}{Kõdarab az emlékmûbõl}
-{42401}{}{Ez a kõ abból a zsémbes kõszoborból való, melyet a sivatagban találtál. Annak ellenére, hogy bármelyik falu szent ereklyeként tisztelné, neked van egy olyan érzésed, hogy bizony jól átejtettek.}
-{42500}{}{Kõfej}
-{42501}{}{Egy hatalmas kõ emlékmû.}
-{42600}{}{Uránérc}
-{42601}{}{Egy darab finomítatlan uránérc.}
-{42700}{}{Tûzlehellet}
-{42800}{}{Orvosi segédeszközök}
-{42801}{}{Rendszerezett orvosi segédeszközök. Nem nagyon tudok velük mit kezdeni.}
+{41201}{}{Egy kannÃ¡nyi Armor-Go. Å°rkorszaki polimerfolyadÃ©k erÅ‘pÃ¡ncÃ©lok "olajozÃ¡sÃ¡ra".}
+{41300}{}{IstÃ¡llÃ³ azonosÃ­tÃ³ jelvÃ©ny}
+{41301}{}{Ideiglenes azonosÃ­tÃ³ jelvÃ©ny. Piros csÃ­k lÃ¡thatÃ³ rajta, mely azt jelzi, hogy te egy "IstÃ¡llÃ³beli kutatÃ³" vagy.}
+{41400}{}{15-Ã¶s MenedÃ©k kulcs}
+{41401}{}{Egy szabvÃ¡nyos kulcs.}
+{41500}{}{SzemÃ¼veg}
+{41501}{}{SzemÃ¼veg, mely a lÃ¡tÃ¡s javÃ­tÃ¡sÃ¡ra szolgÃ¡l.}
+{41600}{}{Ãœres Jet-adagolÃ³}
+{41601}{}{Ezt az Ã¼res Jet-adagolÃ³t Richard Wright szobÃ¡jÃ¡ban talÃ¡ltad. MÃ©g mindig van pÃ¡r csepp Jet benne.}
+{41700}{}{OxigÃ©npalack}
+{41701}{}{Ez az oxigÃ©npalack Salvatore lÃ©gzÅ‘rendszerÃ©nek fontos rÃ©sze.}
+{41800}{}{MÃ©reggel teli palack}
+{41801}{}{Ez a palack kÃ­sÃ©rtetiesen hasonlÃ­t egy oxigÃ©npalackra, azonban egy kis koponya virÃ­t az aljÃ¡n kÃ©t keresztbe tett lÃ¡bszÃ¡rcsonttal. Ha nem nÃ©zed meg alaposan, fel sem tÅ±nik az emblÃ©ma.}
+{41900}{}{BÃ¡nya alkatrÃ©szek}
+{41901}{}{PÃ¡r alkatrÃ©szt lÃ¡tsz, rajtuk pedig a kÃ¶vetkezÅ‘ cÃ­mkÃ©t: "GX-9 LÃ©gtisztÃ­tÃ³". PengeÃ©les logikÃ¡d segÃ­tsÃ©gÃ©vel arra kÃ¶vetkeztetsz, hogy valÃ³szÃ­nÅ±leg a tÃ¶nkrement lÃ©gtisztÃ­tÃ³ba valÃ³k.}
+{42000}{}{Morningstar fizetÃ©si jegy}
+{42001}{}{Ez a kis cetli valÃ³szÃ­nÅ±leg a Morningstar bÃ¡nyÃ¡szainak kifizetÃ©sÃ©re szolgÃ¡lhat.}
+{42100}{}{Szent kÃ©zigrÃ¡nÃ¡t}
+{42101}{}{Az isteni hatalom szent ereklyÃ©je.}
+{42200}{}{ExkavÃ¡tor chip}
+{42201}{}{Ez a chip valÃ³szÃ­nÅ±leg egy nagy ipari gÃ©pezet rÃ©sze. Eltekintve a piszoktÃ³l Ã©s a portÃ³l, jÃ³ Ã¡llapotban van.}
+{42300}{}{AranyrÃ¶g}
+{42301}{}{Egy kis mÃ©retÅ± aranyrÃ¶g.}
+{42400}{}{KÅ‘darab az emlÃ©kmÅ±bÅ‘l}
+{42401}{}{Ez a kÅ‘ abbÃ³l a zsÃ©mbes kÅ‘szoborbÃ³l valÃ³, melyet a sivatagban talÃ¡ltÃ¡l. Annak ellenÃ©re, hogy bÃ¡rmelyik falu szent ereklyekÃ©nt tisztelnÃ©, neked van egy olyan Ã©rzÃ©sed, hogy bizony jÃ³l Ã¡tejtettek.}
+{42500}{}{KÅ‘fej}
+{42501}{}{Egy hatalmas kÅ‘ emlÃ©kmÅ±.}
+{42600}{}{UrÃ¡nÃ©rc}
+{42601}{}{Egy darab finomÃ­tatlan urÃ¡nÃ©rc.}
+{42700}{}{TÅ±zlehellet}
+{42800}{}{Orvosi segÃ©deszkÃ¶zÃ¶k}
+{42801}{}{Rendszerezett orvosi segÃ©deszkÃ¶zÃ¶k. Nem nagyon tudok velÃ¼k mit kezdeni.}
 {42900}{}{Aranyfog}
 {42901}{}{This gold tooth used to belong to someone else, but they won't be needing it anymore.}
-{43000}{}{Tarack lövedék}
-{43001}{}{Egy 75 mm-es tarack lövedék. A hüvely elrozsdásodott, de ezt még le tudod olvasni róla: Szavatosság ideje: 98. 09. 25.}
+{43000}{}{Tarack lÃ¶vedÃ©k}
+{43001}{}{Egy 75 mm-es tarack lÃ¶vedÃ©k. A hÃ¼vely elrozsdÃ¡sodott, de ezt mÃ©g le tudod olvasni rÃ³la: SzavatossÃ¡g ideje: 98. 09. 25.}
 {43100}{}{Ramirez doboza}
-{43101}{}{Ezt a dobozt Nagy Jesus Mordinótól kaptad, hogy add át Ramireznek az Istállóban.}
+{43101}{}{Ezt a dobozt Nagy Jesus MordinÃ³tÃ³l kaptad, hogy add Ã¡t Ramireznek az IstÃ¡llÃ³ban.}
 {43200}{}{Ramirez nyitott doboza}
-{43201}{}{Ezt a dobozt Nagy Jesus Mordinótól kaptad, hogy add át Ramireznek az Istállóban. Kinyitottad, és kivetted belõle a Jetet.}
-{43300}{}{Napszemüveg}
-{43301}{}{Egy dögös és divatos napszemüveg. A felszerelésed közt tartva rögtön menõbbnek érzed magad.}
-{43400}{}{Utánfutó}
-{43401}{}{Egy karaván utánfutója. Nem tévesztendõ össze a sajttal, bár ezt is sajtolták.}
-{43500}{}{Utánfutó}
-{43501}{}{Egy karaván utánfutója. Nem tévesztendõ össze a sajttal, bár ezt is sajtolták.}
-{43600}{}{Kártyapakli}
-{43601}{}{Egy pakli mezei franciakártya.}
-{43700}{}{Cinkelt kártyapakli}
-{43701}{}{Ebben a pakliban minden kártya piros dáma. Biztos ezt is valami unalmas játékhoz készítették.}
+{43201}{}{Ezt a dobozt Nagy Jesus MordinÃ³tÃ³l kaptad, hogy add Ã¡t Ramireznek az IstÃ¡llÃ³ban. Kinyitottad, Ã©s kivetted belÅ‘le a Jetet.}
+{43300}{}{NapszemÃ¼veg}
+{43301}{}{Egy dÃ¶gÃ¶s Ã©s divatos napszemÃ¼veg. A felszerelÃ©sed kÃ¶zt tartva rÃ¶gtÃ¶n menÅ‘bbnek Ã©rzed magad.}
+{43400}{}{UtÃ¡nfutÃ³}
+{43401}{}{Egy karavÃ¡n utÃ¡nfutÃ³ja, melyet egy rÃ©gi autÃ³ roncsaibÃ³l tÃ¡koltak Ã¶ssze.}
+{43500}{}{UtÃ¡nfutÃ³}
+{43501}{}{Egy karavÃ¡n utÃ¡nfutÃ³ja, melyet egy rÃ©gi autÃ³ roncsaibÃ³l tÃ¡koltak Ã¶ssze.}
+{43600}{}{KÃ¡rtyapakli}
+{43601}{}{Egy pakli mezei franciakÃ¡rtya.}
+{43700}{}{Cinkelt kÃ¡rtyapakli}
+{43701}{}{Ebben a pakliban minden kÃ¡rtya piros dÃ¡ma. Biztos ezt is valami unalmas jÃ¡tÃ©khoz kÃ©szÃ­tettÃ©k.}
 {43800}{}{Templom kulcs}
-{43801}{}{Az arroyói templom kulcsa.}
+{43801}{}{Az arroyÃ³i templom kulcsa.}
 {43900}{}{Zsebpiszok}
-{43901}{}{Egy kis zsebpiszok, melyet egy zsebben találtál.}
+{43901}{}{Egy kis zsebpiszok, melyet egy zsebben talÃ¡ltÃ¡l.}
 {44000}{}{Biomed Gel}
-{44001}{}{Egy doboz bio gél, melyet a biogyógyászat területén alkalmaznak.}
-{44100}{}{Szöszi dögcédulája}
-{44101}{}{Egy dögcédula, melyrõl a tulajdonos nevét levakarták, s most a "Szöszi" név olvasható rajta. Alatta egy szám látható: "11".}
-{44200}{}{Angyalszem dögcédulája}
-{44201}{}{A dögcédulán az "Angyalszem" név olvasható, alatta pedig egy szám: "16".}
-{44300}{}{Tuco dögcédulája}
-{44301}{}{Ezen a bûzlõ dögcédulán a "Tuco Benedicto Pacifico Juan Maria Ramirez" név olvasható, melyet a "27"-es szám követ.}
-{44400}{}{A Fosztogatók térképe}
-{44401}{}{Egy gyûrött, háború elõtti Észak-Kalifornia térkép. Renót és a környezõ karavánutakat piros színnel jelölték, Renótól messze keletre pedig egy piros "X"-et rajzoltak, mely alatt a "Fosztogatók" szó olvasható.}
-{44500}{}{Seriff jelvény}
-{44501}{}{Egy jelvény, melyet a város seriffje hord.}
-{44600}{}{Gépmadár tervek}
-{44601}{}{Gépmadarak építéséhez elengedhetetlen tervek.}
+{44001}{}{Egy doboz bio gÃ©l, melyet a biogyÃ³gyÃ¡szat terÃ¼letÃ©n alkalmaznak.}
+{44100}{}{SzÃ¶szi dÃ¶gcÃ©dulÃ¡ja}
+{44101}{}{Egy dÃ¶gcÃ©dula, melyrÅ‘l a tulajdonos nevÃ©t levakartÃ¡k, s most a "SzÃ¶szi" nÃ©v olvashatÃ³ rajta. Alatta egy szÃ¡m lÃ¡thatÃ³: "11".}
+{44200}{}{Angyalszem dÃ¶gcÃ©dulÃ¡ja}
+{44201}{}{A dÃ¶gcÃ©dulÃ¡n az "Angyalszem" nÃ©v olvashatÃ³, alatta pedig egy szÃ¡m: "16".}
+{44300}{}{Tuco dÃ¶gcÃ©dulÃ¡ja}
+{44301}{}{Ezen a bÅ±zlÅ‘ dÃ¶gcÃ©dulÃ¡n a "Tuco Benedicto Pacifico Juan Maria Ramirez" nÃ©v olvashatÃ³, melyet a "27"-es szÃ¡m kÃ¶vet.}
+{44400}{}{A FosztogatÃ³k tÃ©rkÃ©pe}
+{44401}{}{Egy gyÅ±rÃ¶tt, hÃ¡borÃº elÅ‘tti Ã‰szak-Kalifornia tÃ©rkÃ©p. RenÃ³t Ã©s a kÃ¶rnyezÅ‘ karavÃ¡nutakat piros szÃ­nnel jelÃ¶ltÃ©k, RenÃ³tÃ³l messze keletre pedig egy piros "X"-et rajzoltak, mely alatt a "FosztogatÃ³k" szÃ³ olvashatÃ³.}
+{44500}{}{Seriff jelvÃ©ny}
+{44501}{}{Egy jelvÃ©ny, melyet a vÃ¡ros seriffje hord.}
+{44600}{}{GÃ©pmadÃ¡r tervek}
+{44601}{}{GÃ©pmadarak Ã©pÃ­tÃ©sÃ©hez elengedhetetlen tervek.}
 {44700}{}{Bishop hololemeze}
-{44701}{}{A hololemez információkat tartalmaz Bishop és az ÚKK titkos ügyleteirõl. Bishop zsoldosokat fogadott fel, hogy támadják meg Menedékvárost remélve, hogy Menedékváros az ÚKK-tól kér majd katonai segítséget. A lemez csak hanganyagot tartalmaz. Menedékváros vezetõségét biztos érdekelné.}
-{44800}{}{Számlakönyv}
-{44801}{}{Ez a számlakönyv a Bishop család azon havi kiadásait jegyzi, melyeket zsoldosoknak fizetett ki. Az összeg annak függvényében változik, hogy mekkora nyomás alatt tartják Menedékvárost. A menedékvárosiakat bizonyára érdekelné ez a könyv.}
+{44701}{}{A hololemez informÃ¡ciÃ³kat tartalmaz Bishop Ã©s az ÃšKK titkos Ã¼gyleteirÅ‘l. Bishop zsoldosokat fogadott fel, hogy tÃ¡madjÃ¡k meg MenedÃ©kvÃ¡rost remÃ©lve, hogy MenedÃ©kvÃ¡ros az ÃšKK-tÃ³l kÃ©r majd katonai segÃ­tsÃ©get. A lemez csak hanganyagot tartalmaz. MenedÃ©kvÃ¡ros vezetÅ‘sÃ©gÃ©t biztos Ã©rdekelnÃ©.}
+{44800}{}{SzÃ¡mlakÃ¶nyv}
+{44801}{}{Ez a szÃ¡mlakÃ¶nyv a Bishop csalÃ¡d azon havi kiadÃ¡sait jegyzi, melyeket zsoldosoknak fizetett ki. Az Ã¶sszeg annak fÃ¼ggvÃ©nyÃ©ben vÃ¡ltozik, hogy mekkora nyomÃ¡s alatt tartjÃ¡k MenedÃ©kvÃ¡rost. A menedÃ©kvÃ¡rosiakat bizonyÃ¡ra Ã©rdekelnÃ© ez a kÃ¶nyv.}
 {44900}{}{Unused}
 {44901}{}{Unused}
-{45000}{}{Papírfecni 1}
-{45001}{}{A papíron kódok olvashatók, de mindegyiknek csak egy része. Meg kellene találnod mindhárom papírdarabot. Ez olvasható rajta: 1. Fizika jelszó KSLJ, 2. Kémia jelszó TIU, 3. Biológia jelszó INTL.}
-{45100}{}{Papírfecni 2}
-{45101}{}{A papíron kódok olvashatók, de mindegyiknek csak egy része. Meg kellene találnod mindhárom papírdarabot. Ez olvasható rajta: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
-{45200}{}{Papírfecni 3}
-{45201}{}{A papíron kódok olvashatók, de mindegyiknek csak egy része. Meg kellene találnod mindhárom papírdarabot. Ez olvasható rajta: 7313, hi-S12908, 98790}
-{45300}{}{Jelszavas cédula}
-{45301}{}{Három papírdarabból áll, melyeket összeállítva három jelszó olvasható. A szöveg: 1. Fizika jelszó KSLJKJ: Ken-Lee-97313, 2. Kémia jelszó TIUASPO- Lo-Shi-S12908, 3. Biológia jelszó INTLVR- Dnky-Pnch-98790}
-{45400}{}{Bomba kapcsoló}
+{45000}{}{PapÃ­rfecni 1}
+{45001}{}{A papÃ­ron kÃ³dok olvashatÃ³k, de mindegyiknek csak egy rÃ©sze. Meg kellene talÃ¡lnod mindhÃ¡rom papÃ­rdarabot. Ez olvashatÃ³ rajta: 1. Fizika jelszÃ³ KSLJ, 2. KÃ©mia jelszÃ³ TIU, 3. BiolÃ³gia jelszÃ³ INTL.}
+{45100}{}{PapÃ­rfecni 2}
+{45101}{}{A papÃ­ron kÃ³dok olvashatÃ³k, de mindegyiknek csak egy rÃ©sze. Meg kellene talÃ¡lnod mindhÃ¡rom papÃ­rdarabot. Ez olvashatÃ³ rajta: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
+{45200}{}{PapÃ­rfecni 3}
+{45201}{}{A papÃ­ron kÃ³dok olvashatÃ³k, de mindegyiknek csak egy rÃ©sze. Meg kellene talÃ¡lnod mindhÃ¡rom papÃ­rdarabot. Ez olvashatÃ³ rajta: 7313, hi-S12908, 98790}
+{45300}{}{Jelszavas papÃ­r}
+{45301}{}{HÃ¡rom papÃ­rdarabbÃ³l Ã¡ll, melyeket Ã¶sszeÃ¡llÃ­tva hÃ¡rom jelszÃ³ olvashatÃ³. A szÃ¶veg: 1. Fizika jelszÃ³ KSLJKJ: Ken-Lee-97313, 2. KÃ©mia jelszÃ³ TIUASPO- Lo-Shi-S12908, 3. BiolÃ³gia jelszÃ³ INTLVR- Dnky-Pnch-98790}
+{45400}{}{Bomba kapcsolÃ³}
 {45401}{}{This toggle switch is the final component of an explosive device.}
-{45500}{}{Csomagtartó}
-{45501}{}{A csomagtartó kiváló hely arra, hogy a dolgaidat tárold benne.}
+{45500}{}{CsomagtartÃ³}
+{45501}{}{A csomagtartÃ³ kivÃ¡lÃ³ hely arra, hogy a dolgaidat tÃ¡rold benne.}
 {45600}{}{Cella kulcs}
-{45601}{}{Egy Broken Hills-i cella ajtajába illik.}
-{45700}{}{Hubologista jelentés}
-{45701}{}{Irodai jelentés a tagoknak, kiket az Igaz Hit vezérel.}
+{45601}{}{Egy Broken Hills-i cella ajtajÃ¡ba illik.}
+{45700}{}{Hubologista jelentÃ©s}
+{45701}{}{Irodai jelentÃ©s a tagoknak, kiket az Igaz Hit vezÃ©rel.}
 {45800}{}{K.B. hololemez 5}
-{45801}{}{A címkén ez áll: Üzenet a központ számára - bizalmas.}
+{45801}{}{A cÃ­mkÃ©n ez Ã¡ll: Ãœzenet a kÃ¶zpont szÃ¡mÃ¡ra - bizalmas.}
 {45900}{}{K.b. hololemez 1}
 {45901}{}{The label reads: Radio transmission log checkpoint 1.}
 {46000}{}{K.b. hololemez 2}
-{46001}{}{A címkén ez áll: Rádiózási napló, 2-es ellenõrzõ pont.}
+{46001}{}{A cÃ­mkÃ©n ez Ã¡ll: RÃ¡diÃ³zÃ¡si naplÃ³, 2-es ellenÅ‘rzÅ‘ pont.}
 {46100}{}{K.b. hololemez 3}
-{46101}{}{A címkén ez áll: Rádiózási napló, 3-as ellenõrzõ pont.}
+{46101}{}{A cÃ­mkÃ©n ez Ã¡ll: RÃ¡diÃ³zÃ¡si naplÃ³, 3-as ellenÅ‘rzÅ‘ pont.}
 {46200}{}{K.b. hololemez 4}
-{46201}{}{A címkén ez áll: Rádiózási napló, Kutatócsoport.}
-{46300}{}{Evakuációs hololemez}
-{46301}{}{A címkén ez áll: A bázis evakuációs jelentése.}
-{46400}{}{Kutatási hololemez}
-{46401}{}{A címkén ez áll: Kutatási napló.}
+{46201}{}{A cÃ­mkÃ©n ez Ã¡ll: RÃ¡diÃ³zÃ¡si naplÃ³, KutatÃ³csoport.}
+{46300}{}{EvakuÃ¡ciÃ³s hololemez}
+{46301}{}{A cÃ­mkÃ©n ez Ã¡ll: A bÃ¡zis evakuÃ¡ciÃ³s jelentÃ©se.}
+{46400}{}{KutatÃ¡si hololemez}
+{46401}{}{A cÃ­mkÃ©n ez Ã¡ll: KutatÃ¡si naplÃ³.}
 {46500}{}{Orvosi hololemez}
-{46501}{}{A címkén ez áll: Orvosi napló.}
-{46600}{}{Jelszavas cédula}
-{46601}{}{Egy papírdarab, melyen a "CSAJKOVSZKIJ" szó olvasható.}
-{46700}{}{Jesse tárolóedénye}
+{46501}{}{A cÃ­mkÃ©n ez Ã¡ll: Orvosi naplÃ³.}
+{46600}{}{Jelszavas papÃ­r}
+{46601}{}{Egy papÃ­rdarab, melyen a "CSAJKOVSZKIJ" szÃ³ olvashatÃ³.}
+{46700}{}{Jesse tÃ¡rolÃ³edÃ©nye}
 {46701}{}{}
-{46800}{}{Smitty ebédje}
-{46801}{}{Valamiféle saláta és egy szendvics, melyben meglátásod szerint brahminhús van sötétsárga szósszal leöntve. A tányér szélén látsz még egy furcsa zöldséget is.}
+{46800}{}{Smitty ebÃ©dje}
+{46801}{}{ValamifÃ©le salÃ¡ta Ã©s egy szendvics, melyben meglÃ¡tÃ¡sod szerint brahminhÃºs van sÃ¶tÃ©tsÃ¡rga szÃ³sszal leÃ¶ntve. A tÃ¡nyÃ©r szÃ©lÃ©n lÃ¡tsz mÃ©g egy furcsa zÃ¶ldsÃ©get is.}
 {46900}{}{Rot Gut}
-{46901}{}{Ez egy igen erõs likõr vagy tisztítószer. Nem tudod eldönteni.}
-{47000}{}{Szájpecek}
-{47001}{}{Egy igen kétes szexuális segédeszköz. Ha nem tudod mi ez, akkor ne is akard tudni!}
-{47100}{}{A Levendula virága}
-{47101}{}{Egy romantikus novella, melyet Dorothy Rixon írt. A borítón egy nõ fekszik, sok száz virág között.}
+{46901}{}{Ez egy igen erÅ‘s likÅ‘r vagy tisztÃ­tÃ³szer. Nem tudod eldÃ¶nteni.}
+{47000}{}{SzÃ¡jpecek}
+{47001}{}{Egy igen kÃ©tes szexuÃ¡lis segÃ©deszkÃ¶z. Ha nem tudod mi ez, akkor ne is akard tudni!}
+{47100}{}{A Levendula virÃ¡ga}
+{47101}{}{Egy romantikus novella, melyet Dorothy Rixon Ã­rt. A borÃ­tÃ³n egy nÅ‘ fekszik, sok szÃ¡z virÃ¡g kÃ¶zÃ¶tt.}
 {47200}{}{Hubologista hololemez}
 {47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
-{47300}{}{Mutálódott lábujj}
-{47301}{}{A hatodik lábujjadat látod. Önmagad egyik kicsiny, mutáns része. Amikor rápillantasz, furcsamód hiányérzeted támad.}
-{47400}{}{Petúnia}
-{47401}{}{Egy virágcserép mely egy petúniának ad otthont. Hát nem szép?}
+{47300}{}{MutÃ¡lÃ³dott lÃ¡bujj}
+{47301}{}{A hatodik lÃ¡bujjadat lÃ¡tod. Ã–nmagad egyik kicsiny, mutÃ¡ns rÃ©sze. Amikor rÃ¡pillantasz, furcsamÃ³d hiÃ¡nyÃ©rzeted tÃ¡mad.}
+{47400}{}{PetÃºnia}
+{47401}{}{Egy virÃ¡gcserÃ©p mely egy petÃºniÃ¡nak ad otthont. HÃ¡t nem szÃ©p?}
 {47500}{}{Unused}
 {47501}{}{Unused}
-{47600}{}{A Megvilágosodott levele}
-{47601}{}{Egy BHK-9-nek címzett levél San Franciscóba. Nagyon száraz olvasmány: táblázatok anyagi kiadásokról és rendezésekrõl, és még sok egyébrõl, melyekre kár lenne az idõt pazarolnod.}
-{47700}{}{Hírközlési hololemez}
-{47701}{}{A címkén ez áll: "Galaxis Hírhálózat"}
+{47600}{}{A MegvilÃ¡gosodott levele}
+{47601}{}{Egy BHK-9-nek cÃ­mzett levÃ©l San FranciscÃ³ba. Nagyon szÃ¡raz olvasmÃ¡ny: tÃ¡blÃ¡zatok anyagi kiadÃ¡sokrÃ³l Ã©s rendezÃ©sekrÅ‘l, Ã©s mÃ©g sok egyÃ©brÅ‘l, melyekre kÃ¡r lenne az idÅ‘t pazarolnod.}
+{47700}{}{HÃ­rkÃ¶zlÃ©si hololemez}
+{47701}{}{A cÃ­mkÃ©n ez Ã¡ll: "Galaxis HÃ­rhÃ¡lÃ³zat"}
 {47800}{}{Sierra feladat hololemez}
-{47801}{}{A címkén ez áll: "Feladat meghatározás."}
-{47900}{}{NavKom alkatrészek}
+{47801}{}{A cÃ­mkÃ©n ez Ã¡ll: "Feladat meghatÃ¡rozÃ¡s."}
+{47900}{}{NavKom alkatrÃ©szek}
 {47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
-{48000}{}{Bónusz +1 Ügyesség}
-{48100}{}{Bónusz +1 Intelligencia}
-{48200}{}{Bónusz +1 Erõ}
-{48300}{}{Fallout 2 tippkönyv}
-{48301}{}{Hát, EZT a könyvet jó lett volna még az istenverte játék elején megtalálni!}
-{48400}{}{A füled}
-{48401}{}{Ez a te különbejáratú füled. A "Húsdaráló" harapta le, és köpte ájult testedre. Ha ezt olvasod, valószínûleg hamarosan fel fogsz épülni. Elképzelhetõ, hogy ez a tárgy különös értékkel bír.}
-{48500}{}{A Húsdaráló füle}
-{48501}{}{Ez a Húsdaráló füle. Leharaptad, miután össze-vissza verted a fickót. Gratulálok a gyõzelemhez! Az egyik legnehezebb NJK a játékban, különösen ha nincs nálad se fegyver, se páncél.}
-{48600}{}{Finomított uránérc}
-{48601}{}{Ez egy darab uránérc. Valamilyen változtatáson ment keresztül, s most nehezebbnek tûnik.}
-{48700}{}{Francis üzenete}
-{48701}{}{"Zaius! Marcus nem csinál semmit azzal a mutánsgyûlölõ Jacobbal és a többi mocskos összeesküvõvel. Elõször tönkretették a légtisztítót... mi lesz a következõ lépés? Megtaláltam a titkos találkozóhelyüket az alagútrendszerben. Azt hiszem pár holttest odalent befeketítheti Jacobot. Ha egyetértesz, szólj! És égesd el ezt a rohadt üzenetet, ne úgy mint a múltkor!" - Aláírás, Francis.}
-{48800}{}{K-9 motivátor}
-{48801}{}{Egy K-9-es gyártmányú robot mozgatóegysége.}
-{48900}{}{Különleges bokszoló fegyver}
-{49000}{}{ÚKK Történeti hololemeze}
-{49001}{}{A címkén ez áll: "Az ÚKK története".}
+{48000}{}{BÃ³nusz +1 ÃœgyessÃ©g}
+{48100}{}{BÃ³nusz +1 Intelligencia}
+{48200}{}{BÃ³nusz +1 ErÅ‘}
+{48300}{}{Fallout 2 tippkÃ¶nyv}
+{48301}{}{HÃ¡t, EZT a kÃ¶nyvet jÃ³ lett volna mÃ©g az istenverte jÃ¡tÃ©k elejÃ©n megtalÃ¡lni!}
+{48400}{}{A fÃ¼led}
+{48401}{}{Ez a te kÃ¼lÃ¶nbejÃ¡ratÃº fÃ¼led. A "HÃºsdarÃ¡lÃ³" harapta le, Ã©s kÃ¶pte Ã¡jult testedre. Ha ezt olvasod, valÃ³szÃ­nÅ±leg hamarosan fel fogsz Ã©pÃ¼lni. ElkÃ©pzelhetÅ‘, hogy ez a tÃ¡rgy kÃ¼lÃ¶nÃ¶s Ã©rtÃ©kkel bÃ­r.}
+{48500}{}{A HÃºsdarÃ¡lÃ³ fÃ¼le}
+{48501}{}{Ez a HÃºsdarÃ¡lÃ³ fÃ¼le. Leharaptad, miutÃ¡n Ã¶ssze-vissza verted a fickÃ³t. GratulÃ¡lok a gyÅ‘zelemhez! Az egyik legnehezebb NJK a jÃ¡tÃ©kban, kÃ¼lÃ¶nÃ¶sen ha nincs nÃ¡lad se fegyver, se pÃ¡ncÃ©l.}
+{48600}{}{FinomÃ­tott urÃ¡nÃ©rc}
+{48601}{}{Ez egy darab urÃ¡nÃ©rc. Valamilyen vÃ¡ltoztatÃ¡son ment keresztÃ¼l, s most nehezebbnek tÅ±nik.}
+{48700}{}{Francis Ã¼zenete}
+{48701}{}{"Zaius! Marcus nem csinÃ¡l semmit azzal a mutÃ¡nsgyÅ±lÃ¶lÅ‘ Jacobbal Ã©s a tÃ¶bbi mocskos Ã¶sszeeskÃ¼vÅ‘vel. ElÅ‘szÃ¶r tÃ¶nkretettÃ©k a lÃ©gtisztÃ­tÃ³t... mi lesz a kÃ¶vetkezÅ‘ lÃ©pÃ©s? MegtalÃ¡ltam a titkos talÃ¡lkozÃ³helyÃ¼ket az alagÃºtrendszerben. Azt hiszem pÃ¡r holttest odalent befeketÃ­theti Jacobot. Ha egyetÃ©rtesz, szÃ³lj! Ã‰s Ã©gesd el ezt a rohadt Ã¼zenetet, ne Ãºgy mint a mÃºltkor!" - AlÃ¡Ã­rÃ¡s, Francis.}
+{48800}{}{K-9 motivÃ¡tor}
+{48801}{}{Egy K-9-es gyÃ¡rtmÃ¡nyÃº robot mozgatÃ³egysÃ©ge.}
+{48900}{}{KÃ¼lÃ¶nleges bokszolÃ³ fegyver}
+{49000}{}{ÃšKK TÃ¶rtÃ©neti hololemeze}
+{49001}{}{A cÃ­mkÃ©n ez Ã¡ll: "Az ÃšKK tÃ¶rtÃ©nete".}
 {49100}{}{Mr. Nixon baba}
-{49101}{}{Egy babát látsz, nagy piros orral. Valamiért nem bízol ebben az ártatlan kinézetû gyerekjátékban.}
-{49200}{}{Tankhajó FBK}
-{49201}{}{Fedélzeti biztonsági kártya, mely a fokozottan védett területekre enged bebocsátást.}
-{49300}{}{Tanítások hololemez}
-{49301}{}{A címkén ez áll: "Hubologista tanok".}
-{49400}{}{Kokoweef bánya fizetési jegy}
-{49401}{}{Ez a kis cetli valószínûleg a Kokoweef bánya munkásainak bérkifizetésére szolgál.}
-{49500}{}{Elnöki kulcskártya}
-{49501}{}{Ezen a kódkártyán az elnöki pecsét látható. Valószínûleg elnöki szintû hozzáférést biztosít bizonyos számítógépekhez.}
-{49600}{}{Bokszkesztyû}
-{49601}{}{Egy pár bokszkesztyû, melyen gyenge izzadtságszag érzõdik. Látszik, hogy sokat használták, mivel régi vérfoltok borítják.}
-{49700}{}{Fémbetétes bokszkesztyû}
-{49701}{}{Valaki "véletlenül" pár fémlemezt csúsztatott ezekbe a kesztyûkbe. Technikailag ez csalásnak minõsül, de te szívesebben gondolsz rá úgy, mint a csonttörõ erejû ütések esélynövelõ eszközére.}
-{49800}{}{Kettõs plazmaágyú}
-{49801}{}{Csak az ágyúval rendelkezõk használják.}
-{49900}{}{PipBoy nyelvi kiegészítõ}
-{49901}{}{Ez a PipBoy nyelvi kiegészítõ egy háttértároló hololemezt tartalmaz, valamint egy fejre tehetõ berendezést, melynek optikai szenzora a használó jobb szemére kerül. Használatakor egy teljes szótár kerül a felhasználó memóriájába, eképp fejlesztve a beszédkészséget.}
+{49101}{}{Egy babÃ¡t lÃ¡tsz, nagy piros orral. ValamiÃ©rt nem bÃ­zol ebben az Ã¡rtatlan kinÃ©zetÅ± gyerekjÃ¡tÃ©kban.}
+{49200}{}{TankhajÃ³ FBK}
+{49201}{}{FedÃ©lzeti biztonsÃ¡gi kÃ¡rtya, mely a fokozottan vÃ©dett terÃ¼letekre enged bebocsÃ¡tÃ¡st.}
+{49300}{}{TanÃ­tÃ¡sok hololemez}
+{49301}{}{A cÃ­mkÃ©n ez Ã¡ll: "Hubologista tanok".}
+{49400}{}{Kokoweef bÃ¡nya fizetÃ©si jegy}
+{49401}{}{Ez a kis cetli valÃ³szÃ­nÅ±leg a Kokoweef bÃ¡nya munkÃ¡sainak bÃ©rkifizetÃ©sÃ©re szolgÃ¡l.}
+{49500}{}{ElnÃ¶ki kulcskÃ¡rtya}
+{49501}{}{Ezen a kÃ³dkÃ¡rtyÃ¡n az elnÃ¶ki pecsÃ©t lÃ¡thatÃ³. ValÃ³szÃ­nÅ±leg elnÃ¶ki szintÅ± hozzÃ¡fÃ©rÃ©st biztosÃ­t bizonyos szÃ¡mÃ­tÃ³gÃ©pekhez.}
+{49600}{}{BokszkesztyÅ±}
+{49601}{}{Egy pÃ¡r bokszkesztyÅ±, melybÅ‘l erÅ‘s izzadtsÃ¡gszag Ã¡rad. Sokat hasznÃ¡lhattÃ¡k, mivel mÃ©g mindig lÃ¡tszanak rajta a rÃ¡szÃ¡radt vÃ©rfoltok.}
+{49700}{}{FÃ©mbetÃ©tes bokszkesztyÅ±}
+{49701}{}{Valaki "egÃ©szen vÃ©letlenÃ¼l" pÃ¡r fÃ©mlemezt "rejtett" ezekbe a kesztyÅ±kbe. Ez csalÃ¡snak minÅ‘sÃ¼l, szerinted viszont nem tÃ¶bb, mint egy eszkÃ¶z, amivel megnÃ¶velheted a mÃ¡r amÃºgy is csonttÃ¶rÅ‘ hatÃ¡sÃº Ã¼tÃ©seid erejÃ©t.}
+{49800}{}{KettÅ‘s plazmaÃ¡gyÃº}
+{49801}{}{Csak az Ã¡gyÃºval rendelkezÅ‘k hasznÃ¡ljÃ¡k.}
+{49900}{}{PipBoy nyelvi kiegÃ©szÃ­tÅ‘}
+{49901}{}{Ez a PipBoy nyelvi kiegÃ©szÃ­tÅ‘ egy hÃ¡ttÃ©rtÃ¡rolÃ³ hololemezt tartalmaz, valamint egy fejre tehetÅ‘ berendezÃ©st, melynek optikai szenzora a hasznÃ¡lÃ³ jobb szemÃ©re kerÃ¼l. HasznÃ¡latakor egy teljes szÃ³tÃ¡r kerÃ¼l a felhasznÃ¡lÃ³ memÃ³riÃ¡jÃ¡ba, ekÃ©pp fejlesztve a beszÃ©dkÃ©szsÃ©get.}
 {50000}{}{FN FAL HPFA}
 {50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA is more powerful than the standard FN FAL. Min ST: 5.}
-{50100}{}{Fali széf}
-{50200}{}{Padló széf}
-{50300}{}{Kék memóriamodul}
-{50301}{}{Ez egy orvosi információkat tartalmazó, írásvédett számítógépes modul. Ez a példány a karizma fejlesztését részletezi.}
-{50400}{}{Zöld memóriamodul}
-{50401}{}{Ez egy orvosi információkat tartalmazó, írásvédett számítógépes modul. Ez a példány az érzékelés fejlesztését részletezi.}
-{50500}{}{Piros memóriamodul}
-{50501}{}{Ez egy orvosi információkat tartalmazó, írásvédett számítógépes modul. Ez a példány az erõ fejlesztését részletezi.}
-{50600}{}{Sárga memóriamodul}
-{50601}{}{Ez egy orvosi információkat tartalmazó, írásvédett számítógépes modul. Ez a példány az intelligencia fejlesztését részletezi.}
-{50700}{}{Oszlásnak indult tetem}
-{50701}{}{Ez a bomló tetem egy emberé.}
-{50800}{}{Guminõ}
-{50801}{}{Egy felfújható guminõ. Ezt a modellt "Tandi"-nak hívják.}
-{50900}{}{Sérült guminõ}
-{50901}{}{Ez a felfújható gumibaba kiszakadt. Biztos sokat használták.}
-{51000}{}{Biliárdasztal}
-{51100}{}{Biliárdasztal}
+{50100}{}{Fali szÃ©f}
+{50200}{}{PadlÃ³ szÃ©f}
+{50300}{}{KÃ©k memÃ³riamodul}
+{50301}{}{Ez egy orvosi informÃ¡ciÃ³kat tartalmazÃ³, Ã­rÃ¡svÃ©dett szÃ¡mÃ­tÃ³gÃ©pes modul. Ez a pÃ©ldÃ¡ny a karizma fejlesztÃ©sÃ©t rÃ©szletezi.}
+{50400}{}{ZÃ¶ld memÃ³riamodul}
+{50401}{}{Ez egy orvosi informÃ¡ciÃ³kat tartalmazÃ³, Ã­rÃ¡svÃ©dett szÃ¡mÃ­tÃ³gÃ©pes modul. Ez a pÃ©ldÃ¡ny az Ã©rzÃ©kelÃ©s fejlesztÃ©sÃ©t rÃ©szletezi.}
+{50500}{}{Piros memÃ³riamodul}
+{50501}{}{Ez egy orvosi informÃ¡ciÃ³kat tartalmazÃ³, Ã­rÃ¡svÃ©dett szÃ¡mÃ­tÃ³gÃ©pes modul. Ez a pÃ©ldÃ¡ny az erÅ‘ fejlesztÃ©sÃ©t rÃ©szletezi.}
+{50600}{}{SÃ¡rga memÃ³riamodul}
+{50601}{}{Ez egy orvosi informÃ¡ciÃ³kat tartalmazÃ³, Ã­rÃ¡svÃ©dett szÃ¡mÃ­tÃ³gÃ©pes modul. Ez a pÃ©ldÃ¡ny az intelligencia fejlesztÃ©sÃ©t rÃ©szletezi.}
+{50700}{}{OszlÃ¡snak indult tetem}
+{50701}{}{Ez a bomlÃ³ tetem egy emberÃ©.}
+{50800}{}{GuminÅ‘}
+{50801}{}{Egy felfÃºjhatÃ³ guminÅ‘. Ezt a modellt "Tandi"-nak hÃ­vjÃ¡k.}
+{50900}{}{SÃ©rÃ¼lt guminÅ‘}
+{50901}{}{Ez a felfÃºjhatÃ³ gumibaba kiszakadt. Biztos sokat hasznÃ¡ltÃ¡k.}
+{51000}{}{BiliÃ¡rdasztal}
+{51100}{}{BiliÃ¡rdasztal}
 {51101}{}{}
-{51200}{}{Biliárdasztal}
-{51300}{}{Biliárdasztal}
-{51400}{}{Biliárdasztal}
-{51500}{}{Biliárdasztal}
-{51600}{}{PipBoy orvosi kiegészítõ}
-{51601}{}{Ez a PipBoy orvosi kiegészítõ egy háttértároló hololemezt tartalmaz, valamint egy fejre tehetõ berendezést, melynek optikai szenzora a használó jobb szemére kerül. Használatakor egy teljes fizikai, és orvosi szótár kerül a felhasználó memóriájába. Ezzel tartósan fejleszti az orvosi képzettséget.}
+{51200}{}{BiliÃ¡rdasztal}
+{51300}{}{BiliÃ¡rdasztal}
+{51400}{}{BiliÃ¡rdasztal}
+{51500}{}{BiliÃ¡rdasztal}
+{51600}{}{PipBoy orvosi kiegÃ©szÃ­tÅ‘}
+{51601}{}{Ez a PipBoy orvosi kiegÃ©szÃ­tÅ‘ egy hÃ¡ttÃ©rtÃ¡rolÃ³ hololemezt tartalmaz, valamint egy fejre tehetÅ‘ berendezÃ©st, melynek optikai szenzora a hasznÃ¡lÃ³ jobb szemÃ©re kerÃ¼l. HasznÃ¡latakor egy teljes fizikai, Ã©s orvosi szÃ³tÃ¡r kerÃ¼l a felhasznÃ¡lÃ³ memÃ³riÃ¡jÃ¡ba. Ezzel tartÃ³san fejleszti az orvosi kÃ©pzettsÃ©get.}
 {51700}{}{"Kis Jesus"}
-{51701}{}{Ez a kés valaha Kis Jesus Mordinóé volt. Felületén rengeteg karcolás és csorba látható, de a pengéje éles, mint a borotva. Markolatába bele van vésve a "Kis Jesus" név.}
-{51800}{}{Iker gépágyú}
-{51801}{}{Az auto-ágyú használja.}
-{51900}{}{Söröskupakok}
-{51901}{}{Értéktelen kupakok. Úgy hallottad, valaha pénzként használták, de gyanús neked, hogy ez csak mese.}
-{52000}{}{Nehéz ikerágyú}
-{52001}{}{Az auto-ágyú használja.}
-{52100}{}{Adománygyûjtõ persely}
-{52101}{}{Egy kis doboz, melyben pénzt gyûjtenek a szegények számára.}
+{51701}{}{Ez a kÃ©s valaha Kis Jesus MordinÃ³Ã© volt. FelÃ¼letÃ©n rengeteg karcolÃ¡s Ã©s csorba lÃ¡thatÃ³, de a pengÃ©je Ã©les, mint a borotva. MarkolatÃ¡ba bele van vÃ©sve a "Kis Jesus" nÃ©v.}
+{51800}{}{Iker gÃ©pÃ¡gyÃº}
+{51801}{}{Az auto-Ã¡gyÃº hasznÃ¡lja.}
+{51900}{}{SÃ¶rÃ¶skupakok}
+{51901}{}{Ã‰rtÃ©ktelen kupakok. Ãšgy hallottad, valaha pÃ©nzkÃ©nt hasznÃ¡ltÃ¡k, de gyanÃºs neked, hogy ez csak mese.}
+{52000}{}{NehÃ©z ikerÃ¡gyÃº}
+{52001}{}{Az auto-Ã¡gyÃº hasznÃ¡lja.}
+{52100}{}{AdomÃ¡nygyÅ±jtÅ‘ persely}
+{52101}{}{Egy kis doboz, melyben pÃ©nzt gyÅ±jtenek a szegÃ©nyek szÃ¡mÃ¡ra.}
 {52200}{}{Vakizasi}
-{52201}{}{Egy kis méretû, gondosan megmunkált rövidkard. A hegyét szemlátomást páncél átütésére tervezték.}
-{52300}{}{Térkép}
-{52301}{}{Ez az öböl környékének földrajzi térképe.}
-{52400}{}{A Hídõrzõ köpenye}
-{52401}{}{Ez a büdös, koszos ruha bizonyára speciális anyagból készült, tekintve, hogy ellenállt a hídõrzõ ocsmány testének. Plazma-, és különbözõ égésnyomok láthatók rajta, de úgy tûnik, nem igazán használtak ellene. Gõzöd sincs, hogy miért lila a színe.}
-{52500}{}{Fecskendõ}
-{52501}{}{Valamiféle nagyon hi-tech kinézetû orvosi injekció. Nem tudod, mivel van tele, de úgy látszik, már csak egy adag maradt benne.}
-{52600}{}{Halott vörösinges}
-{52601}{}{Ezen a fickón furcsa piros egyenruha látható. Valószínûleg kiszáradásban halt meg.}
-{52700}{}{Halott vörösinges}
-{52701}{}{Ezen a fickón furcsa piros egyenruha látható. Valószínûleg kiszáradásban halt meg.}
-{52800}{}{Halott vörösinges}
-{52801}{}{Ezen a fickón furcsa piros egyenruha látható. Valószínûleg kiszáradásban halt meg.}
-{52900}{}{Bányagép}
-{53000}{}{Fõellenség Kése}
-{53100}{}{Fõellenség Plazma fegyvere}
+{52201}{}{Egy kis mÃ©retÅ±, gondosan megmunkÃ¡lt rÃ¶vidkard. A hegyÃ©t szemlÃ¡tomÃ¡st pÃ¡ncÃ©l Ã¡tÃ¼tÃ©sÃ©re terveztÃ©k.}
+{52300}{}{TÃ©rkÃ©p}
+{52301}{}{Ez az Ã¶bÃ¶l kÃ¶rnyÃ©kÃ©nek fÃ¶ldrajzi tÃ©rkÃ©pe.}
+{52400}{}{A HÃ­dÅ‘rzÅ‘ kÃ¶penye}
+{52401}{}{Ez a bÃ¼dÃ¶s, koszos ruha bizonyÃ¡ra speciÃ¡lis anyagbÃ³l kÃ©szÃ¼lt, tekintve, hogy ellenÃ¡llt a hÃ­dÅ‘rzÅ‘ ocsmÃ¡ny testÃ©nek. Plazma-, Ã©s kÃ¼lÃ¶nbÃ¶zÅ‘ Ã©gÃ©snyomok lÃ¡thatÃ³k rajta, de Ãºgy tÅ±nik, nem igazÃ¡n hasznÃ¡ltak ellene. GÅ‘zÃ¶d sincs, hogy miÃ©rt lila a szÃ­ne.}
+{52500}{}{FecskendÅ‘}
+{52501}{}{ValamifÃ©le nagyon hi-tech kinÃ©zetÅ± orvosi injekciÃ³. Nem tudod, mivel van tele, de Ãºgy lÃ¡tszik, mÃ¡r csak egy adag maradt benne.}
+{52600}{}{Halott vÃ¶rÃ¶singes}
+{52601}{}{Ezen a fickÃ³n furcsa piros egyenruha lÃ¡thatÃ³. ValÃ³szÃ­nÅ±leg kiszÃ¡radÃ¡sban halt meg.}
+{52700}{}{Halott vÃ¶rÃ¶singes}
+{52701}{}{Ezen a fickÃ³n furcsa piros egyenruha lÃ¡thatÃ³. ValÃ³szÃ­nÅ±leg kiszÃ¡radÃ¡sban halt meg.}
+{52800}{}{Halott vÃ¶rÃ¶singes}
+{52801}{}{Ezen a fickÃ³n furcsa piros egyenruha lÃ¡thatÃ³. ValÃ³szÃ­nÅ±leg kiszÃ¡radÃ¡sban halt meg.}
+{52900}{}{BÃ¡nyagÃ©p}
+{53000}{}{FÅ‘ellensÃ©g KÃ©se}
+{53100}{}{FÅ‘ellensÃ©g Plazma fegyvere}
 {53200}{}{Sam Pritchard's Map}
 {53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
 {53300}{}{Fire Gecko Pelt}
@@ -1047,7 +1047,7 @@
 {54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
 {54200}{}{Bottle of wine}
 {54201}{}{A fresh bottle of Abbey's finest wine.}
-{54300}{}{Napló}
+{54300}{}{NaplÃ³}
 {54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
 {54400}{}{Botany Holodisk}
 {54401}{}{This information disk categorizes the various plant life that grew before the Great War.}
@@ -1091,7 +1091,7 @@
 {56301}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger.}
 {56400}{}{Trigger switch}
 {56401}{}{Trigger for dynamite.}
-{56500}{}{Papír}
+{56500}{}{PapÃ­r}
 {56501}{}{Paper with a passcode scribbled on it.}
 {56600}{}{Experimental Seeds}
 {56601}{}{Packet of experimental seeds. Result of germination is unknown.}
@@ -1117,17 +1117,17 @@
 {57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
 {57700}{}{Air Processing Vent}
 {57701}{}{The grill on this vent looks different.}
-{57800}{}{Fémszekrény}
-{57801}{}{Szekrény, tárolóegység.}
-{57900}{}{Fémszekrény}
-{57901}{}{Szekrény, tárolóegység.}
+{57800}{}{FÃ©mszekrÃ©ny}
+{57801}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
+{57900}{}{FÃ©mszekrÃ©ny}
+{57901}{}{SzekrÃ©ny, tÃ¡rolÃ³egysÃ©g.}
 {58000}{}{Chinese Code Chart}
 {58001}{}{You're not certain, but it appears to be a chart containing various Chinese command codes. Perhaps if you found a place to input these codes, you could learn a thing or two.}
 {58100}{}{Dead Tribal}
 {58101}{}{This person has died a horrible death on the medical table.}
 {58200}{}{Dead Tribal}
 {58201}{}{This person has died a horrible death on the medical table.}
-{58300}{}{Tüske}
+{58300}{}{TÃ¼ske}
 {58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
 {58400}{}{Dead Vault Dweller}
 {58401}{}{This person has died a horrible death on the medical table.}

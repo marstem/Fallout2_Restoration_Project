@@ -5,12 +5,12 @@
 {201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
  I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
  warped brain of yours.}
-{202}{}{Ki vagy te?}
+{202}{}{Ki vagy?}
 {203}{}{Where can I barter for some supplies?}
 {204}{}{Somebody is digging up graves, why don't you do anything about it?}
 {205}{}{I heard something about animals in the basement. Know anything about that?}
 {206}{}{I think it's time I send you to a grave. Let's dance, old man.}
-{207}{}{Felejtse el. Viszl·t·sra.}
+{207}{}{Felejtse el. Viszl√°t√°sra.}
 {300}{}{Nobody... Just an old retired caravan guard. A lot of people mistake me for some sort of sheriff because I'm
  the closest thing resembling the law in these parts, but I'm not. I just look out for this community because I think
  it's worth protecting.}
@@ -24,11 +24,11 @@
 {400}{}{You can find Bill, our resident trader, in the building across from here. Other than that, you ought to go
  to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City.}
 {401}{}{Good to know. I have another question.}
-{402}{}{Kˆsz, viszl·t!}
+{402}{}{K√∂sz√∂n√∂m, viszl√°t!}
 {500}{}{If someone is poor or greedy enough to try and dig up graves, that's their business. It's not like the dead can
  use what they're buried with anyway. Not my problem... I'm not losing any sleep over it.}
-{501}{}{FeltennÈk mÈg kÈrdÈseket.}
-{502}{}{Viszl·t!}
+{501}{}{Hadd k√©rdezzek valami m√°st!}
+{502}{}{Viszl√°t!}
 {600}{}{Yes, and Brother Thomas is missing. He was a smart man, but a bit foolhardy. I don't know what's down there,
  but I don't think it's just a bunch of rats and radscorpies.}
 {601}{}{Yes, and Brother Thomas is missing. I don't know what's down there, but I don't think it's just a bunch of rats
@@ -39,8 +39,8 @@
  go underground. The walls just close in on me and I have trouble breathing... Maybe you can find out what happened to
  Brother Thomas?}
 {611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
-{612}{}{Viszl·t!}
+{612}{}{Viszl√°t!}
 {613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
-{700}{}{Mit szeretnÈl mÈg tudni?}
+{700}{}{Mit szeretn√©l m√©g tudni?}
 {800}{}{It's good to see you again.}
 {801}{}{I'm keeping my eye on you.}

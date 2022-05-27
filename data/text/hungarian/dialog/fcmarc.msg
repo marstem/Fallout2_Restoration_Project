@@ -1,68 +1,68 @@
-{100}{}{Egy barátságos kinézetû punk.}
-{101}{}{Õ Marc.}
-{102}{}{Egy barátságos kinézetû punk.}
-{103}{}{A mocskos kurva nénikédet, hogy tehetted ezt velünk?}
-{104}{}{Mit tehetek érted, hókuszpók?}
-{105}{}{Mit tehetek érted, hókuszpók?}
-{106}{}{Óóh! Óóh! Aah!}
-{107}{}{Ki vagy te?}
-{108}{}{Mi ez a hely tulajdonképpen?}
-{109}{}{Ki itt a fõnök?}
-{110}{}{Semmit. Viszlát!}
-{111}{}{Hmm. Nem, sajna ebben nem tudok segíteni. Talán próbálkozz másnál!}
+{100}{}{Egy barÃ¡tsÃ¡gos kinÃ©zetÅ± punk.}
+{101}{}{Å Marc.}
+{102}{}{Egy barÃ¡tsÃ¡gos kinÃ©zetÅ± punk.}
+{103}{}{A mocskos kurva nÃ©nikÃ©det, hogy tehetted ezt velÃ¼nk?}
+{104}{}{Mit tehetek Ã©rted, hÃ³kuszpÃ³k?}
+{105}{}{Mit tehetek Ã©rted, hÃ³kuszpÃ³k?}
+{106}{}{Ã“Ã³h! Ã“Ã³h! Aah!}
+{107}{}{Ki vagy?}
+{108}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{109}{}{Ki itt a fÅ‘nÃ¶k?}
+{110}{}{Semmit. ViszlÃ¡t!}
+{111}{}{Hmm. Nem, sajna ebben nem tudok segÃ­teni. TalÃ¡n prÃ³bÃ¡lkozz mÃ¡snÃ¡l!}
 {112}{}{Anks?}
-{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}
-{114}{}{Ó... hadd kérdezzek valamit!}
-{115}{}{Viszlát!}
-{116}{}{Ez itt a Valdez, a Poseidon Olaj Tengerjárója - POT Valdeznek is hívják. Ha többet akarsz tudni a Valdezrõl, kérdezd a kapitányt!}
-{117}{}{Ki a kapitány?}
-{118}{}{Volna még néhány egyéb kérdésem.}
-{119}{}{Viszlát!}
-{120}{}{Hogy ki a fõnök? Nincs itt semmiféle fõnök.}
-{121}{}{Honnan jöttetek?}
-{122}{}{Volna még néhány kérdésem.}
-{123}{}{Viszlát!}
-{124}{}{A kapitány egy harcedzett, kemény legény. Fönt szokott szöszmötölni és idõnként végigjárja az egész hajót. Nagyon sokmindent tud róla.}
-{125}{}{Köszi. Hadd kérdezzek egy s mást!}
-{126}{}{Kösz. Viszlát!}
-{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
+{113}{}{Marc vagyok. A helyi mindenttudÃ³ okostojÃ¡s vagyok.  ::mosolyog hozzÃ¡::}
+{114}{}{Ã“... hadd kÃ©rdezzek valamit!}
+{115}{}{ViszlÃ¡t!}
+{116}{}{Ez itt a Valdez, a Poseidon Olaj TengerjÃ¡rÃ³ja - POT Valdeznek is hÃ­vjÃ¡k. Ha tÃ¶bbet akarsz tudni a ValdezrÅ‘l, kÃ©rdezd a kapitÃ¡nyt!}
+{117}{}{Ki a kapitÃ¡ny?}
+{118}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{119}{}{ViszlÃ¡t!}
+{120}{}{Hogy ki a fÅ‘nÃ¶k? Nincs itt semmifÃ©le fÅ‘nÃ¶k.}
+{121}{}{Honnan jÃ¶ttetek?}
+{122}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{123}{}{ViszlÃ¡t!}
+{124}{}{A kapitÃ¡ny egy harcedzett, kemÃ©ny legÃ©ny. FÃ¶nt szokott szÃ¶szmÃ¶tÃ¶lni Ã©s idÅ‘nkÃ©nt vÃ©gigjÃ¡rja az egÃ©sz hajÃ³t. Nagyon sokmindent tud rÃ³la.}
+{125}{}{KÃ¶szÃ¶nÃ¶m. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{126}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{127}{}{Ã“, hÃ¡t a pusztasÃ¡g minden tÃ¡jÃ©kÃ¡rÃ³l. Hallottuk az Ã¶regeinktÅ‘l, hogy mennek a dolgok San FranciscÃ³ban. NÃ©hÃ¡nyunk Å‘sei itt Ã©ltek a hÃ¡borÃº elÅ‘tt. Akarsz mÃ©g tÃ¶bbet tudni?}
 {128}{}{Igen.}
-{129}{}{Nem, de akartam kérdezni helyette valami mást.}
+{129}{}{Nem, de akartam kÃ©rdezni helyette valami mÃ¡st.}
 {130}{}{Nem, ez minden.}
-{131}{}{Van itt mindenféle népség. Zenészek, mûszakiak, tudósfejek, meg mûvészek. Úgy véltük, jó lesz nekünk egy olyan hely, ami híres a mûvészi és személyes szabadságáról. Le akarok itt telepedni. Mondjam tovább?}
+{131}{}{Van itt mindenfÃ©le nÃ©psÃ©g. ZenÃ©szek, mÅ±szakiak, tudÃ³sfejek, meg mÅ±vÃ©szek. Ãšgy vÃ©ltÃ¼k, jÃ³ lesz nekÃ¼nk egy olyan hely, ami hÃ­res a mÅ±vÃ©szi Ã©s szemÃ©lyes szabadsÃ¡gÃ¡rÃ³l. Le akarok itt telepedni. Mondjam tovÃ¡bb?}
 {132}{}{Igen.}
-{133}{}{Nem, de akartam kérdezni helyette valami mást.}
+{133}{}{Nem, de akartam kÃ©rdezni helyette valami mÃ¡st.}
 {134}{}{Nem, ez minden.}
-{135}{}{Hát, amikor ideköltöztünk, elterveztük, hogy addig maradunk, amíg vagy rájövünk a tankhajó mozgatásának nyitjára vagy ki nem találunk valami más használhatót.}
-{136}{}{Rájöttetek, hogy kell mozgatni a tankert?}
-{137}{}{Mesélj nekem a Hubologistákról!}
-{138}{}{Mesélj nekem a Shikrõl!}
-{139}{}{Volna még néhány egyéb kérdésem.}
-{140}{}{Kösz. Viszlát!}
-{141}{}{Úgy tudom, a kapitány rájött, hogy kell csinálni, de szükség van hozzá egy s másra. Igazság szerint abbahagytuk az ezirányú tevékenységünket, ugyanis más terveink vannak.}
-{142}{}{Mégis mik?}
-{143}{}{Hol találom a Kapitányt?}
-{144}{}{Volna még néhány kérdésem.}
-{145}{}{Viszlát!}
-{146}{}{Bolond mind! Ne bízz bennük, hacsak nem vagy mentálisan gyenge alkat vagy szereted magad kihasználni. Csak a pénzedre és a lelkedre hajtanak és nagy esély van rá, hogy az egyik megsemmisítésével megszerzik a másikat. Túl sok példát láttam magam is.}
-{147}{}{Rájöttetek, hogy kell mozgatni a tankert?}
-{148}{}{Mesélj nekem a Shikrõl!}
-{149}{}{Volna még néhány egyéb kérdésem.}
-{150}{}{Viszlát!}
-{151}{}{Jóféle emberek, amíg nem zargatják õket. Egy kicsit bizalmatlanok a kívülállókkal, de az is igaz, hogy mostanában ez nem annyira rossz hozzáállás. Vannak fura szokásaik, meg érdekeseket mondanak, de amúgy minden rendben velük.}
-{152}{}{Rájöttetek, hogy kell mozgatni a tankert?}
-{153}{}{Mesélj nekem a Hubologistákról!}
-{154}{}{Volna még néhány egyéb kérdésem.}
-{155}{}{Viszlát!}
-{156}{}{Akarod hallani a terveinket? Addig költözünk újabb és újabb helyekre, amíg nem találunk egy megfelelõt. Egy olyat, amit még nem cseszett el teljesen az emberi kapzsiság. Ott majd létrehozunk egy jobb társadalmat.}
-{157}{}{Tudjátok, hogy lehet ezt elérni?}
-{158}{}{Volna még néhány egyéb kérdésem.}
-{159}{}{Kösz. Viszlát!}
+{135}{}{HÃ¡t, amikor idekÃ¶ltÃ¶ztÃ¼nk, elterveztÃ¼k, hogy addig maradunk, amÃ­g vagy rÃ¡jÃ¶vÃ¼nk a tankhajÃ³ mozgatÃ¡sÃ¡nak nyitjÃ¡ra vagy ki nem talÃ¡lunk valami mÃ¡s hasznÃ¡lhatÃ³t.}
+{136}{}{RÃ¡jÃ¶ttetek, hogy kell mozgatni a tankert?}
+{137}{}{MesÃ©lj nekem a HubologistÃ¡krÃ³l!}
+{138}{}{MesÃ©lj nekem a ShikrÅ‘l!}
+{139}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{140}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{141}{}{Ãšgy tudom, a kapitÃ¡ny rÃ¡jÃ¶tt, hogy kell csinÃ¡lni, de szÃ¼ksÃ©g van hozzÃ¡ egy s mÃ¡sra. IgazsÃ¡g szerint abbahagytuk az ezirÃ¡nyÃº tevÃ©kenysÃ©gÃ¼nket, ugyanis mÃ¡s terveink vannak.}
+{142}{}{MÃ©gis mik?}
+{143}{}{Hol talÃ¡lom a kapitÃ¡nyt?}
+{144}{}{Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{145}{}{ViszlÃ¡t!}
+{146}{}{Bolond mind! Ne bÃ­zz bennÃ¼k, hacsak nem vagy mentÃ¡lisan gyenge alkat vagy szereted magad kihasznÃ¡lni. Csak a pÃ©nzedre Ã©s a lelkedre hajtanak Ã©s nagy esÃ©ly van rÃ¡, hogy az egyik megsemmisÃ­tÃ©sÃ©vel megszerzik a mÃ¡sikat. TÃºl sok pÃ©ldÃ¡t lÃ¡ttam magam is.}
+{147}{}{RÃ¡jÃ¶ttetek, hogy kell mozgatni a tankert?}
+{148}{}{MesÃ©lj nekem a ShikrÅ‘l!}
+{149}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{150}{}{ViszlÃ¡t!}
+{151}{}{JÃ³fÃ©le emberek, amÃ­g nem zargatjÃ¡k Å‘ket. Egy kicsit bizalmatlanok a kÃ­vÃ¼lÃ¡llÃ³kkal, de az is igaz, hogy mostanÃ¡ban ez nem annyira rossz hozzÃ¡Ã¡llÃ¡s. Vannak fura szokÃ¡saik, meg Ã©rdekeseket mondanak, de amÃºgy minden rendben velÃ¼k.}
+{152}{}{RÃ¡jÃ¶ttetek, hogy kell mozgatni a tankert?}
+{153}{}{MesÃ©lj nekem a HubologistÃ¡krÃ³l!}
+{154}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{155}{}{ViszlÃ¡t!}
+{156}{}{Akarod hallani a terveinket? Addig kÃ¶ltÃ¶zÃ¼nk Ãºjabb Ã©s Ãºjabb helyekre, amÃ­g nem talÃ¡lunk egy megfelelÅ‘t. Egy olyat, amit mÃ©g nem cseszett el teljesen az emberi kapzsisÃ¡g. Ott majd lÃ©trehozunk egy jobb tÃ¡rsadalmat.}
+{157}{}{TudjÃ¡tok, hogy lehet ezt elÃ©rni?}
+{158}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{159}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
 {160}{}{We're hoping that we can avoid society's mistakes. Hell, things can't get much worse.}
-{161}{}{Rájöttetek, hogy kell mozgatni a tankert?}
-{162}{}{Mesélj nekem a Hubologistákról!}
-{163}{}{Mesélj nekem a Shikrõl!}
-{164}{}{Volna még néhány egyéb kérdésem.}
-{165}{}{Kösz. Viszlát!}
-{166}{}{Láttad errefelé a Borz barátnõjét?}
-{167}{}{Asszem, láttam lemenni a raktérbe. A fedélzet északi felén van egy lejárat.}
+{161}{}{RÃ¡jÃ¶ttetek, hogy kell mozgatni a tankert?}
+{162}{}{MesÃ©lj nekem a HubologistÃ¡krÃ³l!}
+{163}{}{MesÃ©lj nekem a ShikrÅ‘l!}
+{164}{}{Volna mÃ©g nÃ©hÃ¡ny egyÃ©b kÃ©rdÃ©sem.}
+{165}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{166}{}{LÃ¡ttad errefelÃ© a Borz barÃ¡tnÅ‘jÃ©t?}
+{167}{}{Asszem, lÃ¡ttam lemenni a raktÃ©rbe. A fedÃ©lzet Ã©szaki felÃ©n van egy lejÃ¡rat.}

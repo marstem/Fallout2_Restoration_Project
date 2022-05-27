@@ -1,15 +1,15 @@
-{100}{}{Egy újabb õr. Bizonyára tenyésztik õket, mert mindegyik tökugyanúgy néz ki.}
-{101}{}{Ismét egy ellenszenves õr.}
-{102}{}{Közelebbrõl is megszemléled, és meg vagy gyõzõdve róla, hogy ez egy õr.}
-{103}{}{Nincs engedélye itt tartózkodni.}
-{104}{}{Láthatnám a belépõjét?}
-{105}{}{Ez a terület a kormány fennhatósága alatt áll. Menjen tovább!}
+{100}{}{Egy Ãºjabb Å‘r. BizonyÃ¡ra tenyÃ©sztik Å‘ket, mert mindegyik tÃ¶kugyanÃºgy nÃ©z ki.}
+{101}{}{IsmÃ©t egy ellenszenves Å‘r.}
+{102}{}{KÃ¶zelebbrÅ‘l is megszemlÃ©led, Ã©s meg vagy gyÅ‘zÅ‘dve rÃ³la, hogy ez egy Å‘r.}
+{103}{}{Nincs engedÃ©lye itt tartÃ³zkodni.}
+{104}{}{LÃ¡thatnÃ¡m a belÃ©pÅ‘jÃ©t?}
+{105}{}{Ez a terÃ¼let kormÃ¡nyfennhatÃ³sÃ¡g alatt Ã¡ll. Menjen tovÃ¡bb!}
 {106}{}{You're the one Merk talked about? Okay, let him through, boys.}
-{107}{}{Menjetek arrébb fiúk!}
-{108}{}{Oké, tiszta. Nyissátok ki a kaput fiúk!}
+{107}{}{Menjetek arrÃ©bb fiÃºk!}
+{108}{}{OkÃ©, tiszta. NyissÃ¡tok ki a kaput fiÃºk!}
 {109}{}{You're the one Merk talked about? Okay, let her through, boys.}
-{110}{}{Szolgálatban vagyok. Nincs idõm trécselésre.}
-{111}{}{Tetszik a cipõje.}
-{112}{}{Foglalkozzon a maga dolgával!}
+{110}{}{SzolgÃ¡latban vagyok. Nincs idÅ‘m trÃ©cselÃ©sre.}
+{111}{}{Tetszik a cipÅ‘je.}
+{112}{}{Foglalkozzon a maga dolgÃ¡val!}
 {113}{}{There you are, sir. Have a good day.}
 {114}{}{There's been an incident. Move along.}

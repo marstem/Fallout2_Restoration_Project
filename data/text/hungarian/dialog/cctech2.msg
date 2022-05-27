@@ -1,52 +1,52 @@
-{100}{}{Technikus.}
-{101}{}{Számítógép-technikus. }
-{102}{}{Egy fickót látsz laborköpenyben. Nagyon magabiztosnak tûnik.}
+{100}{}{Egy technikust lÃ¡tsz.}
+{101}{}{Egy EnklÃ¡vÃ© technikust lÃ¡tsz. }
+{102}{}{Egy fickÃ³t lÃ¡tsz laborkÃ¶penyben. Nagyon magabiztosnak tÅ±nik.}
 {103}{}{Igen uram?}
-{104}{}{Én lenni új itten. Kérdezni kell néhány dolog.}
-{105}{}{Csak beugrani. Most pedig menni.}
-{106}{}{Helló, új vagyok és szeretnék kiigazodni a bázison. Segít nekem?}
+{104}{}{Ã‰n lenni itt Ãºj. Kell tenni fel nÃ©hÃ¡ny kÃ©rdÃ©s.}
+{105}{}{Csak mondani csÃ¡! Most menni.}
+{106}{}{HellÃ³, Ãºj vagyok Ã©s szeretnÃ©k kiigazodni a bÃ¡zison. KÃ©rdezhetnÃ©k nÃ©hÃ¡ny dolgot?}
 {107}{}{Csak beugrottam. Most megyek.}
-{108}{}{Természetesen, katona.}
-{109}{}{Miben segíthetek?}
+{108}{}{TermÃ©szetesen, katona.}
+{109}{}{Miben lehetek a segÃ­tsÃ©gedre?}
 {110}{}{Mi lenni ez hely?}
-{111}{}{Mi lenni munkád?}
-{112}{}{Hol lenni fõbázis?}
-{113}{}{Keresni gépmadár tervek. Hol lenni?}
-{117}{}{Menni mostan.}
-{118}{}{Mi ez a hely tulajdonképpen?}
-{119}{}{Mit dolgozik itt?}
-{120}{}{Hol található az Enklávé fõ bázisa?}
-{121}{}{Vetnem kéne néhány pillantást a gépmadár tervekre. Hol tartják õket?}
-{125}{}{Semmiben. Mennem kell.}
-{126}{}{Ez az operatív parancsnokság. Innen kezeljük a fõbázis és a kihelyezett megfigyelõpontok közötti kummunikációt. }
-{127}{}{Értem. Kérdezni még.}
-{128}{}{Értem. Van még néhány kérdésem.}
-{129}{}{Elsõ osztályú technikus vagyok, és fõnöki munkakörben dolgozom. Én felelek azért, hogy a többiek ne rontsanak el semmit.}
-{130}{}{Öhm... ja.}
-{131}{}{Jól van, csak így tovább!}
-{132}{}{Katona, ezt az információt mindenkinek tudni kell. Ha mégis meg kell kérdezie, akkor ez nem magára tartozik.}
-{133}{}{Oké.}
-{134}{}{Na, gyerünk, nem vagyok én hülye nomád vagy ilyesmi. Ugyanabban a csapatban játszunk. Látja ezt a jelet a páncélomon?}
-{135}{}{Értem.}
-{136}{}{Igen, uram. A fõbázis a Csendes-óceánon található. Nem bánja, ha megtudakolom, miért kérdi?}
-{137}{}{Katona, mondtam, hogy ezt az információt mindenkinek tudnia kell.}
-{138}{}{Biztonsági okokból ellenõrzöm, hogy a személyzet tagjai tudatában vannak-e fontos információknak. Most pedig mondja el az összes lehetséges odajutási módot, amit ismer!}
-{139}{}{Értem.}
-{140}{}{Igenis, uram! Elõször is, az elsõdleges mód a gépmadarak használata. Ám a kezelésük nehézkessége miatt valószínûtlen, hogy képzetlenek vezetni tudnák õket. A második lehetséges mód a  San Francisco-i öbölben veszteglõ tanker. A hajót hatástalanították, és kódkártya kell az újraindításához, amit a bázisparancsnok tart magánál. A harmadik és egyben utolsó mód az úszás, melynek túlélési esélye a nulla felé konvergál.}
-{141}{}{Köszi.}
-{142}{}{Köszi.}
-{143}{}{A szervizben tárolják õket, a légiirányítók mellett.}
-{144}{}{Oké.}
-{145}{}{Értem.}
-{155}{}{Maga valami nudista, hogy egyenruha nélkül mászkál?}
+{111}{}{Mit dolgozol itt?}
+{112}{}{Hol talÃ¡lom az EnklÃ¡vÃ© fÅ‘bÃ¡zisÃ¡t?}
+{113}{}{Ã‰n keresni gÃ©pmadÃ¡r tervei. Hol talÃ¡lni?}
+{117}{}{Ã‰n most menni el.}
+{118}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{119}{}{Mi a munkÃ¡d itt?}
+{120}{}{Hol talÃ¡lom az EnklÃ¡vÃ© fÅ‘bÃ¡zisÃ¡t?}
+{121}{}{Vetnem kÃ©ne nÃ©hÃ¡ny pillantÃ¡st a gÃ©pmadÃ¡r terveire. Nem tudod, hol tartjÃ¡k Å‘ket?}
+{125}{}{Semmiben. Most mennem kell.}
+{126}{}{Ez az operatÃ­v parancsnoksÃ¡g. Innen kezeljÃ¼k a fÅ‘bÃ¡zis Ã©s a kihelyezett megfigyelÅ‘pontok kÃ¶zÃ¶tti kummunikÃ¡ciÃ³t. }
+{127}{}{Ã‰n Ã©rteni. Ã‰n kÃ©rdezni mÃ©g.}
+{128}{}{OkÃ©. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{129}{}{ElsÅ‘ osztÃ¡lyÃº technikus vagyok, Ã©s fÅ‘nÃ¶ki munkakÃ¶rben dolgozom. Ã‰n felelek azÃ©rt, hogy a tÃ¶bbiek ne rontsanak el semmit.}
+{130}{}{Ã–hm, egen.}
+{131}{}{JÃ³l van. Csak Ã­gy tovÃ¡bb!}
+{132}{}{Katona, ezt az informÃ¡ciÃ³t mindenkinek tudni kell. Ha mÃ©gis meg kell kÃ©rdezie, akkor ez nem magÃ¡ra tartozik.}
+{133}{}{OkÃ©.}
+{134}{}{Na, gyerÃ¼nk, nem vagyok Ã©n hÃ¼lye nomÃ¡d vagy ilyesmi. Ugyanabban a csapatban jÃ¡tszunk. LÃ¡tja ezt a jelet a pÃ¡ncÃ©lomon?}
+{135}{}{Ã‰rtem.}
+{136}{}{Igen, uram. A fÅ‘bÃ¡zis a Csendes-Ã³ceÃ¡non talÃ¡lhatÃ³. Nem bÃ¡nja, ha megtudakolom, miÃ©rt kÃ©rdi?}
+{137}{}{Katona, mondtam, hogy ezt az informÃ¡ciÃ³t mindenkinek tudnia kell.}
+{138}{}{BiztonsÃ¡gi okokbÃ³l ellenÅ‘rzÃ¶m, hogy a szemÃ©lyzet tagjai tudatÃ¡ban vannak-e fontos informÃ¡ciÃ³knak. Most pedig mondja el az Ã¶sszes lehetsÃ©ges odajutÃ¡si mÃ³dot, amit ismer!}
+{139}{}{Ã‰rtem.}
+{140}{}{Igenis, uram! ElÅ‘szÃ¶r is, az elsÅ‘dleges mÃ³d a gÃ©pmadarak hasznÃ¡lata. Ãm a kezelÃ©sÃ¼k nehÃ©zkessÃ©ge miatt valÃ³szÃ­nÅ±tlen, hogy kÃ©pzetlenek vezetni tudnÃ¡k Å‘ket. A mÃ¡sodik lehetsÃ©ges mÃ³d a  San Francisco-i Ã¶bÃ¶lben veszteglÅ‘ tanker. A hajÃ³t hatÃ¡stalanÃ­tottÃ¡k, Ã©s kÃ³dkÃ¡rtya kell az ÃºjraindÃ­tÃ¡sÃ¡hoz, amit a bÃ¡zisparancsnok tart magÃ¡nÃ¡l. A harmadik Ã©s egyben utolsÃ³ mÃ³d az ÃºszÃ¡s, melynek tÃºlÃ©lÃ©si esÃ©lye a nulla felÃ© konvergÃ¡l.}
+{141}{}{KÃ¶sz.}
+{142}{}{KÃ¶sz.}
+{143}{}{A szervizben tÃ¡roljÃ¡k Å‘ket, a lÃ©giirÃ¡nyÃ­tÃ³k mellett.}
+{144}{}{OkÃ©.}
+{145}{}{Fogtam.}
+{155}{}{Valami nudista vagy te, hogy Ã­gy flangÃ¡lsz? Vedd fel az egyenruhÃ¡t!}
 {156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
-{157}{}{Miért nincs magán egyenruha?}
-{158}{}{Szent szar! Megtámadtak bennünket! Riadó!}
-{159}{}{Behatolók! Hívjátok az õrséget!}
-{160}{}{Õrség! Behatolók az operatív parancsnokságon!}
-{161}{}{Mi van? Megtámadtak, vagy mi?}
-{162}{}{Miért van riadó? Mi történik?}
-{163}{}{Mi a szar folyik itt?}
-{164}{}{Én csak egy technikus vagyok, ne bántson!}
-{165}{}{Nem harcolni jöttem, csak továbbképzésre!}
-{166}{}{Ez egy laborköpeny, nem páncél! Már itt sem vagyok!}
+{157}{}{MiÃ©rt nincs magÃ¡n egyenruha?}
+{158}{}{Szent szar! MegtÃ¡madtak bennÃ¼nket!}
+{159}{}{BehatolÃ³k! ÅrsÃ©g!}
+{160}{}{ÅrsÃ©g! BehatolÃ³ az operatÃ­v parancsnoksÃ¡gon!}
+{161}{}{Mi van? MegtÃ¡madtak?}
+{162}{}{MiÃ©rt szÃ³l a szirÃ©na? Mi tÃ¶rtÃ©nt?}
+{163}{}{Mi folyik itt?}
+{164}{}{Ã‰n csak egy technikus vagyok, ne bÃ¡ntson!}
+{165}{}{Nem veszek rÃ©szt harcban, legfeljebb a tovÃ¡bbkÃ©pzÃ©sben!}
+{166}{}{Hogy az a... ez nem pÃ¡ncÃ©l, hanem laborkÃ¶peny. MÃ¡r itt se vagyok.}

@@ -1,49 +1,49 @@
-{100}{}{Ez a bõrruhába öltözött fickó jól el van látva tûzerõvel.}
-{101}{}{Õ Felix, a farm vezetõje.}
-{102}{}{Sokkal flegmább és szívósabb alaknak tûnik, mint az itteniek többsége.}
-{103}{}{Mit tehetek érted, idegen?}
-{104}{}{Már megint maga az?}
+{100}{}{Ez a bÅ‘rruhÃ¡ba Ã¶ltÃ¶zÃ¶tt fickÃ³ jÃ³l el van lÃ¡tva tÅ±zerÅ‘vel.}
+{101}{}{Å Felix, a farm vezetÅ‘je.}
+{102}{}{Sokkal flegmÃ¡bb Ã©s szÃ­vÃ³sabb alaknak tÅ±nik, mint az itteniek tÃ¶bbsÃ©ge.}
+{103}{}{Mit tehetek magÃ¡Ã©rt, idegen?}
+{104}{}{MÃ¡r megint maga az?}
 {105}{}{Nyeh.}
-{106}{}{A seriff mondta, hogy jöjjek ide... azt állította, hogy Mr. Westin talán tud adni munkát nekem.}
-{107}{}{A fõnökkel szeretnék beszélni.}
-{108}{}{Munkát keresek.}
-{109}{}{A 13-as Menedéket keresem.}
-{110}{}{Csak nézelõdök.}
-{111}{}{Remek, egy újabb idióta. Feltételezem, a fõnökkel akarsz beszélni.}
-{112}{}{Aha.}
+{106}{}{A seriff mondta, hogy jÃ¶jjek ide... azt Ã¡llÃ­totta, hogy Mr. Westin talÃ¡n tud adni munkÃ¡t nekem.}
+{107}{}{A fÅ‘nÃ¶kkel szeretnÃ©k beszÃ©lni.}
+{108}{}{MunkÃ¡t keresek.}
+{109}{}{A 13-as MenedÃ©ket keresem.}
+{110}{}{Csak nÃ©zelÅ‘dÃ¶k.}
+{111}{}{Remek, egy Ãºjabb idiÃ³ta. FeltÃ©telezem, a fÅ‘nÃ¶kkel akarsz beszÃ©lni.}
+{112}{}{[BÃ³logatsz].}
 {113}{}{Neeem.}
 {114}{}{Rendben. Menj be!}
-{115}{}{Késõ van. Gyere vissza holnap!}
-{116}{}{Na, akkor tûnj innen!}
-{117}{}{Dumont küldött? Na, ez nekem épp elég. Mr. Westin odabent van.}
-{118}{}{Ez szép. De Mr. Westin nem akar látni senkit. Van valami okod rá?}
-{119}{}{A 13-as Menedéket keresem.}
-{120}{}{Mi van, ha azt mondom, hogy Bishop küldött New Renóból, hogy megöljem õt?}
-{121}{}{Ömm, nem tudom...}
-{122}{}{Heh! Ennek is hiányzik egy kereke. Sóshússal kellene beszélned. Remekül kijönnétek egymással.}
-{123}{}{Ki?}
-{124}{}{Na, én akkor MOST lépek...}
-{125}{}{Sóshús Bob... az istállók mögött megtalálod. Mr. Westin megengedte neki, hogy itt maradjon. Most viszont ne pazarold tovább az idõmet!}
-{126}{}{Óh, kösz.}
-{127}{}{Akkor azt hiszem, meg kell, hogy öljünk.}
-{128}{}{Végeztél a megbeszéléssel?}
+{115}{}{TÃºl kÃ©sÅ‘ van. Gyere vissza reggeltÃ¡jt!}
+{116}{}{Na, akkor tÅ±nj innen!}
+{117}{}{Dumont kÃ¼ldÃ¶tt? Na, ez nekem Ã©pp elÃ©g. Mr. Westin odabent van.}
+{118}{}{Ez szÃ©p. De Mr. Westin nem akar lÃ¡tni senkit. Van valami okod rÃ¡?}
+{119}{}{A 13-as MenedÃ©ket keresem.}
+{120}{}{Mi van, ha azt mondom, hogy Bishop kÃ¼ldÃ¶tt New RenÃ³bÃ³l, hogy megÃ¶ljem Å‘t?}
+{121}{}{Ã–Ã¶, nincs.}
+{122}{}{Heh! Ennek is hiÃ¡nyzik egy kereke. SÃ³shÃºssal kellene beszÃ©lned. RemekÃ¼l kijÃ¶nnÃ©tek egymÃ¡ssal.}
+{123}{}{Kivel?}
+{124}{}{Na, Ã©n akkor MOST lÃ©pek...}
+{125}{}{SÃ³shÃºs Bob... az istÃ¡llÃ³k mÃ¶gÃ¶tt megtalÃ¡lod. Mr. Westin megengedte neki, hogy itt maradjon. Most viszont ne pazarold tovÃ¡bb az idÅ‘met!}
+{126}{}{Ã“h, kÃ¶sz.}
+{127}{}{Akkor azt hiszem, meg kell, hogy Ã¶ljÃ¼nk.}
+{128}{}{VÃ©geztÃ©l a megbeszÃ©lÃ©ssel?}
 {129}{}{Westin. Munka. Nekem.}
-{130}{}{Én menni elfele.}
-{131}{}{Rendben, a fõnök azt akarja, adjak munkát neked, van is egy munkám számodra. Valaki, vagy valami megöli a mú-mú-kat. Te jönni velem. Te õrködni. Megvédeni mú-mú-kat. Fõnök örül. Oké?}
-{132}{}{Oké.}
-{133}{}{Nem. Én nem öl.}
-{134}{}{Visszajöttél? Elvégezted a munkát?}
+{130}{}{Megyek.}
+{131}{}{Rendben, a fÅ‘nÃ¶k azt akarja, adjak munkÃ¡t neked, van is egy munkÃ¡m szÃ¡modra. Valaki, vagy valami megÃ¶li a mÃº-mÃº-kat. Te jÃ¶nni velem. Te Å‘rkÃ¶dni. MegvÃ©deni mÃº-mÃº-kat. FÅ‘nÃ¶k Ã¶rÃ¼l. OkÃ©?}
+{132}{}{OkÃ©.}
+{133}{}{Nem. Ã‰n nem Ã¶l.}
+{134}{}{VisszajÃ¶ttÃ©l? ElvÃ©gezted a munkÃ¡t?}
 {135}{}{Igen.}
 {136}{}{Nem.}
-{137}{}{Aha, hagyott neked utasításokat. Már vár téged.}
-{138}{}{HÉ, TE! Tûnj el onnan!}
-{139}{}{Oké.}
+{137}{}{Aha, hagyott neked utasÃ­tÃ¡sokat. MÃ¡r vÃ¡r tÃ©ged.}
+{138}{}{HÃ‰, TE! TÅ±nj el onnan!}
+{139}{}{OkÃ©.}
 {140}{}{Baszd meg!}
-{141}{}{Igen. Azt mondta, jöjjek hozzád a brahmninokkal felmerült probléma miatt.}
-{142}{}{Igen. Na, én leléptem.}
-{143}{}{Rendben. Valaki, vagy valami rendszeresen dézsmálja a brahminokat a nyugati legelõn. Én kiviszlek oda, te pedig ügyelj ott a dolgokra. Induljunk!}
+{141}{}{Igen. Azt mondta, jÃ¶jjek hozzÃ¡d a brahmninokkal felmerÃ¼lt problÃ©ma miatt.}
+{142}{}{Igen. Na, Ã©n lelÃ©ptem.}
+{143}{}{Rendben. Valaki, vagy valami rendszeresen dÃ©zsmÃ¡lja a brahminokat a nyugati legelÅ‘n. Ã‰n kiviszlek oda, te pedig Ã¼gyelj ott a dolgokra. Induljunk!}
 {144}{}{Felejtsd el!}
-{145}{}{Mr. Westin már vár rád.}
-{146}{}{Hát, voltak problémáink a gazemberekkel, de már nem zaklatnak minket. Beszélhetsz Westinnel, ha akarsz.}
-{147}{}{Üzleti ügyekben jöttem Menedékvárosból.}
-{500}{}{Ha még egyszer hozzányúlsz ahhoz az ajtóhoz, nagyon megkeserülöd. Fogod, pajti?}
+{145}{}{Mr. Westin mÃ¡r vÃ¡r rÃ¡d.}
+{146}{}{HÃ¡t, voltak problÃ©mÃ¡ink a gazemberekkel, de mÃ¡r nem zaklatnak minket. BeszÃ©lhetsz Westinnel, ha akarsz.}
+{147}{}{Ãœzleti Ã¼gyekben jÃ¶ttem MenedÃ©kvÃ¡rosbÃ³l.}
+{500}{}{Ha mÃ©g egyszer hozzÃ¡nyÃºlsz ahhoz az ajtÃ³hoz, nagyon megkeserÃ¼lÃ¶d. Fogod, pajti?}

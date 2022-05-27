@@ -1,62 +1,62 @@
-{100}{}{Vendég.}
+{100}{}{Egy bÃ¡rvendÃ©get lÃ¡tsz.}
 {101}{}{Leanne.}
-{102}{}{Nagyon szép, de mintha elbambult volna.}
+{102}{}{Nagyon szÃ©p, de mintha elbambult volna.}
 {103}{}{Hagyd abba!}
-{104}{}{Mért csinálod ezt?}
-{105}{}{Ne érj hozzám!}
-{106}{}{Kérlek, hagyd abba!}
-{107}{}{Gyilkos!}
+{104}{}{MÃ©rt csinÃ¡lod ezt?}
+{105}{}{Hagyj bÃ©kÃ©n!}
+{106}{}{KÃ©rlek ne!}
+{107}{}{Te gyilkos!}
 {108}{}{Hogy tehetted ezt Beckyvel?!}
 {109}{}{Mi rosszat tett neked?}
 {110}{}{A pokolban fogsz megrohadni!}
-{111}{}{Bocs, de kifogytam a történetekbõl.}
-{112}{}{Kösz az italt.}
-{113}{}{Élvezet veled beszélgetni.}
-{114}{}{Köszönöm, hogy meghallgattál.}
-{115}{}{Örülök, hogy újra látlak.}
-{116}{}{Jó utat!}
+{111}{}{Bocs, de kifogytam a tÃ¶rtÃ©netekbÅ‘l.}
+{112}{}{KÃ¶sz az italt.}
+{113}{}{Ã‰lvezet veled beszÃ©lgetni.}
+{114}{}{KÃ¶szÃ¶nÃ¶m, hogy meghallgattÃ¡l.}
+{115}{}{Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tunk.}
+{116}{}{JÃ³ utat!}
 {117}{}{Why hello! Nice to see a new face around here. My name's Leanne. How are you? Care to sit down?}
-{118}{}{Helló! Remélem, jól vagy.}
-{119}{}{Szóval, mesélj nekem a Mesterrõl!}
+{118}{}{HellÃ³! RemÃ©lem, jÃ³l vagy.}
+{119}{}{SzÃ³val, mesÃ©lj nekem a MesterrÅ‘l!}
 {120}{}{Remek. Hogy mennek a dolgaid?}
-{121}{}{Egész jól.}
-{122}{}{Most nem tudok beszélgetni. Viszlát!}
+{121}{}{EgÃ©sz jÃ³l.}
+{122}{}{Most nem tudok beszÃ©lgetni. ViszlÃ¡t!}
 {123}{}{Igsby?}
 {124}{}{Bgy.}
-{131}{}{Ó, sajnálom. Nem értem. Talán nem kéne annyit innod.}
+{131}{}{Ã“, sajnÃ¡lom. Nem Ã©rtem. TalÃ¡n nem kÃ©ne annyit innod.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
-{134}{}{Ó, nagyon jól. Kösz, hogy kérdezed. Becky-nek érdekes a családi története. A tied is?}
-{135}{}{Még mindig jól, köszönöm. Hol is tartottunk? Azt hiszem, a családod történetérõl meséltél.}
-{136}{}{Igen. Én vagyok a Kiválasztott. Az õsöm mentette meg a világot a Mestertõl.}
-{137}{}{Ja. Valószínûsíthetõ, hogy az õsöm mentette meg a világot a Mestertõl.}
+{134}{}{Ã“, nagyon jÃ³l. KÃ¶sz, hogy kÃ©rdezed. Becky-nek Ã©rdekes a csalÃ¡di tÃ¶rtÃ©nete. A tied is?}
+{135}{}{MÃ©g mindig jÃ³l, kÃ¶szÃ¶nÃ¶m. Hol is tartottunk? Azt hiszem, a csalÃ¡dod tÃ¶rtÃ©netÃ©rÅ‘l mesÃ©ltÃ©l.}
+{136}{}{Igen. Ã‰n vagyok a KivÃ¡lasztott. Az Å‘sÃ¶m mentette meg a vilÃ¡got a MestertÅ‘l.}
+{137}{}{Ja. ValÃ³szÃ­nÅ±sÃ­thetÅ‘, hogy az Å‘sÃ¶m mentette meg a vilÃ¡got a MestertÅ‘l.}
 {138}{}{Mennem kell.}
 {139}{}{Uh, okay. Nice to meet you Chosen One... Actually, I've heard something about a master before...}
-{140}{}{Milyen érdekes. Ez emlékeztet egy régi sztorira a Mesterrõl.}
-{141}{}{Igazán? Mégis mi az?}
+{140}{}{Milyen Ã©rdekes. Ez emlÃ©keztet egy rÃ©gi sztorira a MesterrÅ‘l.}
+{141}{}{IgazÃ¡n? MÃ©gis mi az?}
 {142}{}{Mondd el!}
-{143}{}{Rendben. Viszlát!}
-{144}{}{Hát ez bizony eltarthat egy darabig. Kérlek, légy úriember és vegyél nekem egy üdítõt. De ne whiskeyt, hanem Nuka-Kólát.}
-{145}{}{Elég sokáig tarthat. Kérlek, hívj meg egy italra, de ne whiskeyre, hanem Nuka-Kólára.}
-{146}{}{Kezdhetjük? Most már elég jól emlékszem rá.}
-{147}{}{Hogyne.}
-{148}{}{Sajnálom, de most nincs fölös 5 dollárom.}
-{149}{}{Kösz. Na, nézzük csak... emlékszem, a Mama mesélt egy nagy vándorlásról 70... vagy 80 éve történt...}
-{150}{}{Kérlek, folytasd!}
-{151}{}{Óriási mutánsok jöttek délrõl, akkora fegyverekkel, mint te vagy én. Mama azt mondta, hogy ez valami nagy népvándorlás lehet.}
-{152}{}{Hányan lehettek?}
-{153}{}{Nem tudom, de több csoport is volt. Néhányuk tovább ment északra, mások pedig keletre indultak. Senki sem tudja, merre mentek.}
-{154}{}{Folytasd!}
-{155}{}{Nagyon idegesek voltak és mintha menekültek volna valami elõl.}
-{156}{}{Igazán?}
-{157}{}{Igen, voltak mások is, koszos, cafatos, bíbor palástban... arról gagyogtak, hogy a Mester meghalt...}
-{158}{}{Érdekes.}
-{159}{}{Néhányan még öngyilkosok is lettek, itt a városban!}
-{160}{}{És?}
-{161}{}{Nem érted? Arról a Mesterrõl beszéltek, akit az õsöd ölt meg.}
-{162}{}{Kösz a történetet.}
-{163}{}{Az az igazság, hogy elég késõ van már. Viszlát!}
-{164}{}{Örömömre szolgált. Viszlát!}
-{165}{}{Viszlát!}
-{166}{}{Senkit.}
-{167}{}{Leanne elmesélte emlékeit a Mesterrõl.}
+{143}{}{Ã“, rendben. ViszlÃ¡t!}
+{144}{}{HÃ¡t ez bizony eltarthat egy darabig. KÃ©rlek, lÃ©gy Ãºriember Ã©s vegyÃ©l nekem egy Ã¼dÃ­tÅ‘t. De ne whiskeyt, hanem Nuka-KÃ³lÃ¡t.}
+{145}{}{ElÃ©g sokÃ¡ig tarthat. KÃ©rlek, hÃ­vj meg egy italra, de ne whiskeyre, hanem Nuka-KÃ³lÃ¡ra.}
+{146}{}{KezdhetjÃ¼k? Most mÃ¡r elÃ©g jÃ³l emlÃ©kszem rÃ¡.}
+{147}{}{Persze.}
+{148}{}{SajnÃ¡lom, de most nincs fÃ¶lÃ¶s 5 dollÃ¡rom.}
+{149}{}{KÃ¶sz. Na, nÃ©zzÃ¼k csak... emlÃ©kszem, a Mama mesÃ©lt egy nagy vÃ¡ndorlÃ¡srÃ³l 70... vagy 80 Ã©ve tÃ¶rtÃ©nt...}
+{150}{}{KÃ©rlek, folytasd!}
+{151}{}{Ã“riÃ¡si mutÃ¡nsok jÃ¶ttek dÃ©lrÅ‘l, akkora fegyverekkel, mint te vagy Ã©n. Mama azt mondta, hogy ez valami nagy nÃ©pvÃ¡ndorlÃ¡s lehet.}
+{152}{}{HÃ¡nyan lehettek?}
+{153}{}{Nem tudom, de tÃ¶bb csoport is volt. NÃ©hÃ¡nyuk tovÃ¡bb ment Ã©szakra, mÃ¡sok pedig keletre indultak. Senki sem tudja, merre mentek.}
+{154}{}{Folytassa, kÃ©rem!}
+{155}{}{Nagyon idegesek voltak Ã©s mintha menekÃ¼ltek volna valami elÅ‘l.}
+{156}{}{TÃ©nyleg?}
+{157}{}{Igen, voltak mÃ¡sok is, koszos, cafatos, bÃ­bor palÃ¡stban... arrÃ³l gagyogtak, hogy a Mester meghalt...}
+{158}{}{Ã‰rdekes.}
+{159}{}{NÃ©hÃ¡nyan mÃ©g Ã¶ngyilkosok is lettek, itt a vÃ¡rosban!}
+{160}{}{Vagyis?}
+{161}{}{Nem Ã©rted? ArrÃ³l a MesterrÅ‘l beszÃ©ltek, akit az Å‘sÃ¶d Ã¶lt meg.}
+{162}{}{KÃ¶szÃ¶nÃ¶m, hogy megosztotta ezt velem.}
+{163}{}{Az az igazsÃ¡g, hogy elÃ©g kÃ©sÅ‘ van mÃ¡r. ViszlÃ¡t!}
+{164}{}{EnyÃ©m a megtiszteltetÃ©s. ViszlÃ¡t!}
+{165}{}{ViszlÃ¡t!}
+{166}{}{Hagyjuk!}
+{167}{}{Leanne elmesÃ©lte emlÃ©keit a MesterrÅ‘l.}

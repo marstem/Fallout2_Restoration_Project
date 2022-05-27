@@ -1,118 +1,118 @@
-{100}{}{Egy idõsebb, bozontos szakállú férfit látsz, akinek nagy vörös orra van.}
-{101}{}{Õ Whiskey Bob.}
-{110}{}{Mi újság? A nevem Whiskey Bob. És a tiéd?}
-{111}{}{Hát nem aranyos a kicsike? Whiskey Bobnak hívnak. És téged?}
-{112}{}{Whicky Gob? Zág, zág?}
-{113}{}{Fényes orr (he-he)}
-{114}{}{Én }
-{115}{}{Menjé}
-{120}{}{Nálad sincs felkapcsolva a villany, mi? Hát, jó volt veled beszélgetni. Viszlát!}
-{121}{}{Édesem, összetöröd a szívem, akárhányszor kinyitod a szádat. Talán máskor átmehetnénk a Prémvadászok Városába, ahol megmutathatnám a sebhelyeimet (he-he). Viszlát, aranyom!}
-{130}{}{Nos, uram, talán késõbb még találkozunk. Viszlát!}
-{131}{}{Hát, remélem, találkozunk még, aranyom. Viszlát!}
+{100}{}{Egy idÅ‘sebb, bozontos szakÃ¡llÃº fÃ©rfit lÃ¡tsz, akinek nagy vÃ¶rÃ¶s orra van.}
+{101}{}{Å Whiskey Bob.}
+{110}{}{Mi ÃºjsÃ¡g? A nevem Whiskey Bob. Ã‰s a tiÃ©d?}
+{111}{}{HÃ¡t nem aranyos a kicsike? Whiskey Bobnak hÃ­vnak. Ã‰s tÃ©ged?}
+{112}{}{Whicky Gob? ZÃ¡g, zÃ¡g?}
+{113}{}{FÃ©nyes orr (he-he)}
+{114}{}{Ã‰n}
+{115}{}{MenjÃ©}
+{120}{}{NÃ¡lad sincs felkapcsolva a villany, mi? HÃ¡t, jÃ³ volt veled beszÃ©lgetni. ViszlÃ¡t!}
+{121}{}{Ã‰desem, Ã¶sszetÃ¶rÃ¶d a szÃ­vem, akÃ¡rhÃ¡nyszor kinyitod a szÃ¡dat. TalÃ¡n mÃ¡skor Ã¡tmehetnÃ©nk a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡ba, ahol megmutathatnÃ¡m a sebhelyeimet (he-he). ViszlÃ¡t, aranyom!}
+{130}{}{Nos, uram, talÃ¡n kÃ©sÅ‘bb mÃ©g talÃ¡lkozunk. ViszlÃ¡t!}
+{131}{}{HÃ¡t, remÃ©lem, talÃ¡lkozunk mÃ©g, aranyom. ViszlÃ¡t!}
 {140}{}{Humph, I don't want you as my drinking partner. Now git.}
-{141}{}{Hüm, azt hiszem, inkább Sally fürdõházában töltöm az idõm, mint veled. Most menjé!}
-{150}{}{Mi újság, idegen? A nevem Whiskey Bob, és a tiéd?}
+{141}{}{HÃ¼m, azt hiszem, inkÃ¡bb Sally fÃ¼rdÅ‘hÃ¡zÃ¡ban tÃ¶ltÃ¶m az idÅ‘m, mint veled. Most menjÃ©!}
+{150}{}{Mi ÃºjsÃ¡g, idegen? A nevem Whiskey Bob, Ã©s a tiÃ©d?}
 {151}{}{A nevem }
-{152}{}{. Örülök, hogy találkoztunk, Whiskey Bob.}
-{153}{}{Én }
-{154}{}{ vagyok. Mi történik mostanában a városban?}
-{155}{}{Nem hiszem, hogy tudnia kéne a nevem.}
-{160}{}{Mindig jó új piapajtásakat találni. Nem akarsz meghívni egy italra? A beszédtõl mindig kiszárad a szám.}
-{161}{}{Persze, hogy meghívom, Bob. A vendégem!}
+{152}{}{. Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Whiskey Bob.}
+{153}{}{A nevem }
+{154}{}{ vagyok. Mi tÃ¶rtÃ©nik mostanÃ¡ban a vÃ¡rosban?}
+{155}{}{Nem hiszem, hogy tudnia kÃ©ne a nevem.}
+{160}{}{Mindig jÃ³ Ãºj piapajtÃ¡sakat talÃ¡lni. Nem akarsz meghÃ­vni egy italra? A beszÃ©dtÅ‘l mindig kiszÃ¡rad a szÃ¡m.}
+{161}{}{Persze, hogy meghÃ­vom, Bob. A vendÃ©gem!}
 {162}{}{Ezt most nem engedhetem meg magamnak.}
-{163}{}{Nem akarom meghívni egy piára, Whiskey Bob.}
-{164}{}{Egy ilyen becenévvel, mint a magáé, Whiskey Bob, magának kéne meghívni engem.}
-{170}{}{Kösz az italt, partner. Most, hogy már nedves a szám, úgy érzem, megoszthatom veled az egyik gondomat. Hé, nem tudnál kisegíteni?}
-{171}{}{Hát, eléggé elfoglalt vagyok. Nem tudok segíteni.}
-{172}{}{Hogyan segíthetnék?}
-{173}{}{Ha nem tart sokáig, akkor tudok segíteni. Persze nem ingyen.}
-{174}{}{Talán tudok segíteni, de csak akkor, ha nem túl veszélyes.}
-{175}{}{Mi történik mostanában a városban?}
-{180}{}{Úgy tûnik, a tárcád üresebb, mint a poharam. Nincs elég pénzed, hogy meghívd az öreg Bobot egy italra.}
-{181}{}{[TOVÁBB]}
-{190}{}{Nos, van egy kis mellék-üzletem, amihez elkélne a segítséged. Van egy "fekete" pálinka-fõzdém a városon kívül, amibõl kezd kifogyni a tüzelõ. Egy gekkó nemrég megharapta a lábam, így nem érnék ki oda, mielõtt kifogyna a tüzifából. Ha elmondanám neked, hol van, feltöltenéd nekem fával? Ez megérne nekem egy ötvenest.}
-{191}{}{Nem hangzik olyan rosszul, meséljen még errõl!}
-{192}{}{Nem akarom megcsinálni ezt magának. Bocs, Whiskey Bob.}
-{200}{}{Namármost, nem kerülne sok idõdbe és egyáltalán nem veszélyes. Valószínûleg. Akarsz róla többet hallani vagy nem?}
-{201}{}{Oké, beszéljen még róla!}
-{202}{}{Asszem, épp eleget hallottam. Viszlát!}
-{210}{}{Korrekt. Éleseszû vagy, ez tagadhatatlan. Itt van pia. Cserébe meghallgathatod az én kicsi problémámat.}
-{220}{}{Csak annyit kell tenned, hogy elmész az én kicsi kuckómhoz, ami innen délre van, bemész és a kazánt feltöltöd tüzifával. Utána gyere vissza ide és megkapod a pénzed. Viszont egy napon belül kell megtenned, különben tönkremegy a piám!}
-{221}{}{Könnyû melónak hangzik. Oké, elvállalom.}
-{222}{}{Nem akarok ebben segíteni. Bocs, Bob.}
-{223}{}{Ötven dollár nem lesz elég egy ilyen munkához.}
-{230}{}{Elvállalod? Remek. Ne felejtsd, egy napon belül meg kell csinálnod, különben tönkremegy a piám. Ezer köszönet. Hamarosan találkozunk, remélem.}
-{231}{}{Semmi gond, Bob. Egy nap múlva találkozunk.}
-{232}{}{Örülök, hogy segíthetek, de elõbb mondja el, mi történik a városban.}
-{240}{}{Nocsak, te aztán igazi üzletember vagy, ez tagadhatatlan. Oké, kapsz hatvanötöt. Megcsinálod?}
-{241}{}{Szép próbálkozás, de nekem csak ötvenet ér. A pokolba is, nem tudok többet fizetni.}
+{163}{}{Nem akarom meghÃ­vni egy piÃ¡ra, Whiskey Bob.}
+{164}{}{Egy ilyen becenÃ©vvel, mint a magÃ¡Ã©, Whiskey Bob, magÃ¡nak kÃ©ne meghÃ­vni engem.}
+{170}{}{KÃ¶sz az italt, partner. Most, hogy mÃ¡r nedves a szÃ¡m, Ãºgy Ã©rzem, megoszthatom veled az egyik gondomat. HÃ©, nem tudnÃ¡l kisegÃ­teni?}
+{171}{}{HÃ¡t, elÃ©ggÃ© elfoglalt vagyok. Nem tudok segÃ­teni.}
+{172}{}{Hogyan segÃ­thetnÃ©k?}
+{173}{}{Ha nem tart sokÃ¡ig, akkor tudok segÃ­teni. Persze nem ingyen.}
+{174}{}{TalÃ¡n tudok segÃ­teni, de csak akkor, ha nem tÃºl veszÃ©lyes.}
+{175}{}{Mi tÃ¶rtÃ©nik mostanÃ¡ban a vÃ¡rosban?}
+{180}{}{Ãšgy tÅ±nik, a tÃ¡rcÃ¡d Ã¼resebb, mint a poharam. Nincs elÃ©g pÃ©nzed, hogy meghÃ­vd az Ã¶reg Bobot egy italra.}
+{181}{}{[TOVÃBBI LEHETÅSÃ‰G]}
+{190}{}{Nos, van egy kis mellÃ©k-Ã¼zletem, amihez elkÃ©lne a segÃ­tsÃ©ged. Van egy "fekete" pÃ¡linka-fÅ‘zdÃ©m a vÃ¡roson kÃ­vÃ¼l, amibÅ‘l kezd kifogyni a tÃ¼zelÅ‘. Egy gekkÃ³ nemrÃ©g megharapta a lÃ¡bam, Ã­gy nem Ã©rnÃ©k ki oda, mielÅ‘tt kifogyna a tÃ¼zifÃ¡bÃ³l. Ha elmondanÃ¡m neked, hol van, feltÃ¶ltenÃ©d nekem fÃ¡val? Ez megÃ©rne nekem egy Ã¶tvenest.}
+{191}{}{Nem hangzik olyan rosszul, mesÃ©ljen mÃ©g errÅ‘l!}
+{192}{}{Nem akarom megcsinÃ¡lni ezt magÃ¡nak. Bocs, Whiskey Bob.}
+{200}{}{NamÃ¡rmost, nem kerÃ¼lne sok idÅ‘dbe Ã©s egyÃ¡ltalÃ¡n nem veszÃ©lyes. ValÃ³szÃ­nÅ±leg. Akarsz rÃ³la tÃ¶bbet hallani vagy nem?}
+{201}{}{OkÃ©, beszÃ©ljen mÃ©g rÃ³la!}
+{202}{}{Asszem, Ã©pp eleget hallottam. ViszlÃ¡t!}
+{210}{}{Korrekt. Ã‰leseszÅ± vagy, ez tagadhatatlan. Itt van pia. CserÃ©be meghallgathatod az Ã©n kicsi problÃ©mÃ¡mat.}
+{220}{}{Csak annyit kell tenned, hogy elmÃ©sz az Ã©n kicsi kuckÃ³mhoz, ami innen dÃ©lre van, bemÃ©sz Ã©s a kazÃ¡nt feltÃ¶ltÃ¶d tÃ¼zifÃ¡val. UtÃ¡na gyere vissza ide Ã©s megkapod a pÃ©nzed. Viszont egy napon belÃ¼l kell megtenned, kÃ¼lÃ¶nben tÃ¶nkremegy a piÃ¡m!}
+{221}{}{KÃ¶nnyÅ± melÃ³nak hangzik. OkÃ©, elvÃ¡llalom.}
+{222}{}{Nem akarok ebben segÃ­teni. Bocs, Bob.}
+{223}{}{Ã–tven dollÃ¡r nem lesz elÃ©g egy ilyen munkÃ¡hoz.}
+{230}{}{ElvÃ¡llalod? Remek. Ne felejtsd, egy napon belÃ¼l meg kell csinÃ¡lnod, kÃ¼lÃ¶nben tÃ¶nkremegy a piÃ¡m. Ezer kÃ¶szÃ¶net. Hamarosan talÃ¡lkozunk, remÃ©lem.}
+{231}{}{Semmi gond, Bob. Egy nap mÃºlva talÃ¡lkozunk.}
+{232}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thetek, de elÅ‘bb mondja el, mi tÃ¶rtÃ©nik a vÃ¡rosban.}
+{240}{}{Nocsak, te aztÃ¡n igazi Ã¼zletember vagy, ez tagadhatatlan. OkÃ©, kapsz hatvanÃ¶tÃ¶t. MegcsinÃ¡lod?}
+{241}{}{SzÃ©p prÃ³bÃ¡lkozÃ¡s, de nekem csak Ã¶tvenet Ã©r. A pokolba is, nem tudok tÃ¶bbet fizetni.}
 {242}{}{OK, I'll do it.}
-{243}{}{Ennyi pénzért nem vállalom. Az idõm többet ér ennél.}
-{250}{}{Helló, cimbora. Visszajöttél Whiskey Bobhoz, mi? Kész vagy piáról, üzletrõl meg ilyenekrõl beszélni?}
-{251}{}{Helló, lányka. Szeretnél újra Whiskey Bobbal beszélni a piáról, üzletrõl meg ilyesmikrõl? Megengedem, hogy az ölembe ülj! (he-he) Csak vicceltem.}
-{252}{}{Persze Bob... beszéljen nekem a piákról meg az üzletrõl!}
-{253}{}{A múltkor már eleget hallottam.}
-{260}{}{Feltöltötted a kazánom? Neem, nem hinném, hogy már kész lennél. Akkor gyere vissza, ha már elvégezted a munkát.}
-{270}{}{Valaki összetörte a kazánomat! És csak neked mondtam el, hogy hol van. Ha csak egy kicsivel is fiatalabb lennék, megtanítanálak kesztyûbe dudálni! Takarodj a szemem elõl, te szemét!}
-{280}{}{Hát, köszönöm, hogy újratöltötted a szeszlepárlómat. Itt az ötven dollárod. Van kérdésed, amire válaszolhatnék?}
-{281}{}{Kösz. Így legalább nem kell kibicegnem odáig, mégha ez hatvanötbe is került nekem. Itt a pénzed. Van hozzám kérdésed?}
-{282}{}{Igen, meséljen, hogy mi történik mostanában a városban!}
-{283}{}{Kösz nem, Bob. Azt hiszem, mindent tudok, amit tudnom kellett.}
+{243}{}{Ennyi pÃ©nzÃ©rt nem vÃ¡llalom. Az idÅ‘m tÃ¶bbet Ã©r ennÃ©l.}
+{250}{}{HellÃ³, cimbora. VisszajÃ¶ttÃ©l Whiskey Bobhoz, mi? KÃ©sz vagy piÃ¡rÃ³l, Ã¼zletrÅ‘l meg ilyenekrÅ‘l beszÃ©lni?}
+{251}{}{HellÃ³, lÃ¡nyka. SzeretnÃ©l Ãºjra Whiskey Bobbal beszÃ©lni a piÃ¡rÃ³l, Ã¼zletrÅ‘l meg ilyesmikrÅ‘l? Megengedem, hogy az Ã¶lembe Ã¼lj! (he-he) Csak vicceltem.}
+{252}{}{Persze Bob... beszÃ©ljen nekem a piÃ¡krÃ³l meg az Ã¼zletrÅ‘l!}
+{253}{}{A mÃºltkor mÃ¡r eleget hallottam.}
+{260}{}{FeltÃ¶ltÃ¶tted a kazÃ¡nom? Neem, nem hinnÃ©m, hogy mÃ¡r kÃ©sz lennÃ©l. Akkor gyere vissza, ha mÃ¡r elvÃ©gezted a munkÃ¡t.}
+{270}{}{Valaki Ã¶sszetÃ¶rte a kazÃ¡nomat! Ã‰s csak neked mondtam el, hogy hol van. Ha csak egy kicsivel is fiatalabb lennÃ©k, megtanÃ­tanÃ¡lak kesztyÅ±be dudÃ¡lni! Takarodj a szemem elÅ‘l, te szemÃ©t!}
+{280}{}{HÃ¡t, kÃ¶szÃ¶nÃ¶m, hogy ÃºjratÃ¶ltÃ¶tted a szeszlepÃ¡rlÃ³mat. Itt az Ã¶tven dollÃ¡rod. Van kÃ©rdÃ©sed, amire vÃ¡laszolhatnÃ©k?}
+{281}{}{KÃ¶sz. Ãgy legalÃ¡bb nem kell kibicegnem odÃ¡ig, mÃ©gha ez hatvanÃ¶tbe is kerÃ¼lt nekem. Itt a pÃ©nzed. Van hozzÃ¡m kÃ©rdÃ©sed?}
+{282}{}{Igen, mesÃ©ljen, hogy mi tÃ¶rtÃ©nik mostanÃ¡ban a vÃ¡rosban!}
+{283}{}{KÃ¶sz nem, Bob. Azt hiszem, mindent tudok, amit tudnom kellett.}
 {290}{}{All sorts of things going on hereabouts lately. We've got }
-{291}{}{Meséljen nekem a brahmin-csonkítókról.}
-{292}{}{Mi a helyzet a járkáló szellemekkel?}
-{293}{}{Hatalmas patkányok? Errõl többet kell hallanom.}
-{294}{}{Egy rejtek? Miféle rejtek?}
-{295}{}{Eltûnt emberek? Meséljen errõl!}
-{296}{}{Valami másról kérdezném. Hallott már az Édenkert Létrehozást Elõsegítõ Táskáról?}
-{297}{}{Azt hiszem, most nem vagyok kíváncsi ezekre.}
-{298}{}{Persze, Bob, viszont hadd meséljek magának egy halról, ami olyan magas, mint én, és egy hordóból fogtam ki.}
-{310}{}{Kösz, hogy kisegítettél a kazánommal. Ha a lábam meggyógyul, már én is meg fogom tudni csinálni. Van kérdésed egy ilyen öreg kocsmatöltelékhez?}
-{311}{}{Hát, kíváncsi lennék a rémhírekre, amiket a városban hallani.}
-{312}{}{Most nincs szükségem több infóra.}
-{320}{}{Azt mondják, hogy hatalamas emberszerû bogarak, páncélban meg minden, éjjel megcsonkítják a brahminokat. Utána már csak széttépett brahmin tetemeket találnak.}
-{321}{}{Szörnyûen hangzik...}
-{330}{}{Páran látták a bogárembereket, de a legtöbbet Torr, a Buckner fiú látta õket. Amit látott, az teljesen megbolondította, pedig eddig sem volt egy nagy lángész.}
-{331}{}{Hihetetlen! Hadd kérdezzek még valami másról is!}
-{332}{}{Azt hiszem, eleget hallottam. Viszlát!}
-{340}{}{Van egy kanyon a várostól nyugatra, ahonnan néhány hónapja vakító fény áradt. Azóta alkalmanként szörnyû nyikorgó hang jön abból az irányból. Az arra tévedt brahminok nem jönnek vissza. Senki sem mer még csak a kanyon közelébe se menni.}
-{341}{}{Igen, ez aztán tényleg szellemnek hangzik. Bárcsak lenne egy hozzáértõ sámánotok. Beszéljen valami másról inkább!}
-{342}{}{Ennyi elég is mostanra. Ezen most elmerengek egy kicsit. Viszlát!}
-{350}{}{A Prémvadászok Városa nyugatra van a belvárostól, egy részét ellepték a patkányok. Minél beljebb mész, annál nagyobbakkal találkozol. Azt mondják, van egy nagy hatalmas patkány-szellem, ami a többit irányítja. Néhány prémvadász már el is költözött onnan. Azt mondják, túl veszélyes hely.}
-{351}{}{Prémvadászokat rekesztenek ki a patkányok? Inkább valami másról beszéljen nekem!}
-{352}{}{Félnek a patkányoktól? Hmm, biztos másmilyen patkányok vannak itt, mint nálunk otthon. Eleget hallottam. Viszlát!}
-{360}{}{Nem 'Egy rejtek' - 'A Rejtek'. Nem találsz annál nagyobb gyülekezõhelyet a leghitványabb söpredék számára. Hol is hallottam ezt? Mindegy, néhány napnyi járóföldre van délre Klamathtól. Ott bármit beszerezhetsz, ha megfizeted az árát... még rabszolgákat is. Légy óvatos, sok idegbeteg van ott, és veszélyesek a fegyvereik! Velünk nem nagyon törõdnek, túl szegények vagyunk.}
-{361}{}{Azt hiszem, biztonságban leszek én ott is. Tudom, hogy kell vigyázni magamra. Most viszont hadd kérdezzem valami másról!}
-{362}{}{Eleget hallottam, Whiskey Bob. Viszlát!}
-{370}{}{Néhány ember eltûnt az utóbbi idõben. Egy kereskedõ, Vic, aki háború elõtti dolgokat árult, a másik az egyik legjobb prémvadászunk.}
-{371}{}{Beszéljen nekem Vicrõl, a kereskedõrõl!}
-{372}{}{Többet szeretnék tudni a prémvadászról.}
-{373}{}{Hadd kérdezzek valami mást.}
-{374}{}{Ez minden, amit tudnom kellett. Viszlát, Whiskey Bob!}
-{380}{}{Hát, Vic érdekes egy fickó volt. Nem szeretett sokat dolgozni, így a drága háború elõtti dolgok érdekelték, amiket el tudott adni Rejtekben... esetleg rásózta õket hülye törzsbélire, mint különleges és szent tárgyakat (magában kuncog). Bocsi, nem sértésnek szántam. Akárhogyis, már egy ideje nem láttam. A legutolsó információm szerint délre utazott, hogy eladjon valamit. Talán épp Rejtekben van.}
-{381}{}{Mi a helyzet az eltûnt prémvadásszal?}
-{382}{}{Hadd kérdezzek valami mást, Bob!}
-{383}{}{Kösz, most megyek és elgondolkozom a hallottakon. Viszlát, Whiskey Bob!}
-{390}{}{Aki igazán sokat tudna róla mondani, az Mrs. Buckner. Smiley közel állt hozzá. Északra ment, hogy megkeresse az aranygekkók barlangját, de azóta se tért vissza. És ennek már jóideje.}
-{391}{}{Mi a helyzet az eltûnt kereskedõvel?}
+{291}{}{MesÃ©ljen nekem a brahmin-csonkÃ­tÃ³krÃ³l.}
+{292}{}{Mi a helyzet a jÃ¡rkÃ¡lÃ³ szellemekkel?}
+{293}{}{Hatalmas patkÃ¡nyok? ErrÅ‘l tÃ¶bbet kell hallanom.}
+{294}{}{Egy rejtek? MifÃ©le rejtek?}
+{295}{}{EltÅ±nt emberek? MesÃ©ljen errÅ‘l!}
+{296}{}{Valami mÃ¡srÃ³l kÃ©rdeznÃ©m. Hallott mÃ¡r az Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡rÃ³l?}
+{297}{}{Azt hiszem, most nem vagyok kÃ­vÃ¡ncsi ezekre.}
+{298}{}{Persze, Bob, viszont hadd mesÃ©ljek magÃ¡nak egy halrÃ³l, ami olyan magas, mint Ã©n, Ã©s egy hordÃ³bÃ³l fogtam ki.}
+{310}{}{KÃ¶sz, hogy kisegÃ­tettÃ©l a kazÃ¡nommal. Ha a lÃ¡bam meggyÃ³gyul, mÃ¡r Ã©n is meg fogom tudni csinÃ¡lni. Van kÃ©rdÃ©sed egy ilyen Ã¶reg kocsmatÃ¶ltelÃ©khez?}
+{311}{}{HÃ¡t, kÃ­vÃ¡ncsi lennÃ©k a rÃ©mhÃ­rekre, amiket a vÃ¡rosban hallani.}
+{312}{}{Most nincs szÃ¼ksÃ©gem tÃ¶bb infÃ³ra.}
+{320}{}{Azt mondjÃ¡k, hogy hatalamas emberszerÅ± bogarak, pÃ¡ncÃ©lban meg minden, Ã©jjel megcsonkÃ­tjÃ¡k a brahminokat. UtÃ¡na mÃ¡r csak szÃ©ttÃ©pett brahmin tetemeket talÃ¡lnak.}
+{321}{}{SzÃ¶rnyÅ±en hangzik...}
+{330}{}{PÃ¡ran lÃ¡ttÃ¡k a bogÃ¡rembereket, de a legtÃ¶bbet Torr, a Buckner fiÃº lÃ¡tta Å‘ket. Amit lÃ¡tott, az teljesen megbolondÃ­totta, pedig eddig sem volt egy nagy lÃ¡ngÃ©sz.}
+{331}{}{Hihetetlen! Hadd kÃ©rdezzek mÃ©g valami mÃ¡srÃ³l is!}
+{332}{}{Azt hiszem, eleget hallottam. ViszlÃ¡t!}
+{340}{}{Van egy kanyon a vÃ¡rostÃ³l nyugatra, ahonnan nÃ©hÃ¡ny hÃ³napja vakÃ­tÃ³ fÃ©ny Ã¡radt. AzÃ³ta alkalmankÃ©nt szÃ¶rnyÅ± nyikorgÃ³ hang jÃ¶n abbÃ³l az irÃ¡nybÃ³l. Az arra tÃ©vedt brahminok nem jÃ¶nnek vissza. Senki sem mer mÃ©g csak a kanyon kÃ¶zelÃ©be se menni.}
+{341}{}{Igen, ez aztÃ¡n tÃ©nyleg szellemnek hangzik. BÃ¡rcsak lenne egy hozzÃ¡Ã©rtÅ‘ sÃ¡mÃ¡notok. BeszÃ©ljen valami mÃ¡srÃ³l inkÃ¡bb!}
+{342}{}{Ennyi elÃ©g is mostanra. Ezen most elmerengek egy kicsit. ViszlÃ¡t!}
+{350}{}{A PrÃ©mvadÃ¡szok VÃ¡rosa nyugatra van a belvÃ¡rostÃ³l, egy rÃ©szÃ©t elleptÃ©k a patkÃ¡nyok. MinÃ©l beljebb mÃ©sz, annÃ¡l nagyobbakkal talÃ¡lkozol. Azt mondjÃ¡k, van egy nagy hatalmas patkÃ¡ny-szellem, ami a tÃ¶bbit irÃ¡nyÃ­tja. NÃ©hÃ¡ny prÃ©mvadÃ¡sz mÃ¡r el is kÃ¶ltÃ¶zÃ¶tt onnan. Azt mondjÃ¡k, tÃºl veszÃ©lyes hely.}
+{351}{}{PrÃ©mvadÃ¡szokat rekesztenek ki a patkÃ¡nyok? InkÃ¡bb valami mÃ¡srÃ³l beszÃ©ljen nekem!}
+{352}{}{FÃ©lnek a patkÃ¡nyoktÃ³l? Hmm, biztos mÃ¡smilyen patkÃ¡nyok vannak itt, mint nÃ¡lunk otthon. Eleget hallottam. ViszlÃ¡t!}
+{360}{}{Nem 'Egy rejtek' - 'A Rejtek'. Nem talÃ¡lsz annÃ¡l nagyobb gyÃ¼lekezÅ‘helyet a leghitvÃ¡nyabb sÃ¶predÃ©k szÃ¡mÃ¡ra. Hol is hallottam ezt? Mindegy, nÃ©hÃ¡ny napnyi jÃ¡rÃ³fÃ¶ldre van dÃ©lre KlamathtÃ³l. Ott bÃ¡rmit beszerezhetsz, ha megfizeted az Ã¡rÃ¡t... mÃ©g rabszolgÃ¡kat is. LÃ©gy Ã³vatos, sok idegbeteg van ott, Ã©s veszÃ©lyesek a fegyvereik! VelÃ¼nk nem nagyon tÃ¶rÅ‘dnek, tÃºl szegÃ©nyek vagyunk.}
+{361}{}{Azt hiszem, biztonsÃ¡gban leszek Ã©n ott is. Tudom, hogy kell vigyÃ¡zni magamra. Most viszont hadd kÃ©rdezzem valami mÃ¡srÃ³l!}
+{362}{}{Eleget hallottam, Whiskey Bob. ViszlÃ¡t!}
+{370}{}{NÃ©hÃ¡ny ember eltÅ±nt az utÃ³bbi idÅ‘ben. Egy kereskedÅ‘, Vic, aki hÃ¡borÃº elÅ‘tti dolgokat Ã¡rult, a mÃ¡sik az egyik legjobb prÃ©mvadÃ¡szunk.}
+{371}{}{BeszÃ©ljen nekem VicrÅ‘l, a kereskedÅ‘rÅ‘l!}
+{372}{}{TÃ¶bbet szeretnÃ©k tudni a prÃ©mvadÃ¡szrÃ³l.}
+{373}{}{InkÃ¡bb valami mÃ¡s Ã©rdekelne.}
+{374}{}{Ez minden, amit tudnom kellett. ViszlÃ¡t, Whiskey Bob!}
+{380}{}{HÃ¡t, Vic Ã©rdekes egy fickÃ³ volt. Nem szeretett sokat dolgozni, Ã­gy a drÃ¡ga hÃ¡borÃº elÅ‘tti dolgok Ã©rdekeltÃ©k, amiket el tudott adni Rejtekben... esetleg rÃ¡sÃ³zta Å‘ket hÃ¼lye tÃ¶rzsbÃ©lire, mint kÃ¼lÃ¶nleges Ã©s szent tÃ¡rgyakat (magÃ¡ban kuncog). Bocsi, nem sÃ©rtÃ©snek szÃ¡ntam. AkÃ¡rhogyis, mÃ¡r egy ideje nem lÃ¡ttam. A legutolsÃ³ informÃ¡ciÃ³m szerint dÃ©lre utazott, hogy eladjon valamit. TalÃ¡n Ã©pp Rejtekben van.}
+{381}{}{Mi a helyzet az eltÅ±nt prÃ©mvadÃ¡sszal?}
+{382}{}{Hadd kÃ©rdezzek valami mÃ¡st, Bob!}
+{383}{}{KÃ¶sz, most megyek Ã©s elgondolkozom a hallottakon. ViszlÃ¡t, Whiskey Bob!}
+{390}{}{Aki igazÃ¡n sokat tudna rÃ³la mondani, az Mrs. Buckner. Smiley kÃ¶zel Ã¡llt hozzÃ¡. Ã‰szakra ment, hogy megkeresse az aranygekkÃ³k barlangjÃ¡t, de azÃ³ta se tÃ©rt vissza. Ã‰s ennek mÃ¡r jÃ³ideje.}
+{391}{}{Mi a helyzet az eltÅ±nt kereskedÅ‘vel?}
 {392}{}{Hmm, interesting. Tell me about something else, though.}
-{393}{}{Ennyi elég is volt. Viszlát, Whiskey Bob!}
-{400}{}{Bárcsak betartottad volna a szavad. Nem csináltad meg a feladatod idõben, így a legfrissebb piám tönkrement! Nem akarok tõled már semmit és remélem, más sem.}
-{401}{}{De hát, azt hittem több idõm lesz...}
-{402}{}{Valószínûleg ugyanolyan az íze, akár feltöltöm a kazánt, akár nem.}
-{403}{}{A piájának amúgy is kutyapisi íze van.}
-{404}{}{A fa nem biztosított elég lángot a megfelelõ hõmérséklethez, ami az igazi erjedéshez kellett volna.}
-{410}{}{Nem vagyok kíváncsi a francos kifogásaidra! Takarodj el a szemem elõl! De elmondok neked egy dolgot: mindenki tudni fogja, hogy mennyit is ér a te szavad!}
-{420}{}{Édenkert Létrehozást Elõsegítõ Táskát mondtál? Azt hiszem, láttam egyet egy régi katalógusban, amit üldögélés közben olvasgattam, de nem tudok róla többet.}
-{421}{}{Tényleg? Megnézhetném azt a katalógust?}
-{430}{}{Ömm, (zavarban van) azt az oldalt elhasználtam egy bizonyos dologhoz, ha érted, mire gondolok.}
-{431}{}{Dologhoz? Ó, arra gondol! Szívesebben használok régi újságpapírt. Hát, mindegy, akkor meséljen valami másról!}
-{432}{}{Francba, már azt hittem, megvan... ennyi csalódás elég is mostanra. Viszlát, Bob!}
-{500}{}{Hogysmint? Mit tehetek érted?}
-{501}{}{Mi történik errefelé?}
-{502}{}{Semmit, kösz.}
-{550}{}{Bob nem akar veled beszélgetni.}
+{393}{}{Ennyi elÃ©g is volt. ViszlÃ¡t, Whiskey Bob!}
+{400}{}{BÃ¡rcsak betartottad volna a szavad. Nem csinÃ¡ltad meg a feladatod idÅ‘ben, Ã­gy a legfrissebb piÃ¡m tÃ¶nkrement! Nem akarok tÅ‘led mÃ¡r semmit Ã©s remÃ©lem, mÃ¡s sem.}
+{401}{}{De hÃ¡t, azt hittem tÃ¶bb idÅ‘m lesz...}
+{402}{}{ValÃ³szÃ­nÅ±leg ugyanolyan az Ã­ze, akÃ¡r feltÃ¶ltÃ¶m a kazÃ¡nt, akÃ¡r nem.}
+{403}{}{A piÃ¡jÃ¡nak amÃºgy is kutyapisi Ã­ze van.}
+{404}{}{A fa nem biztosÃ­tott elÃ©g lÃ¡ngot a megfelelÅ‘ hÅ‘mÃ©rsÃ©klethez, ami az igazi erjedÃ©shez kellett volna.}
+{410}{}{Nem vagyok kÃ­vÃ¡ncsi a francos kifogÃ¡saidra! Takarodj el a szemem elÅ‘l! De elmondok neked egy dolgot: mindenki tudni fogja, hogy mennyit is Ã©r a te szavad!}
+{420}{}{Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t mondtÃ¡l? Azt hiszem, lÃ¡ttam egyet egy rÃ©gi katalÃ³gusban, amit Ã¼ldÃ¶gÃ©lÃ©s kÃ¶zben olvasgattam, de nem tudok rÃ³la tÃ¶bbet.}
+{421}{}{TÃ©nyleg? MegnÃ©zhetnÃ©m azt a katalÃ³gust?}
+{430}{}{Ã–mm, (zavarban van) azt az oldalt elhasznÃ¡ltam egy bizonyos dologhoz, ha Ã©rted, mire gondolok.}
+{431}{}{Dologhoz? Ã“, arra gondol! SzÃ­vesebben hasznÃ¡lok rÃ©gi ÃºjsÃ¡gpapÃ­rt. HÃ¡t, mindegy, akkor mesÃ©ljen valami mÃ¡srÃ³l!}
+{432}{}{Francba, mÃ¡r azt hittem, megvan... ennyi csalÃ³dÃ¡s elÃ©g is mostanra. ViszlÃ¡t, Bob!}
+{500}{}{Hogysmint? Mit tehetek Ã©rted?}
+{501}{}{Mi tÃ¶rtÃ©nik errefelÃ©?}
+{502}{}{Semmit, kÃ¶sz.}
+{550}{}{Bob nem akar veled beszÃ©lgetni.}
 {2900}{}{Things have slowed down recently. Nothing really to tell ya.}
 {2901}{}{brahmin mutilators}
 {2902}{}{walking spirits}

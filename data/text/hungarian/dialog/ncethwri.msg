@@ -1,211 +1,211 @@
-{100}{}{A hölgy Mrs. Wright.}
-{150}{}{Egy tagbaszakadt, szomorú arcú nõt látsz. Nagyon letörtnek tûnik, és magában sóhajtozik.}
-{151}{}{A hölgy Mrs. Wright. Nagyon letörtnek tûnik, és magában sóhajtozik.}
-{175}{}{Egy testes, rózsás arcú nõt látsz. Szemmel láthatóan jó hangulatban van, és magában dúdol.}
-{176}{}{Õ Mrs. Wright. Szemmel láthatóan jó hangulatban van, és magában dúdol.}
-{200}{}{*Sóhajt*}
+{100}{}{A hÃ¶lgy Mrs. Wright.}
+{150}{}{Egy tagbaszakadt, szomorÃº arcÃº nÅ‘t lÃ¡tsz. Nagyon letÃ¶rtnek tÅ±nik, Ã©s magÃ¡ban sÃ³hajtozik.}
+{151}{}{A hÃ¶lgy Mrs. Wright. Nagyon letÃ¶rtnek tÅ±nik, Ã©s magÃ¡ban sÃ³hajtozik.}
+{175}{}{Egy testes, rÃ³zsÃ¡s arcÃº nÅ‘t lÃ¡tsz. Szemmel lÃ¡thatÃ³an jÃ³ hangulatban van, Ã©s magÃ¡ban dÃºdol.}
+{176}{}{Å Mrs. Wright. Szemmel lÃ¡thatÃ³an jÃ³ hangulatban van, Ã©s magÃ¡ban dÃºdol.}
+{200}{}{*SÃ³hajt*}
 {201}{}{Hogy tehette ezt velem?}
-{205}{}{Megint egy újabb nagyszerû renói nap!}
-{206}{}{::Miközben dolgozol, fütyülsz...::}
-{207}{}{Ah, munkára fel! Nagy öröm, ha csinálhatsz valamit, ráadásul jól csinálod.}
+{205}{}{Megint egy Ãºjabb nagyszerÅ± renÃ³i nap!}
+{206}{}{::MikÃ¶zben dolgozol, fÃ¼tyÃ¼lsz...::}
+{207}{}{Ah, munkÃ¡ra fel! Nagy Ã¶rÃ¶m, ha csinÃ¡lhatsz valamit, rÃ¡adÃ¡sul jÃ³l csinÃ¡lod.}
 {208}{}{::Hmmmm-hmmm-hmmm-hm-hm -hmmmm::}
-{209}{}{Megint egy újabb nagyszerû renói éjszaka!}
-{210}{}{(A nõ összerezzen.) Jaj istenem! Úgy megijesztett! (Rádsandít.) Nos?}
-{211}{}{(Mrs. Wright összerezzen.) Jaj istenem! Úgy megijesztett! (Rádsandít.) Örülök, hogy újra látom!}
+{209}{}{Megint egy Ãºjabb nagyszerÅ± renÃ³i Ã©jszaka!}
+{210}{}{(A nÅ‘ Ã¶sszerezzen.) Jaj istenem! Ãšgy megijesztett! (RÃ¡dsandÃ­t.) Nos?}
+{211}{}{(Mrs. Wright Ã¶sszerezzen.) Jaj istenem! Ãšgy megijesztett! (RÃ¡dsandÃ­t.) Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tom!}
 {212}{}{Ki az, ki az?}
-{213}{}{Helló, helló!}
+{213}{}{HellÃ³, hellÃ³!}
 {214}{}{Te nem mami... Mami? Mamiiii...?! Mami! Menek keres Mami.}
-{215}{}{Ki vagy te?}
-{216}{}{Láttam, ahogy magában dúdolgat, és úgy gondoltam beszélgethetnénk egy kicsit, asszonyom. Szép idõnk van, nem igaz?}
-{217}{}{Bocs. Összetévesztettelek valakivel.}
-{220}{}{(Kicsit meglepõdik, aztán végigmér.) }
-{222}{}{(Kotorászik a zsebeiben, aztán elõhúz valamit és a kezedbe nyomja.) Tessék, kedvesem. Fogadja el.}
-{223}{}{Kösssz}
-{224}{}{Elpályázol}
-{230}{}{(Ó, te szegény! Túl sok napsugárzás érhetett... }
-{231}{}{Óh, szegény pára... nincs otthonod? }
-{232}{}{(Keresgél a zsebében.) Bárcsak volna nálam számodra valami étel vagy víz...}
-{240}{}{Hát, hogyne, hogyne. (Mosolyog.) Én Etil Wright asszony vagyok, a New Reno-i Önmegtartóztatók Szövetségének vezetõje. Önben kit tisztelhetek?}
-{241}{}{Utazó vagyok és egy Édenkert Létrehozást Elõsegítõ Táskát keresek. Hallott valaha ilyesmirõl?}
-{242}{}{Utazó vagyok és a 13-as Menedéket keresem. Nem tudja, hol van?}
-{243}{}{Mi ez az Önmegtartóztatók Szövetsége?}
-{244}{}{Mrs. Wright? Az ön férje a Wright családfõ?}
-{245}{}{Ön akkor Richard édesanyja, ugye? Hallottam, hogy nemrég halt meg.}
-{246}{}{Sajnálom, de most mennem kell.}
-{250}{}{Márminthogy én? Etil Wright asszony vagyok, a New Reno-i Önmegtartóztatók Szövetségének vezetõje. (Végigmér.) Önben kit tisztelhetek?}
+{215}{}{Ki vagy?}
+{216}{}{LÃ¡ttam, ahogy magÃ¡ban dÃºdolgat, Ã©s Ãºgy gondoltam beszÃ©lgethetnÃ©nk egy kicsit, asszonyom. SzÃ©p idÅ‘nk van, nem igaz?}
+{217}{}{Bocs. Ã–sszetÃ©vesztettelek valakivel.}
+{220}{}{(Kicsit meglepÅ‘dik, aztÃ¡n vÃ©gigmÃ©r.) }
+{222}{}{(KotorÃ¡szik a zsebeiben, aztÃ¡n elÅ‘hÃºz valamit Ã©s a kezedbe nyomja.) TessÃ©k, kedvesem. Fogadja el.}
+{223}{}{KÃ¶sssz}
+{224}{}{Otthagyod}
+{230}{}{(Ã“, te szegÃ©ny! TÃºl sok napsugÃ¡rzÃ¡s Ã©rhetett... }
+{231}{}{Ã“h, szegÃ©ny pÃ¡ra... nincs otthonod? }
+{232}{}{(KeresgÃ©l a zsebÃ©ben.) BÃ¡rcsak volna nÃ¡lam szÃ¡modra valami Ã©tel vagy vÃ­z...}
+{240}{}{HÃ¡t, hogyne, hogyne. (Mosolyog.) Ã‰n Etil Wright asszony vagyok, a New Reno-i Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©gÃ©nek vezetÅ‘je. Ã–nben kit tisztelhetek?}
+{241}{}{UtazÃ³ vagyok Ã©s egy Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t keresek. Hallott valaha ilyesmirÅ‘l?}
+{242}{}{UtazÃ³ vagyok Ã©s a 13-as MenedÃ©ket keresem. Nem tudja, hol van?}
+{243}{}{Mi ez az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge?}
+{244}{}{Mrs. Wright? Az Ã¶n fÃ©rje a Wright csalÃ¡dfÅ‘?}
+{245}{}{Ã–n akkor Richard Ã©desanyja, ugye? Hallottam, hogy nemrÃ©g halt meg.}
+{246}{}{SajnÃ¡lom, de most mennem kell.}
+{250}{}{MÃ¡rminthogy Ã©n? Etil Wright asszony vagyok, a New Reno-i Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©gÃ©nek vezetÅ‘je. (VÃ©gigmÃ©r.) Ã–nben kit tisztelhetek?}
 {251}{}{A nevem }
-{252}{}{Utazó vagyok, és szeretnék kérdezgetni ezt-azt New Renóról...}
-{254}{}{Igazán szívesen maradnék beszélgetni, de most mennem kell.}
-{260}{}{Jó ég! Te törzsbéli vagy, ugye? Az akcentusod leleplezett! (Felemeli a hangját, és lassan folytatja.) HADD ÜDVÖZÖLJELEK ELSÕKÉNT A VÁROSUNKBAN!}
-{261}{}{Mit mondol? Én egyszerû vadember. Nem érteni.}
-{262}{}{Jóasszony, nem vagyok sem süket, sem hülye! Éppen ELÉGGÉ jól értem, mit mond anélkül, hogy felemelné a hangját.}
-{263}{}{Ööö, köszönöm. Szeretnék kérdezgetni New Renóval kapcsolatban...}
+{252}{}{UtazÃ³ vagyok, Ã©s szeretnÃ©k kÃ©rdezgetni ezt-azt New RenÃ³rÃ³l...}
+{254}{}{IgazÃ¡n szÃ­vesen maradnÃ©k beszÃ©lgetni, de most mennem kell.}
+{260}{}{JÃ³ Ã©g! Te tÃ¶rzsbÃ©li vagy, ugye? Az akcentusod leleplezett! (Felemeli a hangjÃ¡t, Ã©s lassan folytatja.) HADD ÃœDVÃ–ZÃ–LJELEK ELSÅKÃ‰NT A VÃROSUNKBAN!}
+{261}{}{Mit mondol? Ã‰n egyszerÅ± vadember. Nem Ã©rteni.}
+{262}{}{JÃ³asszony, nem vagyok sem sÃ¼ket, sem hÃ¼lye! Ã‰ppen ELÃ‰GGÃ‰ jÃ³l Ã©rtem, mit mond anÃ©lkÃ¼l, hogy felemelnÃ© a hangjÃ¡t.}
+{263}{}{Ã–Ã¶Ã¶, kÃ¶szÃ¶nÃ¶m. SzeretnÃ©k kÃ©rdezgetni New RenÃ³val kapcsolatban...}
 {264}{}{MOST MENNEM KELL!}
-{270}{}{AZT MONDTAM, HOGY ÉN... (Magára mutat.) ...ÜDVÖZLÖM... (Rád mutat.) ÖNT... (Körbemutat.) A FÉNYEK VÁROSÁBAN!}
-{272}{}{Lehet, hogy azt hiszi, ez a modern páncél valami mágikus módon ragadt hozzám... Hagyja abba ezt a "törzsbéli" dumát, rendben?}
-{273}{}{Maga szerint ez a fegyver valami misztikus totem, amit mutogatni jöttem? Hagyja abba ezt a "törzsbéli" dumát, ha megkérhetem!}
-{274}{}{JOBB, HA MOST MEGYEK, MIELÕTT ELVESZTEM A TÜRELMEM!}
-{280}{}{Ó, elnézést! (Zavartnak tûnik.) Bocsánat, bocsánat! Csak azért van, mert azt hittem... izé... felejtsük el, spongyát rá. Mit tehetek önért?}
-{281}{}{Volna néhány kérdésem New Renóval kapcsolatban...}
-{282}{}{Semmi gond. Viszont mennem kell.}
-{290}{}{(Rádsandít, aztán felvonja a szemöldökét.) Elnézést, de milyen Édenkertrõl beszél? Sajnálom, de sosem hallottam ilyesmirõl.}
-{291}{}{Lenne pár kérdésem.}
-{292}{}{Hagyjuk akkor... amúgy is mennem kell.}
-{300}{}{13-as Menedéket mondott? (Eléggé meg van lepõdve.) Jaj istenkém, nem hallottam róla... na várjon. Ez ebben a formában nem igaz. Észak-kelet felé ott van Menedékváros. Nem azt keresi véletlenül?}
-{301}{}{Nem, másról van szó... de talán tudna válaszolni más kérdésekre...}
-{302}{}{Meglehet. Segítene nekem egy-két kérdést illetõen?}
-{303}{}{Lehetséges. Mindenesetre... viszlát!.. és köszönet az információért.}
-{310}{}{Hát hogyne! (Ujjával mutogat hozzá. ) New Reno szép kis város, de a BÛN városa is egyben. A legtöbb bûn forrása az alkohol... vagy ahogy a törzsbéliek hívják... (színpadias szünetet tart.) ...TÜZES VÍZ!}
-{311}{}{Öö, mi "primitívek" szintén alkoholnak hívjuk.}
-{312}{}{Igen, de mi a helyzet ezzel az Önmegtartóztató Szövetséggel?}
-{313}{}{Indulnom kell. Hallom a törzsbéliek hívó szavát.}
-{315}{}{(Tovább zsörtölõdik.) }
-{316}{}{Az Önmegtartóztatók Szövetségét azért alapítottuk, hogy az emberek elforduljanak a testet-lelket mérgezõ ivászattól és inkább a munkában találják meg életük kiteljesedését.}
-{317}{}{Ó, értem, és mi a helyz...}
-{318}{}{Úgymint a...}
-{320}{}{(Döbbent arcot vág.) Önt bizonyára félrevezették! Még a magához hasonló primitív törzsbéliek sem gondolhatják komolyan, hogy...}
-{321}{}{Nincs is jobb, mint egy kis kommunális szerelmeskedés, némi szerencsejátékkal vegyítve, a napot pedig néhány krigli érlelt lótejjel zárjuk. Ezektõl olyan nagyszerû A VADEMBEREK élete!}
-{322}{}{Nincs is jobb, mint egy kis kommunális szerelmeskedés, némi szerencsejátékkal vegyítve, a napot pedig néhány krigli érlelt lótejjel zárjuk. Ezektõl olyan nagyszerû A VADEMBEREK élete!}
-{323}{}{Rábízom a képzelõerejére. A fenti válasz alapján, jobb is így.}
-{324}{}{A rézangyalát, hát hogyne! Én magam is szívesen benne vagyok mindhárom fajta bûnbeesésben. }
-{325}{}{Richard Millhouse Nixon-ra és az anyjára mondom... nem tudom, maguk törzsbéliek miféle praktikákat ûznek a bûnbarlangjaikban, de New Reno változáson megy keresztül! Mi CIVILIZÁLT népek vagyunk!}
-{326}{}{Az említett gonoszságok egyikét sem mûveljük a falumban. Talán mi is tudnánk tanítani valamit a "civilizált" emberek számára.}
-{327}{}{Kik a szervezetük tagjai?}
-{328}{}{Mik a szervezetük célkitûzései?}
-{329}{}{Értem. Köszönöm, hogy megosztotta velem a gondolatait. Viszlát!}
-{330}{}{(Gondolkodik kicsit.) Hát például a jó Tully Atya, ha már említeni kell valakit.}
-{331}{}{(Gondolkodik kicsit.) Hát például a jó Tully Atya, mielõtt elhunyt volna, közénk tartozott.}
-{332}{}{Ööö, Tully Atya a legrosszabb tüzesvíz fogyasztó, akit valaha láttam. Csak a leheletétõl majdnem berúgtam.}
+{270}{}{AZT MONDTAM, HOGY Ã‰N... (MagÃ¡ra mutat.) ...ÃœDVÃ–ZLÃ–M... (RÃ¡d mutat.) Ã–NT... (KÃ¶rbemutat.) A FÃ‰NYEK VÃROSÃBAN!}
+{272}{}{Lehet, hogy azt hiszi, ez a modern pÃ¡ncÃ©l valami mÃ¡gikus mÃ³don ragadt hozzÃ¡m... Hagyja abba ezt a "tÃ¶rzsbÃ©li" dumÃ¡t, rendben?}
+{273}{}{Maga szerint ez a fegyver valami misztikus totem, amit mutogatni jÃ¶ttem? Hagyja abba ezt a "tÃ¶rzsbÃ©li" dumÃ¡t, ha megkÃ©rhetem!}
+{274}{}{JOBB, HA MOST MEGYEK, MIELÅTT ELVESZTEM A TÃœRELMEM!}
+{280}{}{Ã“, elnÃ©zÃ©st! (Zavartnak tÅ±nik.) BocsÃ¡nat, bocsÃ¡nat! Csak azÃ©rt van, mert azt hittem... izÃ©... felejtsÃ¼k el, spongyÃ¡t rÃ¡. Mit tehetek Ã¶nÃ©rt?}
+{281}{}{SzeretnÃ©k egy-kÃ©t kÃ©rdÃ©st feltenni New RenÃ³val kapcsolatban...}
+{282}{}{Felejtse el. Most mennem kell.}
+{290}{}{(RÃ¡dsandÃ­t, aztÃ¡n felvonja a szemÃ¶ldÃ¶kÃ©t.) ElnÃ©zÃ©st, de milyen Ã‰denkertrÅ‘l beszÃ©l? SajnÃ¡lom, de sosem hallottam ilyesmirÅ‘l.}
+{291}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{292}{}{Hagyjuk akkor... amÃºgy is mennem kell.}
+{300}{}{13-as MenedÃ©ket mondott? (ElÃ©ggÃ© meg van lepÅ‘dve.) Jaj istenkÃ©m, nem hallottam rÃ³la... na vÃ¡rjon. Ez ebben a formÃ¡ban nem igaz. Ã‰szak-kelet felÃ© ott van MenedÃ©kvÃ¡ros. Nem azt keresi vÃ©letlenÃ¼l?}
+{301}{}{Nem, mÃ¡srÃ³l van szÃ³... de talÃ¡n tudna vÃ¡laszolni mÃ¡s kÃ©rdÃ©sekre...}
+{302}{}{Meglehet. SegÃ­tene nekem egy-kÃ©t kÃ©rdÃ©st illetÅ‘en?}
+{303}{}{LehetsÃ©ges. Mindenesetre... viszlÃ¡t!.. Ã©s kÃ¶szÃ¶net az informÃ¡ciÃ³Ã©rt.}
+{310}{}{HÃ¡t hogyne! (UjjÃ¡val mutogat hozzÃ¡. ) New Reno szÃ©p kis vÃ¡ros, de a BÅ°N vÃ¡rosa is egyben. A legtÃ¶bb bÅ±n forrÃ¡sa az alkohol... vagy ahogy a tÃ¶rzsbÃ©liek hÃ­vjÃ¡k... (szÃ­npadias szÃ¼netet tart.) ...TÃœZES VÃZ!}
+{311}{}{Ã–Ã¶, mi "primitÃ­vek" szintÃ©n alkoholnak hÃ­vjuk.}
+{312}{}{Igen, de mi a helyzet ezzel az Ã–nmegtartÃ³ztatÃ³ SzÃ¶vetsÃ©ggel?}
+{313}{}{Indulnom kell. Hallom a tÃ¶rzsbÃ©liek hÃ­vÃ³ szavÃ¡t.}
+{315}{}{(TovÃ¡bb zsÃ¶rtÃ¶lÅ‘dik.) }
+{316}{}{Az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©gÃ©t azÃ©rt alapÃ­tottuk, hogy az emberek elforduljanak a testet-lelket mÃ©rgezÅ‘ ivÃ¡szattÃ³l Ã©s inkÃ¡bb a munkÃ¡ban talÃ¡ljÃ¡k meg Ã©letÃ¼k kiteljesedÃ©sÃ©t.}
+{317}{}{Ã“, Ã©rtem, Ã©s mi a helyz...}
+{318}{}{Ãšgymint a...}
+{320}{}{(DÃ¶bbent arcot vÃ¡g.) Ã–nt bizonyÃ¡ra fÃ©lrevezettÃ©k! MÃ©g a magÃ¡hoz hasonlÃ³ primitÃ­v tÃ¶rzsbÃ©liek sem gondolhatjÃ¡k komolyan, hogy...}
+{321}{}{Nincs is jobb, mint egy kis kommunÃ¡lis szerelmeskedÃ©s, nÃ©mi szerencsejÃ¡tÃ©kkal vegyÃ­tve, a napot pedig nÃ©hÃ¡ny krigli Ã©rlelt lÃ³tejjel zÃ¡rjuk. EzektÅ‘l olyan nagyszerÅ± A VADEMBEREK Ã©lete!}
+{322}{}{Nincs is jobb, mint egy kis kommunÃ¡lis szerelmeskedÃ©s, nÃ©mi szerencsejÃ¡tÃ©kkal vegyÃ­tve, a napot pedig nÃ©hÃ¡ny krigli Ã©rlelt lÃ³tejjel zÃ¡rjuk. EzektÅ‘l olyan nagyszerÅ± A VADEMBEREK Ã©lete!}
+{323}{}{RÃ¡bÃ­zom a kÃ©pzelÅ‘erejÃ©re. A fenti vÃ¡lasz alapjÃ¡n, jobb is Ã­gy.}
+{324}{}{A rÃ©zangyalÃ¡t, hÃ¡t hogyne! Ã‰n magam is szÃ­vesen benne vagyok mindhÃ¡rom fajta bÅ±nbeesÃ©sben. }
+{325}{}{Richard Millhouse Nixon-ra Ã©s az anyjÃ¡ra mondom... nem tudom, maguk tÃ¶rzsbÃ©liek mifÃ©le praktikÃ¡kat Å±znek a bÅ±nbarlangjaikban, de New Reno vÃ¡ltozÃ¡son megy keresztÃ¼l! Mi CIVILIZÃLT nÃ©pek vagyunk!}
+{326}{}{Az emlÃ­tett gonoszsÃ¡gok egyikÃ©t sem mÅ±veljÃ¼k a falumban. TalÃ¡n mi is tudnÃ¡nk tanÃ­tani valamit a "civilizÃ¡lt" emberek szÃ¡mÃ¡ra.}
+{327}{}{Kik a szervezetÃ¼k tagjai?}
+{328}{}{Mik a szervezetÃ¼k cÃ©lkitÅ±zÃ©sei?}
+{329}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m, hogy megosztotta velem a gondolatait. ViszlÃ¡t!}
+{330}{}{(Gondolkodik kicsit.) HÃ¡t pÃ©ldÃ¡ul a jÃ³ Tully Atya, ha mÃ¡r emlÃ­teni kell valakit.}
+{331}{}{(Gondolkodik kicsit.) HÃ¡t pÃ©ldÃ¡ul a jÃ³ Tully Atya, mielÅ‘tt elhunyt volna, kÃ¶zÃ©nk tartozott.}
+{332}{}{Ã–Ã¶Ã¶, Tully Atya a legrosszabb tÃ¼zesvÃ­z fogyasztÃ³, akit valaha lÃ¡ttam. Csak a leheletÃ©tÅ‘l majdnem berÃºgtam.}
 {333}{}{Ki az a Tully Atya?}
-{335}{}{Azt hiszem, máris túl sok idõt pazaroltam el ma beszélgetéssel. Mennem kell.}
-{340}{}{Na, akkor idefigyeljen! (Összehúzza a szemöldökét.) Ezt a vádaskodást nem tudom tolerálni. A jó Atya megjárta a poklot az alkohollal, de a Szövetség segítségével megküzdött a lelkéért és gyõzelmet aratott!}
-{341}{}{Tisztában vagyok vele, hogy a jó Atya, ha meglát egy lõreforrást, nem egyszerûen odamegy, hanem ODAROHAN... persze csak akkor, ha addigra már nem itta le magát a sárga földig.}
-{342}{}{Ez nem vádaskodás. Egyszerûen csak tény, hogy New Reno nagy szellemi vezetõje kábé annyira egészséges... mint maga a város.}
-{343}{}{Rendben. Ebben nincs vita. Szóval mit is csinál a Szövetség?}
-{344}{}{Hát ez bizony jó hír. Sajnos azonban mennem kell.}
-{345}{}{Tudnia kell, hogy õ New Reno szellemi vezetõje. Az egyetlen renói kápolna az õ irányítása alatt áll. BESZÉLNIE KELL vele, nagyon inspiráló ember!}
-{346}{}{Rendben, meglehet, hogy beszélek vele. Szóval mit csinál az Önmegtartóztatók Szövetsége?}
-{347}{}{Lehet, hogy most rögtön elmegyek hozzá.}
-{350}{}{Hmmm! Szavamra mondom, ha legközelebb összefutunk, szó nélkül menjen el mellettem!}
-{351}{}{Úgy lesz.}
-{352}{}{Rendben.}
-{355}{}{Hát igen, igen, õ az. (Újra rádsandít.) Bocsánat, hogy megkérdezem, de ismeri a férjemet?}
-{356}{}{Igen, ismerem. New Renóban a Wright család tartja felügyelete alatt az alkoholterjesztést.}
-{357}{}{Személyesen nem, de azt tudom, hogy New Renóban a Wright család tartja felügyelete alatt az alkoholterjesztést.}
+{335}{}{Azt hiszem, mÃ¡ris tÃºl sok idÅ‘t pazaroltam el ma beszÃ©lgetÃ©ssel. Mennem kell.}
+{340}{}{Na, akkor idefigyeljen! (Ã–sszehÃºzza a szemÃ¶ldÃ¶kÃ©t.) Ezt a vÃ¡daskodÃ¡st nem tudom tolerÃ¡lni. A jÃ³ Atya megjÃ¡rta a poklot az alkohollal, de a SzÃ¶vetsÃ©g segÃ­tsÃ©gÃ©vel megkÃ¼zdÃ¶tt a lelkÃ©Ã©rt Ã©s gyÅ‘zelmet aratott!}
+{341}{}{TisztÃ¡ban vagyok vele, hogy a jÃ³ Atya, ha meglÃ¡t egy lÅ‘reforrÃ¡st, nem egyszerÅ±en odamegy, hanem ODAROHAN... persze csak akkor, ha addigra mÃ¡r nem itta le magÃ¡t a sÃ¡rga fÃ¶ldig.}
+{342}{}{Ez nem vÃ¡daskodÃ¡s. EgyszerÅ±en csak tÃ©ny, hogy New Reno nagy szellemi vezetÅ‘je kÃ¡bÃ© annyira egÃ©szsÃ©ges... mint maga a vÃ¡ros.}
+{343}{}{Rendben. Ebben nincs vita. SzÃ³val mit is csinÃ¡l a SzÃ¶vetsÃ©g?}
+{344}{}{HÃ¡t ez bizony jÃ³ hÃ­r. Sajnos azonban mennem kell.}
+{345}{}{Tudnia kell, hogy Å‘ New Reno szellemi vezetÅ‘je. Az egyetlen renÃ³i kÃ¡polna az Å‘ irÃ¡nyÃ­tÃ¡sa alatt Ã¡ll. BESZÃ‰LNIE KELL vele, nagyon inspirÃ¡lÃ³ ember!}
+{346}{}{Rendben, meglehet, hogy beszÃ©lek vele. SzÃ³val mit csinÃ¡l az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge?}
+{347}{}{Lehet, hogy most rÃ¶gtÃ¶n elmegyek hozzÃ¡.}
+{350}{}{Hmmm! Szavamra mondom, ha legkÃ¶zelebb Ã¶sszefutunk, szÃ³ nÃ©lkÃ¼l menjen el mellettem!}
+{351}{}{Ãšgy lesz.}
+{352}{}{JÃ³l van.}
+{355}{}{HÃ¡t igen, igen, Å‘ az. (Ãšjra rÃ¡dsandÃ­t.) BocsÃ¡nat, hogy megkÃ©rdezem, de ismeri a fÃ©rjemet?}
+{356}{}{Igen, ismerem. New RenÃ³ban a Wright csalÃ¡d tartja felÃ¼gyelete alatt az alkoholterjesztÃ©st.}
+{357}{}{SzemÃ©lyesen nem, de azt tudom, hogy New RenÃ³ban a Wright csalÃ¡d tartja felÃ¼gyelete alatt az alkoholterjesztÃ©st.}
 {358}{}{Nem.}
-{359}{}{Nem igazán... és sajnos mennem is kell.}
-{360}{}{Ó. (Pislog.) Tehát mit is tehetek önért?}
-{361}{}{Szóval milyen kérdéseket akart feltenni?}
-{362}{}{(Megrezzen.) Ó, istenkém! Annyira megijesztett! (Rádsandít.) Szóval újra találkoztunk... üdvözlöm!}
-{363}{}{Mit is mondott az Önmegtartóztatók Szövetségérõl?}
-{364}{}{Egy Édenkert Létrehozást Elõsegítõ Táska nyomában járok.}
-{365}{}{Egy 13-as Menedék nevû helyet keresek.}
-{366}{}{Az ön férje a Wright családfõ, igazam van?}
-{368}{}{Tulképpen nem fontos. Indulnom kéne.}
-{369}{}{Bocsánat, de most nincs idõm a beszélgetésre. Viszlát!}
-{375}{}{(Összevonja a szemöldökét.) Mi ez a badarság, amirõl beszél? "New Reno-i alkoholterjesztés?" Tudom, hogy a férjem hajlamos az ivásra, de folyamatosan próbál megszabadulni ettõl a szokásától...}
-{376}{}{Meg azoktól az emberektõl, akik így vagy úgy keresztbe tesznek a kis alkoholbirodalmának.}
-{377}{}{Etil, ha még NEM vette volna észre, az ön férje a New Reno-i alkoholterítésért felelõs bûnszövetkezet vezére. Az, hogy visszaesõ piás, a legkisebb bûn, ami a lelkén szárad.}
-{378}{}{Jaj de buta vagyok, egy másik Wrightra gondoltam. Viszlátásra.}
-{380}{}{Jóságos ég! Hogy nem sül le a bõr a képérõl! (Mély lélegzetet vesz.) }
-{381}{}{Ez NAGYON komoly vád, fiatalember.}
-{382}{}{Ez NAGYON komoly vád, ifjú hölgy.}
+{359}{}{Nem igazÃ¡n... Ã©s sajnos mennem is kell.}
+{360}{}{Ã“. (Pislog.) TehÃ¡t mit is tehetek Ã¶nÃ©rt?}
+{361}{}{SzÃ³val milyen kÃ©rdÃ©seket akart feltenni?}
+{362}{}{(Megrezzen.) Ã“, istenkÃ©m! Annyira megijesztett! (RÃ¡dsandÃ­t.) SzÃ³val Ãºjra talÃ¡lkoztunk... Ã¼dvÃ¶zlÃ¶m!}
+{363}{}{Mit is mondott az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©gÃ©rÅ‘l?}
+{364}{}{Az Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t keresem.}
+{365}{}{Egy 13-as MenedÃ©k nevÅ± helyet keresek.}
+{366}{}{Az Ã¶n fÃ©rje a Wright csalÃ¡dfÅ‘, igazam van?}
+{368}{}{TulkÃ©ppen nem fontos. Indulnom kÃ©ne.}
+{369}{}{BocsÃ¡nat, de most nincs idÅ‘m a beszÃ©lgetÃ©sre. ViszlÃ¡t!}
+{375}{}{(Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t.) Mi ez a badarsÃ¡g, amirÅ‘l beszÃ©l? "New Reno-i alkoholterjesztÃ©s?" Tudom, hogy a fÃ©rjem hajlamos az ivÃ¡sra, de folyamatosan prÃ³bÃ¡l megszabadulni ettÅ‘l a szokÃ¡sÃ¡tÃ³l...}
+{376}{}{Meg azoktÃ³l az emberektÅ‘l, akik Ã­gy vagy Ãºgy keresztbe tesznek a kis alkoholbirodalmÃ¡nak.}
+{377}{}{Etil, ha mÃ©g NEM vette volna Ã©szre, az Ã¶n fÃ©rje a New Reno-i alkoholterÃ­tÃ©sÃ©rt felelÅ‘s bÅ±nszÃ¶vetkezet vezÃ©re. Az, hogy visszaesÅ‘ piÃ¡s, a legkisebb bÅ±n, ami a lelkÃ©n szÃ¡rad.}
+{378}{}{Jaj de buta vagyok, egy mÃ¡sik Wrightra gondoltam. ViszlÃ¡tÃ¡sra.}
+{380}{}{JÃ³sÃ¡gos Ã©g! Hogy nem sÃ¼l le a bÅ‘r a kÃ©pÃ©rÅ‘l! (MÃ©ly lÃ©legzetet vesz.) }
+{381}{}{Ez NAGYON komoly vÃ¡d, fiatalember.}
+{382}{}{Ez NAGYON komoly vÃ¡d, ifjÃº hÃ¶lgy.}
 {383}{}{Tudom, de...}
-{384}{}{Nézze, hölgyem, talán el ké...}
-{385}{}{Elmondok magának valamit! Nem titok, hogy a férjemnek volt egy magán szeszfõzdéje a MÚLTBAN. Mindazonáltal megesküdött, hogy csakis a saját céljaira használja és az ÉN KÉRÉSEMRE késõbb le is bontatta!}
-{386}{}{Csakugyan? Hát, lehet, hogy...}
-{387}{}{Nos, az a helyzet, hogy õ...}
-{390}{}{(Összevonja a szemöldökét és csípõre teszi a kezét.) Hát abban biztos lehet, hogy utánanézek! Ha bebizonyosodik, hogy ön téved, akkor jobb, ha elmegy a városból! Találkozzunk holnap reggel a templomnál és újra beszélünk!}
-{392}{}{Rendben, ott leszek. Viszlát!}
-{395}{}{(Lefagy a mosoly az arcáról.) Igen, Richard fiam... hát... nem olyan régen itthagyott bennünket. Én... hmmm. Igen. (A saját kezét nézi.) Én...}
-{396}{}{Úgy hallottam, Jet túladagolás történt... igaz ez?}
-{397}{}{Mindegy, hagyjuk! Felejtse el, hogy említettem! Inkább kérdeznék valami mást...}
-{398}{}{Inkább hagyjuk. Jobb, ha megyek.}
-{400}{}{(Összeszorítja a száját.) Az a rohadt méreg! Azt hittem, sikerült megtanítanom rá, hogy távoltartsa magát az ilyesmitõl, de úgy látszik...}
-{401}{}{Meg tudja mondani, nagyjából mikor szerezhette a Jetet?}
+{384}{}{NÃ©zze, hÃ¶lgyem, talÃ¡n el kÃ©...}
+{385}{}{Elmondok magÃ¡nak valamit! Nem titok, hogy a fÃ©rjemnek volt egy magÃ¡n szeszfÅ‘zdÃ©je a MÃšLTBAN. MindazonÃ¡ltal megeskÃ¼dÃ¶tt, hogy csakis a sajÃ¡t cÃ©ljaira hasznÃ¡lja Ã©s az Ã‰N KÃ‰RÃ‰SEMRE kÃ©sÅ‘bb le is bontatta!}
+{386}{}{Csakugyan? HÃ¡t, lehet, hogy...}
+{387}{}{Nos, az a helyzet, hogy Å‘...}
+{390}{}{(Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t Ã©s csÃ­pÅ‘re teszi a kezÃ©t.) HÃ¡t abban biztos lehet, hogy utÃ¡nanÃ©zek! Ha bebizonyosodik, hogy Ã¶n tÃ©ved, akkor jobb, ha elmegy a vÃ¡rosbÃ³l! TalÃ¡lkozzunk holnap reggel a templomnÃ¡l Ã©s Ãºjra beszÃ©lÃ¼nk!}
+{392}{}{Rendben, ott leszek. ViszlÃ¡t!}
+{395}{}{(Lefagy a mosoly az arcÃ¡rÃ³l.) Igen, Richard fiam... hÃ¡t... nem olyan rÃ©gen itthagyott bennÃ¼nket. Ã‰n... hmmm. Igen. (A sajÃ¡t kezÃ©t nÃ©zi.) Ã‰n...}
+{396}{}{Ãšgy hallottam, Jet tÃºladagolÃ¡s tÃ¶rtÃ©nt... igaz ez?}
+{397}{}{Mindegy, hagyjuk! Felejtse el, hogy emlÃ­tettem! InkÃ¡bb kÃ©rdeznÃ©k valami mÃ¡st...}
+{398}{}{InkÃ¡bb hagyjuk. Jobb, ha megyek.}
+{400}{}{(Ã–sszeszorÃ­tja a szÃ¡jÃ¡t.) Az a rohadt mÃ©reg! Azt hittem, sikerÃ¼lt megtanÃ­tanom rÃ¡, hogy tÃ¡voltartsa magÃ¡t az ilyesmitÅ‘l, de Ãºgy lÃ¡tszik...}
+{401}{}{Meg tudja mondani, nagyjÃ¡bÃ³l mikor szerezhette a Jetet?}
 {405}{}{I don't know! (Hands clench into fists.) They sell that poison on every corner here in New Reno! EVERYWHERE you go, they're
  peddling it...}
-{406}{}{Ismer egy-két dílert név szerint?}
-{407}{}{Felejtse el, hogy említettem. Kérdeznék inkább valami mást...}
-{410}{}{Név szerint nem. Ha meglátnak engem, úgy futnak, mint a nyulak... a város bejáratánál lévõ Szûz utcát és a kaszinók környékét úgy ellepték, mint a döglegyek.}
-{411}{}{Értem. Hadd kérdezzek valami mást...}
-{415}{}{Tartsa meg a távolságot, maga kéjdémon!... Ott paráználkodik a filmekben és mételyezi a tömegeket.}
-{416}{}{Ami azt illeti, soha! De magának aztán van bõr a képén, hogy idejön! Ott paráználkodik a filmekben, és mételyezi vele a tömegeket!}
-{417}{}{Hö? Én garázdálkodja filmbe' és kételyez tömeg?}
-{418}{}{Ajjaaaj! Megdumál! Megdumál! Menek elfele!}
-{419}{}{Úgy van. Érdekli valami állás? Eléggé kedvelem az ilyen nagy darab nõket, mint maga. (Behízelkedõen megmozgatod a szemöldöködet.) Lazítsa ki egy kicsit azt a harisnyatartót és máris jöhet a mehet.}
-{420}{}{Nézze, fiatal vagyok, kellett a pénz...}
-{421}{}{Látom, lesz mirõl beszélgetnünk. Viszlát!}
-{425}{}{El innen! El innen, de rögtön!}
+{406}{}{Ismer egy-kÃ©t dÃ­lert nÃ©v szerint?}
+{407}{}{Felejtse el, hogy emlÃ­tettem. KÃ©rdeznÃ©k inkÃ¡bb valami mÃ¡st...}
+{410}{}{NÃ©v szerint nem. Ha meglÃ¡tnak engem, Ãºgy futnak, mint a nyulak... a vÃ¡ros bejÃ¡ratÃ¡nÃ¡l lÃ©vÅ‘ SzÅ±z utcÃ¡t Ã©s a kaszinÃ³k kÃ¶rnyÃ©kÃ©t Ãºgy elleptÃ©k, mint a dÃ¶glegyek.}
+{411}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{415}{}{Tartsa meg a tÃ¡volsÃ¡got, maga kÃ©jdÃ©mon!... Ott parÃ¡znÃ¡lkodik a filmekben Ã©s mÃ©telyezi a tÃ¶megeket.}
+{416}{}{Ami azt illeti, soha! De magÃ¡nak aztÃ¡n van bÅ‘r a kÃ©pÃ©n, hogy idejÃ¶n! Ott parÃ¡znÃ¡lkodik a filmekben, Ã©s mÃ©telyezi vele a tÃ¶megeket!}
+{417}{}{HÃ¶? Ã‰n garÃ¡zdÃ¡lkodja filmbe' Ã©s kÃ©telyez tÃ¶meg?}
+{418}{}{Ajjaaaj! MegdumÃ¡l! MegdumÃ¡l! Menek elfele!}
+{419}{}{Ãšgy van. Ã‰rdekli valami Ã¡llÃ¡s? ElÃ©ggÃ© kedvelem az ilyen nagy darab nÅ‘ket, mint maga. (BehÃ­zelkedÅ‘en megmozgatod a szemÃ¶ldÃ¶kÃ¶det.) LazÃ­tsa ki egy kicsit azt a harisnyatartÃ³t Ã©s mÃ¡ris jÃ¶het a mehet.}
+{420}{}{NÃ©zze, fiatal vagyok, kellett a pÃ©nz...}
+{421}{}{LÃ¡tom, lesz mirÅ‘l beszÃ©lgetnÃ¼nk. ViszlÃ¡t!}
+{425}{}{El innen! El innen, de rÃ¶gtÃ¶n!}
 {426}{}{Menek! Menek!}
-{427}{}{Rendben, rendben! Már megyek is!}
-{428}{}{Jesszus-Maris! Lazítson már egy kicsit azon a masnin, még a végén leáll a vérkeringése!}
-{430}{}{(Végignéz, aztán a szeme megállapodik a hajcsár-jeleden. A hangja hirtelen fagyossá válik.) }
+{427}{}{Rendben, rendben! MÃ¡r megyek is!}
+{428}{}{Jesszus-Maris! LazÃ­tson mÃ¡r egy kicsit azon a masnin, mÃ©g a vÃ©gÃ©n leÃ¡ll a vÃ©rkeringÃ©se!}
+{430}{}{(VÃ©gignÃ©z, aztÃ¡n a szeme megÃ¡llapodik a hajcsÃ¡r-jeleden. A hangja hirtelen fagyossÃ¡ vÃ¡lik.) }
 {431}{}{Igen?}
-{432}{}{Már megint maga az? Nincs mirõl beszélgetnünk.}
-{433}{}{Én... ööö... én... én csak... ööö... keresi a... ööö... fene! Én szereti nem lenni hülye! Én utálja!}
-{434}{}{Én... ööö... óóóóó, fényes tárgya!}
+{432}{}{MÃ¡r megint maga az? Nincs mirÅ‘l beszÃ©lgetnÃ¼nk.}
+{433}{}{Ã‰n... Ã¶Ã¶Ã¶... Ã©n... Ã©n csak... Ã¶Ã¶Ã¶... keresi a... Ã¶Ã¶Ã¶... fene! Ã‰n szereti nem lenni hÃ¼lye! Ã‰n utÃ¡lja!}
+{434}{}{Ã‰n... Ã¶Ã¶Ã¶... Ã³Ã³Ã³Ã³Ã³, fÃ©nyes tÃ¡rgya!}
 {435}{}{I had some questions...}
-{436}{}{Látom, a beszélgetés nem viszi itt elõre a dolgokat. Viszlát!}
-{440}{}{Értem. Hát attól tartok, nem tudok segíteni. Viszlátásra.}
-{441}{}{Értem. Hát attól tartok, nem tudok segíteni. Jó éjszakát!}
-{442}{}{::Vállat von és otthagy::}
-{443}{}{Értem. Viszlát!}
-{444}{}{Akkor jól van. Jó éjszakát!}
-{450}{}{(Õ Mrs. Wright. Teljesen össze van törve.)}
-{451}{}{Ööö... Etil, jól érzi magát?}
-{452}{}{Nos... rájött valamire?}
+{436}{}{LÃ¡tom, a beszÃ©lgetÃ©s nem viszi itt elÅ‘re a dolgokat. ViszlÃ¡t!}
+{440}{}{Ã‰rtem. HÃ¡t attÃ³l tartok, nem tudok segÃ­teni. ViszlÃ¡tÃ¡sra.}
+{441}{}{Ã‰rtem. HÃ¡t attÃ³l tartok, nem tudok segÃ­teni. JÃ³ Ã©jszakÃ¡t!}
+{442}{}{::VÃ¡llat von Ã©s otthagy::}
+{443}{}{Sajnos mennem kell, ViszlÃ¡t!}
+{444}{}{Akkor jÃ³l van. JÃ³ Ã©jszakÃ¡t!}
+{450}{}{(Å Mrs. Wright. Teljesen Ã¶ssze van tÃ¶rve.)}
+{451}{}{Ã–Ã¶Ã¶... Etil, jÃ³l Ã©rzi magÃ¡t?}
+{452}{}{Nos... rÃ¡jÃ¶tt valamire?}
 {453}{}{Ah-ha! Igazam volt, vagy igazam volt?}
-{454}{}{Sajnálom. Még visszajövök.}
-{460}{}{Minden úgy van, ahogy mondta... (Sóhajt egyet.) A szeszfõzdét nem szerelte szét. Nagyon is nem! (Homlokát ráncolja.) Bíztam abban az emberben, de az alkohol hazugságra kényszerítette! *Hazudott a saját feleségének!*}
+{454}{}{SajnÃ¡lom. MÃ©g visszajÃ¶vÃ¶k.}
+{460}{}{Minden Ãºgy van, ahogy mondta... (SÃ³hajt egyet.) A szeszfÅ‘zdÃ©t nem szerelte szÃ©t. Nagyon is nem! (HomlokÃ¡t rÃ¡ncolja.) BÃ­ztam abban az emberben, de az alkohol hazugsÃ¡gra kÃ©nyszerÃ­tette! *Hazudott a sajÃ¡t felesÃ©gÃ©nek!*}
 {461}{}{::Hagyod bosszankodni.::}
-{462}{}{Hát igen, Etil... további bizonyíték az alkohol gonosz mivoltára. Az emberek, ha isznak, szörnyû dolgokra lesznek képesek. Különösen, ha a két fõgonosz, a pénz és a hatalom szintén közrejátszik.}
-{463}{}{Azt hiszem, jobb, ha magára hagyom egy darabig... Késõbb jelentkezem.}
-{470}{}{(Lecsitul.) Be fogom tartatni vele az ígéretét, mégha a saját kezemmel is kell megsemmisítenem azt a szeszfõzdét! Aztán beszédem lesz Orville-el! Meglátjuk, mit mond majd az a kis tetû!}
-{471}{}{Ne aggodalmaskodjon, Mrs. Wright! Már elintéztem a dolgot.}
-{472}{}{Hol van az a szeszfõzde? Lerombolom én magának.}
-{473}{}{Engedje, hogy én csináljam! A vasútállomás alatt van, nem igaz? Elsimítjuk az ügyet.}
-{474}{}{Jó ötlet. Talán tényleg szétverhetné azt a helyet.}
-{475}{}{Akkor késõbb találkozunk.}
-{480}{}{...az otthonunk mögötti vasútállomás alagsorában van! }
-{481}{}{Rombolja le! Zúzza szét! Írmagja se maradjon!}
-{482}{}{Rendben...}
-{490}{}{Úgy lesz a jó életbe! (Feltûri a ruhaujját. Meglepetésedre olyan karja van, mint egy súlyemelõnek.) Köszönöm, hogy felnyitotta a szemem, idegen. Majd én móresre tanítom az én kis férjecskémet, mégha attól koldul is!}
-{491}{}{Hát jó mulatást a gyakáshoz.}
-{500}{}{(Ahogy közeledsz Etilhez, reménykedve néz rád.) Kész...?}
-{501}{}{Leromboltam az egészet. Semmi nem maradt belõle. Elintézettnek lehet venni.}
-{502}{}{Még nem. Hol is van az a szeszfõzde?}
-{503}{}{Nem, még nem romboltam le a szeszfõzdét. Visszajövök, ha kész.}
-{510}{}{Az otthonunk mögötti vasútállomás alagsorában van! Rombolja le! Zúzza szét! Írmagja se maradjon!}
-{512}{}{Visszajövök, ha végeztem.}
-{515}{}{(Könnyek szöknek a szemébe.) Köszönöm, idegen. Nagy csapást mért a New Reno-i gonoszra. Nem tudom, hogyan köszönhetném meg...}
-{516}{}{Nem kell megköszönnie. Vigyázzon magára, Mrs. Wright!}
-{517}{}{Egy kicsit kifogytam a pénzbõl...}
-{520}{}{Hát ezt orvosolhatjuk. Jöjjön utánam!}
-{521}{}{(Követed õt.)}
-{522}{}{Igazság szerint nem szükséges megköszönnie. Vigyázzon magára, Mrs. Wright.}
-{525}{}{Tessék. Amit ebben a szekrényben talál, a magáé. Van benne egy kis pénz, ami segíthet az utazása során... és egy hasznos kis eszköz, amivel a különösen makacsakat szoktam jobb észre téríteni. Köszönet mindenért, amit tett.}
-{526}{}{Köszönöm, Mrs. Wright.}
-{530}{}{Köszönöm a segítségét, }
-{535}{}{New Reno nem fog szerencsejátékból, alkoholból meg prostitúcióból élni, de nem ám! Amíg Etil Wright van a kormánynál, addig nem! Punktum!}
-{536}{}{De hát az emberek szeretnek játszani, inni meg kurvázni. Én is szeretek.}
-{539}{}{Elnézést, eszembe jutott, hogy egy sürgõs elintéznivalóm van valahol.}
-{540}{}{(Felfújja magát.) Lehet, hogy maguknál bevett szokás mások nyilvános pocskondiázása, de itt Renóban pimaszságnak számít, hogy nyíltan idejön, és botorságokat beszél a férjemrõl.}
-{541}{}{Én mindössze csak annyit akarok ezzel mondani, hogy...}
-{542}{}{Az igazság fáj. Sok fájdalom fogja még érni. Viszlát!}
-{543}{}{Remek. Viszlát!}
+{462}{}{HÃ¡t igen, Etil... tovÃ¡bbi bizonyÃ­tÃ©k az alkohol gonosz mivoltÃ¡ra. Az emberek, ha isznak, szÃ¶rnyÅ± dolgokra lesznek kÃ©pesek. KÃ¼lÃ¶nÃ¶sen, ha a kÃ©t fÅ‘gonosz, a pÃ©nz Ã©s a hatalom szintÃ©n kÃ¶zrejÃ¡tszik.}
+{463}{}{Azt hiszem, jobb, ha magÃ¡ra hagyom egy darabig... KÃ©sÅ‘bb jelentkezem.}
+{470}{}{(Lecsitul.) Be fogom tartatni vele az Ã­gÃ©retÃ©t, mÃ©gha a sajÃ¡t kezemmel is kell megsemmisÃ­tenem azt a szeszfÅ‘zdÃ©t! AztÃ¡n beszÃ©dem lesz Orville-el! MeglÃ¡tjuk, mit mond majd az a kis tetÅ±!}
+{471}{}{Ne aggodalmaskodjon, Mrs. Wright! MÃ¡r elintÃ©ztem a dolgot.}
+{472}{}{Hol van az a szeszfÅ‘zde? Lerombolom Ã©n magÃ¡nak.}
+{473}{}{Engedje, hogy Ã©n csinÃ¡ljam! A vasÃºtÃ¡llomÃ¡s alatt van, nem igaz? ElsimÃ­tjuk az Ã¼gyet.}
+{474}{}{JÃ³ Ã¶tlet. TalÃ¡n tÃ©nyleg szÃ©tverhetnÃ© azt a helyet.}
+{475}{}{Akkor kÃ©sÅ‘bb talÃ¡lkozunk.}
+{480}{}{...az otthonunk mÃ¶gÃ¶tti vasÃºtÃ¡llomÃ¡s alagsorÃ¡ban van! }
+{481}{}{Rombolja le! ZÃºzza szÃ©t! Ãrmagja se maradjon!}
+{482}{}{KÃ©sz.}
+{490}{}{Ãšgy lesz a jÃ³ Ã©letbe! (FeltÅ±ri a ruhaujjÃ¡t. MeglepetÃ©sedre olyan karja van, mint egy sÃºlyemelÅ‘nek.) KÃ¶szÃ¶nÃ¶m, hogy felnyitotta a szemem, idegen. Majd Ã©n mÃ³resre tanÃ­tom az Ã©n kis fÃ©rjecskÃ©met, mÃ©gha attÃ³l koldul is!}
+{491}{}{HÃ¡t jÃ³ mulatÃ¡st a gyakÃ¡shoz.}
+{500}{}{(Ahogy kÃ¶zeledsz Etilhez, remÃ©nykedve nÃ©z rÃ¡d.) KÃ©sz...?}
+{501}{}{Leromboltam az egÃ©szet. Semmi nem maradt belÅ‘le. ElintÃ©zettnek lehet venni.}
+{502}{}{MÃ©g nem. Hol is van az a szeszfÅ‘zde?}
+{503}{}{Nem, mÃ©g nem romboltam le a szeszfÅ‘zdÃ©t. VisszajÃ¶vÃ¶k, ha kÃ©sz.}
+{510}{}{Az otthonunk mÃ¶gÃ¶tti vasÃºtÃ¡llomÃ¡s alagsorÃ¡ban van! Rombolja le! ZÃºzza szÃ©t! Ãrmagja se maradjon!}
+{512}{}{VisszajÃ¶vÃ¶k, ha vÃ©geztem.}
+{515}{}{(KÃ¶nnyek szÃ¶knek a szemÃ©be.) KÃ¶szÃ¶nÃ¶m, idegen. Nagy csapÃ¡st mÃ©rt a New Reno-i gonoszra. Nem tudom, hogyan kÃ¶szÃ¶nhetnÃ©m meg...}
+{516}{}{Nem kell megkÃ¶szÃ¶nnie. VigyÃ¡zzon magÃ¡ra, Mrs. Wright!}
+{517}{}{Egy kicsit kifogytam a pÃ©nzbÅ‘l...}
+{520}{}{HÃ¡t ezt orvosolhatjuk. JÃ¶jjÃ¶n utÃ¡nam!}
+{521}{}{(KÃ¶veted Å‘t.)}
+{522}{}{IgazsÃ¡g szerint nem szÃ¼ksÃ©ges megkÃ¶szÃ¶nnie. VigyÃ¡zzon magÃ¡ra, Mrs. Wright.}
+{525}{}{TessÃ©k. Amit ebben a szekrÃ©nyben talÃ¡l, a magÃ¡Ã©. Van benne egy kis pÃ©nz, ami segÃ­thet az utazÃ¡sa sorÃ¡n... Ã©s egy hasznos kis eszkÃ¶z, amivel a kÃ¼lÃ¶nÃ¶sen makacsakat szoktam jobb Ã©szre tÃ©rÃ­teni. KÃ¶szÃ¶net mindenÃ©rt, amit tett.}
+{526}{}{KÃ¶szÃ¶nÃ¶m, Mrs. Wright.}
+{530}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©gÃ©t, }
+{535}{}{New Reno nem fog szerencsejÃ¡tÃ©kbÃ³l, alkoholbÃ³l meg prostitÃºciÃ³bÃ³l Ã©lni, de nem Ã¡m! AmÃ­g Etil Wright van a kormÃ¡nynÃ¡l, addig nem! Punktum!}
+{536}{}{De hÃ¡t az emberek szeretnek jÃ¡tszani, inni meg kurvÃ¡zni. Ã‰n is szeretek.}
+{539}{}{ElnÃ©zÃ©st, eszembe jutott, hogy egy sÃ¼rgÅ‘s elintÃ©znivalÃ³m van valahol.}
+{540}{}{(FelfÃºjja magÃ¡t.) Lehet, hogy maguknÃ¡l bevett szokÃ¡s mÃ¡sok nyilvÃ¡nos pocskondiÃ¡zÃ¡sa, de itt RenÃ³ban pimaszsÃ¡gnak szÃ¡mÃ­t, hogy nyÃ­ltan idejÃ¶n, Ã©s botorsÃ¡gokat beszÃ©l a fÃ©rjemrÅ‘l.}
+{541}{}{Ã‰n mindÃ¶ssze csak annyit akarok ezzel mondani, hogy...}
+{542}{}{Az igazsÃ¡g fÃ¡j. Sok fÃ¡jdalom fogja mÃ©g Ã©rni. ViszlÃ¡t!}
+{543}{}{KÃ¶szÃ¶nÃ¶m, viszlÃ¡t!}
 {545}{}{Furthermore, he has resolved to help me and any other unfortunates addicted to alcohol break the habit. Shameful!
  To even SUGGEST my husband was selling the alcohol to others is...}
-{546}{}{Pontosan ez történik, Mrs. Wright. A férje alkoholt árusít New Renóban, és ezzel nagyban hozzájárul a nép lerészegedéséhez. Ez folyamatosan rontja az itteni életfeltételeket. Segítsen nekem, pontot tehetünk erre a csúnya történetre.}
-{547}{}{Ha nem hisz nekem, nézzen be a renói vasútállomásra! Ott majd meglátja, mi folyik.}
-{548}{}{Látom, nincs mit mondanunk egymásnak, amíg nem bizonyítom be az igazamat.}
-{550}{}{Nem szeretném, ha baja esne a gyerekeimnek, szóval csak óvatosan a fegyverekkel! Nem rossz srácok azok, csak egyszerûen... félrevezették õket. Végiggondolom, hogy lehetne ezen változtatni.}
-{551}{}{Oké, ne aggódjon emiatt... nem lesz emberveszteség.}
-{552}{}{Hha végeztem, visszajövök. Elõtte azonban el kell még intéznem egy-két dolgot.}
-{553}{}{Ööö, nem ígérhetek semmit... lehet, hogy valaki mást kéne találnia a feladatra.}
-{1251}{}{. Volna néhány kérdésem New Renóval kapcsolatban...}
-{1415}{}{(Összerezzen.) Jaj, istenem! (Rádsandít, aztán egyet nem értõen lebiggyeszti az ajkát.) Ami azt illeti, soha! }
-{1430}{}{(Összerezzen.) Jaj, istenkém! }
+{546}{}{Pontosan ez tÃ¶rtÃ©nik, Mrs. Wright. A fÃ©rje alkoholt Ã¡rusÃ­t New RenÃ³ban, Ã©s ezzel nagyban hozzÃ¡jÃ¡rul a nÃ©p lerÃ©szegedÃ©sÃ©hez. Ez folyamatosan rontja az itteni Ã©letfeltÃ©teleket. SegÃ­tsen nekem, pontot tehetÃ¼nk erre a csÃºnya tÃ¶rtÃ©netre.}
+{547}{}{Ha nem hisz nekem, nÃ©zzen be a renÃ³i vasÃºtÃ¡llomÃ¡sra! Ott majd meglÃ¡tja, mi folyik.}
+{548}{}{LÃ¡tom, nincs mit mondanunk egymÃ¡snak, amÃ­g nem bizonyÃ­tom be az igazamat.}
+{550}{}{Nem szeretnÃ©m, ha baja esne a gyerekeimnek, szÃ³val csak Ã³vatosan a fegyverekkel! Nem rossz srÃ¡cok azok, csak egyszerÅ±en... fÃ©lrevezettÃ©k Å‘ket. VÃ©giggondolom, hogy lehetne ezen vÃ¡ltoztatni.}
+{551}{}{OkÃ©, ne aggÃ³djon emiatt... nem lesz embervesztesÃ©g.}
+{552}{}{Hha vÃ©geztem, visszajÃ¶vÃ¶k. ElÅ‘tte azonban el kell mÃ©g intÃ©znem egy-kÃ©t dolgot.}
+{553}{}{Ã–Ã¶Ã¶, nem Ã­gÃ©rhetek semmit... lehet, hogy valaki mÃ¡st kÃ©ne talÃ¡lnia a feladatra.}
+{1251}{}{. Volna nÃ©hÃ¡ny kÃ©rdÃ©sem New RenÃ³val kapcsolatban...}
+{1415}{}{(Ã–sszerezzen.) Jaj, istenem! (RÃ¡dsandÃ­t, aztÃ¡n egyet nem Ã©rtÅ‘en lebiggyeszti az ajkÃ¡t.) Ami azt illeti, soha! }
+{1430}{}{(Ã–sszerezzen.) Jaj, istenkÃ©m! }
 {1431}{}{(Squints at you, then her gaze becomes glacial.) }
-{1480}{}{Megtenné? Én... az az igazság... rendben... (Belelendül a témába...) }
-{1530}{}{. Gondoskodni fogok róla, hogy a Wright család mostantól a helyes úton járjon.}
+{1480}{}{MegtennÃ©? Ã‰n... az az igazsÃ¡g... rendben... (BelelendÃ¼l a tÃ©mÃ¡ba...) }
+{1530}{}{. Gondoskodni fogok rÃ³la, hogy a Wright csalÃ¡d mostantÃ³l a helyes Ãºton jÃ¡rjon.}

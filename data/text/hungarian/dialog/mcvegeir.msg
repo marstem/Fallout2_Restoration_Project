@@ -1,71 +1,71 @@
-{100}{}{Az Aljanép vezetõje.}
+{100}{}{Az AljanÃ©p vezetÅ‘je.}
 {101}{}{Vegeir.}
-{102}{}{Magas, méltóságteljes ember áll elõtted. Mozgása egy cserkészõ macskáéra emlékeztet.}
-{150}{}{A hátam mögötti ajtón át eljuthatsz egy létrához. Használd azt, ha távozni akarsz.}
-{151}{}{Kérlek, vidd el az üzenetet Modocba!}
-{152}{}{Modoc dél felé van innen.}
-{153}{}{Dél.}
-{154}{}{Nem, a másik dél.}
-{155}{}{Nocsak, egy látogató! Milyen kényelmes helyzet, már azon tanakodtam, hogyan létesítsünk kapcsolatot a felszínlakókkal, de most már nem kell aggódnom emiatt. Köszönöm, hogy idõben érkeztél. Üdvözlünk az Aljanép otthonában.}
-{156}{}{Milyen jó, hogy visszatértél. Gondolom, megvitted az üzenetet Modocba. Hogy fogadták?}
-{157}{}{Idõre van szükségük, hogy végiggondolják.}
-{158}{}{Vannak fenntartásaik.}
-{159}{}{El akarom vinni Jonnyt a szüleinek.}
-{160}{}{Meggondoltad magad netán és segítesz?}
-{161}{}{Elõször is volna néhány kérdésem.}
-{162}{}{A válasz még mindig "nem".}
-{163}{}{Igen-igen... Úgy döntöttem, mégis segítek nektek.}
+{102}{}{Magas, mÃ©ltÃ³sÃ¡gteljes ember Ã¡ll elÅ‘tted. MozgÃ¡sa egy cserkÃ©szÅ‘ macskÃ¡Ã©ra emlÃ©keztet.}
+{150}{}{A hÃ¡tam mÃ¶gÃ¶tti ajtÃ³n Ã¡t eljuthatsz egy lÃ©trÃ¡hoz. HasznÃ¡ld azt, ha tÃ¡vozni akarsz.}
+{151}{}{KÃ©rlek, vidd el az Ã¼zenetet Modocba!}
+{152}{}{Modoc dÃ©l felÃ© van innen.}
+{153}{}{DÃ©l.}
+{154}{}{Nem, a mÃ¡sik dÃ©l.}
+{155}{}{Nocsak, egy lÃ¡togatÃ³! Milyen kÃ©nyelmes helyzet, mÃ¡r azon tanakodtam, hogyan lÃ©tesÃ­tsÃ¼nk kapcsolatot a felszÃ­nlakÃ³kkal, de most mÃ¡r nem kell aggÃ³dnom emiatt. KÃ¶szÃ¶nÃ¶m, hogy idÅ‘ben Ã©rkeztÃ©l. ÃœdvÃ¶zlÃ¼nk az AljanÃ©p otthonÃ¡ban.}
+{156}{}{Milyen jÃ³, hogy visszatÃ©rtÃ©l. Gondolom, megvitted az Ã¼zenetet Modocba. Hogy fogadtÃ¡k?}
+{157}{}{IdÅ‘re van szÃ¼ksÃ©gÃ¼k, hogy vÃ©giggondoljÃ¡k.}
+{158}{}{Vannak fenntartÃ¡saik.}
+{159}{}{El akarom vinni Jonnyt a szÃ¼leinek.}
+{160}{}{Meggondoltad magad netÃ¡n Ã©s segÃ­tesz?}
+{161}{}{ElÅ‘szÃ¶r is volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{162}{}{A vÃ¡lasz mÃ©g mindig "nem".}
+{163}{}{Igen-igen... Ãšgy dÃ¶ntÃ¶ttem, mÃ©gis segÃ­tek nektek.}
 {165}{}{Thank you for helping us. You will always be welcome here. For your services, I offer this as a
  reward. [Vegeir hands you an assault rifle.]}
-{166}{}{Köszönöm, hogy számíthattunk rád. Mindig is szívesen látott vendég leszel nálunk.}
-{167}{}{Megfelel nektek, ha Jonnyt hazaviszem a szüleinek?}
-{168}{}{A csörgõ láncok hangja és a nyögés általában elég, hogy bárkit elriasszunk innen, de mostanában azt a parancsot kapták, ha találnak egy felszínlakót, hozzák elém.}
-{169}{}{Ez akkor rendben van! Most mennék...}
+{166}{}{KÃ¶szÃ¶nÃ¶m, hogy szÃ¡mÃ­thattunk rÃ¡d. Mindig is szÃ­vesen lÃ¡tott vendÃ©g leszel nÃ¡lunk.}
+{167}{}{Megfelel nektek, ha Jonnyt hazaviszem a szÃ¼leinek?}
+{168}{}{A csÃ¶rgÅ‘ lÃ¡ncok hangja Ã©s a nyÃ¶gÃ©s Ã¡ltalÃ¡ban elÃ©g, hogy bÃ¡rkit elriasszunk innen, de mostanÃ¡ban azt a parancsot kaptÃ¡k, ha talÃ¡lnak egy felszÃ­nlakÃ³t, hozzÃ¡k elÃ©m.}
+{169}{}{Ez akkor rendben van! Most mennÃ©k...}
 {170}{}{Mit akarsz velem?}
 {171}{}{Szellemek?}
-{172}{}{Akkor mész, ha ÉN úgy döntök, hogy mehetsz. Addig nem.}
-{173}{}{Egyszerû kérésrõl van szó. Kapcsolatba kell lépnünk a dél-nyugat felé esõ várossal, úgy tudom, Modocnak hívják. Megtennéd nekünk ezt a szívességet?}
-{174}{}{Na, és mi esik le nekem ebbõl?}
-{175}{}{Attól tartok, sok kérdésem lenne, mielõtt elvállalnám ezt a küldetést.}
+{172}{}{Akkor mÃ©sz, ha Ã‰N Ãºgy dÃ¶ntÃ¶k, hogy mehetsz. Addig nem.}
+{173}{}{EgyszerÅ± kÃ©rÃ©srÅ‘l van szÃ³. Kapcsolatba kell lÃ©pnÃ¼nk a dÃ©l-nyugat felÃ© esÅ‘ vÃ¡rossal, Ãºgy tudom, Modocnak hÃ­vjÃ¡k. MegtennÃ©d nekÃ¼nk ezt a szÃ­vessÃ©get?}
+{174}{}{Mire szÃ¡mÃ­thatok, ha igen?}
+{175}{}{AttÃ³l tartok, sok kÃ©rdÃ©sem lenne, mielÅ‘tt elvÃ¡llalnÃ¡m ezt a kÃ¼ldetÃ©st.}
 {176}{}{Fair enough. I wouldn't expect anyone to blindly accept tasks from strangers without first
  learning a little bit about them. Ask your questions, and I will answer them as best I can.}
-{177}{}{Miért nem az egyik emberedet küldöd el az üzenettel?}
-{178}{}{Mesélj a népedrõl.}
-{179}{}{Milyen a védelmetek?}
-{180}{}{Eleget hallottam, most dönteni fogok.}
-{181}{}{Kérdezz.}
-{190}{}{Miért kellett a felszínre menned?}
-{191}{}{Mi az a nagy szellemparádé odafönn?}
-{192}{}{Mi az üzeneted célja?}
-{194}{}{A Lepecsételés óta megváltoztunk. Csak néhányan képesek a felszínen megmaradni, mivel nincsenek hozzászokva a felettük lebegõ nagy semmihez. A felfelé zuhanás érzés oly nagy, hogy a földre vetik magukat, és a földbe kapaszkodnak. Persze nem ez a fõ ok. Sajnos egyikünk sem bírja az erõs fényt, amit ti napnak neveztek. Miután hosszú évekig a föld alatt éltünk, a szemünk nagyon érzékeny lett a fényre. Földalatti lakóhelyünk biztonságát nem vagyunk képesek nagy távolságra elhagyni.}
-{195}{}{Feltehetek még néhány kérdést?}
-{197}{}{Réges régen olyanok voltunk, mint a felszínlakók. Mi is ott laktunk, aztán a földgolyó lángba borult. Õseink, akik egy titkos milícia tagjai voltak, a saját védelmük érdekében leköltöztek a föld alá, és lepecsételték maguk után a lejáratot. Generációkon át itt maradtak az Anyaföld méhében.}
-{200}{}{A Lepecsételés óta lakosságunk rendületlenül fejlõdött, azonban hamar nyilvánvalóvá vált, hogy tartalékok híján nem maradhatunk életben sokáig. Ezért aztán a Pecsétet feltörtük és kimerészkedtünk a felszínre.}
-{203}{}{Na, ekkor merült fel a szellemek ötlete. Bekentük magunkat fluoreszkáló gombával, így sikerült azt az embert és más szaglászókat távol tartanunk. Sajnos ez egy kicsit túl jól sikerült. A közelmúltban megpróbáltunk kapcsolatot teremteni a felszíniekkel, de a szellemektõl való félelem miatt senki nem jön errefelé. Nagy szerencse, hogy erre vetõdtél.}
-{206}{}{Elég a kérdésekbõl! Hozd meg a döntésedet!}
-{207}{}{Sajnálom, nem segíthetek.}
-{208}{}{Nem bánom, elviszem az üzenetet Modocba.}
-{209}{}{Sajnálattal hallom ezt. Mostantól akkor az Aljanép vendégszeretetét élvezheted. Majd ha végre kapcsolatot teremtünk a felszínlakókkal, elmehetsz. Addig azonban meg ne próbáld elhagyni a barlangot, különben rosszul jársz.}
-{210}{}{Az új öntözõrendszer üzembeállításával élelmiszerkészletünk meghaladja a szükségletünket. Szeretnénk kereskedni a felszíniekkel, és a felesleges élelemért gyógyszereket szeretnénk cserébe.}
-{213}{}{Kérlek, világosítsd meg elménket bölcsességeddel!}
-{216}{}{Tudtam, hogy megértõ leszel. Itt az üzenet, mely összegzi a kérésünket. Kérlek, vidd el Modocba és add át egy felelõs személynek. Térj vissza, ha megvan. Elmondom a Védelmezõknek, hogy számítsanak az érkezésedre. Köszönettel tartozunk, hogy megteszed ezt nekünk.}
-{217}{}{Milyen tipikus felszínlakó viselkedés... Az ujjatokat sem mozdítjátok, amíg valami személyes hasznon nem néz ki belõle. Ezek után nyilvánvaló, hogy nem bízok meg egy olyan embert, mint te. Kerítünk majd valaki mást, aki elviszi az üzenetet. Habár nem vagyunk erõszakos népség, meg ne próbáld elhagyni a barlangot, mert megjárod!}
-{218}{}{Hmm... értem. Ezt a döntést nem lehet sietve meghozni. Légyszíves tudasd velünk, hogy állnak a döntésükkel.}
-{219}{}{Akkor ne zavarj, ha nem muszáj!}
-{220}{}{Mégis mivel kapcsolatban?}
+{177}{}{MiÃ©rt nem az egyik emberedet kÃ¼ldÃ¶d el az Ã¼zenettel?}
+{178}{}{MesÃ©lj a nÃ©pedrÅ‘l.}
+{179}{}{Milyen a vÃ©delmetek?}
+{180}{}{Eleget hallottam, most dÃ¶nteni fogok.}
+{181}{}{KÃ©rdezz.}
+{190}{}{MiÃ©rt kellett a felszÃ­nre menned?}
+{191}{}{Mi az a nagy szellemparÃ¡dÃ© odafÃ¶nn?}
+{192}{}{Mi az Ã¼zeneted cÃ©lja?}
+{194}{}{A LepecsÃ©telÃ©s Ã³ta megvÃ¡ltoztunk. Csak nÃ©hÃ¡nyan kÃ©pesek a felszÃ­nen megmaradni, mivel nincsenek hozzÃ¡szokva a felettÃ¼k lebegÅ‘ nagy semmihez. A felfelÃ© zuhanÃ¡s Ã©rzÃ©s oly nagy, hogy a fÃ¶ldre vetik magukat, Ã©s a fÃ¶ldbe kapaszkodnak. Persze nem ez a fÅ‘ ok. Sajnos egyikÃ¼nk sem bÃ­rja az erÅ‘s fÃ©nyt, amit ti napnak neveztek. MiutÃ¡n hosszÃº Ã©vekig a fÃ¶ld alatt Ã©ltÃ¼nk, a szemÃ¼nk nagyon Ã©rzÃ©keny lett a fÃ©nyre. FÃ¶ldalatti lakÃ³helyÃ¼nk biztonsÃ¡gÃ¡t nem vagyunk kÃ©pesek nagy tÃ¡volsÃ¡gra elhagyni.}
+{195}{}{Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{197}{}{RÃ©ges rÃ©gen olyanok voltunk, mint a felszÃ­nlakÃ³k. Mi is ott laktunk, aztÃ¡n a fÃ¶ldgolyÃ³ lÃ¡ngba borult. Åseink, akik egy titkos milÃ­cia tagjai voltak, a sajÃ¡t vÃ©delmÃ¼k Ã©rdekÃ©ben lekÃ¶ltÃ¶ztek a fÃ¶ld alÃ¡, Ã©s lepecsÃ©teltÃ©k maguk utÃ¡n a lejÃ¡ratot. GenerÃ¡ciÃ³kon Ã¡t itt maradtak az AnyafÃ¶ld mÃ©hÃ©ben.}
+{200}{}{A LepecsÃ©telÃ©s Ã³ta lakossÃ¡gunk rendÃ¼letlenÃ¼l fejlÅ‘dÃ¶tt, azonban hamar nyilvÃ¡nvalÃ³vÃ¡ vÃ¡lt, hogy tartalÃ©kok hÃ­jÃ¡n nem maradhatunk Ã©letben sokÃ¡ig. EzÃ©rt aztÃ¡n a PecsÃ©tet feltÃ¶rtÃ¼k Ã©s kimerÃ©szkedtÃ¼nk a felszÃ­nre.}
+{203}{}{Na, ekkor merÃ¼lt fel a szellemek Ã¶tlete. BekentÃ¼k magunkat fluoreszkÃ¡lÃ³ gombÃ¡val, Ã­gy sikerÃ¼lt azt az embert Ã©s mÃ¡s szaglÃ¡szÃ³kat tÃ¡vol tartanunk. Sajnos ez egy kicsit tÃºl jÃ³l sikerÃ¼lt. A kÃ¶zelmÃºltban megprÃ³bÃ¡ltunk kapcsolatot teremteni a felszÃ­niekkel, de a szellemektÅ‘l valÃ³ fÃ©lelem miatt senki nem jÃ¶n errefelÃ©. Nagy szerencse, hogy erre vetÅ‘dtÃ©l.}
+{206}{}{ElÃ©g a kÃ©rdÃ©sekbÅ‘l! Hozd meg a dÃ¶ntÃ©sedet!}
+{207}{}{SajnÃ¡lom, nem segÃ­thetek.}
+{208}{}{Nem bÃ¡nom, elviszem az Ã¼zenetet Modocba.}
+{209}{}{SajnÃ¡lattal hallom ezt. MostantÃ³l akkor az AljanÃ©p vendÃ©gszeretetÃ©t Ã©lvezheted. Majd ha vÃ©gre kapcsolatot teremtÃ¼nk a felszÃ­nlakÃ³kkal, elmehetsz. Addig azonban meg ne prÃ³bÃ¡ld elhagyni a barlangot, kÃ¼lÃ¶nben rosszul jÃ¡rsz.}
+{210}{}{Az Ãºj Ã¶ntÃ¶zÅ‘rendszer Ã¼zembeÃ¡llÃ­tÃ¡sÃ¡val Ã©lelmiszerkÃ©szletÃ¼nk meghaladja a szÃ¼ksÃ©gletÃ¼nket. SzeretnÃ©nk kereskedni a felszÃ­niekkel, Ã©s a felesleges Ã©lelemÃ©rt gyÃ³gyszereket szeretnÃ©nk cserÃ©be.}
+{213}{}{KÃ©rlek, vilÃ¡gosÃ­tsd meg elmÃ©nket bÃ¶lcsessÃ©geddel!}
+{216}{}{Tudtam, hogy megÃ©rtÅ‘ leszel. Itt az Ã¼zenet, mely Ã¶sszegzi a kÃ©rÃ©sÃ¼nket. KÃ©rlek, vidd el Modocba Ã©s add Ã¡t egy felelÅ‘s szemÃ©lynek. TÃ©rj vissza, ha megvan. Elmondom a VÃ©delmezÅ‘knek, hogy szÃ¡mÃ­tsanak az Ã©rkezÃ©sedre. KÃ¶szÃ¶nettel tartozunk, hogy megteszed ezt nekÃ¼nk.}
+{217}{}{Milyen tipikus felszÃ­nlakÃ³ viselkedÃ©s... Az ujjatokat sem mozdÃ­tjÃ¡tok, amÃ­g valami szemÃ©lyes hasznon nem nÃ©z ki belÅ‘le. Ezek utÃ¡n nyilvÃ¡nvalÃ³, hogy nem bÃ­zok meg egy olyan embert, mint te. KerÃ­tÃ¼nk majd valaki mÃ¡st, aki elviszi az Ã¼zenetet. HabÃ¡r nem vagyunk erÅ‘szakos nÃ©psÃ©g, meg ne prÃ³bÃ¡ld elhagyni a barlangot, mert megjÃ¡rod!}
+{218}{}{Hmm... Ã©rtem. Ezt a dÃ¶ntÃ©st nem lehet sietve meghozni. LÃ©gyszÃ­ves tudasd velÃ¼nk, hogy Ã¡llnak a dÃ¶ntÃ©sÃ¼kkel.}
+{219}{}{Akkor ne zavarj, ha nem muszÃ¡j!}
+{220}{}{MÃ©gis mivel kapcsolatban?}
 {221}{}{They don't trust you. After all, they think you kill passersby and stake the bodies out in front of your
  farm.}
-{222}{}{Azt akarják tudni, mi történt azzal a gazdával, aki itt élt.}
-{223}{}{Békés emberek vagyunk, és senkit nem ölünk meg. Azok a testek bábuk, azért készítettük õket, hogy a tolvajokat távol tartsuk. Ha közelebbrõl megvizsgálod azokat a testeket, rájöhetsz, hogy azok csak brahminbéllel letakart próbababák.}
-{224}{}{És mi a helyzet szegény Karllal? Tudod, az a gazda, aki a fenti farmon élt...}
-{225}{}{Szóval Karlnak hívták... Egyszerûen elriasztottuk innen. Gondolom, amint észrevette, hogy kísértetek járnak mindenfelé, sietve hazatért. A Védelmezõk szerint nyugat felé menekült. Ha meg akarod találni, esetleg arra kéne próbálkoznod.}
-{226}{}{Idõnként jelenteni fogom, hogy haladok.}
-{227}{}{Elriasztottuk innen, semmi egyéb nem történt. Gondolom, amint észrevette, hogy kísértetek járnak mindenfelé, sietve hazatért. A Védelmezõk szerint nyugat felé menekült. Ha meg akarod találni, esetleg arra kéne próbálkoznod.}
-{231}{}{Látom, találkoztál Jonnyval. Akkor találtunk rá, amikor a barlangunk mélyén kószált. Azt mondta, hogy a házuk melletti kiszáradt kútba esett bele, és ottragadt egy omlás miatt. Úgy bántunk vele, mintha közénk tartozna. Mindenki szereti õt. Gondolom, megérted, hogy nem szívesen bízok meg egy idegent, aki még nem bizonyította szavahihetõségét. Kiadom Jonnyt, amint biztos vagyok benne, hogy biztonságban hazaér.}
-{232}{}{Minden kétséget kizáróan bebizonyítottad szavahihetõségedet. Beletörõdve, hogy Jonny hiányozni fog mindannyiunknak, összeszedtünk egy kis kíséretet számotokra. Most azonnal induljatok Modocba!}
-{233}{}{Hát barátom... nem csoda, hogy nem dõltél be a trükkjeinknek. Ahhoz túl buta vagy. Nem szeretem, ha egy értelmileg korlátozott egyéntõl függök, de sajnos szükségünk van a segítségedre. Fogd ezt az üzenetet, és vidd el Modocba! Add oda a modoci "törzsfõnöknek" és próbálj ne elveszni útközben!}
+{222}{}{Azt akarjÃ¡k tudni, mi tÃ¶rtÃ©nt azzal a gazdÃ¡val, aki itt Ã©lt.}
+{223}{}{BÃ©kÃ©s emberek vagyunk, Ã©s senkit nem Ã¶lÃ¼nk meg. Azok a testek bÃ¡buk, azÃ©rt kÃ©szÃ­tettÃ¼k Å‘ket, hogy a tolvajokat tÃ¡vol tartsuk. Ha kÃ¶zelebbrÅ‘l megvizsgÃ¡lod azokat a testeket, rÃ¡jÃ¶hetsz, hogy azok csak brahminbÃ©llel letakart prÃ³bababÃ¡k.}
+{224}{}{Ã‰s mi a helyzet szegÃ©ny Karllal? Tudod, az a gazda, aki a fenti farmon Ã©lt...}
+{225}{}{SzÃ³val Karlnak hÃ­vtÃ¡k... EgyszerÅ±en elriasztottuk innen. Gondolom, amint Ã©szrevette, hogy kÃ­sÃ©rtetek jÃ¡rnak mindenfelÃ©, sietve hazatÃ©rt. A VÃ©delmezÅ‘k szerint nyugat felÃ© menekÃ¼lt. Ha meg akarod talÃ¡lni, esetleg arra kÃ©ne prÃ³bÃ¡lkoznod.}
+{226}{}{IdÅ‘nkÃ©nt jelenteni fogom, hogy haladok.}
+{227}{}{Elriasztottuk innen, semmi egyÃ©b nem tÃ¶rtÃ©nt. Gondolom, amint Ã©szrevette, hogy kÃ­sÃ©rtetek jÃ¡rnak mindenfelÃ©, sietve hazatÃ©rt. A VÃ©delmezÅ‘k szerint nyugat felÃ© menekÃ¼lt. Ha meg akarod talÃ¡lni, esetleg arra kÃ©ne prÃ³bÃ¡lkoznod.}
+{231}{}{LÃ¡tom, talÃ¡lkoztÃ¡l Jonnyval. Akkor talÃ¡ltunk rÃ¡, amikor a barlangunk mÃ©lyÃ©n kÃ³szÃ¡lt. Azt mondta, hogy a hÃ¡zuk melletti kiszÃ¡radt kÃºtba esett bele, Ã©s ottragadt egy omlÃ¡s miatt. Ãšgy bÃ¡ntunk vele, mintha kÃ¶zÃ©nk tartozna. Mindenki szereti Å‘t. Gondolom, megÃ©rted, hogy nem szÃ­vesen bÃ­zok meg egy idegent, aki mÃ©g nem bizonyÃ­totta szavahihetÅ‘sÃ©gÃ©t. Kiadom Jonnyt, amint biztos vagyok benne, hogy biztonsÃ¡gban hazaÃ©r.}
+{232}{}{Minden kÃ©tsÃ©get kizÃ¡rÃ³an bebizonyÃ­tottad szavahihetÅ‘sÃ©gedet. BeletÃ¶rÅ‘dve, hogy Jonny hiÃ¡nyozni fog mindannyiunknak, Ã¶sszeszedtÃ¼nk egy kis kÃ­sÃ©retet szÃ¡motokra. Most azonnal induljatok Modocba!}
+{233}{}{HÃ¡t barÃ¡tom... nem csoda, hogy nem dÅ‘ltÃ©l be a trÃ¼kkjeinknek. Ahhoz tÃºl buta vagy. Nem szeretem, ha egy Ã©rtelmileg korlÃ¡tozott egyÃ©ntÅ‘l fÃ¼ggÃ¶k, de sajnos szÃ¼ksÃ©gÃ¼nk van a segÃ­tsÃ©gedre. Fogd ezt az Ã¼zenetet, Ã©s vidd el Modocba! Add oda a modoci "tÃ¶rzsfÅ‘nÃ¶knek" Ã©s prÃ³bÃ¡lj ne elveszni ÃºtkÃ¶zben!}
 {300}{}{Asszem, most megyek.}
 {301}{}{Mit akarsz velem?}
-{302}{}{Viszlát!}
+{302}{}{ViszlÃ¡t!}
 {303}{}{Szellemek?}
-{400}{}{Az üzenetet jól fogadták. Modoc városa szívesen kereskedne veletek.}
+{400}{}{Az Ã¼zenetet jÃ³l fogadtÃ¡k. Modoc vÃ¡rosa szÃ­vesen kereskedne veletek.}

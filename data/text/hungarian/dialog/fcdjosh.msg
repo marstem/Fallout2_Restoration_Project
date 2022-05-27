@@ -1,38 +1,38 @@
-{100}{}{Egy fémpáncélt viselõ férfit látsz.}
-{101}{}{Joshuát látod.}
-{102}{}{Egy fémpáncélt viselõ férfit látsz, a mellén villám-mintájú jelzés díszlik.}
-{103}{}{Helló,}
-{104}{}{. Joshua vagyok. Tehetek érted valamit?}
-{105}{}{Honnan tud nekem név?}
+{100}{}{Egy fÃ©mpÃ¡ncÃ©lt viselÅ‘ fÃ©rfit lÃ¡tsz.}
+{101}{}{Å Joshua.}
+{102}{}{Egy fÃ©mpÃ¡ncÃ©lt viselÅ‘ fÃ©rfit lÃ¡tsz. A mellkasÃ¡t egy villÃ¡m alakÃº jel dÃ­szÃ­ti.}
+{103}{}{HellÃ³, }
+{104}{}{. Joshua vagyok. Tehetek Ã©rted valamit?}
+{105}{}{Honnan tud nÃ©v?}
 {106}{}{Honnan tudod a nevem?}
-{107}{}{Tetteidnek híre ment a világban. Vannak, akik beszélnek, vannak akik fülelnek, és a hír máris szárnyra kap. Azt azonban ne feledd, hogy te csak kis hal vagy a rengeteg cápa között,}
-{108}{}{ vagyok.}
-{109}{}{Hogy érteni ezt?}
+{107}{}{Tetteidnek hÃ­re ment a vilÃ¡gban. Vannak, akik beszÃ©lnek, vannak akik fÃ¼lelnek, Ã©s a hÃ­r mÃ¡ris szÃ¡rnyra kap. Azt azonban ne feledd, hogy te csak kis hal vagy a rengeteg cÃ¡pa kÃ¶zÃ¶tt,}
+{108}{}{ dollÃ¡r.}
+{109}{}{Mit az jelencse?}
 {110}{}{Merthogy?}
-{111}{}{Fogalmazzunk úgy, hogy új srác vagy a környéken és gõzöd sincs, mi folyik a háttérben. Sokkal többrõl van szó a te földhözragadt küldetésednél...}
-{112}{}{Folytasd!}
-{113}{}{Folytasd, hallgatlak!}
-{114}{}{Épp eleget mondtam. Jobb, ha mostantól a magad dolgával foglalkozol!}
-{115}{}{Várja, én akar kérdezni!}
-{116}{}{Várj, szeretnék még kérdezni egy-két dolgot!}
-{117}{}{Rendben, de csak egy kérdésed lehet. Jól gondold meg!}
-{118}{}{Hol találni ÉLET?}
-{119}{}{Hol lenni Tizenháromos Menedék?}
-{120}{}{Kutatni kereskedõ, Vic nevû. Hol lenni?}
-{121}{}{Tudja, merre találhatnék egy ÉLET-et?}
-{122}{}{Tudod, hol van a 13-as Menedék?}
-{123}{}{Egy Vic nevû kereskedõ nyomában járok. Nem tudod, merre lehet?}
-{124}{}{Az ÉLET-nek nevezett eszközök minden Menedékben alapfelszerelésnek számítottak. Ha nem csal az emlékezetem, a kapuk kinyitása után felhasználták õket, hogy újrateremtsék a civilizációt. Véleményem szerint csak egy érintetlen Menedékben találhatsz ilyet. Sok szerencsét hozzá,}
-{125}{}{Köszi.}
-{126}{}{Sok történetet hallottam a 13-as Menedékrõl, de a hollétérõl egyet sem. Sok szerencsét,}
-{127}{}{Köszi.}
-{128}{}{Vic bajba került, fogva tartják a rabszolga-kereskedõk. Náluk megtalálod. Sok szerencsét hozzá,}
-{129}{}{Várol! Hol találni banda?}
-{130}{}{Várj! Meg tudod mondani, hol találom a rabszolga-kereskedõket?}
-{131}{}{Sajnálom, de nincs több mondanivalóm a számodra.}
-{132}{}{. Hmmm... bennszülött létedre hosszú út áll mögötted. Egyszer majd látogasd meg az Új Kaliforniai Köztársaságban lévõ irodánkat! Tetszeni fog. Most pedig, ha megbocsátasz...}
-{133}{}{Sajnálom, de nincs több mondanivalóm a számodra.}
-{134}{}{Várakozol...}
-{135}{}{Ez egy privát iroda.}
-{136}{}{Semmi keresnivalód odabent!}
-{137}{}{Ez itt magántulajdon, szóval lehet továbbállni!}
+{111}{}{Fogalmazzunk Ãºgy, hogy Ãºj srÃ¡c vagy a kÃ¶rnyÃ©ken Ã©s gÅ‘zÃ¶d sincs, mi folyik a hÃ¡ttÃ©rben. Sokkal tÃ¶bbrÅ‘l van szÃ³ a te fÃ¶ldhÃ¶zragadt kÃ¼ldetÃ©sednÃ©l...}
+{112}{}{Folytassa, kÃ©rem!}
+{113}{}{Folytasd, hallgatom!}
+{114}{}{Eleget mondtam mÃ¡r. Jobb, ha mÃ©sz a dolgodra!}
+{115}{}{VÃ¡rj, Ã©nnekem kell kÃ©rdezni kÃ©rdÃ©set.}
+{116}{}{VÃ¡rj, volna egy-kÃ©t kÃ©rdÃ©sem.}
+{117}{}{Rendben, egyetlen kÃ©rdÃ©st feltehetsz. Mi lesz az?}
+{118}{}{Tudni te hol talÃ¡lni Ã‰LET?}
+{119}{}{Tudni te hol talÃ¡lni tizenhÃ¡romos MenelÃ©k?}
+{120}{}{Kutatni kereskedÅ‘, Vic nevÅ±. Hol lenni?}
+{121}{}{Tudja, merre talÃ¡lhatnÃ©k egy Ã‰LET-et?}
+{122}{}{Tudod, hol talÃ¡lhatnÃ¡m meg a 13-as MenedÃ©ket?}
+{123}{}{Egy Vic nevÅ± kereskedÅ‘ nyomÃ¡ban jÃ¡rok. Nem tudod, merre lehet?}
+{124}{}{Az Ã‰LET-nek nevezett eszkÃ¶zÃ¶k minden MenedÃ©kben alapfelszerelÃ©snek szÃ¡mÃ­tottak. Ha nem csal az emlÃ©kezetem, a kapuk kinyitÃ¡sa utÃ¡n felhasznÃ¡ltÃ¡k Å‘ket, hogy ÃºjrateremtsÃ©k a civilizÃ¡ciÃ³t. VÃ©lemÃ©nyem szerint csak egy Ã©rintetlen MenedÃ©kben talÃ¡lhatsz ilyet. Sok szerencsÃ©t hozzÃ¡,}
+{125}{}{KÃ¶sz.}
+{126}{}{Sok tÃ¶rtÃ©netet hallottam a 13-as MenedÃ©krÅ‘l, de a hollÃ©tÃ©rÅ‘l egyet sem. Sok szerencsÃ©t,}
+{127}{}{KÃ¶sz.}
+{128}{}{Vic bajba kerÃ¼lt, fogva tartjÃ¡k a rabszolga-kereskedÅ‘k. NÃ¡luk megtalÃ¡lod. Sok szerencsÃ©t hozzÃ¡,}
+{129}{}{VÃ¡rol! Hol talÃ¡lni banda?}
+{130}{}{VÃ¡rj! Meg tudod mondani, hol talÃ¡lom a rabszolga-kereskedÅ‘ket?}
+{131}{}{Ãœdv Ãºjra. Nincs mit mondanom szÃ¡modra.}
+{132}{}{. Hmmm... bennszÃ¼lÃ¶tt lÃ©tedre hosszÃº Ãºt Ã¡ll mÃ¶gÃ¶tted. Egyszer majd lÃ¡togasd meg az Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡gban lÃ©vÅ‘ irodÃ¡nkat! Tetszeni fog. Most pedig, ha megbocsÃ¡tasz...}
+{133}{}{Ãœdv Ãºjra. Nincs mit mondanom szÃ¡modra.}
+{134}{}{Folytasd!}
+{135}{}{Az egy magÃ¡niroda!}
+{136}{}{Ott neked semmi dolgod!}
+{137}{}{Ez magÃ¡ntulajdon, szÃ³val haladjunk tovÃ¡bb...}

@@ -1,50 +1,50 @@
-{100}{}{A fiatal unokatestvéred, Nagor áll elõtted, de a kutyáját, Füstöt nem látod sehol.}
-{101}{}{Nagort gyerekkora óta ismered, és mindig segítettél neki, ha tudtál.}
-{102}{}{Cousin, am I glad to see you! I need your help.}
-{103}{}{Bocs, de most nincs idõm.}
-{104}{}{Miben segíthetnék?}
-{105}{}{Akkor megyek a vadonba egyedül!}
-{106}{}{Várj egy kicsit... milyen segítséget vársz tõlem?}
-{107}{}{Akkor menj!}
-{108}{}{Füst elfutott a vadászmezõk irányába, és azóta sem jött vissza. Morlis anyó nem engedi, hogy megkeressem. Azt mondja, túl veszélyes, meg hogy õ csak egy kutya. Én persze vissza akarom hozni. Ha esetleg utána mennél, nem kerülnék bajba.}
-{109}{}{Rendben, de merre van a vadászmezõ?}
+{100}{}{A fiatal unokatestvÃ©red, Nagor Ã¡ll elÅ‘tted, de a kutyÃ¡jÃ¡t, FÃ¼stÃ¶t nem lÃ¡tod sehol.}
+{101}{}{Nagort gyerekkora Ã³ta ismered, Ã©s mindig segÃ­tettÃ©l neki, ha tudtÃ¡l.}
+{102}{}{UnokatestvÃ©rem, jÃ³ hogy lÃ¡tlak! SzÃ¼ksÃ©gem van a segÃ­tsÃ©gedre.}
+{103}{}{Bocs, de most nincs idÅ‘m.}
+{104}{}{Miben segÃ­thetnÃ©k?}
+{105}{}{Akkor megyek a vadonba egyedÃ¼l!}
+{106}{}{VÃ¡rj egy kicsit... milyen segÃ­tsÃ©get vÃ¡rsz tÅ‘lem?}
+{107}{}{JÃ³, menj, ha akarsz!}
+{108}{}{FÃ¼st elfutott a vadÃ¡szmezÅ‘k irÃ¡nyÃ¡ba, Ã©s azÃ³ta sem jÃ¶tt vissza. Morlis anyÃ³ nem engedi, hogy megkeressem. Azt mondja, tÃºl veszÃ©lyes, meg hogy Å‘ csak egy kutya. Ã‰n persze vissza akarom hozni. Ha esetleg utÃ¡na mennÃ©l, nem kerÃ¼lnÃ©k bajba.}
+{109}{}{Rendben, de merre van a vadÃ¡szmezÅ‘?}
 {110}{}{Rendben. Megkeresem.}
-{111}{}{Felejtsd el, most nincs idõm erre!}
-{112}{}{Mi történt veled, fejbevágtak egy kõvel? A vadászmezõ Hakunin sátrának távolabbi felénél van, a falu északi részén.}
+{111}{}{Felejtsd el, most nincs idÅ‘m erre!}
+{112}{}{Mi tÃ¶rtÃ©nt veled, fejbevÃ¡gtak egy kÅ‘vel? A vadÃ¡szmezÅ‘ Hakunin sÃ¡trÃ¡nak tÃ¡volabbi felÃ©nÃ©l van, a falu Ã©szaki rÃ©szÃ©n.}
 {113}{}{Sietek vissza vele.}
-{114}{}{Megtaláltad már Füstöt?}
-{115}{}{Még nem. Mit is mondtál, merre van a vadászmezõ?}
-{116}{}{Nem, még nem.}
-{117}{}{Megtaláltad már Füstöt?}
-{118}{}{Még nem, de hamarosan visszahozom.}
-{119}{}{Sajnálom, de megdöglött.}
-{120}{}{Ezt csak azért mondod, mert nem akarod megnézni. Engem nem érdekel, mit mondott Morlis, megyek, és megkeresem a kutyát.}
-{121}{}{Nagor, mi lesz, ha történik veled valami? Morlis egyedül maradna, és akkor nagyon szomorú lenne. Ugye nem akarod ezt?}
-{122}{}{Akkor menj!}
-{123}{}{Hát... nem igazán. Rendben, nem megyek, de ez így nem igazságos!}
-{124}{}{Megtalálom Füstöt, ne félj! Viszlát!}
-{125}{}{Megtaláltad! Köszönöm! Füst, rossz kutya vagy!}
-{126}{}{Szívesen. Viszlát!}
-{127}{}{Még egyszer, köszönöm. Remélem, sikeres lesz az utad.}
-{128}{}{Hiányzik Füst. Miért nem tudtad megkeresni? Te vagy a Kiválasztott.}
-{129}{}{Nem érek rá, te bolond. Menj és játssz máshol!}
-{130}{}{Én megy.}
-{131}{}{Elmegyek Füst után.}
-{200}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkezõ nehéz idõkrõl beszélnek.}
-{201}{}{Üdv, unokatestvérem... öö, vagyis Kiválasztott. Remélem, megtaláltad az ÉLET-et. Hallottam, hogy sokan az elkövetkezõ nehéz idõkrõl beszélnek.}
-{202}{}{Én még keres, Nagor.}
+{114}{}{MegtalÃ¡ltad mÃ¡r FÃ¼stÃ¶t?}
+{115}{}{MÃ©g nem. Mit is mondtÃ¡l, merre van a vadÃ¡szmezÅ‘?}
+{116}{}{Nem, mÃ©g nem.}
+{117}{}{MegtalÃ¡ltad mÃ¡r FÃ¼stÃ¶t?}
+{118}{}{MÃ©g nem, de hamarosan visszahozom.}
+{119}{}{SajnÃ¡lom, de megdÃ¶glÃ¶tt.}
+{120}{}{Ezt csak azÃ©rt mondod, mert nem akarod megnÃ©zni. Engem nem Ã©rdekel, mit mondott Morlis, megyek, Ã©s megkeresem a kutyÃ¡t.}
+{121}{}{Nagor, mi lesz, ha tÃ¶rtÃ©nik veled valami? Morlis egyedÃ¼l maradna, Ã©s akkor nagyon szomorÃº lenne. Ugye nem akarod ezt?}
+{122}{}{JÃ³, menj, ha akarsz!}
+{123}{}{HÃ¡t... nem igazÃ¡n. Rendben, nem megyek, de ez Ã­gy nem igazsÃ¡gos!}
+{124}{}{MegtalÃ¡lom FÃ¼stÃ¶t, ne fÃ©lj! ViszlÃ¡t!}
+{125}{}{MegtalÃ¡ltad! KÃ¶szÃ¶nÃ¶m! FÃ¼st, rossz kutya vagy!}
+{126}{}{SzÃ­vesen. ViszlÃ¡t!}
+{127}{}{MÃ©g egyszer, kÃ¶szÃ¶nÃ¶m. RemÃ©lem, sikeres lesz az utad.}
+{128}{}{HiÃ¡nyzik FÃ¼st. MiÃ©rt nem tudtad megkeresni? Te vagy a KivÃ¡lasztott.}
+{129}{}{Nem Ã©rek rÃ¡, te bolond. Menj Ã©s jÃ¡tssz mÃ¡shol!}
+{130}{}{Menek.}
+{131}{}{Elmegyek FÃ¼st utÃ¡n.}
+{200}{}{Ãœdv, unokatestvÃ©rem... Ã¶Ã¶, vagyis KivÃ¡lasztott. RemÃ©lem, megtalÃ¡ltad az Ã‰LET-et. Hallottam, hogy sokan az elkÃ¶vetkezÅ‘ nehÃ©z idÅ‘krÅ‘l beszÃ©lnek.}
+{201}{}{Ãœdv, unokatestvÃ©rem... Ã¶Ã¶, vagyis KivÃ¡lasztott. RemÃ©lem, megtalÃ¡ltad az Ã‰LET-et. Hallottam, hogy sokan az elkÃ¶vetkezÅ‘ nehÃ©z idÅ‘krÅ‘l beszÃ©lnek.}
+{202}{}{Ã‰n mÃ©g keres, Nagor.}
 {203}{}{I'm still looking, cousin.}
-{204}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
-{205}{}{Üdvözöllek itthon, unokatestvérem. A problémák egyre szaporodnak. Megtaláltad a szent Tizenhármast, és az ÉLET-et?}
-{206}{}{Nem találni. Bocsánat.}
-{207}{}{Sajnálom, Nagor, de még keresem.}
-{208}{}{Üdv, unokatestvérem. Azt hiszem, észrevetted, hogy a dolgok tényleg nagyon súlyosak itt. Kérlek, találd meg az  ÉLET-et. Komolyan szükségünk van rá!}
-{209}{}{Üdv, unokatestvérem. Azt hiszem, észrevetted, hogy a dolgok tényleg nagyon súlyosak itt. Kérlek, találd meg az  ÉLET-et. Komolyan szükségünk van rá!}
-{210}{}{Szia, unokatestvérem.}
-{211}{}{Szia, unokatestvérem.}
-{212}{}{Nem úgy beszélsz, ahogy szoktál.}
-{213}{}{Nem úgy beszélsz, ahogy régen.}
-{214}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megfõzte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni errõl...}
-{215}{}{Sajnálom, unokatesvérem. A dolgok egyre rosszabbak lettek az utolsó látogatásod óta. Az emberek betegek, a brahminok haldokolnak, ráadásul... a kutyám ... Füst elpusztult és Morlis megfõzte. Annyira hiányzik. Ne haragudj, de képtelen vagyok többet beszélni errõl...}
-{300}{}{Õ Nagor.}
-{302}{}{Cousin, am I glad to see you! I need your help.}
+{204}{}{ÃœdvÃ¶zÃ¶llek itthon, unokatestvÃ©rem. A problÃ©mÃ¡k egyre szaporodnak. MegtalÃ¡ltad a szent TizenhÃ¡rmast, Ã©s az Ã‰LET-et?}
+{205}{}{ÃœdvÃ¶zÃ¶llek itthon, unokatestvÃ©rem. A problÃ©mÃ¡k egyre szaporodnak. MegtalÃ¡ltad a szent TizenhÃ¡rmast, Ã©s az Ã‰LET-et?}
+{206}{}{Nem talÃ¡lni. BocsÃ¡nat.}
+{207}{}{SajnÃ¡lom, Nagor, de mÃ©g keresem.}
+{208}{}{Ãœdv, unokatestvÃ©rem. Azt hiszem, Ã©szrevetted, hogy a dolgok tÃ©nyleg nagyon sÃºlyosak itt. KÃ©rlek, talÃ¡ld meg az Ã‰LET-et. Komolyan szÃ¼ksÃ©gÃ¼nk van rÃ¡!}
+{209}{}{Ãœdv, unokatestvÃ©rem. Azt hiszem, Ã©szrevetted, hogy a dolgok tÃ©nyleg nagyon sÃºlyosak itt. KÃ©rlek, talÃ¡ld meg az Ã‰LET-et. Komolyan szÃ¼ksÃ©gÃ¼nk van rÃ¡!}
+{210}{}{Szia, unokatestvÃ©rem.}
+{211}{}{Szia, unokatestvÃ©rem.}
+{212}{}{Nem Ãºgy beszÃ©lsz, ahogy szoktÃ¡l.}
+{213}{}{Nem Ãºgy beszÃ©lsz, ahogy rÃ©gen.}
+{214}{}{SajnÃ¡lom, unokatesvÃ©rem. A dolgok egyre rosszabbak lettek az utolsÃ³ lÃ¡togatÃ¡sod Ã³ta. Az emberek betegek, a brahminok haldokolnak, rÃ¡adÃ¡sul... a kutyÃ¡m ... FÃ¼st elpusztult Ã©s Morlis megfÅ‘zte. Annyira hiÃ¡nyzik. Ne haragudj, de kÃ©ptelen vagyok tÃ¶bbet beszÃ©lni errÅ‘l...}
+{215}{}{SajnÃ¡lom, unokatesvÃ©rem. A dolgok egyre rosszabbak lettek az utolsÃ³ lÃ¡togatÃ¡sod Ã³ta. Az emberek betegek, a brahminok haldokolnak, rÃ¡adÃ¡sul... a kutyÃ¡m ... FÃ¼st elpusztult Ã©s Morlis megfÅ‘zte. Annyira hiÃ¡nyzik. Ne haragudj, de kÃ©ptelen vagyok tÃ¶bbet beszÃ©lni errÅ‘l...}
+{300}{}{Å Nagor.}
+{302}{}{UnokatestvÃ©rem, jÃ³ hogy lÃ¡tlak! SzÃ¼ksÃ©gem van a segÃ­tsÃ©gedre.}

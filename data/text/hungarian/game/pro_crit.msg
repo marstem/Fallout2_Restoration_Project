@@ -1,139 +1,139 @@
-{100}{}{FÈrfi hıs}
+{100}{}{F√©rfi h≈ës}
 {101}{}{}
-{200}{}{Hısnı}
+{200}{}{H≈ësn≈ë}
 {201}{}{}
 {300}{}{Falusi ember}
 {400}{}{Falusi ember}
-{500}{}{RadskorpiÛ}
-{501}{}{Egy kis, mut·ns skorpiÛ.}
-{600}{}{RadskorpiÛ}
-{601}{}{Egy mut·ns skorpiÛ.}
-{700}{}{Hal·lkarom                                                        }
-{701}{}{Egy hal·lkarom kˆlyˆk.}
-{800}{}{Hal·lkarom                                                        }
-{801}{}{Egy hal·lkarom kˆlyˆk.}
+{500}{}{Radskorpi√≥}
+{501}{}{Egy kis, mut√°ns skorpi√≥.}
+{600}{}{Radskorpi√≥}
+{601}{}{Egy mut√°ns skorpi√≥.}
+{700}{}{Hal√°lkarom}
+{701}{}{Egy hal√°lkarom k√∂ly√∂k.}
+{800}{}{Hal√°lkarom}
+{801}{}{Egy hal√°lkarom k√∂ly√∂k.}
 {900}{}{Kutya}
-{901}{}{Egy kutya, valÛszÌn˚leg keverÈk.}
-{1000}{}{Brahmin}
-{1001}{}{Egy kÈtfej˚, mut·ns tehÈn.}
-{1100}{}{Patk·ny}
-{1101}{}{Egy tipikus, nagy patk·ny.}
-{1200}{}{S·ska}
-{1201}{}{Egy mut·ns im·dkozÛ-s·ska.}
-{1300}{}{Tˆrzsfı}
+{901}{}{Egy kutya, val√≥sz√≠n≈±leg kever√©k.}
+{1000}{}{Brahminok}
+{1001}{}{Egy k√©tfej≈±, mut√°ns teh√©n.}
+{1100}{}{Patk√°ny}
+{1101}{}{Egy tipikus, nagy patk√°ny.}
+{1200}{}{Im√°dkoz√≥-s√°ska}
+{1201}{}{Egy mut√°ns im√°dkoz√≥-s√°ska.}
+{1300}{}{T√∂rzsf≈ën√∂k}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
-{1600}{}{H˙sevı nˆvÈny}
-{1601}{}{Egy h˙sevı nˆvÈny.}
+{1600}{}{H√∫sev≈ë n√∂v√©ny}
+{1601}{}{Egy h√∫sev≈ë n√∂v√©ny.}
 {1700}{}{Csinos rabszolga}
-{1800}{}{JÛkÈp˚ rabszolga}
-{1900}{}{EgÈszsÈges rabszolga}
-{2000}{}{EgÈszsÈges rabszolga}
-{2100}{}{Erıs rabszolga}
-{2200}{}{Erıs rabszolga}
+{1800}{}{J√≥k√©p≈± rabszolga}
+{1900}{}{Eg√©szs√©ges rabszolga}
+{2000}{}{Eg√©szs√©ges rabszolga}
+{2100}{}{Er≈ës rabszolga}
+{2200}{}{Er≈ës rabszolga}
 {2300}{}{Harci rabszolga}
 {2400}{}{Harci rabszolga}
-{2500}{}{‹gyes rabszolga}
-{2600}{}{‹gyes rabszolga}
+{2500}{}{√úgyes rabszolga}
+{2600}{}{√úgyes rabszolga}
 {2700}{}{Sima rabszolga}
 {2800}{}{Sima rabszolga}
 {2900}{}{Anna}
-{3000}{}{V·llas bandatag}
-{3100}{}{V·llas bandatag}
-{3200}{}{Kˆzelharci bandatag}
-{3300}{}{Kˆzelharci bandatag}
-{3400}{}{F¸rge bandatag}
-{3500}{}{F¸rge bandatag}
+{3000}{}{V√°llas bandatag}
+{3100}{}{V√°llas bandatag}
+{3200}{}{K√∂zelharci bandatag}
+{3300}{}{K√∂zelharci bandatag}
+{3400}{}{F√ºrge bandatag}
+{3500}{}{F√ºrge bandatag}
 {3600}{}{Fegyveres bandatag}
 {3700}{}{Fegyveres bandatag}
-{3800}{}{NehÈzfegyveres bandatag}
-{3900}{}{NehÈzfegyveres bandatag}
-{4000}{}{KemÈny ır}
-{4100}{}{KemÈny ır}
-{4200}{}{Kˆzelharci ır}
-{4300}{}{Kˆzelharci ır}
-{4400}{}{F¸rge ır}
-{4500}{}{F¸rge ır}
-{4600}{}{Fegyveres ır}
-{4700}{}{Fegyveres ır}
-{4800}{}{NehÈzfegyveres ır}
-{4900}{}{NehÈzfegyveres ır}
-{5000}{}{¡rva (fi˙)}
-{5100}{}{¡rva (l·ny)}
-{5200}{}{Gyerek (fi˙)}
-{5300}{}{Gyerek (l·ny)}
-{5400}{}{L˙zer!}
-{5500}{}{L˙zer!}
-{5600}{}{Rossz kereskedı}
-{5700}{}{Rossz kereskedı}
-{5800}{}{¡tlagos kereskedı}
-{5900}{}{¡tlagos kereskedı}
-{6000}{}{‹gyes kereskedı}
-{6100}{}{‹gyes kereskedı}
+{3800}{}{Neh√©zfegyveres bandatag}
+{3900}{}{Neh√©zfegyveres bandatag}
+{4000}{}{Kem√©ny ≈ër}
+{4100}{}{Kem√©ny ≈ër}
+{4200}{}{K√∂zelharci ≈ër}
+{4300}{}{K√∂zelharci ≈ër}
+{4400}{}{F√ºrge ≈ër}
+{4500}{}{F√ºrge ≈ër}
+{4600}{}{Fegyveres ≈ër}
+{4700}{}{Fegyveres ≈ër}
+{4800}{}{Neh√©zfegyveres ≈ër}
+{4900}{}{Neh√©zfegyveres ≈ër}
+{5000}{}{√Årva (fi√∫)}
+{5100}{}{√Årva (l√°ny)}
+{5200}{}{Gyerek (fi√∫)}
+{5300}{}{Gyerek (l√°ny)}
+{5400}{}{L√∫zer!}
+{5500}{}{L√∫zer!}
+{5600}{}{Rossz keresked≈ë}
+{5700}{}{Rossz keresked≈ë}
+{5800}{}{√Åtlagos keresked≈ë}
+{5900}{}{√Åtlagos keresked≈ë}
+{6000}{}{√úgyes keresked≈ë}
+{6100}{}{√úgyes keresked≈ë}
 {6200}{}{Vic}
 {6300}{}{Gyenge paraszt}
 {6400}{}{Gyenge paraszt}
-{6500}{}{¡tlagos paraszt}
-{6600}{}{¡tlagos paraszt}
-{6700}{}{Erıs paraszt}
-{6800}{}{Erıs paraszt}
-{6900}{}{Gyenge kˆzelharci ır}
-{7000}{}{Gyenge kˆzelharci ır}
-{7100}{}{Gyenge fegyveres ır}
-{7200}{}{Gyenge fegyveres ır}
-{7300}{}{JavÌtÛrobot}
-{7400}{}{JavÌtÛrobot v2.}
+{6500}{}{√Åtlagos paraszt}
+{6600}{}{√Åtlagos paraszt}
+{6700}{}{Er≈ës paraszt}
+{6800}{}{Er≈ës paraszt}
+{6900}{}{Gyenge k√∂zelharci ≈ër}
+{7000}{}{Gyenge k√∂zelharci ≈ër}
+{7100}{}{Gyenge fegyveres ≈ër}
+{7200}{}{Gyenge fegyveres ≈ër}
+{7300}{}{Jav√≠t√≥robot}
+{7400}{}{Jav√≠t√≥robot v2.}
 {7500}{}{Robotagy}
-{7600}{}{Lebegı szem robot}
-{7700}{}{’rrobot}
-{7800}{}{’rrobot v2.}
+{7600}{}{Lebeg≈ë szem robot}
+{7700}{}{≈êrrobot}
+{7800}{}{≈êrrobot v2.}
 {7900}{}{Robotagy}
-{8000}{}{Kicsi gekkÛ}
-{8100}{}{Kis, erıs gekkÛ}
+{8000}{}{Kicsi gekk√≥}
+{8100}{}{Kis, er≈ës gekk√≥}
 {8200}{}{Vadkutya}
 {8201}{}{Egy veszett korcs.}
-{8300}{}{AranygekkÛ}
-{8400}{}{Hal·lkarom                                                        }
-{8500}{}{Hal·lkarom kˆlyˆk}
-{8600}{}{Erıs aranygekkÛ}
+{8300}{}{Aranygekk√≥}
+{8400}{}{Hal√°lkarom}
+{8500}{}{Hal√°lkarom k√∂ly√∂k}
+{8600}{}{Er≈ës aranygekk√≥}
 {8700}{}{Lynette}
 {8800}{}{Dr. Troy}
 {8900}{}{John Cassidy}
 {9000}{}{Gregory}
-{9100}{}{Polg·r (nı)}
-{9200}{}{Polg·r (fÈrfi)}
-{9300}{}{Felsıbb rang˙ Polg·r (n)}
-{9400}{}{Felsıbb rang˙ Polg·r (f)}
-{9500}{}{PrÈmvad·sz}
-{9600}{}{PrÈmvad·sz}
+{9100}{}{Polg√°r (n≈ë)}
+{9200}{}{Polg√°r (f√©rfi)}
+{9300}{}{Fels≈ëbb rang√∫ Polg√°r (n)}
+{9400}{}{Fels≈ëbb rang√∫ Polg√°r (f)}
+{9500}{}{Pr√©mvad√°sz}
+{9600}{}{Pr√©mvad√°sz}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
-{10000}{}{P˙pos}
-{10100}{}{Vil·gÌtÛ reaktormunk·s}
-{10200}{}{Reaktor ghoul}
-{10300}{}{Reaktor-ır}
+{10000}{}{P√∫pos}
+{10100}{}{Vil√°g√≠t√≥ reaktormunk√°s}
+{10200}{}{Reaktormunk√°s ghoul}
+{10300}{}{Reaktor-≈ër}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
-{10600}{}{VÈsz}
+{10600}{}{V√©sz}
 {10700}{}{Lenny}
 {10800}{}{Wooz}
 {10900}{}{Harold}
-{11000}{}{Vakondpatk·ny}
-{11100}{}{SzÌvÛs vakondpatk·ny}
-{11200}{}{DisznÛpatk·ny}
-{11300}{}{SzÌvÛs disznÛpatk·ny}
+{11000}{}{Vakondpatk√°ny}
+{11100}{}{Sz√≠v√≥s vakondpatk√°ny}
+{11200}{}{Diszn√≥patk√°ny}
+{11300}{}{Sz√≠v√≥s diszn√≥patk√°ny}
 {11400}{}{Gyenge Brahmin}
-{11401}{}{Egy kÈtfej˚, mut·ns tehÈn.}
-{11500}{}{Egy Erıp·ncÈl (ne haszn·ld)}
-{11600}{}{Mut·ns patk·ny}
-{11601}{}{Egy szÌvÛs, mut·ns patk·ny.}
-{11700}{}{Mut·ns vakondpatk·ny}
-{11701}{}{Egy szÌvÛs, mut·ns patk·ny.}
-{11800}{}{Mut·ns disznÛpatk·ny}
-{11801}{}{Egy szÌvÛs, mut·ns disznÛpatk·ny.}
-{11900}{}{Szupermut·ns}
-{12000}{}{Izmos mut·ns}
+{11401}{}{Egy k√©tfej≈±, mut√°ns teh√©n.}
+{11500}{}{Egy Er≈ëp√°nc√©l (ne haszn√°ld)}
+{11600}{}{Mut√°ns patk√°ny}
+{11601}{}{Egy sz√≠v√≥s, mut√°ns patk√°ny.}
+{11700}{}{Mut√°ns vakondpatk√°ny}
+{11701}{}{Egy sz√≠v√≥s, mut√°ns patk√°ny.}
+{11800}{}{Mut√°ns diszn√≥patk√°ny}
+{11801}{}{Egy sz√≠v√≥s, mut√°ns diszn√≥patk√°ny.}
+{11900}{}{Szupermut√°ns}
+{12000}{}{Izmos mut√°ns}
 {12100}{}{Melchior}
 {12200}{}{Hero Andro (don't use)}
 {12300}{}{Hero Andro (don't use)}
@@ -147,65 +147,65 @@
 {13100}{}{Hero Female (don't use)}
 {13200}{}{Hero Male (don't use)}
 {13300}{}{Hero Female (don't use)}
-{13400}{}{MenedÈkv·rosi ır}
-{13500}{}{MenedÈkv·rosi ır}
+{13400}{}{Mened√©kv√°rosi ≈ër}
+{13500}{}{Mened√©kv√°rosi ≈ër}
 {13600}{}{Kiberkutya}
-{13700}{}{⁄KK-s ır}
-{13800}{}{⁄KK-s ır}
-{13900}{}{⁄KK-s kˆzelharci ır}
-{14000}{}{Hajcs·r ır}
-{14100}{}{Hajcs·r fel¸gyelı}
-{14200}{}{Mester kereskedı}
-{14300}{}{Mester kereskedı}
+{13700}{}{√öKK-s ≈ër}
+{13800}{}{√öKK-s ≈ër}
+{13900}{}{√öKK-s k√∂zelharci ≈ër}
+{14000}{}{Hajcs√°r ≈ër}
+{14100}{}{Hajcs√°r fel√ºgyel≈ë}
+{14200}{}{Mester keresked≈ë}
+{14300}{}{Mester keresked≈ë}
 {14400}{}{Tandi}
 {14500}{}{Zsoldos}
 {14600}{}{Ratch}
 {14700}{}{Doofus}
 {14800}{}{Mikey}
-{14900}{}{⁄KK-s csapos}
+{14900}{}{√öKK-s csapos}
 {15000}{}{Boltos}
 {15100}{}{Gruthar}
 {15200}{}{Goris}
-{15300}{}{Vakondpatk·ny harcos}
-{15400}{}{Vakondpatk·ny harcos}
-{15500}{}{Vakondpatk·ny harcos}
-{15600}{}{Vakondpatk·ny harcos}
-{15700}{}{Vakondpatk·ny harcos}
-{15800}{}{Vakondpatk·ny harcos}
-{15900}{}{Szokv·nyos ghoul}
+{15300}{}{Vakondpatk√°ny harcos}
+{15400}{}{Vakondpatk√°ny harcos}
+{15500}{}{Vakondpatk√°ny harcos}
+{15600}{}{Vakondpatk√°ny harcos}
+{15700}{}{Vakondpatk√°ny harcos}
+{15800}{}{Vakondpatk√°ny harcos}
+{15900}{}{Szokv√°nyos ghoul}
 {16000}{}{Myron}
 {16100}{}{Marcus}
 {16200}{}{Jones doki}
 {16300}{}{Davin}
 {16400}{}{Miria}
-{16500}{}{÷csi}
+{16500}{}{√ñcsi}
 {16600}{}{Rondo}
-{16700}{}{RanchsegÈd}
-{16800}{}{RanchsegÈd}
-{16900}{}{RanchsegÈd}
-{17000}{}{KidobÛember}
-{17100}{}{KidobÛember}
+{16700}{}{Ranchseg√©d}
+{16800}{}{Ranchseg√©d}
+{16900}{}{Ranchseg√©d}
+{17000}{}{Kidob√≥ember}
+{17100}{}{Kidob√≥ember}
 {17200}{}{Gyenge Mr.Handy}
-{17300}{}{Szokv·nyos vil·gÌtÛ ghoul}
+{17300}{}{Szokv√°nyos vil√°g√≠t√≥ ghoul}
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
 {17700}{}{test (don't use)}
-{17800}{}{Reaktor ghoul}
-{17900}{}{Szokv·nyos ghoul}
+{17800}{}{Reaktormunk√°s ghoul}
+{17900}{}{Szokv√°nyos ghoul}
 {18000}{}{Matt}
-{18100}{}{Fejvad·sz Vezetı (1-6)}
-{18200}{}{Fejvad·sz (1-6)}
-{18300}{}{fejvad·sz vezetı(7-12)}
-{18400}{}{Fejvad·sz (7-12)}
-{18500}{}{Fejvad·sz (7-12)}
-{18600}{}{Fejvad·sz Vezetı (13-18)}
-{18700}{}{Fejvad·sz (13-18)}
-{18800}{}{Fejvad·sz (13-18)}
-{18900}{}{Fejvad·sz Vezetı (19-?)}
-{19000}{}{Fejvad·sz (19-?)}
+{18100}{}{Fejvad√°sz Vezet≈ë (1-6)}
+{18200}{}{Fejvad√°sz (1-6)}
+{18300}{}{fejvad√°sz vezet≈ë(7-12)}
+{18400}{}{Fejvad√°sz (7-12)}
+{18500}{}{Fejvad√°sz (7-12)}
+{18600}{}{Fejvad√°sz Vezet≈ë (13-18)}
+{18700}{}{Fejvad√°sz (13-18)}
+{18800}{}{Fejvad√°sz (13-18)}
+{18900}{}{Fejvad√°sz Vezet≈ë (19-?)}
+{19000}{}{Fejvad√°sz (19-?)}
 {19100}{}{Bess}
-{19101}{}{Egy kÈtfej˚, mut·ns tehÈn.}
+{19101}{}{Egy k√©tfej≈±, mut√°ns teh√©n.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
@@ -214,83 +214,83 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{MÈsz·ros}
+{20000}{}{M√©sz√°ros}
 {20100}{}{Petey}
-{20200}{}{TˆrzsbÈli vad·sz}
-{20300}{}{TˆrzsbÈli vad·sz}
-{20400}{}{Kannib·l}
-{20500}{}{Kannib·l}
-{20600}{}{Szent FÈrfi}
-{20700}{}{Szent Nı}
-{20800}{}{Nom·d- kis}
-{20900}{}{Nom·d- kˆz}
-{21000}{}{Nom·d- kis}
-{21100}{}{Nom·d- kˆz}
+{20200}{}{T√∂rzsb√©li vad√°sz}
+{20300}{}{T√∂rzsb√©li vad√°sz}
+{20400}{}{Kannib√°l}
+{20500}{}{Kannib√°l}
+{20600}{}{Szent F√©rfi}
+{20700}{}{Szent N≈ë}
+{20800}{}{Nom√°d- kis}
+{20900}{}{Nom√°d- k√∂z}
+{21000}{}{Nom√°d- kis}
+{21100}{}{Nom√°d- k√∂z}
 {21200}{}{Bandita}
 {21300}{}{Bandita}
 {21400}{}{Farmer}
 {21500}{}{Farmer}
-{21600}{}{S·ska}
-{21700}{}{Rabszolga-kereskedı}
-{21800}{}{Rabszolga-kereskedı}
+{21600}{}{Im√°dkoz√≥-s√°ska}
+{21700}{}{Rabszolga-keresked≈ë}
+{21800}{}{Rabszolga-keresked≈ë}
 {21900}{}{Vad brahmin}
 {22000}{}{Telepes}
 {22100}{}{Telepes}
-{22200}{}{MenedÈkv·rosi ırj·rat}
-{22300}{}{MenedÈkv·rosi ırj·rat}
-{22400}{}{Erıs hajcs·r}
-{22500}{}{Erıs hajcs·r}
-{22600}{}{’r¸ltek}
-{22700}{}{Guber·lÛk}
-{22800}{}{’r¸lt "FÈnylık"}
-{22900}{}{Vil·gÌtÛ guber·lÛk}
-{23000}{}{Hal·sz}
-{23100}{}{Hal·szasszony}
-{23200}{}{VadonlakÛ}
-{23300}{}{VadonlakÛ}
-{23400}{}{SzeszcsempÈsz}
-{23500}{}{SzeszcsempÈsz}
-{23600}{}{FˆldmÈrı}
-{23700}{}{FˆldmÈrı}
-{23800}{}{FosztogatÛ}
-{23900}{}{FosztogatÛ}
-{24000}{}{T˚zgekkÛ}
-{24100}{}{Erıs T˚zgekkÛ}
+{22200}{}{Mened√©kv√°rosi ≈ërj√°rat}
+{22300}{}{Mened√©kv√°rosi ≈ërj√°rat}
+{22400}{}{Er≈ës hajcs√°r}
+{22500}{}{Er≈ës hajcs√°r}
+{22600}{}{≈êr√ºltek}
+{22700}{}{Guber√°l√≥k}
+{22800}{}{≈êr√ºlt "F√©nyl≈ëk"}
+{22900}{}{Vil√°g√≠t√≥ guber√°l√≥k}
+{23000}{}{Hal√°sz}
+{23100}{}{Hal√°szasszony}
+{23200}{}{Vadonlak√≥}
+{23300}{}{Vadonlak√≥}
+{23400}{}{Szeszcsemp√©sz}
+{23500}{}{Szeszcsemp√©sz}
+{23600}{}{F√∂ldm√©r≈ë}
+{23700}{}{F√∂ldm√©r≈ë}
+{23800}{}{Fosztogat√≥}
+{23900}{}{Fosztogat√≥}
+{24000}{}{T≈±zgekk√≥}
+{24100}{}{Er≈ës T≈±zgekk√≥}
 {24200}{}{Idegen}
-{24300}{}{Erıs idegen}
-{24400}{}{Kicsi, erıs hal·lkarom}
-{24500}{}{Erıs hal·lkarom}
-{24600}{}{Lebegı}
-{24700}{}{Ocsm·ny lebegı}
+{24300}{}{Er≈ës idegen}
+{24400}{}{Kicsi, er≈ës hal√°lkarom}
+{24500}{}{Er≈ës hal√°lkarom}
+{24600}{}{Lebeg≈ë}
+{24700}{}{Ocsm√°ny lebeg≈ë}
 {24800}{}{Kentaur}
 {24900}{}{Aljas kentaur}
-{25000}{}{Enkl·vÈ ırj·rat}
-{25100}{}{Enkl·vÈ ırj·rat}
-{25200}{}{ToborzÛk}
-{25300}{}{ToborzÛk}
+{25000}{}{Enkl√°v√© ≈ërj√°rat}
+{25100}{}{Enkl√°v√© ≈ërj√°rat}
+{25200}{}{Toborz√≥k}
+{25300}{}{Toborz√≥k}
 {25400}{}{Zsoldos}
 {25500}{}{Zsoldos}
-{25600}{}{…jfajzat}
-{25700}{}{Izmos Èjfajzat}
-{25800}{}{Erıs ghoul}
+{25600}{}{√âjfajzat}
+{25700}{}{Izmos √©jfajzat}
+{25800}{}{Er≈ës ghoul}
 {25900}{}{Gengszter}
 {26000}{}{Jakuza}
-{26100}{}{⁄KK-s FelderÌtı}
-{26200}{}{⁄KK-s FelderÌtı}
-{26300}{}{MartalÛc}
-{26400}{}{MartalÛc}
-{26500}{}{SzÈpfi˙ Lloyd}
-{26600}{}{Vorpal patk·ny}
-{26700}{}{13-as MenedÈk lakÛja}
-{26800}{}{13-as MenedÈk lakÛja}
-{26900}{}{A HÌd ırzıje}
+{26100}{}{√öKK-s Felder√≠t≈ë}
+{26200}{}{√öKK-s Felder√≠t≈ë}
+{26300}{}{Martal√≥c}
+{26400}{}{Martal√≥c}
+{26500}{}{Sz√©pfi√∫ Lloyd}
+{26600}{}{Vorpal patk√°ny}
+{26700}{}{13-as Mened√©k lak√≥ja}
+{26800}{}{13-as Mened√©k lak√≥ja}
+{26900}{}{A H√≠d ≈ërz≈ëje}
 {27000}{}{Titokzatos idegen}
 {27100}{}{Titokzatos idegen}
 {27200}{}{Hakeswill}
 {27300}{}{Nagy Jesus Mordino}
 {27400}{}{Dumar}
-{27500}{}{Hal·lkarom anya}
-{27600}{}{A S·rk·ny}
+{27500}{}{Hal√°lkarom anya}
+{27600}{}{A S√°rk√°ny}
 {27700}{}{Lo Pan}
 {27800}{}{Hubologista}
 {27900}{}{Hubologista}
@@ -302,28 +302,28 @@
 {28500}{}{Titokzatos idegen}
 {28600}{}{Titokzatos idegen}
 {28700}{}{Titokzatos idegen}
-{28800}{}{Elnˆki testır}
-{28900}{}{Hal·lkarom toj·s}
+{28800}{}{Eln√∂ki test≈ër}
+{28900}{}{Hal√°lkarom toj√°s}
 {29000}{}{Metzger}
 {29100}{}{Person}
 {29200}{}{Person in strange type of armor}
-{29300}{}{Elnˆk}
-{29400}{}{Alelnˆk}
+{29300}{}{Eln√∂k}
+{29400}{}{Aleln√∂k}
 {29500}{}{Technikus}
 {29600}{}{A Borz}
 {29700}{}{Dr. Fung}
-{29800}{}{Kˆlyˆk}
-{29900}{}{Kˆlyˆk}
-{30000}{}{Fegyverkereskedı}
+{29800}{}{K√∂ly√∂k}
+{29900}{}{K√∂ly√∂k}
+{30000}{}{Fegyverkeresked≈ë}
 {30100}{}{Shi labortechnikus}
-{30200}{}{Shi ır}
-{30300}{}{Shi kˆzember}
-{30400}{}{Shi kˆzember}
-{30500}{}{Lo Pan kˆvetıje}
-{30600}{}{Lo Pan kˆvetıje}
-{30700}{}{Dokkmunk·s}
-{30800}{}{Shi kereskedı}
-{30900}{}{Pat'k··ny Khir··ly}
+{30200}{}{Shi ≈ër}
+{30300}{}{Shi k√∂zember}
+{30400}{}{Shi k√∂zember}
+{30500}{}{Lo Pan k√∂vet≈ëje}
+{30600}{}{Lo Pan k√∂vet≈ëje}
+{30700}{}{Dokkmunk√°s}
+{30800}{}{Shi keresked≈ë}
+{30900}{}{Pat'k√°√°ny Khir√°√°ly}
 {31000}{}{Sulik - 1. Szint}
 {31100}{}{Sulik - 2. Szint}
 {31200}{}{Sulik - 3. Szint}
@@ -368,23 +368,23 @@
 {35100}{}{Robotagy - 1. Szint}
 {35200}{}{Robotagy - 1. Szint}
 {35300}{}{Robotagy - 1. Szint}
-{35400}{}{Idegen kir·lynı}
-{35500}{}{Fekete radskorpiÛ}
-{35600}{}{Fekete radskorpiÛ}
+{35400}{}{Idegen kir√°lyn≈ë}
+{35500}{}{Fekete radskorpi√≥}
+{35600}{}{Fekete radskorpi√≥}
 {35700}{}{Krumpli}
-{35800}{}{Zsoldoskapit·ny}
+{35800}{}{Zsoldoskapit√°ny}
 {35900}{}{Zsoldos}
 {36000}{}{Zsoldos}
-{36100}{}{¡rnyÈk-Aki-J·r}
+{36100}{}{√Årny√©k-Aki-J√°r}
 {36200}{}{Punk!}
 {36300}{}{Punk!}
 {36400}{}{Marc}
 {36500}{}{Dave H.}
-{36600}{}{A. Ron Meyers kapit·ny}
+{36600}{}{A. Ron Meyers kapit√°ny}
 {36700}{}{Chip}
 {36800}{}{BHK-9}
-{36900}{}{Hubologista ır}
-{37000}{}{Hubologista ır}
+{36900}{}{Hubologista ≈ër}
+{37000}{}{Hubologista ≈ër}
 {37100}{}{Juan}
 {37200}{}{Vikki}
 {37300}{}{Vic - 1. Szint}
@@ -393,12 +393,12 @@
 {37600}{}{Vic - 4. Szint}
 {37700}{}{Vic - 5. Szint}
 {37800}{}{Vic - 6. Szint}
-{37900}{}{Robotagy - csimp·nz}
-{38000}{}{Robotagy - abnorm·lis}
+{37900}{}{Robotagy - csimp√°nz}
+{38000}{}{Robotagy - abnorm√°lis}
 {38100}{}{Robotagy - emberi}
-{38200}{}{”ri·shangya}
-{38300}{}{Erıs Ûri·shangya}
-{38400}{}{P·ria kutya}
+{38200}{}{√ìri√°shangya}
+{38300}{}{Er≈ës √≥ri√°shangya}
+{38400}{}{P√°ria kutya}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
 {38700}{}{Jimmy}
@@ -414,8 +414,8 @@
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
 {39900}{}{Mrs. Bishop}
-{40000}{}{Bishop testıre 1}
-{40100}{}{Bishop testıre 2}
+{40000}{}{Bishop test≈ëre 1}
+{40100}{}{Bishop test≈ëre 2}
 {40200}{}{Bishop embere 1}
 {40300}{}{Bishop embere 2}
 {40400}{}{Veszett brahmin}
@@ -424,89 +424,89 @@
 {40700}{}{Mordino embere 1}
 {40800}{}{Mordino embere 2}
 {40900}{}{Mordino embere 3}
-{41000}{}{Myron ıre 1}
-{41100}{}{Myron ıre 2}
+{41000}{}{Myron ≈ëre 1}
+{41100}{}{Myron ≈ëre 2}
 {41200}{}{Mr. Wright}
 {41300}{}{Mrs. Wright}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
-{41600}{}{Wright fi˙ 1}
-{41700}{}{Wright fi˙ 2}
-{41800}{}{Wright l·ny 1}
-{41900}{}{Wright l·ny 2}
+{41600}{}{Wright fi√∫ 1}
+{41700}{}{Wright fi√∫ 2}
+{41800}{}{Wright l√°ny 1}
+{41900}{}{Wright l√°ny 2}
 {42000}{}{Mr. Salvatore}
 {42100}{}{Mason}
 {42200}{}{Salvatore embere 1}
 {42300}{}{Salvatore embere 2}
-{42400}{}{Szokv·nyos csapos 1}
-{42500}{}{Szokv·nyos csapos 2}
-{42600}{}{Szokv·nyos csapos 3}
-{42700}{}{BokszolÛ 1}
-{42800}{}{BokszolÛ 2}
-{42900}{}{BokszolÛ 3}
-{43000}{}{BokszolÛ 4}
-{43100}{}{Mike, a H˙sdar·lÛ}
+{42400}{}{Szokv√°nyos csapos 1}
+{42500}{}{Szokv√°nyos csapos 2}
+{42600}{}{Szokv√°nyos csapos 3}
+{42700}{}{Bokszol√≥ 1}
+{42800}{}{Bokszol√≥ 2}
+{42900}{}{Bokszol√≥ 3}
+{43000}{}{Bokszol√≥ 4}
+{43100}{}{Mike, a H√∫sdar√°l√≥}
 {43200}{}{Holyfeld}
 {43300}{}{McKneely}
 {43400}{}{Stuart Little}
-{43500}{}{Korzikai TestvÈrek}
-{43600}{}{Korzikai Kurv·k}
+{43500}{}{Korzikai Testv√©rek}
+{43600}{}{Korzikai Kurv√°k}
 {43700}{}{Tully atya}
-{43800}{}{KidobÛember 1}
-{43900}{}{KidobÛember 2}
-{44000}{}{KaszinÛl·ny}
-{44100}{}{DrogdÌler/Strici1}
-{44200}{}{DrogdÌler/Strici2}
-{44300}{}{DrogdÌler/Strici3}
-{44400}{}{DrogdÌler/Strici4}
+{43800}{}{Kidob√≥ember 1}
+{43900}{}{Kidob√≥ember 2}
+{44000}{}{Kaszin√≥l√°ny}
+{44100}{}{Drogd√≠ler/Strici1}
+{44200}{}{Drogd√≠ler/Strici2}
+{44300}{}{Drogd√≠ler/Strici3}
+{44400}{}{Drogd√≠ler/Strici4}
 {44500}{}{McGee}
 {44600}{}{Kitty kisasszony}
-{44700}{}{Szokv·nyos lotyÛ 1}
-{44800}{}{Szokv·nyos lotyÛ 2}
-{44900}{}{CsipkÈs Jimmy J.}
+{44700}{}{Szokv√°nyos loty√≥ 1}
+{44800}{}{Szokv√°nyos loty√≥ 2}
+{44900}{}{Csipk√©s Jimmy J.}
 {45000}{}{Renesco}
-{45100}{}{TudÛs}
+{45100}{}{Tud√≥s}
 {45200}{}{Eldridge}
 {45300}{}{Algernon}
 {45400}{}{Jules}
-{45500}{}{B¸rokrata 1}
-{45600}{}{B¸rokrata 2}
-{45700}{}{Kereskedı 1}
-{45800}{}{Kereskedı 2}
-{45900}{}{’r 1}
-{46000}{}{’r 2}
-{46100}{}{’r 3}
-{46200}{}{’r 4}
+{45500}{}{B√ºrokrata 1}
+{45600}{}{B√ºrokrata 2}
+{45700}{}{Keresked≈ë 1}
+{45800}{}{Keresked≈ë 2}
+{45900}{}{≈êr 1}
+{46000}{}{≈êr 2}
+{46100}{}{≈êr 3}
+{46200}{}{≈êr 4}
 {46300}{}{Katona 1}
 {46400}{}{Katona 2}
 {46500}{}{Katona 3}
 {46600}{}{Katona 4}
-{46700}{}{Stark ırmester}
+{46700}{}{Stark ≈ërmester}
 {46800}{}{Andrew "doki"}
 {46900}{}{Csapos}
-{47000}{}{Lˆvegtorony}
-{47001}{}{Ez egy automata lˆvegtorony iker plazma·gy˙val felszerelve.}
+{47000}{}{L√∂vegtorony}
+{47001}{}{Ez egy automata l√∂vegtorony iker plazma√°gy√∫val felszerelve.}
 {47100}{}{K-9 (alap)}
 {47200}{}{K-9 (1.szint)}
 {47300}{}{K-9 (2.szint)}
 {47400}{}{K-9 (3.szint)}
 {47500}{}{K-9 (4.szint)}
-{47600}{}{Szokv·nyos kiberkutya}
-{47700}{}{Wanamingo toj·s}
-{47800}{}{Lo Pan ıre}
+{47600}{}{Szokv√°nyos kiberkutya}
+{47700}{}{Wanamingo toj√°s}
+{47800}{}{Lo Pan ≈ëre}
 {47900}{}{Marjorie}
-{48000}{}{Automata ·gy˙}
-{48100}{}{Speci·lis gekkÛ lÈny}
-{48200}{}{A Nagy Kasz·s}
+{48000}{}{Automata √°gy√∫}
+{48100}{}{Speci√°lis gekk√≥ l√©ny}
+{48200}{}{A Nagy Kasz√°s}
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard.}
+{48301}{}{The President's Bodyguard.}
 {48400}{}{Nessa}
 {48401}{}{The ghost of dead Nessa.}
-{48500}{}{S·m·n}
+{48500}{}{S√°m√°n}
 {48501}{}{Tribal shaman.}
 {48600}{}{Warrior 	}
 {48601}{}{Tribe warrior.}
-{48700}{}{’r}
+{48700}{}{≈êr}
 {48800}{}{Sulik's sister}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
@@ -579,6 +579,6 @@
 {54501}{}{A hideously mutated spore plant.}
 {54600}{}{Vadkutya}
 {54601}{}{Egy veszett korcs.}
-{54700}{}{’rrobot v2.}
-{54800}{}{VÈn Joe}
+{54700}{}{≈êrrobot v2.}
+{54800}{}{V√©n Joe}
 {54900}{}{A plant creature}

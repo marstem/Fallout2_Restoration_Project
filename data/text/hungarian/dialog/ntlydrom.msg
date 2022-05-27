@@ -1,2 +1,2 @@
-{100}{}{Ez Lloyd rÈgi szob·ja. Valaki bekormozta a szınyeget... a korom olyan, mintha grills¸tıtıl sz·rmazna.}
-{200}{}{Ez volt Lloyd tartÛzkod·si helye.}
+{100}{}{Ez Lloyd r√©gi szob√°ja. Valaki bekormozta a sz≈ënyeget... a korom olyan, mintha grills√ºt≈ët≈ël sz√°rmazna.}
+{200}{}{Ez volt Lloyd tart√≥zkod√°si helye.}

@@ -1,57 +1,57 @@
-{100}{}{Ez a ghoul az átlagosnál is nagyobb termetû.}
-{101}{}{Õ Zomak, becenevén a Megsemmisítõ.}
-{102}{}{Ez a ghoul szép nagyra nõtt. Arcán az ostoba felsõbbrendûség tükrözõdik.}
-{110}{}{Jöjjön a Megújhodás, bajtársam! Zomak vagyok. Néhányak a Megsemmisítõnek neveznek. Mi járatban minálunk?}
-{111}{}{Jöjjön a Megújhodás, bajtársam! Mit csinálsz idelenn? Add elõ Zomaknak, a Megsemmisítõnek, mi járatban vagy itt!}
-{112}{}{Megújj!}
-{113}{}{Ook?}
-{114}{}{Csak körülnézek.}
-{115}{}{Szeretnék Megújhodni.}
-{116}{}{Eltévedtem, tisztán látszik.}
-{120}{}{Máshol tedd ezt, vagy Zomak fogja megvilágosítani az elmédet.}
-{130}{}{Akkor látnod kell Õt.}
-{131}{}{Õt? Hol van Õ? Merre találom?}
-{132}{}{Nem vagyok érdemes rá, hogy lássam Õt. Viszlát!}
-{140}{}{Õ a megvilágosodás apostola. Valamennyi követõje beteljesedik a Megújhodás által.}
-{141}{}{Alig várom a Megújhodást. Hol találom Õt?}
-{142}{}{Na, egy újabb vadbarom. Csá..}
-{150}{}{Nos, Õt megtalálod a... Hé! Ki a franc vagy te, ha nem vagyok indiszkrét?}
-{151}{}{Egy vándor vagyok.}
-{152}{}{A Kiválasztott vagyok.}
-{153}{}{Az évente esedékes Megújhodásra jöttem.}
-{154}{}{Nem lesz semmi gond. Csak néhány kérdést akarok neki feltenni.}
-{160}{}{Akkor vándoroljál szépen kifelé innen!}
-{161}{}{Ööö... rendben. Viszlát!}
-{170}{}{Nos, ebben az esetben... Jer velem. A következõ helyiségben megtalálod Õt. Ne várasd meg!}
-{171}{}{Én ugyan nem. Megyek is. Viszlát!}
-{172}{}{Lehet, hogy késõbb még visszajövök. Viszlát!}
-{180}{}{Addig menj innen, amíg még megteheted. Kifelé!}
-{181}{}{Oké.}
-{200}{}{Igen, mindenki Megújhodhat odabenn.}
-{201}{}{Oké.}
+{100}{}{Ez a ghoul az Ã¡tlagosnÃ¡l is nagyobb termetÅ±.}
+{101}{}{Å Zomak, becenevÃ©n a MegsemmisÃ­tÅ‘.}
+{102}{}{Ez a ghoul szÃ©p nagyra nÅ‘tt. ArcÃ¡n az ostoba felsÅ‘bbrendÅ±sÃ©g tÃ¼krÃ¶zÅ‘dik.}
+{110}{}{JÃ¶jjÃ¶n a MegÃºjhodÃ¡s, bajtÃ¡rsam! Zomak vagyok. NÃ©hÃ¡nyak a MegsemmisÃ­tÅ‘nek neveznek. Mi jÃ¡ratban minÃ¡lunk?}
+{111}{}{JÃ¶jjÃ¶n a MegÃºjhodÃ¡s, bajtÃ¡rsam! Mit csinÃ¡lsz idelenn? Add elÅ‘ Zomaknak, a MegsemmisÃ­tÅ‘nek, mi jÃ¡ratban vagy itt!}
+{112}{}{MegÃºjj!}
+{113}{}{Rendi?}
+{114}{}{Csak kÃ¶rÃ¼lnÃ©zek.}
+{115}{}{SzeretnÃ©k MegÃºjhodni.}
+{116}{}{EltÃ©vedtem, tisztÃ¡n lÃ¡tszik.}
+{120}{}{MÃ¡shol tedd ezt, vagy Zomak fogja megvilÃ¡gosÃ­tani az elmÃ©det.}
+{130}{}{Akkor lÃ¡tnod kell Åt.}
+{131}{}{Åt? Hol van Å? Merre talÃ¡lom?}
+{132}{}{Nem vagyok Ã©rdemes rÃ¡, hogy lÃ¡ssam Åt. ViszlÃ¡t!}
+{140}{}{Å a megvilÃ¡gosodÃ¡s apostola. Valamennyi kÃ¶vetÅ‘je beteljesedik a MegÃºjhodÃ¡s Ã¡ltal.}
+{141}{}{Alig vÃ¡rom a MegÃºjhodÃ¡st. Hol talÃ¡lom Åt?}
+{142}{}{Na, egy Ãºjabb vadbarom. CsÃ¡..}
+{150}{}{Nos, Åt megtalÃ¡lod a... HÃ©! Ki a franc vagy te, ha nem vagyok indiszkrÃ©t?}
+{151}{}{Egy vÃ¡ndor vagyok.}
+{152}{}{A KivÃ¡lasztott vagyok.}
+{153}{}{Az Ã©vente esedÃ©kes MegÃºjhodÃ¡sra jÃ¶ttem.}
+{154}{}{Nem lesz semmi gond. Csak nÃ©hÃ¡ny kÃ©rdÃ©st akarok neki feltenni.}
+{160}{}{Akkor vÃ¡ndoroljÃ¡l szÃ©pen kifelÃ© innen!}
+{161}{}{Ã–Ã¶Ã¶... rendben. ViszlÃ¡t!}
+{170}{}{Nos, ebben az esetben... Jer velem. A kÃ¶vetkezÅ‘ helyisÃ©gben megtalÃ¡lod Åt. Ne vÃ¡rasd meg!}
+{171}{}{Ã‰n ugyan nem. Megyek is. ViszlÃ¡t!}
+{172}{}{Lehet, hogy kÃ©sÅ‘bb mÃ©g visszajÃ¶vÃ¶k. ViszlÃ¡t!}
+{180}{}{Addig menj innen, amÃ­g mÃ©g megteheted. KifelÃ©!}
+{181}{}{OkÃ©.}
+{200}{}{Igen, mindenki MegÃºjhodhat odabenn.}
+{201}{}{OkÃ©.}
 {210}{}{Rendi? Ez mit akar jelenteni? Zaza vagy?}
 {211}{}{Goop?}
-{220}{}{Tûnés innen! Az Agynak nincs ideje az ilyenekre.}
-{221}{}{Rendben. Már itt sem vagyok.}
-{230}{}{Itt nincs más semmi, csak az Agy barlangja. Barátocskám, te aztán zaza vagy a javából.}
-{231}{}{Miféle Agy?}
-{232}{}{Csak teszteltelek, és megfeleltél. Most engedj be.}
-{233}{}{Szerintem egy kicsit megzavarodtam hirtelen. Lehet, hogy a sugárzástól van. Viszlát!}
-{240}{}{Ah... Nincs itt semmi. Semmi az égadta világon. Csak egyszerûen távozz innen!}
+{220}{}{TÅ±nÃ©s innen! Az Agynak nincs ideje az ilyenekre.}
+{221}{}{Rendben. MÃ¡r itt sem vagyok.}
+{230}{}{Itt nincs mÃ¡s semmi, csak az Agy barlangja. BarÃ¡tocskÃ¡m, te aztÃ¡n zaza vagy a javÃ¡bÃ³l.}
+{231}{}{MifÃ©le Agy?}
+{232}{}{Csak teszteltelek, Ã©s megfeleltÃ©l. Most engedj be.}
+{233}{}{Szerintem egy kicsit megzavarodtam hirtelen. Lehet, hogy a sugÃ¡rzÃ¡stÃ³l van. ViszlÃ¡t!}
+{240}{}{Ah... Nincs itt semmi. Semmi az Ã©gadta vilÃ¡gon. Csak egyszerÅ±en tÃ¡vozz innen!}
 {241}{}{Biztos vagy benne, hogy semmi nincs itt?}
-{242}{}{Már itt sem vagyok.}
-{250}{}{Igen. Az vagyok. Most pedig tûnés!}
+{242}{}{Rendben. KÃ©sÅ‘bb talÃ¡lkozunk.}
+{250}{}{Igen. Az vagyok. Most pedig tÅ±nÃ©s!}
 {251}{}{Ha maga mondja... Na, isten vele.}
 {260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
-{261}{}{Át. Most pedig engedj be!}
-{262}{}{Nem mentél át, és most jelenteni fogom ezt!}
-{270}{}{Akkor rendben. Menj csak elõre!}
-{271}{}{Már itt sem vagyok.}
-{280}{}{Viseled a jelet! Az ajtó nyitva áll elõtted.}
+{261}{}{Ãt. Most pedig engedj be!}
+{262}{}{Nem mentÃ©l Ã¡t, Ã©s most jelenteni fogom ezt!}
+{270}{}{Akkor rendben. Menj csak elÅ‘re!}
+{271}{}{Rendben. KÃ©sÅ‘bb talÃ¡lkozunk.}
+{280}{}{Viseled a jelet! Az ajtÃ³ nyitva Ã¡ll elÅ‘tted.}
 {281}{}{Meeegy...}
-{282}{}{Jól értettem? Jelet mondtál?}
-{283}{}{Féld a jelet! Viszlát!}
-{290}{}{Igen, a Megújhodás felszentelt jelét. Jöjjön a Megújhodás, bajtársam! Jöjjön a Megújhodás!}
-{291}{}{Hát hogyne... Neked is jó ujjazást. Viszlát!}
-{300}{}{Jöjjön a Megújhodás, fivér. Átmehetsz!}
-{301}{}{Jöjjön a Megújhodás, nõvérem. Átmehetsz!}
+{282}{}{JÃ³l Ã©rtettem? Jelet mondtÃ¡l?}
+{283}{}{FÃ©ld a jelet! ViszlÃ¡t!}
+{290}{}{Igen, a MegÃºjhodÃ¡s felszentelt jelÃ©t. JÃ¶jjÃ¶n a MegÃºjhodÃ¡s, bajtÃ¡rsam! JÃ¶jjÃ¶n a MegÃºjhodÃ¡s!}
+{291}{}{HÃ¡t hogyne... Neked is jÃ³ ujjazÃ¡st. ViszlÃ¡t!}
+{300}{}{JÃ¶jjÃ¶n a MegÃºjhodÃ¡s, fivÃ©r. Ãtmehetsz!}
+{301}{}{JÃ¶jjÃ¶n a MegÃºjhodÃ¡s, nÅ‘vÃ©rem. Ãtmehetsz!}

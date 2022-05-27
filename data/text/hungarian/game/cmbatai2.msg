@@ -1,118 +1,118 @@
 {1000}{}{Az arcom! Az arcom!}
-{1001}{}{Aúú! Ez fájt!}
+{1001}{}{Ãu! Ez fÃ¡jt!}
 {1002}{}{Ouch! I need some ice for my head.}
-{1010}{}{Ajj, a karom!}
-{1011}{}{Aú!}
-{1012}{}{Eltörted a kezem!}
-{1020}{}{Ajj, a karom!}
-{1021}{}{Váhhhh!}
+{1010}{}{AÃº, a karom!}
+{1011}{}{ÃÃ¡Ã¡!}
+{1012}{}{EltÃ¶rted a karom!}
+{1020}{}{AÃº, a karom!}
+{1021}{}{ÃÃ¡Ã¡Ã¡Ã¡hh!}
 {1022}{}{Istenem! A karom!}
-{1030}{}{Aú! Ez tényleg fájt!}
-{1031}{}{Menten elájulok.}
-{1032}{}{Jaj!}
-{1033}{}{Úhhh!}
-{1034}{}{Ez fájt!}
-{1035}{}{Hagyj már békén!}
-{1036}{}{Óóó, ez fáááj!}
-{1060}{}{Aú, a lábam!}
-{1061}{}{A térdem!}
-{1062}{}{Aú!}
-{1070}{}{Aú, a lábam!}
-{1071}{}{A térdem!}
-{1072}{}{Aaaarrrrggghhh!}
-{1080}{}{Aúú!! A szemem!}
-{1081}{}{Az arcom! A szemem! Arrrrgh!}
+{1030}{}{Oh! Ez tÃ©nyleg fÃ¡jt!}
+{1031}{}{Asszem, mindjÃ¡rt elÃ¡julok.}
+{1032}{}{Ãuuh!}
+{1033}{}{Uuufh!}
+{1034}{}{Ez fÃ¡jt!}
+{1035}{}{HagyjÃ¡l mÃ¡r bÃ©kÃ©n!}
+{1036}{}{Ohhh, fÃ¡jdalom!}
+{1060}{}{AÃº, a lÃ¡bam!}
+{1061}{}{A tÃ©rdem!}
+{1062}{}{ÃÃ¡Ã¡!}
+{1070}{}{AÃº, a lÃ¡bam!}
+{1071}{}{A tÃ©rdem!}
+{1072}{}{Aaaaarrrghhh!}
+{1080}{}{Jaj!! A szemem!}
+{1081}{}{Az arcom! A szemem! Aaarrgh!}
 {1082}{}{A szemem!}
-{1090}{}{Óóóóóóóóóóó, a tököm! Óóóóóóó...}
-{1091}{}{Ajj... ez nagyon fááj!}
-{1092}{}{Örhf!}
+{1090}{}{Oooooooooh, a lÃ¡gyÃ©kom! Oooooooh...}
+{1091}{}{ÃÃ¡Ã¡u... ez fÃ¡Ã¡j!}
+{1092}{}{Urgh!}
 {1093}{}{Oooh! auuuu...}
-{1094}{}{Nem... khapok...leveghõt...}
-{1095}{}{Nagyon fáj, nagyon fáj...}
-{1100}{}{A fene!}
+{1094}{}{Nehm...khapok...levegÅ‘t...}
+{1095}{}{FÃ¡Ã¡j, fÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡j...}
+{1100}{}{Francba!}
 {1101}{}{My aching skull!}
 {1102}{}{Az arcom! Az arcom!}
 {1110}{}{Aggghhh! My arm!}
 {1111}{}{A karom!}
-{1112}{}{Hé, ember, ez fáj!}
+{1112}{}{HÃ© ember, ez fÃ¡j!}
 {1120}{}{Aggghhh! My arm!}
 {1121}{}{A karom!}
 {1122}{}{}
 {1130}{}{}
-{1131}{}{Úúf!}
-{1132}{}{Jaj!}
-{1133}{}{Uh! A bordám!}
-{1134}{}{Ugh! Ez fájt!}
-{1135}{}{Szemét! Köpök rád!}
-{1136}{}{Áááá!}
-{1138}{}{Ó, a bordám!}
+{1131}{}{Uuuuh!}
+{1132}{}{Ãuuh!}
+{1133}{}{Uh! A bordÃ¡m}
+{1134}{}{Ugh! Ez fÃ¡jt!}
+{1135}{}{SzemÃ©t! KÃ¶pÃ¶k rÃ¡d!}
+{1136}{}{ÃÃ¡Ã¡Ã¡!}
+{1138}{}{Oh, a bordÃ¡m!}
 {1139}{}{Ajj!!!}
-{1140}{}{Úúf!}
+{1140}{}{Uuuuh!}
 {1160}{}{Aggghhh! My leg!}
-{1161}{}{A lábam!}
-{1162}{}{Ennyit a térdemrõl.}
+{1161}{}{A lÃ¡bam!}
+{1162}{}{Ennyit a tÃ©rdemrÅ‘l.}
 {1170}{}{Aggghhh! My leg!}
-{1171}{}{A lábam!}
-{1172}{}{Ennyit a térdemrõl.}
-{1180}{}{Ááááááh! Nem látok!}
+{1171}{}{A lÃ¡bam!}
+{1172}{}{Ennyit a tÃ©rdemrÅ‘l.}
+{1180}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡h! Nem lÃ¡tok!}
 {1181}{}{A szemem! A szemem!}
-{1182}{}{A szemem! Ezért megfizetsz!}
-{1190}{}{Óóóóóó, a tököm!}
-{1191}{}{Óóóóóóóóóóh!}
-{1192}{}{Nem... khapok...leveghõt...}
-{1193}{}{Hoppá! Ennyit a családról!}
-{1194}{}{Nagyon fáj, nagyon fáj...}
-{1195}{}{A fenébe, nagyon fáj!}
-{1200}{}{Ajj! Fa... fej!}
-{1201}{}{Betölt az ohhom!}
-{1202}{}{Letépem a fejed!}
+{1182}{}{A szemem! EzÃ©rt megfizetsz te gÃ¶rÃ©ny!}
+{1190}{}{Ooooooh, a tÃ¶kÃ¶m!}
+{1191}{}{Ooooooooooh!}
+{1192}{}{Nehm...khapok...levegÅ‘t...}
+{1193}{}{HoppÃ¡! Ennyit a csalÃ¡drÃ³l!}
+{1194}{}{FÃ¡Ã¡j, fÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡j...}
+{1195}{}{A fenÃ©be, nagyon fÃ¡j!}
+{1200}{}{Ow! Fa..fej!}
+{1201}{}{BetÃ¶rt az orrom!}
+{1202}{}{LetÃ©pem a fejed!}
 {1210}{}{Ajj, a karom!}
-{1211}{}{Ez volt életed legnagyobb és egyben utolsó hibája!}
+{1211}{}{Ez volt Ã©leted legnagyobb Ã©s egyben utolsÃ³ hibÃ¡ja!}
 {1212}{}{A karom!}
 {1220}{}{Ajj, a karom!}
-{1221}{}{Ez volt életed legnagyobb és egyben utolsó hibája!}
+{1221}{}{Ez volt Ã©leted legnagyobb Ã©s egyben utolsÃ³ hibÃ¡ja!}
 {1222}{}{A karom!}
-{1230}{}{Örhf!}
-{1231}{}{Úúf!}
-{1232}{}{Jaj!}
+{1230}{}{Urgh!}
+{1231}{}{Uuuuh!}
+{1232}{}{Ãuuh!}
 {1233}{}{}
-{1234}{}{Ugh! Ez fájt!}
-{1235}{}{Jaj!}
-{1236}{}{Áááá!}
-{1237}{}{Ó, a bordám!!}
-{1238}{}{Aj!!! Még jó, hogy két vesém van!}
-{1239}{}{Úúf!}
+{1234}{}{Ugh! Ez fÃ¡jt!}
+{1235}{}{Ãuuh!}
+{1236}{}{ÃÃ¡Ã¡Ã¡!}
+{1237}{}{Oh, a bordÃ¡m!!}
+{1238}{}{Ow!!! MÃ©g jÃ³, hogy kÃ©t vesÃ©m van!}
+{1239}{}{Uuuuh!}
 {1260}{}{Ow, my leg.}
-{1261}{}{Ülve is tudok ölni!}
-{1262}{}{A térdem!}
+{1261}{}{Nem kell lÃ¡b, hogy megÃ¶ljelek!}
+{1262}{}{A tÃ©rdem!}
 {1270}{}{Ow, my leg.}
-{1271}{}{Ülve is tudok ölni!}
-{1272}{}{A térdem!}
-{1280}{}{Hova tûntél??}
+{1271}{}{Nem kell lÃ¡b, hogy megÃ¶ljelek!}
+{1272}{}{A tÃ©rdem!}
+{1280}{}{Hova tÅ±ntÃ©l??}
 {1281}{}{This fight is getting worse by the second.}
-{1282}{}{Ez gyenge lövés volt, pajti!}
-{1290}{}{Óóóóóó, a tököm!}
+{1282}{}{Ez gyenge lÃ¶vÃ©s volt, pajti!}
+{1290}{}{Ooooooh, a tÃ¶kÃ¶m!}
 {1291}{}{I'll feel that in the morning.}
 {1292}{}{}
-{1293}{}{Örhf!}
+{1293}{}{Urgh!}
 {1294}{}{}
 {1295}{}{}
-{1300}{}{Gratula! Ez király heget hagy!}
+{1300}{}{VÃ¡Ã³! Ez kirÃ¡ly heget hagy!}
 {1301}{}{I'm starting to get annoyed.}
-{1302}{}{Próbáld csak még egyszer, kisköcsög!}
-{1310}{}{Na, én se fogok többé szárnyalni!}
+{1302}{}{PrÃ³bÃ¡ld csak mÃ©g egyszer, kiskÃ¶csÃ¶g!}
+{1310}{}{Ã‰n se fogok mÃ¡r szÃ¡rnyalni!}
 {1311}{}{}
 {1312}{}{You broke my arm, but I'll break your neck!}
 {1320}{}{}
-{1321}{}{Ez csak egy karcolás, de nekem épp elég...}
+{1321}{}{Ez csak egy karcolÃ¡s, de nekem Ã©ppen elÃ©g...}
 {1322}{}{You broke my arm, so I'm gonna break your neck!}
 {1330}{}{A little blood ain't hurt no-one.}
-{1331}{}{Úh! Ezért kicsontozlak!}
-{1332}{}{Aú!}
-{1333}{}{Imádom a fájdalmat!}
-{1334}{}{Imádom a bordák recsegését!}
-{1335}{}{Ez semmiség!}
-{1336}{}{Agrr!}
+{1331}{}{Oof! EzÃ©rt kicsontozlak!}
+{1332}{}{ÃÃ¡Ã¡!}
+{1333}{}{ImÃ¡dom a fÃ¡jdalmat!}
+{1334}{}{ImÃ¡dom a borda reccsenÃ©sÃ©t!}
+{1335}{}{Ez semmisÃ©g!}
+{1336}{}{Argh!}
 {1360}{}{I love the sound of bones crunching.}
 {1361}{}{}
 {1362}{}{You broke my leg, but I'll break your neck!}
@@ -122,15 +122,15 @@
 {1380}{}{Hey, I'm blind.}
 {1381}{}{I can't see. That'll make this fair.}
 {1382}{}{A szemem, te fasz!}
-{1390}{}{Úh, a tököm!!}
+{1390}{}{Oof, a tÃ¶kÃ¶m!!}
 {1391}{}{That was a ballsy move.}
 {1392}{}{}
 {1393}{}{}
 {1394}{}{So, that's the way you want to play it?}
-{1395}{}{Aoú!}
-{1400}{}{Figyelmeztetés, CPU meghibásodást észleltem!}
-{1401}{}{Figyelem! CPU sérülés! Irányítás megsérült!}
-{1402}{}{Figyelem! CPU megsérült! Létfontosságú áramkörök átirányítása!}
+{1395}{}{AoÃº!}
+{1400}{}{FigyelmeztetÃ©s, CPU meghibÃ¡sodÃ¡st Ã©szleltem!}
+{1401}{}{Figyelem! CPU sÃ©rÃ¼lÃ©s! IrÃ¡nyÃ­tÃ¡s megsÃ©rÃ¼lt!}
+{1402}{}{Figyelem! CPU megsÃ©rÃ¼lt! LÃ©tfontossÃ¡gÃº Ã¡ramkÃ¶rÃ¶k Ã¡tirÃ¡nyÃ­tÃ¡sa!}
 {1410}{}{Manipulator damage registered.}
 {1411}{}{Unit struck in left manipulator. Damage assessment.}
 {1412}{}{Manipulator hit registered. Attempting to compensate.}
@@ -153,514 +153,514 @@
 {1470}{}{Motivator damage registered.}
 {1471}{}{Unit struck in left motivator. Damage assessment.}
 {1472}{}{Motivator hit registered. Attempting to compensate.}
-{1480}{}{Szenzor találat! Szenzor találat!}
-{1481}{}{Szenzor megsérült! Szenzor megsérült!}
+{1480}{}{Szenzor talÃ¡lat! Szenzor talÃ¡lat!}
+{1481}{}{Szenzor megsÃ©rÃ¼lt! Szenzor megsÃ©rÃ¼lt!}
 {1482}{}{Sensor system malfunction, attempting bypass.}
-{1490}{}{Mozgásközpont sérülés történt!}
-{1491}{}{Mozgásközpont megsérült! Mozgás-zavar!}
-{1492}{}{Mozgásközpont megsérült! Javítás folyamatban!}
-{1500}{}{A fejemet gonosz szellemek szállták meg!}
-{1501}{}{Hallom az õseim hívását!}
+{1490}{}{MozgÃ¡skÃ¶zpont sÃ©rÃ¼lÃ©s Ã©szlelve!}
+{1491}{}{MozgÃ¡skÃ¶zpont megsÃ©rÃ¼lt! MozgÃ¡szavar!}
+{1492}{}{MozgÃ¡skÃ¶zpont megsÃ©rÃ¼lt! JavÃ­tÃ¡s folyamatban!}
+{1500}{}{A fejemet gonosz szellemek szÃ¡lltÃ¡k meg!}
+{1501}{}{Hallom az Å‘seim hÃ­vÃ¡sÃ¡t!}
 {1502}{}{That will scar nicely.}
 {1503}{}{Ajjajjaj!}
-{1504}{}{Ég a fejem!}
-{1505}{}{Éget, éget!}
-{1506}{}{Fáááááj!!!}
-{1507}{}{Hatalmas a varázserõd!}
-{1508}{}{Így nem szerzed meg a lelkemet!}
-{1509}{}{A varázslatod nem gyõz felettem!}
-{1510}{}{A jobb kezemmel foglak megölni!}
-{1511}{}{Egy kézzel is elbánok veled!}
-{1512}{}{A te fájdalmad még nagyobb lesz!}
-{1513}{}{Úgyse kell annyi ujj!}
-{1514}{}{Úgyis hosszabb  volt az a karom!}
-{1515}{}{Ezért mind a két karod kitépem!}
-{1516}{}{Ezért lassan foglak megölni!}
-{1517}{}{Jajjajj!}
-{1518}{}{Mennyi vér...}
-{1519}{}{Na, ezt majd megmutathatom a kisembereknek!}
-{1520}{}{A bal kezemmel öllek meg!}
-{1521}{}{Ennyire rosszul célzol?}
-{1522}{}{Egy kézzel is elbánok veled!}
-{1523}{}{Úgyse kell annyi ujj!}
-{1524}{}{Ezért lassan foglak megölni!}
-{1525}{}{Ezért mind a két karod kitépem!}
-{1526}{}{Te elveszed a karom, én elveszem a fejed!}
-{1527}{}{Meg akarsz nyomorítani?}
-{1528}{}{A beledbõl fogok vacsorázni!}
-{1529}{}{Hosszú ideig fogsz haldokolni!}
-{1530}{}{Aúúúúú!}
-{1531}{}{Ég a testem!}
-{1532}{}{Égnek a zsigereim!}
-{1533}{}{Az élet szellemei menekülnek belõlem!}
-{1534}{}{Nézzétek már... szétnyíltam!}
-{1535}{}{Csak éljek addig, amíg megöllek!}
-{1536}{}{Õsök! Most én következem!}
-{1537}{}{Sose látom többé a falumat!}
-{1538}{}{Büszkén halok meg!}
-{1539}{}{A testvéreim megbosszulnak!}
-{1540}{}{Nincs bennem már lélegzet!}
+{1504}{}{Ã‰g a fejem!}
+{1505}{}{Ã‰get, Ã©get!}
+{1506}{}{FÃ¡jdalom.}
+{1507}{}{ErÅ‘s a varÃ¡zserÅ‘d!}
+{1508}{}{Ãgy nem szerzed meg a lelkemet!}
+{1509}{}{A varÃ¡zslatod nem gyÅ‘z felettem!}
+{1510}{}{A jobb kezemmel foglak megÃ¶lni!}
+{1511}{}{Egy kÃ©zzel is elbÃ¡nok veled!}
+{1512}{}{A te fÃ¡jdalmad mÃ©g nagyobb lesz!}
+{1513}{}{Ãšgyse kell annyi ujj!}
+{1514}{}{Ãšgyis hosszabb  volt az a kezem!}
+{1515}{}{EzÃ©rt mind a kÃ©t karod kitÃ©pem!}
+{1516}{}{EzÃ©rt lassan Ã¶llek meg tÃ©ged!}
+{1517}{}{JÃ¡jjj!}
+{1518}{}{Olyan sok vÃ©r...}
+{1519}{}{Valami amit megmutathatok a kisembereknek!}
+{1520}{}{A bal kezemmel Ã¶llek meg!}
+{1521}{}{Ennyire rosszul cÃ©lzol?}
+{1522}{}{Egy kÃ©zzel is elbÃ¡nok veled!}
+{1523}{}{Ãšgyse kell annyi ujj!}
+{1524}{}{EzÃ©rt lassan Ã¶llek meg tÃ©ged!}
+{1525}{}{EzÃ©rt mind a kÃ©t karod kitÃ©pem!}
+{1526}{}{Te elveszed a karom, Ã©n elveszem a fejed!}
+{1527}{}{Meg akarsz nyomorÃ­tani?}
+{1528}{}{A beledbÅ‘l fogok vacsorÃ¡zni!}
+{1529}{}{HosszÃº ideig fogsz haldokolni!}
+{1530}{}{AÃºÃºÃºÃºÃº!}
+{1531}{}{Ã‰g a testem!}
+{1532}{}{Ã‰gnek a zsigereim!}
+{1533}{}{Az Ã©let-szellemek menekÃ¼lnek belÅ‘lem!}
+{1534}{}{SzÃ©tnyÃ­ltam!}
+{1535}{}{Csak Ã©ljek addig amÃ­g megÃ¶llek!}
+{1536}{}{ÅsÃ¶k! JÃ¶vÃ¶k mÃ¡r!}
+{1537}{}{Sose lÃ¡tom tÃ¶bbet a falut!}
+{1538}{}{BÃ¼szkÃ©n halok meg!}
+{1539}{}{A testvÃ©reim megbosszulnak!}
+{1540}{}{Nincs bennem mÃ¡r lÃ©legzet!}
 {1541}{}{Elvetted a lelkem!}
-{1542}{}{Megcsonkítanál?}
+{1542}{}{MegcsonkÃ­tanÃ¡l?}
 {1543}{}{Kibeleztek, mint egy brahmint!}
-{1544}{}{Nem vagyok jól!}
-{1545}{}{Nem érzem a lábam!}
-{1546}{}{Hirtelen elálmosodtam...}
+{1544}{}{Nem vagyok jÃ³l!}
+{1545}{}{Nem Ã©rzem a lÃ¡bam!}
+{1546}{}{Hirtelen elÃ¡lmosodtam.}
 {1547}{}{Errrggggg!}
-{1548}{}{Eghhh! Khm, khm.}
-{1549}{}{Muszáj folytatni, meg kell ölni az ellens...}
-{1550}{}{Szólít a sötétség!}
-{1551}{}{Közeleg a halálom órája!}
-{1552}{}{A Sámánnak igaza volt, nem térek többé vissza!}
-{1553}{}{Az Idegen legyõzött!}
-{1554}{}{Megöltek!}
-{1555}{}{Meglazultak a beleim!}
-{1556}{}{Ne hagyd, hogy a halál szégyent hozzon rám!}
-{1557}{}{Francba a beleimmel!}
-{1558}{}{Hé, nézd csak, látom az ebédem!}
-{1559}{}{Hova tûnt a levegõ?}
-{1560}{}{Odakúszom és megöllek!}
-{1561}{}{Állva kell maradnom!}
-{1562}{}{Remélem, futás nélkül is elkaplak!}
-{1563}{}{Megcsonkítasz?! Gonosz lélek!}
-{1564}{}{Awwwwgg!}
-{1565}{}{Jé, a csontom... milyen fehér...}
-{1566}{}{Mért nem tudok járni?}
+{1548}{}{Eghhh! kucc, kucc.}
+{1549}{}{MuszÃ¡j folytatni, meg kell Ã¶lni ellen...}
+{1550}{}{A sÃ¶tÃ©tsÃ©g szÃ³lÃ­t!}
+{1551}{}{A halÃ¡lom Ã³rÃ¡ja kÃ¶zeleg!}
+{1552}{}{A SÃ¡mÃ¡nnak igaza volt, nem tÃ©rek mÃ¡r vissza!}
+{1553}{}{Az Idegen legyÅ‘zÃ¶tt!}
+{1554}{}{MegÃ¶ltek!}
+{1555}{}{A beleim meglazultak!}
+{1556}{}{Ne hagyd, hogy a halÃ¡l szÃ©gyent hozzon rÃ¡m!}
+{1557}{}{Francba a beleimmel.}
+{1558}{}{HÃ©, nÃ©zd csak, lÃ¡tom az ebÃ©dem.}
+{1559}{}{Hova tÅ±nt a levegÅ‘?}
+{1560}{}{OdakÃºszom Ã©s megÃ¶llek!}
+{1561}{}{MuszÃ¡j Ã¡llni, muszÃ¡j...}
+{1562}{}{RemÃ©lem, futÃ¡s nÃ©lkÃ¼l is elkaplak!}
+{1563}{}{MegcsonkÃ­tasz! GyÃ¡va!}
+{1564}{}{AÃºÃºÃºÃºÃº!}
+{1565}{}{Csont? Olyan fehÃ©r....}
+{1566}{}{MÃ©rt nem tudok jÃ¡rni?}
 {1567}{}{Arrrrrrgh.}
 {1568}{}{Unnhhh.}
-{1569}{}{A lábam... mint a tûz!}
-{1570}{}{Odakúszom és megöllek!}
-{1571}{}{Állva kell maradnom!}
-{1572}{}{Remélem, futás nélkül is elkaplak!}
-{1573}{}{Megcsonkítasz?! Gonosz lélek!}
-{1574}{}{Awwwwgg!}
-{1575}{}{Jé, a csontom... milyen fehér...}
-{1576}{}{Nem tudok járni. Ó, de fáj...}
-{1577}{}{Ezért leégetem a lábad!}
-{1578}{}{Áuuuuú-áááá!}
-{1579}{}{A lábam ég, akár a tûz!}
-{1580}{}{Eljött a sötétség!}
+{1569}{}{LÃ¡bam, mint a tÅ±z!}
+{1570}{}{OdakÃºszom Ã©s megÃ¶llek!}
+{1571}{}{MuszÃ¡j Ã¡llni, muszÃ¡j...}
+{1572}{}{RemÃ©lem, futÃ¡s nÃ©lkÃ¼l is elkaplak!}
+{1573}{}{MegcsonkÃ­tasz! GyÃ¡va!}
+{1574}{}{AÃºÃºÃºÃºÃº!}
+{1575}{}{Csont? Olyan fehÃ©r....}
+{1576}{}{Nem tudok jÃ¡rni. Oh a fÃ¡jdalom....}
+{1577}{}{EzÃ©rt leÃ©getem a lÃ¡bad!}
+{1578}{}{ÃuuuuÃº-Ã¡Ã¡Ã¡Ã¡!}
+{1579}{}{LÃ¡bam mint a tÅ±z!}
+{1580}{}{A sÃ¶tÃ©tsÃ©g eljÃ¶tt.}
 {1581}{}{Hol vagy?}
-{1582}{}{Segítség, segíts!}
-{1583}{}{Még mindig hallak ám!}
-{1584}{}{Megpróbálsz megvakítani? Te gyáva!}
-{1585}{}{Ellopták a látásom!}
-{1586}{}{A szemeimet elveheted, de a bátorságom nem!}
-{1587}{}{Gyere ide, hogy megölhesselek!}
-{1588}{}{Sötétség! Sötétség! Ajjj!}
-{1589}{}{Hol a szemem? Hova tûnt!?!}
+{1582}{}{SegÃ­tsÃ©g, segÃ­ts.}
+{1583}{}{MÃ©g mindig hallak!}
+{1584}{}{MegprÃ³bÃ¡lsz megvakÃ­tani? Te gyÃ¡va!}
+{1585}{}{ElloptÃ¡k a lÃ¡tÃ¡som!}
+{1586}{}{A szemeimet elveheted, de a bÃ¡torsÃ¡gom nem!}
+{1587}{}{Gyere ide, hogy megÃ¶lhesselek!}
+{1588}{}{SÃ¶tÃ©tsÃ©g!SÃ¶tÃ©tsÃ©g! Ãjjj!}
+{1589}{}{Hol a szemem? Hova tÅ±nt!?!}
 {1590}{}{I have too many young already.}
-{1591}{}{Nem harcolsz becsületesen!}
-{1592}{}{Úgyse használtam, házas vagyok...}
-{1593}{}{Szent szellemek, a világ felrobbant.}
-{1594}{}{Hhh... nem kapok levegõt...}
-{1595}{}{::Magas hangon:: JAJJ!}
-{1596}{}{Önnhhh. Most le kell ülnöm, de rögtön...}
-{1597}{}{Te szemét... Ezért lassú halálban lesz részed!}
-{1598}{}{Semmit sem tudsz a becsületrõl!}
-{1599}{}{Ezért lemészárollak, mint egy állatot!}
-{1600}{}{Na, ennyit a jóképûségemrõl!}
-{1601}{}{Szaggat a fejem!}
-{1602}{}{Na, most már úgy nézek ki, mint Van Gogh.}
-{1603}{}{Picsába, az ott az orrom!}
-{1604}{}{Hé! Ez volt az utolsó fogam!}
+{1591}{}{BÃ¼szkesÃ©g nÃ©lkÃ¼l harcolsz.}
+{1592}{}{Ãšgyse hasznÃ¡lom, hÃ¡zas vagyok.}
+{1593}{}{Szent szellemek, a vilÃ¡g felrobbant.}
+{1594}{}{Hhh...nem kapok levegÅ‘t....}
+{1595}{}{Magas hangon: Ouch!}
+{1596}{}{Unnhhh. Le kell Ã¼lnÃ¶m.}
+{1597}{}{Te szemÃ©t--EzÃ©rt lassÃº halÃ¡lod lesz.}
+{1598}{}{Semmit sem tudsz a becsÃ¼letrÅ‘l.}
+{1599}{}{EzÃ©rt lemÃ©szÃ¡rollak, mint egy Ã¡llatot!}
+{1600}{}{Oh, ennyit a jÃ³kÃ©pÅ±sÃ©gemrÅ‘l}
+{1601}{}{FÃ¡jnak az agyaim.}
+{1602}{}{Na, mostmÃ¡r Ãºgy nÃ©zek ki, mint Van Gogh.}
+{1603}{}{PicsÃ¡ba, ott az orrom!}
+{1604}{}{HÃ©! Ez volt az utolsÃ³ fogam!}
 {1605}{}{Megskalpoltak!}
-{1606}{}{Ennél még egy palack is jobb lenne...}
-{1607}{}{Hadd adjak egy kis darabot a fejembõl!}
-{1608}{}{Ez a jó szemem! Arrr!}
-{1609}{}{Ettõl még az ép szemem is sírva fakad!}
-{1610}{}{Lefegyverzel?}
-{1611}{}{Óóóhh, nagyon fáj, nagyon fáj!}
-{1612}{}{Még mindig maradt ám pár ujjam!}
-{1613}{}{Téged egy ujjal is lenyomlak, pubi!}
-{1614}{}{Kell egy segítõ kéz?}
-{1615}{}{Hát ez szarabb érzés, mint a hosszúra nõtt köröm.}
-{1616}{}{Most már legalább nincs útban.}
-{1617}{}{Ledöflek a csonkkal!}
-{1618}{}{Hé, hova tûntek az ujjaim?}
-{1619}{}{Mostantól hasznát venném egy kampókéznek!}
-{1620}{}{A jobb kezemet kellett volna védenem.}
-{1621}{}{Eltörted a kezem!}
-{1622}{}{Ezt megbánod!}
-{1623}{}{Héjkás! Megöjnek!}
-{1624}{}{Na, lemondhatok Wimbledon-ról.}
-{1625}{}{Sieg... na, hagyjuk...}
-{1626}{}{Lefegyverzel?}
-{1627}{}{Téged egy ujjal is lenyomlak, pubi!}
-{1628}{}{Hát, akkor asszem, most szétrúgom a fejed!}
-{1629}{}{Jó leszek Hook kapitánynak!}
-{1630}{}{Az az én májam! Add vissza!}
-{1631}{}{Csak egy kicsit jobbra, ááhh, mindjárt jobb.}
+{1606}{}{EnnÃ©l mÃ©g az Ã¼veg is jobb...}
+{1607}{}{Hadd adjak egy kis darabot a fejembÅ‘l!}
+{1608}{}{Ez a jÃ³ szemem, Arrr.}
+{1609}{}{EttÅ‘l mÃ©g a jÃ³ szemem is sÃ­r!}
+{1610}{}{Lekezelsz?!}
+{1611}{}{Ooohh, a fÃ¡jdalom, a fÃ¡jdalom.}
+{1612}{}{MÃ©g mindig maradt pÃ¡r ujjam.}
+{1613}{}{Csak egy ujj kell hozzÃ¡d, haver.}
+{1614}{}{Kell egy segÃ­tÅ‘ kÃ©z?}
+{1615}{}{HÃ¡t ez szarabb Ã©rzÃ©s, mint a hosszÃºra nÅ‘tt kÃ¶rÃ¶m.}
+{1616}{}{MostmÃ¡r legalÃ¡bb nincs Ãºtban.}
+{1617}{}{LeszÃºrlak a csonkkal!}
+{1618}{}{HÃ©, hova tÅ±ntek az ujjaim?}
+{1619}{}{MostmÃ¡r legalÃ¡bb hasznÃ¡t vennÃ©m egy kampÃ³kÃ©znek!}
+{1620}{}{A jobb kezemet kellett volna vÃ©denem.}
+{1621}{}{EltÃ¶rted a karom!}
+{1622}{}{Ezt mÃ©g megbÃ¡nod!}
+{1623}{}{HÃ©jkÃ¡s! MegÃ¶jnek!}
+{1624}{}{Na, lemondhatok Wimbledon-rÃ³l.}
+{1625}{}{Dobo..ja, mindegy.}
+{1626}{}{Lekezelsz?!}
+{1627}{}{Csak egy ujj kell hozzÃ¡d, haver.}
+{1628}{}{HÃ¡t, akkor, asszem szÃ©trugom a fejed.}
+{1629}{}{Ennyit a flitteres kesztyÅ±mrÅ‘l!}
+{1630}{}{Az az Ã©n mÃ¡jam! Add vissza!}
+{1631}{}{Csak egy kicsit jobbra, Ã¡Ã¡hh, mingyÃ¡rt jobb.}
 {1632}{}{Ufff!}
 {1633}{}{What's that musty smell? Oh, it's my innards.}
 {1634}{}{Now that you've eviscerated me, I'm sooo svelte! Thanks!}
 {1635}{}{./~ I left my heart.../~}
 {1636}{}{That tickled my ribs.}
-{1637}{}{Kinek kell egyáltalán vakbél!}
-{1638}{}{Csak egy kicsit a szélébõl, doki.}
+{1637}{}{Kinek kell egyÃ¡ltalÃ¡n vakbÃ©l!}
+{1638}{}{Csak egy kicsit a szÃ©lÃ©bÅ‘l, doki.}
 {1639}{}{Arrggghh, a gerincem!}
-{1640}{}{A lábam! Nem érzem a lábam!}
-{1641}{}{Ez has-lövés volt, uram!}
-{1642}{}{Csak a puhányoknak kell tüdõ!}
-{1643}{}{Nézd már! Van bordám!}
-{1660}{}{Aú, a lábam!}
-{1661}{}{Ezért megfizetsz!}
-{1662}{}{Argh! Eltöröd a lábam, eltöröm a nyakad!}
-{1663}{}{Francba, én se fogok többet tangózni.}
-{1664}{}{Picsába, mintha kevesebb lábujjam lenne, mint az elõbb.}
-{1665}{}{Nem ártana egy mûláb!}
-{1666}{}{Megsérült a kék szarvasbõr cipõm!}
-{1667}{}{Szétbarmoltad a bokám!}
-{1668}{}{Épp most borotváltam.}
-{1669}{}{Leharapom a térdkalácsodat!}
-{1670}{}{A lábam!}
-{1671}{}{Átlõtted a Gucci öltözékemet!}
-{1672}{}{Jaj! Hé! Ez öv alatt volt!}
-{1673}{}{Olyan szép heg lesz utána, mint senki másnak...}
-{1674}{}{Fenekelj el Mami, csintalan voltam!}
-{1675}{}{Szépen fog hegedni!}
-{1676}{}{Ez mind az én vérem?}
+{1640}{}{A lÃ¡bam! Nem Ã©rzem a lÃ¡bam!}
+{1641}{}{Ez egy bÃ©l-lÃ¶vÃ©s, Uram!}
+{1642}{}{Csak a puhÃ¡nyoknak kell tÃ¼dÅ‘!}
+{1643}{}{NÃ©zdmÃ¡r! Van bordÃ¡m!}
+{1660}{}{AÃº, a lÃ¡bam!}
+{1661}{}{EzÃ©rt kinyÃ­rlak!}
+{1662}{}{Argh! EltÃ¶rÃ¶d a lÃ¡bam, eltÃ¶rÃ¶m a nyakad!}
+{1663}{}{Francba, Ã©n se fogok tÃ¶bbet tangÃ³zni.}
+{1664}{}{PicsÃ¡ba, mintha kevesebb lÃ¡bujjam lenne, mint az elÅ‘bb.}
+{1665}{}{Nem Ã¡rtana egy mÅ±lÃ¡b!}
+{1666}{}{MegsÃ©rÃ¼lt a kÃ©k szarvasbÅ‘r csizmÃ¡m!}
+{1667}{}{SzÃ©tbarmoltad a bokÃ¡m!}
+{1668}{}{Ã‰pp most borotvÃ¡ltam.}
+{1669}{}{Leharapom a tÃ©rdkalÃ¡csod!}
+{1670}{}{A lÃ¡bam!}
+{1671}{}{ÃtlÅ‘tted a Gucci-mat!}
+{1672}{}{Ouch! HÃ©! Ez Ã¶v alatt volt!}
+{1673}{}{Olyan szÃ©p heg lesz utÃ¡na, mint senki mÃ¡snak...}
+{1674}{}{Fenekelj el Mami, csintalan voltam.}
+{1675}{}{SzÃ©pen fog hegedni!}
+{1676}{}{Ez mind az Ã©n vÃ©rem?}
 {1677}{}{Marshall Dillon, Marshall Dillon!}
-{1678}{}{Ez szép hólyagos lesz ám!}
-{1679}{}{Ájj, jajj, jeee, ájj, jajj!}
-{1680}{}{A fenébe, vérzik a szemem!}
-{1681}{}{A szemem! Ezért megfizetsz!}
-{1682}{}{Rohadék!}
+{1678}{}{Ez szÃ©p hÃ³lyagos lesz.}
+{1679}{}{Ãjj, jÃ¡jj, jeee, Ã¡jj, aj!}
+{1680}{}{Francos vÃ©r ment a szememben!}
+{1681}{}{A szemem! EzÃ©rt megfizetsz te gÃ¶rÃ©ny!}
+{1682}{}{KÃ¶csÃ¶g!}
 {1683}{}{Ki kapcsolta le a villanyt?}
-{1684}{}{Haha, az az üvegszemem volt!}
-{1685}{}{Szétnyomódik, mint az érett szõlõ, nincs igazam?}
-{1686}{}{Szemmel tartalak, öhmm, vissza tudnád adni?}
-{1687}{}{Hang alapján is meg tudom állapítani, hol vagy!}
-{1688}{}{Ájjj! Áúú! A szemem!}
-{1689}{}{Azért vakítasz meg, mert félsz, mi?}
-{1690}{}{Hát nem lovagias?}
+{1684}{}{HÃ¡hÃ¡, ez az Ã¼vegszemem volt!}
+{1685}{}{SzÃ©tnyomÃ³dik, mint az Ã©rett szÅ‘lÅ‘, nincs igazam?}
+{1686}{}{Szemmel tartalak, Ã¶mm, vissza tudnÃ¡d adni?}
+{1687}{}{Hang alapjÃ¡n is meg tudom Ã¡llapÃ­tani, hogy hol vagy!}
+{1688}{}{Ãjjj! ÃÃºÃº! A szemem!}
+{1689}{}{MegvakÃ­tasz, mer fÃ©lsz, hÃ¡ nem?}
+{1690}{}{HÃ¡t nem lovagias?}
 {1691}{}{Jajajajajaj!}
-{1692}{}{Önnhhhhh!}
+{1692}{}{Ã–nnhhhhh!}
 {1693}{}{Maybe if I just don't move for a while....}
 {1694}{}{That's my beef bologna!}
 {1695}{}{There goes my social life.}
-{1696}{}{Asszem, le kell ülnöm egy kicsit.}
-{1697}{}{Tyû! Ha lennének lány ghoulok, mérges lennék rád!}
-{1698}{}{Óóhh, ez fájt.}
-{1699}{}{Eltaláltál? Ja, igen... fáj is.}
-{1700}{}{Nézd már! Rántotta lett a tojásomból!}
-{1701}{}{Kér valaki egy kis tört mogyorót?}
-{1702}{}{Többé nem tudom a nevem a hóba írni.}
+{1696}{}{Asszem, le kell Ã¼lnÃ¶m egy kicsit.}
+{1697}{}{TyÃ¼!Ha lennÃ©nek lÃ¡ny-ghoulok akkor mÃ©rges lennÃ©k rÃ¡d.}
+{1698}{}{Oohh, ez fÃ¡jt.}
+{1699}{}{EltalÃ¡ltÃ¡l? Ja, igen, az fÃ¡j.}
+{1700}{}{NÃ©zd mÃ¡r! RÃ¡ntotta lett a tojÃ¡sombÃ³l!}
+{1701}{}{TÃ¶rt mogyorÃ³t valaki?}
+{1702}{}{Na, Ã©n se Ã­rom tÃ¶bbet a nevem a hÃ³ba.}
 {1703}{}{Ne a kibaszott fejem, te...}
-{1704}{}{A... fejem... minden... forog.}
+{1704}{}{Minden...elkezdett...forogni...}
 {1705}{}{Ugnnn!}
-{1706}{}{Az arcom! Ne az arcomat!}
-{1710}{}{Egy kézzel is lenyomlak!}
-{1711}{}{Felcser! Szétbaszták a karom!}
-{1712}{}{Ah! Még jó, hogy két kar... mindegy.}
-{1720}{}{Eltört a karom! Így már van esélyed!}
-{1721}{}{Felcser! Szétbaszták a karom!}
-{1722}{}{Többre lesz szükséged ahhoz, hogy megmentsd a bõröd!}
-{1730}{}{Ahhg! Zsiger-lövés!}
-{1731}{}{Hnrgggg! Le... ve... gõt!}
-{1732}{}{A bordám! Hamarosan kitépem a tiedet! Csak így becsületes!}
-{1733}{}{Ezért... meg... fogsz... fizetni...!}
-{1734}{}{*Úúúúh* Istenem, utálom ezt...}
-{1735}{}{Nggg! A kurva életbe!}
-{1760}{}{Gecibe! A lábam!}
-{1761}{}{Nem kell két láb ahhoz, hogy szétrúgjam a segged.}
-{1762}{}{Kéne egy stimpakk a lábamba...}
-{1763}{}{Urggg... a lábam... szétbaszták...}
-{1770}{}{Gecibe! A lábam!}
-{1771}{}{*Ergg* Ezután biztos sántítani fogok...}
-{1772}{}{Kéne egy stimpakk a lábamba...}
-{1773}{}{Urggg... a lábam... szétbaszták...}
+{1706}{}{Az arcom ne! Az arcom ne!}
+{1710}{}{Egy kÃ©zzel is lenyomlak!}
+{1711}{}{Felcser! SzÃ©tbasztÃ¡k a karom!}
+{1712}{}{Ãh! MÃ©g jÃ³, hogy kÃ©tke...mindegy.}
+{1720}{}{EltÃ¶rt a kezem! Ãgy mÃ¡r van esÃ©lyed!}
+{1721}{}{Felcser! SzÃ©tbasztÃ¡k a karom!}
+{1722}{}{TÃ¶bbre lesz szÃ¼ksÃ©ged, ahhoz, hogy megmentsd a bÅ‘rÃ¶d.}
+{1730}{}{Ahhg! Zsiger-lÃ¶vÃ©s!}
+{1731}{}{Hnrgggg! Le..ve..gÅ‘t!}
+{1732}{}{A bordÃ¡im! Hamarosan kitÃ©pem a tieid! Csak Ã­gy becsÃ¼letes!}
+{1733}{}{EzÃ©rt..meg..fi..zetsz..!}
+{1734}{}{*Ooooof* Istenem, utÃ¡lom ezt...}
+{1735}{}{Nggg! Ez talÃ¡lt, bÃ¡sszeg!}
+{1760}{}{PicsÃ¡ba! A lÃ¡bam!}
+{1761}{}{Nem kell kÃ©t lÃ¡b ahhoz, hogy szÃ©trÃºgjam a segged.}
+{1762}{}{KÃ©ne egy stimpakk a lÃ¡bamnak...}
+{1763}{}{Urggg...lÃ¡b...szÃ©tcseszve...}
+{1770}{}{PicsÃ¡ba! A lÃ¡bam!}
+{1771}{}{*Ergg* EzutÃ¡n biztos sÃ¡ntÃ­tani fogok...}
+{1772}{}{KÃ©ne egy stimpakk a lÃ¡bamnak...}
+{1773}{}{Urggg...lÃ¡b...szÃ©tcseszve...}
 {1780}{}{Francba! Ne a szemembe!}
-{1781}{}{Megpróbálsz megvakítani, mi?}
-{1782}{}{Nem... látok... vér ment... a... szemembe...}
-{1783}{}{Nem kell, hogy lássalak, a szaglásom még mindig mûködik!}
-{1790}{}{Asszed, ez valami olcsó akció-film??}
-{1791}{}{A tököm!!! Gyere csak ide, megtudod, hogy milyen érzés!}
-{1792}{}{Hát, ennyit arról, hogy tökös legény vagyok.}
-{1793}{}{Elnézést, amíg végigokádom magam.}
-{1794}{}{Fasza. Ezentúl tök-fixációval kell harcolnom.}
-{1795}{}{Hadd pihenjek le egy kicsit, utána kinyírlak.}
-{1796}{}{Idióta! Na, mindegy, nekem se lesz már kölyköm.}
-{1800}{}{Hoppá! Valami pofán trafált!}
+{1781}{}{MegprÃ³bÃ¡lod lebÃ©nÃ­tani a kifinomult Ã©rzÃ©kelÃ©sem, mi?}
+{1782}{}{Nem...lÃ¡tok...vÃ©r...a...szemben...}
+{1783}{}{Nem kell, hogy lÃ¡ssalak, a szaglÃ¡som mÃ©g mindig mÅ±kÃ¶dik.}
+{1790}{}{Mit gondolsz, hogy mi ez? Valami szar kis akciÃ³ film?}
+{1791}{}{A tÃ¶kÃ¶m!!! Gyere csak ide, megtudod, hogy milyen Ã©rzÃ©s!}
+{1792}{}{HÃ¡t, ennyit arrÃ³l, hogy tÃ¶kÃ¶s legÃ©ny vagyok.}
+{1793}{}{ElnÃ©zÃ©st kÃ©rek, amÃ­g vÃ©gigokÃ¡dom magam...}
+{1794}{}{Fasza. EzentÃºl tÃ¶k-fixÃ¡ciÃ³val kell harcolnom.}
+{1795}{}{Hadd fekÃ¼djek le egy kicsit, utÃ¡na megÃ¶llek.}
+{1796}{}{Bolond! Na, mindegy, nekem se lesz mÃ¡r kÃ¶lykÃ¶m.}
+{1800}{}{HoppÃ¡. Valami pofÃ¡n trafÃ¡lt.}
 {1801}{}{Ez meg mi volt?}
 {1802}{}{Ngggg...}
-{1803}{}{Még jó, hogy rákattantam a Jetre, különben ez fájt volna.}
-{1804}{}{Ajjjjj! Valaki hozzon egy stimpakkot! Vagy Jetet!!}
-{1810}{}{Hé! Valaki a karomba lõtt!}
-{1811}{}{Figyu, a karom tûknek van fenntartva! Ne lõdd má' széjjel!}
+{1803}{}{MÃ©g jÃ³, hogy rÃ¡kattantam a Jetre, kÃ¼lÃ¶nben ez fÃ¡jt volna.}
+{1804}{}{AÃºÃºÃº! Valaki hozzon egy Stimpakkot! Vagy Jetet!}
+{1810}{}{HÃ©! Valaki a karomba lÅ‘tt!}
+{1811}{}{Figyu, a kezem a tÅ±knek van! Ne lÅ‘dd mÃ¡ szÃ©jjel!}
 {1812}{}{Nggggg...}
-{1813}{}{Ajjjjj! Valaki hozzon egy stimpakkot! Vagy Jetet!!}
-{1820}{}{Hé! Valaki a karomba lõtt!}
-{1821}{}{Figyu, a karom tûknek van fenntartva! Ne lõdd má' széjjel!}
+{1813}{}{AÃºÃºÃº! Valaki hozzon egy Stimpakkot! Vagy Jetet!}
+{1820}{}{HÃ©! Valaki a karomba lÅ‘tt!}
+{1821}{}{Figyu, a kezem a tÅ±knek van! Ne lÅ‘dd mÃ¡ szÃ©jjel!}
 {1822}{}{Nggggg...}
-{1823}{}{Ajjjjj! Valaki hozzon egy stimpakkot! Vagy Jetet!!}
-{1830}{}{A hasam!}
-{1831}{}{Áuu! Ez a francos mellkasom volt! Aúú!}
-{1832}{}{Hé! Mi a faszér' lõttél belém? Faszfej!}
-{1833}{}{Ne lõjél már belém!}
-{1834}{}{Azta! A mellkasom! Eltaláltad! Király!}
+{1823}{}{AÃºÃºÃº! Valaki hozzon egy Stimpakkot! Vagy Jetet!}
+{1830}{}{A gyomrom!}
+{1831}{}{Ãuu! AÃºÃºÃºÃº, az a hÃ¼lye mellkasom! ÃuÃº!}
+{1832}{}{HÃ©! Mi a faszÃ©r lÅ‘ttÃ©l belÃ©m? Faszfej!}
+{1833}{}{Ne lÅ‘jjÃ©l mÃ¡r belÃ©m!}
+{1834}{}{VÃ¡o. A mellkasom. EltalÃ¡ltad. KirÃ¡ly.}
 {1835}{}{Nrgggg...}
 {1836}{}{*hfff*}
-{1837}{}{Ajjjjj! Valaki hozzon egy stimpakkot! Vagy Jetet!!}
-{1860}{}{Hé! Valaki eltrafálta a lábam!}
-{1861}{}{Hé! Azt a lábat Én használom!}
-{1862}{}{Ajjjjj! Valaki hozzon egy stimpakkot! Vagy Jetet!!}
-{1870}{}{Hé! Valaki eltrafálta a lábam!}
-{1871}{}{Hé! Azt a lábat Én használom!}
-{1872}{}{Ajjjjj! Valaki hozzon egy stimpakkot! Vagy Jetet!!}
-{1880}{}{Más szemében a szálkát?...}
-{1881}{}{Hé! Én azzal a szemmel nézek ám!}
-{1882}{}{A szemem! A szemem! Fáj a szemem!}
-{1890}{}{Annyira rákattantam a Jetre, hogy ezt már meg se éreztem. Vagy mégis?}
+{1837}{}{AÃºÃºÃº! Valaki hozzon egy Stimpakkot! Vagy Jetet!}
+{1860}{}{HÃ©! Valaki Ã©pp most lÅ‘tt a lÃ¡bamba!}
+{1861}{}{HÃ©! Ã‰n ezen a lÃ¡bon jÃ¡rok!}
+{1862}{}{AÃºÃºÃº! Valaki hozzon egy Stimpakkot! Vagy Jetet!}
+{1870}{}{HÃ©! Valaki Ã©pp most lÅ‘tt a lÃ¡bamba!}
+{1871}{}{HÃ©! Ã‰n ezen a lÃ¡bon jÃ¡rok!}
+{1872}{}{AÃºÃºÃº! Valaki hozzon egy Stimpakkot! Vagy Jetet!}
+{1880}{}{EZ nem olyan volt, mint egy tÅ± a szemembe...}
+{1881}{}{HÃ©! Ã‰n azzal a szemmel nÃ©zek!}
+{1882}{}{A szemem! A szemem! FÃ¡j a szemem!}
+{1890}{}{Annyira rÃ¡kattantam a Jetre, hogy ezt mÃ¡r meg se Ã©reztem. Vagy mÃ©gis? }
 {1891}{}{*Hurhkkkk*}
-{1892}{}{Lécci, rúgjál még tökön!}
+{1892}{}{LÃ©cci rÃºgjÃ¡l mÃ©g tÃ¶kÃ¶n!}
 {1893}{}{Nghhhhh!}
-{1894}{}{Ne a tököm, ne a tököm!}
-{1895}{}{A TÖKÖM! A TÖKÖM! Szegény tököm!}
-{1896}{}{Elnézést kérek, amíg körbeokádom itt a placcot.}
-{1897}{}{Ez... NAGYON... fájt!}
-{1898}{}{Remélem, a tököm a nemiszervek mennyországába jut!}
+{1894}{}{Ne a tÃ¶kÃ¶m, ne a tÃ¶kÃ¶m!}
+{1895}{}{A TÃ–KÃ–M! A TÃ–KÃ–M! SzegÃ©ny tÃ¶kÃ¶m!}
+{1896}{}{ElnÃ©zÃ©st kÃ©rek, amÃ­g kÃ¶rbeokÃ¡dom itt a placcot.}
+{1897}{}{Ez...NAGYON...fÃ¡jt.}
+{1898}{}{RemÃ©lem, a tÃ¶kÃ¶m a nemiszervek mennyorszÃ¡gÃ¡ba jut!}
 {2000}{}{Kegyelem!}
-{2001}{}{Valaki segítsen!}
-{2002}{}{Kérlek, hagyd abba!}
-{2003}{}{Segítség!}
-{2004}{}{Áááááá!}
+{2001}{}{Valaki segÃ­tsen!}
+{2002}{}{KÃ©rlek ne!}
+{2003}{}{SegÃ­tsÃ©g!!}
+{2004}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡!}
 {2005}{}{Kegyelem!}
-{2020}{}{Hmm, ömm, megállsz ahol vagy!}
-{2021}{}{A te fajtádat nem szeretjük errefelé...}
-{2022}{}{Reméltem, hogy erre nem kerül sor...}
-{2023}{}{Úgy tûnik, meg kell védenem magam...}
-{2024}{}{Úgy tûnik, meg kell védenem magam...}
-{2025}{}{Reméltem, hogy erre nem kerül sor...}
+{2020}{}{Hmm, Ã¶mm, Ã¡llj!}
+{2021}{}{Nem szeretjÃ¼k a te fajtÃ¡dat errefelÃ©...}
+{2022}{}{RemÃ©ltem, hogy erre nem kerÃ¼l sor...}
+{2023}{}{Ãšgy tÅ±nik meg kell vÃ©denem magam}
+{2024}{}{Ãšgy tÅ±nik meg kell vÃ©denem magam}
+{2025}{}{RemÃ©ltem, hogy erre nem kerÃ¼l sor...}
 {2040}{}{Nesze!}
 {2041}{}{Nem kellett volna elkezdened!}
-{2042}{}{Te akartad!}
-{2043}{}{Ez hogy tetszik?}
+{2042}{}{Te kÃ©rted!}
+{2043}{}{Ã‰s ez hogy tetszik?}
 {2044}{}{}
-{2045}{}{Te szemét!}
+{2045}{}{Te szemÃ©t!}
 {2046}{}{Nem akarom ezt tenni!}
 {2047}{}{}
 {2048}{}{Nem akartam ezt a harcot, de...}
-{2049}{}{Te rohadék!}
+{2049}{}{Te fattyÃº!}
 {2060}{}{}
-{2061}{}{Mellé!}
-{2062}{}{Azta, ez fájhatott volna!}
-{2063}{}{Ah! Még élek!}
-{2064}{}{Hé! Ez fájhatott volna!}
-{2065}{}{Ah! Még élek!}
-{2100}{}{Ne engem bánts! Kérlek!}
-{2101}{}{Könyörülj!}
-{2102}{}{Valaki segítsen!}
-{2103}{}{Kérlek, hagyd abba!}
+{2061}{}{MellÃ©!}
+{2062}{}{VÃ¡Ã³, ez fÃ¡jhatott volna!}
+{2063}{}{Huhh! MÃ©g mindig Ã©lek!}
+{2064}{}{HÃ©! Ez fÃ¡jhatott volna!}
+{2065}{}{Huhh! MÃ©g mindig Ã©lek!}
+{2100}{}{LegyÃ©l szÃ­ves, Ã©s tÃ¡madj meg valaki mÃ¡st!}
+{2101}{}{Kegyelmezz!}
+{2102}{}{Valaki segÃ­tsen!}
+{2103}{}{KÃ©rlek ne!}
 {2104}{}{}
-{2105}{}{Nem fogok itt meghalni!}
-{2120}{}{Csak várdd meg, amíg odaérek...}
+{2105}{}{EzÃ©rt nem akarok meghalni!}
+{2120}{}{Csak vÃ¡rj amÃ­g elkaplak...}
 {2121}{}{}
-{2122}{}{Hé, te!}
-{2123}{}{Nem vagy szívesen látott vendég itt!}
-{2124}{}{Senki nem veheti el a helyünket...}
-{2125}{}{Mégis kinek képzeled te magad?}
+{2122}{}{HÃ© te!}
+{2123}{}{Itt nem lÃ¡tunk szÃ­vesen}
+{2124}{}{Senki nem veszi Ã¡t ezt a terÃ¼letet...}
+{2125}{}{MÃ©gis mit gondolsz, ki vagy?}
 {2140}{}{You shouldn't have done that!}
 {2141}{}{We take care of our own!}
-{2142}{}{Ezt tesszük a férgekkel!}
-{2143}{}{Te rusnya dög!}
-{2144}{}{Te szemét állat!}
+{2142}{}{Ez az amit a fÃ©rgekkel mÅ±velÃ¼nk!}
+{2143}{}{Te mutÃ¡ns szÃ¶rny!}
+{2144}{}{Te szemÃ©t!}
 {2145}{}{Gonna feed you to the dogs!}
-{2146}{}{Most megkapod a magadét!}
-{2147}{}{Rendben. Te kerested a bajt!}
-{2148}{}{Te ÁLLAT!}
-{2149}{}{Megérdemled, amit most fogsz kapni!}
+{2146}{}{Ez majd mÃ³resre tanÃ­t!}
+{2147}{}{Rendben. Te kÃ©rted.}
+{2148}{}{Te Ã¡llat!}
+{2149}{}{MegÃ©rdemled ami felÃ©d kÃ¶zeleg!}
 {2160}{}{Nem is vagyok olyan rossz, mi?}
-{2161}{}{Láttam már brahmint, ami okosabb volt nálad.}
-{2162}{}{Pfhüü!}
+{2161}{}{LÃ¡ttam mÃ¡r nÃ¡lad Ã©rtelmesebb Brahmint is}
+{2162}{}{Huh!}
 {2163}{}{I ain't no pushover.}
 {2164}{}{Thank the gods!}
-{2165}{}{Elhibáztad!}
-{2200}{}{Ez nem éri meg...}
+{2165}{}{MellÃ©!}
+{2200}{}{Ez nem Ã©ri meg!}
 {2201}{}{I have better things to do.}
-{2202}{}{Valaki segítsen!}
+{2202}{}{Valaki segÃ­tsen!}
 {2203}{}{You got the better of me... this time.}
-{2204}{}{Megkapod, ami neked jár!}
-{2205}{}{Nem fogok itt meghalni!}
+{2204}{}{Meg fogod kapni ami kÃ¶zeleg felÃ©d!}
+{2205}{}{EzÃ©rt nem akarok meghalni!}
 {2220}{}{It's too late to run.}
-{2221}{}{Ki a franc engedett ide?}
-{2222}{}{Hé, te!}
-{2223}{}{Nem kedveljük a te fajtádat errefelé!}
-{2224}{}{Senki nem veheti el a helyünket...}
-{2225}{}{Mégis kinek képzeled te magad?}
+{2221}{}{Ki engedett be ide?}
+{2222}{}{HÃ© te!}
+{2223}{}{Nem szeretjÃ¼k a te fajtÃ¡dat errefelÃ©!}
+{2224}{}{Senki nem veszi Ã¡t ezt a terÃ¼letet...}
+{2225}{}{MÃ©gis mit gondolsz, ki vagy?}
 {2240}{}{Nesze!}
-{2241}{}{Ez hogy tetszik?}
-{2242}{}{Ezt tesszük a férgekkel!}
-{2243}{}{Ez a tied, tessék!}
-{2244}{}{Visz-lát!}
-{2245}{}{Fogjunk bele!}
-{2246}{}{Bajkeverõ söpredék!}
+{2241}{}{Ã‰s ez hogy tetszik?}
+{2242}{}{Ez az amit a fÃ©rgekkel mÅ±velÃ¼nk!}
+{2243}{}{Ez a tied, tessÃ©k!}
+{2244}{}{ViszlÃ¡t!}
+{2245}{}{BunyÃ³ra fel!}
+{2246}{}{BajkeverÅ‘ szemÃ©t!}
 {2247}{}{I'm gonna beat you like a red-headed stepchild.}
-{2248}{}{Te ÁLLAT!}
-{2249}{}{Meg fogod bánni, hogy betetted ide a lábad!}
-{2260}{}{Nem vagy olyan jó, mint gondolod!}
+{2248}{}{Te Ã¡llat!}
+{2249}{}{Meg fogod bÃ¡nni, hogy betetted ide a lÃ¡bad!}
+{2260}{}{Nem vagy olyan jÃ³, mint gondolod!}
 {2261}{}{szanalmas.hu}
 {2262}{}{Csak egy tipikus seggfej vagy!}
-{2263}{}{Hát benned sincs semmi különleges...}
-{2264}{}{Nem leszek az áldozatod!}
-{2265}{}{Ez volt az utolsó baklövésed!}
+{2263}{}{HÃ¡t benned sincs semmi kÃ¼lÃ¶nleges...}
+{2264}{}{Nem leszek az Ã¡ldozatod!}
+{2265}{}{Ez volt az utolsÃ³ baklÃ¶vÃ©sed!}
 {2300}{}{I'm taking it on the lam.}
-{2301}{}{Még visszatérek!}
-{2302}{}{Késõbb még találkozunk, punk!}
-{2303}{}{Jót mulattam, de most már lelépek!}
-{2304}{}{Ezért megfizetsz... de csak késõbb!}
-{2305}{}{Ezt hamarosan újra megpróbálhatjuk!}
-{2320}{}{Visszaszögelem a füleidet!}
-{2321}{}{Friss hús!}
-{2322}{}{Ez ma az én napom!}
-{2323}{}{A rabszolgám leszel!}
-{2324}{}{Visszaszögelem a füleidet!}
+{2301}{}{VisszatÃ©rek!}
+{2302}{}{KÃ©sÅ‘bb punk!}
+{2303}{}{JÃ³t mulattam, de mostmÃ¡r lelÃ©pek!}
+{2304}{}{EzÃ©rt megfizetsz - de csak kÃ©sÅ‘bb!}
+{2305}{}{Ezt hamarosan Ãºjra megprÃ³bÃ¡lhatjuk!}
+{2320}{}{VisszaszÃ¶gelem a fÃ¼leid!}
+{2321}{}{Friss hÃºs!}
+{2322}{}{Ez ma az Ã©n napom!}
+{2323}{}{A rabszolgÃ¡m leszel!}
+{2324}{}{VisszaszÃ¶gelem a fÃ¼leid!}
 {2325}{}{Lenyugtatom a segged!}
-{2340}{}{Most elkaplak!}
-{2341}{}{Ideje játszani!}
-{2342}{}{Kérlek, ne könyörögj! A halál legyen méltóságteljes.}
+{2340}{}{Elkaplak!}
+{2341}{}{Ideje jÃ¡tszani!}
+{2342}{}{KÃ©rlek ne kÃ¶nyÃ¶rÃ¶gj. A halÃ¡lnak mÃ©ltÃ³sÃ¡gteljesnek kell lennie.}
 {2343}{}{I hope you don't die too quickly.}
-{2344}{}{Van utolsó kívánságod?}
+{2344}{}{Van utolsÃ³ kÃ­vÃ¡nsÃ¡god?}
 {2345}{}{Nesze!}
-{2346}{}{Meghalsz! Meghalsz! Meghalsz! Meghalsz! Meghalsz!}
-{2347}{}{Halál rád!}
-{2348}{}{Na, nézzünk a dolgok belsejébe...}
-{2349}{}{Kutyakaját csinálok belõled, haver!}
+{2346}{}{HalÃ¡l! HalÃ¡l! HalÃ¡l! HalÃ¡l! HalÃ¡l!}
+{2347}{}{DÃ¶gÃ¶lj meg!}
+{2348}{}{Na, nÃ©zzÃ¼nk a dolgok belsejÃ©be...}
+{2349}{}{Kutyakaja vagy, haver.}
 {2360}{}{You didn't even wing me.}
-{2361}{}{Szarrá unom magam...}
-{2362}{}{Gyerünk punk, harcot akarok!}
-{2363}{}{Ez a legtöbb, amit tudsz?}
-{2364}{}{Hülye fasz!}
-{2365}{}{Ez könnyebb lesz, mint gondoltam.}
-{2400}{}{Én leléptem!}
+{2361}{}{SzarrÃ¡ unom magam...}
+{2362}{}{GyerÃ¼nk punk, harcot akarok!}
+{2363}{}{Ez a legjobb amit tudsz?}
+{2364}{}{BÃ©na vagy!}
+{2365}{}{Ez kÃ¶nnyebb lesz, mint gondoltam}
+{2400}{}{Ã‰n lelÃ©pek!}
 {2401}{}{Maybe this wasn't a good idea.}
-{2402}{}{Valaki mást bánts, oké?}
-{2403}{}{Hoppá!}
-{2404}{}{Nem fogok itt meghalni!}
+{2402}{}{Valaki mÃ¡st bÃ¡nts, okÃ©?}
+{2403}{}{FutÃ¡s!}
+{2404}{}{EzÃ©rt nem akarok meghalni!}
 {2405}{}{That's too much for me!}
-{2420}{}{Hé, te!}
+{2420}{}{HÃ© te!}
 {2421}{}{I'm gonna teach you some manners!}
-{2422}{}{Nem kedveljük a te fajtádat errefelé!}
+{2422}{}{Nem szeretjÃ¼k a te fajtÃ¡dat errefelÃ©!}
 {2423}{}{Ideje, hogy tanulj egy kis tiszteletet!}
-{2424}{}{Ideje begyûjteni a munkám gyümölcsét...}
-{2425}{}{Csak várdd meg, amíg odaérek...}
+{2424}{}{Ideje pÃ©nzt keresni...}
+{2425}{}{Csak vÃ¡rj amÃ­g elkaplak...}
 {2426}{}{Ezt most minek kell?}
 {2427}{}{There's always idiots like you around to mess up a shift.}
-{2440}{}{Ezt kapd ki!}
+{2440}{}{Nesze!}
 {2441}{}{Ez tetszik, mi?}
 {2442}{}{Shoulda left it alone.}
-{2443}{}{Ez hogy tetszik?}
+{2443}{}{Ã‰s ez hogy tetszik?}
 {2444}{}{Na, most hol van anyuci?}
 {2445}{}{Nesze neked!}
-{2446}{}{Nézzük, milyen kemény vagy...}
+{2446}{}{NÃ©zzÃ¼k milyen kemÃ©ny vagy...}
 {2447}{}{Punk!}
-{2448}{}{Söpredék!}
+{2448}{}{SÃ¶predÃ©k!}
 {2449}{}{I'm putting you away for good!}
-{2460}{}{Ezt anyucitól tanultad?}
+{2460}{}{Ezt anyucitÃ³l tanultad?}
 {2461}{}{Balfasz!}
 {2462}{}{You ain't good enough.}
-{2463}{}{Ez volt az utolsó baklövésed!}
+{2463}{}{Ez volt az utolsÃ³ baklÃ¶vÃ©sed!}
 {2464}{}{Amateur.}
-{2465}{}{Kocsmában tanultál verekedni?}
-{2500}{}{Ki kell jutnom innen!}
-{2501}{}{Még visszatérek...}
-{2502}{}{Nem ma fogsz megölni!}
-{2503}{}{Késõbb még találkozunk, punk!}
-{2504}{}{Nem most láttál utoljára!}
-{2505}{}{Ezért megfizetsz... máskor!}
-{2520}{}{A múlté vagy!}
-{2521}{}{Friss hús...}
+{2465}{}{BÃ¡rokban tanultÃ¡l verekedni?}
+{2500}{}{ElhÃºzom a belem!}
+{2501}{}{VisszatÃ©rek...}
+{2502}{}{Ma nem Ã¶lsz meg!}
+{2503}{}{KÃ©sÅ‘bb punk!}
+{2504}{}{Nem utoljÃ¡ra lÃ¡ttÃ¡l!}
+{2505}{}{EzÃ©rt megfizetsz -- csak nem most!}
+{2520}{}{A mÃºltÃ© vagy!}
+{2521}{}{Friss hÃºs...}
 {2522}{}{I'm gonna dance on your grave!}
-{2523}{}{Figyelem! Céllövölde!}
-{2524}{}{Kész vagy, picinyem?!}
-{2525}{}{Ezt élvezni fogom...}
-{2540}{}{Ezt kapd ki!!!}
-{2541}{}{Felesleges kegyelemért könyörögnöd...}
-{2542}{}{Ez a rész a kedvencem...}
-{2543}{}{Kell még?! Kell?!}
-{2544}{}{Kutyakaja lesz belõled!}
-{2545}{}{Nem kellett volna belekezdened abba, amit nem tudsz befejezni!}
-{2546}{}{Lassú halálod lesz, remélem!}
+{2523}{}{Figyelem! CÃ©llÃ¶vÃ¶lde!}
+{2524}{}{KÃ©sz vagy, picinyem?!}
+{2525}{}{Ezt Ã©lvezni fogom...}
+{2540}{}{Ezt kapd be!!!}
+{2541}{}{Ne is Ã¡lmodozz kegyelemrÅ‘l...}
+{2542}{}{Ez a rÃ©sz a kedvencem...}
+{2543}{}{Kell mÃ©g?! Huh?!}
+{2544}{}{Megetetlek a kutyÃ¡immal!}
+{2545}{}{Nem kellett volna belekezdened abba, amit nem tud befejezni}
+{2546}{}{RemÃ©lem, nem adod fel tÃºl hamar}
 {2547}{}{Only one of us is walking away.}
-{2548}{}{Halál rád!}
+{2548}{}{DÃ¶gÃ¶lj meg!}
 {2549}{}{I eat punks like you for breakfast.}
-{2550}{}{Az iguanám fog felfalni!}
+{2550}{}{Az iguanÃ¡m fog felfalni}
 {2551}{}{The last thing you'll see is my grinnin' face.}
 {2552}{}{This is my favorite job.}
 {2560}{}{You're a joke.}
-{2561}{}{Ez a legtöbb, amit tudsz?}
+{2561}{}{Ez a legjobb amit tudsz?}
 {2562}{}{You're making this easy.}
-{2563}{}{Ez nevetséges...}
-{2564}{}{Lassú vagy!}
+{2563}{}{Ez nevetsÃ©ges...}
+{2564}{}{TÃºl lassÃº!}
 {2565}{}{Loser!}
 {2600}{}{Run from the Evil One!}
 {2601}{}{The spirits bid me to save myself!}
 {2602}{}{Our foe has used powerful magic--Run! Someone get the Shaman!}
-{2603}{}{A Sötét szellem erõs. A halál köztünk jár!}
-{2604}{}{A Sötét szellem itt jár köztünk!}
-{2605}{}{A Sötét szellem megbüntet minket. Meneküljetek! A lelkem menekül, és nekem követnem kell!}
+{2603}{}{ErÅ‘s a SÃ¶tÃ©t-szellem. A halÃ¡l kÃ¶ztÃ¼nk jÃ¡r!}
+{2604}{}{A SÃ¶tÃ©t-szellem itt van!}
+{2605}{}{A SÃ¶tÃ©t-szellem megbÃ¼ntet minket. MenekÃ¼ljetek! A lelkem menekÃ¼l, Ã©s nekem kÃ¶vetnem kell!}
 {2606}{}{Aiiieeeee!!}
-{2620}{}{Õsök, segítsétek harcos kezem!}
-{2621}{}{Enyém lesz az erõd.}
-{2622}{}{Nagy lesz a dicsõség!}
-{2623}{}{Szégyent hozok a törzsedre!}
-{2624}{}{Ajjáh! Nabataluk!}
-{2625}{}{Szellemek, legyetek velem!}
-{2626}{}{Gyere csak, hadd táncoljanak a pengéim!}
-{2627}{}{Kezdõdjék a harc!}
+{2620}{}{ÅsÃ¶k, segÃ­tsÃ©tek a harcos kezem!}
+{2621}{}{Az erÅ‘d az enyÃ©m lesz.}
+{2622}{}{Nagy lesz a dicsÅ‘sÃ©g.}
+{2623}{}{SzÃ©gyent hozok a tÃ¶rzsedre.}
+{2624}{}{AjjÃ¡h! Nabataluk!}
+{2625}{}{Szellemek legyetek velem!}
+{2626}{}{Gyere, hadd tÃ¡ncoljanak a pengÃ©im.}
+{2627}{}{KezdÅ‘djÃ¶n a harc!}
 {2628}{}{U-Suthoooo!}
 {2629}{}{A Szellemek velem vannak!}
-{2640}{}{Az õseid elhagytak téged!}
-{2641}{}{A legyõzésed nagy tiszteletet hoz majd nekem. A varázserõm legyõzhetetlen!}
-{2642}{}{Ha most feladod, nem esszük meg a szíved!}
+{2640}{}{Az Å‘seid elhagytak tÃ©ged.}
+{2641}{}{A legyÅ‘zÃ©sed nagy tiszteletet hoz nekem. A varÃ¡zserÅ‘m legyÅ‘zhetetlen!}
+{2642}{}{Add fel most, Ã©s nem esszÃ¼k meg a szÃ­ved.}
 {2643}{}{You fight bravely--I will eat your courage. The Shamans will sing of my victory.}
-{2644}{}{A véredben fogok fürdeni!}
-{2645}{}{Nem félek tõled!}
-{2646}{}{Békét hozok neked, elveszett lélek!}
-{2647}{}{A harcban szerzett dicsõség örökké tartó életet hoz! Tisztellek, különös lélek!}
-{2648}{}{A homály neked int!}
-{2649}{}{Az õseim a lelkedre szomjúhoznak!}
+{2644}{}{A vÃ©redben fogok fÃ¼rdeni!}
+{2645}{}{Nem fÃ©lek tÅ‘led!}
+{2646}{}{BÃ©kÃ©t hozok neked, elveszett-lÃ©lek.}
+{2647}{}{DicsÅ‘sÃ©g a harcbam Ã¶rÃ¶kkÃ© tartÃ³ Ã©letet hoz! Tisztellek, kÃ¼lÃ¶nÃ¶s-lÃ©lek.}
+{2648}{}{A homÃ¡ly neked int.}
+{2649}{}{Az Å‘seim a lelkedre szomjÃºhoznak.}
 {2650}{}{My blade grows thirsty!}
-{2651}{}{Igyunk a harc kelyhébõl!}
-{2660}{}{A gyûlölet elhomályosítja a látásod!}
-{2661}{}{A szellemek elhagytak téged!}
-{2662}{}{Mûködik a varázserõm!}
-{2663}{}{Legyõzhetetlen vagyok!}
-{2664}{}{Gyengül az életerõd!}
-{2665}{}{"A félelem az elme gyilkosa"}
-{2666}{}{Használ a harci-énekem!}
-{2667}{}{Nálad még a gyerekeim is jobban harcolnak!}
-{2668}{}{Túl sokáig ismerted a békét.}
-{2669}{}{A törzsedben mindenki ilyen gyenge?}
-{2700}{}{Erõsítést ide!}
-{2701}{}{Tõlem akár hadbíróság elé is állíthatnak...}
-{2702}{}{Orvost!}
-{2703}{}{Visszavonulás! Visszavonulás!}
-{2704}{}{Meneküljetek! Meneküljetek!}
-{2705}{}{Megnyerted a harcot...}
-{2720}{}{Fogjunk bele!}
+{2651}{}{Igyunk a harc poharÃ¡bÃ³l!}
+{2660}{}{A gyÅ±lÃ¶let elhomÃ¡lyosÃ­tja a lÃ¡tÃ¡sod.}
+{2661}{}{A szellemek elhagytak tÃ©ged.}
+{2662}{}{A varÃ¡zserÅ‘m mÅ±kÃ¶dik!}
+{2663}{}{LegyÅ‘zhetetlen vagyok!}
+{2664}{}{Az Ã©let-erÅ‘d gyengÃ¼l!}
+{2665}{}{"A fÃ©lelem az elme gyilkosa" }
+{2666}{}{A harci-Ã©nekem hasznÃ¡l!}
+{2667}{}{A gyerekeim jobban harcolnak!}
+{2668}{}{TÃºl sokÃ¡ig ismerted a bÃ©kÃ©t.}
+{2669}{}{Mindenki ilyen gyenge a tÃ¶rzsedben?}
+{2700}{}{ErÅ‘sÃ­tÃ©st!}
+{2701}{}{TÅ‘lem akÃ¡r hadbÃ­rÃ³sÃ¡g elÃ© is Ã¡llÃ­thatnak...}
+{2702}{}{Felcser!}
+{2703}{}{VisszavonulÃ¡s! VisszavonulÃ¡s!}
+{2704}{}{MenekÃ¼ljetek! MenekÃ¼ljetek!}
+{2705}{}{A harcot megnyerted...}
+{2720}{}{BunyÃ³ra fel!}
 {2721}{}{Yahoo!}
 {2722}{}{I'm gonna teach you some manners!}
-{2723}{}{A múlté vagy!}
-{2724}{}{Támadás!}
-{2725}{}{Temessük el ezt a lúzert!}
-{2726}{}{Tölts és tüzelj!}
+{2723}{}{A mÃºltÃ© vagy!}
+{2724}{}{TÃ¡madÃ¡s!}
+{2725}{}{TemessÃ¼k el ezt a lÃºzert!}
+{2726}{}{TÃ¶lts Ã©s tÃ¼zelj!}
 {2727}{}{We'll let god sort out what's left of ya.}
 {2740}{}{Nesze!}
 {2741}{}{Most megvagy!}
 {2742}{}{Most meghalsz!}
-{2743}{}{Ez hogy tetszik?}
-{2744}{}{Ez nekem nem csak munka.}
+{2743}{}{Ã‰s ez hogy tetszik?}
+{2744}{}{Ez nekem nem csak munka}
 {2745}{}{Shouldn't start what you can't finish.}
-{2746}{}{Jobb lesz, ha kezdesz imádkozni!}
+{2746}{}{Jobb lesz ha elkezdesz imÃ¡dkozni!}
 {2747}{}{You ain't even gonna make it to 6am!}
-{2748}{}{Jól vagy?}
+{2748}{}{JÃ³l vagy?}
 {2749}{}{See you in Hell!}
 {2760}{}{Try training some.}
-{2761}{}{Ez a legtöbb, amit tudsz?}
-{2762}{}{Gyerünk lúzer, harcolni akarok!}
+{2761}{}{Ez a legjobb amit tudsz?}
+{2762}{}{GyerÃ¼nk lÃºzer, harcolni akarok!}
 {2763}{}{Try aiming next time.}
-{2764}{}{Hülye civil...}
+{2764}{}{HÃ¼lye civil...}
 {2765}{}{Leave it to the professionals next time.}
 {2800}{}{}
 {2801}{}{}
@@ -692,42 +692,42 @@
 {2863}{}{}
 {2864}{}{}
 {2865}{}{}
-{2900}{}{Meneküljünk! Meneküljünk!}
-{2901}{}{Visszavonulás!}
-{2902}{}{Újracsoportosulni!}
-{2903}{}{Visszaaa!}
-{2904}{}{Futás!}
+{2900}{}{MenekÃ¼ljetek! MenekÃ¼ljetek!}
+{2901}{}{VisszavonulÃ¡s!}
+{2902}{}{ÃšjracsoportosulÃ¡s!}
+{2903}{}{Fussatok!}
+{2904}{}{visszavonulÃ¡s!}
 {2905}{}{Aaaaghhh!}
-{2920}{}{Öljétek meg ezt az õrültet!}
-{2921}{}{Friss hús...}
-{2922}{}{Fosztogatás!}
-{2923}{}{Õ az enyém!}
+{2920}{}{Ã–ljÃ©tek meg ezt a bolondot!}
+{2921}{}{Friss hÃºs...}
+{2922}{}{FosztogatÃ¡s!}
+{2923}{}{Ã– az enyÃ©m!}
 {2924}{}{Ahhhhhhh!}
-{2925}{}{Támadás!}
+{2925}{}{TÃ¡madÃ¡s!}
 {2940}{}{Enjoy the last few seconds of your life!}
-{2941}{}{Vér! Vér! Vér!}
-{2942}{}{Kitépem a szívedet!}
+{2941}{}{VÃ©r! VÃ©r! VÃ©r!}
+{2942}{}{A szÃ­ved az enyÃ©m!}
 {2943}{}{RAAAAAAARRRR!!}
-{2944}{}{A fegyvereidet berakom a vitrinembe!}
-{2945}{}{Halál rád!}
-{2946}{}{Megöllek!}
-{2947}{}{A csontjaidat odaadom a kutyámnak!}
-{2948}{}{Vér és Sötétség!}
+{2944}{}{A fegyvereid a trÃ³feÃ¡im lesznek!}
+{2945}{}{HalÃ¡l!}
+{2946}{}{Ã‰n foglak megÃ¶lni!}
+{2947}{}{A csontjaid a sivatagban fognak kifehÃ©redni!}
+{2948}{}{VÃ©r Ã©s SÃ¶tÃ©tsÃ©g!}
 {2949}{}{YAAAAAAAAAAAAH!}
-{2950}{}{Belezzétek ki a nyeszlett férget!}
-{2960}{}{Elvesztegetett erõfeszítés!}
-{2961}{}{Vesztettél!}
-{2962}{}{A vérem erõsebb a tiednél!}
-{2963}{}{ÉLEK!!}
-{2964}{}{A tested gyenge és szánalmas!}
+{2950}{}{BelezzÃ©tek ki a nyeszlett fÃ©rget!}
+{2960}{}{Elvesztegetett erÅ‘feszÃ­tÃ©s!}
+{2961}{}{VesztettÃ©l!}
+{2962}{}{A vÃ©rem erÅ‘sebb, mint a tied!}
+{2963}{}{Ã‰LEK!!}
+{2964}{}{A tested gyenge Ã©s szÃ¡nalmas!}
 {3000}{}{Retreat option initiated.}
 {3001}{}{Tactical plan: retreat.}
 {3002}{}{Combat effective minimal. Retreat advised.}
-{3003}{}{Taktikai analízis kész: Visszavonulás javasolt.}
+{3003}{}{Taktikai analÃ­zis kÃ©sz: visszavonulÃ¡s javasolt.}
 {3004}{}{Downloading escape program.}
 {3005}{}{Retreat sequence initiated.}
-{3020}{}{Célpont!}
-{3021}{}{Megsemmisítés! Megsemmisítés!}
+{3020}{}{CÃ©lpont bemÃ©rve!}
+{3021}{}{MegsemmisÃ­tÃ©s! MegsemmisÃ­tÃ©s!}
 {3022}{}{The humanoid must not escape!}
 {3023}{}{Terminate the intruder!}
 {3024}{}{Combat sequence initiated.}
@@ -735,7 +735,7 @@
 {3040}{}{Combat sequence initiated.}
 {3041}{}{Attacking target.}
 {3042}{}{Initiating attack sequence.}
-{3043}{}{Elpusztítani a behatolót!}
+{3043}{}{ElpusztÃ­tani a behatolÃ³t!}
 {3044}{}{Tactical options selection completed.}
 {3045}{}{Commencing attack.}
 {3046}{}{The target will be destroyed!}
@@ -743,793 +743,793 @@
 {3048}{}{Target must be eliminated!}
 {3049}{}{Offensive selection completed.}
 {3060}{}{Analysis. Defensive program success.}
-{3061}{}{Analízis. Ellenséges aktivitás elhanyagolható.}
+{3061}{}{AnalÃ­zis. EllensÃ©ges aktivitÃ¡s elhanyagolhatÃ³.}
 {3062}{}{Target attack failed. Calculating response.}
 {3063}{}{Unit was unharmed by attack.}
 {3064}{}{Recalculating target's offensive abilities.}
 {3065}{}{Analysis. Target erred in tactical selection. Unit undamaged.}
-{3100}{}{El kell tûnnöm innen!}
-{3101}{}{Még visszatérek...}
-{3102}{}{Nem ma fogsz megölni!}
-{3103}{}{Késõbb, buzifejû!}
-{3104}{}{Hallasz még felõlem!}
-{3105}{}{Ezért megfizetsz... máskor!}
-{3106}{}{Nem akarok másodszorra is meghalni.}
-{3107}{}{Lábam, cserben ne hagyj!}
-{3108}{}{Csinálok egy hátra-arcot.}
-{3109}{}{Öö... itt az idõ a taktikai visszavonulásra.}
-{3110}{}{Függöny... balra el.}
-{3111}{}{Ööö... késõbbre jár, mint gondoltam.}
-{3112}{}{Mennem kell. Minden jót!}
-{3113}{}{Futáááás!}
-{3114}{}{Mennem kell, vissza kell raknom pár részemet.}
-{3115}{}{Nem bírják már ezek az öreg csontok.}
-{3116}{}{Nem az évek, hanem a mérföldek száma jelent gondot.}
-{3117}{}{Micsoda világ, micsoda világ...}
-{3118}{}{Vége a leckének mára, én leléptem!}
-{3119}{}{Hé, ne hátrálj!}
-{3120}{}{A múlté vagy!}
-{3121}{}{Friss hús...}
+{3100}{}{El kell tÅ±nnÃ¶m innen!}
+{3101}{}{VisszatÃ©rek...}
+{3102}{}{Ma nem Ã¶lsz meg!}
+{3103}{}{KÃ©sÅ‘bb, simabÅ‘rÅ±!}
+{3104}{}{Nem utoljÃ¡ra hallottÃ¡l rÃ³lam!}
+{3105}{}{EzÃ©rt megfizetsz -- csak nem most!}
+{3106}{}{Nem akarok mÃ¡sodszorra is meghalni.}
+{3107}{}{LÃ¡bam, cserben ne hagyj!}
+{3108}{}{CsinÃ¡lok egy hÃ¡tra-arcot!}
+{3109}{}{Ã–Ã¶, itt az idÅ‘ egy taktikai visszavonulÃ¡shoz.}
+{3110}{}{FÃ¼ggÃ¶ny, balra el.}
+{3111}{}{Ã–Ã¶Ã¶, kÃ©sÅ‘bb van, mint gondoltam.}
+{3112}{}{Mennem kell. CsÃ¡o.}
+{3113}{}{FutÃ¡Ã¡Ã¡Ã¡s!}
+{3114}{}{Mennem kell, vissza kell raknom pÃ¡r rÃ©szemet}
+{3115}{}{Nem bÃ­rjÃ¡k mÃ¡r ezek az Ã¶reg csontok.}
+{3116}{}{Nem az Ã©vek, hanem a mÃ©rfÃ¶ldek szÃ¡ma jelent gondot.}
+{3117}{}{Micsoda vilÃ¡g, micsoda vilÃ¡g....}
+{3118}{}{VÃ©ge a leckÃ©nek mÃ¡ra, Ã©n lelÃ©ptem!}
+{3119}{}{HÃ©, ne hÃ¡trÃ¡lj!}
+{3120}{}{A mÃºltÃ© vagy!}
+{3121}{}{Friss hÃºs...}
 {3122}{}{Kolbi, kolbi, kolbi!}
-{3123}{}{Agyat akarok loccsantani...}
-{3124}{}{Felásom a sírod...}
-{3125}{}{Csak maradjon egyben a fejed...}
-{3126}{}{Még több agyat nekem...}
-{3127}{}{Még több zsarut!}
-{3128}{}{Még több orvost!}
-{3129}{}{Jól jönne néhány új testrész.}
-{3130}{}{Egy nyúlpaprikás rendel!}
-{3131}{}{Gyere és megkapod!}
-{3132}{}{Csurran már a paradicsomszósz?}
-{3133}{}{Megsült már a hús??}
-{3134}{}{Mmm, imádom a simabõrûeket!}
-{3135}{}{Ráléptél az árnyékomra...vagy mi...}
-{3136}{}{Hallom, hogy harangoznak az ebédhez.}
-{3137}{}{Nézzétek, ki lesz vacsorára!}
-{3138}{}{A testrész az testrész.}
-{3139}{}{Szóval te vagy az új szerv-donor, mi?}
-{3140}{}{Kinyírlak, mint a szart!}
-{3141}{}{Felesleges kegyelemért könyörögnöd...}
-{3142}{}{Ezt nagyon élvezem!}
-{3143}{}{Óóóó, ez fájhatott!}
-{3144}{}{Eljött a csihi-puhi ideje!}
-{3145}{}{Megeszem a májad!}
-{3146}{}{Lassú halálod lesz, remélem!}
-{3147}{}{Vacsoraidõ!}
-{3148}{}{Halál rád!}
-{3149}{}{Ilyen punkokat eszek reggelire... meg ebédre.}
-{3150}{}{Hogy lehet rossz az, ami ilyen koszos?}
-{3151}{}{Csak hadd kóstoljam meg!}
-{3152}{}{Vidítsd fel apucit egy kicsit!}
-{3153}{}{Kisütöttem neked valami kellemeset!}
-{3154}{}{Maradj nyugton! Nem fog annyira fájni!}
-{3155}{}{Ne rángatózz, a séf a konyhában van!}
-{3156}{}{Imádom nézni, ahogy nem férnek a bõrükbe.}
-{3157}{}{Finom és tápláló!}
-{3158}{}{Te aztán sokat vérzel, biztos zsenge és szaftos vagy.}
-{3159}{}{Azt hiszem, több a félelem, mint az izgalom.}
-{3160}{}{Nem bánthatsz!}
-{3161}{}{És még te mondod, hogy a ghoulok lassúak?!}
-{3162}{}{Mellé, szararcú!}
-{3163}{}{Mellé, szararcú!}
-{3164}{}{Nem ölhetsz meg, ha el sem találsz!}
-{3165}{}{Lassú vagy!}
-{3166}{}{Oké, most próbáld meg max. sebességgel!}
-{3167}{}{Rám céloztál?}
+{3123}{}{Ide az agyadat...}
+{3124}{}{Ki fogom fosztani a sÃ­rod...}
+{3125}{}{RemÃ©lem, a fejed nem sÃ©rÃ¼l meg...}
+{3126}{}{MÃ©g tÃ¶bb agyat nekem...}
+{3127}{}{MÃ©g tÃ¶bb zsarut!}
+{3128}{}{MÃ©g tÃ¶bb orvost!}
+{3129}{}{JÃ³l jÃ¶nne pÃ¡r Ãºj testrÃ©sz.}
+{3130}{}{Egy nyÃºlpaprikÃ¡s rendel.}
+{3131}{}{Gyere Ã©s megkapod!}
+{3132}{}{Folyik mÃ¡r a ketchup?}
+{3133}{}{MegsÃ¼lt mÃ¡r a hÃºs??}
+{3134}{}{Mmm, imÃ¡dom a simabÅ‘rÅ±eket.}
+{3135}{}{RÃ¡lÃ©ptÃ©l az Ã¡rnyÃ©komra...vagy mi...}
+{3136}{}{Hallom hogy harangoznak az ebÃ©dhez.}
+{3137}{}{NÃ©zzÃ©tek ki lesz vacsorÃ¡ra.}
+{3138}{}{TestrÃ©sz az testrÃ©sz.}
+{3139}{}{SzÃ³val te vagy az Ãºj szerv-donor, huh?}
+{3140}{}{LÃ¡tom a szÃ¡mod!}
+{3141}{}{Ne is Ã¡lmodozz kegyelemrÅ‘l...}
+{3142}{}{Ezt Ã©lvezni fogom}
+{3143}{}{Ãšuuu, ez fÃ¡jhatott!}
+{3144}{}{EljÃ¶tt a csihi-puhi ideje!}
+{3145}{}{MegsÃ¼tÃ¶m a mÃ¡jad vacsira!}
+{3146}{}{RemÃ©lem, nem adod fel tÃºl hamar}
+{3147}{}{Vacsora!}
+{3148}{}{DÃ¶gÃ¶lj meg!}
+{3149}{}{Ilyen punkokat eszem reggelire, Ã©s ebÃ©dre}
+{3150}{}{Hogy lehet rossz az ami ilyen koszos?}
+{3151}{}{Csak hadd kÃ³stoljam meg!}
+{3152}{}{VidÃ­tsd fel apucit egy kicsit!}
+{3153}{}{Van egy kÃ¡d forrÃ³ vizem a szÃ¡modra!}
+{3154}{}{Maradj nyugton! Nem fog annyira fÃ¡jni.}
+{3155}{}{Ne rÃ¡ngatÃ³zz, a sÃ©f a konyhÃ¡ban van!}
+{3156}{}{ImÃ¡dom nÃ©zni ahogy fÃ©szkelÅ‘dnek.}
+{3157}{}{Finom Ã©s tÃ¡plÃ¡lÃ³ !}
+{3158}{}{Te aztÃ¡n sokat vÃ©rzel, biztos zsenge Ã©s szaftos vagy.}
+{3159}{}{Azt hiszem, tÃ¶bb a fÃ©lelem, mint az izgalom.}
+{3160}{}{Engem nem bÃ­rsz bÃ¡ntani!}
+{3161}{}{Ã‰s te mondod, hogy a ghoulok lassÃºak?!}
+{3162}{}{MellÃ©, simabÅ‘rÅ±!}
+{3163}{}{MellÃ©, simabÅ‘rÅ±!}
+{3164}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{3165}{}{TÃºl lassÃº!}
+{3166}{}{OK, most prÃ³bÃ¡ld meg max. sebessÃ©ggel.}
+{3167}{}{RÃ¡m cÃ©loztÃ¡l?}
 {3168}{}{Ez meg mi volt?}
-{3169}{}{Ez nem az "Amerikából jöttünk".}
-{3170}{}{A harchoz koncentrálni is kell ám!}
-{3171}{}{Kár, hogy az elsõ alkalmad az utolsó is egyben.}
-{3172}{}{Te most felém nézel?}
-{3173}{}{Talán akkor kéne próbálkoznod, amikor tudod is, mit csinálsz!}
-{3174}{}{Nem, nem, nem! A hegyes vége felém mutasson, világos?}
-{3175}{}{Mire céloztál? Céloztál egyáltalán?}
-{3176}{}{Mi a hibakódod, farokfejû?}
-{3177}{}{Most csináltad elõször, igaz?}
-{3178}{}{Most én jövök!}
-{3179}{}{Ez volt a legjobb lövésed? Ember, te tényleg ennyire béna vagy?}
-{3200}{}{Azta. Elhúzok jól!}
-{3201}{}{Még visszajövök... de elõbb belövöm magam.}
-{3202}{}{Tudtam, hogy több Buffout-ot kellett volna bevennem...}
-{3203}{}{Ha meghalok, nemtok betépni...}
-{3204}{}{Aieeeeeee! Ne bánts! Ne bánts!}
-{3205}{}{Ez a hallucináció túúúl valóságos nekem...}
-{3220}{}{Ezt kapd ki!}
-{3221}{}{Szarul jársz, ha nincs nálad stimpakk... vagy egy kis Jet.}
-{3222}{}{Hmmm, talán eladhatom a tested egy kis Jetért...}
-{3223}{}{El... kap... lak...}
-{3224}{}{Talán a megölésed lesz olyan jó, mint egy löket...}
-{3225}{}{Kinyírlak! Megöllek! Szétszedlek!}
-{3226}{}{A halálod lesz a betépésem csúcspontja...}
-{3240}{}{Ezt kapd ki!}
-{3241}{}{Kinyírlak! Megöllek! Szétszedlek!}
-{3242}{}{Akarsz még egy ilyet?!}
+{3169}{}{Ez nem az "AmerikÃ¡bÃ³l jÃ¶ttÃ¼nk".}
+{3170}{}{A harchoz koncentrÃ¡lni is kell.}
+{3171}{}{KÃ¡r, hogy az elsÅ‘ alkalmad az utolsÃ³ is.}
+{3172}{}{Te most felÃ©m nÃ©zel?}
+{3173}{}{TalÃ¡n akkor kÃ©ne prÃ³bÃ¡lkoznod, amikor tudod is, hogy mit csinÃ¡lsz.}
+{3174}{}{Nem, nem, nem! A hegyes vÃ©ge felÃ©m mutasson, vilÃ¡gos?}
+{3175}{}{Mire cÃ©loztÃ¡l? CÃ©loztÃ¡l egyÃ¡ltalÃ¡n?}
+{3176}{}{Mi a hibakÃ³dod, merev-farok?}
+{3177}{}{Most csinÃ¡ltad elÅ‘szÃ¶r, igaz?}
+{3178}{}{Ã‰n jÃ¶vÃ¶k!}
+{3179}{}{Ez volt a legjobb lÃ¶vÃ©sed? Ember, hÃ¡t nem bÃ©na vagy?}
+{3200}{}{VhoÃ¡. Nagyon ott leszek.}
+{3201}{}{VisszajÃ¶vÃ¶k...miutÃ¡n megvolt a lÃ¶vÃ©sem.}
+{3202}{}{Tudtam, hogy tÃ¶bb Buffout-ot kellett volna bevennem...}
+{3203}{}{Nemtok megnÅ‘ni, ha meghalok...}
+{3204}{}{Aieeeeeee! Ne bÃ¡nts! Ne bÃ¡nts!}
+{3205}{}{Ez a hallucinÃ¡ciÃ³ tÃºÃºl valÃ³sÃ¡gos nekem...}
+{3220}{}{Ezt kapd be!}
+{3221}{}{Szarul jÃ¡rsz, ha nincs nÃ¡lad Stimpakk,... vagy egy kis Jet.}
+{3222}{}{Hmmm, talÃ¡n eladhatom a tested egy kis JetÃ©rt...}
+{3223}{}{El...kap...lak...}
+{3224}{}{TalÃ¡n a megÃ¶lÃ©sed lesz olyan jÃ³, mint egy lÃ¶vÃ©s...}
+{3225}{}{MegÃ¶llek! MegÃ¶llek! MegÃ¶llek!}
+{3226}{}{A halÃ¡lod lesz a betÃ©pÃ©sem csÃºcspontja...}
+{3240}{}{Ezt kapd be!}
+{3241}{}{MegÃ¶llek! MegÃ¶llek! MegÃ¶llek!}
+{3242}{}{Kell valami?!}
 {3243}{}{Nrrrg...}
 {3244}{}{Hijaaaaaa!!!}
-{3245}{}{Lassan öllek meg...}
-{3246}{}{Ezt beszopod, mint egy olcsó kurva...}
-{3260}{}{Közeli, de nem Jet.}
-{3261}{}{Öcsém, úgy látszik a föld felett nem tudsz eltalálni!}
-{3262}{}{Melyik énemre céloztál?}
-{3263}{}{Azt a mindenit! Majdnem elkaptál!}
-{3264}{}{Tudtam, hogy a Jettõl gyorsabb leszek...}
+{3245}{}{Lassan Ã¶llek meg...}
+{3246}{}{LemÃ©sz, mint egy olcsÃ³ kurva...}
+{3260}{}{KÃ¶zeli, de nem Jet.}
+{3261}{}{VÃ¡o, Ãºgy lÃ¡tszik a fÃ¶ld felett nem tudsz eltalÃ¡lni!}
+{3262}{}{Melyik Ã©nre cÃ©loztÃ¡l?}
+{3263}{}{Vhoa. Majdnem elkaptÃ¡l.}
+{3264}{}{Tudtam, hogy a JettÅ‘l gyorsabb leszek...}
 {3265}{}{You fight pretty badly for a drug-induced hallucination.}
-{12000}{}{Nincs az a pénz, amiért ezen a szar helyen meghalnék...}
-{12001}{}{Visszavonulás!}
-{12002}{}{Ideje eltûnni...}
-{12003}{}{Szétszóródni!}
-{12004}{}{Visszaaa!}
-{12005}{}{Elkaplak, te geciláda, de elõbb megvárom, míg kijön a Fallout 3...}
-{12006}{}{Bishop megtarthatja a kurva pénzét...}
-{12020}{}{Célpont!}
+{12000}{}{Nincs az a pÃ©nz, amiÃ©rt ezen a szar helyen meghalnÃ©k...}
+{12001}{}{VisszavonulÃ¡s!}
+{12002}{}{Ideje eltÅ±nni...}
+{12003}{}{SzÃ©tszÃ³rÃ³dni!}
+{12004}{}{Fussatok!}
+{12005}{}{Elkaplak te geci, de mÃ©g megvÃ¡rom amÃ­g kijÃ¶n a Fallout 3...}
+{12006}{}{Bishop megtarthatja a kurva pÃ©nzÃ©t...}
+{12020}{}{CÃ©lpont bemÃ©rve!}
 {12021}{}{Valaki fedezzen!}
 {12022}{}{Hop Hop Hop Hop Hop Hop}
 {12023}{}{Hop Hop Hop Hop Hop Hop}
 {12024}{}{Hop Hop Hop Hop Hop Hop}
-{12025}{}{Búcsúzz el szépen a kis seggedtõl...}
-{12026}{}{Ideje lenyomni azt a farokrágót...}
-{12027}{}{Tölts és tüzelj!}
+{12025}{}{BÃºcsuzz el a seggedtÃ¶l...}
+{12026}{}{Ideje lenyomni az anyabaszÃ³t...}
+{12027}{}{TÃ¶lts Ã©s tÃ¼zelj!}
 {12028}{}{Rock and roll!}
-{12029}{}{Nézzétek, itt az ingyenes céllövölde!}
-{12030}{}{Imádkozz, hogy legyen elég stimpakkod, rézbõrû...}
-{12031}{}{Behatoló!}
-{12032}{}{Betörtek a területünkre!}
-{12033}{}{Fiúk, vendégünk van!}
-{12034}{}{Vonszoljátok ide a seggeteket! Van egy behatolónk!}
-{12035}{}{Valami mocskot fújt ide a szél...}
-{12036}{}{Csak a fejét, hogy meg ne sántuljon...}
-{12037}{}{Emberek, figyeljetek a részletekre!}
-{12038}{}{Folyamatos tüzelés!}
-{12040}{}{Pusztítsunk!}
-{12041}{}{Kifogytál a szaros szerencsébõl, rézbõrû...}
-{12042}{}{Úgy seggberúglak, hogy egy hétig cipõápolót fogsz szagolni.}
-{12043}{}{::De szeretnék légidesszantos lenni...::}
-{12044}{}{Legyen önkritikád!}
+{12029}{}{NÃ©zzÃ©tek, itt az ingyenes cÃ©llÃ¶vÃ¶lde...}
+{12030}{}{ImÃ¡dkozz, hogy legyen elÃ©g stimpakkod, rÃ©zbÅ‘rÅ±...}
+{12031}{}{LÃ¡tom mÃ¡r a faszarcÃºt!}
+{12032}{}{BetÃ¶rtek a terÃ¼letÃ¼nkre!}
+{12033}{}{SrÃ¡cok, van egy behatolÃ³nk!}
+{12034}{}{KÃºsszatok ide fiÃºk, van itt egy behatolÃ³!}
+{12035}{}{Valami mocskot fÃºjt ide a szÃ©l...}
+{12036}{}{Csak a fejÃ©t, hogy meg ne sÃ¡ntuljon...}
+{12037}{}{Emberek, figyeljetek a rÃ©szletekre!}
+{12038}{}{Folyamatos tÃ¼zelÃ©st!}
+{12040}{}{PusztÃ­tsunk!}
+{12041}{}{KifogytÃ¡l a szaros szerencsÃ©bÅ‘l, rÃ©zbÅ‘rÅ±...}
+{12042}{}{Olyan mÃ©lyen seggberÃºglak, hogy egy hÃ©tig cipÅ‘Ã¡polÃ³t fogsz szagolni.}
+{12043}{}{::De szeretnÃ©k lÃ©gidesszantos lenni...::}
+{12044}{}{Kritikus talÃ¡latra menj!}
 {12045}{}{Ez kell neked?! EZ? KELL? NEKED?!}
 {12046}{}{Hiyaaaaaa!!!}
-{12047}{}{Most kapsz!}
-{12048}{}{Imádkozz, hogy legyen elég stimpakkod, rézbõrû...}
-{12049}{}{Búcsúzz el szépen a kis seggedtõl...}
-{12060}{}{Úgy lõsz, mint ahogy az öregek basznak!}
-{12061}{}{Ha! Mellé!}
-{12062}{}{Túl gyors ez neked...}
-{12063}{}{Sokáig fogsz szenvedni...}
-{12064}{}{Béna...}
-{12065}{}{Gyenge ÉS lassú, érteeem?}
-{12100}{}{Ki kell jutnom innen!}
-{12101}{}{Még visszatérek...}
-{12102}{}{Nem ma fogsz megölni!}
-{12103}{}{Késõbb, buzifejû!}
-{12104}{}{Hallasz még felõlem!}
-{12105}{}{Ezért megfizetsz... máskor!}
-{12120}{}{A múlté vagy!}
-{12121}{}{Friss hús...}
-{12122}{}{Ah, itt a vacsi!}
-{12123}{}{Agyat akarok loccsantani...}
-{12124}{}{Felásom a sírod...}
-{12125}{}{Csak maradjon egyben a fejed...}
-{12140}{}{Kinyírlak, mint a szart!}
-{12141}{}{Felesleges kegyelemért könyörögnöd...}
-{12142}{}{Ezt nagyon élvezem!}
-{12143}{}{Óóóó, ez fájhatott!}
+{12047}{}{Nesze!}
+{12048}{}{ImÃ¡dkozz, hogy legyen elÃ©g stimpakkod, rÃ©zbÅ‘rÅ±...}
+{12049}{}{BÃºcsuzz el a seggedtÃ¶l...}
+{12060}{}{Ãšgy lÅ‘sz, mint ahogy az Ã¶regek basznak!}
+{12061}{}{Ha! MellÃ©!}
+{12062}{}{TÃºl gyors ez neked...}
+{12063}{}{Ne remÃ©nykedj lassÃº halÃ¡lban...}
+{12064}{}{BÃ©na...}
+{12065}{}{Gyenge Ã‰S lassÃº, Ã©rtem.}
+{12100}{}{ElhÃºzom a belem!}
+{12101}{}{VisszatÃ©rek...}
+{12102}{}{Ma nem Ã¶lsz meg!}
+{12103}{}{KÃ©sÅ‘bb, simabÅ‘rÅ±!}
+{12104}{}{Nem utoljÃ¡ra hallottÃ¡l rÃ³lam!}
+{12105}{}{EzÃ©rt megfizetsz -- csak nem most!}
+{12120}{}{A mÃºltÃ© vagy!}
+{12121}{}{Friss hÃºs...}
+{12122}{}{Ah, itt a vacsi.}
+{12123}{}{Ide az agyadat...}
+{12124}{}{Ki fogom fosztani a sÃ­rod...}
+{12125}{}{RemÃ©lem, a fejed nem sÃ©rÃ¼l meg...}
+{12140}{}{LÃ¡tom a szÃ¡mod!}
+{12141}{}{Ne is Ã¡lmodozz kegyelemrÅ‘l...}
+{12142}{}{Ezt Ã©lvezni fogom}
+{12143}{}{Ãšuuu, ez fÃ¡jhatott!}
 {12144}{}{}
-{12145}{}{Megeszem a májad!}
+{12145}{}{MegsÃ¼tÃ¶m a mÃ¡jad vacsira!}
 {12146}{}{Hope you don't die too quickly!}
-{12147}{}{Vacsoraidõ!}
-{12148}{}{Halál rád!}
+{12147}{}{Vacsora!}
+{12148}{}{DÃ¶gÃ¶lj meg!}
 {12149}{}{I eat punks like you for breakfast, and lunch.}
-{12160}{}{Nem bánthatsz!}
+{12160}{}{Engem nem bÃ­rsz bÃ¡ntani!}
 {12161}{}{}
-{12162}{}{Mellé, szararcú!}
-{12163}{}{Mellé, szararcú!}
-{12164}{}{Nem ölhetsz meg, ha el sem találsz!}
-{12165}{}{Lassú vagy!}
-{12200}{}{Öcsém, túl kemény ez a szaros.}
-{12201}{}{Ideje hozni egy kis segítséget...}
-{12202}{}{Legközelebb elkaplak!}
-{12203}{}{Szerencséd, hogy nincs nálam stimpakk...}
-{12204}{}{Ideje lelépni.}
-{12205}{}{Stimpakkot ide, gyorsan...}
-{12220}{}{Könnyû vagy, mint az áprilisi szellõ.}
-{12221}{}{Pedig azt hittem, hogy ma nem kell megölnöm senkit, hát, tévedtem...}
-{12222}{}{Úgy tûnik, a Golgotának új lakosa lesz...}
-{12223}{}{A nehezebb utat választottad...}
-{12224}{}{Több szemed lesz, mint fogad!}
-{12225}{}{Valaki feltette az életét... és el is vesztette.}
-{12226}{}{Most kinyírlak! Aztán kinyírom a családodat, meg a kutyádat is!}
+{12162}{}{MellÃ©, simabÅ‘rÅ±!}
+{12163}{}{MellÃ©, simabÅ‘rÅ±!}
+{12164}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{12165}{}{TÃºl lassÃº!}
+{12200}{}{Vhoa, tÃºl nehÃ©z ez a szar.}
+{12201}{}{Ideje hozni egy kis segÃ­tsÃ©get...}
+{12202}{}{LegkÃ¶zelebb elkaplak!}
+{12203}{}{SzerencsÃ©d, hogy nincs nÃ¡lam Stimpakk...}
+{12204}{}{Ideje lelÃ©pni.}
+{12205}{}{Kell Stimpakk, gyorsan...}
+{12220}{}{KÃ¶nnyÅ± vagy, mint az Ã¡prilisi szellÅ‘.}
+{12221}{}{Pedig azt hittem, hogy ma nem kell megÃ¶lnÃ¶m senkit, hÃ¡t, tÃ©vedtem...}
+{12222}{}{Ãšgy tÅ±nik Golgotha-nak Ãºj lakosa van...}
+{12223}{}{A nehezebb utat vÃ¡lasztottad...}
+{12224}{}{KockÃ¡kat csinÃ¡lok a fogaidbÃ³l.}
+{12225}{}{Valaki az Ã©letÃ©t tette fel... Ã©s elvesztette}
+{12226}{}{KinyÃ­rlak, aztÃ¡n a csalÃ¡dod, Ã©s vÃ©gÃ¼l a kutyÃ¡d.}
 {12227}{}{Ideje kivinni a szemetet...}
-{12228}{}{Eltörlek, mint a ropit...}
-{12240}{}{Úgy seggberúglak, hogy kalap lesz a valagadból!}
+{12228}{}{EltÃ¶rlek, mint a szerencsesÃ¼tit...}
+{12240}{}{Ãšgy seggberÃºglak, hogy a seggedet fogod kalapkÃ©nt viselni.}
 {12241}{}{Fortuna ma nincs veled...}
-{12242}{}{Addig verlek, amíg ronda nem leszel!}
-{12243}{}{Ideje seggberúgni ezt a hullajelöltet!}
-{12244}{}{Széttaposom a szíved!}
-{12245}{}{Bár lenne nálam egy satu...}
-{12246}{}{Hadd mutassam meg, mit csinálunk a szeméttel...}
-{12247}{}{Úgy megütlek, hogy asszed földrengés van...}
-{12248}{}{Elegem van ebbõl a köcsögbõl...}
-{12249}{}{Helyettem is köszönj az angyaloknak...}
-{12260}{}{Az ilyenek miatt fogsz kórházba kerülni...}
-{12261}{}{Úgy támadsz, mint egy rossz kurva...}
-{12262}{}{Szép volt! Megmutassam, hogy kell csinálni?}
-{12263}{}{Azt tudtam, hogy hülye vagy, de hogy még vak is...}
-{12264}{}{Mi van? Belõtted magad?}
-{12265}{}{A kaszinó fényes oldalát se találnád el.}
-{12266}{}{Ha a levegõt akartad eltalálni, sikerült!}
+{12242}{}{Addig verlek amÃ­g ronda nem leszel.}
+{12243}{}{Ideje seggberÃºgni a hallottat.}
+{12244}{}{SzÃ©ttaposom a szÃ­ved.}
+{12245}{}{BÃ¡r lenne nÃ¡lam egy satu...}
+{12246}{}{Hadd mutassam meg, mit csinÃ¡lunk a szemÃ©ttel...}
+{12247}{}{Ãšgy megÃ¼tlek, hogy asszed fÃ¶ldrengÃ©s van...}
+{12248}{}{Elegem van ebbÅ‘l a kÃ¶csÃ¶gbÅ‘l...}
+{12249}{}{Helyettem is kÃ¶szÃ¶nj az angyaloknak...}
+{12260}{}{Az ilyenek miatt fogsz kÃ³rhÃ¡zba kerÃ¼lni...}
+{12261}{}{Ãšgy Ã¼tsz, mint egy rossz kurva...}
+{12262}{}{SzÃ©p volt. Megmutassam hogy kell csinÃ¡lni?}
+{12263}{}{Azt tudtam, hogy hÃ¼lye vagy, de hogy mÃ©g vak is?}
+{12264}{}{Miva? BelÅ‘tted magad?}
+{12265}{}{A kaszinÃ³ fÃ©nyes oldalÃ¡t se talÃ¡lnÃ¡d el.}
+{12266}{}{Ha a levegÅ‘t akartad eltalÃ¡lni, akkor talÃ¡lt.}
 {12300}{}{Ngggg...}
-{12301}{}{A... fejem... minden... forog.}
+{12301}{}{Minden...elkezdett...forogni...}
 {12302}{}{Ugnnn!}
-{12303}{}{Az arcom! Ne az arcomat!}
-{12310}{}{A... kezem... a... gyönyörû... kezem.}
-{12311}{}{Felcser! Szétbaszták a karom!}
+{12303}{}{Az arcom ne! Az arcom ne!}
+{12310}{}{A...kezem...a...gyÃ¶nyÃ¶rÅ±...kezem.}
+{12311}{}{Felcser! SzÃ©tbasztÃ¡k a karom!}
 {12312}{}{*hffff*}
-{12320}{}{Az ütõ karom! Nem szégyelled magad?!}
-{12321}{}{Felcser! Szétbaszták a karom!}
-{12322}{}{Hát ezzel a kezemmel se fogom többet a fegyverem fényesíteni...}
-{12330}{}{A hasam!}
+{12320}{}{Az Ã¼tÃ¶ karom! Nem szÃ©gyelled magad?!}
+{12321}{}{Felcser! SzÃ©tbasztÃ¡k a karom!}
+{12322}{}{HÃ¡t ezzel a kezemmel se fogom tÃ¶bbet fegyverem fÃ©nyesÃ­teni...}
+{12330}{}{A gyomrom!}
 {12331}{}{Hnrggg...}
 {12332}{}{*hff*}
-{12333}{}{Ezért... meg... fogsz... fizetni...!}
+{12333}{}{EzÃ©rt..meg..fi..zetsz..!}
 {12334}{}{*Ooooof*}
-{12335}{}{Nggg! A kurva életbe!}
-{12360}{}{Gecibe! A lábam!}
+{12335}{}{Nggg! Ez talÃ¡lt, bÃ¡sszeg!}
+{12360}{}{PicsÃ¡ba! A lÃ¡bam!}
 {12361}{}{*Ergg*}
-{12362}{}{Kéne egy stimpakk a lábamba...}
-{12363}{}{Urggg... a lábam... szétbaszták...}
-{12370}{}{Gecibe! A lábam!}
+{12362}{}{KÃ©ne egy stimpakk a lÃ¡bamnak...}
+{12363}{}{Urggg...lÃ¡b...szÃ©tcseszve...}
+{12370}{}{PicsÃ¡ba! A lÃ¡bam!}
 {12371}{}{*Ergg*}
-{12372}{}{Kéne egy stimpakk a lábamba...}
-{12373}{}{Urggg... a lábam... szétbaszták...}
-{12380}{}{A szemem! A gyönyörû szemem!}
-{12381}{}{Megpróbálsz megvakítani, mi?}
-{12382}{}{Nem... látok... vér ment... a... szemembe...}
-{12390}{}{Asszed, ez valami olcsó akció-film??}
-{12391}{}{Ennyit a golyóimról!}
-{12392}{}{Hát, ennyit arról, hogy tökös legény vagyok.}
-{12393}{}{Elnézést, amíg végigokádom magam.}
-{12394}{}{Fasza. Egy férfi golyó-fixálóval.}
-{12395}{}{Hadd pihenjek le egy kicsit, utána kinyírlak.}
-{12396}{}{Hát ez fasza!}
-{26000}{}{Meneküljünk! Meneküljünk!}
-{26001}{}{Visszavonulás!}
-{26002}{}{Újracsoportosulni!}
-{26003}{}{Visszaaa!}
-{26004}{}{Futás!}
-{26005}{}{Én leléptem!}
-{26020}{}{Öljétek meg ezt az õrültet!}
-{26021}{}{Már halott vagy...}
-{26022}{}{Szétbaszlak!}
-{26023}{}{Õ az enyém!}
-{26024}{}{Gyerünk!}
-{26025}{}{A füleid szép trófeák lesznek!}
+{12372}{}{KÃ©ne egy stimpakk a lÃ¡bamnak...}
+{12373}{}{Urggg...lÃ¡b...szÃ©tcseszve...}
+{12380}{}{A szemem! A gyÃ¶nyÃ¶rÅ± szemem!}
+{12381}{}{MegprÃ³bÃ¡lod lebÃ©nÃ­tani a kifinomult Ã©rzÃ©kelÃ©sem, mi?}
+{12382}{}{Nem...lÃ¡tok...vÃ©r...a...szemben...}
+{12390}{}{Mit gondolsz, hogy mi ez? Valami szar kis akciÃ³ film?}
+{12391}{}{MostmÃ¡r nem Ãºgy beszÃ©lek, mint akinek vannak golyÃ³i.}
+{12392}{}{HÃ¡t, ennyit arrÃ³l, hogy tÃ¶kÃ¶s legÃ©ny vagyok.}
+{12393}{}{ElnÃ©zÃ©st kÃ©rek, amÃ­g vÃ©gigokÃ¡dom magam...}
+{12394}{}{Fasza. Egy fÃ©rfi gÃ³lyÃ³-fixÃ¡lÃ³val.}
+{12395}{}{Hadd fekÃ¼djek le egy kicsit, utÃ¡na megÃ¶llek.}
+{12396}{}{Fasza!}
+{26000}{}{MenekÃ¼ljetek! MenekÃ¼ljetek!}
+{26001}{}{VisszavonulÃ¡s!}
+{26002}{}{ÃšjracsoportosulÃ¡s!}
+{26003}{}{Fussatok!}
+{26004}{}{visszavonulÃ¡s!}
+{26005}{}{Ã‰n lelÃ©pek!}
+{26020}{}{Ã–ljÃ©tek meg ezt a bolondot!}
+{26021}{}{MÃ¡r halott vagy...}
+{26022}{}{SzÃ©tbaszlak!}
+{26023}{}{Ã– az enyÃ©m!}
+{26024}{}{GyerÃ¼nk!}
+{26025}{}{A fÃ¼leid szÃ©p trÃ³feÃ¡k lesznek!}
 {26040}{}{Enjoy the last few seconds of your life!}
-{26041}{}{Vér! Vér! Vér!}
-{26042}{}{Kitépem a szívedet!}
-{26043}{}{Imádom ezt csinálni veled!}
-{26044}{}{A fegyvereidet berakom a vitrinembe!}
-{26045}{}{Ölés és fosztogatás. A két kedvenc elfoglaltságom!}
-{26046}{}{Megöllek!}
-{26047}{}{A csontjaidat odaadom a kutyámnak!}
-{26048}{}{Vér és Sötétség!}
+{26041}{}{VÃ©r! VÃ©r! VÃ©r!}
+{26042}{}{A szÃ­ved az enyÃ©m!}
+{26043}{}{ImÃ¡dom ezt csinÃ¡lni veled!}
+{26044}{}{A fegyvereid a trÃ³feÃ¡im lesznek!}
+{26045}{}{Ã–lÃ©s Ã©s fosztogatÃ¡s. A kÃ©t kedvenc cselekvÃ©sem!}
+{26046}{}{Ã‰n foglak megÃ¶lni!}
+{26047}{}{A csontjaid a sivatagban fognak kifehÃ©redni!}
+{26048}{}{VÃ©r Ã©s SÃ¶tÃ©tsÃ©g!}
 {26049}{}{Kifosztom a tetemed!}
-{26050}{}{Belezzétek ki a nyeszlett férget!}
-{26100}{}{Khan-banda! Fedezzetek!}
-{26101}{}{Visszavonulás!}
-{26102}{}{Újracsoportosulni!}
-{26103}{}{Visszaaa!}
-{26104}{}{Futás!}
-{26105}{}{Szétválni és újracsoportosulni!}
-{26106}{}{Kezdõdjön a harc!}
-{26107}{}{Téged használlak céltáblának!}
+{26050}{}{BelezzÃ©tek ki a nyeszlett fÃ©rget!}
+{26100}{}{Khanok! Fedezzetek!}
+{26101}{}{VisszavonulÃ¡s!}
+{26102}{}{ÃšjracsoportosulÃ¡s!}
+{26103}{}{Fussatok!}
+{26104}{}{visszavonulÃ¡s!}
+{26105}{}{SzÃ©tvÃ¡lni Ã©s Ãºjracsoportosulni!}
+{26106}{}{KezdÅ‘djÃ¶n a harc!}
+{26107}{}{TÃ©ged hasznÃ¡llak cÃ©ltÃ¡blÃ¡nak!}
 {26108}{}{Nincs kegyelem!}
-{26109}{}{Õ az enyém!}
-{26110}{}{Khan-banda, támadás!}
+{26109}{}{Ã– az enyÃ©m!}
+{26110}{}{Khanok tÃ¡madÃ¡s!}
 {26111}{}{Bulizzunk!}
-{26112}{}{Kinyírná már végre valaki ezt a szemetet?!}
-{26113}{}{Khan-banda! Ne kegyelmezzetek!}
-{26114}{}{A Khan-banda a sivatag elitje!}
-{26115}{}{Király vagyok!}
-{26116}{}{A Khan-ok uralkodni fognak!}
-{26117}{}{A Khan-ok legyõzhetetlenek!}
-{26118}{}{Nincs menekülés! Nincs feladás!}
-{26119}{}{Megöllek!}
-{26120}{}{A füleidet felfûzöm a nyakláncomra!}
-{26121}{}{Vér és Sötétség!}
-{26122}{}{A Khan-banda erõs!}
-{26123}{}{Szép lövés, de még mindig itt vagyok!}
-{26124}{}{Nem tudsz megölni!}
-{26125}{}{Sérthetetlen vagyok!}
-{26126}{}{A vérem erõsebb a tiednél!}
-{26127}{}{Szólj, ha befejezted a gyakorlást!}
-{26128}{}{Nem vagy méltó rá, hogy velem harcolj!}
-{26129}{}{Mért pazarlom rád az idõmet?}
+{26112}{}{KinyÃ­rnÃ¡ mÃ¡r vÃ©gre valaki ezt a szemetet?!}
+{26113}{}{Khanok Ã¶lÃ©s!}
+{26114}{}{A Khanok a sivatag elitjei!}
+{26115}{}{KirÃ¡ly vagyok!}
+{26116}{}{A Khanok uralkodni fognak!}
+{26117}{}{A Khanok legyÅ‘zhetetlenek!}
+{26118}{}{Nincs menekÃ¼lÃ©s! Nincs feladÃ¡s!}
+{26119}{}{Ã‰n foglak megÃ¶lni!}
+{26120}{}{A fÃ¼leidet felfÅ±zÃ¶m a nyaklÃ¡ncomra!}
+{26121}{}{VÃ©r Ã©s SÃ¶tÃ©tsÃ©g!}
+{26122}{}{A Khanok erÅ‘sek!}
+{26123}{}{SzÃ©p lÃ¶vÃ©s, de Ã©n itt vagyok!}
+{26124}{}{Nem tudsz megÃ¶lni!}
+{26125}{}{SÃ©rthetetlen vagyok!}
+{26126}{}{A vÃ©rem erÅ‘sebb, mint a tied!}
+{26127}{}{SzÃ³lj, ha befejezted a gyakorlÃ¡st!}
+{26128}{}{Nem vagy mÃ©ltÃ³ rÃ¡, hogy velem harcolj!}
+{26129}{}{MÃ©rt pazarlom rÃ¡d az idÅ‘met?}
 {32000}{}{Az arcom! Az arcom!}
-{32001}{}{A fejem!}
-{32002}{}{Óóó... a fülem...}
-{32010}{}{Ajj, a karom!}
-{32011}{}{Aú!}
-{32012}{}{Eltörted a kezem!}
-{32020}{}{Ajj, a karom!}
-{32021}{}{Váhhhh!}
+{32001}{}{A skalpom!}
+{32002}{}{oooh... a fÃ¼lem...}
+{32010}{}{AÃº, a karom!}
+{32011}{}{ÃÃ¡Ã¡!}
+{32012}{}{EltÃ¶rted a karom!}
+{32020}{}{AÃº, a karom!}
+{32021}{}{ÃÃ¡Ã¡Ã¡Ã¡hh!}
 {32022}{}{Istenem! A karom!}
-{32030}{}{OUCH!}
-{32031}{}{Azt hiszem, elájulok...}
-{32032}{}{Hé! A gyomrom!}
-{32033}{}{Úhhh!}
-{32034}{}{Ez fájt!}
-{32035}{}{Azt hiszem, eltaláltad a májam!}
-{32036}{}{Óóó, ez fáááj!}
-{32060}{}{Ajj, a lábam!}
-{32061}{}{A térdem!}
-{32062}{}{Pont az artériát!}
-{32070}{}{Ajj, a lábam!}
+{32030}{}{AÃºÃºÃºÃº!}
+{32031}{}{Azt hiszem, elÃ¡julok...}
+{32032}{}{HÃ©! A gyomrom!}
+{32033}{}{Uuufh!}
+{32034}{}{Ez fÃ¡jt!}
+{32035}{}{Azt hiszem, eltalÃ¡ltad a mÃ¡jam!}
+{32036}{}{Ohhh, fÃ¡jdalom!}
+{32060}{}{Oh, a lÃ¡bam!}
+{32061}{}{A tÃ©rdem!}
+{32062}{}{Pont az artÃ©riÃ¡t!}
+{32070}{}{Oh, a lÃ¡bam!}
 {32071}{}{::hop... hop::}
-{32072}{}{Aaaarrrrggghhh!}
-{32080}{}{Nem látok! Te szemét!}
-{32081}{}{Az arcom! A szemem! Arrrrgh!}
-{32082}{}{Hol vagytok, fiúk? Segítség!}
-{32090}{}{Óóóóóóóóóóó, a tököm! Óóóóóóó...}
-{32091}{}{Fá... fá... fáááj...}
-{32092}{}{::nyüszít::}
-{32093}{}{::öklendezik::}
-{32094}{}{Nem... khapok...leveghõt...}
-{32095}{}{Nagyon fáj, nagyon fáj...}
+{32072}{}{Aaaaarrrghhh!}
+{32080}{}{Nem lÃ¡tok! Te szemÃ©t!}
+{32081}{}{Az arcom! A szemem! Aaarrgh!}
+{32082}{}{Hol vagy? SegÃ­tsÃ©g!}
+{32090}{}{Oooooooooh, a lÃ¡gyÃ©kom! Oooooooh...}
+{32091}{}{FÃ¡... fÃ¡... fÃ¡Ã¡Ã¡j...}
+{32092}{}{::nyÃ¼szÃ­t::}
+{32093}{}{::Ã¶klendezik::}
+{32094}{}{Nehm...khapok...levegÅ‘t...}
+{32095}{}{FÃ¡Ã¡j, fÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡j...}
 {32100}{}{Te jobban harcolsz!}
-{32101}{}{Igazán erõs vagy. Viszlát!}
-{32102}{}{Aieee! Gyõz a Gonosz!}
-{32103}{}{Ó, ne...}
+{32101}{}{IgazÃ¡n erÅ‘s vagy. ViszlÃ¡t!}
+{32102}{}{Aieee! GyÅ‘z a Gonosz!}
+{32103}{}{Ã“, ne...}
 {32104}{}{Vesztettem.}
-{32105}{}{Megszégyenítettek.}
-{32120}{}{Elszomorít, hogy harcolunk kell.}
+{32105}{}{MegszÃ©gyenÃ­tettek.}
+{32120}{}{ElszomorÃ­t, hogy harcolunk kell.}
 {32121}{}{Azt javaslom, fuss!}
-{32122}{}{Csak egy gyáva használ fegyvert!}
-{32123}{}{Menekülj, amíg tudsz!}
-{32124}{}{Készülj fel, gonosztevõ!}
-{32125}{}{Fuss és nem bántalak!}
-{32126}{}{Ha harc, hát legyen harc...}
-{32128}{}{Azt hiszed, legyõzhetsz?}
+{32122}{}{Csak egy gyÃ¡va hasznÃ¡l fegyvereket.}
+{32123}{}{MenekÃ¼lj, amÃ­g tudsz!}
+{32124}{}{KÃ©szÃ¼lj fel, gonosztevÅ‘!}
+{32125}{}{Fuss Ã©s nem bÃ¡ntalak!}
+{32126}{}{Ha harc, hÃ¡t legyen harc...}
+{32128}{}{Azt hiszed, legyÅ‘zhetsz?}
 {32140}{}{Haiiiiiiii-YA!}
-{32141}{}{Balhé Bronxban...}
-{32142}{}{rúúÚÚÚúúúúú!}
+{32141}{}{BalhÃ© Bronxban...}
+{32142}{}{rÃºÃºÃšÃšÃšÃºÃºÃºÃºÃº!}
 {32143}{}{Hai!}
-{32144}{}{Hé!}
-{32145}{}{Hai úúúúúú!}
+{32144}{}{HÃ©!}
+{32145}{}{Hai ÃºÃºÃºÃºÃºÃº!}
 {32146}{}{Hai - ah!}
 {32147}{}{Mutass valamit!}
-{32148}{}{Mongol Hús!}
-{32149}{}{Szemberúglak!}
-{32160}{}{Csak egy gyáva használ fegyvert!}
-{32161}{}{Félsz kiállni egy igazi harcossal?}
-{32162}{}{A kung fud nem ér itt semmit.}
+{32148}{}{Mongol HÃºs!}
+{32149}{}{SzemberÃºglak!}
+{32160}{}{Csak egy gyÃ¡va hasznÃ¡l fegyvereket.}
+{32161}{}{FÃ©lsz kiÃ¡llni egy igazi harcossal?}
+{32162}{}{A te Kung Fu-d itt hatÃ¡stalan.}
 {32163}{}{Add meg magad!}
-{32164}{}{Ezt hívod te harcnak?}
-{32165}{}{Úgy mozogsz, mint egy terhes jak.}
-{32200}{}{Keresek magamnak egy zöld szemû nõt... viszlát!}
-{32201}{}{Igen uram... a csekk a levélben van.}
-{32202}{}{Azt hiszem, találkozóm van...}
-{32203}{}{Oké, te nyertél!}
+{32164}{}{Ezt nevezed te harcnak?}
+{32165}{}{Ãšgy mozogsz, mint egy terhes jak.}
+{32200}{}{Keresek magamnak egy zÃ¶ld szemÅ± nÅ‘t... viszlÃ¡t!}
+{32201}{}{Igen uram... a csekk a levÃ©lben van.}
+{32202}{}{Azt hiszem, talÃ¡lkozÃ³m van...}
+{32203}{}{OkÃ©, te nyertÃ©l!}
 {32204}{}{Feladom!}
-{32205}{}{Ügyesebben harcolsz, mint én!}
-{32220}{}{Villám! Mennydörgés! Öljétek meg!}
+{32205}{}{Ãœgyesebben harcolsz, mint Ã©n!}
+{32220}{}{VillÃ¡m! MennydÃ¶rgÃ©s! Ã–ljÃ©tek meg!}
 {32221}{}{Gyenge vagy!}
-{32222}{}{A te harci tudásod engem nem sebezhet meg!}
-{32223}{}{Legyõzhetetlen vagyok!}
-{32224}{}{Menekülj, féreg!}
-{32225}{}{A halál közeleg feléd!}
+{32222}{}{A te harci tudÃ¡sod engem nem sebezhet meg!}
+{32223}{}{LegyÅ‘zhetetlen vagyok!}
+{32224}{}{MenekÃ¼lj, fÃ©reg!}
+{32225}{}{A halÃ¡l kÃ¶zeleg felÃ©d!}
 {32226}{}{Lebegj, mint a lepke!}
-{32228}{}{Szúrj, mint a darázs!}
+{32228}{}{SzÃºrj, mint a darÃ¡zs!}
 {32240}{}{Ki az a Jack Burton?}
-{32241}{}{Olyan nagy kérés az, hogy meghalj?!}
-{32242}{}{Kifizetted az adósságaidat, Jack?}
+{32241}{}{Olyan nagy kÃ©rÃ©s az, hogy meghalj?!}
+{32242}{}{Kifizetted az adÃ³ssÃ¡gaidat, Jack?}
 {32243}{}{Van egy kis gond az arcoddal.}
-{32244}{}{A számla a levélben van!}
-{32245}{}{A pokol már vár rád!}
-{32246}{}{Üdvözöld az õseidet helyettem is!}
+{32244}{}{A szÃ¡mla a levÃ©lben van!}
+{32245}{}{A pokol mÃ¡r vÃ¡r rÃ¡d!}
+{32246}{}{ÃœdvÃ¶zÃ¶ld az Å‘seidet helyettem is!}
 {32247}{}{Halhatatlan vagyok!}
-{32248}{}{BALHÉ BRONX-BAN!}
+{32248}{}{BALHÃ‰ BRONX-BAN!}
 {32249}{}{Hai-YA!}
-{32260}{}{Legyõzhetetlennek érzem magam!}
-{32261}{}{Próbáld még egyszer!}
-{32262}{}{Sima ügy.}
+{32260}{}{LegyÅ‘zhetetlennek Ã©rzem magam!}
+{32261}{}{PrÃ³bÃ¡ld mÃ©g egyszer!}
+{32262}{}{Sima Ã¼gy.}
 {32263}{}{Nem is tudod, hogy kell harcolni, mi?}
-{32264}{}{Ezt hívod te harcnak?}
-{32265}{}{::ásít::}
-{32300}{}{Nekem családom van!}
-{32301}{}{Nee.. öö.. ma van a szülinapom!}
-{32302}{}{Óó... a lépem...}
-{32303}{}{Vissza a kórházba!}
-{32304}{}{Meg... kell... védeni... a lépem... helyét...}
-{32305}{}{Óó, fáj a májam.}
-{32320}{}{Ne kényszeríts, hogy használjam ezt a játék-kést.}
-{32321}{}{Úgy leverlek...}
-{32322}{}{Kicsi kis szarcsimbókokat eszel reggelire?}
-{32323}{}{Szétrúgom a szaros segged!}
-{32324}{}{Leváglak!}
+{32264}{}{Ezt nevezed te harcnak?}
+{32265}{}{::Ã¡sÃ­t::}
+{32300}{}{Nekem csalÃ¡dom van!}
+{32301}{}{Nee.. Ã¶Ã¶.. ma van a szÃ¼linapom!}
+{32302}{}{Ã“Ã³... a lÃ©pem...}
+{32303}{}{Vissza a kÃ³rhÃ¡zba!}
+{32304}{}{Meg... kell... vÃ©deni... a lÃ©pem... helyÃ©t...}
+{32305}{}{Ã“Ã³, fÃ¡j a mÃ¡jam.}
+{32320}{}{Ne kÃ©nyszerÃ­ts, hogy hasznÃ¡ljam ezt a jÃ¡tÃ©k-kÃ©st.}
+{32321}{}{Ãšgy leverlek...}
+{32322}{}{Kicsi kis szarcsimbÃ³kokat eszel reggelire?}
+{32323}{}{SzÃ©trÃºgom a szaros segged!}
+{32324}{}{MegvÃ¡glak!}
 {32325}{}{Asszem, csak ennyit kellett mondanom.}
-{32340}{}{Bumm!}
-{32341}{}{Szétrúgom a segged!}
+{32340}{}{Bumm a fejbe!}
+{32341}{}{SzÃ©trÃºgom a segged!}
 {32342}{}{IGGGEN!}
-{32343}{}{Igen, bébi, igen!}
-{32344}{}{Szeretnél egy kicsit?}
+{32343}{}{Igen, bÃ©bi, igen!}
+{32344}{}{Ezt akartad?}
 {32345}{}{Ne mozogj!}
-{32346}{}{Bumm-saka-laka, bébi!}
-{32347}{}{Ó, ez a fejed volt?}
-{32348}{}{Nagy májernek érzed magad, mi?}
-{32360}{}{Eltévesztetted a lépem! Haha!}
+{32346}{}{Bumm-saka-laka, bÃ©bi!}
+{32347}{}{Ã“, ez a fejed volt?}
+{32348}{}{Nagy mÃ¡jernek Ã©rzed magad, mi?}
+{32360}{}{EltÃ©vesztetted a lÃ©pem! Haha!}
 {32361}{}{FOS vagy!}
-{32362}{}{Haha! Király vagyok!}
-{32363}{}{Adj egy puszit, drágaságom!}
-{32364}{}{Ideje mennem, bébi.}
-{32365}{}{Leváglak!}
+{32362}{}{Haha! KirÃ¡ly vagyok!}
+{32363}{}{Adj egy puszit, drÃ¡gasÃ¡gom!}
+{32364}{}{Ideje mennem, bÃ©bi.}
+{32365}{}{MegvÃ¡glak!}
 {32400}{}{Az arcom! Csak ne az arcom!}
-{32401}{}{Szétbasztad a hajam, te görény!}
-{32402}{}{Szemét! Ezért ledarállak!}
+{32401}{}{SzÃ©tbasztad a hajam, te gÃ¶rÃ©ny!}
+{32402}{}{SzemÃ©t! EzÃ©rt ledarÃ¡llak!}
 {32403}{}{Kell egy nagyobb fegyver!}
-{32404}{}{Vááááááááááá!!!}
-{32405}{}{AAGGH!! Seggbelõttél!!}
-{32420}{}{Azt fogod kívánni, bárcsak körültekintõbb lett volna az apád!}
+{32404}{}{Vaaaaaaaaaaa!!!}
+{32405}{}{AAGGH!! SeggbelÅ‘ttÃ©l!!}
+{32420}{}{Azt fogod kÃ­vÃ¡nni, bÃ¡rcsak kÃ¶rÃ¼ltekintÅ‘bb lett volna az apÃ¡d!}
 {32421}{}{Figyu... olyan az arcod, mint egy nagy valag!}
-{32422}{}{Nézzük mid van, pöcsfej!}
-{32423}{}{Hajolj elõre, és fogd meg a bokád!}
-{32424}{}{Ezt most Shane-ért!!}
-{32425}{}{Megpróbálom olyan fájdalmasan csinálni, ahogy csak tudom.}
-{32426}{}{Baj, ha a térdkalácsod töröm szét elõször?}
-{32428}{}{Gyerünk, kislány! Mutasd mit tudsz!}
-{32440}{}{Remélem, nincs szükséged erre a karodra...}
-{32441}{}{Francba, ez fájt, mi?}
+{32422}{}{NÃ©zzÃ¼k mid van, pÃ¶csfej!}
+{32423}{}{Hajolj elÅ‘re, Ã©s fogd meg a bokÃ¡d!}
+{32424}{}{Ezt most Shane-Ã©rt!!}
+{32425}{}{MegprÃ³bÃ¡lom olyan fÃ¡jdalmasan csinÃ¡lni, ahogy csak tudom.}
+{32426}{}{Baj, ha a tÃ©rdkalÃ¡csod tÃ¶rÃ¶m szÃ©t elÅ‘szÃ¶r?}
+{32428}{}{GyerÃ¼nk, kislÃ¡ny! Mutasd mit tudsz!}
+{32440}{}{RemÃ©lem, nincs szÃ¼ksÃ©ged erre a karodra...}
+{32441}{}{Francba, ez fÃ¡jt, mi?}
 {32442}{}{Uf-da!}
-{32443}{}{Imádom így reggelente a vér illatát...}
-{32444}{}{Gyerek, vérzel?}
-{32445}{}{::::böff:::::}
-{32446}{}{Bepiszkítottad a pólómat!!!}
-{32447}{}{Forró ólom-beöntés rendel!!}
+{32443}{}{ImÃ¡dom Ã­gy reggelente a vÃ©r illatÃ¡t...}
+{32444}{}{Gyerek, vÃ©rzel?}
+{32445}{}{::::bÃ¶ff:::::}
+{32446}{}{BepiszkÃ­tottad a pÃ³lÃ³mat!!!}
+{32447}{}{ForrÃ³ Ã³lom-beÃ¶ntÃ©s rendel!!}
 {32448}{}{Ezt kapd ki!!}
-{32460}{}{Bénább vagy, mint az anyám... pedig õ már rég meghalt!}
-{32461}{}{Picsába, szar vagy!}
-{32462}{}{Menj vissza L.A.-be, köcsög!}
-{32463}{}{Akarod, hogy fél lábon álljak?}
+{32460}{}{BÃ©nÃ¡bb vagy, mint az anyÃ¡m... pedig Å‘ mÃ¡r rÃ©g meghalt!}
+{32461}{}{PicsÃ¡ba, szar vagy!}
+{32462}{}{Menj vissza L.A.-be, kÃ¶csÃ¶g!}
+{32463}{}{Akarod, hogy fÃ©l lÃ¡bon Ã¡lljak?}
 {32464}{}{:::fingik:::}
-{32465}{}{Ó, ez jó volt...}
-{32500}{}{Francba, még nyalakodtam volna egy kicsit!}
-{32501}{}{La la la... segítség!}
+{32465}{}{Ã“, ez jÃ³ volt...}
+{32500}{}{Francba, mÃ©g nyalakodtam volna egy kicsit!}
+{32501}{}{La la la... segÃ­tsÃ©g!}
 {32502}{}{Ha ha AJJ!}
 {32503}{}{AT! AT! At at at at at!}
 {32504}{}{Carramba!}
-{32505}{}{Segííííccs!}
+{32505}{}{SegÃ­tsÃ©Ã©Ã©Ã©g!}
 {32520}{}{Ez nem fog tetszeni neked!}
 {32521}{}{Gyere csak, gyere!}
-{32522}{}{Kóstolgatsz, kispajtás?}
-{32523}{}{Gyere a papához! Jól beakasztok neked!}
-{32524}{}{Ennyi volt, véged van!}
-{32525}{}{Máskor jobban vigyázz, kivel kezdesz ki!}
-{32526}{}{Gyere csak, mutatok valamit, bizonyám!}
-{32540}{}{Most már késõ, végig kell csinálnod.}
-{32541}{}{::dalolászik::}
-{32542}{}{Ne félj, nem foglak elfelejteni.}
-{32543}{}{Nem tudnánk egyszerûen csak megférni egymás mellett?}
-{32544}{}{Ennyi volt, véged van!}
-{32545}{}{Hajolj csak elõre szépen...}
-{32546}{}{Van számodra egy kis meglepetésem.}
-{32547}{}{Énrám hajtasz?}
-{32548}{}{Lövök... találok!}
-{32549}{}{Most megtudod, milyen egy 'kemény' csávó!}
+{32522}{}{KÃ³stolgatsz, kispajtÃ¡s?}
+{32523}{}{Gyere a papÃ¡hoz! JÃ³l beakasztok neked!}
+{32524}{}{Halott vagy haver, egy jÃ³ nagy hulla!}
+{32525}{}{MÃ¡skor jobban vigyÃ¡zz, kivel kezdesz ki!}
+{32526}{}{Gyere csak, mutatok valamit, bizonyÃ¡m!}
+{32540}{}{Most mÃ¡r kÃ©sÅ‘, vÃ©gig kell csinÃ¡lnod.}
+{32541}{}{::dalolÃ¡szik::}
+{32542}{}{Ne fÃ©lj, nem foglak elfelejteni.}
+{32543}{}{Na, essÃ¼nk tÃºl rajta gyorsan!}
+{32544}{}{Halott vagy haver, egy jÃ³ nagy hulla!}
+{32545}{}{Hajolj csak elÅ‘re szÃ©pen...}
+{32546}{}{Van szÃ¡modra egy kis meglepetÃ©sem.}
+{32547}{}{Ã‰nrÃ¡m hajtasz?}
+{32548}{}{LÃ¶vÃ¶k... talÃ¡lok!}
+{32549}{}{Most megtudod, milyen egy 'kemÃ©ny' csÃ¡vÃ³!}
 {32560}{}{Ez az!}
-{32561}{}{Csak így tovább!}
+{32561}{}{Csak Ã­gy tovÃ¡bb!}
 {32562}{}{Ha ha ha!}
 {32563}{}{Nem tudsz jobbat?}
-{32564}{}{Mi lesz már?}
-{32565}{}{Aoúú! Ha ha... csak vicceltem!}
-{32600}{}{Futás!}
-{32601}{}{Mentem a bõröm!}
-{32602}{}{Visszaaa!}
-{32603}{}{Meneküljünk! Meneküljünk!}
-{32604}{}{Futás elfele!}
-{32620}{}{Most meggyalázlak!}
-{32621}{}{Készülj fel a halálra!}
-{32622}{}{Semmi sem tart örökké... még te sem!}
-{32623}{}{Szétzúzlak, mint egy gyorsvonat!}
-{32624}{}{Figyelmeztettünk...}
-{32625}{}{Egy fasírt rendel!}
-{32626}{}{Viszlát, a másvilágon!}
-{32640}{}{Egyet az én kedvemért...}
-{32641}{}{... egyet a mama kedvéért...}
-{32642}{}{...egyet a papa kedvéért...}
-{32643}{}{...egyet a tesó kedvéért...}
-{32644}{}{... és egyet a Halál kedvéért!}
-{32645}{}{Tûnés kifelé!}
-{32646}{}{Halál rád!}
+{32564}{}{Mi lesz mÃ¡r?}
+{32565}{}{AoÃºÃº! Ha ha... csak vicceltem!}
+{32600}{}{FutÃ¡s!}
+{32601}{}{Mentem a bÅ‘rÃ¶m!}
+{32602}{}{Fussatok!}
+{32603}{}{MenekÃ¼ljetek! MenekÃ¼ljetek!}
+{32604}{}{FutÃ¡s!}
+{32620}{}{Most meggyalÃ¡zlak!}
+{32621}{}{KÃ©szÃ¼lj fel a halÃ¡lra!}
+{32622}{}{Semmi sem tart Ã¶rÃ¶kkÃ©... mÃ©g te sem!}
+{32623}{}{SzÃ©tzÃºzlak, mint egy gyorsvonat!}
+{32624}{}{FigyelmeztettÃ¼nk...}
+{32625}{}{Egy fasÃ­rt rendel!}
+{32626}{}{ViszlÃ¡t, a mÃ¡svilÃ¡gon!}
+{32640}{}{Egyet az Ã©n kedvemÃ©rt...}
+{32641}{}{... egyet a mama kedvÃ©Ã©rt...}
+{32642}{}{...egyet a papa kedvÃ©Ã©rt...}
+{32643}{}{...egyet a tesÃ³ kedvÃ©Ã©rt...}
+{32644}{}{... Ã©s egyet a HalÃ¡l kedvÃ©Ã©rt!}
+{32645}{}{HÃºzd el innen a beled!}
+{32646}{}{DÃ¶gÃ¶lj meg!}
 {32647}{}{Meghalsz!}
-{32648}{}{Eltiporlak, mint egy hangyát!}
-{32649}{}{Már a jelenléted is idegesít!}
-{32660}{}{Minden csak a reflexeken múlik.}
-{32661}{}{Balfék!}
-{32662}{}{::sóhajt:: Mikor jön már egy igazi ellenfél?}
-{32663}{}{Még ma befejezed?}
-{32664}{}{Még ebben az évben eltalálsz, vagy majd csak jövõre?}
+{32648}{}{Eltiporlak, mint egy hangyÃ¡t!}
+{32649}{}{MÃ¡r a jelenlÃ©ted is idegesÃ­t!}
+{32660}{}{Minden csak a reflexeken mÃºlik.}
+{32661}{}{BalfÃ©k!}
+{32662}{}{::sÃ³hajt:: Mikor jÃ¶n mÃ¡r egy igazi ellenfÃ©l?}
+{32663}{}{MÃ©g ma befejezed?}
+{32664}{}{MÃ©g ebben az Ã©vben eltalÃ¡lsz, vagy majd csak jÃ¶vÅ‘re?}
 {32665}{}{Ez kezd nagyon unalmas lenni...}
 {32700}{}{Az arcom! Az arcom!}
-{32701}{}{Csillagbéli Atyám! Gyógyíts meg!}
+{32701}{}{CsillagbÃ©li AtyÃ¡m! GyÃ³gyÃ­ts meg!}
 {32702}{}{Ouch! I need some ice for my head.}
-{32710}{}{Ajj, a karom!}
-{32711}{}{Aú!}
-{32712}{}{Eltörted a kezem!}
-{32720}{}{Ajj, a karom!}
-{32721}{}{Váhhhh!}
+{32710}{}{AÃº, a karom!}
+{32711}{}{ÃÃ¡Ã¡!}
+{32712}{}{EltÃ¶rted a karom!}
+{32720}{}{AÃº, a karom!}
+{32721}{}{ÃÃ¡Ã¡Ã¡Ã¡hh!}
 {32722}{}{A karom!!}
-{32730}{}{Aú! Ez tényleg fájt!}
-{32731}{}{Menten elájulok.}
-{32732}{}{Jaj!}
-{32733}{}{Csillagbéli Atyám! Segíts!}
-{32734}{}{Ez fájt!}
-{32735}{}{Hagyj már békén!}
-{32736}{}{Óóó, ez fáááj!}
-{32760}{}{Aú, a lábam!}
-{32761}{}{A térdem!}
-{32762}{}{Aú!}
-{32770}{}{Aúúú, a sípcsontom!}
-{32771}{}{A térdem!}
-{32772}{}{Aaaarrrrggghhh!}
-{32780}{}{Aúú!! A szemem!}
-{32781}{}{Az arcom! A szemem! Arrrrgh!}
+{32730}{}{Oh! Ez tÃ©nyleg fÃ¡jt!}
+{32731}{}{Asszem, mindjÃ¡rt elÃ¡julok.}
+{32732}{}{Ãuuh!}
+{32733}{}{CsillagbÃ©li AtyÃ¡m! SegÃ­ts!}
+{32734}{}{Ez fÃ¡jt!}
+{32735}{}{HagyjÃ¡l mÃ¡r bÃ©kÃ©n!}
+{32736}{}{Ohhh, fÃ¡jdalom!}
+{32760}{}{AÃº, a lÃ¡bam!}
+{32761}{}{A tÃ©rdem!}
+{32762}{}{ÃÃ¡Ã¡!}
+{32770}{}{AÃºÃºÃº, a sÃ­pcsontom!}
+{32771}{}{A tÃ©rdem!}
+{32772}{}{Aaaaarrrghhh!}
+{32780}{}{Jaj!! A szemem!}
+{32781}{}{Az arcom! A szemem! Aaarrgh!}
 {32782}{}{A szemem!}
-{32790}{}{Óóóóóóóóóóó, a tököm! Óóóóóóó...}
-{32791}{}{Ajj... ez nagyon fááj!}
-{32792}{}{Örhf!}
-{32793}{}{::nyüszít::}
-{32794}{}{Nem... khapok...leveghõt...}
-{32795}{}{Még jó... hogy eleve... steril vagyok...}
-{32800}{}{Csillagbéli Atyám! Segíts!}
-{32801}{}{Ó, Atyám!}
-{32802}{}{Nem akarok még meghalni!}
+{32790}{}{Oooooooooh, a lÃ¡gyÃ©kom! Oooooooh...}
+{32791}{}{ÃÃ¡Ã¡u... ez fÃ¡Ã¡j!}
+{32792}{}{Urgh!}
+{32793}{}{::nyÃ¼szÃ­t::}
+{32794}{}{Nehm...khapok...levegÅ‘t...}
+{32795}{}{MÃ©g jÃ³... hogy eleve... steril vagyok...}
+{32800}{}{CsillagbÃ©li AtyÃ¡m! SegÃ­ts!}
+{32801}{}{Ã“, AtyÃ¡m!}
+{32802}{}{Nem akarok mÃ©g meghalni!}
 {32803}{}{Aiieee!}
 {32804}{}{Mentsetek meg!}
-{32805}{}{BHK-9! Segíts rajtunk!}
-{32820}{}{Na, most aztán jól beszabályozlak!}
-{32821}{}{Jó lesz végre itthagyni a magadfajtákat...}
-{32822}{}{Sajnálhatod, hogy nem látod a jövõt.}
-{32823}{}{Soha ne ellenkezz a Csillagbéli Atya akaratával!}
-{32824}{}{Hubbell lesújt rád!}
-{32825}{}{Mi vagyunk a Csillagbéli Atya bosszúálló öklei!}
-{32826}{}{Halál a be nem szabályzottra!}
-{32828}{}{Képzeld azt, hogy ez egy újszerû Zéta-vizsgálat!}
-{32840}{}{Megtisztítalak a negatív energiáktól!}
-{32841}{}{Elõre a Csillagbéli Atyáért!}
-{32842}{}{Elõre Hubbell-ért!}
-{32843}{}{Elõre Quetzel-ért!}
-{32844}{}{Elõre BHK-9-ért!}
-{32845}{}{Halál a tisztátalanra!}
-{32846}{}{Ne szennyezd be a szentélyünket!}
-{32847}{}{Ezt BHK-9 nevében kapod!}
-{32860}{}{Nem figyelsz eléggé!}
-{32861}{}{Ha közülünk való volnál, eltalálnál!}
-{32862}{}{Nem koncentrálsz!}
-{32863}{}{Nem bánthatsz egy igaz hívõt!}
-{32864}{}{Ez majd észre térít!}
-{32865}{}{Tisztátalan lélek!}
-{32900}{}{Én csak egy színész vagyok!}
-{32901}{}{Félre az útból, híresség vagyok!}
-{32902}{}{Ez nem volt benne a forgatókönyvben!}
-{32903}{}{Csillagbéli Atyám! Segíts!}
-{32904}{}{Én híresség vagyok!}
-{33000}{}{Csillagbéli Atyám! Segíts!}
+{32805}{}{BHK-9! SegÃ­ts rajtunk!}
+{32820}{}{Na, most aztÃ¡n jÃ³l beszabÃ¡lyozlak!}
+{32821}{}{JÃ³ lesz vÃ©gre itthagyni a magadfajtÃ¡kat...}
+{32822}{}{SajnÃ¡lhatod, hogy nem lÃ¡tod a jÃ¶vÅ‘t.}
+{32823}{}{Soha ne ellenkezz a CsillagbÃ©li Atya akaratÃ¡val!}
+{32824}{}{Hubbell lesÃºjt rÃ¡d!}
+{32825}{}{Mi vagyunk a CsillagbÃ©li Atya bosszÃºÃ¡llÃ³ Ã¶klei!}
+{32826}{}{HalÃ¡l a be nem szabÃ¡lyzottra!}
+{32828}{}{KÃ©pzeld azt, hogy ez egy ÃºjszerÅ± ZÃ©ta-vizsgÃ¡lat!}
+{32840}{}{MegtisztÃ­talak a negatÃ­v energiÃ¡ktÃ³l!}
+{32841}{}{ElÅ‘re a CsillagbÃ©li AtyÃ¡Ã©rt!}
+{32842}{}{ElÅ‘re Hubbell-Ã©rt!}
+{32843}{}{ElÅ‘re Quetzel-Ã©rt!}
+{32844}{}{ElÅ‘re BHK-9-Ã©rt!}
+{32845}{}{HalÃ¡l a tisztÃ¡talanra!}
+{32846}{}{Ne szennyezd be a szentÃ©lyÃ¼nket!}
+{32847}{}{Ezt BHK-9 nevÃ©ben kapod!}
+{32860}{}{Nem figyelsz elÃ©ggÃ©!}
+{32861}{}{Ha kÃ¶zÃ¼lÃ¼nk valÃ³ volnÃ¡l, eltalÃ¡lnÃ¡l!}
+{32862}{}{Nem koncentrÃ¡lsz!}
+{32863}{}{Nem bÃ¡nthatsz egy igaz hÃ­vÅ‘t!}
+{32864}{}{Ez majd Ã©szre tÃ©rÃ­t!}
+{32865}{}{TisztÃ¡talan lÃ©lek!}
+{32900}{}{Ã‰n csak egy szÃ­nÃ©sz vagyok!}
+{32901}{}{FÃ©lre az ÃºtbÃ³l, hÃ­ressÃ©g vagyok!}
+{32902}{}{Ez nem volt benne a forgatÃ³kÃ¶nyvben!}
+{32903}{}{CsillagbÃ©li AtyÃ¡m! SegÃ­ts!}
+{32904}{}{Ã‰n hÃ­ressÃ©g vagyok!}
+{33000}{}{CsillagbÃ©li AtyÃ¡m! SegÃ­ts!}
 {33001}{}{Ne! Ne engem!}
-{33002}{}{Inkább valaki mást ölj meg!}
-{33003}{}{Ne ölj meg! Én BHK-9 vagyok!}
-{33004}{}{Õrség! Segítsetek!}
-{33005}{}{Nem ölhetsz meg! Túl fontos személy vagyok!}
-{33020}{}{Pedig beállhattál volna közénk.}
-{33021}{}{Az ostoba mindig a nála jobbal kezd ki.}
-{33022}{}{Süt rólad a tisztátalanság!}
-{33023}{}{Csak le kellett volna tenned az esküt...}
-{33024}{}{Csillagbéli Atyánk lesújt rád!}
-{33025}{}{Sosem jutsz el a Quetzel bolygóra!}
-{33026}{}{Elárultad az embereket!}
-{33028}{}{Értéktelen és tisztátalan vagy!}
-{33040}{}{Az érintésem megtisztít!}
-{33041}{}{Halálra sújtalak!}
-{33042}{}{Hubbell nevében!}
-{33043}{}{Dicsõséges Csillagbéli Atyánk nevében!}
-{33044}{}{Érezd Hubbell haragját!}
-{33045}{}{Ez majd segít rajtad!}
-{33060}{}{Csillagbéli Atyám, vigyázz rám!}
-{33061}{}{Hubbell vigyáz rám!}
-{33062}{}{Reménytelen eset vagy.}
-{33063}{}{Nem tudsz bántani!}
-{33064}{}{Miért nem próbálsz meg koncentrálni?}
-{33100}{}{Csillagbéli Atyám! Segíts!}
+{33002}{}{InkÃ¡bb valaki mÃ¡st Ã¶lj meg!}
+{33003}{}{Ne Ã¶lj meg! Ã‰n BHK-9 vagyok!}
+{33004}{}{ÅrsÃ©g! SegÃ­tsetek!}
+{33005}{}{Nem Ã¶lhetsz meg! TÃºl fontos szemÃ©ly vagyok!}
+{33020}{}{Pedig beÃ¡llhattÃ¡l volna kÃ¶zÃ©nk.}
+{33021}{}{Az ostoba mindig a nÃ¡la jobbal kezd ki.}
+{33022}{}{SÃ¼t rÃ³lad a tisztÃ¡talansÃ¡g!}
+{33023}{}{Csak le kellett volna tenned az eskÃ¼t...}
+{33024}{}{CsillagbÃ©li AtyÃ¡nk lesÃºjt rÃ¡d!}
+{33025}{}{Sosem jutsz el a Quetzel bolygÃ³ra!}
+{33026}{}{ElÃ¡rultad az embereket!}
+{33028}{}{Ã‰rtÃ©ktelen Ã©s tisztÃ¡talan vagy!}
+{33040}{}{Az Ã©rintÃ©sem megtisztÃ­t!}
+{33041}{}{HalÃ¡lra sÃºjtalak!}
+{33042}{}{Hubbell nevÃ©ben!}
+{33043}{}{DicsÅ‘sÃ©ges CsillagbÃ©li AtyÃ¡nk nevÃ©ben!}
+{33044}{}{Ã‰rezd Hubbell haragjÃ¡t!}
+{33045}{}{Ez majd segÃ­t rajtad!}
+{33060}{}{CsillagbÃ©li AtyÃ¡m, vigyÃ¡zz rÃ¡m!}
+{33061}{}{Hubbell vigyÃ¡z rÃ¡m!}
+{33062}{}{RemÃ©nytelen eset vagy.}
+{33063}{}{Nem tudsz bÃ¡ntani!}
+{33064}{}{MiÃ©rt nem prÃ³bÃ¡lsz meg koncentrÃ¡lni?}
+{33100}{}{CsillagbÃ©li AtyÃ¡m! SegÃ­ts!}
 {33101}{}{Nekem most a Quetzel-en lenne a helyem!}
-{33102}{}{Ne engem! Ne engem ölj meg!}
-{33103}{}{Én csak egy lakáj vagyok!}
-{33104}{}{Nem én hozom a döntéseket!}
-{33105}{}{Nem én kellek neked!}
-{33120}{}{Bár ne kéne ezt tennem...}
-{33121}{}{Biztos, hogy nem akarod inkább feladni?}
-{33122}{}{Inkább beszéljük meg... mit szólsz?}
+{33102}{}{Ne engem! Ne engem Ã¶lj meg!}
+{33103}{}{Ã‰n csak egy lakÃ¡j vagyok!}
+{33104}{}{Nem Ã©n hozom a dÃ¶ntÃ©seket!}
+{33105}{}{Nem Ã©n kellek neked!}
+{33120}{}{BÃ¡r ne kÃ©ne ezt tennem...}
+{33121}{}{Biztos, hogy nem akarod inkÃ¡bb feladni?}
+{33122}{}{InkÃ¡bb beszÃ©ljÃ¼k meg... mit szÃ³lsz?}
 {33123}{}{Ha BHK-9 azt mondja gonosz vagy, akkor biztos az vagy!}
-{33124}{}{Ezt... ööö... Hubbell nevében kapod!}
-{33125}{}{A harc nem tesz jót a lelkednek!}
-{33126}{}{Nem tudok hihetõen fenyegetõzni...}
-{33128}{}{Elõre is bocsánat, ha esetleg bántanálak.}
-{33140}{}{Vigyázz!}
-{33141}{}{::lehunyt szemmel támadásba lendül::}
-{33142}{}{Próbáljuk meg újra...}
-{33143}{}{Ha elfutnál, nem kéne ezt csinálnom.}
-{33144}{}{Gyerünk! Tûnés innen!}
+{33124}{}{Ezt... Ã¶Ã¶Ã¶... Hubbell nevÃ©ben kapod!}
+{33125}{}{A harc nem tesz jÃ³t a lelkednek!}
+{33126}{}{Nem tudok hihetÅ‘en fenyegetÅ‘zni...}
+{33128}{}{ElÅ‘re is bocsÃ¡nat, ha esetleg bÃ¡ntanÃ¡lak.}
+{33140}{}{VigyÃ¡zz!}
+{33141}{}{::lehunyt szemmel tÃ¡madÃ¡sba lendÃ¼l::}
+{33142}{}{PrÃ³bÃ¡ljuk meg Ãºjra...}
+{33143}{}{Ha elfutnÃ¡l, nem kÃ©ne ezt csinÃ¡lnom.}
+{33144}{}{GyerÃ¼nk! TÅ±nj el innen!}
 {33145}{}{Eridj! Eridj!}
 {33146}{}{Hagyd abba a harcot!}
-{33147}{}{Hellóóóó-bellóóóóó!}
-{33148}{}{Jó szagod van.}
-{33149}{}{Beszéljük meg!}
-{33160}{}{Miért csinálsz úgy, mintha bántani akarnál?}
-{33161}{}{Mit vétettem én ellened?}
-{33162}{}{Te is tudod, hogy nem muszáj harcolnunk!}
-{33163}{}{Én sem akarlak bántani!}
-{33164}{}{Nem akarom, hogy bánts!}
-{33165}{}{Mi lenne, ha felnõttek módjára intéznénk ezt el?}
-{33200}{}{Asszem, eltört az állkapcsom!}
+{33147}{}{HellÃ³Ã³Ã³Ã³-bellÃ³Ã³Ã³Ã³Ã³!}
+{33148}{}{JÃ³ szagod van.}
+{33149}{}{BeszÃ©ljÃ¼k meg!}
+{33160}{}{MiÃ©rt csinÃ¡lsz Ãºgy, mintha bÃ¡ntani akarnÃ¡l?}
+{33161}{}{Mit vÃ©tettem Ã©n ellened?}
+{33162}{}{Te is tudod, hogy nem muszÃ¡j harcolnunk!}
+{33163}{}{Ã‰n sem akarlak bÃ¡ntani!}
+{33164}{}{Nem akarom, hogy bÃ¡nts!}
+{33165}{}{Mi lenne, ha felnÅ‘ttek mÃ³djÃ¡ra intÃ©znÃ©nk ezt el?}
+{33200}{}{Asszem, eltÃ¶rt az Ã¡llkapcsom!}
 {33201}{}{Az arc-csontom!}
-{33202}{}{Ennek csúnya helye lesz.}
-{33210}{}{Hé! Ezzel a kezemmel szoktam írni!}
-{33211}{}{A könyököm!}
-{33212}{}{Hé! Vigyázz!}
+{33202}{}{Ennek csÃºnya helye lesz.}
+{33210}{}{HÃ©! Ezzel a kezemmel szoktam Ã­rni!}
+{33211}{}{A kÃ¶nyÃ¶kÃ¶m!}
+{33212}{}{HÃ©! VigyÃ¡zz!}
 {33220}{}{Ahhh! Aiee! Ahh!}
-{33221}{}{Váhhhh!}
+{33221}{}{ÃÃ¡Ã¡Ã¡Ã¡hh!}
 {33222}{}{Ajj! A karom!!}
-{33230}{}{Asszem, ez a vesém volt!}
-{33231}{}{A gyomorszájam!!}
-{33232}{}{::zihál::}
-{33233}{}{Úhhh!}
-{33234}{}{Nem kéne ezt csinálnod...}
-{33235}{}{Oké, ez tényleg fájt!}
-{33236}{}{Óóóó... aúúúú}
-{33260}{}{A sípcsontom!}
-{33261}{}{A térdem!}
-{33262}{}{Aú!}
-{33270}{}{Óóó, a lábam!}
-{33271}{}{A térdem!}
-{33272}{}{Ezután sántítani fogok..}
-{33280}{}{Asszem, levált a retinám!}
-{33281}{}{A szemem! A gyönyörû szemem!}
+{33230}{}{Asszem, ez a vesÃ©m volt!}
+{33231}{}{A hasam!}
+{33232}{}{::zihÃ¡l::}
+{33233}{}{Uuufh!}
+{33234}{}{Nem kÃ©ne ezt csinÃ¡lnod...}
+{33235}{}{OkÃ©, ez tÃ©nyleg fÃ¡jt!}
+{33236}{}{Ã“Ã³Ã³Ã³... aÃºÃºÃºÃº}
+{33260}{}{A sÃ­pcsontom!}
+{33261}{}{A tÃ©rdem!}
+{33262}{}{ÃÃ¡Ã¡!}
+{33270}{}{Ã“Ã³Ã³, a lÃ¡bam!}
+{33271}{}{A tÃ©rdem!}
+{33272}{}{EzutÃ¡n sÃ¡ntÃ­tani fogok..}
+{33280}{}{Asszem, levÃ¡lt a retinÃ¡m!}
+{33281}{}{A szemem! A gyÃ¶nyÃ¶rÅ± szemem!}
 {33282}{}{Megvakultam! Megvakultam!}
-{33290}{}{Ez... ez... fáj, mint állat...}
+{33290}{}{Ez... ez... fÃ¡j, mint Ã¡llat...}
 {33291}{}{Mama...}
-{33292}{}{::nyüszít::}
-{33293}{}{Atya... Úr... Isten!}
-{33294}{}{Hmmm. Aú. Hmmm.}
-{33295}{}{Mindjárt sokkot kapok!}
+{33292}{}{::nyÃ¼szÃ­t::}
+{33293}{}{Atya... Ãšr... Isten!}
+{33294}{}{Hmmm. AÃº. Hmmm.}
+{33295}{}{MindjÃ¡rt sokkot kapok!}
 {36000}{}{Ez telibekapta a fejem!}
 {36001}{}{Ajj! A fejem!}
-{36002}{}{Úúh! Kaga feje fáj!}
+{36002}{}{ÃšÃºh! Kaga feje fÃ¡j!}
 {36010}{}{A kezem!}
-{36011}{}{Ajj! Még jó, hogy jobbkezes vagyok...}
+{36011}{}{Ajj! MÃ©g jÃ³, hogy jobbkezes vagyok...}
 {36012}{}{Ajj!!}
-{36020}{}{Ajj, a karom!}
-{36021}{}{Eltörted a kezem!}
-{36022}{}{Ezt megbánod!}
-{36030}{}{(Röff!)}
-{36031}{}{Ez csak karcolás!}
+{36020}{}{Jaj, a karom!}
+{36021}{}{EltÃ¶rted a karom!}
+{36022}{}{Ezt mÃ©g megbÃ¡nod!}
+{36030}{}{(RÃ¶ff!)}
+{36031}{}{Ez csak karcolÃ¡s!}
 {36032}{}{Grrr!}
-{36033}{}{Ezt megbánod!}
-{36034}{}{Fejezd be, amíg még tudod!}
+{36033}{}{Ezt mÃ©g megbÃ¡nod!}
+{36034}{}{Fejezd be, amÃ­g mÃ©g tudod!}
 {36035}{}{Good shot. My turn!}
-{36060}{}{Ajj, a lábam!}
-{36061}{}{Ezért megfizetsz!}
-{36062}{}{Ah! A LÁBAM!}
-{36070}{}{A lábam!}
-{36071}{}{Öhh! Miért célzol ennyire lefelé?}
-{36072}{}{Te tényleg a lábamra céloztál!?!}
-{36080}{}{A fenébe, vérzik a szemem!}
-{36081}{}{A szemem! Ezért megfizetsz!}
-{36082}{}{Rohadék!}
-{36090}{}{Óóóóóóó, idõt kérek, össze kell szednem a maradványokat!}
-{36091}{}{Óóó! Ezt a technikát meg kéne tanulnom...}
-{36092}{}{Örg! A Büszkeségem! Jól vagy, Kisöreg?}
-{36093}{}{Ez... aoúúú... ez fájt!}
-{36094}{}{Örhf!}
-{36095}{}{Áááoh!}
-{36100}{}{Találkozni fogunk még!}
-{36101}{}{Még visszatérek...}
-{36102}{}{Még sohasem gyõztek le!}
-{36103}{}{Megesküszöm, hogy megtalállak és elkaplak!}
-{36104}{}{Hallasz még felõlem!}
-{36105}{}{Ezért megfizetsz... máskor!}
-{36120}{}{Nekem kellett volna a Kiválasztottnak lennem!}
+{36060}{}{Oh, a lÃ¡bam!}
+{36061}{}{EzÃ©rt kinyÃ­rlak!}
+{36062}{}{Ah! A LÃBAM!}
+{36070}{}{A lÃ¡bam!}
+{36071}{}{Ã–hh! MiÃ©rt cÃ©lzol ennyire lefelÃ©?}
+{36072}{}{Te tÃ©nyleg a lÃ¡bamra cÃ©loztÃ¡l!?!}
+{36080}{}{Francos vÃ©r ment a szememben!}
+{36081}{}{A szemem! EzÃ©rt megfizetsz te gÃ¶rÃ©ny!}
+{36082}{}{KÃ¶csÃ¶g!}
+{36090}{}{Ã“Ã³Ã³Ã³Ã³Ã³Ã³, idÅ‘t kÃ©rek, Ã¶ssze kell szednem a maradvÃ¡nyokat!}
+{36091}{}{Ã“Ã³Ã³! Ezt a technikÃ¡t meg kÃ©ne tanulnom...}
+{36092}{}{Ã–rg! A BÃ¼szkesÃ©gem! JÃ³l vagy, KisÃ¶reg?}
+{36093}{}{Ez... aoÃºÃºÃº... ez fÃ¡jt!}
+{36094}{}{Urgh!}
+{36095}{}{ÃÃ¡Ã¡oh!}
+{36100}{}{MÃ©g talÃ¡lkozunk!}
+{36101}{}{VisszatÃ©rek...}
+{36102}{}{MÃ©g soha nem gyÅ‘ztek le!}
+{36103}{}{MegeskÃ¼szÃ¶m, hogy megtalÃ¡llak Ã©s elkaplak!}
+{36104}{}{Nem utoljÃ¡ra hallottÃ¡l rÃ³lam!}
+{36105}{}{EzÃ©rt megfizetsz -- csak nem most!}
+{36120}{}{Nekem kÃ©ne a KivÃ¡lasztottnak lennem!}
 {36121}{}{Arroyo will regret casting me out!}
-{36122}{}{Rajtad állok bosszút!}
+{36122}{}{Rajtad Ã¡llok bosszÃºt!}
 {36123}{}{Kaga will send you to the next life!}
-{36124}{}{Egy újabb halott Kiválasztott!}
+{36124}{}{MÃ©g egy halandÃ³ KivÃ¡lasztott!}
 {36140}{}{Your momma's not here to help you!}
 {36141}{}{I'm gonna enjoy this!}
-{36142}{}{Úúúú, ez fájhatott!}
+{36142}{}{ÃšÃºÃºÃº, ez fÃ¡jhatott!}
 {36143}{}{I'm gonna take your head back to the Elder!}
-{36144}{}{Megeszem a májad!}
+{36144}{}{MegsÃ¼tÃ¶m a mÃ¡jad vacsira!}
 {36145}{}{Hope you don't die as quickly as the others.}
-{36146}{}{Egy újabb halott Kiválasztott!}
-{36147}{}{Halál rád!}
-{36148}{}{Üvölts!}
-{36160}{}{Nem bánthatsz!}
-{36161}{}{A szellemek megvédenek.}
-{36162}{}{Remélem, ennél jobbat is tudsz!}
-{36163}{}{Buhaha. Kagának el sem kellett hajolnia!}
-{36164}{}{Nem ölhetsz meg, ha el sem találsz!}
-{36165}{}{Lassú vagy!}
-{36200}{}{Találkozni fogunk még!}
-{36201}{}{Még visszatérek...}
-{36202}{}{Nem tudod megölni a hatalmas Kagát!}
-{36203}{}{Szerencséd van! Kagának máshol van dolga...}
-{36204}{}{Te és Kaga még találkoztok!}
-{36205}{}{Ezért megfizetsz... máskor!}
-{36220}{}{Miután megöltelek, porig égetem Arroyót!}
+{36146}{}{MÃ©g egy halandÃ³ KivÃ¡lasztott!}
+{36147}{}{DÃ¶gÃ¶lj meg!}
+{36148}{}{Sikolts a kedvemÃ©rt!}
+{36160}{}{Engem nem bÃ­rsz bÃ¡ntani!}
+{36161}{}{A szellemek megvÃ©denek.}
+{36162}{}{RemÃ©lem, nem ez volt a legjobb lÃ¶vÃ©sed!}
+{36163}{}{Hahaha. KagÃ¡nak mÃ©g lehasalnia se kellett!}
+{36164}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{36165}{}{TÃºl lassÃº!}
+{36200}{}{MÃ©g talÃ¡lkozunk!}
+{36201}{}{VisszatÃ©rek...}
+{36202}{}{Nem tudod megÃ¶lni a hatalmas KagÃ¡t!}
+{36203}{}{SzerencsÃ©d van! KagÃ¡nak mÃ¡s dolga van!}
+{36204}{}{Te Ã©s Kaga mÃ©g talÃ¡lkozni fognak!}
+{36205}{}{EzÃ©rt megfizetsz -- csak nem most!}
+{36220}{}{MiutÃ¡n megÃ¶ltelek, porig Ã©getem ArroyÃ³t!}
 {36221}{}{I am to be feared by all!}
 {36222}{}{Kaga will have your head for a trophy!}
 {36223}{}{Surrender and I'll make your death quick.}
-{36240}{}{Érezd Kaga haragját!}
-{36241}{}{Felesleges kegyelemért könyörögnöd...}
+{36240}{}{Ã‰rezd Kaga haragjÃ¡t!}
+{36241}{}{Ne is Ã¡lmodozz kegyelemrÅ‘l...}
 {36242}{}{I'm gonna enjoy this!}
 {36243}{}{Oooo, Kaga felt that one from here,}
 {36244}{}{I'm gonna take your head back to the Elder!}
-{36245}{}{Kiskanállal kaparom ki a szíved!}
+{36245}{}{KiskanÃ¡llal fogom kikaparni a szÃ­ved!}
 {36246}{}{Hope you don't die as quickly as the others!}
-{36247}{}{Egy újabb halott Kiválasztott!}
-{36248}{}{Halál rád!}
+{36247}{}{MÃ©g egy halandÃ³ KivÃ¡lasztott!}
+{36248}{}{DÃ¶gÃ¶lj meg!}
 {36249}{}{Scream for me.}
-{36260}{}{Nem bánthatsz!}
-{36261}{}{A szellemek megvédenek.}
-{36262}{}{Remélem, ennél jobbat is tudsz!}
-{36263}{}{Buhaha. Kagának el sem kellett hajolnia!}
-{36264}{}{Nem ölhetsz meg, ha el sem találsz!}
-{36265}{}{Lassú vagy!}
-{36300}{}{Ez most már kezd rossz szokássá válni.}
+{36260}{}{Engem nem bÃ­rsz bÃ¡ntani!}
+{36261}{}{A szellemek megvÃ©denek.}
+{36262}{}{RemÃ©lem, nem ez volt a legjobb lÃ¶vÃ©sed!}
+{36263}{}{Hahaha. KagÃ¡nak mÃ©g lehasalnia se kellett!}
+{36264}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{36265}{}{TÃºl lassÃº!}
+{36300}{}{Ez most mÃ¡r kezd rossz szokÃ¡ssÃ¡ vÃ¡lni.}
 {36301}{}{Kaga needs more training.}
 {36302}{}{I'll be back. Yada yada yada I'm gonna kill you.}
 {36303}{}{You are in luck! Kaga has business elsewhere.}
 {36304}{}{You and Kaga will meet again.}
-{36305}{}{Ezért megfizetsz... máskor!}
+{36305}{}{EzÃ©rt megfizetsz -- csak nem most!}
 {36320}{}{Kaga and the Chosen One meet again!}
 {36321}{}{Let's end this!}
-{36322}{}{Megbánod azt is, hogy egyáltalán hallottál rólam!}
-{36323}{}{Utolsó találkozásunk óta gyarapodtak a képességeim.}
-{36340}{}{Érezd Kaga haragját!}
+{36322}{}{MegbÃ¡nod azt is, hogy egyÃ¡ltalÃ¡n hallottÃ¡l rÃ³lam!}
+{36323}{}{UtolsÃ³ talÃ¡lkozÃ¡sunk Ã³ta gyarapodtak a kÃ©pessÃ©geim.}
+{36340}{}{Ã‰rezd Kaga haragjÃ¡t!}
 {36341}{}{I'm gonna enjoy this!}
 {36342}{}{Oooo, Kaga felt that one from here.}
 {36343}{}{I'm gonna take your head back to the Elder!}
-{36344}{}{Kiskanállal kaparom ki a szíved!}
+{36344}{}{KiskanÃ¡llal fogom kikaparni a szÃ­ved!}
 {36345}{}{Hope you don't die as quickly as the others!}
-{36346}{}{Egy újabb halott Kiválasztott!}
-{36347}{}{Halál rád!}
-{36348}{}{Üvölts!}
-{36360}{}{Nem bánthatsz!}
-{36361}{}{A szellemek megvédenek.}
-{36362}{}{Remélem, ennél jobbat is tudsz!}
-{36363}{}{Buhaha. Kagának el sem kellett hajolnia!}
-{36364}{}{Nem ölhetsz meg, ha el sem találsz!}
-{36365}{}{Lassú vagy!}
-{36400}{}{Ez most már kezd rossz szokássá válni.}
+{36346}{}{MÃ©g egy halandÃ³ KivÃ¡lasztott!}
+{36347}{}{DÃ¶gÃ¶lj meg!}
+{36348}{}{Sikolts a kedvemÃ©rt!}
+{36360}{}{Engem nem bÃ­rsz bÃ¡ntani!}
+{36361}{}{A szellemek megvÃ©denek.}
+{36362}{}{RemÃ©lem, nem ez volt a legjobb lÃ¶vÃ©sed!}
+{36363}{}{Hahaha. KagÃ¡nak mÃ©g lehasalnia se kellett!}
+{36364}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{36365}{}{TÃºl lassÃº!}
+{36400}{}{Ez most mÃ¡r kezd rossz szokÃ¡ssÃ¡ vÃ¡lni.}
 {36401}{}{Kaga needs more training.}
 {36402}{}{This is not the last you will see of Kaga!}
 {36403}{}{You are in luck! Kaga has business elsewhere.}
 {36404}{}{You and Kaga will meet again!}
-{36405}{}{Ezért megfizetsz... máskor!}
-{36420}{}{A Kiválasztott sohasem fog visszatérni Arroyóba!}
-{36421}{}{Kaga szét fog zúzni téged!}
-{36422}{}{Kaga nem fél senkitõl!}
+{36405}{}{EzÃ©rt megfizetsz -- csak nem most!}
+{36420}{}{A KivÃ¡lasztott sosem tÃ©r vissza ArroyÃ³ba!}
+{36421}{}{Kaga porrÃ¡ zÃºz tÃ©ged!}
+{36422}{}{Kaga nem fÃ©l senkitÅ‘l!}
 {36423}{}{Let Kaga teach you new skills he has learned.}
-{36440}{}{Érezd Kaga haragját!}
+{36440}{}{Ã‰rezd Kaga haragjÃ¡t!}
 {36441}{}{Hold still so Kaga can get a good shot.}
-{36442}{}{Ezt nagyon élvezem!}
+{36442}{}{Ezt Ã©lvezni fogom}
 {36443}{}{Oooo, Kaga felt that one from here.}
 {36444}{}{I'm gonna take your head back to the Elder!}
-{36445}{}{Kiskanállal kaparom ki a szíved!}
+{36445}{}{KiskanÃ¡llal fogom kikaparni a szÃ­ved!}
 {36446}{}{Hope you don't die as quickly as the others!}
-{36447}{}{Egy újabb halott Kiválasztott!}
-{36448}{}{Halál rád!}
-{36449}{}{Üvölts!}
-{36460}{}{Nem bánthatsz!}
-{36461}{}{A szellemek megvédenek.}
-{36462}{}{Remélem, ennél jobbat is tudsz!}
-{36463}{}{Buhaha. Kagának el sem kellett hajolnia!}
-{36464}{}{Nem ölhetsz meg, ha el sem találsz!}
-{36465}{}{Lassú vagy!}
+{36447}{}{MÃ©g egy halandÃ³ KivÃ¡lasztott!}
+{36448}{}{DÃ¶gÃ¶lj meg!}
+{36449}{}{Sikolts a kedvemÃ©rt!}
+{36460}{}{Engem nem bÃ­rsz bÃ¡ntani!}
+{36461}{}{A szellemek megvÃ©denek.}
+{36462}{}{RemÃ©lem, nem ez volt a legjobb lÃ¶vÃ©sed!}
+{36463}{}{Hahaha. KagÃ¡nak mÃ©g lehasalnia se kellett!}
+{36464}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{36465}{}{TÃºl lassÃº!}
 {36500}{}{}
 {36501}{}{}
 {36502}{}{}
@@ -1537,216 +1537,216 @@
 {36504}{}{}
 {36505}{}{}
 {36520}{}{Kaga is ready for you now.}
-{36521}{}{Nem kelhetsz versenyre Kagával!}
+{36521}{}{Nem kelhetsz versenyre KagÃ¡val!}
 {36522}{}{Kaga will send you to next life.}
 {36523}{}{Kaga gonna miss you.}
-{36540}{}{Érezd Kaga haragját!}
+{36540}{}{Ã‰rezd Kaga haragjÃ¡t!}
 {36541}{}{Kaga will be famous for killing you!}
 {36542}{}{I'm gonna enjoy this!}
 {36543}{}{Oooo, Kaga felt that one from here.}
 {36544}{}{I'm gonna take your head back to the Elder.}
 {36545}{}{It ends here Chosen One!}
 {36546}{}{Kaga has to kill you now.}
-{36547}{}{Halál rád!}
-{36548}{}{Üvölts!}
-{36560}{}{Nem bánthatsz!}
-{36561}{}{A szellemek megvédenek.}
-{36562}{}{Remélem, ennél jobbat is tudsz!}
-{36563}{}{Buhaha. Kagának el sem kellett hajolnia!}
-{36564}{}{Nem ölhetsz meg, ha el sem találsz!}
-{36565}{}{Lassú vagy!}
-{36600}{}{Ahhhgh! A pofám!}
-{36601}{}{A pofám! Ezért szenvedni fogsz!}
-{36602}{}{Ahhhgh! Darabokra téplek!}
+{36547}{}{DÃ¶gÃ¶lj meg!}
+{36548}{}{Sikolts a kedvemÃ©rt!}
+{36560}{}{Engem nem bÃ­rsz bÃ¡ntani!}
+{36561}{}{A szellemek megvÃ©denek.}
+{36562}{}{RemÃ©lem, nem ez volt a legjobb lÃ¶vÃ©sed!}
+{36563}{}{Hahaha. KagÃ¡nak mÃ©g lehasalnia se kellett!}
+{36564}{}{Nem tudod megÃ¶lni azt, amit el sem talÃ¡lsz!}
+{36565}{}{TÃºl lassÃº!}
+{36600}{}{Ahhhgh! A pofÃ¡m!}
+{36601}{}{A pofÃ¡m! EzÃ©rt szenvedni fogsz!}
+{36602}{}{Ahhhgh! Darabokra tÃ©plek!}
 {36610}{}{Ahhhgh!}
-{36611}{}{Ajj! Majdnem megsebesítettél!}
-{36612}{}{Ahhhgh! Ezért még kitekerem a nyakad!}
+{36611}{}{Ajj! Majdnem megsebesÃ­tettÃ©l!}
+{36612}{}{Ahhhgh! EzÃ©rt kitÃ¶rÃ¶m a nyakad!}
 {36620}{}{Ahhhgh!}
-{36621}{}{Ajj! Majdnem megsebesítettél!}
-{36622}{}{Ahhhgh! Ezért még kitekerem a nyakad!}
-{36630}{}{Úúf!}
+{36621}{}{Ajj! Majdnem megsebesÃ­tettÃ©l!}
+{36622}{}{Ahhhgh! EzÃ©rt kitÃ¶rÃ¶m a nyakad!}
+{36630}{}{Uuuuh!}
 {36631}{}{Grrr!}
-{36632}{}{Ezért megöllek!}
-{36633}{}{Nem bántasz majd, ha halott leszel!}
-{36634}{}{Röhögök a szánalmas támadásodon!}
-{36635}{}{Óh!}
-{36636}{}{Szétszaggatlak!}
+{36632}{}{EzÃ©rt megÃ¶llek!}
+{36633}{}{Nem bÃ¡ntasz majd, ha halott leszel!}
+{36634}{}{RÃ¶hÃ¶gÃ¶k a szÃ¡nalmas tÃ¡madÃ¡sodon!}
+{36635}{}{Ã“hhhh!}
+{36636}{}{SzÃ©tszaggatlak!}
 {36637}{}{Grrr! You anger me.}
 {36638}{}{Agh!}
-{36639}{}{Ezt még visszakapod!}
-{36640}{}{Úúf!}
-{36641}{}{Jaj!}
+{36639}{}{Ezt mÃ©g visszakapod!}
+{36640}{}{Uuuuh!}
+{36641}{}{Ãuuh!}
 {36642}{}{Hmm, you might be trouble.}
 {36643}{}{Grrr! I look forward to your death.}
-{36644}{}{Megsebesíthetsz, de nem gyõzhetsz!}
+{36644}{}{MegsebesÃ­thetsz, de nem gyÅ‘zhetsz!}
 {36645}{}{Ow! That wasn't a good idea to hurt me.}
 {36660}{}{Ahhhgh! My leg!}
-{36661}{}{Azt hiszed, ez fájt? Ne nevettess!}
-{36662}{}{Ahhhgh! Ezért még kitekerem a nyakad!}
+{36661}{}{Szerinted ez fÃ¡jt? Csak nevetek!}
+{36662}{}{Ahhhgh! EzÃ©rt kitÃ¶rÃ¶m a nyakad!}
 {36670}{}{Ahhhgh! My leg!}
-{36671}{}{Azt hiszed, ez fájt? Ne nevettess!}
-{36672}{}{Ahhhgh! Ezért még kitekerem a nyakad!}
-{36680}{}{Ahhhgh! Szánalmas ember! Megvakítottál!}
-{36681}{}{Ahhhgh! Fáj! Mit tettél velem?!}
-{36682}{}{Ahhhgh! Soká foglak kínozni!}
-{36690}{}{Ez az emberek gyengesége!}
-{36691}{}{Azt hiszed, ez fájt? Ne nevettess!}
-{36692}{}{Hülye vagy, ember!}
-{36693}{}{Miért támadsz ott?}
-{36694}{}{Órákig kínozlak majd!}
-{36695}{}{Miért támadsz ott?}
-{36700}{}{Fuss!}
-{36701}{}{Nem fogsz megölni!}
-{36702}{}{Visszajövök én még!}
-{36703}{}{A társaim majd elintéznek!}
-{36704}{}{Megfizetsz... késõbb!}
-{36705}{}{Én nem halhatok meg, de te igen! Késõbb!}
-{36720}{}{A halál már vár!}
-{36721}{}{Akik minket zavarnak, mást már nem fognak!}
-{36722}{}{A fegyvereid nem bánthatnak!}
+{36671}{}{Szerinted ez fÃ¡jt? Csak nevetek!}
+{36672}{}{Ahhhgh! EzÃ©rt mÃ©g kitekerem a nyakad!}
+{36680}{}{Ahhhgh! SzÃ¡nalmas ember! MegvakÃ­tottÃ¡l!}
+{36681}{}{Ahhhgh! FÃ¡j! Mit tettÃ©l velem?!}
+{36682}{}{Ahhhgh! SokÃ¡ foglak kÃ­nozni!}
+{36690}{}{Ez az emberek gyengesÃ©ge!}
+{36691}{}{Szerinted ez fÃ¡jt? Csak nevetek!}
+{36692}{}{HÃ¼lye vagy, ember!}
+{36693}{}{MiÃ©rt pont "ott" tÃ¡madsz??}
+{36694}{}{Ã“rÃ¡kig kÃ­nozlak majd!}
+{36695}{}{MiÃ©rt pont "ott" tÃ¡madsz??}
+{36700}{}{FutÃ¡s!}
+{36701}{}{Nem fogsz megÃ¶lni!}
+{36702}{}{VisszajÃ¶vÃ¶k Ã©n mÃ©g!}
+{36703}{}{A tÃ¡rsaim majd elintÃ©znek!}
+{36704}{}{Megfizetsz... kÃ©sÅ‘bb!}
+{36705}{}{Ã‰n nem halhatok meg, de te igen! KÃ©sÅ‘bb!}
+{36720}{}{A halÃ¡l mÃ¡r vÃ¡r!}
+{36721}{}{Akik minket zavarnak, mÃ¡st mÃ¡r nem fognak!}
+{36722}{}{A fegyvereid nem bÃ¡nthatnak!}
 {36723}{}{Szenvedni fogsz, de nagyon!}
-{36724}{}{Ha harcolok, ölök is!}
-{36725}{}{Ki olyan hülye, hogy feldühítsen minket?}
-{36726}{}{Ellenséget látok!}
+{36724}{}{Ha harcolok, Ã¶lÃ¶k is!}
+{36725}{}{Ki olyan hÃ¼lye, hogy feldÃ¼hÃ­tsen minket?}
+{36726}{}{EllensÃ©get lÃ¡tok!}
 {36727}{}{Szenvedni fogsz, de nagyon!}
 {36740}{}{Most meghalsz!}
 {36741}{}{Senki sem menthet meg!}
-{36742}{}{Hadd lássam, ahogy szenvedsz!}
-{36743}{}{Szörnyû halált halsz!}
-{36744}{}{Pusztulj, hülye ember!}
-{36745}{}{Szörnyû halálod lesz!}
+{36742}{}{Hadd lÃ¡ssam, ahogy szenvedsz!}
+{36743}{}{SzÃ¶rnyÅ± halÃ¡lt halsz!}
+{36744}{}{Pusztulj, hÃ¼lye ember!}
+{36745}{}{SzÃ¶rnyÅ± halÃ¡lod lesz!}
 {36746}{}{Szenvedj!}
 {36747}{}{Now I crush you!}
-{36748}{}{Nem gyõzhetsz le minket!}
+{36748}{}{Nem gyÅ‘zhetsz le minket!}
 {36749}{}{Szenvedj, ember!}
-{36760}{}{Miért erõlködsz?}
+{36760}{}{MiÃ©rt erÅ‘lkÃ¶dsz?}
 {36761}{}{Ennyit tudnak az emberek!}
-{36762}{}{Nincs erõd!}
-{36763}{}{Jót röhögök rajtad!}
-{36764}{}{Ez támadás volt netán?}
-{36765}{}{Mi vagyunk az erõsebbek!}
-{44800}{}{Kemény egy fejem van, de ez még nekem is fájt!}
-{44801}{}{Mocskosul megfájdult a fejem!}
-{44802}{}{Ömf. Ne a fejemet!}
-{44803}{}{Fejsérülést én is tudok okozni, sejtheted!}
-{44804}{}{Arrrgh! Szédülök...}
-{44810}{}{A másik karommal foglak legyilkolni!}
-{44811}{}{Nem kell ahhoz két kar, hogy tönkretegyem a napodat!}
-{44812}{}{Ezt a karomat amúgy sem használom sokat.}
-{44813}{}{Ajj! Tudok parittyázni a karommal.}
-{44814}{}{Az egyik karom odalett, de megmaradt a másik!}
-{44820}{}{Hé, ez a fontosabbik karom volt!}
-{44821}{}{Francba, fáj a karom!}
-{44822}{}{A hozzád hasonlókat egy karral is eltángálom.}
+{36762}{}{Nincs erÅ‘d!}
+{36763}{}{JÃ³t rÃ¶hÃ¶gÃ¶k rajtad!}
+{36764}{}{Ez tÃ¡madÃ¡s volt netÃ¡n?}
+{36765}{}{Mi vagyunk az erÅ‘sebbek!}
+{44800}{}{KemÃ©ny egy fejem van, de ez mÃ©g nekem is fÃ¡jt!}
+{44801}{}{Mocskosul megfÃ¡jdult a fejem!}
+{44802}{}{Ã–mf. Ne a fejemet!}
+{44803}{}{FejsÃ©rÃ¼lÃ©st Ã©n is tudok okozni, sejtheted!}
+{44804}{}{Arrrgh! SzÃ©dÃ¼lÃ¶k...}
+{44810}{}{A mÃ¡sik karommal foglak legyilkolni!}
+{44811}{}{Nem kell ahhoz kÃ©t kar, hogy tÃ¶nkretegyem a napodat!}
+{44812}{}{Ezt a karomat amÃºgy sem hasznÃ¡lom sokat.}
+{44813}{}{Ajj! Tudok parittyÃ¡zni a karommal.}
+{44814}{}{Az egyik karom odalett, de megmaradt a mÃ¡sik!}
+{44820}{}{HÃ©, ez a fontosabbik karom volt!}
+{44821}{}{Francba, fÃ¡j a karom!}
+{44822}{}{A hozzÃ¡d hasonlÃ³kat egy karral is eltÃ¡ngÃ¡lom.}
 {44823}{}{A jobb karom... arrgh!}
-{44824}{}{Eltaláltad a karom! Ezért letépem a tiedet!}
-{44830}{}{Ömf... nem... kapok... levegõt.}
-{44831}{}{Na, egyel megint kevesebb bordám lett.}
-{44832}{}{Jaj! Gyûlölöm a haslövéseket.}
-{44833}{}{Arrgghh! Fáj a mellkasom!}
-{44834}{}{Gyomorszáj... atttyaég, ez fájt!}
-{44835}{}{Ez most harc, vagy így szeretnéd felhívni magadra a figyelmet?}
-{44836}{}{Csak szólj, ha ennek fájnia kellett volna, mert akkor felkiáltok a kedvedért.}
-{44837}{}{A mamád tanított harcolni?}
-{44838}{}{Ó, de fáj (ásít). Kérlek, ne bánts többet!}
-{44839}{}{Ha szerinted ez találat, majd mindjárt megmutatom, mi az igazi találat!}
-{44840}{}{Ezért nagyon seggbe rúglak!}
-{44841}{}{Azta! Ez egy kicsit szúr!}
-{44842}{}{Ezért hagytam ott a Menedéket!?}
-{44843}{}{Asszem, pihenõre lesz szükségem.}
-{44844}{}{Aúúúúú! Ez fájt!}
-{44845}{}{Ez egyáltalán nem fájt!}
-{44846}{}{Hol van a stimpakk, amikor szükség van rá?}
-{44847}{}{Amint újra tudok mozogni, neked annyi!}
-{44848}{}{Érzéketlen vagyok a fájdalomra!}
-{44849}{}{Ezért a magam brutál módján fogom megtaposni az arcodat!}
-{44860}{}{Nagyszerû! Én leszek az egyetlen sánta halálkarom.}
-{44861}{}{Ajjaj! A lábam...}
-{44862}{}{A lábaddal fizetsz azért, amit az enyémmel mûveltél!}
-{44863}{}{Hiányozni fog ez a láb...}
-{44864}{}{Nem kell két láb ahhoz, hogy megöljelek.}
-{44870}{}{Nagyszerû! Sánta leszek.}
-{44871}{}{Franc essen beléd! A lábam...}
-{44872}{}{Ne már a lábamat! Nem fogok tudni járni!}
-{44873}{}{Eltörted a lábam, eltörted a lábam!}
-{44874}{}{Arrggh! Fáj a térdem!}
-{44880}{}{Nem látok!}
-{44881}{}{Ne már a szemembe!}
-{44882}{}{Vér... a szemembe vér ment... nem látok.}
-{44883}{}{Nem látlak ugyan, de érzem a szagodat.}
-{44884}{}{Ezután szemüvegre lesz szükségem!}
-{44890}{}{Az ágyéklövés annyira kisstílû dolog!}
-{44891}{}{Ne... próbálj... még egyszer... övön alul!}
-{44892}{}{Ez mocsokság! Mi lenne, ha én is tökön lõnélek?}
-{44893}{}{Gyûlölöm az ágyéklövéseket! Önngh...}
-{44894}{}{Ágyéklövés... Még jó, hogy nem vagyok ember!}
-{44900}{}{Lépjünk olajra!}
-{44901}{}{Én akkor távoznék...}
-{44902}{}{Visszavonulás!}
-{44903}{}{Visszaaa!}
-{44904}{}{Már itt se vagyok!}
-{44905}{}{Lábam, cserben ne hagyj!}
-{44906}{}{El az útból, menekülés van!}
-{44907}{}{Nem menekülök, hanem stratégiailag visszavonulok.}
-{44908}{}{Na, elég ebbõl a szarságból!}
-{44909}{}{El kell tûnnöm!}
-{44920}{}{Gyere csak ide, mindjárt benyomok egyet!}
-{44921}{}{Az enyém vagy!}
-{44922}{}{Válassz: te vagy én... én rád szavazok!}
-{44923}{}{Készülj a temetésedre!}
+{44824}{}{EltalÃ¡ltad a karom! EzÃ©rt letÃ©pem a tiedet!}
+{44830}{}{Ã–mf... nem... kapok... levegÅ‘t.}
+{44831}{}{Na, egyel megint kevesebb bordÃ¡m lett.}
+{44832}{}{Jaj! GyÅ±lÃ¶lÃ¶m a haslÃ¶vÃ©seket.}
+{44833}{}{Arrgghh! FÃ¡j a mellkasom!}
+{44834}{}{GyomorszÃ¡j... atttyaÃ©g, ez fÃ¡jt!}
+{44835}{}{Ez most harc, vagy Ã­gy szeretnÃ©d felhÃ­vni magadra a figyelmet?}
+{44836}{}{Csak szÃ³lj, ha ennek fÃ¡jnia kellett volna, mert akkor felkiÃ¡ltok a kedvedÃ©rt.}
+{44837}{}{A mamÃ¡d tanÃ­tott harcolni?}
+{44838}{}{Ã“, de fÃ¡j (Ã¡sÃ­t). KÃ©rlek, ne bÃ¡nts tÃ¶bbet!}
+{44839}{}{Ha szerinted ez talÃ¡lat, majd mindjÃ¡rt megmutatom, mi az igazi talÃ¡lat!}
+{44840}{}{EzÃ©rt nagyon seggbe rÃºglak!}
+{44841}{}{Azta! Ez egy kicsit szÃºr!}
+{44842}{}{EzÃ©rt hagytam ott a MenedÃ©ket!?}
+{44843}{}{Asszem, pihenÅ‘re lesz szÃ¼ksÃ©gem.}
+{44844}{}{AÃºÃºÃºÃºÃº! Ez fÃ¡jt!}
+{44845}{}{Ez egyÃ¡ltalÃ¡n nem fÃ¡jt!}
+{44846}{}{Hol van a stimpakk, amikor szÃ¼ksÃ©g van rÃ¡?}
+{44847}{}{Amint Ãºjra tudok mozogni, neked annyi!}
+{44848}{}{Ã‰rzÃ©ketlen vagyok a fÃ¡jdalomra!}
+{44849}{}{EzÃ©rt a magam brutÃ¡l mÃ³djÃ¡n fogom megtaposni az arcodat!}
+{44860}{}{NagyszerÅ±! Ã‰n leszek az egyetlen sÃ¡nta halÃ¡lkarom.}
+{44861}{}{Ajjaj! A lÃ¡bam...}
+{44862}{}{A lÃ¡baddal fizetsz azÃ©rt, amit az enyÃ©mmel mÅ±veltÃ©l!}
+{44863}{}{HiÃ¡nyozni fog ez a lÃ¡b...}
+{44864}{}{Nem kell kÃ©t lÃ¡b ahhoz, hogy megÃ¶ljelek.}
+{44870}{}{NagyszerÅ±! SÃ¡nta leszek.}
+{44871}{}{Franc essen belÃ©d! A lÃ¡bam...}
+{44872}{}{Ne mÃ¡r a lÃ¡bamat! Nem fogok tudni jÃ¡rni!}
+{44873}{}{EltÃ¶rted a lÃ¡bam, eltÃ¶rted a lÃ¡bam!}
+{44874}{}{Arrggh! FÃ¡j a tÃ©rdem!}
+{44880}{}{Nem lÃ¡tok!}
+{44881}{}{Ne mÃ¡r a szemembe!}
+{44882}{}{VÃ©r... a szemembe vÃ©r ment... nem lÃ¡tok.}
+{44883}{}{Nem lÃ¡tlak ugyan, de Ã©rzem a szagodat.}
+{44884}{}{EzutÃ¡n szemÃ¼vegre lesz szÃ¼ksÃ©gem!}
+{44890}{}{Az Ã¡gyÃ©klÃ¶vÃ©s annyira kisstÃ­lÅ± dolog!}
+{44891}{}{Ne... prÃ³bÃ¡lj... mÃ©g egyszer... Ã¶vÃ¶n alul!}
+{44892}{}{Ez mocsoksÃ¡g! Mi lenne, ha Ã©n is tÃ¶kÃ¶n lÅ‘nÃ©lek?}
+{44893}{}{GyÅ±lÃ¶lÃ¶m az Ã¡gyÃ©klÃ¶vÃ©seket! Ã–nngh...}
+{44894}{}{ÃgyÃ©klÃ¶vÃ©s... MÃ©g jÃ³, hogy nem vagyok ember!}
+{44900}{}{LÃ©pjÃ¼nk olajra!}
+{44901}{}{Ã‰n akkor tÃ¡voznÃ©k...}
+{44902}{}{VisszavonulÃ¡s!}
+{44903}{}{Fussatok!}
+{44904}{}{Na, Ã©n lelÃ©ptem!}
+{44905}{}{LÃ¡bam, cserben ne hagyj!}
+{44906}{}{El az ÃºtbÃ³l, menekÃ¼lÃ©s van!}
+{44907}{}{Nem menekÃ¼lÃ¶k, hanem stratÃ©giailag visszavonulok.}
+{44908}{}{Na, elÃ©g ebbÅ‘l a szarsÃ¡gbÃ³l!}
+{44909}{}{El kell tÅ±nnÃ¶m!}
+{44920}{}{Gyere csak ide, mindjÃ¡rt benyomok egyet!}
+{44921}{}{Az enyÃ©m vagy!}
+{44922}{}{VÃ¡lassz: te vagy Ã©n... Ã©n rÃ¡d szavazok!}
+{44923}{}{KÃ©szÃ¼lj a temetÃ©sedre!}
 {44924}{}{Gyere, most megkapod!}
-{44925}{}{Most utolér a végzeted!}
-{44926}{}{Addig búcsúzkodj, amíg tudsz!}
-{44927}{}{Most ellátom a bajodat!}
+{44925}{}{Most utolÃ©r a vÃ©gzeted!}
+{44926}{}{Addig bÃºcsÃºzkodj, amÃ­g tudsz!}
+{44927}{}{Most ellÃ¡tom a bajodat!}
 {44928}{}{Bulizzunk!}
-{44929}{}{Itt jövök!}
-{44930}{}{Találkozunk a tûzvonalban!}
-{44931}{}{Na, itt az idõ, hogy valakibe belekössek!}
-{44932}{}{Elõre a végsõ megsemmisítés útján!}
-{44933}{}{Embermódra bánok el most veled!}
-{44934}{}{Itt az idõ egy kis adok-kapokra!}
-{44935}{}{Most összeakasztjuk a bajszunkat!}
-{44936}{}{Itt jön a rosszaság!}
-{44937}{}{Itt jövök, nézd csak!}
-{44938}{}{Célpont bemérve, célra tartok!}
-{44939}{}{Most jön a vihar!}
-{44940}{}{Most bántalmazni foglak... de nagyon!}
-{44941}{}{Ez sokkal jobban fog fájni neked, mint nekem!}
-{44942}{}{Csináld másokkal, mielõtt õk csinálják veled!}
-{44943}{}{Ha van még olyan részed, ami nem fájt eddig, most az is fájni fog!}
-{44944}{}{Test-test ellen. Imádom!}
-{44945}{}{Mondd meg a neved, hogy értesíthessem a családodat!}
-{44946}{}{Én vagyok az, aki a halált rakta a halálkarom szóba!}
+{44929}{}{Itt jÃ¶vÃ¶k!}
+{44930}{}{TalÃ¡lkozunk a tÅ±zvonalban!}
+{44931}{}{Na, itt az idÅ‘, hogy valakibe belekÃ¶ssek!}
+{44932}{}{ElÅ‘re a vÃ©gsÅ‘ megsemmisÃ­tÃ©s ÃºtjÃ¡n!}
+{44933}{}{EmbermÃ³dra bÃ¡nok el most veled!}
+{44934}{}{Itt az idÅ‘ egy kis adok-kapokra!}
+{44935}{}{Most Ã¶sszeakasztjuk a bajszunkat!}
+{44936}{}{Itt jÃ¶n a rosszasÃ¡g!}
+{44937}{}{Itt jÃ¶vÃ¶k, nÃ©zd csak!}
+{44938}{}{CÃ©lpont bemÃ©rve, cÃ©lra tartok!}
+{44939}{}{Most jÃ¶n a vihar!}
+{44940}{}{Most bÃ¡ntalmazni foglak... de nagyon!}
+{44941}{}{Ez sokkal jobban fog fÃ¡jni neked, mint nekem!}
+{44942}{}{CsinÃ¡ld mÃ¡sokkal, mielÅ‘tt Å‘k csinÃ¡ljÃ¡k veled!}
+{44943}{}{Ha van mÃ©g olyan rÃ©szed, ami nem fÃ¡jt eddig, most az is fÃ¡jni fog!}
+{44944}{}{Test-test ellen. ImÃ¡dom!}
+{44945}{}{Mondd meg a neved, hogy Ã©rtesÃ­thessem a csalÃ¡dodat!}
+{44946}{}{Ã‰n vagyok az, aki a halÃ¡lt rakta a halÃ¡lkarom szÃ³ba!}
 {44947}{}{Jobb adni, mint kapni!}
-{44948}{}{Remélem, legalább annyira élvezed, mint én!}
-{44949}{}{Csak nem fájt? Ha nem, legközelebb majd fog.}
-{44950}{}{Hohó, itt mindjárt vérezni fog valaki!}
-{44951}{}{Ha végeztem, nem fognak egy stimpakkal helyrehozni.}
-{44952}{}{Remélem, van egészségügyi biztosításod. Szükséged lesz rá!}
-{44953}{}{Ideverek, odaverek, megjöttek a pulóverek...}
-{44954}{}{Nem érdekel, ki kezdte, de most szépen befejezzük!}
-{44955}{}{Szeretem a szakadó hús hangját. Te nem?}
-{44956}{}{Ez még csak a bemelegítés, a java csak most jön!}
-{44957}{}{Na, élesítsük meg egy kicsit a körmeinket...}
-{44958}{}{Hoppá! Remélem, ez nem hiányzott!}
-{44959}{}{Csak akkor távozom, ha helybenhagytalak!}
-{44960}{}{Segítene, ha egyszerûen csak álldogálnék?}
-{44961}{}{Szemüveg! Be kéne ruházni egy szemüvegbe!}
-{44962}{}{Lerajzoljam a célpontot?}
-{44963}{}{Miért oda célzol, amikor itt vagyok?}
-{44964}{}{Remélem, nincs szándékodban karriert csinálni ebbõl.}
-{44965}{}{Hogy tudtál egy ekkora célpontot elvéteni?}
-{44966}{}{Ha! Argh grrnnngh thppppt! (Halálkarom gúnyolódás)}
-{44967}{}{Ügyes kis szaros vagyok, mi?}
-{44968}{}{Örülhetsz, hogy az anyád nem látta ezt.}
-{44969}{}{Tényleg többet kéne gyakorolnod.}
-{44970}{}{Ez nagyon zavarba ejtõ. Nem mondom el senkinek, milyen béna vagy..}
-{44971}{}{Szóval arra képeztek ki, hogy ne találd el a célpontot?}
-{44972}{}{Ez nem akaszt ki téged?}
-{44973}{}{Ne sírj! Talán majd legközelebb sikerül.}
-{44974}{}{Remek, Grace! Mi lesz a ráadás?}
-{44975}{}{Ez kiváló példája volt annak, hogy lehet elvéteni egy célpontot.}
-{44976}{}{Kezdem azt hinni, hogy téged nem erre találtak ki.}
-{44977}{}{Azt akarod, hogy halálra röhögjem magam?}
-{44978}{}{Ezzel mondjuk megkavartad kissé a levegõt, de semmi egyéb!}
-{44979}{}{Elvétettél vagy mifene?}
+{44948}{}{RemÃ©lem, legalÃ¡bb annyira Ã©lvezed, mint Ã©n!}
+{44949}{}{Csak nem fÃ¡jt? Ha nem, legkÃ¶zelebb majd fog.}
+{44950}{}{HohÃ³, itt mindjÃ¡rt vÃ©rezni fog valaki!}
+{44951}{}{Ha vÃ©geztem, nem fognak egy stimpakkal helyrehozni.}
+{44952}{}{RemÃ©lem, van egÃ©szsÃ©gÃ¼gyi biztosÃ­tÃ¡sod. SzÃ¼ksÃ©ged lesz rÃ¡!}
+{44953}{}{Ideverek, odaverek, megjÃ¶ttek a pulÃ³verek...}
+{44954}{}{Nem Ã©rdekel, ki kezdte, de most szÃ©pen befejezzÃ¼k!}
+{44955}{}{Szeretem a szakadÃ³ hÃºs hangjÃ¡t. Te nem?}
+{44956}{}{Ez mÃ©g csak a bemelegÃ­tÃ©s, a java csak most jÃ¶n!}
+{44957}{}{Na, Ã©lesÃ­tsÃ¼k meg egy kicsit a kÃ¶rmeinket...}
+{44958}{}{HoppÃ¡! RemÃ©lem, ez nem hiÃ¡nyzott!}
+{44959}{}{Csak akkor tÃ¡vozom, ha helybenhagytalak!}
+{44960}{}{SegÃ­tene, ha egyszerÅ±en csak Ã¡lldogÃ¡lnÃ©k?}
+{44961}{}{SzemÃ¼veg! Be kÃ©ne ruhÃ¡zni egy szemÃ¼vegbe!}
+{44962}{}{Lerajzoljam a cÃ©lpontot?}
+{44963}{}{MiÃ©rt oda cÃ©lzol, amikor itt vagyok?}
+{44964}{}{RemÃ©lem, nincs szÃ¡ndÃ©kodban karriert csinÃ¡lni ebbÅ‘l.}
+{44965}{}{Hogy tudtÃ¡l egy ekkora cÃ©lpontot elvÃ©teni?}
+{44966}{}{Ha! Argh grrnnngh thppppt! (HalÃ¡lkarom gÃºnyolÃ³dÃ¡s)}
+{44967}{}{Ãœgyes kis szaros vagyok, mi?}
+{44968}{}{Ã–rÃ¼lhetsz, hogy az anyÃ¡d nem lÃ¡tta ezt.}
+{44969}{}{TÃ©nyleg tÃ¶bbet kÃ©ne gyakorolnod.}
+{44970}{}{Ez nagyon zavarba ejtÅ‘. Nem mondom el senkinek, milyen bÃ©na vagy..}
+{44971}{}{SzÃ³val arra kÃ©peztek ki, hogy ne talÃ¡ld el a cÃ©lpontot?}
+{44972}{}{Ez nem akaszt ki tÃ©ged?}
+{44973}{}{Ne sÃ­rj! TalÃ¡n majd legkÃ¶zelebb sikerÃ¼l.}
+{44974}{}{Remek, Grace! Mi lesz a rÃ¡adÃ¡s?}
+{44975}{}{Ez kivÃ¡lÃ³ pÃ©ldÃ¡ja volt annak, hogy lehet elvÃ©teni egy cÃ©lpontot.}
+{44976}{}{Kezdem azt hinni, hogy tÃ©ged nem erre talÃ¡ltak ki.}
+{44977}{}{Azt akarod, hogy halÃ¡lra rÃ¶hÃ¶gjem magam?}
+{44978}{}{Ezzel mondjuk megkavartad kissÃ© a levegÅ‘t, de semmi egyÃ©b!}
+{44979}{}{ElvÃ©tettÃ©l vagy mifene?}

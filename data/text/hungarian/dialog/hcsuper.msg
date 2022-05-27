@@ -1,63 +1,63 @@
-{100}{}{Egy furcsa, rongyosbõrû, mutáns valamit látsz, aminek rémes a mosolya.}
-{101}{}{A finomító felügyelõjét látod.}
-{102}{}{Egy ghoult látsz. A bõre úgy fest, mintha bármelyik pillanatban hajlandó lenne leválni a gazdájáról. Úgy tûnik, a többi falubeli még így is szívesen befogadta.}
+{100}{}{Egy furcsa, rongyosbÅ‘rÅ± mutÃ¡ns izÃ©t lÃ¡tsz, aminek rÃ©mes a mosolya.}
+{101}{}{A finomÃ­tÃ³ felÃ¼gyelÅ‘jÃ©t lÃ¡tod.}
+{102}{}{Egy ghoult lÃ¡tsz. A bÅ‘re Ãºgy fest, mintha bÃ¡rmelyik pillanatban hajlandÃ³ lenne levÃ¡lni a gazdÃ¡jÃ¡rÃ³l. Ãšgy tÅ±nik, a tÃ¶bbi falubeli mÃ©g Ã­gy is szÃ­vesen befogadta.}
 {103}{}{Nem kellene itt lenned!}
-{104}{}{Mit akarsz?}
-{105}{}{Da jagga! Ííp úúp op!}
+{104}{}{Mit akar?}
+{105}{}{Da jagga! ÃÃ­p ÃºÃºp op!}
 {106}{}{Nemtom.}
-{107}{}{Van nálam egy kis finomítani való érc.}
-{108}{}{Ki vagy te?}
-{109}{}{Mi ez a hely tulajdonképpen?}
-{110}{}{Szeretnék venni egy kevéske uránt.}
+{107}{}{Van nÃ¡lam egy kis Ã©rc finomÃ­tÃ¡s cÃ©ljÃ¡bÃ³l.}
+{108}{}{Ki vagy?}
+{109}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{110}{}{Egy kevÃ©s urÃ¡nt szeretnÃ©k.}
 {111}{}{Semmi.}
-{112}{}{Felejtse el! Üdv!}
-{113}{}{Figyelj, fiam, sajnálom, hogy nincs agyad, de nem lehetsz itt. Sipirc kifelé!}
+{112}{}{Felejtse el! Ãœdv!}
+{113}{}{Figyelj, fiam, sajnÃ¡lom, hogy nincs agyad, de nem lehetsz itt. Sipirc kifelÃ©!}
 {114}{}{[DONE]}
-{115}{}{Nem maradhatsz itt! Veszélyes. Menj innen!}
+{115}{}{Nem maradhatsz itt. VeszÃ©lyes. Menj innen!}
 {116}{}{[DONE]}
-{117}{}{Nagyszerû! 1000 dollár lesz, alku nincs. Talán drágának találod, de ez semmi ahhoz képest, amit a végtermékért kaphatsz egy megfelelõ vevõtõl.}
-{118}{}{Áll az alku.}
-{119}{}{1000 dollár? Ez nevetséges. Verd ki a fejedbõl!}
-{120}{}{Én vagyok a finomító felügyelõje. Mit akarsz?}
-{121}{}{Mi ez a hely tulajdonképpen?}
-{122}{}{Van nálam némi érc finomítás céljából.}
-{123}{}{Szeretnék venni egy kevéske uránt.}
+{117}{}{NagyszerÅ±! 1000 dollÃ¡r lesz, alku nincs. TalÃ¡n drÃ¡gÃ¡nak talÃ¡lod, de ez semmi ahhoz kÃ©pest, amit a vÃ©gtermÃ©kÃ©rt kaphatsz egy megfelelÅ‘ vevÅ‘tÅ‘l.}
+{118}{}{Ãll az alku.}
+{119}{}{1000 dollÃ¡r? Ez nevetsÃ©ges. Felejtsd el!}
+{120}{}{Ã‰n vagyok a finomÃ­tÃ³ felÃ¼gyelÅ‘je. Mit akarsz?}
+{121}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{122}{}{Van nÃ¡lam nÃ©mi finomÃ­tandÃ³ Ã©rc.}
+{123}{}{Egy kevÃ©s urÃ¡nt szeretnÃ©k.}
 {124}{}{Semmi.}
-{125}{}{Ez Broken Hills finomítója. Itt tisztítjuk meg a bányából kitermelt ércet. Mi járatban vagy?}
-{126}{}{Mi ez a hely tulajdonképpen?}
-{127}{}{Van nálam némi érc finomítás céljából.}
-{128}{}{Szeretnék venni egy kevéske uránt.}
+{125}{}{Ez Broken Hills finomÃ­tÃ³ja. Itt tisztÃ­tjuk meg a bÃ¡nyÃ¡bÃ³l kitermelt Ã©rcet. Mi jÃ¡ratban vagy?}
+{126}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{127}{}{Van nÃ¡lam nÃ©mi finomÃ­tandÃ³ Ã©rc.}
+{128}{}{Egy kevÃ©s urÃ¡nt szeretnÃ©k.}
 {129}{}{Semmi.}
-{130}{}{Nincs nálad elég pénz. Gyere vissza, ha lesz!}
+{130}{}{Nincs nÃ¡lad elÃ©g pÃ©nz. Gyere vissza, ha lesz!}
 {131}{}{[DONE]}
-{132}{}{Rendben. Adj egy napot, és már viheted is.}
-{133}{}{Nagyszerû! Viszlát!}
+{132}{}{Rendben. Adj egy napot, Ã©s mÃ¡r viheted is!}
+{133}{}{NagyszerÅ±! ViszlÃ¡t!}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
  should do it. You want it or not?}
 {135}{}{Igen.}
 {136}{}{Nem.}
-{137}{}{Rendben. Akkor nincs itt semmi keresnivalód! Kérlek, távozz, hadd folytassuk a munkánkat!}
-{138}{}{Viszlát!}
-{139}{}{Ez nevetséges! Ebbõl él a város! Nem adhatunk el uránt.}
+{137}{}{Rendben. Akkor nincs itt semmi keresnivalÃ³d. KÃ©rlek, tÃ¡vozz, hadd folytassuk a munkÃ¡nkat!}
+{138}{}{ViszlÃ¡t!}
+{139}{}{Ez nevetsÃ©ges! Mi nem adunk el urÃ¡nt.}
 {140}{}{Akkor meghaltok!}
-{141}{}{Remek. Üdv!}
-{142}{}{Hé! Menj onnan, vagy számolnod kell a következményekkel!}
-{143}{}{Kifelé a finomítómból! Azonnal!}
-{144}{}{Még dolgozunk az érced finomításán. Kell még egy kis idõ. Ez a fajta munka nem megy tapsra.}
-{145}{}{Kérdeznék pár dolgot.}
-{146}{}{Remek. Üdv!}
-{147}{}{Kész ez érced. Mielõtt elvinnéd, figyelj: a városunknak nagy szüksége van az uránra. Ha ezt nekünk adod, visszafizetem a pénzed. Sõt, ha pénz kérdése az egész, akkor meg tudom toldani még 500 dollárral, hogy megérje neked. Kérlek! A bányában történtek után Broken Hillsnek nagy szüksége lenne rá. Mi a válaszod?}
-{148}{}{Szó sem lehet róla!}
-{149}{}{Persze. Ne törõdj az 500-zal se, nektek talán jobban kell, mint nekem!}
-{150}{}{Rendben. Úgy legyen. Itt az érced. Most pedig távozz!}
-{151}{}{Viszlát!}
-{152}{}{Kösz szépen! Itt a pénzed. Broken Hills nem fogja ezt elfelejteni neked.}
-{153}{}{Nem gond.}
+{141}{}{Remek. ViszlÃ¡t!}
+{142}{}{HÃ©! Menj onnan, vagy szÃ¡molnod kell a kÃ¶vetkezmÃ©nyekkel!}
+{143}{}{KifelÃ© a finomÃ­tÃ³mbÃ³l! Azonnal!}
+{144}{}{MÃ©g dolgozunk az Ã©rced finomÃ­tÃ¡sÃ¡n. Kell mÃ©g egy kis idÅ‘. Ez a fajta munka nem megy tapsra.}
+{145}{}{KÃ©rdeznÃ©k pÃ¡r dolgot.}
+{146}{}{Remek. ViszlÃ¡t!}
+{147}{}{KÃ©sz ez Ã©rced. MielÅ‘tt elvinnÃ©d, figyelj: a vÃ¡rosunknak nagy szÃ¼ksÃ©ge van az urÃ¡nra. Ha ezt nekÃ¼nk adod, visszafizetem a pÃ©nzed. SÅ‘t, ha pÃ©nz kÃ©rdÃ©se az egÃ©sz, akkor meg tudom toldani mÃ©g 500 dollÃ¡rral, hogy megÃ©rje neked. KÃ©rlek! A bÃ¡nyÃ¡ban tÃ¶rtÃ©ntek utÃ¡n Broken Hillsnek nagy szÃ¼ksÃ©ge lenne rÃ¡. Mi a vÃ¡laszod?}
+{148}{}{SemmikÃ©pp.}
+{149}{}{Persze. Ne tÃ¶rÅ‘dj az 500-zal se, nektek talÃ¡n jobban kell, mint nekem!}
+{150}{}{Rendben. Ãšgy legyen. Itt az Ã©rced. Most pedig tÃ¡vozz!}
+{151}{}{ViszlÃ¡t!}
+{152}{}{KÃ¶sz szÃ©pen! Itt a pÃ©nzed. Broken Hills nem fogja ezt elfelejteni neked.}
+{153}{}{Nem problÃ©ma.}
 {154}{}{Mondtam, hogy menj innen!}
-{155}{}{...a kis mocskok bejönnek ide és [morgolódik, panaszkodik]...}
+{155}{}{...a kis mocskok bejÃ¶nnek ide Ã©s [morgolÃ³dik, panaszkodik]...}
 {156}{}{Plusz 500? Persze, elfogadom.}
-{157}{}{Köszönöm! Itt a pénzed és a plusz 500 dollár.}
-{158}{}{Nagyszerû! Köszönöm.}
-{159}{}{Felfedezted, hogyan lehet uránércet finomíttatni Broken Hillsben.}
-{160}{}{Visszaadtad a finomított ércet Broken Hills városának.}
-{161}{}{Eladtad a finomított ércet Broken Hills városának.}
+{157}{}{KÃ¶szÃ¶nÃ¶m! Itt a pÃ©nzed Ã©s a plusz 500 dollÃ¡r.}
+{158}{}{NagyszerÅ±! KÃ¶szÃ¶nÃ¶m.}
+{159}{}{Felfedezted, hogyan lehet urÃ¡nÃ©rcet finomÃ­ttatni Broken Hillsben.}
+{160}{}{Visszaadtad a finomÃ­tott Ã©rcet Broken Hills vÃ¡rosÃ¡nak.}
+{161}{}{Eladtad a finomÃ­tott Ã©rcet Broken Hills vÃ¡rosÃ¡nak.}

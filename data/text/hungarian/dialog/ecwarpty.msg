@@ -1,8 +1,8 @@
-{150}{}{Hagyd el a földünket!}
-{151}{}{Behatoltál ide!}
-{152}{}{Ez a mi földünk!}
-{153}{}{Az ég szellemei sújtsanak!}
-{154}{}{A föld szelleme nyeljen el téged!}
-{155}{}{Fújjanak ocsmányt bûzt feléd a szél szellemei!}
-{156}{}{Hagyjanak cserben a víz szellemei!}
-{157}{}{A nagy tûzszellemek hozzanak átkot rád!}
+{150}{}{Hagyd el a fÃ¶ldÃ¼nket!}
+{151}{}{BehatoltÃ¡l ide!}
+{152}{}{Ez a mi fÃ¶ldÃ¼nk!}
+{153}{}{Az Ã©g szellemei sÃºjtsanak!}
+{154}{}{A fÃ¶ld szelleme nyeljen el tÃ©ged!}
+{155}{}{FÃºjjanak ocsmÃ¡nyt bÅ±zt felÃ©d a szÃ©l szellemei!}
+{156}{}{Hagyjanak cserben a vÃ­z szellemei!}
+{157}{}{A nagy tÅ±zszellemek hozzanak Ã¡tkot rÃ¡d!}

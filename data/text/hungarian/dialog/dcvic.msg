@@ -1,277 +1,277 @@
 {100}{}{Rabszolga.}
 {101}{}{Vic.}
-{150}{}{Úgy tûnik, ezt a rabszolgát nagyon szemmel tartják.}
-{151}{}{Õ Vic.}
-{152}{}{[Beszélgetés]}
-{153}{}{Megmondaná neki, hogy én nem... na megálljunk! Ki vagy te? Te nem vagy hajcsár. Mit keresel itt?}
+{150}{}{Ãšgy tÅ±nik, ezt a rabszolgÃ¡t nagyon szemmel tartjÃ¡k.}
+{151}{}{Å Vic.}
+{152}{}{[BeszÃ©d]}
+{153}{}{MegmondanÃ¡ neki, hogy Ã©n nem... na megÃ¡lljunk! Ki vagy te? Te nem vagy hajcsÃ¡r. Mit keresel itt?}
 {154}{}{A nevem }
-{155}{}{. Azért jöttem, hogy megszöktesselek.}
-{156}{}{Én }
-{157}{}{ az én nevem, de téged miért zártak be ebbe a szobába?}
-{158}{}{Meg tudnád mondani, merre van a 13-as Menedék?}
-{159}{}{Én }
-{160}{}{ a nevem. Késõbb még visszajövök.}
+{155}{}{. AzÃ©rt jÃ¶ttem, hogy megszÃ¶ktesselek.}
+{156}{}{A nevem }
+{157}{}{ az Ã©n nevem, de tÃ©ged miÃ©rt zÃ¡rtak be ebbe a szobÃ¡ba?}
+{158}{}{Meg tudnÃ¡d mondani, merre van a 13-as MenedÃ©k?}
+{159}{}{A nevem }
+{160}{}{ a nevem. KÃ©sÅ‘bb mÃ©g visszajÃ¶vÃ¶k.}
 {161}{}{Dubba iba }
-{162}{}{ vagyok.}
-{163}{}{Metzger még mindig nagyon mérges rám, annak ellenére, hogy megjavítottuk azt a nyamvadt rádióját. Azzal fenyeget, hogy elad valakinek! Ha kijuttatsz ebbõl a nagy rakás kupiból, bármit megteszek neked, amire csak kérsz!}
+{162}{}{ dollÃ¡r.}
+{163}{}{Metzger mÃ©g mindig nagyon mÃ©rges rÃ¡m, annak ellenÃ©re, hogy megjavÃ­tottuk azt a nyamvadt rÃ¡diÃ³jÃ¡t. Azzal fenyeget, hogy elad valakinek! Ha kijuttatsz ebbÅ‘l a nagy rakÃ¡s kupibÃ³l, bÃ¡rmit megteszek neked, amire csak kÃ©rsz!}
 {164}{}{Renden, rendben.}
-{165}{}{Bocsi, nem tudlak. Minden jót!}
-{166}{}{Hohóóó.}
+{165}{}{Bocsi, nem tudlak. Minden jÃ³t!}
+{166}{}{HohÃ³Ã³Ã³.}
 {167}{}{Oh, hi again. This darn radio isn't going to repair itself. How does
  he expect me to fix it?}
-{168}{}{Hol találok ilyen pótalkatrészeket?}
-{169}{}{Én talán meg tudnám javítani.}
-{170}{}{Hasznát vennéd ennek a rádiónak, amit találtam?}
-{171}{}{Megnézem, mit tehetek.}
+{168}{}{Honnan szerezhetnÃ©m be az alkatrÃ©szeket?}
+{169}{}{Ã‰n talÃ¡n meg tudnÃ¡m javÃ­tani.}
+{170}{}{HasznÃ¡t vennÃ©d ennek a rÃ¡diÃ³nak, amit talÃ¡ltam?}
+{171}{}{Majd kiderÃ¼l, mit tudok tenni az Ã¼gy Ã©rdekÃ©ben.}
 {172}{}{Spa pa?}
 {173}{}{I know I can do it, I just need some spare parts. There is an old radio in
  my shack back in Klamath that has exactly what I need. You been to the Dunton's?
  My shack's... well, it was just east of their place.}
-{174}{}{Erre a rádióra gondolsz?}
-{175}{}{Megyek és megkeresem!}
+{174}{}{Erre a rÃ¡diÃ³ra gondolsz?}
+{175}{}{Megyek Ã©s megkeresem!}
 {176}{}{Hmmm... I'll be back.}
-{177}{}{Nagyszerû! Pillanatokon belül megjavítom a rádiót!}
-{178}{}{Oké, beszélek Metzgerrel.}
-{179}{}{Köszi.}
-{180}{}{Viszlát!}
-{181}{}{Hogy? Elnézést, de nem értem.}
+{177}{}{NagyszerÅ±! Pillanatokon belÃ¼l megjavÃ­tom a rÃ¡diÃ³t!}
+{178}{}{OkÃ©, beszÃ©lek Metzgerrel.}
+{179}{}{KÃ¶sz.}
+{180}{}{ViszlÃ¡t!}
+{181}{}{Hogy? ElnÃ©zÃ©st, de nem Ã©rtem.}
 {182}{}{Hmm.}
-{183}{}{Köszönöm szépen! Örökké adósod maradok. Hogyan hálálhatnám meg?}
-{184}{}{Mondd meg, hol van a 13-as Menedék!}
-{186}{}{Csatlakozz hozzám! Jól jönne a segítség!}
-{187}{}{Á, semmiség, ugyan már! Ég veled!}
+{183}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen! Ã–rÃ¶kkÃ© adÃ³sod maradok. Hogyan hÃ¡lÃ¡lhatnÃ¡m meg?}
+{184}{}{Mondd meg, hol van a 13-as MenedÃ©k!}
+{186}{}{Csatlakozz hozzÃ¡m! JÃ³l jÃ¶nne a segÃ­tsÃ©g!}
+{187}{}{Ã, semmisÃ©g, ugyan mÃ¡r! Ã‰g veled!}
 {188}{}{Van cukorka?}
-{189}{}{A 13-as Menedék? Innen keletre ott van Menedékváros. Néhányszor jártam ott üzletelni.}
-{190}{}{Eljössz velem oda?}
-{191}{}{Kösz. Viszlát!}
-{192}{}{Naná! Beállok hozzád! Ez a vén trotty már látott egy-két érdekes dolgot, ebben biztos vagyok! Ráadásul szinte mindent meg tudok szerelni, bármit is mondjon Metzger!}
-{193}{}{Nagyszerû, induljunk!}
-{194}{}{Üdvözöllek a csapatban!}
-{195}{}{Ahogy gondolja.}
-{196}{}{Vic legjobb barátom!}
-{197}{}{Akarsz segíteni a keresésben?}
-{198}{}{Nagyszerû! Köszönöm.}
-{203}{}{Menedékváros innen keletre van. Mindjárt megmutatom a térképeden.}
-{204}{}{Köszi.}
-{206}{}{Pontosan itt van. [egy térképre mutat]}
-{220}{}{A fene egye meg! Majdnem megvan, de szükségem lenne a rádiómra a klamath-i házamból. Tudom, hogy pontosan ugyanolyan alkatrészek vannak benne, mint amik nekem kellenek.}
-{300}{}{Ja, valószínûleg tudok rajtad segíteni, de elõtte ki kell hoznod engem innen.}
-{301}{}{Megmondtam. Amennyiben ki tudsz innen jutattni, rám bármiben számíthatsz.}
-{302}{}{Hogy kellene csinálni?}
-{303}{}{Akkor saját magadra vagy utalva.}
-{304}{}{Okés, majd meglátom mit tehetnék ezügyben.}
-{350}{}{Szerinted én ki tudnálak innen hozni?}
-{351}{}{Metzger még mindig nem enged elmenni.}
-{352}{}{Én nem bírom itt tovább!}
-{353}{}{Akármit megteszek érted, ha segítesz rajtam!}
-{354}{}{Megtérítem az összes költségedet!}
-{400}{}{Ugye még nem voltál a házamban? Tényleg nagyon kellene az a rádió, Metzger kezd egyre jobban begõzölni!}
+{189}{}{A 13-as MenedÃ©k? Innen keletre ott van MenedÃ©kvÃ¡ros. NÃ©hÃ¡nyszor jÃ¡rtam ott Ã¼zletelni.}
+{190}{}{EljÃ¶ssz velem oda?}
+{191}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{192}{}{NanÃ¡! BeÃ¡llok hozzÃ¡d! Ez a vÃ©n trotty mÃ¡r lÃ¡tott egy-kÃ©t Ã©rdekes dolgot, ebben biztos vagyok! RÃ¡adÃ¡sul szinte mindent meg tudok szerelni, bÃ¡rmit is mondjon Metzger!}
+{193}{}{NagyszerÅ±, induljunk!}
+{194}{}{ÃœdvÃ¶zÃ¶llek a csapatban!}
+{195}{}{JÃ³l van, jÃ³l van...}
+{196}{}{Vic legjobb barÃ¡tom!}
+{197}{}{Akarsz segÃ­teni a keresÃ©sben?}
+{198}{}{Nagyon jÃ³! KÃ¶sz!}
+{203}{}{MenedÃ©kvÃ¡ros innen keletre van. MindjÃ¡rt megmutatom a tÃ©rkÃ©peden.}
+{204}{}{KÃ¶sz.}
+{206}{}{Pontosan itt van. [egy tÃ©rkÃ©pre mutat]}
+{220}{}{A fene egye meg! Majdnem megvan, de szÃ¼ksÃ©gem lenne a rÃ¡diÃ³mra a klamath-i hÃ¡zambÃ³l. Tudom, hogy pontosan ugyanolyan alkatrÃ©szek vannak benne, mint amik nekem kellenek.}
+{300}{}{Ja, valÃ³szÃ­nÅ±leg tudok rajtad segÃ­teni, de elÅ‘tte ki kell hoznod engem innen.}
+{301}{}{Megmondtam. Amennyiben ki tudsz innen jutattni, rÃ¡m bÃ¡rmiben szÃ¡mÃ­thatsz.}
+{302}{}{Hogy kellene csinÃ¡lni?}
+{303}{}{Akkor sajÃ¡t magadra vagy utalva.}
+{304}{}{OkÃ©s, majd meglÃ¡tom mit tehetnÃ©k ezÃ¼gyben.}
+{350}{}{Szerinted Ã©n ki tudnÃ¡lak innen hozni?}
+{351}{}{Metzger mÃ©g mindig nem enged elmenni.}
+{352}{}{Ã‰n nem bÃ­rom itt tovÃ¡bb!}
+{353}{}{AkÃ¡rmit megteszek Ã©rted, ha segÃ­tesz rajtam!}
+{354}{}{MegtÃ©rÃ­tem az Ã¶sszes kÃ¶ltsÃ©gedet!}
+{400}{}{Ugye mÃ©g nem voltÃ¡l a hÃ¡zamban? TÃ©nyleg nagyon kellene az a rÃ¡diÃ³, Metzger kezd egyre jobban begÅ‘zÃ¶lni!}
 {450}{}{Honnan szerezted azt a kulacsot?}
-{451}{}{Van egy kulacsom, rajta egy bazi nagy sárga tizenhármassal. Emlékszel még, honnan szerezted?}
-{500}{}{Na, ja! Emlékszem bizony. Ed-tõl vettem. Õ egy menedékvárosi brahminkupec.}
+{451}{}{Van egy kulacsom, rajta egy bazi nagy sÃ¡rga tizenhÃ¡rmassal. EmlÃ©kszel mÃ©g, honnan szerezted?}
+{500}{}{Na, ja! EmlÃ©kszem bizony. Ed-tÅ‘l vettem. Å egy menedÃ©kvÃ¡rosi brahminkupec.}
 {501}{}{Water Flask? Oh, wait. Yea, I had a few dozen of'm. Sold pretty well. I got'm from Ed, a
  brahmin dealer over in Vault City.}
-{502}{}{Menedékvárost mondtál?!}
-{550}{}{Abbahagynád ezt a folytonos fõnöközést?}
-{600}{}{Hogyne, fõnök!}
+{502}{}{MenedÃ©kvÃ¡rost mondtÃ¡l?!}
+{550}{}{AbbahagynÃ¡d ezt a folytonos fÅ‘nÃ¶kÃ¶zÃ©st?}
+{600}{}{Hogyne, fÅ‘nÃ¶k!}
 {601}{}{I mean it! STOP IT!}
-{602}{}{Remélem, ez megteszi.}
-{650}{}{Rendicsek, komám!}
-{651}{}{Úúg!}
-{700}{}{Legyééél a barátom!}
+{602}{}{RemÃ©lem, ez megteszi.}
+{650}{}{Rendicsek, komÃ¡m!}
+{651}{}{ÃšÃºg!}
+{700}{}{LegyÃ©Ã©Ã©l a barÃ¡tom!}
 {710}{}{Would you tell him I can't fix this without the parts. I don't know... wait.
  Who are you? Some new recruit? He didn't send you here to rough me up again did
  he? It's not going to make any difference. I can't fix it here.}
-{750}{}{Igazán megtennéd ezt értem? Semmit sem tudok tenni, amíg nem keveredtem ki innen. A gond csak az, hogy Metzger egy rádió megjavítása miatt zárt be ide, és nincsenek meg a szükséges pótalkatrészek.}
-{753}{}{Honnan tudnám elõkeríteni azokat az alkatrészeket?}
-{754}{}{Megnézem, mit tehetek.}
+{750}{}{IgazÃ¡n megtennÃ©d ezt Ã©rtem? Semmit sem tudok tenni, amÃ­g nem keveredtem ki innen. A gond csak az, hogy Metzger egy rÃ¡diÃ³ megjavÃ­tÃ¡sa miatt zÃ¡rt be ide, Ã©s nincsenek meg a szÃ¼ksÃ©ges pÃ³talkatrÃ©szek.}
+{753}{}{Honnan tudnÃ¡m elÅ‘kerÃ­teni azokat az alkatrÃ©szeket?}
+{754}{}{Majd kiderÃ¼l, mit tudok tenni az Ã¼gy Ã©rdekÃ©ben.}
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
  he expect me to fix it?}
-{761}{}{Azért jöttem, hogy kiszabadítsalak.}
-{764}{}{Nem tudom. Na, minden jót!}
-{800}{}{Meg kell szerelnem ezt a rádiót. Ha tudnál nekem segíteni ebbe, esetleg tudnánk mire hivatkozni.}
-{801}{}{És én mégis hogy segíthetek ebben?}
-{803}{}{Kétlem. Sok szerencsét!}
-{810}{}{Miért ölted meg szegény Mamát? Bizonyára megvolt rá az okod... Elnézést, fõnök! Nekem ugyebár nem osztottak lapot itt. Ez egy nagyon gonosz város. Biztos vagyok benne, hogy õ is valami gonoszságot mûvelt.}
-{811}{}{Hé, fõnök! Kösz, hogy kirángattál abból a slamasztikából, amibe Metzgerrel keveredtem! Kell valami? Mama volt olyan rendes és ellátott, amíg nem voltál itt. Segítek neki a ház körül...}
-{812}{}{Viszlát!}
-{813}{}{Óóoooh...}
+{761}{}{AzÃ©rt jÃ¶ttem, hogy kiszabadÃ­tsalak.}
+{764}{}{Nem tudom. Na, minden jÃ³t!}
+{800}{}{Meg kell szerelnem ezt a rÃ¡diÃ³t. Ha tudnÃ¡l nekem segÃ­teni ebbe, esetleg tudnÃ¡nk mire hivatkozni.}
+{801}{}{Miben segÃ­thetek?}
+{803}{}{KÃ©tlem. Sok szerencsÃ©t!}
+{810}{}{MiÃ©rt Ã¶lted meg szegÃ©ny MamÃ¡t? BizonyÃ¡ra megvolt rÃ¡ az okod... ElnÃ©zÃ©st, fÅ‘nÃ¶k! Nekem ugyebÃ¡r nem osztottak lapot itt. Ez egy nagyon gonosz vÃ¡ros. Biztos vagyok benne, hogy Å‘ is valami gonoszsÃ¡got mÅ±velt.}
+{811}{}{HÃ©, fÅ‘nÃ¶k! KÃ¶sz, hogy kirÃ¡ngattÃ¡l abbÃ³l a slamasztikÃ¡bÃ³l, amibe Metzgerrel keveredtem! Kell valami? Mama volt olyan rendes Ã©s ellÃ¡tott, amÃ­g nem voltÃ¡l itt. SegÃ­tek neki a hÃ¡z kÃ¶rÃ¼l...}
+{812}{}{ViszlÃ¡t!}
+{813}{}{Ã“Ã³oooh...}
 {814}{}{Szia szia!}
-{823}{}{Még egyszer megkérdem: hol találom Ed barátodat?}
-{830}{}{Megtenném, ha tudnám, de problémásnak tûnsz. Csak felesleges teher lennék. Most, hogy a Mama meghalt, világgá megyek. Még nem tudom, hova. Talán látjuk még egyszer egymást valamikor. Mindent köszönök, amit értem tettél!}
-{831}{}{Megtenném, ha tudnám, de problémásnak tûnsz. Látszik, hogy csak alig tudod megvédeni magad. Én meg csak púp lennék a hátadon. Majd állok és várok itt, a Mama fõztje emlékeztet a volt feleségemére...}
+{823}{}{MÃ©g egyszer megkÃ©rdem: hol talÃ¡lom Ed barÃ¡todat?}
+{830}{}{MegtennÃ©m, ha tudnÃ¡m, de problÃ©mÃ¡snak tÅ±nsz. Csak felesleges teher lennÃ©k. Most, hogy a Mama meghalt, vilÃ¡ggÃ¡ megyek. MÃ©g nem tudom, hova. TalÃ¡n lÃ¡tjuk mÃ©g egyszer egymÃ¡st valamikor. Mindent kÃ¶szÃ¶nÃ¶k, amit Ã©rtem tettÃ©l!}
+{831}{}{MegtennÃ©m, ha tudnÃ¡m, de problÃ©mÃ¡snak tÅ±nsz. LÃ¡tszik, hogy csak alig tudod megvÃ©deni magad. Ã‰n meg csak pÃºp lennÃ©k a hÃ¡tadon. Majd Ã¡llok Ã©s vÃ¡rok itt, a Mama fÅ‘ztje emlÃ©keztet a volt felesÃ©gemÃ©re...}
 {832}{}{I would, honest. I'd do almost anything for you. It's just that you don't look like you're in any shape to lead anyone. I'd only be a burden. I'll just head over to Mom's, in a bit... until you can work things out. I haven't had her home cooking for a long time.}
-{833}{}{Sajnálom, fõnök. Túl sokan vagytok. Most, hogy a Mama eltávozott, fogom magam és felszívódok. Azt sem tudom még, hogy hova... Egyszer még majd találkozunk valamikor. Köszönök mindent, amit értem tettél!}
-{834}{}{Nem férek be a csapatba, fõnök. Itt várok rád, amíg megoldódnak a dolgok. A Mama fõztje emlékeztet a volt nejemére... Nem vagyok benne biztos, hogy ez jót vagy rosszat jelent...}
-{835}{}{Én benne lennék, fõnök, de szemlátomást kevés hely van nálad. Elmegyek a Mamához. Rég nem voltam már náluk. Majd nézz arra, ha lenne még kiadó hely a csapatodban.}
+{833}{}{SajnÃ¡lom, fÅ‘nÃ¶k. TÃºl sokan vagytok. Most, hogy a Mama eltÃ¡vozott, fogom magam Ã©s felszÃ­vÃ³dok. Azt sem tudom mÃ©g, hogy hova... Egyszer mÃ©g majd talÃ¡lkozunk valamikor. KÃ¶szÃ¶nÃ¶k mindent, amit Ã©rtem tettÃ©l!}
+{834}{}{Nem fÃ©rek be a csapatba, fÅ‘nÃ¶k. Itt vÃ¡rok rÃ¡d, amÃ­g megoldÃ³dnak a dolgok. A Mama fÅ‘ztje emlÃ©keztet a volt nejemÃ©re... Nem vagyok benne biztos, hogy ez jÃ³t vagy rosszat jelent...}
+{835}{}{Ã‰n benne lennÃ©k, fÅ‘nÃ¶k, de szemlÃ¡tomÃ¡st kevÃ©s hely van nÃ¡lad. Elmegyek a MamÃ¡hoz. RÃ©g nem voltam mÃ¡r nÃ¡luk. Majd nÃ©zz arra, ha lenne mÃ©g kiadÃ³ hely a csapatodban.}
 {840}{}{Ed's over at Vault City. He's a Brahmin Dealer. He was just one of my many suppliers. Vault City's not too far from here.}
 {845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
-{900}{}{Megtudtad, hogy Vic kereskedõ.}
-{1000}{}{Kérdezni akarok tõled valamit.}
-{1100}{}{Teljesen fel vagyok gyógyulva, fõnök. Egyéb teendõ?}
-{1200}{}{Majdnem tökéletes formában vagyok, fõnök.}
+{900}{}{Megtudtad, hogy Vic kereskedÅ‘.}
+{1000}{}{Meg kell kÃ©rdeznem valamit.}
+{1100}{}{Teljesen fel vagyok gyÃ³gyulva, fÅ‘nÃ¶k. EgyÃ©b teendÅ‘?}
+{1200}{}{Majdnem tÃ¶kÃ©letes formÃ¡ban vagyok, fÅ‘nÃ¶k.}
 {1300}{}{I'm mostly healed up, Boss, but I've been better.}
-{1400}{}{Próbáltam, fõnök, de nem eszik olyan forrón a kását! Megteszek minden tõlem telhetõt.}
+{1400}{}{PrÃ³bÃ¡ltam, fÅ‘nÃ¶k, de nem eszik olyan forrÃ³n a kÃ¡sÃ¡t! Megteszek minden tÅ‘lem telhetÅ‘t.}
 {1500}{}{Whatever you say, Boss.}
 {1501}{}{Here? Right here? Okay, you're the Boss.}
-{1502}{}{Oké. Itt maradok, amíg vissza nem jössz, fõnök. Ugye vissza fogsz jönni?}
-{1503}{}{Ameddig csak akarod. Én egy tapodtat sem mozdulok innen!}
-{1504}{}{Természetesen, fõnök!}
-{1600}{}{Ha te mondod.}
-{1601}{}{Jó beszólás, fõnök!}
-{1602}{}{Nagy ötlet, fõnök!}
-{1603}{}{Naná, fõnök! Más egyéb?}
-{1604}{}{Messze van, fõnök!}
-{1605}{}{Nem gond, fõnök!}
-{1606}{}{Kész, fõnök!}
-{1700}{}{Hogyne, fõnök!}
-{1701}{}{Közel van, fõnök!}
-{1702}{}{Te tudod a legjobban, fõnök.}
-{1703}{}{Mögötted vagyok, fõnök!}
-{1704}{}{Tapadok, mint a pióca, fõnök!}
-{1705}{}{Ha így akarod, fõnök.}
-{1706}{}{Óh! Okés, fõnök!}
+{1502}{}{OkÃ©. Itt maradok, amÃ­g vissza nem jÃ¶ssz, fÅ‘nÃ¶k. Ugye vissza fogsz jÃ¶nni?}
+{1503}{}{Ameddig csak akarod. Ã‰n egy tapodtat sem mozdulok innen!}
+{1504}{}{TermÃ©szetesen, fÅ‘nÃ¶k!}
+{1600}{}{Ha te mondod...}
+{1601}{}{JÃ³ beszÃ³lÃ¡s, fÅ‘nÃ¶k!}
+{1602}{}{Nagy Ã¶tlet, fÅ‘nÃ¶k!}
+{1603}{}{NanÃ¡, fÅ‘nÃ¶k! MÃ¡s egyÃ©b?}
+{1604}{}{Messze van, fÅ‘nÃ¶k!}
+{1605}{}{Nem gond, fÅ‘nÃ¶k!}
+{1606}{}{KÃ©sz, fÅ‘nÃ¶k!}
+{1700}{}{NanÃ¡, fÅ‘nÃ¶k!}
+{1701}{}{KÃ¶zel van, fÅ‘nÃ¶k!}
+{1702}{}{Te tudod a legjobban, fÅ‘nÃ¶k.}
+{1703}{}{MÃ¶gÃ¶tted vagyok, fÅ‘nÃ¶k!}
+{1704}{}{Tapadok, mint a piÃ³ca, fÅ‘nÃ¶k!}
+{1705}{}{Ha Ã­gy akarod, fÅ‘nÃ¶k.}
+{1706}{}{Ã“h! OkÃ©s, fÅ‘nÃ¶k!}
 {1800}{}{OK, I'll keep my distance, but not too far, Boss.}
-{1801}{}{Oké, nem fogok, fõnök.}
-{1802}{}{Akkor egy kicsit lemaradok, fõnök.}
-{1803}{}{Hogyne, fõnök!}
-{1900}{}{Jól van, fõnök! Kicsit lemaradok.}
-{1901}{}{Ahogy mondod, tisztelt fõnököm!}
-{1902}{}{Te mész elõl, fõnök.}
-{1903}{}{Lemaradok, fõnök.}
-{1904}{}{Hátrébb megyek, fõnök.}
-{1905}{}{Arrébb húzódok, fõnök!}
-{1906}{}{Okés, fõnök!}
-{2000}{}{Ööhm... fõnök? Egy kicsit sokan vagyunk. Itt maradok, és várok rád.}
-{2100}{}{Megrémisztesz, fõnök! Mi történt veled? Olyan... izé, ijesztõen nézel ki. Asszem, itt maradok egy ideig...}
-{2200}{}{Kétségtelen, fõnök!}
-{2201}{}{Állatira rendben lesz, fõnök!}
-{2202}{}{Tutira, fõnök!}
-{2203}{}{Amint kész vagy, én is kész vagyok, fõnök!}
-{2204}{}{Nagyszerû! Menjünk!}
-{2205}{}{Remek!}
-{2206}{}{Te vagy a legjobb, fõnök!}
-{2207}{}{Nem leszel többé csalódott. Nem lesz itt több hiba!}
-{2208}{}{Ezúttal óvatosabb leszek, ne aggódj!}
-{2209}{}{Tudtam, hogy meg fogsz bocsátani nekem ezért... Ööhm. Na, akkor ööö... fõnök. Mi a terv?}
-{2210}{}{Nem engedlek meghalni, fõnök!}
-{2211}{}{Szuper vagy, fõnök!}
-{2212}{}{Tudtam, hogy annyira öreg azért nem vagyok még ehhez. Csak kicsi volt a valószínûsége! Ugye, fõnök?}
-{2300}{}{Ed-tõl. A fickó brahminokkal kereskedik Menedékvárosban. Jártál már arra? Hadd mutatassam meg azon a térkép-izéden!}
-{2305}{}{Menedékvárosban. Itt! Hadd mutassam meg azon az aranyos térkép-micsodádon!}
+{1801}{}{OkÃ©, nem fogok, fÅ‘nÃ¶k.}
+{1802}{}{Akkor egy kicsit lemaradok, fÅ‘nÃ¶k.}
+{1803}{}{NanÃ¡, fÅ‘nÃ¶k!}
+{1900}{}{JÃ³l van, fÅ‘nÃ¶k! Kicsit lemaradok.}
+{1901}{}{Ahogy parancsolja, kedves fÅ‘nÃ¶k!}
+{1902}{}{Te mÃ©sz elÅ‘l, fÅ‘nÃ¶k.}
+{1903}{}{Lemaradok, fÅ‘nÃ¶k.}
+{1904}{}{HÃ¡trÃ©bb megyek, fÅ‘nÃ¶k.}
+{1905}{}{ArrÃ©bb hÃºzÃ³dok, fÅ‘nÃ¶k!}
+{1906}{}{OkÃ©s, fÅ‘nÃ¶k!}
+{2000}{}{Ã–Ã¶hm... fÅ‘nÃ¶k? Egy kicsit sokan vagyunk. Itt maradok, Ã©s vÃ¡rok rÃ¡d.}
+{2100}{}{MegrÃ©misztesz, fÅ‘nÃ¶k! Mi tÃ¶rtÃ©nt veled? Olyan... izÃ©, ijesztÅ‘en nÃ©zel ki. Asszem, itt maradok egy ideig...}
+{2200}{}{KÃ©tsÃ©gtelen, fÅ‘nÃ¶k!}
+{2201}{}{Ãllatira rendben lesz, fÅ‘nÃ¶k!}
+{2202}{}{Tutira, fÅ‘nÃ¶k!}
+{2203}{}{Amint kÃ©sz vagy, Ã©n is kÃ©sz vagyok, fÅ‘nÃ¶k!}
+{2204}{}{NagyszerÅ±! MenjÃ¼nk!}
+{2205}{}{NagyszerÅ±!}
+{2206}{}{Te vagy a legjobb, fÅ‘nÃ¶k!}
+{2207}{}{Nem leszel tÃ¶bbÃ© csalÃ³dott. Nem lesz itt tÃ¶bb hiba!}
+{2208}{}{EzÃºttal Ã³vatosabb leszek, ne aggÃ³dj!}
+{2209}{}{Tudtam, hogy meg fogsz bocsÃ¡tani nekem ezÃ©rt... Ã–Ã¶hm. Na, akkor Ã¶Ã¶Ã¶... fÅ‘nÃ¶k. Mi a terv?}
+{2210}{}{Nem engedlek meghalni, fÅ‘nÃ¶k!}
+{2211}{}{Szuper vagy, fÅ‘nÃ¶k!}
+{2212}{}{Tudtam, hogy annyira Ã¶reg azÃ©rt nem vagyok mÃ©g ehhez. Csak kicsi volt a valÃ³szÃ­nÅ±sÃ©ge! Ugye, fÅ‘nÃ¶k?}
+{2300}{}{Ed-tÅ‘l. A fickÃ³ brahminokkal kereskedik MenedÃ©kvÃ¡rosban. JÃ¡rtÃ¡l mÃ¡r arra? Hadd mutatassam meg azon a tÃ©rkÃ©p-izÃ©den!}
+{2305}{}{MenedÃ©kvÃ¡rosban. Itt! Hadd mutassam meg azon az aranyos tÃ©rkÃ©p-micsodÃ¡don!}
 {2310}{}{Neki valahol itt kell lennie.}
-{2311}{}{Menedékvárosban. Nézd meg azon a térkép-bigyón!}
-{2403}{}{Hol szerezted a 13-as Menedék kulacsát?}
-{2404}{}{Értem.}
-{2500}{}{Hogyne, fõnök!}
-{2501}{}{Kérdezz bármit, fõnök!}
-{2502}{}{Segítek, ha tudok, fõnök!}
-{2503}{}{Ugye nem vagyok bajban, fõnök?}
-{2504}{}{Valamit rosszul csináltam, fõnök?}
-{2505}{}{Persze.}
-{2600}{}{Most mit fogunk csinálni, fõnök?}
-{2601}{}{Mi a terv, fõnök?}
-{2602}{}{A legjobbat próbálom kihozni magamból, fõnök!}
-{2603}{}{Mit tehetek érted, fõnök?}
-{2604}{}{Változik a terv, fõnök?}
-{2605}{}{Más stratégia, fõnök?}
-{2700}{}{Elég jól ellátták a bajom, fõnök! Szerezned kell nekem egy orvost! Nem tudom, hogy valaha tudok-e még segíteni neked...}
-{2701}{}{Orvosra van szükségem, fõnök! Elég rosszul nézek ki. Nem tudom, hogy valaha tudok-e még harcolni az oldaladon.}
-{2702}{}{Szépen tropára mentem, fõnök! El kell vinned Lennyhez, hogy meg tudjon vizsgálni.}
+{2311}{}{MenedÃ©kvÃ¡rosban. NÃ©zd meg azon a tÃ©rkÃ©p-bigyÃ³n!}
+{2403}{}{Hol szerezted a 13-as MenedÃ©k kulacsÃ¡t?}
+{2404}{}{RÃ¡ se rÃ¡nts!}
+{2500}{}{NanÃ¡, fÅ‘nÃ¶k!}
+{2501}{}{KÃ©rdezz bÃ¡rmit, fÅ‘nÃ¶k!}
+{2502}{}{SegÃ­tek, ha tudok, fÅ‘nÃ¶k!}
+{2503}{}{Ugye nem vagyok bajban, fÅ‘nÃ¶k?}
+{2504}{}{Valamit rosszul csinÃ¡ltam, fÅ‘nÃ¶k?}
+{2505}{}{TermÃ©szetesen.}
+{2600}{}{Most mit fogunk csinÃ¡lni, fÅ‘nÃ¶k?}
+{2601}{}{Mi a terv, fÅ‘nÃ¶k?}
+{2602}{}{A legjobbat prÃ³bÃ¡lom kihozni magambÃ³l, fÅ‘nÃ¶k!}
+{2603}{}{Mit tehetek Ã©rted, fÅ‘nÃ¶k?}
+{2604}{}{VÃ¡ltozik a terv, fÅ‘nÃ¶k?}
+{2605}{}{MÃ¡s stratÃ©gia, fÅ‘nÃ¶k?}
+{2700}{}{ElÃ©g jÃ³l ellÃ¡ttÃ¡k a bajom, fÅ‘nÃ¶k! Szerezned kell nekem egy orvost! Nem tudom, hogy valaha tudok-e mÃ©g segÃ­teni neked...}
+{2701}{}{Orvosra van szÃ¼ksÃ©gem, fÅ‘nÃ¶k! ElÃ©g rosszul nÃ©zek ki. Nem tudom, hogy valaha tudok-e mÃ©g harcolni az oldaladon.}
+{2702}{}{SzÃ©pen tropÃ¡ra mentem, fÅ‘nÃ¶k! El kell vinned Lennyhez, hogy meg tudjon vizsgÃ¡lni.}
 {2800}{}{Hey, Boss. You want me to join up with you now?}
-{2801}{}{Hé, fõnök! Nem okoz gondot, hogy várni kell rád. Nagyon türelmes ember vagyok.}
-{2802}{}{Újra együtt fogunk nyomulni, fõnök? Sokkal jobban fogok vigyázni.}
-{2803}{}{Féltem, hogy esetleg sosem fogsz visszajönni. Örülök, hogy újra látlak, fõnök!}
-{2804}{}{Megint szükséged van rám?}
-{2805}{}{Készen állok, fõnök!}
+{2801}{}{HÃ©, fÅ‘nÃ¶k! Nem okoz gondot, hogy vÃ¡rni kell rÃ¡d. Nagyon tÃ¼relmes ember vagyok.}
+{2802}{}{Ãšjra egyÃ¼tt fogunk nyomulni, fÅ‘nÃ¶k? Sokkal jobban fogok vigyÃ¡zni.}
+{2803}{}{FÃ©ltem, hogy esetleg sosem fogsz visszajÃ¶nni. Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tlak, fÅ‘nÃ¶k!}
+{2804}{}{Megint szÃ¼ksÃ©ged van rÃ¡m?}
+{2805}{}{KÃ©szen Ã¡llok, fÅ‘nÃ¶k!}
 {2806}{}{Tudtam, hogy nem hagysz el!}
-{2807}{}{Kell némi erõsítés?}
-{2808}{}{Ugye valamit meg kellene bütykölni? Én vagyok a te embered, fõnök!}
-{2809}{}{Ne aggódj, fõnök! Sulik és én nagyon jól ki fogunk jönni egymással.}
-{2810}{}{Gyerünk!}
-{2811}{}{Maradj itt! Mindjárt jövök.}
-{2812}{}{Én menni elfele.}
-{3100}{}{Mi? Ööhm. Rendben, fõnök! Ha egyszer ezt mondtad...}
-{3101}{}{Felvehetnék valami mást, fõnök? Egy kicsikét aggódom.}
-{3102}{}{Okés! Nem fogsz engem itthagyni... Ugye, fõnök?}
-{3103}{}{De... Értem... Természetesen, fõnök! Leszakadok.}
+{2807}{}{Kell nÃ©mi erÅ‘sÃ­tÃ©s?}
+{2808}{}{Ugye valamit meg kellene bÃ¼tykÃ¶lni? Ã‰n vagyok a te embered, fÅ‘nÃ¶k!}
+{2809}{}{Ne aggÃ³dj, fÅ‘nÃ¶k! Sulik Ã©s Ã©n nagyon jÃ³l ki fogunk jÃ¶nni egymÃ¡ssal.}
+{2810}{}{GyerÃ¼nk!}
+{2811}{}{Maradj itt! MindjÃ¡rt jÃ¶vÃ¶k.}
+{2812}{}{Megyek.}
+{3100}{}{Mi? Ã–Ã¶hm. Rendben, fÅ‘nÃ¶k! Ha egyszer ezt mondtad...}
+{3101}{}{FelvehetnÃ©k valami mÃ¡st, fÅ‘nÃ¶k? Egy kicsikÃ©t aggÃ³dom.}
+{3102}{}{OkÃ©s! Nem fogsz engem itthagyni... Ugye, fÅ‘nÃ¶k?}
+{3103}{}{De... Ã‰rtem... TermÃ©szetesen, fÅ‘nÃ¶k! Leszakadok.}
 {3200}{}{Well, Boss... I'm pretty good with small arms. I can handle almost any rifle, shotgun, and most small-medium pistols. I 'can' use knives. I've also got a pretty good throwing arm, but my aim's not the best in the world... actually, it's pretty horrible. Sorry, Boss. I'm really trying to get better.}
-{3201}{}{Ahogy már mondtam, fõnök, a kisebb fegyverek kezelésében vagyok leginkább járatos. Rengeteg puskát ismerek - köztük a sörétest is - , a kis és közepes méretû pisztolyok többsége sem okoz gondot. Ha nagyon bajban lennénk, akár a kés vagy egyéb fegyverek dobásával is megpróbálkoznék.}
-{3300}{}{Alap szinten bánok a késekkel és nagyon jól tudok dobni. Mondjuk nem vagyok túl jó célzó. Igazság szerint elég szörnyû. Bocsáss meg, fõnök! Minden erõmmel azon vagyok, hogy fejlesszem magam.}
-{3301}{}{Mint már említettem, fõnök, forgatom a késeket is és nagyon jól tudok dobni... Csak egy picikét félre...}
-{3400}{}{Na, eddig a pontig bírtam!}
-{3401}{}{Letépem azt a tetves fejedet! Senki sem bánthajta a családomat!}
-{4000}{}{Inkább ide?}
-{4001}{}{Jobb így, fõnök?}
+{3201}{}{Ahogy mÃ¡r mondtam, fÅ‘nÃ¶k, a kisebb fegyverek kezelÃ©sÃ©ben vagyok leginkÃ¡bb jÃ¡ratos. Rengeteg puskÃ¡t ismerek - kÃ¶ztÃ¼k a sÃ¶rÃ©test is - , a kis Ã©s kÃ¶zepes mÃ©retÅ± pisztolyok tÃ¶bbsÃ©ge sem okoz gondot. Ha nagyon bajban lennÃ©nk, akÃ¡r a kÃ©s vagy egyÃ©b fegyverek dobÃ¡sÃ¡val is megprÃ³bÃ¡lkoznÃ©k.}
+{3300}{}{Alap szinten bÃ¡nok a kÃ©sekkel Ã©s nagyon jÃ³l tudok dobni. Mondjuk nem vagyok tÃºl jÃ³ cÃ©lzÃ³. IgazsÃ¡g szerint elÃ©g szÃ¶rnyÅ±. BocsÃ¡ss meg, fÅ‘nÃ¶k! Minden erÅ‘mmel azon vagyok, hogy fejlesszem magam.}
+{3301}{}{Mint mÃ¡r emlÃ­tettem, fÅ‘nÃ¶k, forgatom a kÃ©seket is Ã©s nagyon jÃ³l tudok dobni... Csak egy picikÃ©t fÃ©lre...}
+{3400}{}{Na, eddig a pontig bÃ­rtam!}
+{3401}{}{LetÃ©pem azt a tetves fejedet! Senki sem bÃ¡nthajta a csalÃ¡domat!}
+{4000}{}{InkÃ¡bb ide?}
+{4001}{}{Jobb Ã­gy, fÅ‘nÃ¶k?}
 {4002}{}{Ez a hely megfelel?}
-{4003}{}{Igen, fõnök!}
-{4004}{}{Mi?}
-{4005}{}{Hova megyünk?}
-{4006}{}{Indulunk, fõnök?}
-{4007}{}{Már megyek is!}
-{4008}{}{Bocsánat, fõnök!}
-{4009}{}{Így jobb?}
-{4010}{}{Úúuuuf!}
-{4011}{}{Így jó lesz, fõnök?}
-{4012}{}{Akkor most ideállok.}
-{4013}{}{Na, akkor arrébbállok szépen.}
-{4100}{}{Fõnök! Nem érzem valami jól magam.}
-{4101}{}{Orvosra van szükségem.}
-{4102}{}{Ó, ember! Ez tényleg fáj!}
-{4103}{}{Aú!}
+{4003}{}{Igen, fÅ‘nÃ¶k!}
+{4004}{}{Hogy mondod?}
+{4005}{}{Hova megyÃ¼nk?}
+{4006}{}{Indulunk, fÅ‘nÃ¶k?}
+{4007}{}{MÃ¡r megyek is!}
+{4008}{}{BocsÃ¡nat, fÅ‘nÃ¶k!}
+{4009}{}{Ãgy jobb?}
+{4010}{}{ÃšÃºuuuf!}
+{4011}{}{Ãgy jÃ³ lesz, fÅ‘nÃ¶k?}
+{4012}{}{Akkor most ideÃ¡llok.}
+{4013}{}{Na, akkor arrÃ©bbÃ¡llok szÃ©pen.}
+{4100}{}{FÅ‘nÃ¶k! Nem Ã©rzem valami jÃ³l magam.}
+{4101}{}{SzÃ¼ksÃ©gem van egy orvosra!}
+{4102}{}{Ã“, ember! Ez tÃ©nyleg fÃ¡j!}
+{4103}{}{ÃÃ¡Ã¡!}
 {4104}{}{Jaj!}
 {4105}{}{Francba!}
 {4106}{}{Orvost!}
-{4107}{}{Még elvagyok... de már csak alig...}
+{4107}{}{MÃ©g elvagyok... de mÃ¡r csak alig...}
 {4200}{}{Soha nem szerettem ezt a helyet.}
-{4201}{}{Miért ilyen tiszta ez a hely?}
+{4201}{}{MiÃ©rt ilyen tiszta ez a hely?}
 {4202}{}{Do you smell something, Boss?}
-{4203}{}{Te tudod, fõnök. Nem hiszem, hogy miután elmentünk innen, valaha is visszajönnék ide. Már nem érzem az otthonomnak.}
-{4204}{}{Határozottabban mocskosabb, mint amire emlékeztem.}
-{4205}{}{Ugye nem maradunk itt sokáig, fõnök?}
-{4206}{}{Ez a hely sosem fog megváltozni.}
-{4207}{}{Nem fogom hiányolni ezt a helyet, fõnök.}
-{4208}{}{Még egyszer kösz, hogy kihoztál onnan, fõnök!}
-{4209}{}{Valóban jövök neked egyel, fõnök!}
-{4210}{}{Nem semmi, ez a hely nagyon megváltozott.}
-{4211}{}{Már évek óta nem jártam itt.}
-{4212}{}{Itt fogok nyugdíjba menni.}
-{4213}{}{Nyithatnék itt egy szerelõmûhelyt.}
+{4203}{}{Te tudod, fÅ‘nÃ¶k. Nem hiszem, hogy miutÃ¡n elmentÃ¼nk innen, valaha is visszajÃ¶nnÃ©k ide. MÃ¡r nem Ã©rzem az otthonomnak.}
+{4204}{}{HatÃ¡rozottabban mocskosabb, mint amire emlÃ©keztem.}
+{4205}{}{Ugye nem maradunk itt sokÃ¡ig, fÅ‘nÃ¶k?}
+{4206}{}{Ez a hely sosem fog megvÃ¡ltozni.}
+{4207}{}{Nem fogom hiÃ¡nyolni ezt a helyet, fÅ‘nÃ¶k.}
+{4208}{}{MÃ©g egyszer kÃ¶sz, hogy kihoztÃ¡l onnan, fÅ‘nÃ¶k!}
+{4209}{}{ValÃ³ban jÃ¶vÃ¶k neked egyel, fÅ‘nÃ¶k!}
+{4210}{}{Nem semmi, ez a hely nagyon megvÃ¡ltozott.}
+{4211}{}{MÃ¡r Ã©vek Ã³ta nem jÃ¡rtam itt.}
+{4212}{}{Itt fogok nyugdÃ­jba menni.}
+{4213}{}{NyithatnÃ©k itt egy szerelÅ‘mÅ±helyt.}
 {4300}{}{Ah, a sight for sore eyes. This is... was my place, but I guess you knew that. Right, Boss?}
-{4400}{}{Sulik, ne nézz így rám!}
-{4401}{}{Fõnök, Sulik már megint engem bámul!}
+{4400}{}{Sulik, ne nÃ©zz Ã­gy rÃ¡m!}
+{4401}{}{FÅ‘nÃ¶k, Sulik mÃ¡r megint engem bÃ¡mul!}
 {4402}{}{Aranyos kutyus.}
 {4500}{}{Trallala}
 {4501}{}{Hm-hm.}
-{4502}{}{Várom a fõnököt...}
-{4503}{}{Várom a fõnökömet.}
-{4504}{}{Csak várok.}
+{4502}{}{VÃ¡rom a fÅ‘nÃ¶kÃ¶t...}
+{4503}{}{VÃ¡rom a fÅ‘nÃ¶kÃ¶met.}
+{4504}{}{Csak vÃ¡rok.}
 {4505}{}{The Boss sure wouldn't leave me behind...}
-{4506}{}{Kopp-kopp, ki van ott? Várj! Hogy is...}
-{4507}{}{Még várok.}
+{4506}{}{Kopp-kopp, ki van ott? VÃ¡rj! Hogy is...}
+{4507}{}{MÃ©g vÃ¡rok.}
 {4508}{}{Mi ez a szag?}
-{4509}{}{Van itt valami javítanivaló?}
-{4510}{}{Itt vagyok! Várok a fõnökre.}
-{4511}{}{Egy magamfajta vénember csak elpazarolja a tehetségét a céltalan álldogálással.}
-{4512}{}{Bárcsak lenne egy gumi nálam... már az idejét sem tudom, mikor voltam nõvel...}
-{4513}{}{Ki kellene szállnom az ereklyeüzletbõl... Csak a gond van vele.}
-{4514}{}{Miért ilyen fárasztó a várakozás...?}
-{4600}{}{Üühm, kösz, fõnök!}
-{4601}{}{Köszi.}
-{4602}{}{Biztosan tudod, mit csinálsz?}
-{4603}{}{Egyszerûen nem pihenhetnénk helyette?}
-{4604}{}{Ne üssünk tábort?}
-{4605}{}{Ennyire rosszul lennék?}
+{4509}{}{Van itt valami javÃ­tanivalÃ³?}
+{4510}{}{Itt vagyok! VÃ¡rok a fÅ‘nÃ¶kre.}
+{4511}{}{Egy magamfajta vÃ©nember csak elpazarolja a tehetsÃ©gÃ©t a cÃ©ltalan Ã¡lldogÃ¡lÃ¡ssal.}
+{4512}{}{BÃ¡rcsak lenne egy gumi nÃ¡lam... mÃ¡r az idejÃ©t sem tudom, mikor voltam nÅ‘vel...}
+{4513}{}{Ki kellene szÃ¡llnom az ereklyeÃ¼zletbÅ‘l... Csak a gond van vele.}
+{4514}{}{MiÃ©rt ilyen fÃ¡rasztÃ³ a vÃ¡rakozÃ¡s...?}
+{4600}{}{ÃœÃ¼hm, kÃ¶sz, fÅ‘nÃ¶k!}
+{4601}{}{KÃ¶sz.}
+{4602}{}{Biztosan tudod, mit csinÃ¡lsz?}
+{4603}{}{EgyszerÅ±en nem pihenhetnÃ©nk helyette?}
+{4604}{}{Ne Ã¼ssÃ¼nk tÃ¡bort?}
+{4605}{}{Ennyire rosszul lennÃ©k?}
 {4700}{}{Not too much, Boss.}
-{4701}{}{Ha ragaszkodsz hozzá, fõnök...}
-{4702}{}{Fõnök, ugye nem fog szétrobbani a fejem?}
-{4703}{}{Fõnök, van egy olyan érzésem, hogy kezdem megkedvelni ezt a vackot.}
-{4704}{}{Egy kicsit mókásan érzem magam, fõnök.}
-{4705}{}{Látom, van elég nálad.}
-{4706}{}{Hogyne, fõnök! Beadom magamnak.}
-{4707}{}{Kösz, fõnök!}
-{4708}{}{Nem rossz.}
+{4701}{}{Ha ragaszkodsz hozzÃ¡, fÅ‘nÃ¶k...}
+{4702}{}{FÅ‘nÃ¶k, ugye nem fog szÃ©trobbani a fejem?}
+{4703}{}{FÅ‘nÃ¶k, van egy olyan Ã©rzÃ©sem, hogy kezdem megkedvelni ezt a vackot.}
+{4704}{}{Egy kicsit mÃ³kÃ¡san Ã©rzem magam, fÅ‘nÃ¶k.}
+{4705}{}{LÃ¡tom, van elÃ©g nÃ¡lad.}
+{4706}{}{Hogyne, fÅ‘nÃ¶k! Beadom magamnak.}
+{4707}{}{KÃ¶sz, fÅ‘nÃ¶k!}
+{4708}{}{Nem vÃ©szes.}
 {5000}{}{I'm a bit hungry at the moment. We'll talk again at Mom's.}
 {5500}{}{I feel like I broke a limb, Boss. You better have a look.}
 {5501}{}{I feel like I am burning up, Boss. You better have a look.}

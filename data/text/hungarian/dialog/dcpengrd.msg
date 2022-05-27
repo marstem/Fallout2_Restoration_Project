@@ -1,21 +1,21 @@
-{100}{}{Rabszolga-hajcsár.}
-{150}{}{Nagyon feszültnek tûnik.}
+{100}{}{Rabszolga-hajcsÃ¡r.}
+{150}{}{Nagyon feszÃ¼ltnek tÅ±nik.}
 {200}{}{Touch that again and you'll lose a limb.}
-{201}{}{Na, ebbõl elég!}
-{210}{}{Csak a rabszolgák vannak ott hátul.}
-{211}{}{A rabszolgák nem fogadhatnak látogatókat!}
-{212}{}{Csak a céh tagjai léphetnek be az ajtón.}
-{213}{}{Rabszolgára van szükséged? Keresd Metzgert!}
-{214}{}{Fordulj Metzgerhez! A rabszolgaólak befogadóképessége korlátlan.}
-{215}{}{Mit kóvályogsz itt, mint gólyafos a levegõben? Ki vele!}
-{216}{}{Tûnjél már innen, te kurva! A rabszolgák nem fogadhatnak látogatókat.}
-{230}{}{Mizújs, haver?}
-{231}{}{Kicsit uncsi má'.}
-{232}{}{Gondolom, csíped a céhet.}
-{233}{}{Jól néz ki a tetkód.}
-{234}{}{Ott voltál a legutolsó portyán?}
-{235}{}{Szia!}
-{236}{}{Kedvemre való nõ vagy.}
-{237}{}{Egy nõi rabszolga-hajcsár... ez bizony tiszteletet érdemel.}
-{238}{}{Helló!}
-{239}{}{Jól nézel ki.}
+{201}{}{Na, ebbÅ‘l elÃ©g!}
+{210}{}{Csak a rabszolgÃ¡k vannak ott hÃ¡tul.}
+{211}{}{A rabszolgÃ¡k nem fogadhatnak lÃ¡togatÃ³kat!}
+{212}{}{Csak a cÃ©h tagjai lÃ©phetnek be az ajtÃ³n.}
+{213}{}{RabszolgÃ¡ra van szÃ¼ksÃ©ged? Keresd Metzgert!}
+{214}{}{Fordulj Metzgerhez! A rabszolgaÃ³lak befogadÃ³kÃ©pessÃ©ge korlÃ¡tlan.}
+{215}{}{Mit kÃ³vÃ¡lyogsz itt, mint gÃ³lyafos a levegÅ‘ben? Ki vele!}
+{216}{}{TÅ±njÃ©l mÃ¡r innen, te kurva! A rabszolgÃ¡k nem fogadhatnak lÃ¡togatÃ³kat.}
+{230}{}{MizÃºjs, haver?}
+{231}{}{Kicsit uncsi mÃ¡'.}
+{232}{}{Gondolom, csÃ­ped a cÃ©het.}
+{233}{}{JÃ³l nÃ©z ki a tetkÃ³d.}
+{234}{}{Ott voltÃ¡l a legutolsÃ³ portyÃ¡n?}
+{235}{}{HellÃ³!}
+{236}{}{Kedvemre valÃ³ nÅ‘ vagy.}
+{237}{}{Egy nÅ‘i rabszolga-hajcsÃ¡r... ez bizony tiszteletet Ã©rdemel.}
+{238}{}{HellÃ³!}
+{239}{}{JÃ³l nÃ©zel ki.}

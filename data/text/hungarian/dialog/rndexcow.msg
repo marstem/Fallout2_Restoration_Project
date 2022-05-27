@@ -1,1 +1,1 @@
-{100}{}{Furcsa érzésed van ezzel a hellyel kapcsolatban. A ganénak és a rothadó húsnak, bár jópár méterrõl jön, iszonyú szaga van.}
+{100}{}{Furcsa Ã©rzÃ©sed van ezzel a hellyel kapcsolatban. A ganÃ©nak Ã©s a rothadÃ³ hÃºsnak, bÃ¡r jÃ³pÃ¡r mÃ©terrÅ‘l jÃ¶n, iszonyÃº szaga van.}

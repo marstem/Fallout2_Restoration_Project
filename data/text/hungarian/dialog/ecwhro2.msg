@@ -1,11 +1,11 @@
-{100}{}{Egy fehér hõs-karaktert látsz.}
-{101}{}{Egy nagyon izmos fehér férfit látsz, aki a 13-as Menedék kezeslábasát viseli. Miközben a történetét meséli, mosolyog és nevet.}
-{102}{}{Egy fehér hõs-karaktert látsz. Mosolyog és nevetgél.}
-{103}{}{Egy fehér hõs-karaktert látsz. Mosolyog és nevetgél.}
-{104}{}{Egyszerûen lehetetlen feladat volt Dogmeatet életben tartani a Fallout 1-ben, fõképp a végén.}
-{105}{}{Egyszerûen nem volt elég szívós a végjátékhoz.}
-{106}{}{Imádtam azt a kutyát. Azt kívántam, bárcsak feltûnne a stáblistában.}
-{107}{}{Meséltek egy Vince DeNardo nevû játékosról, akinek volt egy taktikája arra, hogyan tartsa életben Dogmeatet a végén.}
-{108}{}{Minden egyes szinten bezárta egy erõtér szobába, hogy távoltartsa a harcoktól.}
-{109}{}{Az volt az idegesítõ, hogy minden egyes szinten meg kellett csinálni ezt, különben a mutánsok kicsinálták volna a kutyát.}
-{110}{}{Azt hiszem, végülis sikerült neki.}
+{100}{}{Egy fehÃ©r hÅ‘s-karaktert lÃ¡tsz.}
+{101}{}{Egy nagyon izmos fehÃ©r fÃ©rfit lÃ¡tsz, aki a 13-as MenedÃ©k kezeslÃ¡basÃ¡t viseli. MikÃ¶zben a tÃ¶rtÃ©netÃ©t mesÃ©li, mosolyog Ã©s nevet.}
+{102}{}{Egy fehÃ©r hÅ‘s-karaktert lÃ¡tsz. Mosolyog Ã©s nevetgÃ©l.}
+{103}{}{Egy fehÃ©r hÅ‘s-karaktert lÃ¡tsz. Mosolyog Ã©s nevetgÃ©l.}
+{104}{}{EgyszerÅ±en lehetetlen feladat volt Dogmeatet Ã©letben tartani a Fallout 1-ben, fÅ‘kÃ©pp a vÃ©gÃ©n.}
+{105}{}{EgyszerÅ±en nem volt elÃ©g szÃ­vÃ³s a vÃ©gjÃ¡tÃ©khoz.}
+{106}{}{ImÃ¡dtam azt a kutyÃ¡t. Azt kÃ­vÃ¡ntam, bÃ¡rcsak feltÅ±nne a stÃ¡blistÃ¡ban.}
+{107}{}{MesÃ©ltek egy Vince DeNardo nevÅ± jÃ¡tÃ©kosrÃ³l, akinek volt egy taktikÃ¡ja arra, hogyan tartsa Ã©letben Dogmeatet a vÃ©gÃ©n.}
+{108}{}{Minden egyes szinten bezÃ¡rta egy erÅ‘tÃ©r szobÃ¡ba, hogy tÃ¡voltartsa a harcoktÃ³l.}
+{109}{}{Az volt az idegesÃ­tÅ‘, hogy minden egyes szinten meg kellett csinÃ¡lni ezt, kÃ¼lÃ¶nben a mutÃ¡nsok kicsinÃ¡ltÃ¡k volna a kutyÃ¡t.}
+{110}{}{Azt hiszem, vÃ©gÃ¼lis sikerÃ¼lt neki.}

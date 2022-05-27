@@ -1,2 +1,2 @@
-{100}{}{Korlát.}
-{101}{}{Ennek a darab fának az a dolga, hogy megtartson ezt-azt. Feltûnõen tiszta.}
+{100}{}{KorlÃ¡t.}
+{101}{}{Ennek a darab fÃ¡nak az a dolga, hogy megtartson ezt-azt. FeltÅ±nÅ‘en tiszta.}

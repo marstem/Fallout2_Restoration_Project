@@ -1,105 +1,105 @@
-{100}{}{Egy termetes, középkorú, kõporral belepett asszonyt látsz.}
-{101}{}{Marge LeBarge-hoz, a Kokoweef Bánya tulajdonosához van szerencséd.}
-{102}{}{Egy erõs, elnyûhetetlen aszonyt látsz, akibõl csakúgy sugárzik a tekintély.}
-{103}{}{Bocs, de most nincs idõm jótékonykodni.}
-{104}{}{Gyere vissza, ha a fejsebed begyógyult!}
-{105}{}{Csodálom, hogy tudsz egyszerre járni és beszélni.}
-{106}{}{Asszem, nincs ki az összes kereked.}
-{107}{}{Mik vagytok? Cirkusz nélkül maradt bohócok?}
-{108}{}{Maga mostanság nem igazán a kedvencem.}
-{109}{}{Kösz, hogy megszerezte nekem azt az exkavátor csipet. Most már tényleg simán mennek majd a dolgok a Kokoweef Bányában.}
-{110}{}{1000 dollárt adok azért az exkavátor chipért.}
-{111}{}{Sikerült megtalálni az exkavátor chipet?}
-{112}{}{Hát, sajnálom. De nem lehet mindig mindenkinek a kedvére tenni.}
-{113}{}{Mindig örülök, ha ilyen jól fizetõ munkát találok. Kérdeznék valami mást viszont.}
-{114}{}{Honnan tudja, hogy nálam van az exkavátor chip?}
-{115}{}{Mennyit ér ez meg magának?}
-{116}{}{Ha úgy lenne, maga az elsõk között tudna róla.}
-{117}{}{Azt hiszem, most megyek. Viszlát!}
-{118}{}{Kösz, hogy leállította azt a bunyót! A bányászaim néha kirúgnak egy kicsit a hámból, de azért jó fejek, ha nincsenek telenyomva Jettel.}
-{119}{}{Kösz, hogy rács mögé juttatta azokat a Morningstaros bajkeverõket. Oda valók. Segíthetek valamiben?}
-{120}{}{Nem tudom elhinni, hogy lecsukatta a fiaimat. Tuti, hogy azok a rohadt Morningstaros banditák kezdték a verekedést. Amúgy mit akar?}
-{121}{}{Bárcsak ne csukatta volna le a bányászaimat. A Morningstar huligánjainak bekasztlizásával rend lett volna a városban. Mit akar?}
-{122}{}{Maga aztán tudja, hogyan kell baltával megdádázni egy bébit, nem igaz? Egy kocsmai bunyó miatt senkinek sem kellett volna meghalnia. Mindegy, mi a fenét akar tõlem?}
-{123}{}{Ki vagy te?}
-{124}{}{Valami másról akarom kérdezni.}
-{125}{}{Csak erre jártam, de már megyek is tovább. Viszlát!}
-{126}{}{Helló, Marge vagyok. Marge LeBarge és én vezetem ezt a bányát.}
-{127}{}{Mit tehet Marge magáért?}
-{128}{}{Mit bányásznak itt?}
-{129}{}{Édenkert Létrehozást Elõsegítõ Táska - hallott már valaha ilyesmirõl?}
-{130}{}{Maga reddingi bennszülött?}
-{131}{}{Tud valami munkát, vagy valamit arról, mik történnek errefelé?}
-{132}{}{Csak körülnéztem. Viszlát!}
-{133}{}{Természetesen aranyat. Itt bányásszuk a Kokoweefben, aztán elszállítjuk Menedékvárosba, New Renóba és az Új Kalifornia Köztársaságba.}
-{134}{}{Mindenfelé szállítják?}
-{135}{}{Miért hívják Kokoweefnek a bányáját?}
-{136}{}{Feltennék még kérdéseket.}
-{137}{}{Értem. Kösz, most ez minden. Viszlát!}
-{138}{}{Hát persze. Az aranyat mindenki szereti. Ha igazán érdekli, akkor James Hoffyval, a karavánfõnökkel kéne beszélnie.}
-{139}{}{Feltennék még kérdéseket.}
-{140}{}{Kösz, ezt fogom tenni. Viszlát!}
-{141}{}{Édenkert Létrehozást Elõsegítõ Táska? Lebilincselõen hangzik. Ha lenne valami ilyesmim, tutira nem a mocsokban turkálnék a megélhetésért, nem gondolja?}
-{142}{}{De gondolom... Na, akkor kérdeznék valami mást.}
-{143}{}{Csak gondoltam, megkérdezem. Viszlát!}
-{144}{}{Á, dehogy. Fenn, északon szültettem, egy tó partján. LeBarge-nak hívják azt a tavat.}
-{145}{}{Nem is hallottam róla. Hadd kérdezzek valami mást.}
-{146}{}{Jól hangzik. Lehet, hogy elmegyek vadászni arrafelé. Viszlát egyelõre.}
-{147}{}{Csak néhány pletykát.}
-{148}{}{Hát, pletykák aztán mindig vannak szép számmal... de nekem meg elvégzendõ dolgaim vannak.}
-{149}{}{Erre még visszatérek, de elõbb kérdeznék valami mást.}
-{150}{}{Mesélje el nekem azokat a pletykákat!}
-{151}{}{Mi van?}
-{152}{}{Fogadni mernék. Bocsánat, de túl sok dolgom van. Viszlát!}
+{100}{}{Egy termetes, kÃ¶zÃ©pkorÃº, kÅ‘porral belepett asszonyt lÃ¡tsz.}
+{101}{}{Marge LeBarge-hoz, a Kokoweef BÃ¡nya tulajdonosÃ¡hoz van szerencsÃ©d.}
+{102}{}{Egy erÅ‘s, elnyÅ±hetetlen aszonyt lÃ¡tsz, akibÅ‘l csakÃºgy sugÃ¡rzik a tekintÃ©ly.}
+{103}{}{Bocs, de most nincs idÅ‘m jÃ³tÃ©konykodni.}
+{104}{}{Gyere vissza, ha a fejsebed begyÃ³gyult!}
+{105}{}{CsodÃ¡lom, hogy tudsz egyszerre jÃ¡rni Ã©s beszÃ©lni.}
+{106}{}{Asszem, nincs ki az Ã¶sszes kereked.}
+{107}{}{Mik vagytok? Cirkusz nÃ©lkÃ¼l maradt bohÃ³cok?}
+{108}{}{Maga mostansÃ¡g nem igazÃ¡n a kedvencem.}
+{109}{}{KÃ¶sz, hogy megszerezte nekem azt az exkavÃ¡tor csipet. Most mÃ¡r tÃ©nyleg simÃ¡n mennek majd a dolgok a Kokoweef BÃ¡nyÃ¡ban.}
+{110}{}{1000 dollÃ¡rt adok azÃ©rt az exkavÃ¡tor chipÃ©rt.}
+{111}{}{SikerÃ¼lt megtalÃ¡lni az exkavÃ¡tor chipet?}
+{112}{}{HÃ¡t, sajnÃ¡lom. De nem lehet mindig mindenkinek a kedvÃ©re tenni.}
+{113}{}{Mindig Ã¶rÃ¼lÃ¶k, ha ilyen jÃ³l fizetÅ‘ munkÃ¡t talÃ¡lok. KÃ©rdeznÃ©k valami mÃ¡st viszont.}
+{114}{}{Honnan tudja, hogy nÃ¡lam van az exkavÃ¡tor chip?}
+{115}{}{Mennyit Ã©r ez meg magÃ¡nak?}
+{116}{}{Ha Ãºgy lenne, maga az elsÅ‘k kÃ¶zÃ¶tt tudna rÃ³la.}
+{117}{}{Azt hiszem, most megyek. ViszlÃ¡t!}
+{118}{}{KÃ¶sz, hogy leÃ¡llÃ­totta azt a bunyÃ³t! A bÃ¡nyÃ¡szaim nÃ©ha kirÃºgnak egy kicsit a hÃ¡mbÃ³l, de azÃ©rt jÃ³ fejek, ha nincsenek telenyomva Jettel.}
+{119}{}{KÃ¶sz, hogy rÃ¡cs mÃ¶gÃ© juttatta azokat a Morningstaros bajkeverÅ‘ket. Oda valÃ³k. SegÃ­thetek valamiben?}
+{120}{}{Nem tudom elhinni, hogy lecsukatta a fiaimat. Tuti, hogy azok a rohadt Morningstaros banditÃ¡k kezdtÃ©k a verekedÃ©st. AmÃºgy mit akar?}
+{121}{}{BÃ¡rcsak ne csukatta volna le a bÃ¡nyÃ¡szaimat. A Morningstar huligÃ¡njainak bekasztlizÃ¡sÃ¡val rend lett volna a vÃ¡rosban. Mit akar?}
+{122}{}{Maga aztÃ¡n tudja, hogyan kell baltÃ¡val megdÃ¡dÃ¡zni egy bÃ©bit, nem igaz? Egy kocsmai bunyÃ³ miatt senkinek sem kellett volna meghalnia. Mindegy, mi a fenÃ©t akar tÅ‘lem?}
+{123}{}{Ki vagy?}
+{124}{}{Valami mÃ¡srÃ³l akarom kÃ©rdezni.}
+{125}{}{Csak erre jÃ¡rtam, de mÃ¡r megyek is tovÃ¡bb. ViszlÃ¡t!}
+{126}{}{HellÃ³, Marge vagyok. Marge LeBarge Ã©s Ã©n vezetem ezt a bÃ¡nyÃ¡t.}
+{127}{}{Mit tehet Marge magÃ¡Ã©rt?}
+{128}{}{Mit bÃ¡nyÃ¡sznak itt?}
+{129}{}{Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡ska - hallott mÃ¡r valaha ilyesmirÅ‘l?}
+{130}{}{Maga reddingi bennszÃ¼lÃ¶tt?}
+{131}{}{Tud valami munkÃ¡t, vagy valamit arrÃ³l, mik tÃ¶rtÃ©nnek errefelÃ©?}
+{132}{}{Csak kÃ¶rÃ¼lnÃ©ztem. ViszlÃ¡t!}
+{133}{}{TermÃ©szetesen aranyat. Itt bÃ¡nyÃ¡sszuk a Kokoweefben, aztÃ¡n elszÃ¡llÃ­tjuk MenedÃ©kvÃ¡rosba, New RenÃ³ba Ã©s az Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡gba.}
+{134}{}{MindenfelÃ© szÃ¡llÃ­tjÃ¡k?}
+{135}{}{MiÃ©rt hÃ­vjÃ¡k Kokoweefnek a bÃ¡nyÃ¡jÃ¡t?}
+{136}{}{Hadd kÃ©rdezzek valami mÃ¡st!}
+{137}{}{Ã‰rtem. KÃ¶sz, most ez minden. ViszlÃ¡t!}
+{138}{}{HÃ¡t persze. Az aranyat mindenki szereti. Ha igazÃ¡n Ã©rdekli, akkor James Hoffyval, a karavÃ¡nfÅ‘nÃ¶kkel kÃ©ne beszÃ©lnie.}
+{139}{}{Hadd kÃ©rdezzek valami mÃ¡st!}
+{140}{}{KÃ¶sz, Ã­gy lesz. ViszlÃ¡t!}
+{141}{}{Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡ska? LebilincselÅ‘en hangzik. Ha lenne valami ilyesmim, tutira nem a mocsokban turkÃ¡lnÃ©k a megÃ©lhetÃ©sÃ©rt, nem gondolja?}
+{142}{}{De gondolom... Na, akkor kÃ©rdeznÃ©k valami mÃ¡st.}
+{143}{}{Csak gondoltam, megkÃ©rdezem. ViszlÃ¡t!}
+{144}{}{Ã, dehogy. Fenn, Ã©szakon szÃ¼ltettem, egy tÃ³ partjÃ¡n. LeBarge-nak hÃ­vjÃ¡k azt a tavat.}
+{145}{}{Nem is hallottam rÃ³la. Hadd kÃ©rdezzek valami mÃ¡st.}
+{146}{}{JÃ³l hangzik. Lehet, hogy elmegyek vadÃ¡szni arrafelÃ©. ViszlÃ¡t egyelÅ‘re.}
+{147}{}{Csak nÃ©hÃ¡ny pletykÃ¡t.}
+{148}{}{HÃ¡t, pletykÃ¡k aztÃ¡n mindig vannak szÃ©p szÃ¡mmal... de nekem meg elvÃ©gzendÅ‘ dolgaim vannak.}
+{149}{}{Erre mÃ©g visszatÃ©rek, de elÅ‘bb kÃ©rdeznÃ©k valami mÃ¡st.}
+{150}{}{MesÃ©lje el nekem azokat a pletykÃ¡kat!}
+{151}{}{Mi az?}
+{152}{}{Fogadni mernÃ©k. BocsÃ¡nat, de tÃºl sok dolgom van. ViszlÃ¡t!}
 {153}{}{I've got a great big ol' digger machine down in my mine. Problem is that the control chip for it
  don't work anymore. I need a new one if I want to expand my operations.}
-{154}{}{Ez érdekes, de hogy jövök én a képbe?}
-{155}{}{A várostól nyugatra lévõ Nagy Wanamingo Bányának is kell legyen egy ugyanolyan exkavátora. Elég régóta elhagyottan áll, szóval azt hiszem, nekik még van egy mûködõ chipjük a gépükben.}
-{156}{}{Elég egyszerûen hangzik. Hogyhogy még nem intézte el maga?}
-{157}{}{Egyáltalán nem olyan egyszerû. Tudja, a Nagy Wanamingo Bánya elátkozott egy hely. Az emberek lemennek, de sosem térnek vissza. Ez volt a fõ oka, hogy bezárták. Valaha nagy pénzt hozó hely volt. Ma már nem.}
-{158}{}{Szóval azt akarja, hogy szerezzem meg a a bányából az ásógép-csipet. Mennyit ér ez meg magának?}
-{159}{}{1000 dollárt adok a chipért. McGrew odaát a Morningstarban bizonyára ugyanennyit megadna, de õ elkötelezte magát a francos New Reno-i banditák mellett. Ki nem állhatom azokat az erõszakos gazembereket. Szóval, hadd adjam én a pénzt, rendben?}
-{160}{}{Meglátjuk. Még egy dolog... ez nagy pénz. Az a bánya elég veszélyes lehet.}
-{161}{}{Hát, nem egy sétagalopp, édesem. De maga olyannak néz ki, aki tud vigyázni magára. Akárhogy is, ha elhozza a csipet, megkapja tõlem a pénzt. Érdekli? }
-{162}{}{Igen, érdekel. Számíthat rám!}
-{163}{}{Nos, ezt még meggondolom. Addig is viszlát!}
-{164}{}{Nagyszerû! Minél elõbb visszatér az exkavátor chippel, annál jobb.}
-{165}{}{Meglátom, mit tehetek. Elõbb hadd kérdezzek még valamit.}
-{166}{}{Rendben, körülnézek. Viszlát!}
-{167}{}{Hát, a szokásos pletykák Redding elfoglalásáról, meg arról, hogy éjszaka wanamingók másznak elõ a temetõben. A francba, valaki még azzal is elõhozakodott, hogy néhány hónapja valami repülõ szerkezet szállt el felettünk.}
-{168}{}{Mire kíváncsi még?}
-{169}{}{Mit hallott az elfoglalásról?}
+{154}{}{Ez Ã©rdekes, de hogy jÃ¶vÃ¶k Ã©n a kÃ©pbe?}
+{155}{}{A vÃ¡rostÃ³l nyugatra lÃ©vÅ‘ Nagy Wanamingo BÃ¡nyÃ¡nak is kell legyen egy ugyanolyan exkavÃ¡tora. ElÃ©g rÃ©gÃ³ta elhagyottan Ã¡ll, szÃ³val azt hiszem, nekik mÃ©g van egy mÅ±kÃ¶dÅ‘ chipjÃ¼k a gÃ©pÃ¼kben.}
+{156}{}{ElÃ©g egyszerÅ±en hangzik. Hogyhogy mÃ©g nem intÃ©zte el maga?}
+{157}{}{EgyÃ¡ltalÃ¡n nem olyan egyszerÅ±. Tudja, a Nagy Wanamingo BÃ¡nya elÃ¡tkozott egy hely. Az emberek lemennek, de sosem tÃ©rnek vissza. Ez volt a fÅ‘ oka, hogy bezÃ¡rtÃ¡k. Valaha nagy pÃ©nzt hozÃ³ hely volt. Ma mÃ¡r nem.}
+{158}{}{SzÃ³val azt akarja, hogy szerezzem meg a a bÃ¡nyÃ¡bÃ³l az Ã¡sÃ³gÃ©p-csipet. Mennyit Ã©r ez meg magÃ¡nak?}
+{159}{}{1000 dollÃ¡rt adok a chipÃ©rt. McGrew odaÃ¡t a Morningstarban bizonyÃ¡ra ugyanennyit megadna, de Å‘ elkÃ¶telezte magÃ¡t a francos New Reno-i banditÃ¡k mellett. Ki nem Ã¡llhatom azokat az erÅ‘szakos gazembereket. SzÃ³val, hadd adjam Ã©n a pÃ©nzt, rendben?}
+{160}{}{MeglÃ¡tjuk. MÃ©g egy dolog... ez nagy pÃ©nz. Az a bÃ¡nya elÃ©g veszÃ©lyes lehet.}
+{161}{}{HÃ¡t, nem egy sÃ©tagalopp, Ã©desem. De maga olyannak nÃ©z ki, aki tud vigyÃ¡zni magÃ¡ra. AkÃ¡rhogy is, ha elhozza a csipet, megkapja tÅ‘lem a pÃ©nzt. Ã‰rdekli? }
+{162}{}{Igen, Ã©rdekel. SzÃ¡mÃ­that rÃ¡m!}
+{163}{}{Nos, ezt mÃ©g meggondolom. Addig is viszlÃ¡t!}
+{164}{}{NagyszerÅ±! MinÃ©l elÅ‘bb visszatÃ©r az exkavÃ¡tor chippel, annÃ¡l jobb.}
+{165}{}{MeglÃ¡tom, mit tehetek. ElÅ‘bb hadd kÃ©rdezzek mÃ©g valamit.}
+{166}{}{Rendben, kÃ¶rÃ¼lnÃ©zek. ViszlÃ¡t!}
+{167}{}{HÃ¡t, a szokÃ¡sos pletykÃ¡k Redding elfoglalÃ¡sÃ¡rÃ³l, meg arrÃ³l, hogy Ã©jszaka wanamingÃ³k mÃ¡sznak elÅ‘ a temetÅ‘ben. A francba, valaki mÃ©g azzal is elÅ‘hozakodott, hogy nÃ©hÃ¡ny hÃ³napja valami repÃ¼lÅ‘ szerkezet szÃ¡llt el felettÃ¼nk.}
+{168}{}{Mire kÃ­vÃ¡ncsi mÃ©g?}
+{169}{}{Mit hallott az elfoglalÃ¡srÃ³l?}
 {170}{}{Mi az a wanamingo?}
-{171}{}{Repülõ szerkezetet láttak?}
-{172}{}{Úgy látom, az emberek mindenhol ugyanazokról a dolgokról pletykálnak. Beszéljünk valami másról!}
-{173}{}{Imádom hallgatni, de mennem kell. Viszlát!}
-{174}{}{Az emberek állandóan azt beszélik, hogy Menedékváros rá akarja tenni a kezét az aranyunkra, ezért el akar bennünket foglalni. Meg, hogy az egyik New Reno-i család mindenkit rászoktat itt a drogra, hogy megkaparintsa a városunkat. Arról is beszélnek, hogy az ÚKK annektálni akar minket. Én mondom magának, az ÚKK-val járnánk a legjobban - de az biztos, hogy egytõl-egyig csak az aranyunkra pályáznak. Redding, lekopogom, egyelõre független.}
-{175}{}{Mi a helyzet a többi pletykával?}
-{176}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{177}{}{A wanamingók a legrosszindulatúbb lények a világon. Kétembernyi magasak, erõsebbek mint egy brahmin bika, és karok helyett csapkodó szívócsápjaik vannak. Ja, és puskával nem sebezhetõk. Bizonyára az ingyijánok idézték meg õket, bosszúból azért, amit a fehér ember a háborúval okozott. De azért nem vennék rá mérget.}
-{178}{}{Mi a helyzet a többi pletykával?}
-{179}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
-{180}{}{Ó, igen. Nos, néhány bányászom maga is repkedett valamicskét régebben. Jeteztek, ha nem volnék elég világos. Égre-földre esküdöztek, hogy láttak egy hajót dél-nyugati irányba repülni.}
-{181}{}{Mi a helyzet a többi pletykával?}
-{182}{}{Nagyjából ennyi információra lett volna szükségem. Viszlát!}
+{171}{}{RepÃ¼lÅ‘ szerkezetet lÃ¡ttak?}
+{172}{}{Ãšgy lÃ¡tom, az emberek mindenhol ugyanazokrÃ³l a dolgokrÃ³l pletykÃ¡lnak. BeszÃ©ljÃ¼nk valami mÃ¡srÃ³l!}
+{173}{}{ImÃ¡dom hallgatni, de mennem kell. ViszlÃ¡t!}
+{174}{}{Az emberek Ã¡llandÃ³an azt beszÃ©lik, hogy MenedÃ©kvÃ¡ros rÃ¡ akarja tenni a kezÃ©t az aranyunkra, ezÃ©rt el akar bennÃ¼nket foglalni. Meg, hogy az egyik New Reno-i csalÃ¡d mindenkit rÃ¡szoktat itt a drogra, hogy megkaparintsa a vÃ¡rosunkat. ArrÃ³l is beszÃ©lnek, hogy az ÃšKK annektÃ¡lni akar minket. Ã‰n mondom magÃ¡nak, az ÃšKK-val jÃ¡rnÃ¡nk a legjobban - de az biztos, hogy egytÅ‘l-egyig csak az aranyunkra pÃ¡lyÃ¡znak. Redding, lekopogom, egyelÅ‘re fÃ¼ggetlen.}
+{175}{}{Mi a helyzet a tÃ¶bbi pletykÃ¡val?}
+{176}{}{Azt hiszem, ennÃ©l tÃ¶bbet most nem akartam tudni. ViszlÃ¡t!}
+{177}{}{A wanamingÃ³k a legrosszindulatÃºbb lÃ©nyek a vilÃ¡gon. KÃ©tembernyi magasak, erÅ‘sebbek mint egy brahmin bika, Ã©s karok helyett csapkodÃ³ szÃ­vÃ³csÃ¡pjaik vannak. Ja, Ã©s puskÃ¡val nem sebezhetÅ‘k. BizonyÃ¡ra az ingyijÃ¡nok idÃ©ztÃ©k meg Å‘ket, bosszÃºbÃ³l azÃ©rt, amit a fehÃ©r ember a hÃ¡borÃºval okozott. De azÃ©rt nem vennÃ©k rÃ¡ mÃ©rget.}
+{178}{}{Mi a helyzet a tÃ¶bbi pletykÃ¡val?}
+{179}{}{Azt hiszem, ennÃ©l tÃ¶bbet most nem akartam tudni. ViszlÃ¡t!}
+{180}{}{Ã“, igen. Nos, nÃ©hÃ¡ny bÃ¡nyÃ¡szom maga is repkedett valamicskÃ©t rÃ©gebben. Jeteztek, ha nem volnÃ©k elÃ©g vilÃ¡gos. Ã‰gre-fÃ¶ldre eskÃ¼dÃ¶ztek, hogy lÃ¡ttak egy hajÃ³t dÃ©l-nyugati irÃ¡nyba repÃ¼lni.}
+{181}{}{Mi a helyzet a tÃ¶bbi pletykÃ¡val?}
+{182}{}{Azt hiszem, ennÃ©l tÃ¶bbet most nem akartam tudni. ViszlÃ¡t!}
 {183}{}{Well, Dan and his Morningstar boys favor those mobsters from New Reno. I guess that Redding'll be
  one big Jet addict slum before too long.}
-{184}{}{Ez nem igazán tartozik rám. Beszéljünk valami másról!}
-{185}{}{Na, igen. Viszlát!}
-{186}{}{Egy ekkora városban mindenki többet tud a kelleténél a többiekrõl. Tehát mirõl van szó?}
-{187}{}{Mennyit is akart adni érte?}
-{188}{}{1000 dollárt. Itt és most. Kell vagy nem?}
-{189}{}{Oké, kell. Itt a chip.}
-{190}{}{Nem akarom elhamarkodni ezt a döntést.}
-{191}{}{Azt hiszi, kap jobb ajánlatot? Gondolja meg, haver! Nem hiszem, hogy többet ajánlanának. Mondjuk ezt magának kell eldöntenie...}
-{192}{}{Rendben, eladom magának. Itt a chip.}
-{193}{}{Azt hiszem, azért körülnéznék még egy kicsit. Viszlát!}
-{194}{}{Helyesen döntött. Köszönöm. Viszem is rögtön, hogy munkába tudjuk állítani az exkavátort.}
-{195}{}{Nagyszerû! Viszont kérdezni szeretnék még valamit elõtte.}
-{196}{}{Kösz a készpénzt. Viszlát!}
-{197}{}{Igen? Hát, kösz. Tisztára elérzékenyültem. Mit akar?}
-{198}{}{Kérdezni akarok valamit.}
-{199}{}{Semmit. Csak nézelõdöm. Viszlát!}
-{200}{}{Miért ne? Igazából nem tudom, honnan származik a név. Azt hiszem, mindig is így hívták. Még mielõtt én idekerültem volna. Olyan romantikus csengése van, nem? Ko-ko-weef. Igen, még mindig tetszik a hangzása.}
-{201}{}{Ööö, igen. Rendben. Izé, mit is mondott, mit bányásznak itt?}
-{202}{}{Aha. Hát, én akkor megyek is. Viszlát!}
+{184}{}{Ez nem igazÃ¡n tartozik rÃ¡m. BeszÃ©ljÃ¼nk valami mÃ¡srÃ³l!}
+{185}{}{Na, igen. ViszlÃ¡t!}
+{186}{}{Egy ekkora vÃ¡rosban mindenki tÃ¶bbet tud a kelletÃ©nÃ©l a tÃ¶bbiekrÅ‘l. TehÃ¡t mirÅ‘l van szÃ³?}
+{187}{}{Mennyit is akart adni Ã©rte?}
+{188}{}{1000 dollÃ¡rt. Itt Ã©s most. Kell vagy nem?}
+{189}{}{OkÃ©, kell. Itt a chip.}
+{190}{}{Nem akarom elhamarkodni ezt a dÃ¶ntÃ©st.}
+{191}{}{Azt hiszi, kap jobb ajÃ¡nlatot? Gondolja meg, haver! Nem hiszem, hogy tÃ¶bbet ajÃ¡nlanÃ¡nak. Mondjuk ezt magÃ¡nak kell eldÃ¶ntenie...}
+{192}{}{Rendben, eladom magÃ¡nak. Itt a chip.}
+{193}{}{Azt hiszem, azÃ©rt kÃ¶rÃ¼lnÃ©znÃ©k mÃ©g egy kicsit. ViszlÃ¡t!}
+{194}{}{Helyesen dÃ¶ntÃ¶tt. KÃ¶szÃ¶nÃ¶m. Viszem is rÃ¶gtÃ¶n, hogy munkÃ¡ba tudjuk Ã¡llÃ­tani az exkavÃ¡tort.}
+{195}{}{NagyszerÅ±! Viszont kÃ©rdezni szeretnÃ©k mÃ©g valamit elÅ‘tte.}
+{196}{}{KÃ¶sz a kÃ©szpÃ©nzt. ViszlÃ¡t!}
+{197}{}{Igen? HÃ¡t, kÃ¶sz. TisztÃ¡ra elÃ©rzÃ©kenyÃ¼ltem. Mit akar?}
+{198}{}{KÃ©rdezni akarok valamit.}
+{199}{}{Semmit. Csak nÃ©zelÅ‘dÃ¶m. ViszlÃ¡t!}
+{200}{}{MiÃ©rt ne? IgazÃ¡bÃ³l nem tudom, honnan szÃ¡rmazik a nÃ©v. Azt hiszem, mindig is Ã­gy hÃ­vtÃ¡k. MÃ©g mielÅ‘tt Ã©n idekerÃ¼ltem volna. Olyan romantikus csengÃ©se van, nem? Ko-ko-weef. Igen, mÃ©g mindig tetszik a hangzÃ¡sa.}
+{201}{}{Ã–Ã¶Ã¶, igen. Rendben. IzÃ©, mit is mondott, mit bÃ¡nyÃ¡sznak itt?}
+{202}{}{Aha. HÃ¡t, Ã©n akkor megyek is. ViszlÃ¡t!}

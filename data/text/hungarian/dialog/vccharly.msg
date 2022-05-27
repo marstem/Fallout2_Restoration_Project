@@ -1,34 +1,34 @@
 {100}{}{Charlie.}
-{101}{}{Egy sovány embert látsz. Hajának egy része nagy csomókban hiányzik a fejérõl, a bõre cafatokban lóg.}
+{101}{}{Egy sovÃ¡ny embert lÃ¡tsz. HajÃ¡nak egy rÃ©sze nagy csomÃ³kban hiÃ¡nyzik a fejÃ©rÅ‘l, a bÅ‘re cafatokban lÃ³g.}
 {102}{}{Charlie.}
-{103}{}{Egy sovány embert látsz. Hajának egy része nagy csomókban hiányzik a fejérõl, a bõre cafatokban lóg.}
-{104}{}{Egy sovány embert látsz, úgy tûnik, komoly bajban van.}
+{103}{}{Egy sovÃ¡ny embert lÃ¡tsz. HajÃ¡nak egy rÃ©sze nagy csomÃ³kban hiÃ¡nyzik a fejÃ©rÅ‘l, a bÅ‘re cafatokban lÃ³g.}
+{104}{}{Egy sovÃ¡ny embert lÃ¡tsz, Ãºgy tÅ±nik, komoly bajban van.}
 {105}{}{Charlie.}
-{106}{}{Egy sovány embert látsz, úgy tûnik, komoly bajban van.}
-{107}{}{Õ Charlie. Már sokkal jobb bõrben van és nem kapkod levegõ után.}
+{106}{}{Egy sovÃ¡ny embert lÃ¡tsz, Ãºgy tÅ±nik, komoly bajban van.}
+{107}{}{Å Charlie. MÃ¡r sokkal jobb bÅ‘rben van Ã©s nem kapkod levegÅ‘ utÃ¡n.}
 {108}{}{Charlie.}
-{109}{}{Õ Charlie. Már sokkal jobb bõrben van és nem kapkod levegõ után.}
-{110}{}{Ez a férfi sugárfertõzött, orvosi kezelésre van szüksége.}
-{111}{}{Ez a férfi rémesen néz ki. Nem tudod, mi lehet a baja.}
-{112}{}{Kösz, de tényleg jól vagyok, komolyan! Az a Rad-Away cucc bejött.}
+{109}{}{Å Charlie. MÃ¡r sokkal jobb bÅ‘rben van Ã©s nem kapkod levegÅ‘ utÃ¡n.}
+{110}{}{Ez a fÃ©rfi sugÃ¡rfertÅ‘zÃ¶tt, orvosi kezelÃ©sre van szÃ¼ksÃ©ge.}
+{111}{}{Ez a fÃ©rfi rÃ©mesen nÃ©z ki. Nem tudod, mi lehet a baja.}
+{112}{}{KÃ¶sz, de tÃ©nyleg jÃ³l vagyok, komolyan! Az a Rad-Away cucc bejÃ¶tt.}
 {113}{}{You find a vein and inject the Rad-Away into Charlie's system.}
-{114}{}{*Öhrkkkk*...}
-{115}{}{5 Seconds}
-{116}{}{Uhhhhh...*köhh* *köhh*...}
-{117}{}{5 Seconds}
+{114}{}{*Ã–hrkkkk*...}
+{115}{}{3 mÃ¡sodperc}
+{116}{}{Uhhhhh...*kÃ¶hh* *kÃ¶hh*...}
+{117}{}{3 mÃ¡sodperc}
 {118}{}{Hrnnhhhh...*rotty*...ahhhhh}
-{119}{}{5 Seconds}
-{120}{}{Mi történt? Sokkal jobban érzem magam.}
-{121}{}{Meggyógyítottad Charlie-t.}
-{122}{}{*Nyöszörgés*}
-{123}{}{*Zihálás*}
-{124}{}{*Köhh-köhh*}
+{119}{}{3 mÃ¡sodperc}
+{120}{}{Mi tÃ¶rtÃ©nt? Sokkal jobban Ã©rzem magam.}
+{121}{}{MeggyÃ³gyÃ­tottad Charlie-t.}
+{122}{}{*NyÃ¶szÃ¶rgÃ©s*}
+{123}{}{*ZihÃ¡lÃ¡s*}
+{124}{}{*KÃ¶hh-kÃ¶hh*}
 {125}{}{*Rotty*}
-{126}{}{Most ittam utoljára ebbõl a mocskos vízbõl, az tuti.}
-{127}{}{Jól érzem magam. Köszönöm.}
-{128}{}{Ez a szar Rad-Away jól meghajt. WC-re kell mennem.}
-{129}{}{Kösz idegen, hálás vagyok. Sajnos nem volt pénzem az Auto-dokira.}
-{130}{}{Szeretnék adni valamit, de egy árva buznyákom sincs.}
-{131}{}{Most ittam utoljára ebbõl a mocskos vízbõl, az tuti.}
-{132}{}{Jól érzem magam. Köszönöm.}
-{133}{}{Ez a szar Rad-Away jól meghajt. WC-re kell mennem.}
+{126}{}{Most ittam utoljÃ¡ra ebbÅ‘l a mocskos vÃ­zbÅ‘l, az tuti.}
+{127}{}{MÃ¡r nem is vilÃ¡gÃ­tok. Szuper!}
+{128}{}{Ez a szar Rad-Away jÃ³l meghajt. WC-re kell mennem.}
+{129}{}{KÃ¶sz idegen, hÃ¡lÃ¡s vagyok. Sajnos nem volt pÃ©nzem az Auto-dokira.}
+{130}{}{SzeretnÃ©k adni valamit, de egy Ã¡rva buznyÃ¡kom sincs.}
+{131}{}{Most ittam utoljÃ¡ra ebbÅ‘l a mocskos vÃ­zbÅ‘l, az tuti.}
+{132}{}{MÃ¡r nem is vilÃ¡gÃ­tok. Szuper!}
+{133}{}{Ez a szar Rad-Away jÃ³l meghajt. WC-re kell mennem.}

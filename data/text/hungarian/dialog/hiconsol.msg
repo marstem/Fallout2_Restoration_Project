@@ -1,11 +1,11 @@
-{100}{}{Az áramfejlesztõ számítógép-konzolját látod.}
-{101}{}{Úgy tûnik, ez a gép szabályozza és irányítja az áramot Broken Hillsben..}
-{102}{}{Megfelelõ ok és hozzáértés híján, nem biztos, hogy jó ötlet babrálni vele.}
-{103}{}{A vezérlõk hozzáértés nélküli állítgatása nem fog Eriknek extra áramot adni.}
-{104}{}{Már irányítottál át Eric házába plusz áramot.}
-{105}{}{Megfelelõ ok és hozzáértés híján, nem biztos, hogy jó ötlet babrálni vele.}
-{106}{}{Megpróbálsz Eric házába plusz áramot irányítani, de nem sikerül.}
-{107}{}{Miközben próbálsz rájönni, hogy tudnál áramot átírányítani, a gép rendesen megrázza a kezed.}
-{108}{}{Sikerül rájönnöd, hogyan kell több áramot irányítani Eric házába.}
-{109}{}{Sikeresen átirányítasz Eric házába még egy kis áramot, és csak úgy, mellékesen optimalizálod Broken Hills teljes elektromos hálózatát.}
-{110}{}{Már irányítottál át Eric házába plusz áramot.}
+{100}{}{Az Ã¡ramfejlesztÅ‘ szÃ¡mÃ­tÃ³gÃ©p-konzoljÃ¡t lÃ¡tod.}
+{101}{}{Ãšgy tÅ±nik, ez a gÃ©p szabÃ¡lyozza Ã©s irÃ¡nyÃ­tja az Ã¡ramot Broken Hillsben..}
+{102}{}{MegfelelÅ‘ ok Ã©s hozzÃ¡Ã©rtÃ©s hÃ­jÃ¡n, nem biztos, hogy jÃ³ Ã¶tlet babrÃ¡lni vele.}
+{103}{}{A vezÃ©rlÅ‘k hozzÃ¡Ã©rtÃ©s nÃ©lkÃ¼li Ã¡llÃ­tgatÃ¡sa nem fog Eriknek extra Ã¡ramot adni.}
+{104}{}{MÃ¡r irÃ¡nyÃ­tottÃ¡l Ã¡t Eric hÃ¡zÃ¡ba plusz Ã¡ramot.}
+{105}{}{MegfelelÅ‘ ok Ã©s hozzÃ¡Ã©rtÃ©s hÃ­jÃ¡n, nem biztos, hogy jÃ³ Ã¶tlet babrÃ¡lni vele.}
+{106}{}{MegprÃ³bÃ¡lsz Eric hÃ¡zÃ¡ba plusz Ã¡ramot irÃ¡nyÃ­tani, de nem sikerÃ¼l.}
+{107}{}{MikÃ¶zben prÃ³bÃ¡lsz rÃ¡jÃ¶nni, hogy tudnÃ¡l Ã¡ramot Ã¡tÃ­rÃ¡nyÃ­tani, a gÃ©p rendesen megrÃ¡zza a kezed.}
+{108}{}{SikerÃ¼l rÃ¡jÃ¶nnÃ¶d, hogyan kell tÃ¶bb Ã¡ramot irÃ¡nyÃ­tani Eric hÃ¡zÃ¡ba.}
+{109}{}{Sikeresen Ã¡tirÃ¡nyÃ­tasz Eric hÃ¡zÃ¡ba mÃ©g egy kis Ã¡ramot, Ã©s csak Ãºgy, mellÃ©kesen optimalizÃ¡lod Broken Hills teljes elektromos hÃ¡lÃ³zatÃ¡t.}
+{110}{}{MÃ¡r irÃ¡nyÃ­tottÃ¡l Ã¡t Eric hÃ¡zÃ¡ba plusz Ã¡ramot.}

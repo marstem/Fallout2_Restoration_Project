@@ -13,9 +13,9 @@
 {231}{}{...Dios mio...}
 {232}{}{...il mio cuore...}
 {233}{}{hurrkkkk}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
+{240}{}{(L'uomo gira la testa verso di te. Sembra malato e febbricitante: gocce di sudore gli rigano il volto e bagnano i suoi vestiti. }
+{241}{}{Ti ignora e fissa Myron. Sembra stia aspettando che Myron dica qualcosa.)}
+{242}{}{Ti sta fissando; sembra stia aspettando che tu dica qualcosa.)}
 {243}{}{[Stare back at him with your meanest stare.]}
 {244}{}{[Stare back at him with mild disinterest.]}
 {245}{}{[Stare back at him with a sneering gaze.]}
@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore e' vivo. Perche' sei tornato?}
 {661}{}{(Una goccia di sudore scende lungo una guancia di Mordino.) Hai fatto quello che ti avevo chiesto? Louis Salvatore e' morto?}
 {662}{}{E' morto. La sua famiglia e' stata vendicata, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
+{663}{}{No, tornero' quando l'avro' ucciso.}
 {664}{}{Salvatore e' troppo ben sorvegliato. Mi vedo costretto a rinunciare al lavoro.}
 {670}{}{Se... rinunci a questo lavoro, saro' costretto ad... UCCIDERTI.}
 {671}{}{Dal momento che la metti su questo piano, tornero' quando sara' morto.}

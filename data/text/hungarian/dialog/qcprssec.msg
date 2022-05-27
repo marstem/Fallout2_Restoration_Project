@@ -1,18 +1,18 @@
-{100}{}{Egy kicsit telt, szõke titkárnõt látsz. Tuti feszülõs ruhát visel.}
-{101}{}{Az Elnök *személyi* titkárnõje.}
-{102}{}{Egy telt, nem annyira vonzó  buksz... úgy értem, titkárnõt látsz. Kicsit zilált a haja.}
-{103}{}{Hé? Mit szeretnél édes?}
-{104}{}{Most nem lehet, az elõbb tisztítottam le a ruhámat.}
-{105}{}{Ezúttal mit szeretne, Fontos úr?}
+{100}{}{Egy kicsit telt, szÅ‘ke titkÃ¡rnÅ‘t lÃ¡tsz. Tuti feszÃ¼lÅ‘s ruhÃ¡t visel.}
+{101}{}{Az ElnÃ¶k *szemÃ©lyi* titkÃ¡rnÅ‘je.}
+{102}{}{Egy telt, nem annyira vonzÃ³  buksz... Ãºgy Ã©rtem, titkÃ¡rnÅ‘t lÃ¡tsz. Kicsit zilÃ¡lt a haja.}
+{103}{}{HÃ©? Mit szeretnÃ©l Ã©des?}
+{104}{}{Most nem lehet, az elÅ‘bb tisztÃ­tottam le a ruhÃ¡mat.}
+{105}{}{EzÃºttal mit szeretne, Fontos Ãºr?}
 {106}{}{They don't call him *Dick* Richardson for nuthin'.}
-{107}{}{Jobban gépelek, mint te.}
-{108}{}{Kopoghatnál is, mielõtt így berontasz.}
-{109}{}{Szájat kéne öblögetnem.}
-{110}{}{Hová tûnt az a törlõrongy?}
-{111}{}{Jöhetne már egy fizetésemelés.}
-{112}{}{Ezek a titkosszolgálati ügynökök mind ugyanolyanok?}
-{113}{}{Gyere vissza késõbb! Most lesz pár percnyi munkám.}
-{114}{}{Nem mosom ki ezt a ruhát - késõbb még jól jöhet.}
-{115}{}{Az Elnök szerint én csókolok a legjobban.}
+{107}{}{Jobban gÃ©pelek, mint te.}
+{108}{}{KopoghatnÃ¡l is, mielÅ‘tt Ã­gy berontasz.}
+{109}{}{SzÃ¡jat kÃ©ne Ã¶blÃ¶getnem.}
+{110}{}{HovÃ¡ tÅ±nt az a tÃ¶rlÅ‘rongy?}
+{111}{}{JÃ¶hetne mÃ¡r egy fizetÃ©semelÃ©s.}
+{112}{}{Ezek a titkosszolgÃ¡lati Ã¼gynÃ¶kÃ¶k mind ugyanolyanok?}
+{113}{}{Gyere vissza kÃ©sÅ‘bb! Most lesz pÃ¡r percnyi munkÃ¡m.}
+{114}{}{Nem mosom ki ezt a ruhÃ¡t - kÃ©sÅ‘bb mÃ©g jÃ³l jÃ¶het.}
+{115}{}{Az ElnÃ¶k szerint Ã©n csÃ³kolok a legjobban.}
 {116}{}{Nem filmezel, ugye?}
-{117}{}{Hol van a térdeplõm? Csak vicceltem.}
+{117}{}{Hol van a tÃ©rdeplÅ‘m? Csak vicceltem.}

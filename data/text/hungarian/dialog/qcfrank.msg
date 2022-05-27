@@ -1,31 +1,31 @@
-{100}{}{Egy hatalmas, ember-szerû, páncélos figurát látsz.}
-{101}{}{Frank Horrigan-t, a Titkosszolgálat ügynökét látod.}
-{102}{}{Egy hatalmas, ember-szerû figurát látsz, aki a legtisztább gyûlölettel néz rád.}
-{103}{}{Nem mész innen sehova, mármint élve, apró mutánsom!}
-{104}{}{Te nyavalyás mutáns.}
-{105}{}{Vörös mutáns!}
-{106}{}{Elpusztítottál valamennyiünket.}
-{107}{}{Fizetni fogsz azért, amit tettél!}
+{100}{}{Egy hatalmas, ember-szerÅ±, pÃ¡ncÃ©los figurÃ¡t lÃ¡tsz.}
+{101}{}{Frank Horrigan-t, a TitkosszolgÃ¡lat Ã¼gynÃ¶kÃ©t lÃ¡tod.}
+{102}{}{Egy hatalmas, ember-szerÅ± figurÃ¡t lÃ¡tsz, aki a legtisztÃ¡bb gyÅ±lÃ¶lettel nÃ©z rÃ¡d.}
+{103}{}{Nem mÃ©sz innen sehova, mÃ¡rmint Ã©lve, aprÃ³ mutÃ¡nsom!}
+{104}{}{Te nyavalyÃ¡s mutÃ¡ns.}
+{105}{}{VÃ¶rÃ¶s mutÃ¡ns!}
+{106}{}{ElpusztÃ­tottÃ¡l valamennyiÃ¼nket.}
+{107}{}{Fizetni fogsz azÃ©rt, amit tettÃ©l!}
 {108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{110}{}{Ajjaj! Rossz történni itt. Futni vissza hajóra.}
-{111}{}{Jobb, ha felmegyek a hajóra, és eltûnök innen a búsba.}
-{112}{ssa3alt}{Messzire jutottál, messzebb, mint szabad lett volna, de még nem találkoztál Frank Horrigan-nel. A történet most befejezõdik, apró mutánsom. Itt az idõ, hogy meghalj!}
-{113}{}{Átgázolok rajtad, akár tetszik, akár nem!}
-{114}{}{Nem beszélhetnénk ezt át egy kicsit?}
-{115}{ssa4a}{Az F.E.V. toxin légszûrõnkbe való pumpálása nem tesz téged hõssé. Csak egy újabb mutáns vagy, akinek egyetlen lehetséges sorsa van: a pusztulás}
+{110}{}{Ajjaj! Rossz tÃ¶rtÃ©nni itt. Futni vissza hajÃ³ra.}
+{111}{}{Jobb, ha felmegyek a hajÃ³ra, Ã©s eltÅ±nÃ¶k innen a bÃºsba.}
+{112}{ssa3alt}{Messzire jutottÃ¡l, messzebb, mint szabad lett volna, de mÃ©g nem talÃ¡lkoztÃ¡l Frank Horrigan-nel. A tÃ¶rtÃ©net most befejezÅ‘dik, aprÃ³ mutÃ¡nsom. Itt az idÅ‘, hogy meghalj!}
+{113}{}{ÃtgÃ¡zolok rajtad, akÃ¡r tetszik, akÃ¡r nem!}
+{114}{}{Nem beszÃ©lhetnÃ©nk ezt Ã¡t egy kicsit?}
+{115}{ssa4a}{Az F.E.V. toxin lÃ©gszÅ±rÅ‘nkbe valÃ³ pumpÃ¡lÃ¡sa nem tesz tÃ©ged hÅ‘ssÃ©. Csak egy Ãºjabb mutÃ¡ns vagy, akinek egyetlen lehetsÃ©ges sorsa van: a pusztulÃ¡s}
 {116}{ssa4b}{Making our reactor melt-down means that things are going to be pretty hot in here soon. Pity you won't live long enough to see it. You're not a hero; you're just a walking corpse.}
-{117}{}{Vajon van akkora lángod, mint amekkora füstöd? Aligha.}
-{118}{}{Várj egy kicsit! Várj! Nem beszélhetnénk ezt meg?}
-{119}{ssa5}{Már megtettük. A beszéd ideje lejárt.}
-{120}{}{Legyen hát...}
-{121}{}{Várj!}
-{130}{ssa7}{Én Frank Horrigan vagyok. Az Egyesült Államok Titkosszolgálatától. Nem mész te innen sehova!}
-{131}{}{Átgázolok rajtad, akár tetszik, akár nem!}
-{132}{}{Várj, beszéljük ezt meg!}
-{133}{}{Nem megyek sehova, amíg ki nem tapostam belõled az utolsó szuszt is.}
-{134}{}{Eh? Frank "Ki a rák?"}
-{135}{}{Itt csak egyetlen aprócska mutánst látok, az pedig te vagy. Pusztulj, szörnyszülött!}
-{140}{ssa6}{Te mutáns söpredék! Próbálkozz csak a trükkjeiddel! Nem segít rajtad, semmi sem segít már!}
-{141}{}{Átgázolok rajtad, akár tetszik, akár nem!}
-{142}{}{Várj, beszéljük ezt meg!}
+{117}{}{Vajon van akkora lÃ¡ngod, mint amekkora fÃ¼stÃ¶d? Aligha.}
+{118}{}{VÃ¡rj egy kicsit! VÃ¡rj! Nem beszÃ©lhetnÃ©nk ezt meg?}
+{119}{ssa5}{MÃ¡r megtettÃ¼k. A beszÃ©d ideje lejÃ¡rt.}
+{120}{}{Legyen hÃ¡t...}
+{121}{}{VÃ¡rj!}
+{130}{ssa7}{Ã‰n Frank Horrigan vagyok. Az EgyesÃ¼lt Ãllamok TitkosszolgÃ¡latÃ¡tÃ³l. Nem mÃ©sz te innen sehova!}
+{131}{}{ÃtgÃ¡zolok rajtad, akÃ¡r tetszik, akÃ¡r nem!}
+{132}{}{VÃ¡rj, beszÃ©ljÃ¼k ezt meg!}
+{133}{}{Nem megyek sehova, amÃ­g ki nem tapostam belÅ‘led az utolsÃ³ szuszt is.}
+{134}{}{Eh? Frank "Ki a rÃ¡k?"}
+{135}{}{Itt csak egyetlen aprÃ³cska mutÃ¡nst lÃ¡tok, az pedig te vagy. Pusztulj, szÃ¶rnyszÃ¼lÃ¶tt!}
+{140}{ssa6}{Te mutÃ¡ns sÃ¶predÃ©k! PrÃ³bÃ¡lkozz csak a trÃ¼kkjeiddel! Nem segÃ­t rajtad, semmi sem segÃ­t mÃ¡r!}
+{141}{}{ÃtgÃ¡zolok rajtad, akÃ¡r tetszik, akÃ¡r nem!}
+{142}{}{VÃ¡rj, beszÃ©ljÃ¼k ezt meg!}

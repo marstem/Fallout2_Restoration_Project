@@ -1,109 +1,109 @@
-{100}{}{Rabszolga-hajcsár.}
-{150}{}{Pont olyannak néz ki, aki meg tudná védeni magát egy bunyóban.}
-{200}{}{Nocsak, friss hús... Üdvözöllek a rabszolga-céhben. A nevem Aidan. Üzletõni jötté? Jobban teszed, ha igen.}
-{201}{}{Mit is csinál pontosan ez a céh?}
-{202}{}{Rabszolga-Céh?}
-{203}{}{Szóga cé}
+{100}{}{Rabszolga-hajcsÃ¡r.}
+{150}{}{Pont olyannak nÃ©z ki, aki meg tudnÃ¡ vÃ©deni magÃ¡t egy bunyÃ³ban.}
+{200}{}{Nocsak, friss hÃºs... ÃœdvÃ¶zÃ¶llek a rabszolga-cÃ©hben. A nevem Aidan. ÃœzletÅ‘ni jÃ¶ttÃ©? Jobban teszed, ha igen.}
+{201}{}{Mit is csinÃ¡l pontosan ez a cÃ©h?}
+{202}{}{Rabszolga-CÃ©h?}
+{203}{}{SzÃ³ga cÃ©}
 {204}{}{Aruk kun sung?}
-{215}{}{[Aidan végigmustrál] Illenél közénk, de Metzgerrel kell beszélned errõl. Menj egyenesen be azon az ajtón!}
-{216}{}{[Aidan végigmustrál] Nem bírnád ezt a melót, de ki vagyok én, hogy döntsek? Metzgerrel kõ beszélned. Menj be egyenesen azon az ajtón!}
-{217}{}{Aszontam beszélj Metzgerrel. Megsüketültél, vagy egyszerûen hülye vagy?}
+{215}{}{[Aidan vÃ©gigmustrÃ¡l] IllenÃ©l kÃ¶zÃ©nk, de Metzgerrel kell beszÃ©lned errÅ‘l. Menj egyenesen be azon az ajtÃ³n!}
+{216}{}{[Aidan vÃ©gigmustrÃ¡l] Nem bÃ­rnÃ¡d ezt a melÃ³t, de ki vagyok Ã©n, hogy dÃ¶ntsek? Metzgerrel kÅ‘ beszÃ©lned. Menj be egyenesen azon az ajtÃ³n!}
+{217}{}{Aszontam beszÃ©lj Metzgerrel. MegsÃ¼ketÃ¼ltÃ©l, vagy egyszerÅ±en hÃ¼lye vagy?}
 {218}{}{Ki az a Metzger?}
-{219}{}{Feltennék még egy kérdést.}
-{220}{}{Kösz, beszélek vele.}
+{219}{}{FeltennÃ©k mÃ©g egy kÃ©rdÃ©st.}
+{220}{}{KÃ¶sz, Ãºgy lesz.}
 {221}{}{Medger}
 {222}{}{Uh... kay.}
 {230}{}{Most meghalsz!}
-{240}{}{Hülyéskedsz velem?! Rabszolgákat ejtünk foglyul és adunk el. Te is ezért vagy itt, nem? Akciót akarsz már, nemde?}
-{241}{}{Hülyéskedsz velem?! Rabszolgákat ejtünk foglyul és adunk el. Ha nem ezért jöttél, akkó minek?}
-{242}{}{Szóval te is beléptél... Ez érdekes lesz. Ha szereted az izgalmakat, jó munkát választottál. Ha nem, akkor nem fogsz sokáig élni.}
+{240}{}{HÃ¼lyÃ©skedsz velem?! RabszolgÃ¡kat ejtÃ¼nk foglyul Ã©s adunk el. Te is ezÃ©rt vagy itt, nem? AkciÃ³t akarsz mÃ¡r, nemde?}
+{241}{}{HÃ¼lyÃ©skedsz velem?! RabszolgÃ¡kat ejtÃ¼nk foglyul Ã©s adunk el. Ha nem ezÃ©rt jÃ¶ttÃ©l, akkÃ³ minek?}
+{242}{}{SzÃ³val te is belÃ©ptÃ©l... Ez Ã©rdekes lesz. Ha szereted az izgalmakat, jÃ³ munkÃ¡t vÃ¡lasztottÃ¡l. Ha nem, akkor nem fogsz sokÃ¡ig Ã©lni.}
 {243}{}{I never thought I would see that tat on a woman. It looks good though. Surprised Metzger... fuck it. So what do ya need?}
-{244}{}{Mi kell?? Eltévedtél vagy mi?}
-{245}{}{Helló, kishölgy. Mi kéne, ha volna?}
-{246}{}{Mi?}
-{247}{}{Be akarok lépni.}
-{248}{}{Honnan szerzitek a rabszolgákat?}
-{249}{}{Vennék pár rabszolgát.}
-{250}{}{Ismersz egy Vic nevû pasast?}
-{251}{}{Egy kereskedõt keresek.}
-{252}{}{Hallottál már a 13-as Menedékrõl?}
-{253}{}{Viszlát!}
-{254}{}{Munka.}
+{244}{}{Mi kell?? EltÃ©vedtÃ©l vagy mi?}
+{245}{}{HellÃ³, kishÃ¶lgy. Mi kÃ©ne, ha volna?}
+{246}{}{Hogy mondod?}
+{247}{}{Be akarok lÃ©pni.}
+{248}{}{Honnan szerzitek a rabszolgÃ¡kat?}
+{249}{}{VennÃ©k pÃ¡r rabszolgÃ¡t.}
+{250}{}{Ismersz egy Vic nevÅ± pasast?}
+{251}{}{Egy kereskedÅ‘t keresek.}
+{252}{}{HallottÃ¡l mÃ¡r a 13-as MenedÃ©krÅ‘l?}
+{253}{}{ViszlÃ¡t!}
+{254}{}{Munka kell.}
 {255}{}{Kaja.}
 {256}{}{Gyilok!}
-{257}{}{Ah...}
-{270}{}{Áh, egy vérszomjas fajta. Hát... Beszélj a fõnökkel! Talán van egy helyünk a számodra. Menj be azon az ajtón!}
-{271}{}{Metzgernek még sosem volt ribi rabszolga-hajcsárja, de ha tényleg ilyen vérszomjas vagy, akkor beszélj vele! Ott van a hátsó szobában.}
-{272}{}{Okké.}
-{273}{}{Öö.}
+{257}{}{Aghhh!}
+{270}{}{Ãh, egy vÃ©rszomjas fajta. HÃ¡t... BeszÃ©lj a fÅ‘nÃ¶kkel! TalÃ¡n van egy helyÃ¼nk a szÃ¡modra. Menj be azon az ajtÃ³n!}
+{271}{}{Metzgernek mÃ©g sosem volt ribi rabszolga-hajcsÃ¡rja, de ha tÃ©nyleg ilyen vÃ©rszomjas vagy, akkor beszÃ©lj vele! Ott van a hÃ¡tsÃ³ szobÃ¡ban.}
+{272}{}{OkkÃ©.}
+{273}{}{Ã–Ã¶Ã¶.}
 {274}{}{Krook}
-{280}{}{Errõl Metzgerrel kell beszélned! Általában nem ad el a magánembereknek. Már tele van... nagyobb vevõkkel.}
+{280}{}{ErrÅ‘l Metzgerrel kell beszÃ©lned! ÃltalÃ¡ban nem ad el a magÃ¡nembereknek. MÃ¡r tele van... nagyobb vevÅ‘kkel.}
 {281}{}{Ki az a Metzger?}
-{282}{}{Akkor kérdeznék valami mást.}
-{283}{}{Oké, viszlát!}
-{284}{}{És mi van Vic-kel?}
-{290}{}{Nem mondod... Na, tûnés innen!}
-{291}{}{Hülye gyökér!}
+{282}{}{Akkor kÃ©rdeznÃ©k valami mÃ¡st.}
+{283}{}{OkÃ©, viszlÃ¡t!}
+{284}{}{Ã‰s mi van Vic-kel?}
+{290}{}{Nem mondod... Na, tÅ±nÃ©s innen!}
+{291}{}{HÃ¼lye gyÃ¶kÃ©r!}
 {292}{}{Oook?}
-{293}{}{Hmph.}
-{300}{}{Nem valószínû. Az a hülye Vic átverte Metzgert valami rádióval. Kétlem, hogy eladná. Errõl vele személyesen kén' beszé'ned.}
-{301}{}{Hallom, megjavította a rádiót. Kérdezd meg Metzgert. Most már nem sok haszna van, nem valami jó áru.}
+{293}{}{Hmmm.}
+{300}{}{Nem valÃ³szÃ­nÅ±. Az a hÃ¼lye Vic Ã¡tverte Metzgert valami rÃ¡diÃ³val. KÃ©tlem, hogy eladnÃ¡. ErrÅ‘l vele szemÃ©lyesen kÃ©n' beszÃ©'ned.}
+{301}{}{Hallom, megjavÃ­totta a rÃ¡diÃ³t. KÃ©rdezd meg Metzgert. Most mÃ¡r nem sok haszna van, nem valami jÃ³ Ã¡ru.}
 {302}{}{Ki az a Metzger?}
 {303}{}{Hol van Metzger?}
-{304}{}{Oké, kösz. Viszlát!}
-{310}{}{Ott van a hátsó szobában.}
-{311}{}{Hülyéskedsz? Ott van hátul. Csak menj át azon az ajtón!}
-{312}{}{Oké.}
-{313}{}{Köszi.}
-{320}{}{Picsába, nem ismered Metzgert? Micsinálsz ebben a városban, ha nem õt keresed? Õ a Rabszolga-Céh feje.}
-{321}{}{Hányszor kell még elmondanom? Õ vezeti a Rabszolga-Céhet. Õ irányít bizonyos dolgokat a városban.}
-{322}{}{Kérdezhetek valami mást?}
-{323}{}{Oké, kösz.}
-{330}{}{Nem mondom meg... Metzger megnyúzna. Ráadásul, nem szeretnénk semmiféle vetélytársat.}
-{331}{}{Már mondtam, hogy nem beszélek errõl.}
-{332}{}{Mondd el, mielõtt lyukat csinálok a fejedbe!}
-{333}{}{Megértem. Kérdeznék még valamit.}
-{334}{}{Oké, viszlát!}
+{304}{}{OkÃ©, rendben. ViszlÃ¡t!}
+{310}{}{Ott van a hÃ¡tsÃ³ szobÃ¡ban.}
+{311}{}{HÃ¼lyÃ©skedsz? Ott van hÃ¡tul. Csak menj Ã¡t azon az ajtÃ³n!}
+{312}{}{OkÃ©.}
+{313}{}{KÃ¶sz.}
+{320}{}{PicsÃ¡ba, nem ismered Metzgert? MicsinÃ¡lsz ebben a vÃ¡rosban, ha nem Å‘t keresed? Å a Rabszolga-CÃ©h feje.}
+{321}{}{HÃ¡nyszor kell mÃ©g elmondanom? Å vezeti a Rabszolga-CÃ©het. Å irÃ¡nyÃ­t bizonyos dolgokat a vÃ¡rosban.}
+{322}{}{KÃ©rdezhetek mÃ©g valamit?}
+{323}{}{OkÃ©, kÃ¶sz.}
+{330}{}{Nem mondom meg... Metzger megnyÃºzna. RÃ¡adÃ¡sul, nem szeretnÃ©nk semmifÃ©le vetÃ©lytÃ¡rsat.}
+{331}{}{MÃ¡r mondtam, hogy nem beszÃ©lek errÅ‘l.}
+{332}{}{Mondd el, mielÅ‘tt lyukat csinÃ¡lok a fejedbe!}
+{333}{}{MegÃ©rtem. KÃ©rdeznÃ©k mÃ©g valamit.}
+{334}{}{OkÃ©, viszlÃ¡t!}
 {340}{}{Listen here, ya li'le shit head, don't you dare threaten me or anyone else in our guild, or you're dead. Get that? Dead.}
 {341}{}{Listen here, ya li'l cunt. Don't you dare threaten me or anyone else in our guild, or your dead. Get that? Dead.}
 {342}{}{Na, te kis Jetes, most meghalsz!}
-{343}{}{Baszd meg!}
-{344}{}{Bocsánat, kérlek, ne bánts!}
-{345}{}{Ja, persze. Most az egyszer életben hagylak.}
+{343}{}{CsesszÃ©k meg a hÃ¼lyesÃ©gÃ¼ket!}
+{344}{}{BocsÃ¡nat, kÃ©rlek, ne bÃ¡nts!}
+{345}{}{Ja, persze. Most az egyszer Ã©letben hagylak.}
 {350}{}{Oh, really? Maybe I should just blow a hole through your head right here 'n now. What do you think, hot shot?}
-{351}{}{Hozz ki magadból mindent!}
+{351}{}{Hozz ki magadbÃ³l mindent!}
 {352}{}{Ne nevettes!}
 {353}{}{Csak vicceltem, ember.}
-{354}{}{Elnézést. Én csak le akartalak nyûgözni.}
-{360}{}{Futás, mielõtt meggondolom magam!}
-{361}{}{Oké.}
-{370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
-{371}{}{Hö? Öö... óh.}
-{380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}
-{381}{}{Nem olyannak nézel ki, mint aki bírná ezt a melót. Metzger még soha nem alkalmazott nõt és kétlem, hogy most fog változtatni a szokásán.}
-{382}{}{Aszontam beszélj Metzgerrel!}
+{354}{}{ElnÃ©zÃ©st. Ã‰n csak le akartalak nyÅ±gÃ¶zni.}
+{360}{}{FutÃ¡s, mielÅ‘tt meggondolom magam!}
+{361}{}{OkÃ©.}
+{370}{}{Mit? Ja, te biztos a Mama Ã©tkezdÃ©jÃ©t keresed. Egy Ã©pÃ¼lettel lejjebb megtalÃ¡lod. L-e-j-j-e-b-b. Arra! [Aidan kimutat az ajtÃ³n.]}
+{371}{}{HÃ¶? Ã–Ã¶... Ã³h.}
+{380}{}{Szerintem csatlakozhatnÃ¡l hozzÃ¡nk, de Metzger mÃ©g soha nem vett fel nÅ‘t. Nem tudom miÃ©rt, de kÃ©tlem, hogy Ã©pp most vÃ¡ltoztatna a szokÃ¡sÃ¡n.}
+{381}{}{Nem olyannak nÃ©zel ki, mint aki bÃ­rnÃ¡ ezt a melÃ³t. Metzger mÃ©g soha nem alkalmazott nÅ‘t Ã©s kÃ©tlem, hogy most fog vÃ¡ltoztatni a szokÃ¡sÃ¡n.}
+{382}{}{Aszontam beszÃ©lj Metzgerrel!}
 {383}{}{Ki az a Metzger?}
-{384}{}{Van még pár kérdésem.}
-{385}{}{Kösz, beszélek vele.}
+{384}{}{KÃ©rdeznÃ©k mÃ©g.}
+{385}{}{KÃ¶sz, Ãºgy lesz.}
 {386}{}{Medger}
 {387}{}{Uh... kay.}
-{400}{}{Nem, de én megkérdezném helyedben a fõnököt. Õ már biztosan járt ott.}
-{401}{}{Van még pár kérdésem.}
-{402}{}{Oké, kösz. Viszlát!}
-{410}{}{Kereskedõ? Ó, biztos Vicet keresed, õ árul régi menedékekbõl való cuccokat. Rábaszott. Metzger nagyon mérges rá.}
-{411}{}{Ja, Vic... az a kereskedõ fickó, ugye? Amelyik régi menedékekbõl való cuccokat árul. Rábaszott. Metzger nagyon dühös rá.}
-{412}{}{Hányszor fogod még megkérdezni? Metzger elkapta.}
+{400}{}{Nem, de Ã©n megkÃ©rdeznÃ©m helyedben a fÅ‘nÃ¶kÃ¶t. Å mÃ¡r biztosan jÃ¡rt ott.}
+{401}{}{KÃ©rdeznÃ©k mÃ©g.}
+{402}{}{OkÃ©, rendben. ViszlÃ¡t!}
+{410}{}{KereskedÅ‘? Ã“, biztos Vicet keresed, Å‘ Ã¡rul rÃ©gi menedÃ©kekbÅ‘l valÃ³ cuccokat. RÃ¡baszott. Metzger nagyon mÃ©rges rÃ¡.}
+{411}{}{Ja, Vic... az a kereskedÅ‘ fickÃ³, ugye? Amelyik rÃ©gi menedÃ©kekbÅ‘l valÃ³ cuccokat Ã¡rul. RÃ¡baszott. Metzger nagyon dÃ¼hÃ¶s rÃ¡.}
+{412}{}{HÃ¡nyszor fogod mÃ©g megkÃ©rdezni? Metzger elkapta.}
 {413}{}{Ki az a Metzger?}
-{414}{}{Feltennék még pár kérdést.}
-{415}{}{Eladó?}
-{416}{}{Oké, kösz.}
-{430}{}{Hé, fiúk, nézzétek már, ki jött vissza hozzánk!}
-{431}{}{Fussatok, egy rabszolga-hajcsár! Áh, szétröhögöm magam!}
-{432}{}{Visszajöttél akciózni?}
-{433}{}{Tudod a járást...}
+{414}{}{FeltennÃ©k mÃ©g pÃ¡r kÃ©rdÃ©st.}
+{415}{}{EladÃ³?}
+{416}{}{OkÃ©, kÃ¶sz.}
+{430}{}{HÃ©, fiÃºk, nÃ©zzÃ©tek mÃ¡r, ki jÃ¶tt vissza hozzÃ¡nk!}
+{431}{}{Fussatok, egy rabszolga-hajcsÃ¡r! Ãh, szÃ©trÃ¶hÃ¶gÃ¶m magam!}
+{432}{}{VisszajÃ¶ttÃ©l akciÃ³zni?}
+{433}{}{Tudod a jÃ¡rÃ¡st...}
 {434}{}{Menj csak be!}
-{435}{}{Már vár rád.}
+{435}{}{MÃ¡r vÃ¡r rÃ¡d.}
 {436}{}{Most meg mit akarsz?}
-{437}{}{Ismerem ezt a ronda pofát.}
-{438}{}{Na, mi az ábra?}
-{439}{}{Visszajöttél hát... Csatlakozol hozzánk?}
+{437}{}{Ismerem ezt a ronda pofÃ¡t.}
+{438}{}{Na, mi az Ã¡bra?}
+{439}{}{VisszajÃ¶ttÃ©l hÃ¡t... Csatlakozol hozzÃ¡nk?}

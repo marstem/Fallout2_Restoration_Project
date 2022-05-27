@@ -1,15 +1,15 @@
-{100}{}{Egy számítógép-terminált látsz.}
-{101}{}{A vezérlõ számítógép-terminált látod.}
-{102}{}{Egy szabványos számítógép-terminált látsz. Úgy tûnik, mûködõképes, és adatokat vár.}
-{103}{}{A terminál jelzése szerint az energia visszaállításával a Menedék bejáratánál lévõ biztonsági erõtér újra aktiválódott.}
-{104}{}{A terminál jelzése szerint energiahiány miatt a Menedékben minden biztonsági berendezés ki lett kapcsolva.}
-{105}{}{Az erõtér kikapcsolása.}
-{106}{}{Az erõtér bekapcsolása.}
-{107}{}{Megbeszéltük.}
-{108}{}{Kiadod a parancsot az erõtér deaktiválására.}
-{109}{}{Megbeszéltük.}
-{110}{}{Kiadod a parancsot az erõtér aktiválására.}
-{111}{}{Megbeszéltük.}
-{112}{}{A terminál jelzése szerint az erõtér kézivezérléssel ki lett kapcsolva.}
-{113}{}{A terminál jelzése szerint az erõteren áthatoltak.}
-{114}{}{A terminál jelzése szerint az erõtér ki lett kapcsolva.}
+{100}{}{Egy szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz.}
+{101}{}{A vezÃ©rlÅ‘ szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tod.}
+{102}{}{Egy szabvÃ¡nyos szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lt lÃ¡tsz. Ãšgy tÅ±nik, mÅ±kÃ¶dÅ‘kÃ©pes, Ã©s adatokat vÃ¡r.}
+{103}{}{A terminÃ¡l jelzÃ©se szerint az energia visszaÃ¡llÃ­tÃ¡sÃ¡val a MenedÃ©k bejÃ¡ratÃ¡nÃ¡l lÃ©vÅ‘ biztonsÃ¡gi erÅ‘tÃ©r Ãºjra aktivÃ¡lÃ³dott.}
+{104}{}{A terminÃ¡l jelzÃ©se szerint energiahiÃ¡ny miatt a MenedÃ©kben minden biztonsÃ¡gi berendezÃ©s ki lett kapcsolva.}
+{105}{}{Az erÅ‘tÃ©r kikapcsolÃ¡sa.}
+{106}{}{Az erÅ‘tÃ©r bekapcsolÃ¡sa.}
+{107}{}{[KÃ©sz]}
+{108}{}{Kiadod a parancsot az erÅ‘tÃ©r deaktivÃ¡lÃ¡sÃ¡ra.}
+{109}{}{[KÃ©sz]}
+{110}{}{Kiadod a parancsot az erÅ‘tÃ©r aktivÃ¡lÃ¡sÃ¡ra.}
+{111}{}{[KÃ©sz]}
+{112}{}{A terminÃ¡l jelzÃ©se szerint az erÅ‘tÃ©r kÃ©zivezÃ©rlÃ©ssel ki lett kapcsolva.}
+{113}{}{A terminÃ¡l jelzÃ©se szerint az erÅ‘teren Ã¡thatoltak.}
+{114}{}{A terminÃ¡l jelzÃ©se szerint az erÅ‘tÃ©r ki lett kapcsolva.}

@@ -1,239 +1,238 @@
-{100}{}{You see a wasted-looking junkie.}
-{101}{}{You see a hyperactive junkie.}
-{150}{}{You see a wasted-looking junkie. He is moving very slowly.}
-{151}{}{You see a wasted-looking junkie. He looks ill.}
-{152}{}{You see a wasted-looking junkie. He is so thin he looks like he would break in a strong wind.}
-{153}{}{You see a wasted-looking junkie. He is looking at you blearily.}
-{154}{}{You see a wasted-looking junkie. His eyes are so bloodshot it looks like he could cry bloody tears.}
-{155}{}{You see a wasted-looking junkie. Every time he moves, he winces, as if being stabbed with needles.}
-{156}{}{You see a wasted-looking junkie. There are bags under his eyes and a pained expression on his face.}
-{160}{}{You see a junkie. He has a blissful expression on his face.}
-{161}{}{You see a junkie. He is smiling slightly and moving to some invisible beat.}
-{162}{}{You see a junkie. He is staring off into space.}
-{163}{}{You see a junkie. He smiles and waves at something just beyond your ear.}
-{164}{}{You see a junkie. He keeps touching his face and mumbling to himself.}
-{165}{}{You see a junkie. Despite the bags under his eyes, he is smiling like he just won the lottery.}
-{170}{}{You see a wasted junkie. She is moving very slowly.}
-{171}{}{You see a wasted junkie. She looks like she hasn't eaten in months.}
-{172}{}{You see a wasted junkie. She is so thin, she looks like she would break in a strong wind.}
-{173}{}{You see a wasted junkie. Her eyes are like blown fuses.}
-{174}{}{You see a wasted junkie. She is looking at you hungrily.}
-{175}{}{You see a wasted junkie with bloodshot eyes.}
-{176}{}{You see a wasted-looking junkie. Every time she moves, she winces, as if being stabbed with needles.}
-{177}{}{You see a wasted junkie. There are bags under her eyes and a pained expression on her face.}
-{180}{}{You see a junkie. She has a blissful expression on her face.}
-{181}{}{You see a junkie. She is crying and smiling at the same time.}
-{182}{}{You see a junkie. She is smiling and dancing to some invisible song.}
-{183}{}{You see a junkie. She is staring off into space and sighing.}
-{184}{}{You see a junkie. She smiles and waves at something just beyond your ear.}
-{185}{}{You see a junkie. She keeps scratching the back of her hands.}
-{186}{}{You see a junkie. She is bending and weaving and can barely stand up straight.}
-{187}{}{You see a junkie. Despite her tattered appearance, she is smiling like she just won the lottery.}
-{200}{}{::Cheers, then winces::}
-{201}{}{::Claps weakly, wincing as he claps::}
-{202}{}{::Whistles dryly::}
-{210}{}{You are the best... uh, something. You are the best SOMETHING!}
-{211}{}{::Howls::}
-{212}{}{, you are better than JET!}
-{213}{}{::Cheers wildly::}
-{214}{}{::Claps wildly::}
+{100}{}{Você ve um drogado raquitico.}
+{101}{}{Você ve um viciado hiperativo.}
+{150}{}{Você ve um drogado raquitico. Ele se move muito devagar.}
+{151}{}{Voce ve um drogado raquitico. Ele parece doente.}
+{152}{}{Voce ve um drogado raquitico. Ele e tao magro que deveria trabalhar lavando mangueiras por dentro.}
+{153}{}{Voce ve um drogado raquitico. Ele te olha com a vista turva.}
+{154}{}{Voce ve um drogado raquitico. Seus olhos estao tao vermelhos que parece que ele poderia chorar sangue.}
+{155}{}{Voce ve um drogado raquitico. Tem muitos espasmos cada vez que se move, parece que esta sendo esfaqueado.}
+{156}{}{Voce be um drogado raquitico. Ha bolsas sob seus olhos e uma expressao de dor em seu rosto.}
+{160}{}{Voce ve um viciado. Ele tem uma expressao feliz em seu rosto.}
+{161}{}{Voce ve um viciado. Ele esta sorrindo levemente e se movendo em um ritmo estranho.}
+{162}{}{Voce ve um viciado. Ele esta olhando para o espaço.}
+{163}{}{Voce ve um viciado. Ele sorri e acena para algo atras do seu ouvido.}
+{164}{}{Voce ve um viciado. Ele toca seu rosto e murmura para si mesmo.}
+{165}{}{Voce ve um viciado. Apesar das bolsas sob os olhos, ele esta sorrindo como se tivesse acabado de ganhar na loteria.}
+{170}{}{Voce ve uma viciada raquitica. Ela move muito devagar.}
+{171}{}{Voce ve uma viciada raquitica. Parece que nao come ha meses.}
+{172}{}{Voce ve uma viciada raquitica. Ela e tao magra que deveria trabalhar lavando mangueiras por dentro.}
+{173}{}{Voce ve um viciado raquitico. Seus olhos sao como fusiveis queimados.}
+{174}{}{Voce ve uma viciada raquitica. Ela esta olhando para voce com fome.}
+{175}{}{Voce ve um drogado raquitico com olhos vermelhos.}
+{176}{}{Voce ve uma viciada raquitica. Tem tremores toda vez que se move, como se estivesse sendo esfaqueada.}
+{177}{}{Voce ve uma viciado raquitica. Ha bolsas sob seus olhos e uma expressao de dor em seu rosto.}
+{180}{}{Voce ve uma viciada. Ela tem uma expressao feliz em seu rosto.}
+{181}{}{Voce ve uma viciada. Ela esta chorando e sorrindo ao mesmo tempo.}
+{182}{}{Voce ve uma viciada. Ela esta sorrindo e dançando uma musica que vem da cabeça dela.}
+{183}{}{Voce ve uma viciada. Ela esta olhando para um espaço aberto e suspirando.}
+{184}{}{Voce ve uma viciada. Ela sorri e acena para algo atras do seu ouvido.}
+{185}{}{Voce ve uma viciado. Ela fica coçando as costas de suas maos.}
+{186}{}{Voce ve uma viciada. Ela esta se curvando e mal consegue ficar de pe.}
+{187}{}{Voce ve uma viciada. Apesar de sua aparencia esfarrapada, ela esta sorrindo como se tivesse acabado de ganhar na loteria.}
+{200}{}{::Aplausos, depois estremece::}
+{201}{}{::Aplaude fracamente, estremecendo enquanto isso::}
+{202}{}{::Assobia secamente::}
+{210}{}{Voce e o melhor... uh, alguma coisa. Voce e o melhor ALGO!}
+{211}{}{::Uivos::}
+{212}{}{, voce e melhor do que JET!}
+{213}{}{::Sauda loucamente::}
+{214}{}{::Aplaude descontroladamente::}
 {215}{}{::Assobios::}
-{220}{}{My head...}
-{221}{}{Crash and burn... crash and burn...}
-{222}{}{Hurts worse than last time...}
-{223}{}{And I think it's gonna be a long, long time...}
+{220}{}{Minha cabeça...}
+{221}{}{Bater e queimar... bater e queimar...}
+{222}{}{Do mais do que da ultima vez...}
+{223}{}{E acho que vai demorar muito, muito tempo...}
 {224}{}{::Ooooooh::}
-{225}{}{::Cries::}
+{225}{}{::Chora::}
 {226}{}{::Tosse::}
-{227}{}{::Scratches self::}
-{228}{}{::Mumbles to self::}
-{229}{}{Can't... can't keep going on like... this...}
-{230}{}{You seen Jules around? I need a fix.}
-{231}{}{You seen Jagged Jimmy J around? I need a fix.}
-{232}{}{I'm looking for Renesco's Pharmacy. Renesco'll set me up.}
-{233}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
-{240}{}{[Sings.] I... just want to fly. Put your arms around me, baby, put your arms around me, baby.}
-{241}{}{[Sings.] Rocketman, burning off the mmmmumble there alone...}
-{242}{}{Watch out! Pink deathclaw, three o' clock!}
-{243}{}{Too many lights! Burning my eyes, burning my eyes...}
-{244}{}{Lights are... too bright... ::Starts crying::}
-{245}{}{Reeeeee-no. Reeeeee-no. Reno?}
-{246}{}{Where did I leave my head?}
-{247}{}{Drinking - beers - smoking - weed}
-{248}{}{Snootchie Boochies}
-{249}{}{::Giggles::}
-{250}{}{::Laughs::}
-{251}{}{::Smiling and swaying slightly::}
+{227}{}{:: Se arranha::}
+{228}{}{::Resmunga para si mesmo::}
+{229}{}{Nao posso... nao posso continuar assim... isso...}
+{230}{}{Voce viu Jules por aí? Eu preciso de uma correçao.}
+{231}{}{Voce viu Jagged Jimmy J por ai? Eu preciso de uma correçao.}
+{232}{}{Procuro a Farmacia Renesco. Renesco vai armar para mim.}
+{233}{}{O autor desta traduçao esta mais louco que os viciados de New Reno neste momento. Aproveite o game ;)}
+{240}{}{[Canta] Voar voar, Subir subir, Ir por onde for, Descer até o céu cair, Ou mudar de cor, Anjos de gás, Asas de ilusão, E um sonho audaz feito um balão}
+{241}{}{[Canta] No ar no ar eu sou assim, Brilho do farol, Além do mais amargo fim...}
+{242}{}{Atenção! Deathclaw rosa, as tres horas!}
+{243}{}{Muitas luzes! Queimando meus olhos, meus olhos...}
+{244}{}{As luzes estao... muito brilhantes... ::Começa a chorar::}
+{245}{}{Reeeee-no. Reeeee-no. Reno?}
+{246}{}{Cade o chinelo? Cade o chinelo?}
+{247}{}{Beber - cervejas - fumar - diamba}
+{248}{}{Eita cuzaaaaauun}
+{249}{}{::Gargalhadas::}
+{250}{}{::Risos::}
+{251}{}{::Sorrindo e balançando levemente::}
 {252}{}{Wheeeeeeee}
-{253}{}{Pretty street. Pretty wall. Pretty stoned.}
-{254}{}{Whoa... where did the sky go...?}
-{255}{}{If my clothes don't stop talking to me, I'm going to take them off.}
-{256}{}{My shoes are breathing.}
-{257}{}{I know Fallout 2 isn't a 3D game, but it still should support my brand new GeForce card.}
-{258}{}{You looking at me?! You looking at me?!! I'll kill you!}
-{270}{}{Uh, I'd cheer your victory over the Enclave, but my head is pounding too much. Come back at night.}
-{271}{}{::Tries to clap, keeps missing::}
-{272}{}{Way to go. I was too high to see what you did, but I'm sure it was cool.}
-{273}{}{Uh... thanks for saving us. You, uh, got some extra chips to spare?}
-{274}{}{I saved the world once, too. I think. Maybe I was high.}
-{275}{}{Did the Enclave have any Jet?}
-{276}{}{Are you the one who caused that big boom down south? It made my head hurt.}
-{277}{}{I know you saved the world, but it's us minor NPCs that have to deal with the consequences.}
-{278}{}{Chris Avellone designed me, Tom French scripted me, so technically, I'm not responsible for
- my Jet addiction.}
-{279}{}{Yeah, yeah, it's great you solved the game. Of course, that means you'll be deleting all of
- us from your hard drive soon. Thanks a lot.}
-{291}{}{You are the best... uh, something. You are the best SOMETHING!}
-{292}{}{, you are better than JET!}
-{293}{}{Man, I wish I coulda seen that exploshun while I was high. Musta been somethin', huh?}
-{294}{}{I LOVE you! You are a HERO. A GODDAMN HERO. I COULD HUG YOU TO DEATH.}
-{295}{}{Next time you kick the Enclave's ass, come get me first, and we'll do it TOGETHER.}
-{296}{}{Kick ASS, }
-{297}{}{I know you saved the world, but it's us minor NPCs that have to deal with the consequences.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
- I LOVE that one.}
-{299}{}{Thanks for saving us. I'd kiss you if I didn't have puke breath.}
-{300}{}{I could have defeated the Enclave myself if I'd taken enough Jet.}
-{301}{}{[Sings.] "We don't need another hero, we don't need to know the way home..."}
-{302}{}{Chris Avellone designed me, Tom French scripted me, so technically, I'm not responsible for
- my Jet addiction.}
-{303}{}{Let's take some Jet together and celebrate your victory. You're buying.}
-{304}{}{Once you delete this game from your hard drive, will we exist?}
-{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
-{320}{}{How do you go to the bathroom with that thing on?}
-{321}{}{Uh... Est� falando comigo?}
-{322}{}{Oh man, these DTs must be getting worse. Now metallic people are talking to me.}
-{323}{}{Did somebody pour metal on you?}
-{324}{}{Ei, uh... voc� tem um jet a�?}
-{325}{}{Spare a few chips...? Uh, nevermind.}
-{326}{}{::Knocks on your armor:: Hello? Anybody home?}
-{327}{}{Are you some kind of strange refrigerator-human hybrid?}
-{328}{}{Does it get hot in there?}
-{350}{}{Give me some Jet, and I can tell where you can find some easy catches around here, slaver.}
-{351}{}{You can have my children, slaver, if you have some Jet to pay for them...}
-{352}{}{Just a few chips, and I'll be your slave... just let me go get some Jet first.}
-{353}{}{I'll be your slave, if you can give me some Jet.}
-{354}{}{You can sell me into slavery if you give me some Jet.}
-{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{360}{}{You th'fighter? You got some chips I ken borrow?}
-{361}{}{C'mon, gimme just a few chips.}
-{362}{}{Ken I borrow some cash? Look, I'll pay ya back.}
-{363}{}{Ei, uh... voc� tem algum jet?}
-{364}{}{Man, I need to *fly,* know what I'm saying?}
-{365}{}{I really need some medicine for my son. Help me out.}
-{366}{}{Spare a few chips?}
-{367}{}{I just need a few chips to buy some food...}
-{368}{}{I'll be your slave, if you can give me some Jet.}
-{369}{}{You can sell me into slavery if you give me some Jet.}
-{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{371}{}{You a member of the }
-{372}{}{Can I borrow a few chips...? C'mon, I'm good for it.}
-{373}{}{I'll work for Jet...}
-{380}{}{Hey, brother? Can you help me fly?}
-{381}{}{I'll do anything you want me to for some chips. Or Jet, if you got it.}
-{382}{}{You need someone to get high with, man?}
-{383}{}{Dad?}
-{384}{}{Man, I need to *fly,* know what I'm saying?}
-{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{386}{}{Psssst. Can you set up with some Jet?}
-{387}{}{Can I borrow a few chips...? I'll pay you back.}
-{388}{}{I'll work for Jet...}
-{389}{}{C'mon, friend, gimme just a few chips.}
-{390}{}{Ken I borrow some cash? Look, I'll pay ya back.}
-{391}{}{Ei, uh... voc� tem algum jet, parceiro?}
-{392}{}{I really need some medicine for my son. Help me out.}
-{393}{}{Spare a few chips?}
-{394}{}{I just need a few chips to buy some food... that's all...}
-{395}{}{I'll sleep with you for some Jet or a few chips. I'm clean, I promise.}
-{396}{}{I used to be the top man here in Reno. I can give you the scoop for some Jet...}
-{397}{}{I'll be your slave, if you can give me some Jet.}
-{398}{}{You can sell me into slavery if you give me some Jet.}
-{399}{}{Hey, sister? Can you help me fly?}
-{400}{}{C'mon, miss, gimme just a few chips.}
-{401}{}{Ei, uh... voc� tem algum jet, mo�a?}
-{402}{}{Look, I need to *fly,* know what I'm saying?}
-{403}{}{No, I'm off drugs. Uh... why? You buying?}
-{404}{}{M�e?}
-{420}{}{Hey, brother? Can you help me fly?}
-{421}{}{C'mon, boy, gimme just a few chips.}
-{422}{}{I'll sleep with you for some Jet or a few chips. I'm clean, I promise.}
-{423}{}{I'm cheaper than those family whores. Uh, don't tell them I'm pimping, though.}
-{424}{}{Eu farei qualquer coisa por alguns chips... ou jet, se voc� tiver.}
-{425}{}{I used to be the beauty queen here in Reno. I still got it...}
-{426}{}{You need someone to get high with, man?}
-{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{428}{}{Dad?}
-{429}{}{Psssst. Can you set up with some Jet?}
-{430}{}{Can I borrow a few chips...? I'll pay you back.}
-{431}{}{I'll work for Jet...}
-{432}{}{Ken I borrow some cash? Look, I'll pay ya back.}
-{433}{}{Hey, uh... you got any Jet, friend? Man, I need to *fly,* know what I'm saying?}
-{434}{}{I really need some medicine for my son. Help me out.}
-{435}{}{Spare a few chips?}
-{436}{}{I just need a few chips to buy some food... that's all...}
-{437}{}{I'll be your slave, if you can give me some Jet.}
-{438}{}{You can sell me into slavery if you give me some Jet.}
-{439}{}{C'mon, miss, gimme just a few chips.}
-{440}{}{Hey, sister? Can you help me fly?}
-{441}{}{I can please you... if you got some Jet for me.}
-{442}{}{Ei, uh... voc� tem algum jet, irm�?}
-{443}{}{Sister, I need to *fly,* know what I'm saying?}
-{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
-{445}{}{M�e?}
-{450}{}{Holy...! What are you? Some kind of row-bot?}
-{451}{}{What the hell were you taking to get covered in metal like that?}
-{452}{}{Whoa. A metal human. Talking to me.}
-{453}{}{If you're from another planet, you should go back there... there's nothing here for you
- to conquer.}
-{454}{}{Oooooh. I can see New Reno's lights in your visor.}
-{455}{}{I'm soooo high that... uh, what was I saying?}
-{456}{}{Man, you must be HOT in that thing.}
-{457}{}{Anybody in that thing?}
-{458}{}{Well, if it ain't Mr. Darttth Vadrrr}
-{459}{}{Man, I got to have some of that shit you're taking. You look like a big metal... thing.}
-{460}{}{Man, are YOU in the wrong game. Try one of the battle mech PC games.}
-{461}{}{You a spaceman?}
-{462}{}{I'd need a few more hits of Jet before I'd even think of messing with you.}
-{470}{}{Hey, slaver, wazzup?!}
-{471}{}{You gonna enslave me? Huh? Just try it! I'm invincible!}
-{472}{}{Try and catch me, slaver!}
-{473}{}{Wanna share some Jet, slaver?}
-{474}{}{I can barely see you down there slaver, I'm so high.}
-{475}{}{You messin' with me, slaver? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{476}{}{You wanna fly with me, slaver?}
-{477}{}{Why's there two o' you? That your twin?}
-{478}{}{Huh? You real?}
-{479}{}{I'm soooo high that... uh, what was I saying?}
-{480}{}{You looking to fly? Talk to Juuuuules.}
-{481}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{482}{}{You see Renesco, tell him I'll give him the money tomorrow.}
-{483}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
-{484}{}{You talkin' to me? You talkin' to me?!}
-{485}{}{You want some of this?! Huh?}
-{486}{}{::Olha para voc� com os olhos encharcados de droga::}
-{487}{}{You wanna fly with me?}
-{488}{}{Hey, champ, wazzup?!}
-{489}{}{You gonna box wi' me? Huh? C'mon!}
-{490}{}{You messin' with me, champ? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{500}{}{Ho! Made Man comin' through!}
-{501}{}{I can barely see you down there, gangster, I'm so high.}
-{502}{}{Why's there two o' you? That your twin?}
-{503}{}{Huh? You a real Made Man?}
-{504}{}{Gangster, I'm soooo high that... uh, what was I saying?}
-{505}{}{You wanna fly with me, gangster?}
-{506}{}{You looking to fly, gangster? Talk to Juuuuules.}
-{507}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{508}{}{If you'r here to collect for Renesco, tell him I'll have the money tomorrow.}
-{509}{}{Jagged Jimmy's shit's the BEST. Uh, unless you don't like him.}
-{510}{}{You talkin' to me? You talkin' to me?!}
-{511}{}{You messin' with me, mafia tool? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{512}{}{You want some of this, gangster?! Huh?}
-{513}{}{::Olha para voc� com os olhos encharcados de droga::}
+{253}{}{Rua bonita. Linda parede. Pedra fofinha.}
+{254}{}{Uau... para onde foi o ceu...?}
+{255}{}{Minhas roupas nao param de falar comigo, vou tirar essa porra.}
+{256}{}{Meus sapatos estao respirando.}
+{257}{}{O autor desta traduçao esta mais louco que os viciados de New Reno neste momento. Aproveite o game ;)}
+{258}{}{Voces sao um bando de filha da puta, tudo igual ele, bando de burgues safado!}
+{270}{}{Uh, eu aplaudiria sua vitoria sobre a Enclave, mas minha cabeça esta latejando demais. Volte a noite.}
+{271}{}{::Tenta bater palmas, nao consegue::}
+{272}{}{Muito bem feito. Eu estava muito chapado para ver o que voce fez, mas tenho certeza que foi legal.}
+{273}{}{Uh... obrigado por nos salvar. Voce, uh, tem alguns trocados, chefe?}
+{274}{}{Eu salvei o mundo uma vez tambem... acho. Ou talvez eu estivesse chapado.}
+{275}{}{E esses Enclave ai, tinha jet la?}
+{276}{}{Voce e o comedia que fez o grande boom no sul? Minha cabeça quase explodiu junto.}
+{277}{}{Eu sei que voce salvou o mundo, mas somos nos, NPCs menores, que temos que lidar com as consequencias.}
+{278}{}{Chris Avellone me projetou, Tom French me roteirizou, entao, tecnicamente, nao sou responsavel
+ pelo meu vício em Jet.}
+{279}{}{Sim, sim, e otimo que voce zerou o jogo. Claro, isso significa que logo voce estara nos excluindo 
+ do seu PC. Muito obrigado.}
+{291}{}{Voce e o melhor... uh, alguma coisa. Voce e o melhor ALGO!}
+{292}{}{, voce e melhor do que JET!}
+{293}{}{Cara, eu gostaria de ter visto aquele Explosao enquanto eu estava chapado. Foi loco, ne?}
+{294}{}{Eu te amo! Voce e um herói. UM HEROI DO CARALHO. EU PODERIA TE ABRAÇAR ATE A MORTE.}
+{295}{}{Da proxima vez que voce chutar o traseiro da Enclave, me convide antes, faremos isso JUNTOS.}
+{296}{}{Chutar CUS, }
+{297}{}{Eu sei que voce salvou o mundo, mas somos nos, NPCs menores, que temos que lidar com as consequencias.}
+{298}{}{Voce deveria rejogar o game com um personagem viciadao. Serio! Começa com o traço dependente
+ de drogas! EU AMO esse.}
+{299}{}{Obrigado por nos salvar. Eu te beijaria se nao tivesse bafo de vomito.}
+{300}{}{Eu mesmo poderia ter derrotado a Enclave se tivesse tomado Jet suficiente.}
+{301}{}{[Canta.] "Nao precisamos de outro heroi, nao precisamos saber o caminho de casa..."}
+{302}{}{Chris Avellone me projetou, Tom French me roteirizou, entao, tecnicamente, nao sou responsavel
+ pelo meu vício em Jet.}
+{303}{}{Vamos tomar um Jet juntos e comemorar sua vitoria. Por sua conta.}
+{304}{}{Vamos continuar existindo mesmo depois de voce excluir o game?}
+{305}{}{Uh... que tipo de teste de drogas a Enclave estava fazendo? Tinha jet gratis?}
+{320}{}{Como você usa o banheiro com isso?}
+{321}{}{Uh... Está falando comigo?}
+{322}{}{Oh cara, so piora a cada dia. Agora as pessoas metalicas estao falando comigo.}
+{323}{}{Alguem derramou metal em voce?}
+{324}{}{Ei, uh... você tem um jet aí?}
+{325}{}{Tem umas tampas sobrando...? Uh, nao importa.}
+{326}{}{::Bate na sua armadura:: Alo? Alguem em casa?}
+{327}{}{Voce e algum tipo de hibrido estranho humano-geladeira?}
+{328}{}{Ta quente ai dentro?}
+{350}{}{Me da um pouco de jet, e eu posso dizer onde voce pode encontrar algumas capturas faceis por aqui, escravista.}
+{351}{}{Voce pode ter meus filhos, escravista, se puder me pagar com alguns jets...}
+{352}{}{So algumas fichas, e eu serei seu escravo... So deixe eu pegar um pouco de jet primeiro.}
+{353}{}{Serei seu escravo, se voce puder me dar um pouco de jet.}
+{354}{}{Voce pode me vender como escravo se me der um pouco de Jet.}
+{355}{}{Nao, cara, estou sem drogas. Ah... por que? Voce vende?}
+{360}{}{Voce e um lutador? Pode me emprestar alguns trocados?}
+{361}{}{Vamos la, so uns trocadinhos.}
+{362}{}{Pode me emprestar algum dinheiro? Eu te pago de volta.}
+{363}{}{Ei, uh... você tem algum jet?}
+{364}{}{Cara, eu preciso *voar*, sabe o que estou dizendo?}
+{365}{}{Eu preciso de um remedio para o meu filho. Me ajude.}
+{366}{}{Tem tampas sobrando?}
+{367}{}{Eu so preciso de algumas tampas para comprar comida...}
+{368}{}{Serei seu escravo, se voce puder me dar um pouco de jet.}
+{369}{}{Voce pode me vender como escravo se me der um pouco de Jet.}
+{370}{}{Nao, cara, estou sem drogas. Ah... por que? Voce vende?}
+{371}{}{Você e um membro da }
+{372}{}{Pode me emprestar algumas tampas...? Vamos, eu sou bom pra isso.}
+{373}{}{Trabalharia por Jet...}
+{380}{}{Ei irmao? Voce pode me ajudar a voar?}
+{381}{}{Farei o que voce quiser por algumas tampas. Ou jet, tanto faz.}
+{382}{}{Precisa de alguem para ficar chapado, cara?}
+{383}{}{Papai?}
+{384}{}{Cara, eu preciso *voar*, sabe o que estou dizendo?}
+{385}{}{Nao, cara, estou sem drogas. Ah... por que? Voce vende?}
+{386}{}{Psssst. Voce pode me passar algum jet?}
+{387}{}{Pode me emprestar algumas tampas...? Eu pago voce de volta.}
+{388}{}{Trabalharia por Jet...}
+{389}{}{Vamos, amigo, me de apenas algumas tampas.}
+{390}{}{Pode me emprestar algum dinheiro? Eu te pago de volta.}
+{391}{}{Ei, uh... você tem algum jet, parceiro?}
+{392}{}{Eu preciso de um remedio para o meu filho. Me ajude.}
+{393}{}{Tem tampas sobrando?}
+{394}{}{So preciso de algumas tampas para comprar comida... so isso...}
+{395}{}{Eu durmo com voce por um jet ou tampas. Estou limpa, prometo.}
+{396}{}{Eu costumava ser o homem mais importante aqui em Reno. Posso te dar algumas coisas em troca de Jet...}
+{397}{}{Serei seu escravo, se voce puder me dar um pouco de jet.}
+{398}{}{Voce pode me vender como escravo se me der um pouco de Jet.}
+{399}{}{Ei, mocinha? Voce pode me ajudar a voar?}
+{400}{}{Vamos, moça, me de apenas algumas tampas.}
+{401}{}{Ei, uh... você tem algum jet, moça?}
+{402}{}{Olha, eu preciso *voar*, sabe o que estou dizendo?}
+{403}{}{Nao, estou sem drogas. Ah... por que? Você esta vendendo?}
+{404}{}{Mãe?}
+{420}{}{Ei irmao? Voce pode me ajudar a voar?}
+{421}{}{Vamos, carinha, me de apenas algumas tampas.}
+{422}{}{Eu durmo com voce por um jet ou tampas. Estou limpa, prometo.}
+{423}{}{Sou mais barata que aquelas putas da familia. Ei, mas nao diga a eles que eu faço isso.}
+{424}{}{Eu farei qualquer coisa por alguns chips... ou jet, se você tiver.}
+{425}{}{Eu costumava ser a rainha da beleza aqui em Reno. Ainda tenho algo...}
+{426}{}{Precisa de alguem para ficar chapado, cara?}
+{427}{}{Nao, cara, estou sem drogas. Ah... por que? Voce vende?}
+{428}{}{Papai?}
+{429}{}{Psssst. Voce pode me passar algum jet?}
+{430}{}{Pode me emprestar algumas tampas...? Eu pago voce de volta.}
+{431}{}{Trabalharia por Jet...}
+{432}{}{Pode me emprestar algum dinheiro? Eu te pago de volta.}
+{433}{}{Ei, uh... você tem algum jet, amigo? Cara, eu preciso dar uma *voada*, sabe?}
+{434}{}{Eu preciso de um remedio para o meu filho. Me ajude.}
+{435}{}{Tem tampas sobrando?}
+{436}{}{So preciso de algumas tampas para comprar comida... so isso...}
+{437}{}{Serei seu escravo, se voce puder me dar um pouco de jet.}
+{438}{}{Voce pode me vender como escravo se me der um pouco de Jet.}
+{439}{}{Vamos, moça, me de apenas algumas tampas.}
+{440}{}{Ei, mocinha? Voce pode me ajudar a voar?}
+{441}{}{Posso te agradar... se tiver um jet para mim.}
+{442}{}{Ei, uh... você tem algum jet, irmã?}
+{443}{}{Fia, eu preciso *voar* um pouco, esta entendendo?}
+{444}{}{Nao, fia, estou sem drogas. Ah... por que? Voce esta vendendo?}
+{445}{}{Mãe?}
+{450}{}{Santa mae de... Voce e o que? Algum tipo de robo?}
+{451}{}{O que voce anda tomando para ficar coberto de metal assim?}
+{452}{}{Uau. Um homem de metal. Falando comigo.}
+{453}{}{Se voce e de outro planeta, deveria voltar para la... não ha nada aqui para voce conquistar.}
+{454}{}{Oooh. Posso ver as luzes de New Reno na sua viseira.}
+{455}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{456}{}{Cara, deve ser QUENTE dentro dessa coisa.}
+{457}{}{Tem algo nessa coisa?}
+{458}{}{Bem, se nao e o Sr. Darttth Vadrrr}
+{459}{}{Cara, eu preciso de um pouco dessa coisa que voce esta tomando. Voceparece uma grande... coisa de metal.}
+{460}{}{Cara, voce esta no jogo errado. Bom, pelo menos nao esta jogando Fortnite.}
+{461}{}{Voce e algum homem do espaço?}
+{462}{}{Eu precisaria tomar umas boas doses de Jet antes de tentar mexer com voce.}
+{470}{}{Hey, escravista, como anda?!}
+{471}{}{Voce vai me escravizar? Huh? Pode tentar! Eu sou invencivel!}
+{472}{}{Tente me pegar, escravista!}
+{473}{}{Quer me passar um pouco de jet, escravista?}
+{474}{}{Eu mal posso te ver, escravista, estou tao chapado.}
+{475}{}{Ta me tirando, escravista? Eu sou bombado a base de jet! E vou chutar sua bunda daqui!}
+{476}{}{Voce quer voar comigo, escravista?}
+{477}{}{Por que voce sao dois? Esse e teu gemeo?}
+{478}{}{Huh? Voce e real?}
+{479}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{480}{}{Voce quer voar? Fale com a Juuuules.}
+{481}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{482}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
+{483}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
+{484}{}{Voce esta falando comigo? Voce esta falando comigo?!}
+{485}{}{Voce quer um pouco disso?! Huh?}
+{486}{}{::Olha para você com os olhos encharcados de droga::}
+{487}{}{Voce quer voar comigo?}
+{488}{}{Hey, campeao, de boas?!}
+{489}{}{Quer boxear comigo? Huh? Bora la!}
+{490}{}{Ta me tirando, campeao? Eu sou uma potencia bombada a jet! Eu vou chutar sua bunda daqui!}
+{500}{}{Opa! Iniciado chegando!}
+{501}{}{Mal consigo te ver ai, gangster, estou tao chapado.}
+{502}{}{Por que voce sao dois? Esse e teu gemeo?}
+{503}{}{Huh? Voce e um gangster mesmo?}
+{504}{}{Gangster, estou tao chapado que... uh, do que eu falava mesmo?}
+{505}{}{Voce quer voar comigo, gangster?}
+{506}{}{Voce quer voar, gangster? Fale com a Juuuules.}
+{507}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{508}{}{Se voce esta aqui para me cobrar sobre Renesco, diga a ele que terei o dinheiro amanha.}
+{509}{}{A merda do Jagged Jimmy e a MELHOR. Uh, a menos que voce nao goste dele.}
+{510}{}{Voce esta falando comigo? Voce esta falando comigo?!}
+{511}{}{Ta me tirando, bandidao? Eu sou uma potencia bombada a jet! Eu vou chutar sua bunda daqui!}
+{512}{}{Voce quer um pouco disso, gangster?! Huh?}
+{513}{}{::Olha para você com os olhos encharcados de droga::}
 {520}{}{Whoa... what are YOU on? Got any to share?}
 {521}{}{I thought *I* was fucked up.}
 {522}{}{Hey, friend... share some of that shit you're on.}
 {523}{}{I'd ask you to fly, but you look like you're already there.}
-{524}{}{Why's there two o' you? That your twin?}
+{524}{}{Por que voce sao dois? Esse e teu gemeo?}
 {525}{}{Where did you get that shit you're on?}
 {530}{}{Man, don't look now, but you got this brain in a box following you.}
 {531}{}{Whoa. I must be taking some baaad shit... I'm seeing robot brains running around.}
@@ -248,14 +247,14 @@
 {538}{}{You messin' with me, robot lover? I'm a Jet-pumped powerhouse! I'll kick YOUR ass
  and then your robot's ass!}
 {539}{}{You want some of this, robot-lover?! Huh?}
-{540}{}{Huh? You real?}
-{541}{}{I'm soooo high that... uh, what was I saying?}
-{542}{}{You looking to fly? Talk to Juuuuules.}
-{543}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{544}{}{You see Renesco, tell him I'll give him the money tomorrow.}
-{545}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
-{546}{}{You talkin' to me? You talkin' to me?!}
-{547}{}{::Olha para voc� com os olhos encharcados de droga::}
+{540}{}{Huh? Voce e real?}
+{541}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{542}{}{Voce quer voar? Fale com a Juuuules.}
+{543}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{544}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
+{545}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
+{546}{}{Voce esta falando comigo? Voce esta falando comigo?!}
+{547}{}{::Olha para você com os olhos encharcados de droga::}
 {548}{}{Man, don't look now, but you got this mutant following you.}
 {549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
 {550}{}{Am I high, or is your friend two-stories tall?}
@@ -275,21 +274,21 @@
 {564}{}{Am I high, or has your friend got a bone growing out of his nose?}
 {565}{}{Better tell your friend that somebody shoved a bone up his nose.}
 {566}{}{I can barely see you down there, I'm so high.}
-{567}{}{Why's there two o' you? That your twin?}
-{568}{}{Huh? You real?}
-{569}{}{I'm soooo high that... uh, what was I saying?}
-{570}{}{You wanna fly with me?}
-{571}{}{You looking to fly? Talk to Juuuuules.}
-{572}{}{Jagged Jimmy J 'fix' you up, know what I'm saying?}
-{573}{}{You see Renesco, tell him I'll give him the money tomorrow.}
-{574}{}{Jagged Jimmy's shit's the BEST. Get you soooo high, you NEVER want to come down.}
-{575}{}{You talkin' to me? You talkin' to me?!}
+{567}{}{Por que voce sao dois? Esse e teu gemeo?}
+{568}{}{Huh? Voce e real?}
+{569}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
+{570}{}{Voce quer voar comigo?}
+{571}{}{Voce quer voar? Fale com a Juuuules.}
+{572}{}{Jagged Jimmy J 'conserta' voce, entendeu?}
+{573}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
+{574}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
+{575}{}{Voce esta falando comigo? Voce esta falando comigo?!}
 {576}{}{You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{577}{}{You want some of this?! Huh?}
-{578}{}{::Olha para voc� com os olhos encharcados de droga::}
+{577}{}{Voce quer um pouco disso?! Huh?}
+{578}{}{::Olha para você com os olhos encharcados de droga::}
 {600}{}{Nice...}
 {601}{}{Mmmm...}
-{602}{}{Voc� � um amigo.}
+{602}{}{Você é um amigo.}
 {603}{}{j}
 {604}{}{J}
 {605}{}{Give me a J... ummm...}

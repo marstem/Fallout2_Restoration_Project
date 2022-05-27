@@ -1,9 +1,9 @@
-{100}{}{Ez egy óriási szupermutáns.}
-{101}{}{Õ Gond, a mutánsfeletti mutáns.}
-{102}{}{Nagy, zöld, és egy cseppet szebb, mint bármelyik fajtársa.}
-{103}{}{Hé! Elise megengedte, hogy idejöjj?}
-{104}{}{Te is felderítõ vagy?}
+{100}{}{Ez egy Ã³riÃ¡si szupermutÃ¡ns.}
+{101}{}{Å Gond, a mutÃ¡nsfeletti mutÃ¡ns.}
+{102}{}{Nagy, zÃ¶ld, Ã©s egy cseppet szebb, mint bÃ¡rmelyik fajtÃ¡rsa.}
+{103}{}{HÃ©! Elise megengedte, hogy idejÃ¶jj?}
+{104}{}{Te is felderÃ­tÅ‘ vagy?}
 {105}{}{Neked nem lenne szabad itt lenned!}
-{106}{}{Üdvözöllek, Felderítõ-társam!}
-{107}{}{Egy Felderítõ soh'se pihenhet.}
+{106}{}{ÃœdvÃ¶zÃ¶llek, FelderÃ­tÅ‘-tÃ¡rsam!}
+{107}{}{Egy FelderÃ­tÅ‘ soh'se pihenhet.}
 {108}{}{Take heart! Our brothers hit a slave camp last week.}

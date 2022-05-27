@@ -1,81 +1,81 @@
-{100}{}{Ez az ember a Halál Hídjának Õrzõje.}
-{101}{}{Ennek az ádáz szemû férfinak elhanyagolt a szakálla és rekedtes a hangja. A bal szeme bármelyik pillanatban kiugorhat a helyérõl.}
-{102}{}{Ez az ember a Halál Hídjának Õrzõje.}
-{103}{}{Ennek az ádáz szemû férfinak elhanyagolt a szakálla és rekedtes a hangja. A bal szeme bármelyik pillanatban kiugorhat a helyérõl.}
-{104}{}{Állj! Ki átkelni kíván a Halálnak Hídján, három kérdésre megfeleljen, vagy a hídon át nem eresztem!}
-{105}{}{Céé... Déé.. .Ééé... Eff... Géé}
-{106}{}{[Elpályázol]}
-{107}{}{Rendben.}
-{108}{}{Halljam a három kérdést, nem félek tõlük.}
-{109}{}{Talán késõbb visszanézek.}
+{100}{}{Ez az ember a HalÃ¡l HÃ­djÃ¡nak ÅrzÅ‘je.}
+{101}{}{Ennek az Ã¡dÃ¡z szemÅ± fÃ©rfinak elhanyagolt a szakÃ¡lla Ã©s rekedtes a hangja. A bal szeme bÃ¡rmelyik pillanatban kiugorhat a helyÃ©rÅ‘l.}
+{102}{}{Ez az ember a HalÃ¡l HÃ­djÃ¡nak ÅrzÅ‘je.}
+{103}{}{Ennek az Ã¡dÃ¡z szemÅ± fÃ©rfinak elhanyagolt a szakÃ¡lla Ã©s rekedtes a hangja. A bal szeme bÃ¡rmelyik pillanatban kiugorhat a helyÃ©rÅ‘l.}
+{104}{}{Ãllj! Ki Ã¡tkelni kÃ­vÃ¡n a HalÃ¡lnak HÃ­djÃ¡n, hÃ¡rom kÃ©rdÃ©sre megfeleljen, vagy a hÃ­don Ã¡t nem eresztem!}
+{105}{}{CÃ©Ã©... DÃ©Ã©.. .Ã‰Ã©Ã©... Eff... GÃ©Ã©}
+{106}{}{[ElpÃ¡lyÃ¡zol]}
+{107}{}{JÃ³l van.}
+{108}{}{Halljam a hÃ¡rom kÃ©rdÃ©st, nem fÃ©lek tÅ‘lÃ¼k.}
+{109}{}{TalÃ¡n kÃ©sÅ‘bb visszanÃ©zek.}
 {110}{}{Mondd meg, mi a neved!}
-{111}{}{Hhhh... Iii... Jéé... Káá... Ell...}
-{112}{}{?}
-{113}{}{Én}
-{114}{}{[Elpályázol]}
-{115}{}{Arroyóból.}
+{111}{}{Hhhh... Iii... JÃ©Ã©... KÃ¡Ã¡... Ell...}
+{112}{}{ barÃ¡toddal?}
+{113}{}{Ã‰n }
+{114}{}{[ElpÃ¡lyÃ¡zol]}
+{115}{}{ArroyÃ³bÃ³l.}
 {116}{}{Harry}
 {117}{}{Hakuin}
 {118}{}{Testocles}
 {119}{}{Richard Grey}
 {120}{}{Seymour Heine}
-{121}{}{A kiválasztott!}
-{122}{}{Talán késõbb visszanézek.}
+{121}{}{A kivÃ¡lasztott!}
+{122}{}{TalÃ¡n kÃ©sÅ‘bb visszanÃ©zek.}
 {123}{}{Mit keresel?}
-{124}{}{Mmmm....nnnn....oo...pééé}
-{125}{}{ÉLLET. Arro-yo}
-{126}{}{(Elpályázol)}
-{127}{}{Én biz' a szent ÉLETET KERESEM!}
-{128}{}{Próbálom megmenteni a falumat valahogy.}
-{129}{}{Az elrabolt törzsemet keresem.}
-{130}{}{Egy elromlott tankert szeretnék megjavítani.}
-{131}{}{Öö... hogy mit keresek?}
-{132}{}{Talán késõbb visszanézek, amikor már jobban van.}
-{133}{}{A Fallout 1 melyik nem játékos karaktere tûnt fel a folytatásban is, annak ellenére, hogy már igen öreg szegény?}
-{134}{}{A Fallout 1 melyik nem játékos karaktere tûnt fel a folytatásban is?}
-{135}{}{Öregg?}
-{136}{}{Fojta-tááás?}
-{137}{}{(Elpályázol)}
-{138}{}{Honnan tudjam én azt?!}
-{139}{}{Öö... Ian?}
-{140}{}{Öö... Dogmeat?}
-{141}{}{Öö... Tandi?}
-{142}{}{Öö... Tycho?}
-{143}{}{Öö... Harold?}
-{144}{}{Attól függ... A speciális események a folytatás részének számítanak vagy sem?}
-{145}{}{Attól függ... NJK barátok vagy NJK ellenségek?}
-{146}{}{Egy hatos erejû személy mekkora súlyt képes elcipelni, ha megvan neki az Erõs Hát képesség?}
-{147}{}{Igazából magam sem tudom.}
-{148}{}{Öö... kétszáz fontot?}
-{149}{}{Öö... kétszáz-huszonöt fontot?}
-{150}{}{Öö... kétszáz-ötven fontot?}
-{151}{}{Öö... kétszáz-hetvenöt fontot?}
-{152}{}{Öö... háromszáz fontot?}
-{153}{}{Öö... háromszáz-huszonöt fontot?}
-{154}{}{Az illetõnek hány szintje van meg az Erõs Hát képességbõl?}
-{155}{}{Mi a feltétele a Gyors Zsebek képességnek?}
-{156}{}{Igazából magam sem tudom.}
-{157}{}{Öö... ötös erõ?}
-{158}{}{Öö... ötös ügyesség?}
-{159}{}{Öö... hatos ügyesség?}
-{160}{}{Öö... hármas szint?}
-{161}{}{Öö... hatos szint?}
-{162}{}{Öö... kilences szint?}
-{163}{}{Attól függ... A képességekrõl vagy a karakterszintrõl beszélünk?}
-{164}{}{Helyes, átmehetsz!}
-{165}{}{Köfi}
-{166}{}{Jojó}
-{167}{}{Oh, thank you. Thank you very much.}
-{168}{}{Honnan tudjam én azt?!}
+{124}{}{Mmmm....nnnn....oo...pÃ©Ã©Ã©}
+{125}{}{Ã‰LLET. Arro-yo}
+{126}{}{[ElpÃ¡lyÃ¡zol]}
+{127}{}{Ã‰n biz' a szent Ã‰LETET KERESEM!}
+{128}{}{PrÃ³bÃ¡lom megmenteni a falumat valahogy.}
+{129}{}{Az elrabolt tÃ¶rzsemet keresem.}
+{130}{}{Egy elromlott tankert szeretnÃ©k megjavÃ­tani.}
+{131}{}{Ã–Ã¶... hogy mit keresek?}
+{132}{}{TalÃ¡n kÃ©sÅ‘bb visszanÃ©zek, amikor mÃ¡r jobban van.}
+{133}{}{A Fallout 1 melyik nem jÃ¡tÃ©kos karaktere tÅ±nt fel a folytatÃ¡sban is, annak ellenÃ©re, hogy mÃ¡r igen Ã¶reg szegÃ©ny?}
+{134}{}{A Fallout 1 melyik nem jÃ¡tÃ©kos karaktere tÅ±nt fel a folytatÃ¡sban is?}
+{135}{}{Ã–regg?}
+{136}{}{Fojta-tÃ¡Ã¡Ã¡s?}
+{137}{}{[ElpÃ¡lyÃ¡zol]}
+{138}{}{Honnan tudjam Ã©n azt?!}
+{139}{}{Ã–Ã¶... Ian?}
+{140}{}{Ã–Ã¶... Dogmeat?}
+{141}{}{Ã–Ã¶... Tandi?}
+{142}{}{Ã–Ã¶... Tycho?}
+{143}{}{Ã–Ã¶... Harold?}
+{144}{}{AttÃ³l fÃ¼gg... A speciÃ¡lis esemÃ©nyek a folytatÃ¡s rÃ©szÃ©nek szÃ¡mÃ­tanak vagy sem?}
+{145}{}{AttÃ³l fÃ¼gg... NJK barÃ¡tok vagy NJK ellensÃ©gek?}
+{146}{}{Egy hatos erejÅ± szemÃ©ly mekkora sÃºlyt kÃ©pes elcipelni, ha megvan neki az ErÅ‘s HÃ¡t kÃ©pessÃ©g?}
+{147}{}{Honnan tudjam Ã©n azt?!}
+{148}{}{Ã–Ã¶... kÃ©tszÃ¡z fontot?}
+{149}{}{Ã–Ã¶... kÃ©tszÃ¡z-huszonÃ¶t fontot?}
+{150}{}{Ã–Ã¶... kÃ©tszÃ¡z-Ã¶tven fontot?}
+{151}{}{Ã–Ã¶... kÃ©tszÃ¡z-hetvenÃ¶t fontot?}
+{152}{}{Ã–Ã¶... hÃ¡romszÃ¡z fontot?}
+{153}{}{Ã–Ã¶... hÃ¡romszÃ¡z-huszonÃ¶t fontot?}
+{154}{}{Az illetÅ‘nek hÃ¡ny szintje van meg az ErÅ‘s HÃ¡t kÃ©pessÃ©gbÅ‘l?}
+{155}{}{Mi a feltÃ©tele a Gyors Zsebek kÃ©pessÃ©gnek?}
+{156}{}{Honnan tudjam Ã©n azt?!}
+{157}{}{Ã–Ã¶... Ã¶tÃ¶s erÅ‘?}
+{158}{}{Ã–Ã¶... Ã¶tÃ¶s Ã¼gyessÃ©g?}
+{159}{}{Ã–Ã¶... hatos Ã¼gyessÃ©g?}
+{160}{}{Ã–Ã¶... hÃ¡rmas szint?}
+{161}{}{Ã–Ã¶... hatos szint?}
+{162}{}{Ã–Ã¶... kilences szint?}
+{163}{}{AttÃ³l fÃ¼gg... A kÃ©pessÃ©gekrÅ‘l vagy a karakterszintrÅ‘l beszÃ©lÃ¼nk?}
+{164}{}{Helyes, Ã¡tmehetsz!}
+{165}{}{KÃ¶fi}
+{166}{}{JojÃ³}
+{167}{}{Ã“h, kÃ¶szÃ¶nÃ¶m... kÃ¶szÃ¶nÃ¶m...}
+{168}{}{Honnan tudjam Ã©n azt?!}
 {169}{}{Player is disintegrated.}
-{170}{}{Heh-heh.}
-{171}{}{Valami rejtélyes oknál fogva az az érzésem, hogy kéne mentenem egy állást. Mégpedig egy új helyre...}
-{172}{}{mi neked név?}
-{173}{}{Soha nem sikerül a jó kérdést feltennem.}
-{174}{}{Errõl beszélni fogok az ügynökömmel.}
-{175}{}{Folyton mondom neki, hogy fel kéne hagynom ezzel a nagyon gázos elfoglaltsággal.}
-{176}{}{Hogy fogok valaha is elismerést kivívni, ha állandóan alacsony költségvetésû filmekben és játékokban kell szerepelnem.}
-{177}{}{Hmmm... most már komolyan meg kéne fontolnom, hogy autószerelésre adom a fejem.}
-{178}{}{Úgy hallom, abban van manapság a nagy pénz.}
+{170}{}{Hehe.}
+{171}{}{Valami rejtÃ©lyes oknÃ¡l fogva az az Ã©rzÃ©sem, hogy kÃ©ne mentenem egy Ã¡llÃ¡st. MÃ©gpedig egy Ãºj helyre...}
+{172}{}{mi neked nÃ©v?}
+{173}{}{Soha nem sikerÃ¼l a jÃ³ kÃ©rdÃ©st feltennem.}
+{174}{}{ErrÅ‘l beszÃ©lni fogok az Ã¼gynÃ¶kÃ¶mmel.}
+{175}{}{Folyton mondom neki, hogy fel kÃ©ne hagynom ezzel a nagyon gÃ¡zos elfoglaltsÃ¡ggal.}
+{176}{}{Hogy fogok valaha is elismerÃ©st kivÃ­vni, ha Ã¡llandÃ³an alacsony kÃ¶ltsÃ©gvetÃ©sÅ± filmekben Ã©s jÃ¡tÃ©kokban kell szerepelnem.}
+{177}{}{Hmmm... most mÃ¡r komolyan meg kÃ©ne fontolnom, hogy autÃ³szerelÃ©sre adom a fejem.}
+{178}{}{Ãšgy hallom, abban van manapsÃ¡g a nagy pÃ©nz.}
 {200}{}{AAAAAAAHHHHHHHHhhhhhh!}
 {1171}{}{Uh, oh. Me should save game in new slot.}

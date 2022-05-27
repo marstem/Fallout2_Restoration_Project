@@ -1,11 +1,11 @@
-{100}{}{A hûtõrendszer irányítópultja.}
-{101}{}{A hûtõrendszerért felelõs irányítópult.}
-{102}{}{A pulton rengeteg gombot, dugaszt, tekerentyût látsz.}
-{110}{}{A hûtõrendszer szelepének lezárócsapjával meggyûlik a bajod.}
-{111}{}{Óriási erõfeszítéssel ugyan, de sikerült egyet tekerni a hûtõrendszer szelepének lezárócsapján.}
-{112}{}{Hihetetlen erõbedobással sikerült kettõt tekerni a hûtõrendszer szelepének lezárócsapján.}
-{113}{}{A hang alapján lezártad a szelepet.}
-{120}{}{Nagyon úgy néz ki, hogy hiányzik egy alkatrész.}
-{121}{}{Ezzel nem jutottál semmire.}
-{122}{}{Megjavítottad a reaktort.}
-{123}{}{Nyilvánvaló, hogy a hûtõrendszer megjavítása alapos fejtörést okoz neked.}
+{100}{}{A hÅ±tÅ‘rendszer irÃ¡nyÃ­tÃ³pultja.}
+{101}{}{A hÅ±tÅ‘rendszerÃ©rt felelÅ‘s irÃ¡nyÃ­tÃ³pult.}
+{102}{}{A pulton rengeteg gombot, dugaszt, tekerentyÅ±t lÃ¡tsz.}
+{110}{}{A hÅ±tÅ‘rendszer szelepÃ©nek lezÃ¡rÃ³csapjÃ¡val meggyÅ±lik a bajod.}
+{111}{}{Ã“riÃ¡si erÅ‘feszÃ­tÃ©ssel ugyan, de sikerÃ¼lt egyet tekerni a hÅ±tÅ‘rendszer szelepÃ©nek lezÃ¡rÃ³csapjÃ¡n.}
+{112}{}{Hihetetlen erÅ‘bedobÃ¡ssal sikerÃ¼lt kettÅ‘t tekerni a hÅ±tÅ‘rendszer szelepÃ©nek lezÃ¡rÃ³csapjÃ¡n.}
+{113}{}{A hang alapjÃ¡n lezÃ¡rtad a szelepet.}
+{120}{}{Nagyon Ãºgy nÃ©z ki, hogy hiÃ¡nyzik egy alkatrÃ©sz.}
+{121}{}{Ez nem csinÃ¡l semmit.}
+{122}{}{MegjavÃ­tottad a reaktort.}
+{123}{}{NyilvÃ¡nvalÃ³, hogy a hÅ±tÅ‘rendszer megjavÃ­tÃ¡sa alapos fejtÃ¶rÃ©st okoz neked.}

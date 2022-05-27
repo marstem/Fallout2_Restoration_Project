@@ -1,18 +1,18 @@
-{100}{}{Egy õrt látsz.}
-{101}{}{Egy õrt látsz erõpáncélban.}
-{102}{}{Egy õrt látsz, aki az erõpáncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Eridj tovább!}
-{104}{}{Szolgálatban vagyok! Nem beszélgethetek!}
-{105}{}{Mozgás! A kapu arra van!}
-{106}{}{Jobb, ha szerzel egy egyenruhát!}
-{107}{}{Ne mászkálj egyenruha nélkül!}
-{108}{}{A hadseregben vagy! Itt nem flangálhatsz egyenruha nélkül!}
-{109}{}{Behatolók a fõkapunál!}
-{110}{}{Riadó! Behatolók!}
-{111}{}{Erõsítést a fõkapuhoz! Látogatóink vannak!}
-{112}{}{Biztonsági riadó a fõkapunál!}
-{113}{}{Zárjatok le mindent! A fõkaput megtámadták!}
-{114}{}{Megtámadták a fõkaput! Vörös kód!}
-{115}{}{Szétalázunk!}
-{116}{}{Az Enklávé lesz a világ ura!}
-{117}{}{Te elpusztulsz, az Enklávé fennmarad!}
+{100}{}{Egy Å‘rt lÃ¡tsz.}
+{101}{}{Egy Å‘rt lÃ¡tsz erÅ‘pÃ¡ncÃ©lban.}
+{102}{}{Egy Å‘rt lÃ¡tsz, aki az erÅ‘pÃ¡ncÃ©l egy kÃ¼lÃ¶nÃ¶s vÃ¡ltozatÃ¡t viseli. A mellkasÃ¡n van egy jel, amit nem tudsz hova tenni.}
+{103}{}{MozgÃ¡s!}
+{104}{}{SzolgÃ¡latban vagyok! Nem beszÃ©lgethetek!}
+{105}{}{MozgÃ¡s! A kapu arra van!}
+{106}{}{Jobb, ha szerzel egy egyenruhÃ¡t!}
+{107}{}{Ne mÃ¡szkÃ¡lj egyenruha nÃ©lkÃ¼l!}
+{108}{}{A hadseregben vagy! Itt nem flangÃ¡lhatsz egyenruha nÃ©lkÃ¼l!}
+{109}{}{BehatolÃ³k a fÅ‘kapunÃ¡l!}
+{110}{}{RiadÃ³! BehatolÃ³k!}
+{111}{}{ErÅ‘sÃ­tÃ©st a fÅ‘kapuhoz! LÃ¡togatÃ³ink vannak!}
+{112}{}{BiztonsÃ¡gi riadÃ³ a fÅ‘kapunÃ¡l!}
+{113}{}{ZÃ¡rjatok le mindent! A fÅ‘kaput megtÃ¡madtÃ¡k!}
+{114}{}{MegtÃ¡madtÃ¡k a fÅ‘kaput! VÃ¶rÃ¶s kÃ³d!}
+{115}{}{SzÃ©talÃ¡zunk!}
+{116}{}{Az EnklÃ¡vÃ© lesz a vilÃ¡g ura!}
+{117}{}{Te elpusztulsz, az EnklÃ¡vÃ© fennmarad!}

@@ -1,33 +1,33 @@
-{100}{}{Egy õrt látsz.}
-{150}{}{Tyler egyik õre.}
+{100}{}{Egy Å‘rt lÃ¡tsz.}
+{150}{}{Tyler egyik Å‘re.}
 {151}{}{She's one of Tyler's guards.}
-{200}{}{Még élsz?}
+{200}{}{MÃ©g Ã©lsz?}
 {210}{}{Megmutattuk nekik, mi?}
-{211}{}{Senki sem baszakodhat velünk!}
-{212}{}{Szétrúgtuk a seggüket!}
-{213}{}{Épp ideje volt, hogy végezzünk velük.}
-{214}{}{Nem fogom elfelejteni, ahogyan nézett. Remek volt.}
+{211}{}{Senki sem baszakodhat velÃ¼nk!}
+{212}{}{SzÃ©trÃºgtuk a seggÃ¼ket!}
+{213}{}{Ã‰pp ideje volt, hogy vÃ©gezzÃ¼nk velÃ¼k.}
+{214}{}{Nem fogom elfelejteni, ahogyan nÃ©zett. Remek volt.}
 {215}{}{Meglepett, hogy Metzger le se szarta.}
-{216}{}{Kíváncsi vagyok, Metzger miért nem lépett közbe.}
-{225}{}{Nem tudom, mért velünk õrizteti ezt a szart.}
-{226}{}{Ki akarná ellopni ezt a szart?}
-{227}{}{Ez a munka gyerekjáték.}
-{228}{}{Senki nem köthet belénk.}
-{229}{}{Szerintem ez a cucc valami menedékbõl, vagy mibõl származhat.}
-{230}{}{Egyébként mit keresel te itt?}
-{231}{}{Nincs itt semmi különös.}
-{232}{}{Ne fecséreld az idõd, már vagy ezerszer átnéztük a cuccot.}
-{233}{}{A mai este különleges.}
-{234}{}{Utálom a várakozást.}
-{235}{}{Ezért bármikor kihagynám az italt.}
-{236}{}{Idõ van már? Alig várom.}
-{237}{}{Remélem, én ölöm meg az elsõt.}
-{238}{}{Miért vártak ennyit arra, hogy belénk kössenek?}
-{239}{}{Ez érdekes lesz.}
-{240}{}{Kár, hogy mégsem volt semmilyen akció.}
-{241}{}{Kiváncsi vagyok, miért gondolták meg magukat.}
-{242}{}{Az a sok várakozás, erre semmi...}
-{243}{}{Szóval mi a helyzet azzal a csapdával, amit közösen akartunk állítani nekik?}
-{244}{}{Mi történt a múlt éjszaka?}
-{245}{}{Kár, hogy azok a beszariak betojtak. Szép lett volna kicsinálni õket.}
-{246}{}{El sem hiszem, hogy azok a szemetek lesbõl akartak lecsapni ránk.}
+{216}{}{KÃ­vÃ¡ncsi vagyok, Metzger miÃ©rt nem lÃ©pett kÃ¶zbe.}
+{225}{}{Nem tudom, mÃ©rt velÃ¼nk Å‘rizteti ezt a szart.}
+{226}{}{Ki akarnÃ¡ ellopni ezt a szart?}
+{227}{}{Ez a munka gyerekjÃ¡tÃ©k.}
+{228}{}{Senki nem kÃ¶thet belÃ©nk.}
+{229}{}{Szerintem ez a cucc valami menedÃ©kbÅ‘l, vagy mibÅ‘l szÃ¡rmazhat.}
+{230}{}{EgyÃ©bkÃ©nt mit keresel te itt?}
+{231}{}{Nincs itt semmi kÃ¼lÃ¶nÃ¶s.}
+{232}{}{Ne fecsÃ©reld az idÅ‘d, mÃ¡r vagy ezerszer Ã¡tnÃ©ztÃ¼k a cuccot.}
+{233}{}{A mai este kÃ¼lÃ¶nleges.}
+{234}{}{UtÃ¡lok vÃ¡rni.}
+{235}{}{EzÃ©rt bÃ¡rmikor kihagynÃ¡m az italt.}
+{236}{}{IdÅ‘ van mÃ¡r? Alig vÃ¡rom.}
+{237}{}{RemÃ©lem, Ã©n Ã¶lÃ¶m meg az elsÅ‘t.}
+{238}{}{MiÃ©rt vÃ¡rtak ennyit arra, hogy belÃ©nk kÃ¶ssenek?}
+{239}{}{Ez Ã©rdekes lesz.}
+{240}{}{KÃ¡r, hogy mÃ©gsem volt semmilyen akciÃ³.}
+{241}{}{KivÃ¡ncsi vagyok, miÃ©rt gondoltÃ¡k meg magukat.}
+{242}{}{Az a sok vÃ¡rakozÃ¡s, erre semmi...}
+{243}{}{SzÃ³val mi a helyzet azzal a csapdÃ¡val, amit kÃ¶zÃ¶sen akartunk Ã¡llÃ­tani nekik?}
+{244}{}{Mi tÃ¶rtÃ©nt a mÃºlt Ã©jszaka?}
+{245}{}{KÃ¡r, hogy azok a beszariak betojtak. SzÃ©p lett volna kicsinÃ¡lni Å‘ket.}
+{246}{}{El sem hiszem, hogy azok a szemetek lesbÅ‘l akartak lecsapni rÃ¡nk.}

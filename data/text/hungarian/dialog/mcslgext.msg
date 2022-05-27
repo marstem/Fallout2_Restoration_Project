@@ -1,3 +1,3 @@
-{100}{}{Egy ırt l·tsz.}
-{200}{}{Vegeir azt mondta, hogy mÈg nem mehetsz el.}
-{210}{}{Vegeir azt mondta hogy mostm·r elmehetsz.}
+{100}{}{Egy ≈ërt l√°tsz.}
+{200}{}{Vegeir azt mondta, hogy m√©g nem mehetsz el.}
+{210}{}{Vegeir azt mondta hogy mostm√°r elmehetsz.}

@@ -1,16 +1,16 @@
-{100}{}{Egy kemÈnyen elbarik·dozott ajtÛt l·tsz.}
-{101}{}{Ez az ajtÛ elektrom·gnesesen z·rt. Tal·n m·shonnan ki tudn·d nyitni.}
-{105}{}{Ideiglenesen kiiktatod az elektromos mezıt.}
-{106}{}{ ideiglenesen kiiktatja az elektromos mezıt.}
-{110}{}{MegprÛb·lod kiiktatni az elektromos mezıt, de borzalmasan elrontod.}
-{111}{}{ megprÛb·lja kiiktatni az elektromos mezıt, de borzalmasan elrontja.}
-{115}{}{Nem siker¸lt kiiktatni az elektromos mezıt.}
-{116}{}{ nem tudta kiiktatni az elektromos mezıt.}
-{120}{}{Egy elektromos mezı ·llja utad.}
-{121}{}{ ˙tj·t egy elektromos mezı ·llja.}
-{125}{}{KÈptelen vagy az ajtÛ megmozdÌt·s·ra.}
-{126}{}{ kÈptelen megmozdÌtani az ajtÛt.}
-{130}{}{Nem siker¸lt kinyitnod az ajtÛt.}
-{131}{}{ nem tudta kinyitni az ajtÛt.}
-{135}{}{Siker¸lt kinyitnod az ajtÛt.}
-{136}{}{ sikeresen kinyitotta az ajtÛt.}
+{100}{}{Egy kem√©nyen elbarik√°dozott ajt√≥t l√°tsz.}
+{101}{}{Ez az ajt√≥ elektrom√°gnesesen z√°rt. Tal√°n m√°shonnan ki tudn√°d nyitni.}
+{105}{}{Ideiglenesen kiiktatod az elektromos mez≈ët.}
+{106}{}{ ideiglenesen kiiktatja az elektromos mez≈ët.}
+{110}{}{Megpr√≥b√°lod kiiktatni az elektromos mez≈ët, de borzalmasan elrontod.}
+{111}{}{ megpr√≥b√°lja kiiktatni az elektromos mez≈ët, de borzalmasan elrontja.}
+{115}{}{Nem siker√ºlt kiiktatni az elektromos mez≈ët.}
+{116}{}{ nem tudta kiiktatni az elektromos mez≈ët.}
+{120}{}{Egy elektromos mez≈ë √°llja utad.}
+{121}{}{ √∫tj√°t egy elektromos mez≈ë √°llja.}
+{125}{}{K√©ptelen vagy az ajt√≥ megmozd√≠t√°s√°ra.}
+{126}{}{ k√©ptelen megmozd√≠tani az ajt√≥t.}
+{130}{}{Nem siker√ºlt kinyitnod az ajt√≥t.}
+{131}{}{ nem tudta kinyitni az ajt√≥t.}
+{135}{}{Siker√ºlt kinyitnod az ajt√≥t.}
+{136}{}{ sikeresen kinyitotta az ajt√≥t.}

@@ -1,50 +1,50 @@
 {100}{}{Ves un terminal de computadora.}
-{101}{}{Ves la estación de trabajo de Biología.}
+{101}{}{Ves la estaciÃ³n de trabajo de BiologÃ­a.}
 {102}{}{Ves un terminal funcional de computadora.}
 {103}{}{Saludos. Por favor, confirme su identidad.}
-{104}{}{[¡Oooh! ¡Mira esas luces brillantes!]}
-{105}{}{::adivinar contraseña::}
+{104}{}{[Â¡Oooh! Â¡Mira esas luces brillantes!]}
+{105}{}{::adivinar contraseÃ±a::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
 {107}{}{::piratear la computadora::}
 {108}{}{Salir}
-{109}{}{Datos a encontrar: - Programa botánico  - Programa genético  - Programa Xeno-}
-{110}{}{Programa botánico.}
-{111}{}{Programa genético.}
+{109}{}{Datos a encontrar: - Programa botÃ¡nico  - Programa genÃ©tico  - Programa Xeno-}
+{110}{}{Programa botÃ¡nico.}
+{111}{}{Programa genÃ©tico.}
 {112}{}{Programa Xeno.}
 {113}{}{Notas personales recientes.}
-{114}{}{Desactivar estación de trabajo.}
-{115}{}{Contraseña incorrecta. Por favor, comuníquese con el administrador del sistema. Adiós.}
+{114}{}{Desactivar estaciÃ³n de trabajo.}
+{115}{}{ContraseÃ±a incorrecta. Por favor, comunÃ­quese con el administrador del sistema. AdiÃ³s.}
 {116}{}{::piratear la computadora::}
 {117}{}{::marcharse::}
-{118}{}{Activada alerta de intrusión. Apagando. Que tenga un buen día.}
+{118}{}{Activada alerta de intrusiÃ³n. Apagando. Que tenga un buen dÃ­a.}
 {119}{}{-hecho-}
-{120}{}{(Tras unos veinte minutos, descubres lo siguiente: los resultados iniciales de la interrupción en la radiación botánica resultan poco prometedores. El doctor Sheng desarrolla vida vegetal resistente a la radiación, con desagradables efectos secundarios. La vida vegetal resultante se considera demasiado peligrosa. Sheng insiste en seguir la línea de investigación y mezclarla con el programa genético).}
-{121}{}{Programa genético.}
+{120}{}{(Tras unos veinte minutos, descubres lo siguiente: los resultados iniciales de la interrupciÃ³n en la radiaciÃ³n botÃ¡nica resultan poco prometedores. El doctor Sheng desarrolla vida vegetal resistente a la radiaciÃ³n, con desagradables efectos secundarios. La vida vegetal resultante se considera demasiado peligrosa. Sheng insiste en seguir la lÃ­nea de investigaciÃ³n y mezclarla con el programa genÃ©tico).}
+{121}{}{Programa genÃ©tico.}
 {122}{}{Programa Xeno.}
 {123}{}{Notas personales recientes.}
-{124}{}{Atrás.}
-{125}{}{(Tras unos veinte minutos reúnes la siguiente información: Usando el concepto básico del virus VEF, el doctor Long Wang se convence del éxito en la creación de soldados mutantes. Desarrolla un suero que arroja resultados interesantes en los experimentos con roedores. Se lo inyecta a sí mismo y se disuelve en un charco de pringue. El doctor Sheng desactiva la línea de investigación. Con la muerte del doctor Long, el doctor Sheng queda al cargo. Sheng demanda concentrarse en la vida vegetal consumidora de radiación).}
-{126}{}{Programa botánico.}
+{124}{}{AtrÃ¡s.}
+{125}{}{(Tras unos veinte minutos reÃºnes la siguiente informaciÃ³n: Usando el concepto bÃ¡sico del virus VEF, el doctor Long Wang se convence del Ã©xito en la creaciÃ³n de soldados mutantes. Desarrolla un suero que arroja resultados interesantes en los experimentos con roedores. Se lo inyecta a sÃ­ mismo y se disuelve en un charco de pringue. El doctor Sheng desactiva la lÃ­nea de investigaciÃ³n. Con la muerte del doctor Long, el doctor Sheng queda al cargo. Sheng demanda concentrarse en la vida vegetal consumidora de radiaciÃ³n).}
+{126}{}{Programa botÃ¡nico.}
 {127}{}{Programa Xeno.}
 {128}{}{Notas personales recientes.}
-{129}{}{Atrás.}
-{130}{}{"El tema sobre el que tenía la esperanza de establecer una serie de experimentos significativos ha desaparecido, presuntamente destruido o robado por los Hubologistas. Posteriores investigaciones han resultado infructuosas. Hasta que se obtengan nuevos espécimenes, esta base de datos se mantendrá fuera de servicio".
+{129}{}{AtrÃ¡s.}
+{130}{}{"El tema sobre el que tenÃ­a la esperanza de establecer una serie de experimentos significativos ha desaparecido, presuntamente destruido o robado por los Hubologistas. Posteriores investigaciones han resultado infructuosas. Hasta que se obtengan nuevos espÃ©cimenes, esta base de datos se mantendrÃ¡ fuera de servicio".
 - Dr. Sheng}
-{131}{}{Programa botánico.}
-{132}{}{Programa genético.}
+{131}{}{Programa botÃ¡nico.}
+{132}{}{Programa genÃ©tico.}
 {133}{}{Notas personales recientes.}
-{134}{}{Atrás.}
-{135}{}{El Dr. Wong: Nuevo jefe de Biología del Proyecto, además de la Investigación de la Física.
- El Dr. Sheng: Biología Jefe de Proyecto hasta hace dos meses. Un mes sabático con la nueva botánica percepción de suero" tenidos en cuenta; además de la ausencia de un rompecabezas. El Dr. Wong asume el control de la Biología Programa.
- El Dr. Largo: Recientemente fallecido a través de la FEV suero.}
-{136}{}{Programa botánico.}
-{137}{}{Programa genético.}
+{134}{}{AtrÃ¡s.}
+{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
+Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
+Dr. Long: Recently deceased via FEV serum.}
+{136}{}{Programa botÃ¡nico.}
+{137}{}{Programa genÃ©tico.}
 {138}{}{Programa Xeno.}
-{139}{}{Atrás.}
-{140}{}{Estación desactivada.}
-{141}{}{Activar estación.}
+{139}{}{AtrÃ¡s.}
+{140}{}{EstaciÃ³n desactivada.}
+{141}{}{Activar estaciÃ³n.}
 {142}{}{-marcharse-}
-{143}{}{[Tu poco elegante acercamiento usando el azar con las teclas activa la contraseña correcta... ¡tu suerte es increíble!]}
-{144}{}{-más-}
-{145}{}{La computadora no responde a ningún comando.}
+{143}{}{[Tu poco elegante acercamiento usando el azar con las teclas activa la contraseÃ±a correcta... Â¡tu suerte es increÃ­ble!]}
+{144}{}{-mÃ¡s-}
+{145}{}{La computadora no responde a ningÃºn comando.}
 {146}{}{No parece que puedas encontrar nada en lo que poner eso.}

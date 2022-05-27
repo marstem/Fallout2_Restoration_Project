@@ -1,9 +1,9 @@
-{100}{}{Tûnj el a placcunkról!}
-{101}{}{Rossz nyomon jársz, haver!}
-{102}{}{Ez fájni fog!}
-{103}{}{Micsinálsz itt a környéken?}
-{104}{}{Kóstoltad már a pofon-szendvicset?}
-{105}{}{Tûnj el!}
-{106}{}{Ezt még megbánod!}
-{107}{}{Kemény süti!}
-{108}{}{Legközelebb.}
+{100}{}{TÅ±nj el a placcunkrÃ³l!}
+{101}{}{Rossz nyomon jÃ¡rsz, haver!}
+{102}{}{Ez fÃ¡jni fog!}
+{103}{}{MicsinÃ¡lsz itt a kÃ¶rnyÃ©ken?}
+{104}{}{KÃ³stoltad mÃ¡r a pofon-szendvicset?}
+{105}{}{TÅ±nj el!}
+{106}{}{Ezt mÃ©g megbÃ¡nod!}
+{107}{}{KemÃ©ny sÃ¼ti!}
+{108}{}{LegkÃ¶zelebb...}

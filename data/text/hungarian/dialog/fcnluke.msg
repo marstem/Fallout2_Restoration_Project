@@ -1,43 +1,43 @@
-{100}{}{Egy fémpáncélt viselõ férfit látsz.}
-{101}{}{Õ Luke.}
-{102}{}{Egy fémpáncélt viselõ férfit látsz, a mellén villám-mintájú jelzés díszlik.}
-{103}{}{Helló,}
-{104}{}{. Luke vagyok. Mit tehetek érted?}
-{105}{}{Honnan tud nekem név?}
+{100}{}{Egy fÃ©mpÃ¡ncÃ©lt viselÅ‘ fÃ©rfit lÃ¡tsz.}
+{101}{}{Å Luke.}
+{102}{}{Egy fÃ©mpÃ¡ncÃ©lt viselÅ‘ fÃ©rfit lÃ¡tsz. A mellkasÃ¡t egy villÃ¡m alakÃº jel dÃ­szÃ­ti.}
+{103}{}{HellÃ³, }
+{104}{}{. Luke vagyok. Mit tehetek Ã©rted?}
+{105}{}{Honnan tud nÃ©v?}
 {106}{}{Honnan tudod a nevem?}
-{107}{}{Joshua említette, hogy látogatást tettél a Rejtekbeli irodánkban. Azt mondta rólad, hogy kicsi a bors, de erõs...}
-{108}{}{Gyorsan terjednek a hírek. Kicsi, de erõs bors vagy te...}
-{109}{}{Hogy érteni ezt?}
+{107}{}{Joshua emlÃ­tette, hogy lÃ¡togatÃ¡st tettÃ©l a Rejtekbeli irodÃ¡nkban. Azt mondta rÃ³lad, hogy kicsi a bors, de erÅ‘s...}
+{108}{}{Gyorsan terjednek a hÃ­rek. Kicsi, de erÅ‘s bors vagy te...}
+{109}{}{Mit az jelencse?}
 {110}{}{Merthogy?}
-{111}{}{Nagyon sok ember figyelmét felkelted. Jobb, ha odafigyelsz a dolgokra!}
-{112}{}{Folytasd!}
-{113}{}{Folytasd, hallgatlak!}
-{114}{}{Épp eleget mondtam. Jobb, ha mostantól a magad dolgával foglalkozol!}
-{115}{}{Én kapja hasonló elzavarást Joshuától. Énnekem kell kérdezni kérdéset.}
-{116}{}{Várja, én akar kérdezni!}
-{117}{}{Joshua ugyanígy elhajtott. Kérdezhetek dolgokat?}
-{118}{}{Várj, szeretnék még kérdezni egy-két dolgot!}
-{119}{}{Joshua egyetlen egy kérdést engedélyezett. Én ugyanezt fogom tenni. Mi tehát a kérdésed?}
-{120}{}{Rendben, de csak egy kérdésed lehet. Jól gondold meg!}
-{121}{}{Hol találni ÉLET?}
-{122}{}{Hol lenni Tizenháromos Menedék?}
-{123}{}{Ki a fenék vagytok ti, srácok?}
-{124}{}{Tudja, merre találhatnék egy ÉLET-et?}
-{125}{}{Tudod, hol van a 13-as Menedék?}
-{126}{}{Ki a fenék vagytok ti, srácok?}
-{127}{}{Nos, úgy vélem a 13-as Menedékbeliek sosem használták fel a magukét. Ott biztosan találsz egyet. Sok szerencsét hozzá!}
-{128}{}{Várni! Merre lenni Menelék?}
-{129}{}{Na, várjunk egy picit! Hol található a Menedék?}
-{130}{}{A koordinátái a tõlünk keletre található 15-ös Menedék számítógépes rendszerében vannak. Sok szerencsét hozzá!}
-{131}{}{ vagyok.}
-{132}{}{Köszi.}
-{133}{}{Mi vagyunk az Acél Testvérisége. Jelen pillanatban nem fogok magunkról többet elárulni. Légy szerencsés!}
-{134}{}{Várni! Nekem kell tunni többet!}
-{135}{}{Várj, ennyi infó nem elég nekem!}
-{136}{}{Sajnálom, de nincs több mondanivalóm a számodra.}
-{137}{}{. Nos... Szemlátomást elég sokat fejlõdtél egy törzsbélihez képest. Ha idõd engedi, meg kéne látogatnod a San Francisco-i irodánkat. Nem fogsz benne csalódni. Most viszont, ha megbocsátasz, dolgom van.}
-{138}{}{Sajnálom, de nincs több mondanivalóm a számodra.}
-{139}{}{Várakozol...}
-{140}{}{Ez egy privát iroda.}
-{141}{}{Semmi keresnivalód odabent!}
-{142}{}{Ez itt magántulajdon, szóval lehet továbbállni!}
+{111}{}{Nagyon sok ember figyelmÃ©t felkelted. Jobb, ha odafigyelsz a dolgokra!}
+{112}{}{Folytassa, kÃ©rem!}
+{113}{}{Folytasd, hallgatom!}
+{114}{}{Eleget mondtam mÃ¡r. Jobb, ha mÃ©sz a dolgodra!}
+{115}{}{Ã‰n kapja hasonlÃ³ elzavarÃ¡st JoshuÃ¡tÃ³l. Ã‰nnekem kell kÃ©rdezni kÃ©rdÃ©set.}
+{116}{}{VÃ¡rj, Ã©nnekem kell kÃ©rdezni kÃ©rdÃ©set.}
+{117}{}{Joshua ugyanÃ­gy elhajtott. KÃ©rdezhetek dolgokat?}
+{118}{}{VÃ¡rj, volna egy-kÃ©t kÃ©rdÃ©sem.}
+{119}{}{Joshua egyetlen egy kÃ©rdÃ©st engedÃ©lyezett. Ã‰n ugyanezt fogom tenni. Mi tehÃ¡t a kÃ©rdÃ©sed?}
+{120}{}{Rendben, egyetlen kÃ©rdÃ©st feltehetsz. Mi lesz az?}
+{121}{}{Tudni te hol talÃ¡lni Ã‰LET?}
+{122}{}{Tudni te hol talÃ¡lni tizenhÃ¡romos MenelÃ©k?}
+{123}{}{Kik vagytok ti, srÃ¡cok?}
+{124}{}{Tudja, merre talÃ¡lhatnÃ©k egy Ã‰LET-et?}
+{125}{}{Tudod, hol talÃ¡lhatnÃ¡m meg a 13-as MenedÃ©ket?}
+{126}{}{Kik vagytok ti, srÃ¡cok?}
+{127}{}{Nos, Ãºgy vÃ©lem a 13-as MenedÃ©kbeliek sosem hasznÃ¡ltÃ¡k fel a magukÃ©t. Ott biztosan talÃ¡lsz egyet. Sok szerencsÃ©t hozzÃ¡!}
+{128}{}{VÃ¡rni! Merre lenni MenelÃ©k?}
+{129}{}{Na, vÃ¡rjunk egy picit! Hol talÃ¡lhatÃ³ a MenedÃ©k?}
+{130}{}{A koordinÃ¡tÃ¡i a tÅ‘lÃ¼nk keletre talÃ¡lhatÃ³ 15-Ã¶s MenedÃ©k szÃ¡mÃ­tÃ³gÃ©pes rendszerÃ©ben vannak. Sok szerencsÃ©t hozzÃ¡!}
+{131}{}{ dollÃ¡r.}
+{132}{}{KÃ¶sz.}
+{133}{}{Mi vagyunk az AcÃ©l TestvÃ©risÃ©ge. Jelen pillanatban nem fogok magunkrÃ³l tÃ¶bbet elÃ¡rulni. LÃ©gy szerencsÃ©s!}
+{134}{}{VÃ¡rni! Nekem kell tunni tÃ¶bbet!}
+{135}{}{VÃ¡rj, ennyi infÃ³ nem elÃ©g nekem!}
+{136}{}{Ãœdv Ãºjra. Nincs mit mondanom szÃ¡modra.}
+{137}{}{. Nos... SzemlÃ¡tomÃ¡st elÃ©g sokat fejlÅ‘dtÃ©l egy tÃ¶rzsbÃ©lihez kÃ©pest. Ha idÅ‘d engedi, meg kÃ©ne lÃ¡togatnod a San Francisco-i irodÃ¡nkat. Nem fogsz benne csalÃ³dni. Most viszont, ha megbocsÃ¡tasz, dolgom van.}
+{138}{}{Ãœdv Ãºjra. Nincs mit mondanom szÃ¡modra.}
+{139}{}{Folytasd!}
+{140}{}{Az egy magÃ¡niroda!}
+{141}{}{Ott neked semmi dolgod!}
+{142}{}{Ez magÃ¡ntulajdon, szÃ³val haladjunk tovÃ¡bb...}

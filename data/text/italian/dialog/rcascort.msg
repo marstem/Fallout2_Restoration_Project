@@ -1,4 +1,4 @@
-{100}{}{You see a short man with Jet-black hair and a nice smile.}
+{100}{}{Vedi un uomo basso con i capelli neri e un sorriso gentile.}
 {101}{}{Vedi Ascorti, il Sindaco di Redding.}
 {102}{}{Vedi un uomo ben vestito, ma dall'aspetto viscido.}
 {103}{}{Non stare li' impalato, amico.}
@@ -100,7 +100,7 @@
 {199}{}{Preferisco definirla "accogliente", con un sistema di ventilazione stagionale. Ed e' pure piuttosto cara.}
 {200}{}{Lo credo. Quante rate d'affitto arretrato le deve?}
 {201}{}{Hmm, sara' meglio che io vada, Sindaco. Arrivederci.}
-{202}{}{Vediamo un po'… la signora Rooney mi deve… si', ecco qua, 120$. Esatto. 120$.}
+{202}{}{Vediamo un po'â€¦ la signora Rooney mi deveâ€¦ si', ecco qua, 120$. Esatto. 120$.}
 {203}{}{Cosi' poco? Ho quella somma proprio qui con me.}
 {204}{}{Non e' poi molto. Lasci che le chieda qualcos'altro.}
 {205}{}{Vedro' cosa posso fare per convincerla a pagare. Arrivederci.}

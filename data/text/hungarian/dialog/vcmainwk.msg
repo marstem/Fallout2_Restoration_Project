@@ -1,261 +1,261 @@
 {100}{}{Val, illetve Valerie. Ahogy tetszik.}
-{101}{}{Egy barna hajú nõt látsz munkaruhában és fémpáncélban. Gépésznek tûnik.}
+{101}{}{Egy barna hajÃº nÅ‘t lÃ¡tsz munkaruhÃ¡ban Ã©s fÃ©mpÃ¡ncÃ©lban. GÃ©pÃ©sznek tÅ±nik.}
 {102}{}{Val, illetve Valerie. Ahogy tetszik.}
-{103}{}{Egy barna hajú nõt látsz munkaruhában és fémpáncélban. Gépésznek tûnik.}
+{103}{}{Egy barna hajÃº nÅ‘t lÃ¡tsz munkaruhÃ¡ban Ã©s fÃ©mpÃ¡ncÃ©lban. GÃ©pÃ©sznek tÅ±nik.}
 {104}{}{Hmmm... szia... apa.}
-{105}{}{1 Second}
-{106}{}{Valerie... jó újra látni.}
-{107}{}{Hmmm...  szia, apa. Örülök, hogy találkoztunk. Tényleg.}
-{108}{}{1 Second}
-{109}{}{Szia... Valerie. Én is örülök.}
-{110}{}{Jobb lesz, ha eltûnteted azt a mutánst, mielõtt még meglátja valaki.}
-{111}{}{Jobb lesz, ha eltûnteted azt a ghoult, mielõtt még meglátja valaki.}
-{112}{}{Az a hülye plazmatekercs már megint szarakodik.}
-{113}{}{A fémesztergát megint meg kell olajozni.}
-{114}{}{Listát kell készítenem a többletalkatrészekrõl.}
-{115}{}{Mûködj már, te hülye ócskavas!}
-{116}{}{Csupa hülyével vagyok körülvéve.}
-{117}{}{Ha meglennének a megfelelõ eszközeim.}
-{118}{}{Megölöm azt a kopasz majmot a Beszerzési Hivatalban.}
-{119}{}{Késõ van. Gyere vissza holnap!}
-{120}{}{Zárva vagyunk. Ha befejeztem ezt a listát, haza megyek.}
-{121}{}{Nem érek rá. Gyere vissza holnap!}
-{122}{}{Egy halom cuccot kell még javítanom. Gyere vissza pár nap múlva!}
-{123}{}{Hmmm... az apámnak ismét "fõnöke" van?}
+{105}{}{2 Second}
+{106}{}{Valerie... jÃ³ Ãºjra lÃ¡tni.}
+{107}{}{Hmmm...  szia, apa. Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. TÃ©nyleg.}
+{108}{}{2 Second}
+{109}{}{Szia... Valerie. Ã‰n is Ã¶rÃ¼lÃ¶k.}
+{110}{}{Jobb lesz, ha eltÅ±nteted azt a mutÃ¡nst, mielÅ‘tt mÃ©g meglÃ¡tja valaki.}
+{111}{}{Jobb lesz, ha eltÅ±nteted azt a ghoult, mielÅ‘tt mÃ©g meglÃ¡tja valaki.}
+{112}{}{Az a hÃ¼lye plazmatekercs mÃ¡r megint szarakodik.}
+{113}{}{A fÃ©mesztergÃ¡t megint meg kell olajozni.}
+{114}{}{ListÃ¡t kell kÃ©szÃ­tenem a tÃ¶bbletalkatrÃ©szekrÅ‘l.}
+{115}{}{MÅ±kÃ¶dj mÃ¡r, te hÃ¼lye Ã³cskavas!}
+{116}{}{Csupa hÃ¼lyÃ©vel vagyok kÃ¶rÃ¼lvÃ©ve.}
+{117}{}{Ha meglennÃ©nek a megfelelÅ‘ eszkÃ¶zeim.}
+{118}{}{MegÃ¶lÃ¶m azt a kopasz majmot a BeszerzÃ©si Hivatalban.}
+{119}{}{TÃºl kÃ©sÅ‘ van. Gyere vissza reggeltÃ¡jt!}
+{120}{}{ZÃ¡rva vagyunk. Ha befejeztem ezt a listÃ¡t, haza megyek.}
+{121}{}{Nem Ã©rek rÃ¡. Gyere vissza holnap!}
+{122}{}{Egy halom cuccot kell mÃ©g javÃ­tanom. Gyere vissza pÃ¡r nap mÃºlva!}
+{123}{}{Hmmm... az apÃ¡mnak ismÃ©t "fÅ‘nÃ¶ke" van?}
 {124}{}{Mit akarsz?!}
-{125}{}{Hoztál valami javítanivalót, vagy csak a gülü szemeidet forgatod, mint egy idióta?}
-{126}{}{Hüüü-lye}
-{127}{}{[Elcsoszogsz]}
-{128}{}{Hé... nyugi, hölgyem! Csak gondoltam megnézem, mi ez a hely.}
-{129}{}{Velem így nem beszélhetsz... kinyúvasztalak, te ribanc!}
-{130}{}{Elnézést, a Menedéket keresem. Elárulnád, merre találom?}
-{131}{}{Bocs, Misz Hiszti, már itt sem vagyok.}
-{132}{}{Az a nagy lyuk a hegyoldalban, ahol az a két fegyveres õr áll. Van még valami, vagy tovább dolgozhatok végre?}
-{133}{}{Mi ez a hely tulajdonképpen?}
-{134}{}{Velem így nem beszélhetsz... kinyúvasztalak, te ribanc!}
-{135}{}{Köszönöm a segítséget, bátyám. Viszlát!}
-{136}{}{Mintha nem lenne még itt elég marha... nézd! NEM JÖHETSZ BE IDE, ÉRTED? MEGSÉRÜLHETSZ! MOST TÛNÉS! MENJ!}
-{137}{}{*Sziipp* Te gonosz... *szipp* elmeggyek és jáccom bohóccokkal *szippp*... lesz fagyi is... és süti... és nem híllak meg TÉGEDET!}
-{138}{}{[Elcsoszogsz]}
-{139}{}{Tûnés, vagy hívom az õröket! Õk majd kicipelnek!}
-{140}{}{Azt próbáld meg! Betapasztom a lepcses szád!}
-{141}{}{Elnézést, csak megszaladt a pofám. Már itt sem vagyok.}
-{142}{}{Most ugye csak viccelsz? Nem láttad azt a bazi nagy táblát a bejáratnál, sasszem? Ez Menedékváros Karbantartó Központja.}
-{143}{}{Elnézést, azt hittem...}
-{144}{}{Bocs a zavarásért.}
-{145}{}{Ez a része engem nem érdekel! Hoztál valami javítanivalót, vagy csak a hülye kérdéseiddel akarsz bombázni?}
-{146}{}{Tehát szerelõ vagy? És miket javítasz?}
-{147}{}{Velem így nem beszélhetsz... kinyúvasztalak, te ribanc!}
-{148}{}{Erre nekem nincs idõm. Viszlát!}
-{149}{}{Szintetikus alkohol elosztót, rádiót, fegyvert, lézertorony-alkatrészt, számítógép-monitort, mindent... amint megkapom a szerszámaimat.}
-{150}{}{Szerszámaidat? Mi lett velük?}
-{151}{}{Nehéz munka lehet, hagylak is dolgozni.}
-{152}{}{Most épp egy fémesztergát kéne megjavítanom, de elvesztettem a villáskulcsom... bevallom, nem ez az elsõ eset... ráadásul a fogóm is tönkrement.}
-{153}{}{Segíthetek?}
-{154}{}{Egyébként mi a probléma az új szerszámok beszerzésével?}
-{155}{}{Értem. Viszlát!}
+{125}{}{HoztÃ¡l valami javÃ­tanivalÃ³t, vagy csak a gÃ¼lÃ¼ szemeidet forgatod, mint egy idiÃ³ta?}
+{126}{}{HÃ¼Ã¼Ã¼-lye}
+{127}{}{[TovÃ¡bbÃ¡llsz]}
+{128}{}{HÃ©... nyugi, hÃ¶lgyem! Csak gondoltam megnÃ©zem, mi ez a hely.}
+{129}{}{Ezzel betelt a pohÃ¡r! Elegem van ebbÅ‘l a helybÅ‘l, Ã©s most... kicsinÃ¡llak, te liba!}
+{130}{}{ElnÃ©zÃ©st, a MenedÃ©ket keresem. ElÃ¡rulnÃ¡d, merre talÃ¡lom?}
+{131}{}{Bocs, Misz Hiszti, mÃ¡r itt sem vagyok.}
+{132}{}{Az a nagy lyuk a hegyoldalban, ahol az a kÃ©t fegyveres Å‘r Ã¡ll. Van mÃ©g valami, vagy tovÃ¡bb dolgozhatok vÃ©gre?}
+{133}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{134}{}{Ezzel betelt a pohÃ¡r! Elegem van ebbÅ‘l a helybÅ‘l, Ã©s most... kicsinÃ¡llak, te liba!}
+{135}{}{KÃ¶sz az ÃºtbaigazÃ­tÃ¡st! ViszlÃ¡t.}
+{136}{}{Mintha nem lenne mÃ©g itt elÃ©g marha... nÃ©zd! NEM JÃ–HETSZ BE IDE, Ã‰RTED? MEGSÃ‰RÃœLHETSZ! MOST TÅ°NÃ‰S! MENJ!}
+{137}{}{*Sziipp* Te gonosz... *szipp* elmeggyek Ã©s jÃ¡ccom bohÃ³ccokkal *szippp*... lesz fagyi is... Ã©s sÃ¼ti... Ã©s nem hÃ­llak meg TÃ‰GEDET!}
+{138}{}{[TovÃ¡bbÃ¡llsz]}
+{139}{}{TÅ±nÃ©s, vagy hÃ­vom az Å‘rÃ¶ket! Åk majd kicipelnek!}
+{140}{}{Azt prÃ³bÃ¡ld meg! Betapasztom a lepcses szÃ¡d!}
+{141}{}{BocsÃ¡nat, akkor megyek is.}
+{142}{}{Most ugye csak viccelsz? Nem lÃ¡ttad azt a bazi nagy tÃ¡blÃ¡t a bejÃ¡ratnÃ¡l, sasszem? Ez MenedÃ©kvÃ¡ros KarbantartÃ³ KÃ¶zpontja.}
+{143}{}{ElnÃ©zÃ©st, azt hittem...}
+{144}{}{Bocs a zavarÃ¡sÃ©rt.}
+{145}{}{Ez a rÃ©sze engem nem Ã©rdekel! HoztÃ¡l valami javÃ­tanivalÃ³t, vagy csak a hÃ¼lye kÃ©rdÃ©seiddel akarsz bombÃ¡zni?}
+{146}{}{TehÃ¡t szerelÅ‘ vagy? Ã‰s miket javÃ­tasz?}
+{147}{}{Ezzel betelt a pohÃ¡r! Elegem van ebbÅ‘l a helybÅ‘l, Ã©s most... kicsinÃ¡llak, te liba!}
+{148}{}{Erre nekem nincs idÅ‘m. ViszlÃ¡t!}
+{149}{}{Szintetikus alkohol elosztÃ³t, rÃ¡diÃ³t, fegyvert, lÃ©zertorony-alkatrÃ©szt, szÃ¡mÃ­tÃ³gÃ©p-monitort, mindent... amint megkapom a szerszÃ¡maimat.}
+{150}{}{SzerszÃ¡maidat? Mi lett velÃ¼k?}
+{151}{}{NehÃ©z munka lehet, hagylak is dolgozni.}
+{152}{}{Most Ã©pp egy fÃ©mesztergÃ¡t kÃ©ne megjavÃ­tanom, de elvesztettem a villÃ¡skulcsom... bevallom, nem ez az elsÅ‘ eset... rÃ¡adÃ¡sul a fogÃ³m is tÃ¶nkrement.}
+{153}{}{SegÃ­thetek?}
+{154}{}{MiÃ©rt nem veszel Ãºjakat?}
+{155}{}{Sajnos mennem kell, ViszlÃ¡t!}
 {156}{}{Te?! Ugye most csak viccelsz?}
-{157}{}{Van nálam egy villáskulcs és egy fogó.}
-{158}{}{Eszemben sincs, komolyan beszélek. Egy új villáskulcs meg egy fogó kisegítene?}
-{159}{}{Egyébként mi a probléma az új szerszámok beszerzésével?}
-{160}{}{Segíteni akartam, de felejtsük el! Csiszolj a modorodon, bébi! Viszlát!}
-{161}{}{Akad némi probléma, bogaram! A PROBLÉMA AZ, HOGY EZ MENEDÉKVÁROS ÉS ITT NEM MEHETEK CSAK ÚGY BE A BOLTBA!!!... Ki kell tölteni egy mázsányi kérvényt, amit kismillió helyre szétküldök, aztán... várok... csak várok és várok}
-{162}{}{Akkor miért ne...}
-{163}{}{Sajnálattal hal...}
-{164}{}{Francba! Hónapokkal ezelõtt rendeltem egy szuper szerszámkészletet, de mint mindig, most is csak akkor kapom majd meg, ha már nem lesz rá szükségem.}
-{165}{}{Szeretnék segíteni.}
-{166}{}{Hát... sajnálom. Viszlát!}
-{167}{}{Igen. Miért?}
-{168}{}{Van nálam egy villáskulcs és egy fogó.}
-{169}{}{Talán tudnék szerezni.}
-{170}{}{Egyébként mi a probléma az új szerszámok beszerzésével?}
-{171}{}{Most mennem kell, viszlát!}
-{172}{}{Én ugyan nem tartalak vissza, tõlem azt csinálsz, amit akarsz. Talán még fizetnék is egy keveset.}
-{173}{}{Rendben, megszerzem a szerszámokat. Még találkozunk.}
-{174}{}{Tényleg?}
-{175}{}{Igen. Tessék.}
-{176}{}{Hmmm... kösz. Nem teljesen ilyenre gondoltam, de azért megteszi. Hol talál... na mindegy. Lényegtelen. Itt a pénzed.}
-{177}{}{Kösz. Lenne pár kérdésem.}
-{178}{}{Talán azokkal a szerszámokkal a modorodon is tudsz valamicskét javítani.}
-{179}{}{Örülök, hogy segíthettem.}
-{180}{}{Nézd... van még egy kis munkám. Gyere vissza pár nap múlva, oké? Akkor lesz idõm beszélgetni.}
+{157}{}{Nekem vannak ilyen szerszÃ¡maim.}
+{158}{}{Eszemben sincs, komolyan beszÃ©lek. Egy Ãºj villÃ¡skulcs meg egy fogÃ³ kisegÃ­tene?}
+{159}{}{MiÃ©rt nem veszel Ãºjakat?}
+{160}{}{SegÃ­teni akartam, de felejtsÃ¼k el! Csiszolj a modorodon, bÃ©bi! ViszlÃ¡t!}
+{161}{}{Akad nÃ©mi problÃ©ma, bogaram! A PROBLÃ‰MA AZ, HOGY EZ MENEDÃ‰KVÃROS Ã‰S ITT NEM MEHETEK CSAK ÃšGY BE A BOLTBA!!!... Ki kell tÃ¶lteni egy mÃ¡zsÃ¡nyi kÃ©rvÃ©nyt, amit kismilliÃ³ helyre szÃ©tkÃ¼ldÃ¶k, aztÃ¡n... vÃ¡rok... csak vÃ¡rok Ã©s vÃ¡rok}
+{162}{}{Akkor miÃ©rt ne...}
+{163}{}{SajnÃ¡lattal hal...}
+{164}{}{Francba! HÃ³napokkal ezelÅ‘tt rendeltem egy szuper szerszÃ¡mkÃ©szletet, de mint mindig, most is csak akkor kapom majd meg, ha mÃ¡r nem lesz rÃ¡ szÃ¼ksÃ©gem.}
+{165}{}{SzeretnÃ©k segÃ­teni.}
+{166}{}{HÃ¡t... sajnÃ¡lom. ViszlÃ¡t!}
+{167}{}{Igen. MiÃ©rt?}
+{168}{}{Nekem vannak ilyen szerszÃ¡maim.}
+{169}{}{TalÃ¡n tudnÃ©k szerezni.}
+{170}{}{MiÃ©rt nem veszel Ãºjakat?}
+{171}{}{Rendben. ViszlÃ¡t!}
+{172}{}{Ã‰n ugyan nem tartalak vissza, tÅ‘lem azt csinÃ¡lsz, amit akarsz. TalÃ¡n mÃ©g fizetnÃ©k is egy keveset.}
+{173}{}{Rendben, megszerzem a szerszÃ¡mokat. MÃ©g talÃ¡lkozunk.}
+{174}{}{ValÃ³ban?}
+{175}{}{Igen. TessÃ©k.}
+{176}{}{Hmmm... kÃ¶sz. Nem teljesen ilyenre gondoltam, de azÃ©rt megteszi. Hol talÃ¡l... na mindegy. LÃ©nyegtelen. Itt a pÃ©nzed.}
+{177}{}{KÃ¶sz. Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{178}{}{TalÃ¡n azokkal a szerszÃ¡mokkal a modorodon is tudsz valamicskÃ©t javÃ­tani.}
+{179}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem.}
+{180}{}{NÃ©zd... van mÃ©g egy kis munkÃ¡m. Gyere vissza pÃ¡r nap mÃºlva, okÃ©? Akkor lesz idÅ‘m beszÃ©lgetni.}
 {181}{}{Akkor holnap.}
-{182}{}{Rendben. Visszajövök pár nap múlva. Viszlát!}
-{183}{}{El se hiszem! Alig hogy meghoztad a cuccot, megérkezett a szuper szerszámkészlet is, amit megrendeltem. De nem csak egy, hanem mindjárt ÖT. Mi a franc folyik a Megrendelõ Hivatalban?}
-{184}{}{Megválnál az egyiktõl?}
-{185}{}{Miért ne?! Mi a bánatot kezdjek ÖTTEL?! Vidd csak! Én meg megyek és a szart is kipofozom azokból a hülyékbõl.}
-{186}{}{Kösz. Lenne pár kérdésem.}
-{187}{}{Köszönöm szépen. Biztos hasznát veszem majd.}
-{188}{}{Óh, látom. Nos, mit szeretnél?}
-{189}{}{Mi? Nincs idõm egész nap csevegni!}
+{182}{}{Rendben. VisszajÃ¶vÃ¶k pÃ¡r nap mÃºlva. ViszlÃ¡t!}
+{183}{}{El se hiszem! Alig hogy meghoztad a cuccot, megÃ©rkezett a szuper szerszÃ¡mkÃ©szlet is, amit megrendeltem. De nem csak egy, hanem mindjÃ¡rt Ã–T. Mi a franc folyik a MegrendelÅ‘ Hivatalban?}
+{184}{}{MegvÃ¡lnÃ¡l az egyiktÅ‘l?}
+{185}{}{MiÃ©rt ne?! Mi a bÃ¡natot kezdjek Ã–TTEL?! Vidd csak! Ã‰n meg megyek Ã©s a szart is kipofozom azokbÃ³l a hÃ¼lyÃ©kbÅ‘l.}
+{186}{}{KÃ¶sz. Lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{187}{}{KÃ¶szÃ¶nÃ¶m szÃ©pen. Biztos hasznÃ¡t veszem majd.}
+{188}{}{Ã“h, lÃ¡tom. Nos, mit szeretnÃ©l?}
+{189}{}{Mi? Nincs idÅ‘m egÃ©sz nap csevegni!}
 {190}{}{Igen?}
-{191}{}{Megjavítanál valamit?}
-{192}{}{Mi van raktáron?}
-{193}{}{Hogy vagytok apáddal?}
-{194}{}{Hagylak dolgozni. Viszlát!}
-{195}{}{Semmi említésre méltó. Húsz éve benézett egy karavánnal, felcsinálta anyát és eltûzött. Nem láttam már vagy öt éve. Nem is baj, hogy õszinte legyek.}
-{196}{}{Úgy tûnik, lenne mirõl beszélgetnetek.}
-{197}{}{Nos... lenne pár kérdésem.}
-{198}{}{Hagylak dolgozni. Viszlát!}
-{199}{}{Tévedsz. Már mindent megbeszéltünk réges-rég.}
-{200}{}{Biztos?}
-{201}{}{Rendben. Lenne pár kérdésem.}
+{191}{}{Meg tudnÃ¡l javÃ­tani valamit?}
+{192}{}{Mi van raktÃ¡ron?}
+{193}{}{Hogy vagytok apÃ¡ddal?}
+{194}{}{Hagyjuk, mennem kell.}
+{195}{}{Semmi emlÃ­tÃ©sre mÃ©ltÃ³. HÃºsz Ã©ve benÃ©zett egy karavÃ¡nnal, felcsinÃ¡lta anyÃ¡t Ã©s eltÅ±zÃ¶tt. Nem lÃ¡ttam mÃ¡r vagy Ã¶t Ã©ve. Nem is baj, hogy Å‘szinte legyek.}
+{196}{}{Ãšgy tÅ±nik, lenne mirÅ‘l beszÃ©lgetnetek.}
+{197}{}{Nos... lenne pÃ¡r kÃ©rdÃ©sem.}
+{198}{}{Hagyjuk, mennem kell.}
+{199}{}{TÃ©vedsz. MÃ¡r mindent megbeszÃ©ltÃ¼nk rÃ©ges-rÃ©g.}
+{200}{}{Ezt szomorÃºan hallom. Biztos benne, hogy Ã­gy lesz a legjobb?}
+{201}{}{Rendben. Lenne pÃ¡r kÃ©rdÃ©sem.}
 {202}{}{Akkor hagylak dolgozni.}
-{203}{}{Le kéne adnia pár kilót és abbahagynia a kóborlást a pusztában, meg leszokni arról, hogy szemetet adjon el a törzsbélieknek. Hát, ennyi.}
-{204}{}{Nézd, elég nagy bajba került a rabszolga-kereskedõkkel, és megpróbálja behozni a lemaradást. De igazad van, tényleg le kéne fogynia.}
-{205}{}{Lenne pár kérdésem.}
-{206}{}{Hagylak dolgozni. Viszlát!}
-{207}{}{Elég... csípõs a humorod, de tetszik. Oké, megpróbálok kicsit kultúráltabb lenni. Egy idõre, legalábbis.}
-{208}{}{Ne hagyd, hogy bajba keveredjen, oké?}
-{209}{}{Lenne még pár kérdésem.}
-{210}{}{Mindent megteszek, de kérdeznék valamit.}
-{211}{}{Hagylak dolgozni. Viszlát!}
-{212}{}{Igyekszem majd, bár kiemelkedõ tehetsége van arra, hogy bajba keveredjen. Viszlát, Valerie!}
-{213}{}{Nézd, semmi sincs "raktáron", ez nem bolt. A legtöbb cucc, amit megjavítok, a Komfort Hivatalba kerül. Itt van rögtön balra.}
-{214}{}{Mint MÁR MONDTAM, ez nem bolt! Eredj a Komfort Hivatalba, ha fegyver kell. Akkor gyere ide, ha van javítanivaló holmid!}
-{215}{}{Jól van, nyugi! Akkor megjavítanál valamit?}
-{216}{}{Megjavítanál valamit?}
-{217}{}{Értem. Viszlát!}
-{218}{}{Hmm... talán. Mutasd!}
+{203}{}{Le kÃ©ne adnia pÃ¡r kilÃ³t Ã©s abbahagynia a kÃ³borlÃ¡st a pusztÃ¡ban, meg leszokni arrÃ³l, hogy szemetet adjon el a tÃ¶rzsbÃ©lieknek. HÃ¡t, ennyi.}
+{204}{}{NÃ©zd, elÃ©g nagy bajba kerÃ¼lt a rabszolga-kereskedÅ‘kkel, Ã©s megprÃ³bÃ¡lja behozni a lemaradÃ¡st. De igazad van, tÃ©nyleg le kÃ©ne fogynia.}
+{205}{}{Lenne pÃ¡r kÃ©rdÃ©sem.}
+{206}{}{Hagyjuk, mennem kell.}
+{207}{}{ElÃ©g... csÃ­pÅ‘s a humorod, de tetszik. OkÃ©, megprÃ³bÃ¡lok kicsit kultÃºrÃ¡ltabb lenni. Egy idÅ‘re, legalÃ¡bbis.}
+{208}{}{Ne hagyd, hogy bajba keveredjen, okÃ©?}
+{209}{}{Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{210}{}{Mindent megteszek, de kÃ©rdeznÃ©k valamit.}
+{211}{}{Hagylak dolgozni. ViszlÃ¡t!}
+{212}{}{Igyekszem majd, bÃ¡r kiemelkedÅ‘ tehetsÃ©ge van arra, hogy bajba keveredjen. ViszlÃ¡t, Valerie!}
+{213}{}{NÃ©zd, semmi sincs "raktÃ¡ron", ez nem bolt. A legtÃ¶bb cucc, amit megjavÃ­tok, a Komfort Hivatalba kerÃ¼l. Itt van rÃ¶gtÃ¶n balra.}
+{214}{}{Mint MÃR MONDTAM, ez nem bolt! Eredj a Komfort Hivatalba, ha fegyver kell. Akkor gyere ide, ha van javÃ­tanivalÃ³ holmid!}
+{215}{}{JÃ³l van, nyugi! Akkor megjavÃ­tanÃ¡l valamit?}
+{216}{}{Meg tudnÃ¡l javÃ­tani valamit?}
+{217}{}{Ã‰rtem. ViszlÃ¡t!}
+{218}{}{Hmm... talÃ¡n. Mutasd!}
 {219}{}{Megmutatod a pisztolyaidat.}
-{220}{}{Megmutatod a puskáidat.}
-{221}{}{Megmutatatod a tárgyaidat.}
-{222}{}{Most nincs mit javítanod, inkább kérdeznék valamit.}
-{223}{}{Mennem kell, viszlát!}
-{224}{}{Arra a magnumra 800 dolcsiért lenne egy gyorstöltõ.}
-{225}{}{Arra a Desert Eagle-re felszerelhetek egy tárbõvítõt. 1000 dollár lesz.}
-{226}{}{Magnum fejlesztése.}
-{227}{}{650 dollár a magnum fejlesztésért, hogy hangzik?}
-{228}{}{Desert Eagle fejlesztése.}
-{229}{}{850 dollár a Desert Eagle fejlesztésért?}
-{230}{}{Felejtsd el a pisztolyokat! Más fegyverek fejlesztését is vállalod?}
-{231}{}{Lenne még pár kérdésem.}
-{232}{}{Visszajövök, ha több pénzem lesz.}
-{233}{}{Értem. Még találkozunk.}
-{234}{}{Ehhez a gépkarabélyhoz egy tárbõvítés 1500 dollár lenne.}
-{235}{}{Felrakhatok egy távcsövet arra az FN FAL-ra, mindössze 3500-ért.}
-{236}{}{Rendben, tegyél egy tárbõvítõt az AK-112 gépkarabélyra.}
-{237}{}{Mondjuk 1350 dolcsi a gépkarabély fejlesztéséért?}
-{238}{}{Jöhet az éjjellátó az FN FAL-ra.}
-{239}{}{Hogy hangzik 3100 dollár az alacsony fényerejû távcsõért?}
-{240}{}{Tudnál más fegyvereket is fejleszteni?}
-{241}{}{Inkább hagyjuk! Kérdeznék valamit.}
-{242}{}{Dolgom van, mennem kell.}
-{243}{}{Ha több pénzem lesz, visszajövök.}
-{244}{}{Azt hiszem, az ösztökét feltuningolhatnám, mondjuk...  750-ért.}
+{220}{}{Megmutatod a puskÃ¡idat.}
+{221}{}{Megmutatatod a tÃ¡rgyaidat.}
+{222}{}{Most nincs mit javÃ­tanod, inkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{223}{}{Meggondoltam magam. ViszlÃ¡t!}
+{224}{}{Arra a magnumra 800 dolcsiÃ©rt lenne egy gyorstÃ¶ltÅ‘.}
+{225}{}{Arra a Desert Eagle-re felszerelhetek egy tÃ¡rbÅ‘vÃ­tÅ‘t. 1000 dollÃ¡r lesz.}
+{226}{}{Magnum fejlesztÃ©se.}
+{227}{}{650 dollÃ¡r a magnum fejlesztÃ©sÃ©rt, hogy hangzik?}
+{228}{}{Desert Eagle fejlesztÃ©se.}
+{229}{}{850 dollÃ¡r a Desert Eagle fejlesztÃ©sÃ©rt?}
+{230}{}{Felejtsd el a pisztolyokat! MÃ¡s fegyverek fejlesztÃ©sÃ©t is vÃ¡llalod?}
+{231}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{232}{}{VisszajÃ¶vÃ¶k, ha tÃ¶bb pÃ©nzem lesz.}
+{233}{}{Ã‰rtem. MÃ©g talÃ¡lkozunk.}
+{234}{}{Ehhez a gÃ©pkarabÃ©lyhoz egy tÃ¡rbÅ‘vÃ­tÃ©s 1500 dollÃ¡r lenne.}
+{235}{}{Felrakhatok egy tÃ¡vcsÃ¶vet arra az FN FAL-ra, mindÃ¶ssze 3500-Ã©rt.}
+{236}{}{Rendben, tegyÃ©l egy tÃ¡rbÅ‘vÃ­tÅ‘t az AK-112 gÃ©pkarabÃ©lyra.}
+{237}{}{Mondjuk 1350 dolcsi a gÃ©pkarabÃ©ly fejlesztÃ©sÃ©Ã©rt?}
+{238}{}{JÃ¶het az Ã©jjellÃ¡tÃ³ az FN FAL-ra.}
+{239}{}{Hogy hangzik 3100 dollÃ¡r az alacsony fÃ©nyerejÅ± tÃ¡vcsÅ‘Ã©rt?}
+{240}{}{TudnÃ¡l mÃ¡s fegyvereket is fejleszteni?}
+{241}{}{InkÃ¡bb hagyjuk! KÃ©rdeznÃ©k valamit.}
+{242}{}{Mennem kell, viszlÃ¡t!}
+{243}{}{Ha tÃ¶bb pÃ©nzem lesz, visszajÃ¶vÃ¶k.}
+{244}{}{Azt hiszem, az Ã¶sztÃ¶kÃ©t feltuningolhatnÃ¡m, mondjuk...  750-Ã©rt.}
 {245}{}{Rendben.}
-{246}{}{Hogy hangzik 650 dollár?}
-{247}{}{Tudnál más fegyvereket is tuningolni?}
-{248}{}{Inkább kérdeznék valamit.}
-{249}{}{Dolgom van, mennem kell.}
-{250}{}{Ez túl sokba kerül. Visszajövök, ha megszedtem magam.}
-{251}{}{Úgy látom, tanultál valamit attól a sóher apámtól... Egy óra és kész lesz.}
-{252}{}{Jól van, rendben. Mintha a sóher apámat hallanám. Egy óra és kész lesz.}
-{253}{}{Rendben, egy óra és kész van.}
-{254}{}{Rendben.}
-{255}{}{Tessék. Valami mást?}
-{256}{}{Lenne pár kérdésem.}
-{257}{}{Tudnál valami mást fejleszteni?}
-{258}{}{Nem,  kösz.}
+{246}{}{Hogy hangzik 650 dollÃ¡r?}
+{247}{}{TudnÃ¡l mÃ¡s fegyvereket is tuningolni?}
+{248}{}{FelejtsÃ¼k el! Valami mÃ¡st szeretnÃ©k.}
+{249}{}{Mennem kell, viszlÃ¡t!}
+{250}{}{Ez tÃºl sokba kerÃ¼l. VisszajÃ¶vÃ¶k, ha tÃ¶bb lÃ©m lesz.}
+{251}{}{Ãšgy lÃ¡tom, tanultÃ¡l valamit attÃ³l a sÃ³her apÃ¡mtÃ³l... Egy Ã³ra Ã©s kÃ©sz lesz.}
+{252}{}{JÃ³l van, rendben. Mintha a sÃ³her apÃ¡mat hallanÃ¡m. Egy Ã³ra Ã©s kÃ©sz lesz.}
+{253}{}{Rendben, egy Ã³ra Ã©s kÃ©sz van.}
+{254}{}{Ã‰rtem.}
+{255}{}{EgÃ©szsÃ©gedre! Esetleg... mÃ©g egy italt?}
+{256}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{257}{}{TudnÃ¡l valami mÃ¡st fejleszteni?}
+{258}{}{Nem,  kÃ¶sz.}
 {259}{}{Mi a franc...  APA?!}
 {260}{}{Pardon?}
-{261}{}{Mit? Mi van?... Apa?... Mármint, hogy én?}
+{261}{}{Mit? Mi van?... Apa?... MÃ¡rmint, hogy Ã©n?}
 {262}{}{Apa?!}
-{263}{}{2 Seconds}
-{264}{}{Valerie, édesem... te vagy az?}
-{265}{}{2 Seconds}
-{266}{}{Hol a bús francban voltál?! Még mindig a pusztában csavarogsz és a törzsbéliekre tukmálod a sok szemetet?}
+{263}{}{2 mÃ¡sodperc}
+{264}{}{Valerie, Ã©desem... te vagy az?}
+{265}{}{2 mÃ¡sodperc}
+{266}{}{Hol a bÃºs francban voltÃ¡l?! MÃ©g mindig a pusztÃ¡ban csavarogsz Ã©s a tÃ¶rzsbÃ©liekre tukmÃ¡lod a sok szemetet?}
 {267}{}{5 Seconds}
-{268}{}{Aha... hehehe... ne is törõdj vele, Fõnök, nem tudja mit beszél. Val, édesem, tudod jött néhány rabszolga-hajcsár és...}
+{268}{}{Aha... hehehe... ne is tÃ¶rÅ‘dj vele, FÅ‘nÃ¶k, nem tudja mit beszÃ©l. Val, Ã©desem, tudod jÃ¶tt nÃ©hÃ¡ny rabszolga-hajcsÃ¡r Ã©s...}
 {269}{}{5 Seconds}
-{270}{}{A francba, apa, még mindig mindenkit "Fõnöknek" hívsz, akivel csak találkozol?! Ezt mindig is utáltam benned.}
+{270}{}{A francba, apa, mÃ©g mindig mindenkit "FÅ‘nÃ¶knek" hÃ­vsz, akivel csak talÃ¡lkozol?! Ezt mindig is utÃ¡ltam benned.}
 {271}{}{5 Seconds}
-{272}{}{Valerie, drágám, kérlek... hadd magyarázzam meg. Az úgy volt, hogy...}
+{272}{}{Valerie, drÃ¡gÃ¡m, kÃ©rlek... hadd magyarÃ¡zzam meg. Az Ãºgy volt, hogy...}
 {273}{}{4 Seconds, then Fade Out}
-{274}{}{...és így jutottunk ki Rejtekbõl.}
-{275}{}{2 Seconds}
-{276}{}{Ezt a szar dumát!}
-{277}{}{2 Seconds}
-{278}{}{Ez az igazság!}
-{279}{}{2 Seconds}
-{280}{}{Ne kezd már megint! Még jó, hogy anya ezt már nem láthatja.}
-{281}{}{2 Seconds}
-{282}{}{Micsoda?!... Mi történt anyáddal?}
-{283}{}{2 Seconds}
-{284}{}{Malária. A pusztában kapta el. AHOL TÉGED KERESETT!}
-{285}{}{2 Seconds}
-{286}{}{Ó... nézd, nagyon sajnálom, Val.}
-{287}{}{2 Seconds}
+{274}{}{...Ã©s Ã­gy jutottunk ki RejtekbÅ‘l.}
+{275}{}{2 mÃ¡sodperc}
+{276}{}{Ezt a szar dumÃ¡t!}
+{277}{}{2 mÃ¡sodperc}
+{278}{}{Ez az igazsÃ¡g!}
+{279}{}{2 mÃ¡sodperc}
+{280}{}{Ne kezd mÃ¡r megint! MÃ©g jÃ³, hogy anya ezt mÃ¡r nem lÃ¡thatja.}
+{281}{}{2 mÃ¡sodperc}
+{282}{}{Micsoda?!... Mi tÃ¶rtÃ©nt anyÃ¡ddal?}
+{283}{}{2 mÃ¡sodperc}
+{284}{}{MalÃ¡ria. A pusztÃ¡ban kapta el. AHOL TÃ‰GED KERESETT!}
+{285}{}{2 mÃ¡sodperc}
+{286}{}{Ã“... nÃ©zd, nagyon sajnÃ¡lom, Val.}
+{287}{}{2 mÃ¡sodperc}
 {288}{}{Csak vicceltem.}
-{289}{}{2 Seconds}
+{289}{}{2 mÃ¡sodperc}
 {290}{}{Micsoda?!}
-{291}{}{2 Seconds}
-{292}{}{Igazából sugárfertõzésben halt meg. Ivott a fertõzött vízbõl.}
+{291}{}{2 mÃ¡sodperc}
+{292}{}{IgazÃ¡bÃ³l sugÃ¡rfertÅ‘zÃ©sben halt meg. Ivott a fertÅ‘zÃ¶tt vÃ­zbÅ‘l.}
 {293}{}{5 Seconds}
-{294}{}{Mi... mirõl beszélsz?!}
-{295}{}{2 Seconds}
-{296}{}{Nem a te hibád. Túl nagy dózist kapott, Dr. Troy már nem tudta megmenteni. Úgy világított, mint egy neoncsõ.}
-{297}{}{2 Seconds}
-{298}{}{Ó... én... én...}
-{299}{}{2 Seconds}
-{300}{}{Ne sajnáld!! Enélkül is elég szar az életem.}
-{301}{}{5 Seconds}
-{302}{}{Pedig én... nagyon sajnálom, és...}
-{303}{}{2 Seconds}
-{304}{}{Hazudsz! "Sivatagi kígyónak" hívtad, igaz?!}
-{305}{}{2 Seconds}
-{306}{}{Hát... igen. De azért mégis csak az anyád.}
-{307}{}{2 Seconds}
-{308}{}{Egyébként igazad van. Idõnként tényleg egy hülye kurva volt.}
-{309}{}{5 Seconds}
-{310}{}{Ja... de ahogy elnézem, egyedül is jól boldogulsz. Tõlem örökölted a tehetségedet a szereléshez.}
+{294}{}{Mi... mirÅ‘l beszÃ©lsz?!}
+{295}{}{2 mÃ¡sodperc}
+{296}{}{Nem a te hibÃ¡d. TÃºl nagy dÃ³zist kapott, Dr. Troy mÃ¡r nem tudta megmenteni. Ãšgy vilÃ¡gÃ­tott, mint egy neoncsÅ‘.}
+{297}{}{2 mÃ¡sodperc}
+{298}{}{Ã“... Ã©n... Ã©n...}
+{299}{}{2 mÃ¡sodperc}
+{300}{}{Ne sajnÃ¡ld!! EnÃ©lkÃ¼l is elÃ©g szar az Ã©letem.}
+{301}{}{3 mÃ¡sodperc}
+{302}{}{Pedig Ã©n... nagyon sajnÃ¡lom, Ã©s...}
+{303}{}{2 mÃ¡sodperc}
+{304}{}{Hazudsz! "Sivatagi kÃ­gyÃ³nak" hÃ­vtad, igaz?!}
+{305}{}{2 mÃ¡sodperc}
+{306}{}{HÃ¡t... igen. De azÃ©rt mÃ©gis csak az anyÃ¡d.}
+{307}{}{2 mÃ¡sodperc}
+{308}{}{EgyÃ©bkÃ©nt igazad van. IdÅ‘nkÃ©nt tÃ©nyleg egy hÃ¼lye kurva volt.}
+{309}{}{3 mÃ¡sodperc}
+{310}{}{Ja... de ahogy elnÃ©zem, egyedÃ¼l is jÃ³l boldogulsz. TÅ‘lem Ã¶rÃ¶kÃ¶lted a tehetsÃ©gedet a szerelÃ©shez.}
 {311}{}{5 Seconds}
-{312}{}{Apa... a cipõfûzõdet sem tudod egyedül bekötni, nemhogy gépeket javítani!}
-{313}{}{5 Seconds}
+{312}{}{Apa... a cipÅ‘fÅ±zÅ‘det sem tudod egyedÃ¼l bekÃ¶tni, nemhogy gÃ©peket javÃ­tani!}
+{313}{}{3 mÃ¡sodperc}
 {314}{}{Mi van?! Egy francokat nem!}
-{315}{}{2 Seconds}
-{316}{}{Kérdezzük meg a "fõnököt"!}
-{317}{}{2 Seconds}
-{318}{}{Hááát... megjavított egy rádiót, meg pár egyéb cuccot.}
-{319}{}{Ub núb ub}
-{320}{}{2 Seconds}
-{321}{}{Ha minden alkatrészt odaadsz neki, igaz?}
+{315}{}{2 mÃ¡sodperc}
+{316}{}{KÃ©rdezzÃ¼k meg a "fÅ‘nÃ¶kÃ¶t"!}
+{317}{}{2 mÃ¡sodperc}
+{318}{}{HÃ¡Ã¡Ã¡t... megjavÃ­tott egy rÃ¡diÃ³t, meg pÃ¡r egyÃ©b cuccot.}
+{319}{}{Ub nÃºb ub}
+{320}{}{2 mÃ¡sodperc}
+{321}{}{Ha minden alkatrÃ©szt odaadsz neki, igaz?}
 {322}{}{I see you're traveling with people slightly smarter than you are.}
-{323}{}{2 Seconds}
-{324}{}{Nos, igen.}
-{325}{}{Ub núúm ub?}
-{326}{}{2 Seconds}
-{327}{}{Hah! Tudtam!!  Béna vagy, apa!!!}
-{328}{}{Még a "fõnök" is jobban szerel, mint te.}
-{329}{}{2 Seconds}
-{330}{}{Hát... Val, legutóbb még alig tudtad megkülönböztetni a csavarhúzót a franciakulcstól.}
-{331}{}{2 Seconds}
-{332}{}{Ha így folytatod... apa, SZÜKSÉGED lesz egy franciakulcsra, hogy kiszedd a csizmám a seggedbõl.}
-{333}{}{2 Seconds}
-{334}{}{Igen?! Hát... "édesem", jobb lesz, ha vigyázol a lepcses szádra, vagy...}
-{335}{}{2 Seconds}
-{336}{}{KUSS! MINDKETTÕTÖKNEK KUSS! Ez már túlmegy minden határon! Gyerünk, Vic, tûnjünk el innen!}
-{337}{}{HAGYNI ABBA! MENNI! MENNI MÁR!}
-{338}{}{5 Seconds}
-{339}{}{Majd még beszélünk, Val.}
-{340}{}{2 Seconds}
+{323}{}{2 mÃ¡sodperc}
+{324}{}{HÃ¡t, igen...}
+{325}{}{Ub nÃºÃºm ub?}
+{326}{}{2 mÃ¡sodperc}
+{327}{}{Hah! Tudtam!!  BÃ©na vagy, apa!!!}
+{328}{}{MÃ©g a "fÅ‘nÃ¶k" is jobban szerel, mint te.}
+{329}{}{2 mÃ¡sodperc}
+{330}{}{HÃ¡t... Val, legutÃ³bb mÃ©g alig tudtad megkÃ¼lÃ¶nbÃ¶ztetni a csavarhÃºzÃ³t a franciakulcstÃ³l.}
+{331}{}{2 mÃ¡sodperc}
+{332}{}{Ha Ã­gy folytatod... apa, SZÃœKSÃ‰GED lesz egy franciakulcsra, hogy kiszedd a csizmÃ¡m a seggedbÅ‘l.}
+{333}{}{2 mÃ¡sodperc}
+{334}{}{Igen?! HÃ¡t... "Ã©desem", jobb lesz, ha vigyÃ¡zol a lepcses szÃ¡dra, vagy...}
+{335}{}{2 mÃ¡sodperc}
+{336}{}{KUSS! MINDKETTÅTÃ–KNEK KUSS! Ez mÃ¡r tÃºlmegy minden hatÃ¡ron! GyerÃ¼nk, Vic, tÅ±njÃ¼nk el innen!}
+{337}{}{HAGYNI ABBA! MENNI! MENNI MÃR!}
+{338}{}{3 mÃ¡sodperc}
+{339}{}{Majd mÃ©g beszÃ©lÃ¼nk, Val.}
+{340}{}{2 mÃ¡sodperc}
 {341}{}{Igen, hogyne... apa.}
-{342}{}{2 Seconds}
+{342}{}{2 mÃ¡sodperc}
 {343}{}{Fade out for 3 Seconds}
 {344}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks.}
-{345}{}{Egy kis nyugalomra vágysz, Hõs Úr?}
-{346}{}{Egy kis nyugalomra vágysz, Hõs Kisasszony?}
-{347}{}{Hõõõs? Hihi! JA!}
-{348}{}{[Elcsoszogsz]}
-{349}{}{Úgy gondoltam, visszajövök kicsit megpihenni. Bár, elõbb valami másra lenne szükségem.}
-{350}{}{Mennem kell. Vigyázz magadra!}
-{351}{}{Csak óvatosan, oké? Ja... és kösz, hogy mindannyiunkat megmentettél.}
-{352}{}{Hogyne! Üdv!}
-{353}{}{[Elcsoszogsz]}
-{354}{}{Még találkozunk.}
-{355}{}{Segítettél Valerie-nek új szerszámokhoz jutni.}
-{356}{}{Meggyõzted Val-t, hogy adjon egy esélyt az apjának.}
+{345}{}{Egy kis nyugalomra vÃ¡gysz, HÅ‘s Ãšr?}
+{346}{}{Egy kis nyugalomra vÃ¡gysz, HÅ‘s Kisasszony?}
+{347}{}{HÅ‘Å‘Å‘s? Hihi! JA!}
+{348}{}{[TovÃ¡bbÃ¡llsz]}
+{349}{}{Ãšgy gondoltam, visszajÃ¶vÃ¶k kicsit megpihenni. BÃ¡r, elÅ‘bb valami mÃ¡sra lenne szÃ¼ksÃ©gem.}
+{350}{}{Mennem kell. VigyÃ¡zz magadra!}
+{351}{}{Csak Ã³vatosan, okÃ©? Ja... Ã©s kÃ¶sz, hogy mindannyiunkat megmentettÃ©l.}
+{352}{}{Hogyne! Ãœdv!}
+{353}{}{[TovÃ¡bbÃ¡llsz]}
+{354}{}{MÃ©g talÃ¡lkozunk.}
+{355}{}{SegÃ­tettÃ©l Valerie-nek Ãºj szerszÃ¡mokhoz jutni.}
+{356}{}{MeggyÅ‘zted Val-t, hogy adjon egy esÃ©lyt az apjÃ¡nak.}
 {357}{}{ ***DO NOT DELETE THE NEXT LINE (#358)! IT'S NEEDED FOR THE SCRIPT. DON'T BOTHER TRANSLATING THIS, EITHER***}
 {358}{}{}
-{359}{}{Itt vannak a szerszámok.}
-{360}{}{Nos, úgy látom, nem tudok segíteni. Én csak fegyverek szereléséhez értek.}
+{359}{}{Itt vannak a szerszÃ¡mok.}
+{360}{}{Nos, Ãºgy lÃ¡tom, nem tudok segÃ­teni. Ã‰n csak fegyverek szerelÃ©sÃ©hez Ã©rtek.}

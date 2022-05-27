@@ -1,38 +1,38 @@
-{100}{}{Valami hirdetõtábla féleség.}
-{101}{}{Klamath hirdetõtáblája.}
-{102}{}{Különbözõ hirdetések és állásajánlatok vannak a táblán. Néhány közülük már régóta itt lehet.}
-{110}{}{Többféle hirdetmény van rajta. Néhány hirdetés, pár munkalehetõség és még egy rajz is. Úgy látszik, egy részük már jó régóta ki van rakva.}
-{120}{}{Azt hiszem, megnézem közelebbrõl azt a rajzot.}
-{130}{}{Ez jól hangzik, valami piáról van szó benne.}
-{140}{}{Ezen meg a Fürdõt hirdetik.}
-{150}{}{Valaki gyíkbõröket venne.}
-{160}{}{Itt valami patkányokat emlegetnek.}
-{170}{}{Itt meg valami régi dologról van szó.}
-{180}{}{Úgy tûnik, valaki hirtelen eltûnt.}
+{100}{}{Valami hirdetÅ‘tÃ¡bla fÃ©lesÃ©g.}
+{101}{}{Klamath hirdetÅ‘tÃ¡blÃ¡ja.}
+{102}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ hirdetÃ©sek Ã©s Ã¡llÃ¡sajÃ¡nlatok vannak a tÃ¡blÃ¡n. NÃ©hÃ¡ny kÃ¶zÃ¼lÃ¼k mÃ¡r rÃ©gÃ³ta itt lehet.}
+{110}{}{TÃ¶bbfÃ©le hirdetmÃ©ny van rajta. NÃ©hÃ¡ny hirdetÃ©s, pÃ¡r munkalehetÅ‘sÃ©g Ã©s mÃ©g egy rajz is. Ãšgy lÃ¡tszik, egy rÃ©szÃ¼k mÃ¡r jÃ³ rÃ©gÃ³ta ki van rakva.}
+{120}{}{Azt hiszem, megnÃ©zem kÃ¶zelebbrÅ‘l azt a rajzot.}
+{130}{}{Ez jÃ³l hangzik, valami piÃ¡rÃ³l van szÃ³ benne.}
+{140}{}{Ezen meg a FÃ¼rdÅ‘t hirdetik.}
+{150}{}{Valaki gyÃ­kbÅ‘rÃ¶ket venne.}
+{160}{}{Itt valami patkÃ¡nyokat emlegetnek.}
+{170}{}{Itt meg valami rÃ©gi dologrÃ³l van szÃ³.}
+{180}{}{Ãšgy tÅ±nik, valaki hirtelen eltÅ±nt.}
 {190}{}{(Walk Away)}
-{210}{}{Egy brahminnak tûnõ kezdetleges rajz, áthúzva egy X-el. A "Torr" szó van aláfirkantva.}
-{220}{}{Inkább megnézek egy másik hirdetést.}
-{230}{}{Ennyi infó elég is.}
-{240}{}{Pia. Erre felfigyelté' mi? Az ócska lábam tönkreteszi az üzletet. Segítség kéne a kazán feltöltéséhez. Gyors és megbízható fickók elõnyben. Keresd Whiskey Bobot Buckner Mama krimójában!}
-{250}{}{Inkább megnézek egy másik hirdetést.}
-{260}{}{Ennyi infó elég is.}
-{270}{}{Eltûnt személy! Látta valaki Smileyt, a prémvadászt? Smiley kb. 180 cm magas, viszonylag tiszta és (általában) szobatiszta. Északra indult, mielõtt eltûnt, és kezd hiányozni. -Ardin Buckner}
-{280}{}{Inkább megnézek egy másik hirdetést.}
-{290}{}{Ennyi infó elég is.}
-{310}{}{Sok dollárt jó bõrökért. Vannak gekkóbõreid? Nekem van pénzem! Az aranygekkóbõrért prémium jár. Gyere be hozzám! -Sajag, az Arany Gekkó Fogadó tulajdonosa.}
-{320}{}{Inkább megnézek egy másik hirdetést.}
-{330}{}{Ennyi infó elég is.}
-{340}{}{Túl sok a rohadt patkány a Prémvadászok Városában. Gyere és kapd el õket, több van, mint amennyit meg tudnál enni. -Slim}
-{350}{}{Inkább megnézek egy másik hirdetést.}
-{360}{}{Ennyi infó elég is.}
-{370}{}{Mocskosnak érzed magad? Semmi sem frissít fel úgy, mint egy kellemes fürdõ. Három fajta különleges fürdõ, az igények teljes kielégítésére. Fõattrakciónk a gyönyörû és tehetséges Jenny (nemrég érkezett Rejtekbõl) -- Ha felizgatott a dolog, keresd Nagyorrú Sal-t a Fürdõben!}
-{380}{}{Inkább megnézek egy másik hirdetést.}
-{390}{}{Ennyi infó elég is.}
-{400}{}{Eredeti régiségek! Ma már nem gyártják õket úgy, mint régen. Sõt, szinte már nem is gyártanak ilyeneket. Ha a jól bevált régi dolgok kellenek, keresd Vicet, a Kereskedõt a belváros keleti részén.}
-{410}{}{Inkább megnézek egy másik hirdetést.}
-{420}{}{Ennyi infó elég is.}
-{430}{}{Egy fa hirdetõtáblát látsz. Sok kis papírfecnit ragasztottak rá. Mindegyiken van egy kis bogár alakú jel, kivéve egyet. Fúha, jól kifáradtál. Talán keresned kéne valami kevésbé megerõltetõ elfoglaltságot.}
+{210}{}{Egy brahminnak tÅ±nÅ‘ kezdetleges rajz, Ã¡thÃºzva egy X-el. A "Torr" szÃ³ van alÃ¡firkantva.}
+{220}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{230}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{240}{}{Pia. Erre felfigyeltÃ©' mi? Az Ã³cska lÃ¡bam tÃ¶nkreteszi az Ã¼zletet. SegÃ­tsÃ©g kÃ©ne a kazÃ¡n feltÃ¶ltÃ©sÃ©hez. Gyors Ã©s megbÃ­zhatÃ³ fickÃ³k elÅ‘nyben. Keresd Whiskey Bobot Buckner Mama krimÃ³jÃ¡ban!}
+{250}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{260}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{270}{}{EltÅ±nt szemÃ©ly! LÃ¡tta valaki Smileyt, a prÃ©mvadÃ¡szt? Smiley kb. 180 cm magas, viszonylag tiszta Ã©s (Ã¡ltalÃ¡ban) szobatiszta. Ã‰szakra indult, mielÅ‘tt eltÅ±nt, Ã©s kezd hiÃ¡nyozni. -Ardin Buckner}
+{280}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{290}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{310}{}{Sok dollÃ¡rt jÃ³ bÅ‘rÃ¶kÃ©rt. Vannak gekkÃ³bÅ‘reid? Nekem van pÃ©nzem! Az aranygekkÃ³bÅ‘rÃ©rt prÃ©mium jÃ¡r. Gyere be hozzÃ¡m! -Sajag, az Arany GekkÃ³ FogadÃ³ tulajdonosa.}
+{320}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{330}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{340}{}{TÃºl sok a rohadt patkÃ¡ny a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡ban. Gyere Ã©s kapd el Å‘ket, tÃ¶bb van, mint amennyit meg tudnÃ¡l enni. -Slim}
+{350}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{360}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{370}{}{Mocskosnak Ã©rzed magad? Semmi sem frissÃ­t fel Ãºgy, mint egy kellemes fÃ¼rdÅ‘. HÃ¡rom fajta kÃ¼lÃ¶nleges fÃ¼rdÅ‘, az igÃ©nyek teljes kielÃ©gÃ­tÃ©sÃ©re. FÅ‘attrakciÃ³nk a gyÃ¶nyÃ¶rÅ± Ã©s tehetsÃ©ges Jenny (nemrÃ©g Ã©rkezett RejtekbÅ‘l) -- Ha felizgatott a dolog, keresd NagyorrÃº Sal-t a FÃ¼rdÅ‘ben!}
+{380}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{390}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{400}{}{Eredeti rÃ©gisÃ©gek! Ma mÃ¡r nem gyÃ¡rtjÃ¡k Å‘ket Ãºgy, mint rÃ©gen. SÅ‘t, szinte mÃ¡r nem is gyÃ¡rtanak ilyeneket. Ha a jÃ³l bevÃ¡lt rÃ©gi dolgok kellenek, keresd Vicet, a KereskedÅ‘t a belvÃ¡ros keleti rÃ©szÃ©n.}
+{410}{}{InkÃ¡bb megnÃ©zek egy mÃ¡sik hirdetÃ©st.}
+{420}{}{EgyelÅ‘re ez minden infÃ³, amire szÃ¼ksÃ©gem van.}
+{430}{}{Egy fa hirdetÅ‘tÃ¡blÃ¡t lÃ¡tsz. Sok kis papÃ­rfecnit ragasztottak rÃ¡. Mindegyiken van egy kis bogÃ¡r alakÃº jel, kivÃ©ve egyet. FÃºha, jÃ³l kifÃ¡radtÃ¡l. TalÃ¡n keresned kÃ©ne valami kevÃ©sbÃ© megerÅ‘ltetÅ‘ elfoglaltsÃ¡got.}
 {440}{}{Torr. (Look at the one notice that makes any sense.)}
-{450}{}{Joó}
-{460}{}{Egy brahmin-nak tûnõ kezdetleges rajz, áthúzva egy X-el. A "Torr" szó van aláfirkantva. (Nem túl szép, de azért érthetõ.)}
-{470}{}{Ba'van! (Úgy tûnik a Torr nevû szerencsétlennek segítségre van szüksége a brahminokkal.)}
+{450}{}{JoÃ³}
+{460}{}{Egy brahmin-nak tÅ±nÅ‘ kezdetleges rajz, Ã¡thÃºzva egy X-el. A "Torr" szÃ³ van alÃ¡firkantva. (Nem tÃºl szÃ©p, de azÃ©rt Ã©rthetÅ‘.)}
+{470}{}{Ba'van! (Ãšgy tÅ±nik a Torr nevÅ± szerencsÃ©tlennek segÃ­tsÃ©gre van szÃ¼ksÃ©ge a brahminokkal.)}

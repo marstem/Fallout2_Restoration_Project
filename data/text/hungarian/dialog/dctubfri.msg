@@ -1,118 +1,117 @@
-{100}{}{You see a druggie.}
+{100}{}{You see a drug addict.}
 {110}{}{Egy Jet-kurva.}
-{111}{}{Tubby egyik Jet-kurvája.}
-{150}{}{Tubby egyik barátjának látszik. }
-{160}{}{Erõsen bedrogozott a kicsike.}
-{161}{}{Erõs elvonási tünetektõl szenved.}
+{111}{}{Tubby egyik Jet-kurvÃ¡ja.}
+{150}{}{Tubby egyik barÃ¡tjÃ¡nak lÃ¡tszik. }
+{160}{}{ErÅ‘sen bedrogozott a kicsike.}
+{161}{}{ErÅ‘s elvonÃ¡si tÃ¼netektÅ‘l szenved.}
 {200}{}{Ember, honnan fogjuk a szert beszerezni?}
-{201}{}{Mér õted meg Tubbyt?}
-{202}{}{Ember, ez kibaszás!}
-{203}{}{Most mit kellene csinálnunk?}
-{204}{}{Ó, ember...}
-{205}{}{Hé, ez nem igazságos!}
-{206}{}{Ne bánts minket, nem fogunk beszélni!}
-{220}{}{Nem semmi egy aljas alaknak tûnsz.}
-{221}{}{Egészen rendes gyerek vagy. Mondta ezt már neked valaki?}
-{222}{}{Egészen rendes lány vagy. Mondta ezt már neked valaki?}
-{223}{}{Tubby õrei vagyunk.}
-{224}{}{Ne baszakodj Tubbyval! Ez itt az õ helye.}
-{225}{}{A francba, jól érzem magam!}
-{226}{}{El sem hiszem, hogy õrök vagyunk! Jó nem?}
-{227}{}{Frankó ez a cucc.}
-{228}{}{Ó, ember, nem érzem a lábaimat.}
-{229}{}{Tubby a barátunk.}
-{230}{}{Tubby boldogít minket.}
+{201}{}{MÃ©r Å‘ted meg Tubbyt?}
+{202}{}{Ember, ez kibaszÃ¡s!}
+{203}{}{Most mit kellene csinÃ¡lnunk?}
+{204}{}{Ã“, ember...}
+{205}{}{HÃ©, ez nem igazsÃ¡gos!}
+{206}{}{Ne bÃ¡nts minket, nem fogunk beszÃ©lni!}
+{220}{}{Nem semmi egy aljas alaknak tÅ±nsz.}
+{221}{}{EgÃ©szen rendes gyerek vagy. Mondta ezt mÃ¡r neked valaki?}
+{222}{}{EgÃ©szen rendes lÃ¡ny vagy. Mondta ezt mÃ¡r neked valaki?}
+{223}{}{Tubby Å‘rei vagyunk.}
+{224}{}{Ne baszakodj Tubbyval! Ez itt az Å‘ helye.}
+{225}{}{A francba, jÃ³l Ã©rzem magam!}
+{226}{}{El sem hiszem, hogy Å‘rÃ¶k vagyunk! JÃ³ nem?}
+{227}{}{FrankÃ³ ez a cucc.}
+{228}{}{Ã“, ember, nem Ã©rzem a lÃ¡baimat.}
+{229}{}{Tubby a barÃ¡tunk.}
+{230}{}{Tubby boldogÃ­t minket.}
 {231}{}{Franc esne a szemembe...}
-{232}{}{Hé ember, te rabszolga-hajcsár vagy? Az igen!}
-{233}{}{Nem fájt a tetoválás?}
-{234}{}{Ti rabszolga-kereskedõk aztán kemény gyerekek vagytok.}
-{235}{}{Nem veszélyes rabszolga-kereskedõnek lenni?}
-{236}{}{Azt hallottam, lelõtték a fõnöködet. Szar ügy.}
+{232}{}{HÃ© ember, te rabszolga-hajcsÃ¡r vagy? Az igen!}
+{233}{}{Nem fÃ¡jt a tetovÃ¡lÃ¡s?}
+{234}{}{Ti rabszolga-kereskedÅ‘k aztÃ¡n kemÃ©ny gyerekek vagytok.}
+{235}{}{Nem veszÃ©lyes rabszolga-kereskedÅ‘nek lenni?}
+{236}{}{Azt hallottam, lelÅ‘ttÃ©k a fÅ‘nÃ¶kÃ¶det. Szar Ã¼gy.}
 {237}{}{Hallotad? Olyasmiket rebesgetnek, hogy Metzger meghalt.}
-{238}{}{Nem semmi, valaki kicsinálta Metzgert, a Mészárost!}
-{239}{}{Remélem, Metz halála után Tubby tovább folytatja az üzletet.}
-{250}{}{Barátom! Ez megölte Tubbyt!}
+{238}{}{Nem semmi, valaki kicsinÃ¡lta Metzgert, a MÃ©szÃ¡rost!}
+{239}{}{RemÃ©lem, Metz halÃ¡la utÃ¡n Tubby tovÃ¡bb folytatja az Ã¼zletet.}
+{250}{}{BarÃ¡tom! Ez megÃ¶lte Tubbyt!}
 {251}{}{Valami baj van az anyagommal...}
 {252}{}{Ejha, mi folyik itt?}
-{253}{}{Mi volt ez a nagy zajongás?}
+{253}{}{Mi volt ez a nagy zajongÃ¡s?}
 {254}{}{Bazmeg, ez nagyon szar volt.}
-{255}{}{Barátom! Ez megölte Tubbyt!}
-{260}{}{Iggggeeeeen... Jó anyag ez...}
-{261}{}{Mi van?}
-{262}{}{Végre repülök.}
-{263}{}{Ó, ez jó meleg.}
-{264}{}{Elég szép a kicsike.}
-{265}{}{Jaj, áramszünet... Szart se látok.}
-{270}{}{Azta, láttad ezt?!}
+{255}{}{BarÃ¡tom! Ez megÃ¶lte Tubbyt!}
+{260}{}{Iggggeeeeen... JÃ³ anyag ez...}
+{261}{}{Mi az?}
+{262}{}{VÃ©gre repÃ¼lÃ¶k.}
+{263}{}{Ã“, ez jÃ³ meleg.}
+{264}{}{ElÃ©g szÃ©p a kicsike.}
+{265}{}{Jaj, Ã¡ramszÃ¼net... Szart se lÃ¡tok.}
+{270}{}{Azta, lÃ¡ttad ezt?!}
 {271}{}{Tudod mi volt?}
-{272}{}{Szerintem egy madár volt.}
+{272}{}{Szerintem egy madÃ¡r volt.}
 {273}{}{Nem... egy kutya.}
 {274}{}{But it was flying, man.}
-{275}{}{Semmiképpen... látszott, ahogy átsuhan a föld fölött.}
-{276}{}{Te látsz valamit, ember...}
+{275}{}{SemmikÃ©ppen... lÃ¡tszott, ahogy Ã¡tsuhan a fÃ¶ld fÃ¶lÃ¶tt.}
+{276}{}{Te lÃ¡tsz valamit, ember...}
 {277}{}{Nem-nem... Ez bizony igazi volt!}
-{278}{}{Ahogy gondolja.}
-{279}{}{Óhhh, már megint kezdi... Áááá}
-{290}{}{Helyes kis fényecskék ezek...}
-{291}{}{Milyen sok fény!}
+{278}{}{JÃ³l van, jÃ³l van...}
+{279}{}{Ã“hhh, mÃ¡r megint kezdi... ÃÃ¡Ã¡Ã¡}
+{290}{}{Helyes kis fÃ©nyecskÃ©k ezek...}
+{291}{}{Milyen sok fÃ©ny!}
 {292}{}{Olyan melegek.}
-{293}{}{És vannak fák.}
-{294}{}{Hol vannak a nõk?}
-{295}{}{Olyan zöld és helyes.}
+{293}{}{Ã‰s vannak fÃ¡k.}
+{294}{}{Hol vannak a nÅ‘k?}
+{295}{}{Olyan zÃ¶ld Ã©s helyes.}
 {296}{}{Szeretem a krumplit.}
-{297}{}{A fák fából vannak.}
-{298}{}{Szeretem a nõket és a krumplit.}
-{299}{}{Miközben égnek, szép füstöt árasztanak.}
-{300}{}{De nem ám együtt...}
-{301}{}{A fákon állatok élnek.}
-{302}{}{Nem, nem a nõket és a fákat... a nõket és krumplit.}
-{303}{}{Tudok fára mászni.}
-{304}{}{A fára mászó nõ krumplit eszik? Hülye vagy...}
-{305}{}{Honnan jönnek a fák? }
-{306}{}{Nem tudsz egyszerre fára mászni és krumplit enni.}
+{297}{}{A fÃ¡k fÃ¡bÃ³l vannak.}
+{298}{}{Szeretem a nÅ‘ket Ã©s a krumplit.}
+{299}{}{MikÃ¶zben Ã©gnek, szÃ©p fÃ¼stÃ¶t Ã¡rasztanak.}
+{300}{}{De nem Ã¡m egyÃ¼tt...}
+{301}{}{A fÃ¡kon Ã¡llatok Ã©lnek.}
+{302}{}{Nem, nem a nÅ‘ket Ã©s a fÃ¡kat... a nÅ‘ket Ã©s krumplit.}
+{303}{}{Tudok fÃ¡ra mÃ¡szni.}
+{304}{}{A fÃ¡ra mÃ¡szÃ³ nÅ‘ krumplit eszik? HÃ¼lye vagy...}
+{305}{}{Honnan jÃ¶nnek a fÃ¡k? }
+{306}{}{Nem tudsz egyszerre fÃ¡ra mÃ¡szni Ã©s krumplit enni.}
 {307}{}{Szeretem a bokrokat is.}
-{308}{}{Hát nem egykönnyen...}
-{309}{}{Azért, mert zöldek.}
-{310}{}{A krumpli nem zöld.}
-{311}{}{Óhh, de helyes kis fényecskék!}
-{312}{}{Jaj, de fáj a fejem...}
-{320}{}{Ne beszélj hozzám! Fáj a fejem.}
+{308}{}{HÃ¡t nem egykÃ¶nnyen...}
+{309}{}{AzÃ©rt, mert zÃ¶ldek.}
+{310}{}{A krumpli nem zÃ¶ld.}
+{311}{}{Ã“hh, de helyes kis fÃ©nyecskÃ©k!}
+{312}{}{Jaj, de fÃ¡j a fejem...}
+{320}{}{Ne beszÃ©lj hozzÃ¡m! FÃ¡j a fejem.}
 {321}{}{Nem mondom el senkinek.}
-{322}{}{Ne bánts!}
-{323}{}{Nem csináltam semmit...}
-{324}{}{Nem láttam semmit...}
+{322}{}{Ne bÃ¡nts!}
+{323}{}{Nem csinÃ¡ltam semmit.}
+{324}{}{Nem lÃ¡ttam semmit...}
 {325}{}{Nem hallottam semmit...}
-{326}{}{Kérlek, menj el!}
-{327}{}{Hölgyem, nincs sok kedvem beszélgetni. Kibaszottul fáj a fejem.
-}
-{340}{}{Elmész te a picsába!}
-{341}{}{Miért kellett tönkrevágni egy tökéletes betépést?}
-{342}{}{Ember, ez fájt!}
+{326}{}{KÃ©rlek, menj el!}
+{327}{}{HÃ¶lgyem, nincs sok kedvem beszÃ©lgetni. Kibaszottul fÃ¡j a fejem.}
+{340}{}{ElmÃ©sz te a picsÃ¡ba!}
+{341}{}{MiÃ©rt kellett tÃ¶nkrevÃ¡gni egy tÃ¶kÃ©letes betÃ©pÃ©st?}
+{342}{}{Ember, ez fÃ¡jt!}
 {343}{}{Oda ne rohanjak...}
-{344}{}{Ezt mégis hogy gondoltad?}
-{400}{}{Tubby olyan csodálatos ember.}
-{401}{}{A Jettõl mindig kanos leszek.}
-{402}{}{Tubby tudja, hogy bánjon a nõivel.}
-{403}{}{Hát nem csodálatos ez a Tubby?}
-{404}{}{Ó, édes... Várj! Te nem is vagy Tubby.}
-{405}{}{Hol van a nagy emberünk?}
-{406}{}{Nem bizsereg tõle a bõröd?}
-{407}{}{Tubbynak van a legjobb ellátmánya a városban.}
-{408}{}{Olyan virgoncnak érzem magam!}
+{344}{}{Ezt mÃ©gis hogy gondoltad?}
+{400}{}{Tubby olyan csodÃ¡latos ember.}
+{401}{}{A JettÅ‘l mindig kanos leszek.}
+{402}{}{Tubby tudja, hogy bÃ¡njon a nÅ‘ivel.}
+{403}{}{HÃ¡t nem csodÃ¡latos ez a Tubby?}
+{404}{}{Ã“, Ã©des... VÃ¡rj! Te nem is vagy Tubby.}
+{405}{}{Hol van a nagy emberÃ¼nk?}
+{406}{}{Nem bizsereg tÅ‘le a bÅ‘rÃ¶d?}
+{407}{}{Tubbynak van a legjobb ellÃ¡tmÃ¡nya a vÃ¡rosban.}
+{408}{}{Olyan elevennek Ã©rzem magam!}
 {420}{}{Did you hear a loud bang?}
-{421}{}{Egy ideje nem láttam már Tubbyt.}
+{421}{}{Egy ideje nem lÃ¡ttam mÃ¡r Tubbyt.}
 {422}{}{Hol van Tubby?}
-{423}{}{Láttad Tubbyt?}
-{440}{}{Ó, a fejem!}
+{423}{}{LÃ¡ttad Tubbyt?}
+{440}{}{Ã“, a fejem!}
 {441}{}{Hol van Tubby? Menten meghalok!}
-{442}{}{Ezt nem tudom tovább elviselni.}
-{443}{}{A fájdalom kezd kibírhatatlan lenni.}
-{444}{}{Tubby már régóta nem adott semennyit sem. Merre van?}
+{442}{}{Ezt mÃ¡r nem bÃ­rom sokÃ¡ig!}
+{443}{}{A fÃ¡jdalom kezd kibÃ­rhatatlan lenni.}
+{444}{}{Tubby mÃ¡r rÃ©gÃ³ta nem adott semennyit sem. Merre van?}
 {445}{}{Az ajkaim dermedtek.}
-{446}{}{Nem érzem az ujjaimat.}
-{460}{}{Ne bánts!}
-{461}{}{Kérlek, ne!}
-{462}{}{Nem én vettem el!}
-{463}{}{Nem én voltam!}
-{464}{}{Ne érj hozzám!}
+{446}{}{Nem Ã©rzem az ujjaimat.}
+{460}{}{Ne bÃ¡nts!}
+{461}{}{KÃ©rlek, ne!}
+{462}{}{Nem Ã©n vettem el!}
+{463}{}{Nem Ã©n voltam!}
+{464}{}{Hagyj bÃ©kÃ©n!}
 {465}{}{Nem tudtam, hogy a tied!}

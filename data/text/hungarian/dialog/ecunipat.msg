@@ -1,13 +1,13 @@
-{100}{}{Az Összefogásért!}
-{101}{}{Uraim, verjük vissza õket!}
-{102}{}{Megölni a behatolókat!}
-{103}{}{Megvédeni a várost!}
-{104}{}{Gyerünk, gyerünk, gyerünk!}
-{105}{}{Vigyázz! Útonállók!}
-{106}{}{Tûnjünk innen!}
-{107}{}{Óh, vazzeg... amikor már azt hittem, hogy biztonságban vagyunk! Elég! Elég volt!}
-{108}{}{Menekülés!}
-{109}{}{Mutasson tiszteletet a népünk iránt!}
-{110}{}{Ne szegd meg a törvényt!}
-{111}{}{Ha azon töprengsz, miként okozhatnál balhét, csak jussunk az eszedbe! Viselkedj rendesen, és Marcus is rendesen fog viselkedni.}
-{112}{}{Békeszeretõ Broken Hills-i lakosok vagyunk, de azért tudjuk, hogyan kell harcolni.}
+{100}{}{Az Ã–sszefogÃ¡sÃ©rt!}
+{101}{}{Uraim, verjÃ¼k vissza Å‘ket!}
+{102}{}{MegÃ¶lni a behatolÃ³kat!}
+{103}{}{MegvÃ©deni a vÃ¡rost!}
+{104}{}{GyerÃ¼nk, gyerÃ¼nk, gyerÃ¼nk!}
+{105}{}{VigyÃ¡zz! ÃštonÃ¡llÃ³k!}
+{106}{}{Most szÃ©pen szedem a sÃ¡torfÃ¡mat!}
+{107}{}{Ã“h, vazzeg... amikor mÃ¡r azt hittem, hogy biztonsÃ¡gban vagyunk! ElÃ©g! ElÃ©g volt!}
+{108}{}{FutÃ¡Ã¡Ã¡Ã¡s!}
+{109}{}{Tisztelettel bÃ¡nj a mieinkkel!}
+{110}{}{Ne szegd meg a tÃ¶rvÃ©nyt!}
+{111}{}{Ha azon tÃ¶prengsz, mikÃ©nt okozhatnÃ¡l balhÃ©t, csak jussunk az eszedbe! Viselkedj rendesen, Ã©s Marcus is rendesen fog viselkedni.}
+{112}{}{BÃ©keszeretÅ‘ Broken Hills-i lakosok vagyunk, de azÃ©rt tudjuk, hogyan kell harcolni.}

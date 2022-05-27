@@ -1,266 +1,266 @@
-{100}{}{Õ Wallace.}
-{101}{}{Egy fáradt tekintetû, sovány férfit látsz, aki patyolattiszta, gondosan vasalt menedékruhát visel.}
-{102}{}{Wallace, Menedékváros vámhivatalnoka.}
-{103}{}{Egy fáradt tekintetû, sovány férfit látsz, aki patyolattiszta, gondosan vasalt menedékruhát visel.}
-{104}{}{Hallottunk a hõstetteidrõl. A Tanács határozata szerint te... és a hozzád tartozók... engedélyt kaptatok, hogy bármikor beléphessetek Menedékvárosba.}
-{105}{}{A Vámhivatal este zárva van. Gyere vissza reggel!}
-{106}{}{A Vámhivatal este zárva van. Amint elkészültem ezekkel a listákkal, rögtön indulok haza.}
+{100}{}{Å Wallace.}
+{101}{}{Egy fÃ¡radt tekintetÅ±, sovÃ¡ny fÃ©rfit lÃ¡tsz, aki patyolattiszta, gondosan vasalt menedÃ©kruhÃ¡t visel.}
+{102}{}{Wallace, MenedÃ©kvÃ¡ros vÃ¡mhivatalnoka.}
+{103}{}{Egy fÃ¡radt tekintetÅ±, sovÃ¡ny fÃ©rfit lÃ¡tsz, aki patyolattiszta, gondosan vasalt menedÃ©kruhÃ¡t visel.}
+{104}{}{Hallottunk a hÅ‘stetteidrÅ‘l. A TanÃ¡cs hatÃ¡rozata szerint te... Ã©s a hozzÃ¡d tartozÃ³k... engedÃ©lyt kaptatok, hogy bÃ¡rmikor belÃ©phessetek MenedÃ©kvÃ¡rosba.}
+{105}{}{A VÃ¡mhivatal este zÃ¡rva van. Gyere vissza reggel!}
+{106}{}{A VÃ¡mhivatal este zÃ¡rva van. Amint elkÃ©szÃ¼ltem ezekkel a listÃ¡kkal, rÃ¶gtÃ¶n indulok haza.}
 {107}{}{I have nothing to say to anyone who travels with... ghouls. His kind belongs in the Courtyard.}
 {108}{}{I have nothing to say to anyone who travels with... mutants. His kind belongs in the Courtyard.}
-{109}{}{Üdvözöllek, Kapitány! Segíthetek?}
-{110}{}{Üdvözöllek, Polgártárs! Segíthetek?}
-{111}{}{Üdvözöllek Menedékvárosban, utazó! Miben segíthetek?}
-{112}{}{Ügyü-gügyü!}
-{113}{}{[Elcsoszogsz]}
-{114}{}{Ki vagy te?}
-{115}{}{Mi ez a hely tulajdonképpen?}
-{116}{}{Azt hiszem, az asszisztensed, Skeev, hamis papírokkal kereskedik.}
-{117}{}{Kösz, egyelõre elleszek magam is.}
-{118}{}{Nos, azt hiszem, beszélnem kell az õrökkel. Úgy látszik, manapság már mindenféle Kívülállót beengednek Menedékvárosba.}
+{109}{}{ÃœdvÃ¶zlÃ¶m, KapitÃ¡ny! Miben segÃ­thetek?}
+{110}{}{ÃœdvÃ¶zlÃ¶m, PolgÃ¡rtÃ¡rs! Miben segÃ­thetek?}
+{111}{}{ÃœdvÃ¶zÃ¶llek MenedÃ©kvÃ¡rosban, utazÃ³! Miben segÃ­thetek?}
+{112}{}{ÃœgyÃ¼-gÃ¼gyÃ¼!}
+{113}{}{[TovÃ¡bbÃ¡llsz]}
+{114}{}{Ki vagy?}
+{115}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{116}{}{Azt hiszem, az asszisztensed, Skeev, hamis papÃ­rokkal kereskedik.}
+{117}{}{TÅ‘led? Semmit.}
+{118}{}{Nos, azt hiszem, beszÃ©lnem kell az Å‘rÃ¶kkel. Ãšgy lÃ¡tszik, manapsÃ¡g mÃ¡r mindenfÃ©le KÃ­vÃ¼lÃ¡llÃ³t beengednek MenedÃ©kvÃ¡rosba.}
 {119}{}{Nappi-be. Napi? Na... pocska.}
-{120}{}{[Elcsoszogsz]}
-{121}{}{Idióta!}
-{122}{}{Azt mondod, "Napocska"!? Ó... de kedves. Miért nem mész vissza Elõvárosba és mondod el a többi a Kívülálló barátodnak is?}
-{123}{}{Okééé!}
-{124}{}{Ha jobban belegondolok, okosabbnak tûnik, ha most lepakolod a fegyvereidet és a páncélodat. Pusztán Menedékváros biztonsága érdekében.}
+{120}{}{[TovÃ¡bbÃ¡llsz]}
+{121}{}{IdiÃ³ta.}
+{122}{}{Azt mondod, "Napocska"!? Ã“... de kedves. MiÃ©rt nem mÃ©sz vissza ElÅ‘vÃ¡rosba Ã©s mondod el a tÃ¶bbi a KÃ­vÃ¼lÃ¡llÃ³ barÃ¡todnak is?}
+{123}{}{OkÃ©Ã©Ã©!}
+{124}{}{Ha jobban belegondolok, okosabbnak tÅ±nik, ha most lepakolod a fegyvereidet Ã©s a pÃ¡ncÃ©lodat. PusztÃ¡n MenedÃ©kvÃ¡ros biztonsÃ¡ga Ã©rdekÃ©ben.}
 {125}{}{Aha-maha}
-{126}{}{Jobb lenne, ha elõször levennéd a páncélodat, hogy... hééé... milyen öltözék az rajtad?}
-{127}{}{Tessék?}
-{128}{}{Hiszen te eredeti menedékruhát viselsz!}
-{129}{}{Jahh. Menedék gönc meeeleg. Mint mama.}
-{130}{}{Igen, azt. A Menedéklakó egyenesági leszármazottja vagyok és...}
-{131}{}{Tessék, fogd ezt a Napi Belépõt és beszélj az Elsõ Polgárral! Biztos vagyok benne, hogy sok kérdése lesz hozzád.}
+{126}{}{Jobb lenne, ha elÅ‘szÃ¶r levennÃ©d a pÃ¡ncÃ©lodat, hogy... hÃ©Ã©Ã©... milyen Ã¶ltÃ¶zÃ©k az rajtad?}
+{127}{}{TessÃ©k?}
+{128}{}{Hiszen te eredeti menedÃ©kruhÃ¡t viselsz!}
+{129}{}{Jahh. MenedÃ©k gÃ¶nc meeeleg. Mint mama.}
+{130}{}{Igen, azt. A MenedÃ©klakÃ³ egyenesÃ¡gi leszÃ¡rmazottja vagyok Ã©s...}
+{131}{}{TessÃ©k, fogd ezt a Napi BelÃ©pÅ‘t Ã©s beszÃ©lj az ElsÅ‘ PolgÃ¡rral! Biztos vagyok benne, hogy sok kÃ©rdÃ©se lesz hozzÃ¡d.}
 {132}{}{Uhh-kuh.}
-{133}{}{De hát... rendben van, köszönöm.}
+{133}{}{De hÃ¡t... rendben van, kÃ¶szÃ¶nÃ¶m.}
 {134}{}{Mit akarsz?}
-{135}{}{Vároooos? Én bemehetni?}
+{135}{}{VÃ¡roooos? Ã‰n bemehetni?}
 {136}{}{Hewooo?}
-{137}{}{[Elcsoszogsz]}
-{138}{}{Be akarok jutni a városba.}
-{139}{}{Szeretnék választ kapni egy kérdésre.}
-{140}{}{Értem.}
-{141}{}{Nincs mondanivalóm a számodra, ostoba Kívülálló!}
+{137}{}{[TovÃ¡bbÃ¡llsz]}
+{138}{}{Be akarok jutni a vÃ¡rosba.}
+{139}{}{KÃ©rni akartam tÅ‘led valamit...}
+{140}{}{RÃ¡ se rÃ¡nts!}
+{141}{}{Nincs mondanivalÃ³m a szÃ¡modra, ostoba KÃ­vÃ¼lÃ¡llÃ³!}
 {142}{}{HMM BUNGA!}
-{143}{}{[Elcsoszogsz]}
+{143}{}{[TovÃ¡bbÃ¡llsz]}
 {144}{}{Kezdelek nagyon unni, Wallace!}
-{145}{}{Értem, viszlát!}
-{146}{}{Ki vagy tiltva Menedékvárosból, Kívülálló. Nincs második esélyed.}
-{147}{}{Minek, hisz már van egy? Mi történt vele?}
-{148}{}{ÉN BEMEGY. AZONNAL.}
-{149}{}{Kéérlekk?}
-{150}{}{[Elcsoszogsz]}
-{151}{}{Nagyon sajnálom, csak félreértés volt. De ha szép szóval nem megy...}
-{152}{}{Sajnos elvesztettem. Kiállítanál egy másikat?}
-{153}{}{Csak egy futó ötlet volt...}
-{154}{}{Felejtsük el!}
-{155}{}{Semmi akadálya, de minden további kártyáért 50 dollár illetéket kell fizetned.}
-{156}{}{Értem, ezen ne múljon.}
-{157}{}{Még sincs szükségem rá, viszlát!}
-{158}{}{Ha lesz elég pénzem, visszajövök.}
-{159}{}{Tessék... és kérlek vigyázz rá, el ne hagyd!}
-{160}{}{Lenne egy kérdésem.}
-{161}{}{Köszönöm, viszlát!}
-{162}{}{Wallace vagyok, Menedékváros vámparancsnoka. Én döntöm el, kik léphetnek be és kik kapnak kereskedési jogot.}
-{163}{}{Szeretnék bejutni a kapun.}
-{164}{}{Eldönteni? Mit kell itt eldönteni?}
-{165}{}{Értem. Köszönöm az információt.}
-{166}{}{Igen nyomós érv kell ahhoz. Kizárólag a Polgárok tehetik meg azt, hogy bármikor, kedvük szerint, korlátozások nélkül beléphessenek, mindenki másnak Napi Belépõt kell váltania. Neked is, utazó.}
-{167}{}{Mi az a Napi Belépõ?}
-{168}{}{Rendkívül fontos ügyben járok, haladéktalanul beszélnem kell a vezetõtökkel.}
-{169}{}{Nekem ugyan nem, én Polgár vagyok. Tessék, nézd!}
-{170}{}{Értem. Köszönöm az információt.}
-{171}{}{Ez Menedékváros Vámhivatala. Mi vagyunk a felelõsek a karavánokkal érkezõ szállítmányok ellenõrzéséért. Minden kereskedõ, mielõtt belépne a városba, vámvizsgálaton esik át.}
-{172}{}{Szeretnék bejutni a kapun.}
-{173}{}{Milyen árut hoznak a karavánok?}
-{174}{}{Értem. Köszönöm az információt.}
+{145}{}{Ã‰rtem, viszlÃ¡t!}
+{146}{}{Ki vagy tiltva MenedÃ©kvÃ¡rosbÃ³l, KÃ­vÃ¼lÃ¡llÃ³. Nincs mÃ¡sodik esÃ©lyed.}
+{147}{}{Minek, hisz mÃ¡r van egy? Mi tÃ¶rtÃ©nt vele?}
+{148}{}{Ã‰N BEMEGY. AZONNAL.}
+{149}{}{KÃ©Ã©rlekk?}
+{150}{}{[TovÃ¡bbÃ¡llsz]}
+{151}{}{Nagyon sajnÃ¡lom, csak fÃ©lreÃ©rtÃ©s volt. De ha szÃ©p szÃ³val nem megy...}
+{152}{}{Sajnos elvesztettem. KiÃ¡llÃ­tanÃ¡l egy mÃ¡sikat?}
+{153}{}{Akkor nyald ki!}
+{154}{}{RÃ¶vid Ãºton felejtsd el!}
+{155}{}{Semmi akadÃ¡lya, de minden tovÃ¡bbi kÃ¡rtyÃ¡Ã©rt 50 dollÃ¡r illetÃ©ket kell fizetned.}
+{156}{}{Ã‰rtem, ezen ne mÃºljon.}
+{157}{}{MÃ©g sincs szÃ¼ksÃ©gem rÃ¡, viszlÃ¡t!}
+{158}{}{Ha lesz elÃ©g pÃ©nzem, visszajÃ¶vÃ¶k.}
+{159}{}{TessÃ©k... Ã©s kÃ©rlek vigyÃ¡zz rÃ¡, el ne hagyd!}
+{160}{}{Lenne egy kÃ©rdÃ©sem.}
+{161}{}{VigyÃ¡zok rÃ¡, megÃ­gÃ©rem.}
+{162}{}{Wallace vagyok, MenedÃ©kvÃ¡ros vÃ¡mparancsnoka. Ã‰n dÃ¶ntÃ¶m el, kik lÃ©phetnek be Ã©s kik kapnak kereskedÃ©si jogot.}
+{163}{}{SzeretnÃ©k bejutni a vÃ¡rosba.}
+{164}{}{EldÃ¶nteni? Mit kell itt eldÃ¶nteni?}
+{165}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m.}
+{166}{}{Igen nyomÃ³s Ã©rv kell ahhoz. KizÃ¡rÃ³lag a PolgÃ¡rok tehetik meg azt, hogy bÃ¡rmikor, kedvÃ¼k szerint, korlÃ¡tozÃ¡sok nÃ©lkÃ¼l belÃ©phessenek, mindenki mÃ¡snak Napi BelÃ©pÅ‘t kell vÃ¡ltania. Neked is, utazÃ³.}
+{167}{}{Mi az a Napi BelÃ©pÅ‘?}
+{168}{}{RendkÃ­vÃ¼l fontos Ã¼gyben jÃ¡rok, haladÃ©ktalanul beszÃ©lnem kell a vezetÅ‘tÃ¶kkel.}
+{169}{}{Nekem ugyan nem, Ã©n PolgÃ¡r vagyok. TessÃ©k, nÃ©zd!}
+{170}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m.}
+{171}{}{Ez MenedÃ©kvÃ¡ros VÃ¡mhivatala. Mi vagyunk a felelÅ‘sek a karavÃ¡nokkal Ã©rkezÅ‘ szÃ¡llÃ­tmÃ¡nyok ellenÅ‘rzÃ©sÃ©Ã©rt. Minden kereskedÅ‘, mielÅ‘tt belÃ©pne a vÃ¡rosba, vÃ¡mvizsgÃ¡laton esik Ã¡t.}
+{172}{}{SzeretnÃ©k bejutni a vÃ¡rosba.}
+{173}{}{Milyen Ã¡rut hoznak a karavÃ¡nok?}
+{174}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m.}
 {175}{}{Biztos vagy benne?}
-{176}{}{Micsoda?! Honnan veszed a bátorságot, hogy megvádolj egy tisztes Polgárt?}
-{177}{}{Bizonyítékom van rá, nézd! Õ adta el nekem ezt az igazolványt.}
-{178}{}{Bocsánat. Bizonyára tévedtem.}
-{179}{}{Azok, akiknek kiemelkedõen fontos dolguk van az Elsõ Polgárral vagy a kereskedõinkkel, egy belépésre jogosító kártyát kapnak. Ezt nevezzük Napi Belépõnek.}
-{180}{}{Nagyszerû, te vagy az én emberem. Beszélnem kell az Elsõ Polgárral mégpedig most, azonnal.}
-{181}{}{Beszélni szeretnék az Elsõ Polgárral.}
-{182}{}{Elsõ Polgár? Megtudhatom, ki õ?}
-{183}{}{Pontosan mi az, amit csinálsz?}
-{184}{}{Kösz az információt. Viszlát!}
-{185}{}{Mindjárt gondoltam. Sajnos az Elsõ Polgár igen elfoglalt ember.}
-{186}{}{Attól tartok, az ügyed nem elég fontos, hogy idõt szakítson rád.}
-{187}{}{Életbevágóan fontos dologról van szó. Mellesleg megemlíteném neki, milyen hatékonyan mûködik a Vámhivatal. Persze ha nem akarsz segíteni...}
-{188}{}{Az információ, amivel rendelkezem, nagyon fontos. Komolyan.}
-{189}{}{Nem érdekel! Azt mondtam, látni akarom. Azonnal!}
-{190}{}{Mindegy, hagyjuk!}
-{191}{}{Valóban?... [unottan megvakarja az orrát]... alig várom, hogy hallhassam. Tehát mi lenne a látogatásod célja?}
-{192}{}{Nos... azt egy szóval sem mondtam, hogy nem akarok, csak hát... tulajdonképpen mi is a látogatásod célja?}
-{193}{}{Megbízható információim vannak arról, hogy a régi kormány Menedékeket hozott létre országszerte... tele van velük a puszta. Errõl lenne szó.}
-{194}{}{Bármennyire is fájlalom, nem mondhatom el neked. Egyedül csak az Elsõ Polgár hallhatja. Ezért létfontosságú, hogy beszélhessek vele.}
-{195}{}{Nos... ez... hmm... igazán nagyon fontos. Kiemelkedõen fontos. És... említettem már, hogy mennyire fontos?}
-{196}{}{Egy hálózat... Menedékekbõl?}
-{197}{}{Értem. Valóban, ez már... MAJDNEM elég fontos.}
-{198}{}{Pontosan. Látod, nem sokan tudják ezt és Menedékváros nem az egyetlen köztük, ami túlélte a háborút. Vannak mások is.}
-{199}{}{Nem vesztegetném a drága idõmet, ha az ügyem nem lenne rendkívül fontos, hivatalnok. Egyébként meg szándékomban áll megemlíteni, milyen segítõkész voltál.}
-{200}{}{Feltehetek egy kérdést?}
-{201}{}{Most mennem kell. Viszlát!}
-{202}{}{Nos... ez biztosan érdekelni fogja az Elsõ Polgárt. Tessék, itt van a Napi Belépõd. Csak nappal érvényes, ezért megkérünk, hogy sötétedéskor hagyd el a várost! Tudnod kell azt is, hogy a Polgárok közül bárki, bármikor visszavonhatja. Szóval viselkedj rendesen!}
-{203}{}{Értem. Feltehetek még egy kérdést?}
-{204}{}{Köszi.}
-{205}{}{Fenyegetsz, Kívülálló?}
-{206}{}{Fenyegetsz, Kívülálló?}
-{207}{}{NEM Úúú HAGYJ vagy én MEGÜTNI TE.}
-{208}{}{[Elcsoszogsz]}
-{209}{}{Nem szokásom, halálosan komolyan beszélek. Most kicsinállak, tintanyaló! Ha szabad javasolnom, kezdjük azzal, hogy kitépem a nyelvedet.}
-{210}{}{Rendben, rendben.}
-{211}{}{Megkérdezhetem, hogy jutottál ezekhez a papírokhoz? A múlt hónapban jelentették az eltûnésüket.}
-{212}{}{Kössünk üzletet, Wallace! Elmondom, hogy szereztem, te meg kiállítasz egy Napi Belépõt.}
-{213}{}{Az asszisztensedtõl, Skeev-tõl vásároltam.}
-{214}{}{Nem tudom, mirõl beszélsz. Én Polgár vagyok.}
-{215}{}{Nos... rendben. Ha elmondod, adok neked egy belépõt. Szóval hol szerezted a papírokat?}
-{216}{}{Az asszisztensedtõl, Skeev-tõl vásároltam.}
+{176}{}{Micsoda?! Honnan veszed a bÃ¡torsÃ¡got, hogy megvÃ¡dolj egy tisztes PolgÃ¡rt?}
+{177}{}{BizonyÃ­tÃ©kom van rÃ¡, nÃ©zd! Å adta el nekem ezt az igazolvÃ¡nyt.}
+{178}{}{BocsÃ¡nat. BizonyÃ¡ra tÃ©vedtem.}
+{179}{}{Azok, akiknek kiemelkedÅ‘en fontos dolguk van az ElsÅ‘ PolgÃ¡rral vagy a kereskedÅ‘inkkel, egy belÃ©pÃ©sre jogosÃ­tÃ³ kÃ¡rtyÃ¡t kapnak. Ezt nevezzÃ¼k Napi BelÃ©pÅ‘nek.}
+{180}{}{NagyszerÅ±, te vagy az Ã©n emberem. BeszÃ©lnem kell az ElsÅ‘ PolgÃ¡rral mÃ©gpedig most, azonnal.}
+{181}{}{BeszÃ©lni szeretnÃ©k az ElsÅ‘ PolgÃ¡rral.}
+{182}{}{ElsÅ‘ PolgÃ¡r? Megtudhatom, ki Å‘?}
+{183}{}{Pontosan mi az, amit csinÃ¡lsz?}
+{184}{}{KÃ¶sz az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{185}{}{MindjÃ¡rt gondoltam. Sajnos az ElsÅ‘ PolgÃ¡r igen elfoglalt ember.}
+{186}{}{AttÃ³l tartok, az Ã¼gyed nem elÃ©g fontos, hogy idÅ‘t szakÃ­tson rÃ¡d.}
+{187}{}{Ã‰letbevÃ¡gÃ³an fontos dologrÃ³l van szÃ³. Mellesleg megemlÃ­tenÃ©m neki, milyen hatÃ©konyan mÅ±kÃ¶dik a VÃ¡mhivatal. Persze ha nem akarsz segÃ­teni...}
+{188}{}{Az informÃ¡ciÃ³, amivel rendelkezem, nagyon fontos. Komolyan.}
+{189}{}{Nem Ã©rdekel! Azt mondtam, lÃ¡tni akarom. Azonnal!}
+{190}{}{Ã‰rtem, viszlÃ¡t!}
+{191}{}{ValÃ³ban?... [unottan megvakarja az orrÃ¡t]... alig vÃ¡rom, hogy hallhassam. TehÃ¡t mi lenne a lÃ¡togatÃ¡sod cÃ©lja?}
+{192}{}{Nos... azt egy szÃ³val sem mondtam, hogy nem akarok, csak hÃ¡t... tulajdonkÃ©ppen mi is a lÃ¡togatÃ¡sod cÃ©lja?}
+{193}{}{MegbÃ­zhatÃ³ informÃ¡ciÃ³im vannak arrÃ³l, hogy a rÃ©gi kormÃ¡ny MenedÃ©keket hozott lÃ©tre orszÃ¡gszerte... tele van velÃ¼k a puszta. ErrÅ‘l lenne szÃ³.}
+{194}{}{BÃ¡rmennyire is fÃ¡jlalom, nem mondhatom el neked. EgyedÃ¼l csak az ElsÅ‘ PolgÃ¡r hallhatja. EzÃ©rt lÃ©tfontossÃ¡gÃº, hogy beszÃ©lhessek vele.}
+{195}{}{Nos... ez... hmm... igazÃ¡n nagyon fontos. KiemelkedÅ‘en fontos. Ã‰s... emlÃ­tettem mÃ¡r, hogy mennyire fontos?}
+{196}{}{Egy hÃ¡lÃ³zat... MenedÃ©kekbÅ‘l?}
+{197}{}{Ã‰rtem. ValÃ³ban, ez mÃ¡r... MAJDNEM elÃ©g fontos.}
+{198}{}{Pontosan. LÃ¡tod, nem sokan tudjÃ¡k ezt Ã©s MenedÃ©kvÃ¡ros nem az egyetlen kÃ¶ztÃ¼k, ami tÃºlÃ©lte a hÃ¡borÃºt. Vannak mÃ¡sok is.}
+{199}{}{Nem vesztegetnÃ©m a drÃ¡ga idÅ‘met, ha az Ã¼gyem nem lenne rendkÃ­vÃ¼l fontos, hivatalnok. EgyÃ©bkÃ©nt meg szÃ¡ndÃ©komban Ã¡ll megemlÃ­teni, milyen segÃ­tÅ‘kÃ©sz voltÃ¡l.}
+{200}{}{Feltehetek egy kÃ©rdÃ©st?}
+{201}{}{Most mennem kell. ViszlÃ¡t!}
+{202}{}{Nos... ez biztosan Ã©rdekelni fogja az ElsÅ‘ PolgÃ¡rt. TessÃ©k, itt van a Napi BelÃ©pÅ‘d. Csak nappal Ã©rvÃ©nyes, ezÃ©rt megkÃ©rÃ¼nk, hogy sÃ¶tÃ©tedÃ©skor hagyd el a vÃ¡rost! Tudnod kell azt is, hogy a PolgÃ¡rok kÃ¶zÃ¼l bÃ¡rki, bÃ¡rmikor visszavonhatja. SzÃ³val viselkedj rendesen!}
+{203}{}{Ã‰rtem. FÃ¶ltehetek mÃ©g egy kÃ©rdÃ©st?}
+{204}{}{KÃ¶sz.}
+{205}{}{Fenyegetsz, KÃ­vÃ¼lÃ¡llÃ³?}
+{206}{}{Fenyegetsz, KÃ­vÃ¼lÃ¡llÃ³?}
+{207}{}{NEM ÃšÃºÃº HAGYJ vagy Ã©n MEGÃœTNI TE.}
+{208}{}{[TovÃ¡bbÃ¡llsz]}
+{209}{}{Nem szokÃ¡som, halÃ¡losan komolyan beszÃ©lek. Most kicsinÃ¡llak, tintanyalÃ³! Ha szabad javasolnom, kezdjÃ¼k azzal, hogy kitÃ©pem a nyelvedet.}
+{210}{}{ElnÃ©zÃ©st, csupÃ¡n fÃ©lreÃ©rtÃ©s volt.}
+{211}{}{MegkÃ©rdezhetem, hogy jutottÃ¡l ezekhez a papÃ­rokhoz? A mÃºlt hÃ³napban jelentettÃ©k az eltÅ±nÃ©sÃ¼ket.}
+{212}{}{KÃ¶ssÃ¼nk Ã¼zletet, Wallace! Elmondom, hogy szereztem, te meg kiÃ¡llÃ­tasz egy Napi BelÃ©pÅ‘t.}
+{213}{}{Az asszisztensedtÅ‘l, Skeev-tÅ‘l vÃ¡sÃ¡roltam.}
+{214}{}{Nem tudom, mirÅ‘l beszÃ©lsz. Ã‰n PolgÃ¡r vagyok.}
+{215}{}{Nos... rendben. Ha elmondod, adok neked egy belÃ©pÅ‘t. SzÃ³val hol szerezted a papÃ­rokat?}
+{216}{}{Az asszisztensedtÅ‘l, Skeev-tÅ‘l vÃ¡sÃ¡roltam.}
 {217}{}{Meggondoltam magam. Nem mondok el semmit.}
-{218}{}{Még pimaszkodsz is, semmirekellõ? Ezennel kitiltalak a városból! Távozz, mielõtt szólok az õröknek!}
-{219}{}{Ostoba tintanyaló! Kitépem a szívedet!}
-{220}{}{Szükségtelen. Önként távozom.}
-{221}{}{Skeev? Hát ez a hála, hogy szinte fiamként szerettem?! Elnyeri méltó büntetését, errõl kezeskedem.}
-{222}{}{Cserébe nem kaphatnék egy Napi Belépõt?}
-{223}{}{Feltehetek egy kérdést?}
-{224}{}{Viszlát!}
-{225}{}{Skeev? Az a hálátlan dög... na, ezt nem viszi el szárazon!}
-{226}{}{Feltehetek egy kérdést?}
-{227}{}{Ooooooh, már megijedtem. Köszönöm a Napi Belépõt, haver.}
-{228}{}{Köszönöm, viszlát!}
-{229}{}{Tulajdonképpen... miért is ne? Itt a kártya. Felhívom a figyelmedet, hogy csak nappal érvényes, ezért megkérlek, sötétedéskor hagyd el a várost! Tudnod kell azt is, hogy a Polgárok közül bárki, bármikor visszavonhatja. Szóval viselkedj rendesen!}
-{230}{}{Értem. Mondd, feltehetek még egy kérdést?}
-{231}{}{Köszönöm, viszlát!}
-{232}{}{Sajnálom. Amíg nincs elfogadható indokod, nem segíthetek.}
-{233}{}{Fontos ügyben járok, mindenképp be kell jutnom.}
-{234}{}{Értem. Kérdezhetek valamit?}
-{235}{}{Több tiszteletet követelek! Egy Menedéklakó egyenes ági leszármazottja vagyok.}
-{236}{}{Rendben, viszlát!}
-{237}{}{Miért ver az Isten ilyen hülyékkel? Ugyan mennyiben érdekel az engem, hogy az õseid közül valaki Menedéklakó volt? Hmmm? Ne rabold tovább az idõmet, Kívülálló!}
-{238}{}{Engedj be... sõt... AZONNAL engedj be, vagy felvágom a hasad és a kirángatott beleidnél fogva akasztalak fel az elsõ lámpavasra!}
-{239}{}{Elnézést, csak megszaladt a pofám. Már itt sem vagyok.}
-{240}{}{Rendben, mit szeretnél tudni?}
-{241}{}{Üdvözöllek, Kapitány! Segíthetek?}
-{242}{}{Üdvözöllek, Polgártárs! Segíthetek?}
-{243}{}{Újra itt, utazó? Miben segíthetek?}
-{244}{}{Üdvözlöm, Kapitány! Miben segíthetek?}
-{245}{}{Üdvözlöm, Polgártárs! Miben segíthetek?}
+{218}{}{MÃ©g pimaszkodsz is, semmirekellÅ‘? Ezennel kitiltalak a vÃ¡rosbÃ³l! TÃ¡vozz, mielÅ‘tt szÃ³lok az Å‘rÃ¶knek!}
+{219}{}{Ostoba tintanyalÃ³! KitÃ©pem a szÃ­vedet!}
+{220}{}{SzÃ¼ksÃ©gtelen. Ã–nkÃ©nt tÃ¡vozom.}
+{221}{}{Skeev? HÃ¡t ez a hÃ¡la, hogy szinte fiamkÃ©nt szerettem?! Elnyeri mÃ©ltÃ³ bÃ¼ntetÃ©sÃ©t, errÅ‘l kezeskedem.}
+{222}{}{CserÃ©be nem kaphatnÃ©k egy Napi BelÃ©pÅ‘t?}
+{223}{}{Feltehetek egy kÃ©rdÃ©st?}
+{224}{}{ViszlÃ¡t!}
+{225}{}{Skeev? Az a hÃ¡lÃ¡tlan dÃ¶g... na, ezt nem viszi el szÃ¡razon!}
+{226}{}{Feltehetek egy kÃ©rdÃ©st?}
+{227}{}{Ooooooh, mÃ¡r megijedtem. KÃ¶szÃ¶nÃ¶m a Napi BelÃ©pÅ‘t, haver.}
+{228}{}{VigyÃ¡zok rÃ¡, megÃ­gÃ©rem.}
+{229}{}{TulajdonkÃ©ppen... miÃ©rt is ne? Itt a kÃ¡rtya. FelhÃ­vom a figyelmedet, hogy csak nappal Ã©rvÃ©nyes, ezÃ©rt megkÃ©rlek, sÃ¶tÃ©tedÃ©skor hagyd el a vÃ¡rost! Tudnod kell azt is, hogy a PolgÃ¡rok kÃ¶zÃ¼l bÃ¡rki, bÃ¡rmikor visszavonhatja. SzÃ³val viselkedj rendesen!}
+{230}{}{Ã‰rtem. Mondd, feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{231}{}{VigyÃ¡zok rÃ¡, megÃ­gÃ©rem.}
+{232}{}{SajnÃ¡lom. AmÃ­g nincs elfogadhatÃ³ indokod, nem segÃ­thetek.}
+{233}{}{Fontos Ã¼gyben jÃ¡rok, mindenkÃ©pp be kell jutnom.}
+{234}{}{Ã‰rtem. KÃ©rdezhetek valamit?}
+{235}{}{TÃ¶bb tiszteletet kÃ¶vetelek! Egy MenedÃ©klakÃ³ egyenes Ã¡gi leszÃ¡rmazottja vagyok.}
+{236}{}{Rendben, viszlÃ¡t!}
+{237}{}{MiÃ©rt ver az Isten ilyen hÃ¼lyÃ©kkel? Ugyan mennyiben Ã©rdekel az engem, hogy az Å‘seid kÃ¶zÃ¼l valaki MenedÃ©klakÃ³ volt? Hmmm? Ne rabold tovÃ¡bb az idÅ‘met, KÃ­vÃ¼lÃ¡llÃ³!}
+{238}{}{Engedj be... sÅ‘t... AZONNAL engedj be, vagy felvÃ¡gom a hasad Ã©s a kirÃ¡ngatott beleidnÃ©l fogva akasztalak fel az elsÅ‘ lÃ¡mpavasra!}
+{239}{}{BocsÃ¡nat, akkor megyek is.}
+{240}{}{Rendben, mit szeretnÃ©l tudni?}
+{241}{}{ÃœdvÃ¶zlÃ¶m, KapitÃ¡ny! Miben segÃ­thetek?}
+{242}{}{ÃœdvÃ¶zlÃ¶m, PolgÃ¡rtÃ¡rs! Miben segÃ­thetek?}
+{243}{}{Ãšjra itt, utazÃ³? Miben segÃ­thetek?}
+{244}{}{ÃœdvÃ¶zlÃ¶m, KapitÃ¡ny! Miben segÃ­thetek?}
+{245}{}{ÃœdvÃ¶zlÃ¶m, PolgÃ¡rtÃ¡rs! Miben segÃ­thetek?}
 {246}{}{Mi lenne az?}
-{247}{}{Ügyü-gügyü!}
-{248}{}{[Elcsoszogsz]}
-{249}{}{Mi ez a hely tulajdonképpen?}
-{250}{}{Milyen szállítmányok érkeznek Menedékvárosba?}
-{251}{}{Azt asszisztensed, Skeev, illegális ügyletekbe keveredett.}
-{252}{}{Kaphatnék egy Napi Belépõt?}
-{253}{}{Rájöttem, miért kaptok kevesebb ércet Reddingbõl.}
-{254}{}{Megtaláltam a banditák búvóhelyét.}
-{255}{}{Megtaláltam és leromboltam a banditák bázisát.}
-{256}{}{Ha megkérlek, beszélnél nekem a vezetõtökrõl?}
-{257}{}{Kösz, egyelõre elleszek magam is.}
-{258}{}{Tulajdonképpen ez minden. Viszlát!}
-{259}{}{Attól függ, honnan jön, sok helyrõl, sokmindent kapunk. Például szolgákat Rejtekbõl, uránt Broken Hillsbõl, fémet Reddingbõl.}
-{260}{}{Mit tudsz mondani Rejtekrõl?}
-{261}{}{Mit tudsz mondani Broken Hillsrõl?}
-{262}{}{Mit tudsz mondani Reddingrõl?}
-{263}{}{Feltehetnék egy másik kérdést?}
-{264}{}{Értem. Köszönöm az információt.}
-{265}{}{Az egy... közösség, innen nyugatra. Gyakran veszünk szolgákat a kereskedõiktõl. Barátságtalan egy hely, ahogy hallom.}
-{266}{}{Egy rabszolga-kereskedõ bizonyára jobban ismeri azt a helyet mint én, nemde?}
-{267}{}{Elbûvölõ hely, igazán. Gyilkosok, tolvajok... a szokásos Kívülálló salak. Egy hely, ahol az olyanok mint te, igazán otthon érezhetik magukat.}
-{268}{}{Mit tudsz mondani Broken Hillsrõl?}
-{269}{}{Mit tudsz mondani Reddingrõl?}
-{270}{}{Kérdeznék valami mást.}
-{271}{}{Köszönöm az információkat.}
-{272}{}{Ez máris több, mint amit tudni szerettem volna. Viszlát!}
-{273}{}{Köszönöm. Viszlát!}
-{274}{}{Broken Hills egy bányaváros, tõlünk délre. Értesüléseim szerint mutánsok hozzák felszínre az uránércet, amit karavánokkal juttatnak el hozzánk.}
-{275}{}{Ennél többet nem tudok mondani, Kívülálló!}
-{276}{}{Puszta kíváncsiságból kérdem. Mennyit fizettek az urániumért?}
-{277}{}{Mit tudsz mondani Rejtekrõl?}
-{278}{}{Mit tudsz mondani Reddingrõl?}
-{279}{}{Értem. Kérdeznék valami mást.}
-{280}{}{Köszönöm, viszlát!}
-{281}{}{Az egy település, tõlünk nyugatra. Az onnan érkezõ karavánok nagyon fontosak a számunkra, de sajnos egyre csak fogyatkoznak. Mindannyian aggódunk emiatt... nagyon függünk az ércüktõl.}
-{282}{}{Tudom, hogy miért jön egyre kevesebb szállítmány Reddingbõl.}
-{283}{}{Mit tudsz mondani Rejtekrõl?}
-{284}{}{Mit tudsz mondani Broken Hillsrõl?}
-{285}{}{Értem. Hadd kérdezzek valami mást...}
-{286}{}{Kösz az információt. Viszlát!}
-{287}{}{Igazán? Ez aztán a nagyszerû hír! Kérlek, beszélj McClure Fõtanácsossal! Egy percet se késlekedj!}
-{288}{}{Igazán? Ez aztán a nagyszerû hír! Adok neked egy Napi Belépõt, hogy beszélhess McClure Fõtanácsossal. Ez csak nappal érvényes, este el kell hagynod a várost. Most menj! Siess!}
-{289}{}{Mielõtt mennék, kérdezhetek valamit?}
-{290}{}{Úgy lesz.}
-{291}{}{Azonnal beszélek vele.}
-{292}{}{Az utóbbi idõben megemelték az árakat... amit nekünk nem áll módunkban megadni! Azoknak a koszos dögevõknek Gekkóban több urániumra van szükségük, mint nekünk.}
-{293}{}{Mit tudsz mondani Rejtekrõl?}
-{294}{}{Mit tudsz mondani Reddingrõl?}
-{295}{}{Értem. Hadd kérdezzek valami mást...}
-{296}{}{Érdekes. Köszönöm az információt.}
-{297}{}{Az Elsõ Polgárunkat Joanne Lynette-nek hívják. Sok jót tett a városunkért az elmúlt 10 évben.}
-{298}{}{Úgymint?}
-{299}{}{Távoltartja a külvilágot a várostól, bár az utóbbi idõben egyre több a gond. Mióta az ÚKK felajánlotta, hogy csatlakozzunk hozzá, egyre gyakrabban támadnak meg bennünket a banditák. Most meg Gekkó miatt is aggódnunk kell.}
-{300}{}{Mi az az ÚKK?}
-{301}{}{Banditák?}
-{302}{}{Mi a probléma Gekkóval?}
-{303}{}{Kérdezhetek valami mást?}
-{304}{}{Értem és köszönöm az információkat. Viszlát!}
-{305}{}{ÚKK, vagyis "Új Kalifornia Köztársaság". Egész Kaliforniát egy kormány alatt akarják egyesíteni, de mi átlátunk rajtuk. Nem dõlünk be a trükkjeiknek.}
-{306}{}{Trükk?}
-{307}{}{Trükk? Miféle trükk?}
-{308}{}{Még ha jószándékúak is, osszuk meg az erõforrásainkat azokkal a tolvajokkal és gyilkosokkal, akik a falakon kívül élnek? A válasz egyértelmûen, NEM!}
-{309}{}{Értem. Mit is mondtál a banditákról?}
-{310}{}{Mi a problémája Menedékvárosnak Gekkóval?}
-{311}{}{Kérdezhetek valami mást?}
-{312}{}{Ez máris több, mint amennyit tudni szerettem volna. Viszlát!}
-{313}{}{Az utóbbi idõben a banditák támadásai különösen hevessé váltak. Korábban is zaklattak minket, de nem olyan hevesen, mint mostanság. Attól tartok, egyszer áttörik Menedékváros lézertornyainak vonalát.}
-{314}{}{Nem kell többet a banditák miatt aggódnotok. Eltöröltem õket a föld színérõl.}
-{315}{}{Tudnál még valamit mondani ezekrõl a banditákról?}
-{316}{}{Értem. Mit is mondtál az ÚKK-ról?}
-{317}{}{Mi a problémája Menedékvárosnak Gekkóval?}
-{318}{}{Köszönöm az információkat. Viszlát!}
-{319}{}{Hát, nem sokat. Nem találjuk a búvóhelyüket és mindig váratlanul támadnak. Stark õrmester többet tud a dologról, õ a Nevelõközpont vezetõje. Tõle kérdezd!}
-{320}{}{Ha a banditák nyomára bukkanok, beengedsz a városba?}
-{321}{}{Lenne pár kérdésem.}
-{322}{}{Talán tudok segíteni, most mennem kell.}
-{323}{}{Köszönöm az információkat.}
-{324}{}{Természetesen. Ha megtalálod a banditák bázisát, azonnal kiállítok neked egy Napi Belépõt.}
-{325}{}{Meglátom, mit tehetek. Feltennék egy kérdést.}
-{326}{}{Áll az alku. Viszlát!}
-{327}{}{Valóban? Ez nagyszerû! Kérlek menj, és mondd el az Elsõ Polgárnak! Most, azonnal!}
-{328}{}{Valóban? Ez nagyszerû! Rögtön kiállítok egy Napi Belépõt. Menj és mondd el az Elsõ Polgárnak!}
-{329}{}{Mielõtt elmennék, feltehetnék még néhány kérdést?}
+{247}{}{ÃœgyÃ¼-gÃ¼gyÃ¼!}
+{248}{}{[TovÃ¡bbÃ¡llsz]}
+{249}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{250}{}{Milyen szÃ¡llÃ­tmÃ¡nyok Ã©rkeznek MenedÃ©kvÃ¡rosba?}
+{251}{}{Azt asszisztensed, Skeev, illegÃ¡lis Ã¼gyletekbe keveredett.}
+{252}{}{KaphatnÃ©k egy Napi BelÃ©pÅ‘t?}
+{253}{}{RÃ¡jÃ¶ttem, miÃ©rt kaptok kevesebb Ã©rcet ReddingbÅ‘l.}
+{254}{}{MegtalÃ¡ltam a banditÃ¡k bÃºvÃ³helyÃ©t.}
+{255}{}{MegtalÃ¡ltam Ã©s leromboltam a banditÃ¡k bÃ¡zisÃ¡t.}
+{256}{}{Ha megkÃ©rlek, beszÃ©lnÃ©l nekem a vezetÅ‘tÃ¶krÅ‘l?}
+{257}{}{TÅ‘led? Semmit.}
+{258}{}{TulajdonkÃ©ppen ez minden. ViszlÃ¡t!}
+{259}{}{AttÃ³l fÃ¼gg, honnan jÃ¶n, sok helyrÅ‘l, sokmindent kapunk. PÃ©ldÃ¡ul szolgÃ¡kat RejtekbÅ‘l, urÃ¡nt Broken HillsbÅ‘l, fÃ©met ReddingbÅ‘l.}
+{260}{}{Mit tudsz mondani RejtekrÅ‘l?}
+{261}{}{Mit tudsz mondani Broken HillsrÅ‘l?}
+{262}{}{Mit tudsz mondani ReddingrÅ‘l?}
+{263}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{264}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m.}
+{265}{}{Az egy... kÃ¶zÃ¶ssÃ©g, innen nyugatra. Gyakran veszÃ¼nk szolgÃ¡kat a kereskedÅ‘iktÅ‘l. BarÃ¡tsÃ¡gtalan egy hely, ahogy hallom.}
+{266}{}{Egy rabszolga-kereskedÅ‘ bizonyÃ¡ra jobban ismeri azt a helyet mint Ã©n, nemde?}
+{267}{}{ElbÅ±vÃ¶lÅ‘ hely, igazÃ¡n. Gyilkosok, tolvajok... a szokÃ¡sos KÃ­vÃ¼lÃ¡llÃ³ salak. Egy hely, ahol az olyanok mint te, igazÃ¡n otthon Ã©rezhetik magukat.}
+{268}{}{Mit tudsz mondani Broken HillsrÅ‘l?}
+{269}{}{Mit tudsz mondani ReddingrÅ‘l?}
+{270}{}{KÃ©rdeznÃ©k valami mÃ¡st.}
+{271}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{272}{}{Ez mÃ¡ris tÃ¶bb, mint amit tudni szerettem volna. ViszlÃ¡t!}
+{273}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{274}{}{Broken Hills egy bÃ¡nyavÃ¡ros, tÅ‘lÃ¼nk dÃ©lre. Ã‰rtesÃ¼lÃ©seim szerint mutÃ¡nsok hozzÃ¡k felszÃ­nre az urÃ¡nÃ©rcet, amit karavÃ¡nokkal juttatnak el hozzÃ¡nk.}
+{275}{}{EnnÃ©l tÃ¶bbet nem tudok mondani, KÃ­vÃ¼lÃ¡llÃ³!}
+{276}{}{Puszta kÃ­vÃ¡ncsisÃ¡gbÃ³l kÃ©rdem. Mennyit fizettek az urÃ¡niumÃ©rt?}
+{277}{}{Mit tudsz mondani RejtekrÅ‘l?}
+{278}{}{Mit tudsz mondani ReddingrÅ‘l?}
+{279}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{280}{}{KÃ¶szÃ¶nÃ¶m, viszlÃ¡t!}
+{281}{}{Az egy telepÃ¼lÃ©s, tÅ‘lÃ¼nk nyugatra. Az onnan Ã©rkezÅ‘ karavÃ¡nok nagyon fontosak a szÃ¡munkra, de sajnos egyre csak fogyatkoznak. Mindannyian aggÃ³dunk emiatt... nagyon fÃ¼ggÃ¼nk az Ã©rcÃ¼ktÅ‘l.}
+{282}{}{Tudom, hogy miÃ©rt jÃ¶n egyre kevesebb szÃ¡llÃ­tmÃ¡ny ReddingbÅ‘l.}
+{283}{}{Mit tudsz mondani RejtekrÅ‘l?}
+{284}{}{Mit tudsz mondani Broken HillsrÅ‘l?}
+{285}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{286}{}{KÃ¶sz az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{287}{}{IgazÃ¡n? Ez aztÃ¡n a nagyszerÅ± hÃ­r! KÃ©rlek, beszÃ©lj McClure FÅ‘tanÃ¡csossal! Egy percet se kÃ©slekedj!}
+{288}{}{IgazÃ¡n? Ez aztÃ¡n a nagyszerÅ± hÃ­r! Adok neked egy Napi BelÃ©pÅ‘t, hogy beszÃ©lhess McClure FÅ‘tanÃ¡csossal. Ez csak nappal Ã©rvÃ©nyes, este el kell hagynod a vÃ¡rost. Most menj! Siess!}
+{289}{}{MielÅ‘tt mennÃ©k, kÃ©rdezhetek valamit?}
+{290}{}{Ãšgy lesz.}
+{291}{}{Azonnal beszÃ©lek vele.}
+{292}{}{Az utÃ³bbi idÅ‘ben megemeltÃ©k az Ã¡rakat... amit nekÃ¼nk nem Ã¡ll mÃ³dunkban megadni! Azoknak a koszos dÃ¶gevÅ‘knek GekkÃ³ban tÃ¶bb urÃ¡niumra van szÃ¼ksÃ©gÃ¼k, mint nekÃ¼nk.}
+{293}{}{Mit tudsz mondani RejtekrÅ‘l?}
+{294}{}{Mit tudsz mondani ReddingrÅ‘l?}
+{295}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{296}{}{Ã‰rdekes. KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t.}
+{297}{}{Az ElsÅ‘ PolgÃ¡runkat Joanne Lynette-nek hÃ­vjÃ¡k. Sok jÃ³t tett a vÃ¡rosunkÃ©rt az elmÃºlt 10 Ã©vben.}
+{298}{}{Å°gymint?}
+{299}{}{TÃ¡voltartja a kÃ¼lvilÃ¡got a vÃ¡rostÃ³l, bÃ¡r az utÃ³bbi idÅ‘ben egyre tÃ¶bb a gond. MiÃ³ta az ÃšKK felajÃ¡nlotta, hogy csatlakozzunk hozzÃ¡, egyre gyakrabban tÃ¡madnak meg bennÃ¼nket a banditÃ¡k. Most meg GekkÃ³ miatt is aggÃ³dnunk kell.}
+{300}{}{Mi az az ÃšKK?}
+{301}{}{BanditÃ¡k?}
+{302}{}{Mi a problÃ©ma GekkÃ³val?}
+{303}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{304}{}{Ã‰rtem Ã©s kÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat. ViszlÃ¡t!}
+{305}{}{ÃšKK, vagyis "Ãšj Kalifornia KÃ¶ztÃ¡rsasÃ¡g". EgÃ©sz KaliforniÃ¡t egy kormÃ¡ny alatt akarjÃ¡k egyesÃ­teni, de mi Ã¡tlÃ¡tunk rajtuk. Nem dÅ‘lÃ¼nk be a trÃ¼kkjeiknek.}
+{306}{}{TrÃ¼kk?}
+{307}{}{TrÃ¼kk? MifÃ©le trÃ¼kk?}
+{308}{}{MÃ©g ha jÃ³szÃ¡ndÃ©kÃºak is, osszuk meg az erÅ‘forrÃ¡sainkat azokkal a tolvajokkal Ã©s gyilkosokkal, akik a falakon kÃ­vÃ¼l Ã©lnek? A vÃ¡lasz egyÃ©rtelmÅ±en, NEM!}
+{309}{}{Ã‰rtem. Mit is mondtÃ¡l a banditÃ¡krÃ³l?}
+{310}{}{Mi a problÃ©mÃ¡ja MenedÃ©kvÃ¡rosnak GekkÃ³val?}
+{311}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{312}{}{Ez mÃ¡ris tÃ¶bb, mint amennyit tudni szerettem volna. ViszlÃ¡t!}
+{313}{}{Az utÃ³bbi idÅ‘ben a banditÃ¡k tÃ¡madÃ¡sai kÃ¼lÃ¶nÃ¶sen hevessÃ© vÃ¡ltak. KorÃ¡bban is zaklattak minket, de nem olyan hevesen, mint mostansÃ¡g. AttÃ³l tartok, egyszer Ã¡ttÃ¶rik MenedÃ©kvÃ¡ros lÃ©zertornyainak vonalÃ¡t.}
+{314}{}{Nem kell tÃ¶bbet a banditÃ¡k miatt aggÃ³dnotok. EltÃ¶rÃ¶ltem Å‘ket a fÃ¶ld szÃ­nÃ©rÅ‘l.}
+{315}{}{TudnÃ¡l mÃ©g valamit mondani ezekrÅ‘l a banditÃ¡krÃ³l?}
+{316}{}{Ã‰rtem. Mit is mondtÃ¡l az ÃšKK-rÃ³l?}
+{317}{}{Mi a problÃ©mÃ¡ja MenedÃ©kvÃ¡rosnak GekkÃ³val?}
+{318}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat. ViszlÃ¡t!}
+{319}{}{HÃ¡t, nem sokat. Nem talÃ¡ljuk a bÃºvÃ³helyÃ¼ket Ã©s mindig vÃ¡ratlanul tÃ¡madnak. Stark Å‘rmester tÃ¶bbet tud a dologrÃ³l, Å‘ a NevelÅ‘kÃ¶zpont vezetÅ‘je. TÅ‘le kÃ©rdezd!}
+{320}{}{Ha a banditÃ¡k nyomÃ¡ra bukkanok, beengedsz a vÃ¡rosba?}
+{321}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{322}{}{TalÃ¡n tudok segÃ­teni, most mennem kell.}
+{323}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{324}{}{TermÃ©szetesen. Ha megtalÃ¡lod a banditÃ¡k bÃ¡zisÃ¡t, azonnal kiÃ¡llÃ­tok neked egy Napi BelÃ©pÅ‘t.}
+{325}{}{MeglÃ¡tom, mit tehetek. FeltennÃ©k egy kÃ©rdÃ©st.}
+{326}{}{Ãll az alku. ViszlÃ¡t!}
+{327}{}{ValÃ³ban? Ez nagyszerÅ±! KÃ©rlek menj, Ã©s mondd el az ElsÅ‘ PolgÃ¡rnak! Most, azonnal!}
+{328}{}{ValÃ³ban? Ez nagyszerÅ±! RÃ¶gtÃ¶n kiÃ¡llÃ­tok egy Napi BelÃ©pÅ‘t. Menj Ã©s mondd el az ElsÅ‘ PolgÃ¡rnak!}
+{329}{}{MielÅ‘tt elmennÃ©k, feltehetnÃ©k mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
 {330}{}{Rendben.}
-{331}{}{Kösz. Viszlát!}
-{332}{}{Ez nem az én hatásköröm. Az ügy az Elsõ Polgárra tartozik.}
-{333}{}{Mit is mondtál az ÚKK-ról?}
-{334}{}{Mit is mondtál a banditákról?}
-{335}{}{Világos. Feltehetek még egy kérdést?}
-{336}{}{Értem. Viszlát!}
-{337}{}{ÉLET? Ez semmit se mond nekem, és ha nekem nem, akkor az Elsõ Polgárnak sem fog. Tehát mi a látogatásod igazi célja?}
-{338}{}{Egy ÉLET-re van szükségem. Szeretném megmenteni a falumat.}
-{339}{}{A célja? Humanitárius. Ha most azonnal beengedsz hagyom, hogy továbbra is lélegezz.}
-{340}{}{Nézd már, hát nem elfelejtettem? Viszlát!}
-{341}{}{Köszönöm a segítséged, Kívülálló.}
-{342}{}{Nos, ahogy ígértem, itt van a Napi Belépõd... de ha szabálytalankodsz, azonnal bevonom. Megértetted?}
-{343}{}{Értem. Kereskedõ vagyok és szeretnék üzletet kötni a városban lévõ kollégákkal. Kaphatnék egy Napi Belépõt?}
+{331}{}{KÃ¶sz, viszlÃ¡t!}
+{332}{}{Ez nem az Ã©n hatÃ¡skÃ¶rÃ¶m. Az Ã¼gy az ElsÅ‘ PolgÃ¡rra tartozik.}
+{333}{}{Mit is mondtÃ¡l az ÃšKK-rÃ³l?}
+{334}{}{Mit is mondtÃ¡l a banditÃ¡krÃ³l?}
+{335}{}{VilÃ¡gos. Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{336}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{337}{}{Ã‰LET? Ez semmit se mond nekem, Ã©s ha nekem nem, akkor az ElsÅ‘ PolgÃ¡rnak sem fog. TehÃ¡t mi a lÃ¡togatÃ¡sod igazi cÃ©lja?}
+{338}{}{Egy Ã‰LET-re van szÃ¼ksÃ©gem. SzeretnÃ©m megmenteni a falumat.}
+{339}{}{A cÃ©lja? HumanitÃ¡rius. Ha most azonnal beengedsz hagyom, hogy tovÃ¡bbra is lÃ©legezz.}
+{340}{}{NÃ©zd mÃ¡r, hÃ¡t nem elfelejtettem? ViszlÃ¡t!}
+{341}{}{KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©ged, KÃ­vÃ¼lÃ¡llÃ³.}
+{342}{}{Nos, ahogy Ã­gÃ©rtem, itt van a Napi BelÃ©pÅ‘d... de ha szabÃ¡lytalankodsz, azonnal bevonom. MegÃ©rtetted?}
+{343}{}{Ã‰rtem. KereskedÅ‘ vagyok Ã©s szeretnÃ©k Ã¼zletet kÃ¶tni a vÃ¡rosban lÃ©vÅ‘ kollÃ©gÃ¡kkal. KaphatnÃ©k egy Napi BelÃ©pÅ‘t?}
 {344}{}{You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins? }
-{345}{}{[Rápillant a társaidra]... vagy netán néhány... szolgát?}
-{346}{}{Igen. Szeretnék eladni néhány szolgát. Erõsek, munkabírók.}
-{347}{}{Gekkóbõrökkel kereskedem.}
-{348}{}{Van néhány kiváló minõségû aranygekkó bõröm. Igen finom holmiról van szó.}
-{349}{}{Aranyércet hoztam. Kiváló minõségût.}
-{350}{}{Van némi uránérc a birtokomban.}
-{351}{}{Pillanatnyilag egyikkel sem rendelkezem, de hamarosan visszatérek. Minden jót!}
-{352}{}{Félreértés történt, most mennem kell.}
-{353}{}{Rendben van, kereskedõ, akkor lássuk az árut! Ha megfelelõ a minõségük, kiállítok egy Napi Belépõt a számodra.}
-{354}{}{Remek, itt vannak a minták, vizsgáld meg õket! A készleteim zöme még felmálházva várakozik a kapun túl... Nos? Milyennek találod?}
-{355}{}{Hmmmm... rendben, bár jobb minõségre számítottam.}
-{356}{}{Úgy tûnik, rendben vagyunk, nem csalódtam a minõségben.}
-{357}{}{Parancsolj, itt van a kereskedõknek szánt Napi Belépõ. 500 dollár. Ez magában foglal egy egész napos kereskedelmi jogot is Menedékvárosban. A kiállítás dátumától számítva 5 évig érvényes.}
-{358}{}{Köszönöm, természetesen megvásárolom.}
-{359}{}{Sajnos ennyi készpénz nincs most nálam. Majd visszajövök.}
-{360}{}{Ötszáz dollár egy kicsit több, mint amennyit megengedhetek magamnak. Viszlát!}
-{361}{}{Kitûnõ, már ki is állítottam a kártyát. Felhívom a figyelmedet, hogy csak nappal érvényes, ezért megkérlek, hogy sötétedéskor hagyd el a várost! Azt is tudnod kell, hogy a Polgárok bármikor megvonhatják tõled. Szóval viselkedj rendesen!}
-{362}{}{Értem. Feltehetek még egy kérdést?}
-{363}{}{Köszi.}
+{345}{}{[RÃ¡pillant a tÃ¡rsaidra]... vagy netÃ¡n nÃ©hÃ¡ny... szolgÃ¡t?}
+{346}{}{Igen. SzeretnÃ©k eladni nÃ©hÃ¡ny szolgÃ¡t. ErÅ‘sek, munkabÃ­rÃ³k.}
+{347}{}{GekkÃ³bÅ‘rÃ¶kkel kereskedem.}
+{348}{}{Van nÃ©hÃ¡ny kivÃ¡lÃ³ minÅ‘sÃ©gÅ± aranygekkÃ³ bÅ‘rÃ¶m. Igen finom holmirÃ³l van szÃ³.}
+{349}{}{AranyÃ©rcet hoztam. KivÃ¡lÃ³ minÅ‘sÃ©gÅ±t.}
+{350}{}{Van nÃ©mi urÃ¡nÃ©rc a birtokomban.}
+{351}{}{Pillanatnyilag egyikkel sem rendelkezem, de hamarosan visszatÃ©rek. Minden jÃ³t!}
+{352}{}{FÃ©lreÃ©rtÃ©s tÃ¶rtÃ©nt, most mennem kell.}
+{353}{}{Rendben van, kereskedÅ‘, akkor lÃ¡ssuk az Ã¡rut! Ha megfelelÅ‘ a minÅ‘sÃ©gÃ¼k, kiÃ¡llÃ­tok egy Napi BelÃ©pÅ‘t a szÃ¡modra.}
+{354}{}{Remek, itt vannak a mintÃ¡k, vizsgÃ¡ld meg Å‘ket! A kÃ©szleteim zÃ¶me mÃ©g felmÃ¡lhÃ¡zva vÃ¡rakozik a kapun tÃºl... Nos? Milyennek talÃ¡lod?}
+{355}{}{Hmmmm... rendben, bÃ¡r jobb minÅ‘sÃ©gre szÃ¡mÃ­tottam.}
+{356}{}{Ãšgy tÅ±nik, rendben vagyunk, nem csalÃ³dtam a minÅ‘sÃ©gben.}
+{357}{}{Parancsolj, itt van a kereskedÅ‘knek szÃ¡nt Napi BelÃ©pÅ‘. 500 dollÃ¡r. Ez magÃ¡ban foglal egy egÃ©sz napos kereskedelmi jogot is MenedÃ©kvÃ¡rosban. A kiÃ¡llÃ­tÃ¡s dÃ¡tumÃ¡tÃ³l szÃ¡mÃ­tva 5 Ã©vig Ã©rvÃ©nyes.}
+{358}{}{KÃ¶szÃ¶nÃ¶m, termÃ©szetesen megvÃ¡sÃ¡rolom.}
+{359}{}{Sajnos ennyi kÃ©szpÃ©nz nincs most nÃ¡lam. Majd visszajÃ¶vÃ¶k.}
+{360}{}{Ã–tszÃ¡z dollÃ¡r egy kicsit tÃ¶bb, mint amennyit megengedhetek magamnak. ViszlÃ¡t!}
+{361}{}{KitÅ±nÅ‘, mÃ¡r ki is Ã¡llÃ­tottam a kÃ¡rtyÃ¡t. FelhÃ­vom a figyelmedet, hogy csak nappal Ã©rvÃ©nyes, ezÃ©rt megkÃ©rlek, hogy sÃ¶tÃ©tedÃ©skor hagyd el a vÃ¡rost! Azt is tudnod kell, hogy a PolgÃ¡rok bÃ¡rmikor megvonhatjÃ¡k tÅ‘led. SzÃ³val viselkedj rendesen!}
+{362}{}{Ã‰rtem. FÃ¶ltehetek mÃ©g egy kÃ©rdÃ©st?}
+{363}{}{KÃ¶sz.}
 {1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
 {1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}

@@ -1,49 +1,49 @@
-{100}{}{Egy termetes mutánst látsz, aki -úgy érzed- tervez valamit.}
-{101}{}{Az egyik banki õrt látod, egy nagy, keménykötésû mutánst.}
-{102}{}{Egy jól felfegyverzett õrt látsz. Egy mutánst, akinél egy meglehetõsen durva kinézetû fegyver van.}
-{103}{}{Segíthetek?}
+{100}{}{Egy termetes mutÃ¡nst lÃ¡tsz, aki -Ãºgy Ã©rzed- tervez valamit.}
+{101}{}{Az egyik banki Å‘rt lÃ¡tod, egy nagy, kemÃ©nykÃ¶tÃ©sÅ± mutÃ¡nst.}
+{102}{}{Egy jÃ³l felfegyverzett Å‘rt lÃ¡tsz. Egy mutÃ¡nst, akinÃ©l egy meglehetÅ‘sen durva kinÃ©zetÅ± fegyver van.}
+{103}{}{SegÃ­thetek?}
 {104}{}{Agga agga!}
-{105}{}{Én a házban! Óóóh!}
-{106}{}{Csak nézelõdök.}
-{107}{}{Ööö... semmit.}
-{108}{}{Jöttem, hogy beszéljek a rabokkal.}
-{109}{}{Belegondoltál már abba, hogy esetleg illegálisan tartjátok fogva a rabokat?}
-{110}{}{Óh, nagyszerû, még egy "olyan" ember. Légyszi, kopj le!}
+{105}{}{Ã‰n a hÃ¡zban! Ã“Ã³Ã³h!}
+{106}{}{Csak nÃ©zelÅ‘dÃ¶k.}
+{107}{}{Ã–Ã¶Ã¶... nem, nem igazÃ¡n.}
+{108}{}{Igen. A rabokkal szeretnÃ©k beszÃ©lni.}
+{109}{}{BelegondoltÃ¡l mÃ¡r, hogy esetleg illegÃ¡lisan tartjÃ¡tok fogva a rabokat?}
+{110}{}{Ã“h, nagyszerÅ±, mÃ©g egy "olyan" ember. LÃ©gyszi, kopj le!}
 {111}{}{Aaaaahn!}
-{112}{}{O-ké!}
-{113}{}{Frankó, inkább nézelõdj másfelé! Mi itt rabokat õrzünk. Tûnés!}
-{114}{}{Oké, rendben.}
-{115}{}{Mindenkinek tudunk segíteni, aki értelmes kéréssel jön. Ha neked nem tudunk, akkor nem. Ennyi. Lépj le! Indulj, mielõtt segítünk benne!}
-{116}{}{Megtennéd?}
-{117}{}{Értem.}
-{118}{}{A rabokkal akarsz beszélni, mi? Hát, csak velünk beszélhetsz. Mit akarsz mondani?}
-{119}{}{Belegondoltál már, hogy esetleg illegálisan tartjátok fogva õket?}
+{112}{}{Ã“Ã³kÃ©!}
+{113}{}{FrankÃ³, inkÃ¡bb nÃ©zelÅ‘dj mÃ¡sfelÃ©! Mi itt rabokat Å‘rzÃ¼nk. TÅ±nÃ©s!}
+{114}{}{OkÃ©, rendben.}
+{115}{}{Mindenkinek tudunk segÃ­teni, aki Ã©rtelmes kÃ©rÃ©ssel jÃ¶n. Ha neked nem tudunk, akkor nem. Ennyi. LÃ©pj le! Indulj, mielÅ‘tt segÃ­tÃ¼nk benne!}
+{116}{}{MegtennÃ©d?}
+{117}{}{Fogtam.}
+{118}{}{A rabokkal akarsz beszÃ©lni, mi? HÃ¡t, csak velÃ¼nk beszÃ©lhetsz. Mit akarsz mondani?}
+{119}{}{BelegondoltÃ¡l mÃ¡r, hogy esetleg illegÃ¡lisan tartjÃ¡tok fogva Å‘ket?}
 {120}{}{Ezt kapd ki, muti!}
-{121}{}{Semmi érdekeset. Inkább megyek.}
-{122}{}{Ööö... mire gondolsz?}
-{123}{}{Arra gondolok, hogy a beszéden kívül semmilyen bûntettet nem követtek el. Egyszerûen csak csúnyákat mondtak a mutánsokról. Nem mondom, hogy nem követtek volna el bûnt... te vajon szeretnél olyan bûnért ülni, amit TALÁN el fogsz követni?}
-{124}{}{Arra, hogy az erõ irányítja a törvényt. Nekem megvan az erõm. Pont itt. Nézd csak!}
-{125}{}{Nem, nem szeretnék, de ezek itt veszélyesek.}
-{126}{}{Amíg el nem követnek valamit, addig nem bûnösök. Amíg esetlegesen nem rögzítik a terveiket, és nem kezdik el végrehajtani a bûntettet, addig nem lehetnek bûnösök, nem igaz?}
-{127}{}{Veszélyesek? Én veszélyes vagyok. Te is veszélyes vagy. Mégsem vagyunk a sitten.}
-{128}{}{És akkor?}
-{129}{}{De... de... rendben. Mehetnek, de a te felelõsségedre. Remélem, igazad van. Itt a kulcs.}
-{130}{}{Mást nem akartam. Kösz. Viszlát!}
-{131}{}{Ja, de talán ott kellene lennünk. Most õk vannak ott. És addig ott is maradnak, amíg valaki nem mond valami jobb érvet, hogy kiengedjem õket. Most pedig húzz innen!}
+{121}{}{Semmi Ã©rdekeset. InkÃ¡bb megyek.}
+{122}{}{Ã–Ã¶Ã¶... mire gondolsz?}
+{123}{}{Arra gondolok, hogy a beszÃ©den kÃ­vÃ¼l semmilyen bÅ±ntettet nem kÃ¶vettek el. EgyszerÅ±en csak csÃºnyÃ¡kat mondtak a mutÃ¡nsokrÃ³l. Nem mondom, hogy nem kÃ¶vettek volna el bÅ±nt... te vajon szeretnÃ©l olyan bÅ±nÃ©rt Ã¼lni, amit TALÃN el fogsz kÃ¶vetni?}
+{124}{}{Arra, hogy az erÅ‘ irÃ¡nyÃ­tja a tÃ¶rvÃ©nyt. Nekem megvan az erÅ‘m. Pont itt. NÃ©zd csak!}
+{125}{}{Nem, nem szeretnÃ©k, de ezek itt veszÃ©lyesek.}
+{126}{}{AmÃ­g el nem kÃ¶vetnek valamit, addig nem bÅ±nÃ¶sÃ¶k. AmÃ­g esetlegesen nem rÃ¶gzÃ­tik a terveiket, Ã©s nem kezdik el vÃ©grehajtani a bÅ±ntettet, addig nem lehetnek bÅ±nÃ¶sÃ¶k, nem igaz?}
+{127}{}{VeszÃ©lyesek? Ã‰n veszÃ©lyes vagyok. Te is veszÃ©lyes vagy. MÃ©gsem vagyunk a sitten.}
+{128}{}{Ã‰s akkor?}
+{129}{}{De... de... rendben. Mehetnek, de a te felelÅ‘ssÃ©gedre. RemÃ©lem, igazad van. Itt a kulcs.}
+{130}{}{MÃ¡st nem akartam. KÃ¶sz. ViszlÃ¡t!}
+{131}{}{Ja, de talÃ¡n ott kellene lennÃ¼nk. Most Å‘k vannak ott. Ã‰s addig ott is maradnak, amÃ­g valaki nem mond valami jobb Ã©rvet, hogy kiengedjem Å‘ket. Most pedig hÃºzz innen!}
 {132}{}{Nem.}
-{133}{}{Rendben.}
-{134}{}{Szóval szépen itt maradnak a dutyiban. Meg kell védenünk a társadalmat. Most pedig tûnj innen!}
+{133}{}{Ã‰rtem.}
+{134}{}{SzÃ³val szÃ©pen itt maradnak a dutyiban. Meg kell vÃ©denÃ¼nk a tÃ¡rsadalmat. Most pedig tÅ±nj innen!}
 {135}{}{Nem.}
-{136}{}{Rendben.}
-{137}{}{Hé te! Mi a fenét csinálsz? Takarodj a pokolba innen!}
-{138}{}{Rakd el szépen a fegyvereidet, kispofám!}
+{136}{}{Ã‰rtem.}
+{137}{}{HÃ© te! Mi a fenÃ©t csinÃ¡lsz? Takarodj a pokolba innen!}
+{138}{}{Rakd el szÃ©pen a fegyvereidet, kispofÃ¡m!}
 {139}{}{You again? Do you need something?}
-{140}{}{Csak nézelõdök.}
-{141}{}{Ööö... semmit.}
-{142}{}{Jöttem, hogy beszéljek a rabokkal.}
-{143}{}{Belegondoltál már abba, hogy esetleg illegálisan tartjátok fogva a rabokat?}
-{144}{}{Neked nem szabadna itt mászkálnod. Tûnj innen!}
-{145}{}{Ha egyszer rájövök, hogy hova szöktek azok a rohadt mocskok, pokolian rossz dolguk lesz!}
+{140}{}{Csak nÃ©zelÅ‘dÃ¶k.}
+{141}{}{Ã–Ã¶Ã¶... nem, nem igazÃ¡n.}
+{142}{}{Igen. A rabokkal szeretnÃ©k beszÃ©lni.}
+{143}{}{BelegondoltÃ¡l mÃ¡r, hogy esetleg illegÃ¡lisan tartjÃ¡tok fogva a rabokat?}
+{144}{}{Neked nem szabadna itt mÃ¡szkÃ¡lnod. TÅ±nj innen!}
+{145}{}{Ha egyszer rÃ¡jÃ¶vÃ¶k, hogy hova szÃ¶ktek azok a rohadt mocskok, pokolian rossz dolguk lesz!}
 {150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
-{151}{}{Rendben.}
+{151}{}{Ã‰rtem.}
 {152}{}{I actually took that key from you. What are going to do about it?}

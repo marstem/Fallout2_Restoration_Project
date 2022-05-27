@@ -1,2 +1,2 @@
-{100}{}{Egy Biztons·gi ’r robotot l·tsz.}
-{101}{}{Egy Biztons·gi ’r robotot l·tsz.}
+{100}{}{Egy Biztons√°gi ≈êr robotot l√°tsz.}
+{101}{}{Egy Biztons√°gi ≈êr robotot l√°tsz.}

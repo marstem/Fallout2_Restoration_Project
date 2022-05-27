@@ -1,1273 +1,1273 @@
-{100}{}{Egy prostit látsz.}
-{150}{}{Õ egy... éjszakai pillangó. Lenge öltözékét csábosan tekerte magára.}
-{151}{}{A nõ prostituált. Rádkacsint.}
-{152}{}{A nõ prostituált. A szeme olyan, mint a kiment biztosíték.}
-{153}{}{A nõ prostituált. Virágillat lengi körül.}
-{154}{}{A nõ prostituált. Olyan illata van, mint a mamádnak.}
-{155}{}{A nõ prostituált. Kész rejtély, hogy lenge öltözéke hogyan képes kordában tartani a melleit.}
-{156}{}{A nõ prostituált. Úgy néz ki, mint aki megöli, aztán megeszi a partnereit.}
-{157}{}{A nõ prostituált. Úgy tanulmányoz téged, mint egy ékszerész.}
-{158}{}{A nõ prostituált. Lenge öltözékét csábosan kanyarította maga köré.}
+{100}{}{Egy prostit lÃ¡tsz.}
+{150}{}{Å egy... Ã©jjeli pillangÃ³. Lenge Ã¶ltÃ¶zÃ©kÃ©t csÃ¡bosan tekerte magÃ¡ra.}
+{151}{}{A nÅ‘ prostituÃ¡lt. RÃ¡dkacsint.}
+{152}{}{A nÅ‘ prostituÃ¡lt. A szeme olyan, mint a kiment biztosÃ­tÃ©k.}
+{153}{}{A nÅ‘ prostituÃ¡lt. VirÃ¡gillat lengi kÃ¶rÃ¼l.}
+{154}{}{A nÅ‘ prostituÃ¡lt. Olyan illata van, mint a mamÃ¡dnak.}
+{155}{}{A nÅ‘ prostituÃ¡lt. KÃ©sz rejtÃ©ly, hogy lenge Ã¶ltÃ¶zÃ©ke hogyan kÃ©pes kordÃ¡ban tartani a melleit.}
+{156}{}{A nÅ‘ prostituÃ¡lt. Ãšgy nÃ©z ki, mint aki megÃ¶li, aztÃ¡n megeszi a partnereit.}
+{157}{}{A nÅ‘ prostituÃ¡lt. Ãšgy tanulmÃ¡nyoz tÃ©ged, mint egy Ã©kszerÃ©sz.}
+{158}{}{A nÅ‘ prostituÃ¡lt. Lenge Ã¶ltÃ¶zÃ©kÃ©t csÃ¡bosan kanyarÃ­totta maga kÃ¶rÃ©.}
 {175}{}{Oh my... it's him.}
-{176}{}{Te vagy a legnagyobb tenyészcsõdör a világon!}
-{177}{}{::Majd elájul, hogy lát...::}
+{176}{}{Te vagy a legnagyobb tenyÃ©szcsÅ‘dÃ¶r a vilÃ¡gon!}
+{177}{}{::Majd elÃ¡jul, hogy lÃ¡t...::}
 {178}{}{Igen, }
 {179}{}{::Tapsol::}
-{180}{}{::Éljenez::}
+{180}{}{::Ã‰ljenez::}
 {181}{}{Oh my... it's her.}
-{182}{}{Nagy vagy, bébi!}
-{183}{}{::Hüvelykujjával mutatja, hogy minden rendben::}
-{190}{}{Ha ezt a VACKOT viseled, nincs az a pénz, amiért elmegyek veled!}
+{182}{}{Nagy vagy, bÃ©bi!}
+{183}{}{::HÃ¼velykujjÃ¡val mutatja, hogy minden rendben::}
+{190}{}{Ha ezt a VACKOT viseled, nincs az a pÃ©nz, amiÃ©rt elmegyek veled!}
 {195}{}{Erre-erre}
-{196}{}{Nézzétek! Ez Õ!}
-{197}{}{Hé, }
-{198}{}{Hé, édeske! Nincs valami állásod számomra?}
-{199}{}{Mikor jön ki a következõ filmed?}
-{200}{}{Mmmm-mmm. Csináld, kicsim.}
-{201}{}{Mit akarsz tõlem, te kis mumus?}
-{202}{}{Jaj, valamit beleejtettem a gatyádba. Hadd vegyem ki!}
-{203}{}{Jó voltál a Nagy Szûzgolyókban.}
-{204}{}{Remek voltál a Szexivánéji álomban!}
-{205}{}{Tetszettél a "23 Centis Menedékben".}
-{206}{}{Tetszettél a Farkalókkal táncolók folytatásában.}
+{196}{}{NÃ©zzÃ©tek! Ez Å!}
+{197}{}{HÃ©, }
+{198}{}{HÃ©, Ã©deske! Nincs valami Ã¡llÃ¡sod szÃ¡momra?}
+{199}{}{Mikor jÃ¶n ki a kÃ¶vetkezÅ‘ filmed?}
+{200}{}{Mmmm-mmm. CsinÃ¡ld, kicsim.}
+{201}{}{Mit akarsz tÅ‘lem, te kis mumus?}
+{202}{}{Jaj, valamit beleejtettem a gatyÃ¡dba. Hadd vegyem ki!}
+{203}{}{JÃ³ voltÃ¡l a Nagy SzÅ±zgolyÃ³kban.}
+{204}{}{Remek voltÃ¡l a SzexivÃ¡nÃ©ji Ã¡lomban!}
+{205}{}{TetszettÃ©l a "23 Centis MenedÃ©kben".}
+{206}{}{TetszettÃ©l a FarkalÃ³kkal tÃ¡ncolÃ³k folytatÃ¡sÃ¡ban.}
 {207}{}{Mmmmm-mmmm. Hogy tudsz ilyen fitt maradni?}
-{208}{}{Kérhetek egy autogramot a mellemre?}
-{209}{}{Szerepelhetnék a következõ filmedben?}
-{210}{}{NEKED sosem tettetném...}
-{211}{}{Egyre... gyengébb vagyok. Már... nem tudom magam... sokáig tartani... le akarok... feküdni... veled...}
-{212}{}{Ez nem sztár, ez csak egy tányérszájú szennyedék.}
-{213}{}{Nem tudtam, hogy a pornósztárokat engedik elhízni...}
-{214}{}{Hû de randa vagy.}
-{215}{}{Annyi vonzereje van, mint egy vizes papírkötegnek...}
-{216}{}{Bûnronda vagy...}
-{217}{}{Úgy játszik, mint egy hõsnõ és nem mint egy pornósztár.}
-{218}{}{Csak próbálkozzon, kikaparom a szemét...}
-{219}{}{Nem tudom, mit esznek benne a Korzikai Testvérek...}
-{220}{}{Olyan tehetséges, mint egy kõdarab, viszont kétszer olyan randa.}
-{221}{}{Úgy bizony, csak sétálj tovább...}
-{222}{}{Már attól émelyegni kezdek, ha ránézek...}
-{223}{}{Nézd már, hogy flangál itt fel-alá...}
-{224}{}{Olyan feje van, hogy csak egy brahmin tudná szeretni.}
-{225}{}{Na, itt jön gizdakirálynõ!}
-{226}{}{Itt gebedjek meg, ha ez nem a kis fõszuka.}
-{227}{}{Kit látnak szemeim! A kis pornósztárocska erre vetõdött!}
-{228}{}{Rondább, mint egy brahmin segge.}
+{208}{}{KÃ©rhetek egy autogramot a mellemre?}
+{209}{}{SzerepelhetnÃ©k a kÃ¶vetkezÅ‘ filmedben?}
+{210}{}{NEKED sosem tettetnÃ©m...}
+{211}{}{Egyre... gyengÃ©bb vagyok. MÃ¡r... nem tudom magam... sokÃ¡ig tartani... le akarok... fekÃ¼dni... veled...}
+{212}{}{Ez nem sztÃ¡r, ez csak egy tÃ¡nyÃ©rszÃ¡jÃº szennyedÃ©k.}
+{213}{}{Nem tudtam, hogy a pornÃ³sztÃ¡rokat engedik elhÃ­zni...}
+{214}{}{HÅ± de randa vagy.}
+{215}{}{Annyi vonzereje van, mint egy vizes papÃ­rkÃ¶tegnek...}
+{216}{}{BÅ±nronda vagy...}
+{217}{}{Ãšgy jÃ¡tszik, mint egy hÅ‘snÅ‘ Ã©s nem mint egy pornÃ³sztÃ¡r.}
+{218}{}{Csak prÃ³bÃ¡lkozzon, kikaparom a szemÃ©t...}
+{219}{}{Nem tudom, mit esznek benne a Korzikai TestvÃ©rek...}
+{220}{}{Olyan tehetsÃ©ges, mint egy kÅ‘darab, viszont kÃ©tszer olyan randa.}
+{221}{}{Ãšgy bizony, csak sÃ©tÃ¡lj tovÃ¡bb...}
+{222}{}{MÃ¡r attÃ³l Ã©melyegni kezdek, ha rÃ¡nÃ©zek...}
+{223}{}{NÃ©zd mÃ¡r, hogy flangÃ¡l itt fel-alÃ¡...}
+{224}{}{Olyan feje van, hogy csak egy brahmin tudnÃ¡ szeretni.}
+{225}{}{Na, itt jÃ¶n gizdakirÃ¡lynÅ‘!}
+{226}{}{Itt gebedjek meg, ha ez nem a kis fÅ‘szuka.}
+{227}{}{Kit lÃ¡tnak szemeim! A kis pornÃ³sztÃ¡rocska erre vetÅ‘dÃ¶tt!}
+{228}{}{RondÃ¡bb, mint egy brahmin segge.}
 {229}{}{Lehet lekopni! Ez a mi placcunk, ribanc!}
-{230}{}{Rángasd innen elfele a dagadt picsádat!}
-{231}{}{Olyan tehetséges vagy, mint a cipõm.}
-{232}{}{Ha ittmaradsz az utcán, kicsipkézzük a kis pofidat.}
-{233}{}{Ringyó!}
-{234}{}{Kiégett kurva...}
+{230}{}{RÃ¡ngasd innen elfele a dagadt picsÃ¡dat!}
+{231}{}{Olyan tehetsÃ©ges vagy, mint a cipÅ‘m.}
+{232}{}{Ha ittmaradsz az utcÃ¡n, kicsipkÃ©zzÃ¼k a kis pofidat.}
+{233}{}{RingyÃ³!}
+{234}{}{KiÃ©gett kurva...}
 {235}{}{Trash...}
 {236}{}{Hmm!}
-{237}{}{Tûnés innen, rontod az üzletet!}
-{238}{}{Ványadt kurva!}
-{239}{}{Ne szólj hozzám, ribanc!}
-{240}{}{Menj vissza, kurva, és gyártsd csak a pénzt a lassúbb módon!}
-{241}{}{A "tûnés a picsába" kifejezés melyik részét nem érted?}
-{242}{}{Csak még egy szót szólj, és kimetszem a nyelved!}
+{237}{}{TÅ±nÃ©s innen, rontod az Ã¼zletet!}
+{238}{}{VÃ¡nyadt kurva!}
+{239}{}{Ne szÃ³lj hozzÃ¡m, ribanc!}
+{240}{}{Menj vissza, kurva, Ã©s gyÃ¡rtsd csak a pÃ©nzt a lassÃºbb mÃ³don!}
+{241}{}{A "tÅ±nÃ©s a picsÃ¡ba" kifejezÃ©s melyik rÃ©szÃ©t nem Ã©rted?}
+{242}{}{Csak mÃ©g egy szÃ³t szÃ³lj, Ã©s kimetszem a nyelved!}
 {243}{}{Riherongy!}
-{244}{}{::Rád sem hederít.::}
-{245}{}{::Obszcén dolgokat mutogat.::}
-{246}{}{Tûnés innen Miss "Mozisztár"!}
+{244}{}{::RÃ¡d sem hederÃ­t.::}
+{245}{}{::ObszcÃ©n dolgokat mutogat.::}
+{246}{}{TÅ±nÃ©s innen Miss "MozisztÃ¡r"!}
 {247}{}{Kopj le, te kis kurva!}
-{248}{}{Csak próbálj meg valamit, kikaparom a szemed...}
-{249}{}{Nem tudom, mit esznek rajtad a Korzikai Testvérek...}
-{250}{}{Olyan tehetséges vagy mint egy kõdarab, viszont kétszer randább.}
-{251}{}{A hozzád hasonló mocskokkal nem beszélek.}
-{252}{}{Nézzétek ezeket az izmokat! Mindjárt elalélok!}
-{253}{}{Arcom leteszem!}
-{254}{}{::Fütyül::}
-{255}{}{Úgy néz ki, mint egy harckocsi. Nézzétek azt a ágyúcsövet!}
-{256}{}{Nézzétek azt az ágyúcsövet azon a harckocsin...}
-{257}{}{Mindene az enyém...}
-{258}{}{::Sóhajt::}
-{259}{}{Micsoda tökös fickó.}
-{260}{}{Ez a srác a gyengém.}
-{261}{}{Azta, itt jön a csõdörök csõdöre.}
-{262}{}{Ólom van a cerkájában, ez már holt tuti.}
-{263}{}{Nézzétek! Ez }
+{248}{}{Csak prÃ³bÃ¡lj meg valamit, kikaparom a szemed...}
+{249}{}{Nem tudom, mit esznek rajtad a Korzikai TestvÃ©rek...}
+{250}{}{Olyan tehetsÃ©ges vagy mint egy kÅ‘darab, viszont kÃ©tszer randÃ¡bb.}
+{251}{}{A hozzÃ¡d hasonlÃ³ mocskokkal nem beszÃ©lek.}
+{252}{}{NÃ©zzÃ©tek ezeket az izmokat! MindjÃ¡rt elalÃ©lok!}
+{253}{}{A francbaaa!}
+{254}{}{::FÃ¼tyÃ¼l::}
+{255}{}{Ãšgy nÃ©z ki, mint egy harckocsi. NÃ©zzÃ©tek azt a Ã¡gyÃºcsÃ¶vet!}
+{256}{}{NÃ©zzÃ©tek azt az Ã¡gyÃºcsÃ¶vet azon a harckocsin...}
+{257}{}{Mindene az enyÃ©m...}
+{258}{}{::SÃ³hajt::}
+{259}{}{Nem semmi egy verekedÅ‘s fickÃ³ vagy!}
+{260}{}{EttÅ‘l a srÃ¡ctÃ³l teljesen elgyengÃ¼lÃ¶k.}
+{261}{}{Azta, itt jÃ¶n a csÅ‘dÃ¶rÃ¶k csÅ‘dÃ¶re.}
+{262}{}{Ã“lom van a cerkÃ¡jÃ¡ban, ez mÃ¡r tuti.}
+{263}{}{OdanÃ©zz! Ez }
 {264}{}{}
-{265}{}{Na, végre egy kis balhé, de a fene bánja.}
-{266}{}{Nem akarsz ringbe szállni velem, bajnokom?}
-{267}{}{Nem akarsz bokszcsatát vívni, bajnokom?}
-{268}{}{Mi újság, }
+{265}{}{Na, vÃ©gre egy kis balhÃ©, de a fene bÃ¡nja.}
+{266}{}{Nem akarsz ringbe szÃ¡llni velem, bajnokom?}
+{267}{}{Nem akarsz bokszcsatÃ¡t vÃ­vni, bajnokom?}
+{268}{}{Mi ÃºjsÃ¡g, }
 {269}{}{Nem engem keresel?}
-{270}{}{Miért nem jössz gyakrabban?}
-{271}{}{Van egy tágra nyitott lehetõségem számodra.}
-{272}{}{Nincs szükséged egy társra, }
+{270}{}{MiÃ©rt nem jÃ¶ssz gyakrabban?}
+{271}{}{Van egy tÃ¡gra nyitott lehetÅ‘sÃ©gem szÃ¡modra.}
+{272}{}{Nem kÃ©ne egy partner, }
 {273}{}{Te kis falurossza!}
-{274}{}{A gyengém vagy, tudod-e?}
-{275}{}{Szép a micsodád.}
+{274}{}{A gyengÃ©m vagy, tudod-e?}
+{275}{}{SzÃ©p a micsodÃ¡d.}
 {276}{}{Nem kell valaki, aki babusgatja, bajnokom?}
-{277}{}{Hé... vigyázz a Húsdarálóval! Igazi vadbarom. Egyszer már le akarta harapni a fülem.}
-{278}{}{Nézzétek! Ez }
-{279}{}{Nincs szükséged egy társra, }
+{277}{}{HÃ©... vigyÃ¡zz a HÃºsdarÃ¡lÃ³val. Igazi vadbarom. Egyszer mÃ¡r le akarta harapni a fÃ¼lem.}
+{278}{}{OdanÃ©zz! Ez }
+{279}{}{Nem kÃ©ne egy partner, }
 {280}{}{}
-{281}{}{Ez ám a tökös csajszi! Bárcsak én is úgy tudnám móresre tanítani a srácokat, mint õ.}
-{282}{}{Ott megy a nõk nõje!}
-{283}{}{(Megborzong) ...ez a nõ aztán nem ijed meg az árnyékától.}
-{284}{}{Ez a nõ aztán nagyon csinos...}
-{285}{}{Atyavilág... ez Õ.}
-{286}{}{(Megborzong) ...ez a fickó aztán nem ijed meg a saját árnyékától.}
-{287}{}{Arcom leteszem!}
-{288}{}{::Fütyül::}
-{289}{}{Micsoda tökös fickó.}
-{290}{}{Ez a srác a gyengém.}
-{291}{}{Ólom van a cerkájában, ez már holt tuti.}
-{292}{}{Hellóóóóó, }
-{293}{}{Nincs szükséged egy társra, }
+{281}{}{Ez Ã¡m a tÃ¶kÃ¶s csajszi! BÃ¡rcsak Ã©n is Ãºgy tudnÃ¡m mÃ³resre tanÃ­tani a srÃ¡cokat, mint Å‘.}
+{282}{}{Ott megy a nÅ‘k nÅ‘je!}
+{283}{}{(Megborzong) ...ez a nÅ‘ aztÃ¡n nem ijed meg az Ã¡rnyÃ©kÃ¡tÃ³l.}
+{284}{}{Ez a nÅ‘ aztÃ¡n nagyon csinos...}
+{285}{}{Ã“h egek... ez Å.}
+{286}{}{(Megborzong) ...ez a fickÃ³ aztÃ¡n nem ijed meg a sajÃ¡t Ã¡rnyÃ©kÃ¡tÃ³l.}
+{287}{}{A francbaaa!}
+{288}{}{::FÃ¼tyÃ¼l::}
+{289}{}{Nem semmi egy verekedÅ‘s fickÃ³ vagy!}
+{290}{}{EttÅ‘l a srÃ¡ctÃ³l teljesen elgyengÃ¼lÃ¶k.}
+{291}{}{Ã“lom van a cerkÃ¡jÃ¡ban, ez mÃ¡r tuti.}
+{292}{}{HellÃ³Ã³Ã³Ã³Ã³, }
+{293}{}{Nem kÃ©ne egy partner, }
 {294}{}{}
-{295}{}{Atyaég... ez Õ.}
-{296}{}{Ez aztán a belevaló nõci.}
+{295}{}{Ã“h, egek... ez Å.}
+{296}{}{Ez aztÃ¡n a belevalÃ³ nÅ‘ci.}
 {297}{}{Az a csaj nem semmi egy cafka.}
-{298}{}{(Megborzong) ...ez a nõ aztán nem ijed meg az árnyékától.}
-{299}{}{Ez a nõ aztán nagyon csinos...}
-{300}{}{Engem Könnyû Esetnek hívnak. Hát téged?}
+{298}{}{(Megborzong) ...ez a nÅ‘ aztÃ¡n nem ijed meg az Ã¡rnyÃ©kÃ¡tÃ³l.}
+{299}{}{Ez a nÅ‘ aztÃ¡n nagyon csinos...}
+{300}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak, hajcsÃ¡r. HÃ¡t tÃ©ged?}
 {301}{}{Hey, slaver, need some company?}
-{302}{}{Hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{303}{}{Nem akarsz valakit, aki megosztaná veled a matracodat, hajcsár?}
-{304}{}{Látom jól el vagy látva, hajcsár.}
-{305}{}{Milyen mérges kis gyíkod van!}
-{306}{}{Valami akcióra vágysz?}
-{307}{}{Hajcsár, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{308}{}{Randizni szeretnél?}
-{309}{}{Azt hallottam, volt egy kis balhé a Kereskedelmi Negyedben...}
+{302}{}{Hadd tanÃ­tsak egy-kÃ©t dolgot, amit csak nÅ‘ tanÃ­that.}
+{303}{}{Nem kell valaki, akivel megoszthatod a matracodat, hajcsÃ¡r?}
+{304}{}{LÃ¡tom jÃ³l el vagy lÃ¡tva, haver.}
+{305}{}{HÅ±, milyen mÃ©rges kis gyÃ­kod van!}
+{306}{}{Valami akciÃ³ra vÃ¡gysz?}
+{307}{}{HajcsÃ¡r, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{308}{}{Partnert keresel?}
+{309}{}{Azt hallottam, volt egy kis balhÃ© a Kereskedelmi Negyedben...}
 {310}{}{Csak nem partnert keresel?}
-{311}{}{Nincs kedved táncolni?}
-{312}{}{Hajcsár, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{313}{}{Hogyne, néhány dolcsiért én leszek az egyik partnered.}
-{314}{}{Nocsak, új idegen tûnt fel a városban...}
-{315}{}{Akarsz szárnyalni, hajcsár?}
-{316}{}{Nem akarsz hajcsárosdit játszani?}
-{317}{}{Szép dákó!}
-{318}{}{Hadd vidítsalak fel, szomorú bohócom!}
-{319}{}{Eltévedtél, hajcsár?}
-{320}{}{Nincs egy kitárazandó fegyvered, hajcsár?}
-{321}{}{Ettõl a fickótól még az acél is megolvad.}
-{322}{}{Myron? Egy millióért sem nyúlnék hozzá. Legyen mondjuk kétmillió.}
-{323}{}{Valami jó idõtöltésre vágysz, hajcsár?}
-{324}{}{Tetszik a gekkód, hajcsár!}
-{325}{}{Az egy gekkó a zsebedben?}
-{326}{}{Szia, hajcsár.}
-{327}{}{Nem akarsz randizni, hajcsár?}
-{328}{}{Hol van a tûz, hajcsár?}
-{329}{}{Gyermekem, hadd tegyelek férfivá!}
-{330}{}{Nem akarsz hajcsárosdit játszani?}
-{331}{}{Nincs kedved velem üzekedõ halálkarmokat utánozni?}
-{332}{}{Nem akarsz kitárazni, hajcsár?}
-{333}{}{Nem akarod elvenni a szüzességemet?}
-{334}{}{Ettõl a hajcsártól elkezd ketyegni a Geiger számlálóm.}
-{335}{}{Ha azt akarod, hogy kedves is legyek, többet kell fizetned.}
-{336}{}{[Énekel] "Adj helyet magad mellett, az ablakhoz én is odaférjek..."}
-{337}{}{Tégy fel mindent értem, drágám!}
-{338}{}{Végre felszereltem a párnázott fejtámlát.}
-{339}{}{Az édenkert íze csak tíz dolcsi...}
-{340}{}{Nem akarsz hajcsárosdit játszani, hajcsár?}
-{341}{}{Myron egy jókora gyertya kanóc nélkül.}
+{311}{}{Nem akarsz tÃ¡ncolni?}
+{312}{}{HajcsÃ¡r, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{313}{}{Hogyne, nÃ©hÃ¡ny dolcsiÃ©rt Ã©n leszek az egyik partnered.}
+{314}{}{Nocsak, Ãºj idegen tÅ±nt fel a vÃ¡rosban...}
+{315}{}{Akarsz szÃ¡rnyalni, hajcsÃ¡r?}
+{316}{}{Nem akarsz hajcsÃ¡rosdit jÃ¡tszani?}
+{317}{}{SzÃ©p dÃ¡kÃ³!}
+{318}{}{Hadd vidÃ­tsalak fel, szomorÃº bohÃ³com!}
+{319}{}{EltÃ©vedtÃ©l, hajcsÃ¡r?}
+{320}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, hajcsÃ¡r?}
+{321}{}{EttÅ‘l a fickÃ³tÃ³l mÃ©g az acÃ©l is megolvad.}
+{322}{}{Myron? Egy milliÃ³Ã©rt sem nyÃºlnÃ©k hozzÃ¡. Legyen mondjuk kÃ©tmilliÃ³.}
+{323}{}{Valami jÃ³ idÅ‘tÃ¶ltÃ©sre vÃ¡gysz, hajcsÃ¡r?}
+{324}{}{Tetszik a gekkÃ³d, hajcsÃ¡r.}
+{325}{}{Az ott egy gekkÃ³ a zsebedben?}
+{326}{}{Szia, hajcsÃ¡r.}
+{327}{}{Nem akarsz egy partnert, hajcsÃ¡r?}
+{328}{}{Hol van a tÅ±z, hajcsÃ¡r?}
+{329}{}{Gyermekem, hadd tegyelek fÃ©rfivÃ¡!}
+{330}{}{Nem akarsz hajcsÃ¡rosdit jÃ¡tszani?}
+{331}{}{Nincs kedved velem Ã¼zekedÅ‘ halÃ¡lkarmokat utÃ¡nozni?}
+{332}{}{Nem akarsz kitÃ¡razni, hajcsÃ¡r?}
+{333}{}{Nem akarod elvenni a szÃ¼zessÃ©gemet?}
+{334}{}{EttÅ‘l a hajcsÃ¡rtÃ³l elkezd ketyegni a Geiger szÃ¡mlÃ¡lÃ³m.}
+{335}{}{Ha azt akarod, hogy kedves is legyek, tÃ¶bbet kell fizetned.}
+{336}{}{[Ã‰nekel.] "Adj helyet magad mellett..."}
+{337}{}{TÃ©gy fel mindent Ã©rtem, hajcsÃ¡r!}
+{338}{}{VÃ©gÃ¼l is sikerÃ¼lt felszerelnem azt a pÃ¡rnÃ¡zott fejtÃ¡mlÃ¡t.}
+{339}{}{Az Ã©den Ã­ze csak tÃ­z dolcsiba kerÃ¼l.}
+{340}{}{Akarsz hajcsÃ¡rosdit jÃ¡tszani, hajcsÃ¡r?}
+{341}{}{Myron egy jÃ³kora gyertya kanÃ³c nÃ©lkÃ¼l.}
 {342}{}{Myron's a real twister...}
 {343}{}{AC-DC, B n' D, egyre megy.}
-{344}{}{Mit vár el tõlem, hogy lehajoljak hozzá?}
-{345}{}{Nem kell valaki, aki megcsattogtatja a korbácsodat, hajcsár?}
-{346}{}{Myron folyton erre jár...}
-{347}{}{A Bishop lány egy lepedõvirtuóz.}
+{344}{}{Mit vÃ¡r el tÅ‘lem, hogy lehajoljak hozzÃ¡?}
+{345}{}{Nem kell valaki, aki megcsattogtatja a korbÃ¡csodat, hajcsÃ¡r?}
+{346}{}{Myron folyton erre jÃ¡r...}
+{347}{}{A Bishop lÃ¡ny egy lepedÅ‘virtuÃ³z.}
 {348}{}{She ain't no Jet addict, she's a BONE addict.}
-{349}{}{A Cat's Paw aztán akciódús egy hely...}
-{350}{}{Múlt éjjel, mikor Myron elõl futottam, megdöntöttem a maratoni világrekordot...}
-{351}{}{Nincs szükséged egy tanárnõre, hajcsár?}
-{352}{}{Tegnap óta koptatom ezt a szakaszt...}
-{353}{}{Bejönnek itt a dolgok, hajcsár?}
-{354}{}{Hajcsár, mit szólnál egy kis testi szerelemhez?}
-{355}{}{Hé, hajcsár! Gyere, beszélgessünk!}
-{356}{}{::Feléd fordulva fütyül valamit::}
-{357}{}{Sokáig maradsz Renóban?}
-{358}{}{Utálom, amikor mindenestül be kell vennem.}
-{359}{}{Miért nem viszel a ketrecedbe, hajcsár?}
-{360}{}{Csak néhány dolcsi, és már a tied is vagyok.}
-{361}{}{Hamisítatlan renói szerelmet kapsz tõlem.}
-{362}{}{Játszadozzunk már egyet!}
+{349}{}{A Cat's Paw aztÃ¡n akciÃ³dÃºs egy hely...}
+{350}{}{MÃºlt Ã©jjel, mikor Myron elÅ‘l futottam, megdÃ¶ntÃ¶ttem a maratoni vilÃ¡grekordot...}
+{351}{}{Nincs szÃ¼ksÃ©ged egy tanÃ¡rnÅ‘re, hajcsÃ¡r?}
+{352}{}{Tegnap Ã³ta koptatom ezt a szakaszt...}
+{353}{}{BejÃ¶nnek itt a dolgok, hajcsÃ¡r?}
+{354}{}{HajcsÃ¡r, mit szÃ³lnÃ¡l egy kis testi szerelemhez?}
+{355}{}{HÃ©, hajcsÃ¡r! Gyere, beszÃ©lgessÃ¼nk!}
+{356}{}{::FelÃ©d fordulva fÃ¼tyÃ¼l valamit::}
+{357}{}{SokÃ¡ig maradsz RenÃ³ban?}
+{358}{}{UtÃ¡lom, amikor mindenestÃ¼l be kell vennem.}
+{359}{}{MiÃ©rt nem viszel a ketrecedbe, hajcsÃ¡r?}
+{360}{}{Csak nÃ©hÃ¡ny dolcsi, Ã©s mÃ¡r a tied is vagyok.}
+{361}{}{HamisÃ­tatlan renÃ³i szerelmet kapsz tÅ‘lem.}
+{362}{}{Ha akarod, eljÃ¡tszadozom veled.}
 {363}{}{Mocskos Spice vagyok.}
-{364}{}{Érintetlen Spice vagyok.}
+{364}{}{Ã‰rintetlen Spice vagyok.}
 {365}{}{Ribi Spice vagyok.}
 {366}{}{Old Spice vagyok.}
-{367}{}{Szifiliszes, illetve... Ribi Spice vagyok.}
+{367}{}{Szifiliszes, izÃ©... Ribi Spice vagyok.}
 {368}{}{Koszos Spice vagyok.}
-{369}{}{Kipróbálhatnánk együtt egy kis iszapbirkózást.}
-{370}{}{Hé hajcsár, van egy barátnõm is, ha esetleg duálban szereted.}
-{371}{}{Bárcsak Myron ratyi lenne.}
-{372}{}{Új hús a városban...}
-{373}{}{Fel nem tudom fogni, miért hívják ezt itt Szûz utcának...}
-{374}{}{Be tudsz verni a farkaddal egy százas szöget a deszkába?}
+{369}{}{KiprÃ³bÃ¡lhatnÃ¡nk egyÃ¼tt egy kis iszapbirkÃ³zÃ¡st.}
+{370}{}{HÃ© hajcsÃ¡r, van egy barÃ¡tnÅ‘m is, ha esetleg duÃ¡lban szereted.}
+{371}{}{BÃ¡rcsak Myron ratyi lenne.}
+{372}{}{Ãšj hÃºs a vÃ¡rosban...}
+{373}{}{Fel nem tudom fogni, miÃ©rt hÃ­vjÃ¡k ezt itt SzÅ±z utcÃ¡nak...}
+{374}{}{Be tudsz verni a farkaddal egy szÃ¡zas szÃ¶get a deszkÃ¡ba?}
 {375}{}{I wish he'd wear a paper bag sometimes...}
-{376}{}{Nem hívsz meg egy csajszit valami italra, hajcsár?}
-{377}{}{Egy magányos hölgy kíséretre vágyik, nem jössz, hajcsár?}
-{378}{}{Nem kell éjszakára egy partner, hajcsár?}
-{379}{}{Áru után jársz, hajcsár?}
-{380}{}{Gyere közelebb, hajcsár, az elõadás mindjárt kezdõdik...}
-{381}{}{Azt mondják, a külvárosi lányok némelyike megölte a stricijét.}
-{382}{}{Megkaphatod a pusztaság legszebb nõjét, ha idejössz...}
-{383}{}{Az a Jules jobban tenné, ha békénhagyna.}
-{384}{}{A fejtámlától még mindig tiszta sebes a fejem...}
-{385}{}{Még mindig kivagyok az utolsó összeröffenés után...}
-{386}{}{Remélem, a hajcsár összeröffenést legközelebb más városban tartják.}
-{387}{}{Azt hittem, megmozdult a Föld, de csak erõs volt a chili.}
-{388}{}{Olvassz fel!}
-{389}{}{Fáradhatatlan az ürge, majd jól bekrepál a ketyegõje...}
-{390}{}{A gondodat viselem, hajcsár.}
-{391}{}{Szûz vagyok, de már a tököm ki van vele.}
-{392}{}{Jules folyamatosan próbálkozik a 2. utcában...}
-{393}{}{Hé, hajcsár! Nem kell egy idegenvezetõ?}
-{394}{}{Jules folyton potyázni akar.}
-{395}{}{Megrázzam a ketrecedet, hajcsár?}
-{396}{}{Úgy hallottam, a családok közt újra feszültség van.}
-{397}{}{A dolgok elég belassultak. Bárcsak újra feltûnne az a karaván.}
-{398}{}{Szóval felölti a Halálkarom maskarát, aztán...}
-{399}{}{Segítség nélkül nem tudok kibújni ebbõl a ruhából.}
-{400}{}{Nem akarsz újra és újra feldobni?}
-{401}{}{Mmm-mmm. Eljött a párzási idõszak!}
+{376}{}{Nem hÃ­vsz meg egy csajszit valami italra, hajcsÃ¡r?}
+{377}{}{Egy magÃ¡nyos hÃ¶lgy kÃ­sÃ©retre vÃ¡gyik, hajcsÃ¡r...}
+{378}{}{Nem kell Ã©jszakÃ¡ra egy partner, hajcsÃ¡r?}
+{379}{}{Ãru utÃ¡n jÃ¡rsz, hajcsÃ¡r?}
+{380}{}{Gyere kÃ¶zelebb, hajcsÃ¡r, az elÅ‘adÃ¡s mindjÃ¡rt kezdÅ‘dik...}
+{381}{}{Azt rebesgetik, a kÃ¼lvÃ¡rosi lÃ¡nyok nÃ©melyike megÃ¶lte a stricijÃ©t.}
+{382}{}{Megkaphatod a pusztasÃ¡g legszebb nÅ‘jÃ©t, ha idejÃ¶ssz...}
+{383}{}{Az a Jules gyerek jobban tennÃ©, ha bÃ©kÃ©nhagyna.}
+{384}{}{A fejtÃ¡mlÃ¡tÃ³l mÃ©g mindig lila foltokkal van tele a fejem...}
+{385}{}{MÃ©g mindig kivagyok az utolsÃ³ Ã¶sszerÃ¶ffenÃ©s utÃ¡n...}
+{386}{}{RemÃ©lem, a hajcsÃ¡r Ã¶sszerÃ¶ffenÃ©st legkÃ¶zelebb mÃ¡s vÃ¡rosban tartjÃ¡k.}
+{387}{}{Azt hittem, megmozdult a FÃ¶ld, de csak erÅ‘s volt a chili.}
+{388}{}{Olvassz szÃ©t!}
+{389}{}{FÃ¡radhatatlan az Ã¼rge, majd jÃ³l bekrepÃ¡l a ketyegÅ‘je...}
+{390}{}{A gondodat viselem, hajcsÃ¡r.}
+{391}{}{SzÅ±z vagyok, Ã©s mÃ¡r kezdem unni.}
+{392}{}{Jules folyamatosan prÃ³bÃ¡lkozik a 2. utcÃ¡ban...}
+{393}{}{HÃ©, hajcsÃ¡r! Nem kell egy idegenvezetÅ‘?}
+{394}{}{Jules folyton potyÃ¡zni akar.}
+{395}{}{Nem akarsz egy kis ereszdelahajamat, hajcsÃ¡r?}
+{396}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g van.}
+{397}{}{A dolgok elÃ©g belassultak. BÃ¡rcsak Ãºjra feltÅ±nne az a karavÃ¡n.}
+{398}{}{SzÃ³val felÃ¶lti a HalÃ¡lkarom jelmezt, aztÃ¡n...}
+{399}{}{SegÃ­tsÃ©g nÃ©lkÃ¼l nem tudok kibÃºjni ebbÅ‘l a ruhÃ¡bÃ³l.}
+{400}{}{Nem akarsz Ãºjra Ã©s Ãºjra feldobni?}
+{401}{}{Mmm-mmm. EljÃ¶tt a pÃ¡rzÃ¡si idÅ‘szak.}
 {402}{}{Nem kell egy partner?}
-{403}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{404}{}{A belvárosba indultál, hajcsár?}
-{405}{}{Nem véletlenül hívnak engem Fortuna kegyeltjének.}
-{406}{}{Csípem a brahmin-ízû óvszereket!}
-{407}{}{Nem akarsz egy hölgyet felvidítani?}
-{408}{}{Myron le nem száll rólam. Mondjuk a pénze jól jön.}
-{409}{}{Minden létezõ vágyad nálam teljesül.}
-{410}{}{Az Édent keresed? Ne is menj tovább!}
-{411}{}{Te adod a pénzt, hajcsár, én meg magamat.}
-{412}{}{Nem tudsz segíteni? Az elveszett szüzességemet keresem.}
-{413}{}{Szûz vagyok, de kell a pénz.}
-{414}{}{Légy gyengéd, ez lesz az elsõ... Ma...}
-{415}{}{Felizgultam, mint állat!}
-{416}{}{A kuncsaft tombol, Jules meg spórol.}
-{417}{}{Hadd ébresszem fel a benned szunnyadó gyermeket!}
-{418}{}{Nem akarsz táncolni, édes szívem?}
-{419}{}{Behajtani jöttél?}
-{420}{}{Nem akarod hallani, ahogy sóhajtozom?}
-{421}{}{::Doromboló hangot hallat::}
-{422}{}{::Rrrrroárrr::}
-{423}{}{::Dob egy csókot::}
+{403}{}{MÃºlt hÃ©ten jÃ³l tÃ¶kÃ¶n rÃºgtam Jules-t.}
+{404}{}{A belvÃ¡rosba indultÃ¡l, hajcsÃ¡r?}
+{405}{}{Nem vÃ©letlenÃ¼l hÃ­vnak engem Fortuna kegyeltjÃ©nek.}
+{406}{}{CsÃ­pem a brahmin-Ã­zÅ± Ã³vszereket!}
+{407}{}{Nem akarsz egy hÃ¶lgyet felvidÃ­tani, hajcsÃ¡r?}
+{408}{}{Myron le nem szÃ¡ll rÃ³lam. Mondjuk a pÃ©nze jÃ³l jÃ¶n.}
+{409}{}{Minden lÃ©tezÅ‘ vÃ¡gyad nÃ¡lam teljesÃ¼l.}
+{410}{}{Az Ã‰dent keresed? Ne is menj tovÃ¡bb!}
+{411}{}{Te adod a pÃ©nzt, hajcsÃ¡r, Ã©n meg magamat.}
+{412}{}{Nem tudsz segÃ­teni? Az elveszett szÅ±zessÃ©gemet keresem.}
+{413}{}{SzÅ±z vagyok, de kell a pÃ©nz.}
+{414}{}{LÃ©gy gyengÃ©d, ez lesz az elsÅ‘... Ma...}
+{415}{}{Felizgultam jÃ³l!}
+{416}{}{A kuncsaft tombol, Jules meg spÃ³rol.}
+{417}{}{Hadd Ã©bresszem fel a benned szunnyadÃ³ gyermeket!}
+{418}{}{Nem akarsz tÃ¡ncolni, kis szÃ­vem?}
+{419}{}{Behajtani jÃ¶ttÃ©l?}
+{420}{}{Nem akarod hallani, ahogy sÃ³hajtozom?}
+{421}{}{::DorombolÃ³ hangot hallat::}
+{422}{}{::RrrrroÃ¡rrr::}
+{423}{}{::Dob egy csÃ³kot::}
 {424}{}{Nem akarsz?}
-{425}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{426}{}{A kötözés extrának számít.}
-{427}{}{Hol hagytam a korbácsomat?}
-{428}{}{Készen állok, mint egy péló.}
-{429}{}{Az eszem megáll! Múlt éjszaka VILMÁNAK kellett öltöznöm!}
-{430}{}{Az elmúlt éjjel Myronnal voltam. Öt kemény másodpercig.}
-{431}{}{Bárcsak kihoznának valami Jet-illatú testápolót...}
-{432}{}{Myron gondoskodik róla, hogy szétmenjen a seggem.}
-{433}{}{A fene egye meg, az Önmegtartóztatók Szövetsége már megint nálunk terjeszti az igét...}
-{434}{}{::Fütyül::}
-{435}{}{Garantálom, hogy jobb vagyok a PipBoy kiegészítõdnél.}
-{436}{}{Nem akarod, hogy meghúzzam a csavarjaidat, hajcsár?}
-{437}{}{De szívesen lennék most Avellone-nal!}
-{438}{}{Bárcsak Nick Kesting itt lenne. Órákig beszélgethetnénk a szerepjáték programozásról!}
-{439}{}{Nick Kesting jó fej fazon. Mindig is nagyokat beszélgettünk.}
-{440}{}{A Tökös Tomi olyan jóképû srác.}
-{441}{}{Nocsak, nocsak. Nézzenek oda, ki csöppent közénk...}
-{442}{}{Úgy nézel ki, mint akinek van egy kis szabadideje.}
-{443}{}{Mindjárt megáll az eszem! Egy turista!}
-{444}{}{A harapás extrának számít.}
-{445}{}{Engem Könnyû Esetnek hívnak, hajcsárlány. Hát téged?}
-{446}{}{Hé, hajcsárlány! Csak nem meguntad a hétköznapi nõket?}
-{447}{}{Csak nem felkeltette az érdeklõdésed a másik oldal, édesem?}
-{448}{}{Nincs szükséged ma éjjel egy rabszolgára, hajcsárlány?}
-{449}{}{Nem akarsz valakit, aki felmelegíti a sátradat, hajcsárlány?}
-{450}{}{Nem akarsz valakit, aki megosztaná veled a matracodat, hajcsár?}
-{451}{}{Nem akarsz táncolni, hajcsárlány?}
-{452}{}{Addig fogalmad nem lesz a szerelemrõl, hajcsárlány, amíg a renói szerelmet ki nem próbáltad.}
-{453}{}{Nem akarsz repülni, hajcsárlány?}
-{454}{}{Eltévedtél, hajcsárlány?}
-{455}{}{Szórakozni vágysz, hajcsárlány?}
-{456}{}{Nem gondoltam volna, hogy a hajcsárok céhébe nõket is felvesznek...}
-{457}{}{Hol van a tûz, hajcsárlány?}
-{458}{}{Az a hajcsárlány elég tüzes.}
-{459}{}{Attól a hajcsárlánytól ketyegni kezd a Geiger számlálóm.}
+{425}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{426}{}{A kÃ¶tÃ¶zÃ©s extrÃ¡nak szÃ¡mÃ­t.}
+{427}{}{Hova tettem a korbÃ¡csomat?}
+{428}{}{KÃ©szen Ã¡llok, mint a pÃ©lÃ³.}
+{429}{}{Az eszem megÃ¡ll! MÃºlt Ã©jszaka VILMÃNAK kellett Ã¶ltÃ¶znÃ¶m!}
+{430}{}{Az elmÃºlt Ã©jjel Myronnal voltam. Ã–t egÃ©sz mÃ¡sodpercig.}
+{431}{}{BÃ¡rcsak kihoznÃ¡nak valami Jet-illatÃº testÃ¡polÃ³t...}
+{432}{}{Myron gondoskodik rÃ³la, hogy szÃ©tmenjen a seggem.}
+{433}{}{A fene egye meg, az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge mÃ¡r megint nÃ¡lunk terjeszti az igÃ©t...}
+{434}{}{::FÃ¼tyÃ¼l::}
+{435}{}{GarantÃ¡lom, hogy jobb vagyok a PipBoy kiegÃ©szÃ­tÅ‘dnÃ©l.}
+{436}{}{Nem akarod, hogy meghÃºzzam a csavarjaidat, hajcsÃ¡r?}
+{437}{}{De szÃ­vesen lennÃ©k most Avellone-nal!}
+{438}{}{BÃ¡rcsak Nick Kesting itt lenne. Ã“rÃ¡kig beszÃ©lgethetnÃ©nk a szerepjÃ¡tÃ©k programozÃ¡srÃ³l!}
+{439}{}{Nick Kesting jÃ³ fej fazon. Mindig is nagyokat beszÃ©lgettÃ¼nk.}
+{440}{}{A TÃ¶kÃ¶s Tomi olyan jÃ³kÃ©pÅ± srÃ¡c.}
+{441}{}{Nocsak, nocsak. NÃ©zzenek oda, ki csÃ¶ppent kÃ¶zÃ©nk...}
+{442}{}{Ãšgy nÃ©zel ki, mint akinek van egy kis szabadideje.}
+{443}{}{MindjÃ¡rt berosÃ¡lok! Egy turista!}
+{444}{}{A harapÃ¡s extrÃ¡nak szÃ¡mÃ­t.}
+{445}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak, hajcsÃ¡rlÃ¡ny. HÃ¡t tÃ©ged?}
+{446}{}{HÃ©, hajcsÃ¡rlÃ¡ny! Csak nem meguntad a hÃ©tkÃ¶znapi nÅ‘ket?}
+{447}{}{Csak nem felkeltette az Ã©rdeklÅ‘dÃ©sed a mÃ¡sik oldal, Ã©desem?}
+{448}{}{Nincs szÃ¼ksÃ©ged ma Ã©jjel egy rabszolgÃ¡ra, hajcsÃ¡rlÃ¡ny?}
+{449}{}{Nem akarsz valakit, aki felmelegÃ­ti a sÃ¡tradat, hajcsÃ¡rlÃ¡ny?}
+{450}{}{Nem akarsz valakit, aki megosztanÃ¡ veled a matracodat, hajcsÃ¡rlÃ¡ny?}
+{451}{}{Nem akarsz tÃ¡ncolni, hajcsÃ¡rlÃ¡ny?}
+{452}{}{HajcsÃ¡rlÃ¡ny, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{453}{}{Nem akarsz repÃ¼lni, hajcsÃ¡rlÃ¡ny?}
+{454}{}{EltÃ©vedtÃ©l, hajcsÃ¡rlÃ¡ny?}
+{455}{}{SzÃ³rakozni vÃ¡gysz, hajcsÃ¡rlÃ¡ny?}
+{456}{}{Nem gondoltam volna, hogy a hajcsÃ¡rok cÃ©hÃ©be nÅ‘ket is felvesznek...}
+{457}{}{Hol a tÅ±z, hajcsÃ¡rlÃ¡ny?}
+{458}{}{Az a hajcsÃ¡rlÃ¡ny elÃ©g tÃ¼zes.}
+{459}{}{AttÃ³l a hajcsÃ¡rlÃ¡nytÃ³l ketyegni kezd a Geiger szÃ¡mlÃ¡lÃ³m.}
 {460}{}{I guarantee I'm better in the sack than that robot following you around.}
-{461}{}{Az a robot KIFOGÁSTALANUL mûködik?}
-{462}{}{Az a valami ott a nyomodban nem valami pénznyerõ automata?}
-{463}{}{Az ott nem egy robot pénznyelõ automata?}
-{464}{}{A robotod tud trükköket? Ööö... úgy értem, bûvésztrükköket.}
-{465}{}{Jól látok? Az ott egy mutáns?}
-{466}{}{Az a mutáns extrának számít. Nem is kicsit.}
-{467}{}{Hûha, mutánsok New Renóban. Itt valami nem stimmel.}
-{468}{}{Az a mutáns egy jó nagy kib...}
-{469}{}{Az a mutáns egy kézzel összeroppantana. Hmmmm...}
-{470}{}{Még nem is gondolkodtam, mennyit kérjek, ha egy mutáns próbálkozik.}
-{471}{}{Hé, Myron!}
-{472}{}{Myron! Drágám! Mikor jössz megint, és kedveskedsz nekem?}
+{461}{}{Az a robot KIFOGÃSTALANUL mÅ±kÃ¶dik?}
+{462}{}{Az ott valami pÃ©nzbedobÃ³s automata, ami folyton utÃ¡nad lohol?}
+{463}{}{Az ott egy robot pÃ©nzbedobÃ³s automata?}
+{464}{}{A robotod tud trÃ¼kkÃ¶ket? Ã–Ã¶Ã¶... Ãºgy Ã©rtem bÅ±vÃ©sztrÃ¼kkÃ¶ket.}
+{465}{}{Mondd, hogy az ott nem egy mutÃ¡ns!}
+{466}{}{Az a mutÃ¡ns extrÃ¡nak szÃ¡mÃ­t. Nem is kicsit.}
+{467}{}{HÅ±ha, mutÃ¡nsok New RenÃ³ban. Itt valami nem stimmel.}
+{468}{}{Az a mutÃ¡ns aztÃ¡n szÃ©p darab...}
+{469}{}{Az a mutÃ¡ns egy kÃ©zzel Ã¶sszeroppantana. Hmmmm...}
+{470}{}{MÃ©g nem is gondolkodtam, mennyit kÃ©rjek, ha egy mutÃ¡ns prÃ³bÃ¡lkozik.}
+{471}{}{HÃ©, Myron!}
+{472}{}{Myron! DrÃ¡gÃ¡m! Mikor jÃ¶ssz megint, Ã©s kedveskedsz nekem?}
 {473}{}{My-ron! Myyyyyyy-ron!}
-{474}{}{Myron, ki ez a jóképû barátod?}
-{475}{}{Mryon, drágám! Myron! Valami akcióra vágysz?}
-{476}{}{Juhéjj! Mryon!}
-{477}{}{Hiányoztál, Myron!}
-{478}{}{Olyan jóképû vagy, Myron! Bizony...}
-{479}{}{Mikor jössz hozzám újra, Myron?}
-{480}{}{Nem tudnál egy kis Jetet hozni, Myron?}
+{474}{}{Myron, ki ez a jÃ³kÃ©pÅ± barÃ¡tod?}
+{475}{}{Mryon, drÃ¡gÃ¡m! Myron! Valami akciÃ³ra vÃ¡gysz?}
+{476}{}{JuhÃ©jj! Mryon!}
+{477}{}{HiÃ¡nyoztÃ¡l, Myron!}
+{478}{}{Olyan jÃ³kÃ©pÅ± vagy, Myron! Bizony...}
+{479}{}{Mikor jÃ¶ssz hozzÃ¡m Ãºjra, Myron?}
+{480}{}{Nem tudnÃ¡l egy kis Jetet hozni, Myron?}
 {481}{}{Nem akarsz helyre rakni egy kis Jettel, Myron?}
 {482}{}{Meg tudsz reptetni, Mryon?}
-{483}{}{Engem Könnyû Esetnek hívnak. Hát téged?}
-{484}{}{Társaságra vágysz?}
-{485}{}{Hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{486}{}{Nem akarsz valakit, aki felmelegíti a sátradat?}
-{487}{}{Nem akarsz valakit, akivel megoszthatod a matracodat?}
-{488}{}{Látom jól el vagy látva, haver.}
-{489}{}{Milyen mérges kis gyíkod van!}
-{490}{}{Valami akcióra vágysz?}
-{491}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{492}{}{Randizni szeretnél?}
-{493}{}{Azt hallottam, volt egy kis balhé a Kereskedelmi Negyedben...}
+{483}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
+{484}{}{Nincs szÃ¼ksÃ©ged egy futÃ³ kalandra?}
+{485}{}{Hadd tanÃ­tsak egy-kÃ©t dolgot, amit csak nÅ‘ tanÃ­that.}
+{486}{}{Nincs szÃ¼ksÃ©ged valakire, aki felmelegÃ­ti a sÃ¡tradat?}
+{487}{}{Nincs szÃ¼ksÃ©ged valakire, akivel megoszthatnÃ¡d a matracodat?}
+{488}{}{LÃ¡tom jÃ³l el vagy lÃ¡tva, haver.}
+{489}{}{HÅ±, milyen mÃ©rges kis gyÃ­kod van!}
+{490}{}{Valami akciÃ³ra vÃ¡gysz?}
+{491}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{492}{}{Partnert keresel?}
+{493}{}{Azt hallottam, volt egy kis balhÃ© a Kereskedelmi Negyedben...}
 {494}{}{Csak nem partnert keresel?}
-{495}{}{Az egyetlen sport manapság Renóban a fedettpályás szájtépés.}
-{496}{}{Nincs kedved táncolni?}
-{497}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{498}{}{Nem hiszem el, mennyi sztriptíztáncos volt Feargus legénybúcsúján.}
-{499}{}{Idegen a városban... ha a szemem nem csal...}
-{500}{}{Be tudsz verni a farkaddal egy százas szöget a deszkába?}
-{501}{}{Nem akarsz repülni?}
-{502}{}{Már jó ideje nem láttam reddingi karavánokat errefelé.}
-{503}{}{Szép dákó!}
-{504}{}{Hadd vidítsalak fel, szomorú bohócom!}
-{505}{}{Eltévedtél, cowboy?}
-{506}{}{Nincs egy kitárazandó fegyvered, katona?}
-{507}{}{Ettõl a fickótól még az acél is megolvad.}
-{508}{}{A város tele van lébecolókkal, a pénz meg alig csurran-cseppen.}
-{509}{}{Tegnap óta koptatom az utcát.}
-{510}{}{Nincs szükséged egy esti partnerre? Vagy legalább tíz percre?}
-{511}{}{Szórakozni akarsz?}
-{512}{}{Csak nem a belvárosba mész?}
-{513}{}{Tetszik a gekkód!}
-{514}{}{Az egy gekkó a zsebedben?}
-{515}{}{Nem kell egy idegenvezetõ, édesem?}
-{516}{}{Hol van a tûz?}
-{517}{}{Gyermekem, hadd tegyelek férfivá!}
-{518}{}{Néha felbõszít, ahogy ebben a városban bánnak a nõkkel.}
-{519}{}{Nincs kedved velem üzekedõ halálkarmokat utánozni?}
-{520}{}{Ettõl a férfitõl elkezd ketyegni a Geiger számlálóm.}
-{521}{}{Ha utána beszélgetni is akarsz, extrának számít.}
-{522}{}{Bármi, amiben segíthetnék, idegen?}
-{523}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{524}{}{Az barátod a farokkal az orrában... nagggyon egyedi!}
-{525}{}{Az elõember barátod tud valami trükköt az orrával?}
-{526}{}{Lehet, hogy nekem is farkat kéne dugnom az orromba. Több nõi kuncsaftot vonzanék.}
-{527}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Te jószagúúú...}
-{528}{}{Nem akarom tudni, hogy az a farok hogy került annak a srácnak az orrába.}
-{529}{}{A farokorrú barátod is benne van az üzletben?}
-{530}{}{A farokorrú barátod mennyit kér?}
-{531}{}{Harminc dolcsiért a barátod orrában lévõ farkat is megnagyobbítom.}
-{532}{}{A farokorrú barátod ezzel próbál valamit elrejteni mások elõl?}
-{533}{}{Végre felszereltem a párnázott fejtámlát.}
-{534}{}{Az édenkert íze csak tíz dolcsi...}
-{535}{}{Myron egy jókora gyertya kanóc nélkül.}
-{536}{}{Myron egy igazi forgószél.}
+{495}{}{Az egyetlen sport manapsÃ¡g RenÃ³ban a fedettpÃ¡lyÃ¡s szÃ¡jtÃ©pÃ©s.}
+{496}{}{Nem akarsz tÃ¡ncolni?}
+{497}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{498}{}{Nem hiszem el, mennyi sztriptÃ­ztÃ¡ncos volt Feargus legÃ©nybÃºcsÃºjÃ¡n.}
+{499}{}{Idegen a vÃ¡rosban... ha a szemem nem csal...}
+{500}{}{Be tudsz verni a farkaddal egy szÃ¡zas szÃ¶get a deszkÃ¡ba?}
+{501}{}{Akarsz repÃ¼lni?}
+{502}{}{MÃ¡r jÃ³ ideje nem lÃ¡ttam reddingi karavÃ¡nokat errefelÃ©.}
+{503}{}{SzÃ©p dÃ¡kÃ³!}
+{504}{}{Hadd vidÃ­tsalak fel, szomorÃº bohÃ³com!}
+{505}{}{EltÃ©vedtÃ©l, cowboy?}
+{506}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, kiskatonÃ¡m?}
+{507}{}{EttÅ‘l a fickÃ³tÃ³l mÃ©g az acÃ©l is megolvad.}
+{508}{}{A vÃ¡ros tele van lÃ©becolÃ³kkal, a pÃ©nz meg alig csurran-cseppen.}
+{509}{}{Tegnap Ã³ta koptatom az utcÃ¡t.}
+{510}{}{Nincs szÃ¼ksÃ©ged egy esti partnerre? Vagy legalÃ¡bb tÃ­z percre?}
+{511}{}{SzÃ³rakozni vÃ¡gysz?}
+{512}{}{Csak nem a belvÃ¡rosba akarsz menni?}
+{513}{}{Tetszik a gekkÃ³d!}
+{514}{}{Az ott egy gekkÃ³ a zsebedben?}
+{515}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{516}{}{Hol van a tÅ±z?}
+{517}{}{Gyermekem, hadd tegyelek fÃ©rfivÃ¡!}
+{518}{}{NÃ©ha felbÅ‘szÃ­t, ahogy ebben a vÃ¡rosban bÃ¡nnak a nÅ‘kkel.}
+{519}{}{Nincs kedved velem Ã¼zekedÅ‘ halÃ¡lkarmokat utÃ¡nozni?}
+{520}{}{EttÅ‘l a fÃ©rfitÅ‘l ketyegni kezd a Geiger szÃ¡mlÃ¡lÃ³m.}
+{521}{}{Ha utÃ¡na beszÃ©lgetni is akarsz, extrÃ¡nak szÃ¡mÃ­t.}
+{522}{}{BÃ¡rmi, amiben segÃ­thetnÃ©k, idegen?}
+{523}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{524}{}{Az barÃ¡tod a farokkal az orrÃ¡ban... nagggyon egyedi!}
+{525}{}{Az elÅ‘ember barÃ¡tod tud valami trÃ¼kkÃ¶t az orrÃ¡val?}
+{526}{}{Lehet, hogy nekem is farkat kÃ©ne dugnom az orromba. TÃ¶bb nÅ‘i kuncsaftot vonzanÃ©k.}
+{527}{}{Annak a fickÃ³nak akkora a farok van az orrÃ¡ban, mint a karom. AtyaÃ©g...}
+{528}{}{Nem akarom tudni, hogy az a farok milyen mÃ³don kerÃ¼lt annak a srÃ¡cnak az orrÃ¡ba.}
+{529}{}{A farokorrÃº barÃ¡tod is benne van az Ã¼zletben?}
+{530}{}{A farokorrÃº barÃ¡tod mennyit kÃ©r?}
+{531}{}{Harminc dolcsiÃ©rt a barÃ¡tod orrÃ¡ban lÃ©vÅ‘ farkat is megnagyobbÃ­tom.}
+{532}{}{A farokorrÃº barÃ¡tod ezzel prÃ³bÃ¡l valamit elrejteni mÃ¡sok elÅ‘l?}
+{533}{}{VÃ©gÃ¼l is sikerÃ¼lt felszerelnem azt a pÃ¡rnÃ¡zott fejtÃ¡mlÃ¡t.}
+{534}{}{Az Ã©denkert Ã­ze csak tÃ­z dolcsi...}
+{535}{}{Myron egy jÃ³kora gyertya kanÃ³c nÃ©lkÃ¼l.}
+{536}{}{Myron egy igazi forgÃ³szÃ©l.}
 {537}{}{AC-DC, B n' D, egyre megy.}
-{538}{}{Mit vár el tõlem, hogy lehajoljak hozzá?}
-{539}{}{Elgondolkodtató, hogy Reno cégére le akar esni.}
-{540}{}{A Bishop lány egy lepedõvirtuóz.}
+{538}{}{Mit vÃ¡r el tÅ‘lem, hogy lehajoljak hozzÃ¡?}
+{539}{}{ElgondolkodtatÃ³, hogy Reno cÃ©gÃ©re le akar esni.}
+{540}{}{A Bishop lÃ¡ny egy lepedÅ‘virtuÃ³z.}
 {541}{}{She ain't no Jet addict, she's a BONE addict.}
-{542}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
-{543}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
-{544}{}{Szerelemre vágysz, kicsim?}
-{545}{}{Bárcsak Myron elköltözne a holdra.}
-{546}{}{Bármit megteszek érted... ha megfizeted.}
-{547}{}{Én menni készülök, édes. Nem jössz?}
-{548}{}{::Feléd fordulva fütyül valamit::}
-{549}{}{Utálom, amikor mindenestül be kell vennem.}
-{550}{}{Tégy fel mindent értem, drágám!}
-{551}{}{Szórakozni akarsz?}
-{552}{}{Hamisítatlan renói szerelmet kapsz tõlem.}
-{553}{}{Játszadozzunk már egyet!}
+{542}{}{Ãšgy hallottam, MenedÃ©kvÃ¡rosban csak kÃ©tfÃ©le PolgÃ¡r lÃ©tezik. Lehet, hogy valami klÃ³nozÃ¡si problÃ©mÃ¡tÃ³l van.}
+{543}{}{A mÃºlt Ã©jszaka olyan volt, mintha maratonit futottam volna.}
+{544}{}{Szerelemre vÃ¡gysz, kicsim?}
+{545}{}{BÃ¡rcsak Myron elkÃ¶ltÃ¶zne. JÃ³ messzire, ha lehet.}
+{546}{}{BÃ¡rmit megteszek Ã©rted... ha megfizeted.}
+{547}{}{Ã‰n menni kÃ©szÃ¼lÃ¶k, Ã©des. Nem jÃ¶ssz?}
+{548}{}{::FelÃ©d fordulva fÃ¼tyÃ¼l valamit::}
+{549}{}{UtÃ¡lom, amikor mindenestÃ¼l be kell vennem.}
+{550}{}{TÃ©gy fel mindent Ã©rtem, Ã©des!}
+{551}{}{SzÃ³rakozni vÃ¡gysz?}
+{552}{}{HamisÃ­tatlan renÃ³i szerelmet kapsz tÅ‘lem.}
+{553}{}{Ha akarod, eljÃ¡tszadozom veled.}
 {554}{}{Mocskos Spice vagyok.}
-{555}{}{Érintetlen Spice vagyok.}
+{555}{}{Ã‰rintetlen Spice vagyok.}
 {556}{}{Ribi Spice vagyok.}
 {557}{}{Old Spice vagyok.}
-{558}{}{Szifiliszes, illetve... Ribi Spice vagyok.}
+{558}{}{Szifiliszes, izÃ©... Ribi Spice vagyok.}
 {559}{}{Koszos Spice vagyok.}
-{560}{}{Kipróbálhatnánk együtt egy kis iszapbirkózást.}
-{561}{}{Van egy barátnõm is, ha esetleg duálban szereted.}
-{562}{}{Bárcsak Myron ratyi lenne.}
-{563}{}{Új hús a városban...}
-{564}{}{Fel nem tudom fogni, miért hívják ezt itt Szûz utcának...}
+{560}{}{KiprÃ³bÃ¡lhatnÃ¡nk egyÃ¼tt egy kis iszapbirkÃ³zÃ¡st.}
+{561}{}{Van egy barÃ¡tnÅ‘m is, ha esetleg duÃ¡lban szereted.}
+{562}{}{BÃ¡rcsak Myron ratyi lenne.}
+{563}{}{Ãšj hÃºs a vÃ¡rosban...}
+{564}{}{Fel nem tudom fogni, miÃ©rt hÃ­vjÃ¡k ezt itt SzÅ±z utcÃ¡nak...}
 {565}{}{I wish he'd wear a paper bag sometimes...}
-{566}{}{Nem hívsz meg egy csajszit valami italra?}
-{567}{}{Egy magányos hölgy kíséretre vágyik, nem jössz?}
-{568}{}{Mindjárt megáll az eszem! Egy turista!}
-{569}{}{Gyere közelebb, kedvesem, az elõadás mindjárt kezdõdik...}
-{570}{}{Azt mondják, a külvárosi lányok némelyike megölte a stricijét.}
-{571}{}{Hellóóóó, idegen.}
-{572}{}{Az a Jules jobban tenné, ha békénhagyna.}
-{573}{}{A fejtámlától még mindig tiszta sebes a fejem...}
-{574}{}{Még mindig kivagyok az utolsó összeröffenés után...}
-{575}{}{A indiánek igazán elmehetnének más városba.}
-{576}{}{Azt hittem, megmozdult a Föld, de csak erõs volt a chili.}
-{577}{}{Olvassz fel!}
-{578}{}{Fáradhatatlan az ürge, majd jól bekrepál a ketyegõje...}
-{579}{}{A neon búgása megõrjít...}
-{580}{}{Szûz vagyok, de már a tököm ki van vele.}
-{581}{}{Ha belegondolok, hogy ezért jöttem ide Rejtekbõl...}
-{582}{}{Hé, idegen! Nem kell egy idegenvezetõ?}
-{583}{}{Jules folyton potyázni akar.}
-{584}{}{Úgy hallottam, a családok közt újra feszültség van.}
-{585}{}{A dolgok elég belassultak. Bárcsak újra feltûnne az a karaván.}
-{586}{}{Szóval felölti a Halálkarom maskarát, aztán...}
-{587}{}{Segítség nélkül nem tudok kibújni ebbõl a ruhából.}
-{588}{}{Nem akarsz újra és újra feldobni?}
-{589}{}{Mmm-mmm. Eljött a párzási idõszak!}
-{590}{}{Nem akarsz velem tölteni egy kis idõt?}
-{591}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{592}{}{Nem véletlenül hívnak engem Fortuna kegyeltjének.}
-{593}{}{Csípem a brahmin-ízû óvszereket!}
-{594}{}{Nem akarsz egy hölgyet felvidítani?}
-{595}{}{Bárcsak kitalálnának valami szexuális placebót Myron számára!}
-{596}{}{Nem akarsz randizni, indián?}
-{597}{}{Rendezzünk egy orgiát, indián?}
-{598}{}{Nem akarsz esõtáncot járni a hálószobámban, indián?}
-{599}{}{Neked nem kell más, csak egy éjszaka velem.}
-{600}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{601}{}{Te adod a pénzt, én meg magamat.}
-{602}{}{Nem tudsz segíteni? Az elveszett szüzességemet keresem.}
-{603}{}{Szûz vagyok, de kell a pénz.}
-{604}{}{Légy gyengéd, ez lesz az elsõ... Ma...}
-{605}{}{Felizgultam, mint állat!}
-{606}{}{A kuncsaft tombol, Jules meg spórol.}
-{607}{}{Hadd ébresszem fel a benned szunnyadó gyermeket!}
-{608}{}{Nem akarsz táncolni, édes szívem?}
-{609}{}{Behajtani jöttél?}
-{610}{}{Nem akarod hallani, ahogy sóhajtozom?}
-{611}{}{::Doromboló hangot hallat::}
-{612}{}{::Rrrrroárrr::}
-{613}{}{::Dob egy csókot::}
-{614}{}{Múlt éjszaka óta fennvagyok...}
-{615}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{616}{}{A kötözés extrának számít.}
-{617}{}{Hol hagytam a korbácsomat?}
-{618}{}{Készen állok, mint egy péló.}
-{619}{}{Az eszem megáll! Múlt éjszaka VILMÁNAK kellett öltöznöm!}
-{620}{}{Az elmúlt éjjel Myronnal voltam. Öt kemény másodpercig.}
-{621}{}{Nem akarsz kitárazni?}
-{622}{}{Bárcsak kihoznának valami Jet-illatú testápolót...}
-{623}{}{Nem akarod elvenni a szüzességemet?}
-{624}{}{Myron gondoskodik róla, hogy szétmenjen a seggem.}
-{625}{}{A fene egye meg, az Önmegtartóztatók Szövetsége már megint nálunk terjeszti az igét...}
-{626}{}{::Fütyül::}
-{627}{}{A harapás extrának számít.}
-{628}{}{Garantálom, hogy jobb vagyok a PipBoy kiegészítõdnél.}
-{629}{}{Nem akarod, hogy meghúzzam a csavarjaidat?}
-{630}{}{De szívesen lennék most Avellone-nal!}
-{631}{}{Bárcsak Nick Kesting itt lenne. Órákig beszélgethetnénk a szerepjáték programozásról!}
-{632}{}{Nick Kesting jó fej fazon. Mindig is nagyokat beszélgettünk.}
-{633}{}{A Tökös Tomi olyan jóképû srác.}
-{634}{}{Nocsak, nocsak. Nézzenek oda, ki csöppent közénk...}
-{635}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{636}{}{Tégy fel mindent értem, drágám!}
-{637}{}{Engem Könnyû Esetnek hívnak, leányzó. Hát téged?}
-{638}{}{Hé, kicsim! Csak nem meguntad a hétköznapi nõket?}
-{639}{}{Csak nem felkeltette az érdeklõdésed a másik oldal, édesem?}
-{640}{}{Társaságra vágysz?}
-{641}{}{Kislány, hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{642}{}{Nem kell valaki, aki felmelegíti a sátrad, kislány?}
-{643}{}{Nem kell valaki, akivel megoszthatod a matracod, kislány?}
-{644}{}{Nem akarsz táncolni, kislány?}
-{645}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{646}{}{Kislány, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{647}{}{Nem akarsz repülni, kislány?}
-{648}{}{Eltévedtél, picinyem?}
-{649}{}{Nincs egy kitárazandó fegyvered, G.I. Jane?}
-{650}{}{Szórakozni vágysz, kislány?}
-{651}{}{Csak nem a belvárosba mész, leányzó?}
-{652}{}{Nem kell egy idegenvezetõ, édesem?}
-{653}{}{Hol van a tûz, kislány?}
-{654}{}{Ettõl a nõtõl beindul a Geiger számlálóm.}
-{655}{}{Engem Könnyû Esetnek hívnak. Hát téged?}
-{656}{}{Társaságra vágysz?}
-{657}{}{Hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{658}{}{Nem akarsz valakit, aki felmelegíti a sátradat?}
-{659}{}{Nem akarsz valakit, akivel megoszthatod a matracodat?}
-{660}{}{Látom jól el vagy látva, haver.}
-{661}{}{Milyen mérges kis gyíkod van!}
-{662}{}{Valami akcióra vágysz?}
-{663}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{664}{}{Randizni szeretnél?}
-{665}{}{Azt hallottam, volt egy kis balhé a Kereskedelmi Negyedben...}
+{566}{}{Nem hÃ­vsz meg egy csajszit valami italra?}
+{567}{}{Egy magÃ¡nyos hÃ¶lgy kÃ­sÃ©retre vÃ¡gyik!}
+{568}{}{MindjÃ¡rt berosÃ¡lok! Egy turista!}
+{569}{}{Gyere kÃ¶zelebb, az elÅ‘adÃ¡s mindjÃ¡rt kezdÅ‘dik...}
+{570}{}{Azt rebesgetik, a kÃ¼lvÃ¡rosi lÃ¡nyok nÃ©melyike megÃ¶lte a stricijÃ©t.}
+{571}{}{HellÃ³Ã³Ã³Ã³, idegen.}
+{572}{}{Az a Jules gyerek jobban tennÃ©, ha bÃ©kÃ©nhagyna.}
+{573}{}{A fejtÃ¡mlÃ¡tÃ³l mÃ©g mindig lila foltokkal van tele a fejem...}
+{574}{}{MÃ©g mindig kivagyok az utolsÃ³ Ã¶sszerÃ¶ffenÃ©s utÃ¡n...}
+{575}{}{A indiÃ¡nek igazÃ¡n elmehetnÃ©nek mÃ¡s vÃ¡rosba.}
+{576}{}{Azt hittem, megmozdult a FÃ¶ld, de csak erÅ‘s volt a chili.}
+{577}{}{Olvassz szÃ©t!}
+{578}{}{FÃ¡radhatatlan az Ã¼rge, majd jÃ³l bekrepÃ¡l a ketyegÅ‘je...}
+{579}{}{A neon bÃºgÃ¡sa megÅ‘rjÃ­t...}
+{580}{}{SzÅ±z vagyok, Ã©s mÃ¡r kezdem unni.}
+{581}{}{Ha belegondolok, hogy ezÃ©rt jÃ¶ttem ide RejtekbÅ‘l...}
+{582}{}{HÃ©, idegen! Nem kell egy idegenvezetÅ‘?}
+{583}{}{Jules folyton potyÃ¡zni akar.}
+{584}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g van.}
+{585}{}{A dolgok elÃ©g belassultak. BÃ¡rcsak Ãºjra feltÅ±nne az a karavÃ¡n.}
+{586}{}{SzÃ³val felÃ¶lti a HalÃ¡lkarom jelmezt, aztÃ¡n...}
+{587}{}{SegÃ­tsÃ©g nÃ©lkÃ¼l nem tudok kibÃºjni ebbÅ‘l a ruhÃ¡bÃ³l.}
+{588}{}{Nem akarsz Ãºjra Ã©s Ãºjra feldobni?}
+{589}{}{Mmm-mmm. EljÃ¶tt a pÃ¡rzÃ¡si idÅ‘szak.}
+{590}{}{Nem akarsz egy kis idÅ‘t eltÃ¶lteni velem?}
+{591}{}{MÃºlt hÃ©ten jÃ³l tÃ¶kÃ¶n rÃºgtam Jules-t.}
+{592}{}{Nem vÃ©letlenÃ¼l hÃ­vnak engem Fortuna kegyeltjÃ©nek.}
+{593}{}{CsÃ­pem a brahmin-Ã­zÅ± Ã³vszereket!}
+{594}{}{Nem akarsz egy hÃ¶lgyet felvidÃ­tani?}
+{595}{}{BÃ¡rcsak kitalÃ¡lnÃ¡nak valami szexuÃ¡lis placebÃ³t Myron szÃ¡mÃ¡ra!}
+{596}{}{Nem akarsz randizni, indiÃ¡n?}
+{597}{}{RendezzÃ¼nk egy orgiÃ¡t, indiÃ¡n?}
+{598}{}{Nem akarsz esÅ‘tÃ¡ncot jÃ¡rni a hÃ¡lÃ³szobÃ¡mban, indiÃ¡n?}
+{599}{}{Neked nem kell mÃ¡s, csak egy Ã©jszaka velem.}
+{600}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{601}{}{Te adod a pÃ©nzt, Ã©n meg magamat.}
+{602}{}{Nem tudsz segÃ­teni? Az elveszett szÅ±zessÃ©gemet keresem.}
+{603}{}{SzÅ±z vagyok, de kell a pÃ©nz.}
+{604}{}{LÃ©gy gyengÃ©d, ez lesz az elsÅ‘... Ma...}
+{605}{}{Felizgultam jÃ³l!}
+{606}{}{A kuncsaft tombol, Jules meg spÃ³rol.}
+{607}{}{Hadd Ã©bresszem fel a benned szunnyadÃ³ gyermeket!}
+{608}{}{Nem akarsz tÃ¡ncolni, kis szÃ­vem?}
+{609}{}{Behajtani jÃ¶ttÃ©l?}
+{610}{}{Nem akarod hallani, ahogy sÃ³hajtozom?}
+{611}{}{::DorombolÃ³ hangot hallat::}
+{612}{}{::RrrrroÃ¡rrr::}
+{613}{}{::Dob egy csÃ³kot::}
+{614}{}{MÃºlt Ã©jszaka Ã³ta fennvagyok...}
+{615}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{616}{}{A kÃ¶tÃ¶zÃ©s extrÃ¡nak szÃ¡mÃ­t.}
+{617}{}{Hova tettem a korbÃ¡csomat?}
+{618}{}{KÃ©szen Ã¡llok, mint a pÃ©lÃ³.}
+{619}{}{Az eszem megÃ¡ll! MÃºlt Ã©jszaka VILMÃNAK kellett Ã¶ltÃ¶znÃ¶m!}
+{620}{}{Az elmÃºlt Ã©jjel Myronnal voltam. Ã–t egÃ©sz mÃ¡sodpercig.}
+{621}{}{Nem akarsz kitÃ¡razni?}
+{622}{}{BÃ¡rcsak kihoznÃ¡nak valami Jet-illatÃº testÃ¡polÃ³t...}
+{623}{}{Nem akarod elvenni a szÃ¼zessÃ©gemet?}
+{624}{}{Myron gondoskodik rÃ³la, hogy szÃ©tmenjen a seggem.}
+{625}{}{A fene egye meg, az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge mÃ¡r megint nÃ¡lunk terjeszti az igÃ©t...}
+{626}{}{::FÃ¼tyÃ¼l::}
+{627}{}{A harapÃ¡s extrÃ¡nak szÃ¡mÃ­t.}
+{628}{}{GarantÃ¡lom, hogy jobb vagyok a PipBoy kiegÃ©szÃ­tÅ‘dnÃ©l.}
+{629}{}{Nem akarod, hogy meghÃºzzam a csavarjaidat?}
+{630}{}{De szÃ­vesen lennÃ©k most Avellone-nal!}
+{631}{}{BÃ¡rcsak Nick Kesting itt lenne. Ã“rÃ¡kig beszÃ©lgethetnÃ©nk a szerepjÃ¡tÃ©k programozÃ¡srÃ³l!}
+{632}{}{Nick Kesting jÃ³ fej fazon. Mindig is nagyokat beszÃ©lgettÃ¼nk.}
+{633}{}{A TÃ¶kÃ¶s Tomi olyan jÃ³kÃ©pÅ± srÃ¡c.}
+{634}{}{Nocsak, nocsak. NÃ©zzenek oda, ki csÃ¶ppent kÃ¶zÃ©nk...}
+{635}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{636}{}{TÃ©gy fel mindent Ã©rtem, Ã©des!}
+{637}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
+{638}{}{HÃ©, csinibaba! Csak nem meguntad a hÃ©tkÃ¶znapi nÅ‘ket?}
+{639}{}{Csak nem felkeltette az Ã©rdeklÅ‘dÃ©sed a mÃ¡sik oldal, Ã©desem?}
+{640}{}{Nincs szÃ¼ksÃ©ged egy futÃ³ kalandra?}
+{641}{}{KislÃ¡ny, hadd tanÃ­tsak valamit, amit csak egy nÅ‘ tanÃ­that!}
+{642}{}{Nem kell valaki, aki felmelegÃ­ti a sÃ¡trad, kislÃ¡ny?}
+{643}{}{Nem kell valaki, akivel megoszthatod a matracod, kislÃ¡ny?}
+{644}{}{Nem tÃ¡ncolsz, bÃ©bi?}
+{645}{}{Felejtsd el a pÃ©nzbedobÃ³s automatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzem.}
+{646}{}{KislÃ¡ny, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{647}{}{RepÃ¼lhetnÃ©ked van, kislÃ¡ny?}
+{648}{}{EltÃ©vedtÃ©l, picinyem?}
+{649}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, G.I. Jane?}
+{650}{}{SzÃ³rakozni vÃ¡gysz, kislÃ¡ny?}
+{651}{}{Csak nem a belvÃ¡rosba mÃ©sz, leÃ¡nyzÃ³?}
+{652}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{653}{}{Hol van a tÅ±z, kislÃ¡ny?}
+{654}{}{EttÅ‘l a nÅ‘tÅ‘l beindul a Geiger szÃ¡mlÃ¡lÃ³m.}
+{655}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
+{656}{}{Nincs szÃ¼ksÃ©ged egy futÃ³ kalandra?}
+{657}{}{Hadd tanÃ­tsak egy-kÃ©t dolgot, amit csak nÅ‘ tanÃ­that.}
+{658}{}{Nincs szÃ¼ksÃ©ged valakire, aki felmelegÃ­ti a sÃ¡tradat?}
+{659}{}{Nincs szÃ¼ksÃ©ged valakire, akivel megoszthatnÃ¡d a matracodat?}
+{660}{}{LÃ¡tom jÃ³l el vagy lÃ¡tva, haver.}
+{661}{}{HÅ±, milyen mÃ©rges kis gyÃ­kod van!}
+{662}{}{Valami akciÃ³ra vÃ¡gysz?}
+{663}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{664}{}{Partnert keresel?}
+{665}{}{Azt hallottam, volt egy kis balhÃ© a Kereskedelmi Negyedben...}
 {666}{}{Csak nem partnert keresel?}
-{667}{}{Az egyetlen sport manapság Renóban a fedettpályás szájtépés.}
-{668}{}{Nincs kedved táncolni?}
-{669}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{670}{}{Nem hiszem el, mennyi sztriptíztáncos volt Feargus legénybúcsúján.}
-{671}{}{Idegen a városban... ha a szemem nem csal...}
-{672}{}{Be tudsz verni a farkaddal egy százas szöget a deszkába?}
-{673}{}{Nem akarsz repülni?}
-{674}{}{Már jó ideje nem láttam reddingi karavánokat errefelé.}
-{675}{}{Szép dákó!}
-{676}{}{Hadd vidítsalak fel, szomorú bohócom!}
-{677}{}{Eltévedtél, cowboy?}
-{678}{}{Nincs egy kitárazandó fegyvered, katona?}
-{679}{}{Ettõl a fickótól még az acél is megolvad.}
-{680}{}{A város tele van lébecolókkal, a pénz meg alig csurran-cseppen.}
-{681}{}{Múlt éjszaka óta az utcát járom...}
-{682}{}{Nincs szükséged egy esti partnerre? Vagy legalább tíz percre?}
-{683}{}{Szórakozni akarsz?}
-{684}{}{Csak nem a belvárosba mész?}
-{685}{}{Tetszik a gekkód!}
-{686}{}{Az egy gekkó a zsebedben?}
-{687}{}{Nem kell egy idegenvezetõ, édesem?}
-{688}{}{Hol van a tûz?}
-{689}{}{Gyermekem, hadd tegyelek férfivá!}
+{667}{}{Az egyetlen sport manapsÃ¡g RenÃ³ban a fedettpÃ¡lyÃ¡s szÃ¡jtÃ©pÃ©s.}
+{668}{}{Nem akarsz tÃ¡ncolni?}
+{669}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{670}{}{Nem hiszem el, mennyi sztriptÃ­ztÃ¡ncos volt Feargus legÃ©nybÃºcsÃºjÃ¡n.}
+{671}{}{Idegen a vÃ¡rosban... ha a szemem nem csal...}
+{672}{}{Be tudsz verni a farkaddal egy szÃ¡zas szÃ¶get a deszkÃ¡ba?}
+{673}{}{Akarsz repÃ¼lni?}
+{674}{}{MÃ¡r jÃ³ ideje nem lÃ¡ttam reddingi karavÃ¡nokat errefelÃ©.}
+{675}{}{SzÃ©p dÃ¡kÃ³!}
+{676}{}{Hadd vidÃ­tsalak fel, szomorÃº bohÃ³com!}
+{677}{}{EltÃ©vedtÃ©l, cowboy?}
+{678}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, kiskatonÃ¡m?}
+{679}{}{EttÅ‘l a fickÃ³tÃ³l mÃ©g az acÃ©l is megolvad.}
+{680}{}{A vÃ¡ros tele van lÃ©becolÃ³kkal, a pÃ©nz meg alig csurran-cseppen.}
+{681}{}{Tegnap Ã³ta koptatom az utcÃ¡t.}
+{682}{}{Nincs szÃ¼ksÃ©ged egy esti partnerre? Vagy legalÃ¡bb tÃ­z percre?}
+{683}{}{SzÃ³rakozni vÃ¡gysz?}
+{684}{}{Csak nem a belvÃ¡rosba akarsz menni?}
+{685}{}{Tetszik a gekkÃ³d!}
+{686}{}{Az ott egy gekkÃ³ a zsebedben?}
+{687}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{688}{}{Hol van a tÅ±z?}
+{689}{}{Gyermekem, hadd tegyelek fÃ©rfivÃ¡!}
 {690}{}{Mmmmm-mmmmm.}
-{691}{}{Nincs kedved velem üzekedõ halálkarmokat utánozni?}
-{692}{}{Ettõl a férfitõl elkezd ketyegni a Geiger számlálóm.}
-{693}{}{Ha utána beszélgetni is akarsz, extrának számít.}
-{694}{}{Bármi, amiben segíthetnék, idegen?}
-{695}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{696}{}{Végre felszereltem a párnázott fejtámlát.}
-{697}{}{Az édenkert íze csak tíz dolcsi...}
-{698}{}{Myron egy jókora gyertya kanóc nélkül.}
-{699}{}{Myron egy igazi forgószél.}
+{691}{}{Nincs kedved velem Ã¼zekedÅ‘ halÃ¡lkarmokat utÃ¡nozni?}
+{692}{}{EttÅ‘l a fÃ©rfitÅ‘l ketyegni kezd a Geiger szÃ¡mlÃ¡lÃ³m.}
+{693}{}{Ha utÃ¡na beszÃ©lgetni is akarsz, extrÃ¡nak szÃ¡mÃ­t.}
+{694}{}{BÃ¡rmi, amiben segÃ­thetnÃ©k, idegen?}
+{695}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{696}{}{VÃ©gÃ¼l is sikerÃ¼lt felszerelnem azt a pÃ¡rnÃ¡zott fejtÃ¡mlÃ¡t.}
+{697}{}{Az Ã©den Ã­ze csak tÃ­z dolcsiba kerÃ¼l.}
+{698}{}{Myron egy jÃ³kora gyertya kanÃ³c nÃ©lkÃ¼l.}
+{699}{}{Myron egy igazi forgÃ³szÃ©l.}
 {700}{}{AC-DC, B n' D, egyre megy.}
-{701}{}{Mit vár el tõlem, hogy lehajoljak hozzá?}
-{702}{}{Elgondolkodtató, hogy Reno cégére le akar esni.}
-{703}{}{A Bishop lány egy lepedõvirtuóz.}
+{701}{}{Mit vÃ¡r el tÅ‘lem, hogy lehajoljak hozzÃ¡?}
+{702}{}{ElgondolkodtatÃ³, hogy Reno cÃ©gÃ©re le akar esni.}
+{703}{}{A Bishop lÃ¡ny egy lepedÅ‘virtuÃ³z.}
 {704}{}{She ain't no Jet addict, she's a BONE addict.}
-{705}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
-{706}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
-{707}{}{Szerelemre vágysz, kicsim?}
-{708}{}{Bárcsak Myron elköltözne a holdra.}
-{709}{}{Bármit megteszek érted... ha megfizeted.}
-{710}{}{Én menni készülök, édes. Nem jössz?}
-{711}{}{::Feléd fordulva fütyül valamit::}
-{712}{}{Utálom, amikor mindenestül be kell vennem.}
-{713}{}{Tégy fel mindent értem, drágám!}
-{714}{}{Szórakozni akarsz?}
-{715}{}{Hamisítatlan renói szerelmet kapsz tõlem.}
-{716}{}{Játszadozzunk már egyet!}
+{705}{}{Ãšgy hallottam, MenedÃ©kvÃ¡rosban csak kÃ©tfÃ©le PolgÃ¡r lÃ©tezik. Lehet, hogy valami klÃ³nozÃ¡si problÃ©mÃ¡tÃ³l van.}
+{706}{}{A mÃºlt Ã©jszaka olyan volt, mintha maratonit futottam volna.}
+{707}{}{Szerelemre vÃ¡gysz, kicsim?}
+{708}{}{BÃ¡rcsak Myron elkÃ¶ltÃ¶zne. JÃ³ messzire, ha lehet.}
+{709}{}{BÃ¡rmit megteszek Ã©rted... ha megfizeted.}
+{710}{}{Ã‰n menni kÃ©szÃ¼lÃ¶k, Ã©des. Nem jÃ¶ssz?}
+{711}{}{::FelÃ©d fordulva fÃ¼tyÃ¼l valamit::}
+{712}{}{UtÃ¡lom, amikor mindenestÃ¼l be kell vennem.}
+{713}{}{TÃ©gy fel mindent Ã©rtem, Ã©des!}
+{714}{}{SzÃ³rakozni vÃ¡gysz?}
+{715}{}{HamisÃ­tatlan renÃ³i szerelmet kapsz tÅ‘lem.}
+{716}{}{Ha akarod, eljÃ¡tszadozom veled.}
 {717}{}{Mocskos Spice vagyok.}
-{718}{}{Érintetlen Spice vagyok.}
+{718}{}{Ã‰rintetlen Spice vagyok.}
 {719}{}{Ribi Spice vagyok.}
 {720}{}{Old Spice vagyok.}
-{721}{}{Szifiliszes, illetve... Ribi Spice vagyok.}
+{721}{}{Szifiliszes, izÃ©... Ribi Spice vagyok.}
 {722}{}{Koszos Spice vagyok.}
-{723}{}{Kipróbálhatnánk együtt egy kis iszapbirkózást.}
-{724}{}{Van egy barátnõm is, ha esetleg duálban szereted.}
-{725}{}{Bárcsak Myron ratyi lenne.}
-{726}{}{Új hús a városban...}
-{727}{}{Fel nem tudom fogni, miért hívják ezt itt Szûz utcának...}
+{723}{}{KiprÃ³bÃ¡lhatnÃ¡nk egyÃ¼tt egy kis iszapbirkÃ³zÃ¡st.}
+{724}{}{Van egy barÃ¡tnÅ‘m is, ha esetleg duÃ¡lban szereted.}
+{725}{}{BÃ¡rcsak Myron ratyi lenne.}
+{726}{}{Ãšj hÃºs a vÃ¡rosban...}
+{727}{}{Fel nem tudom fogni, miÃ©rt hÃ­vjÃ¡k ezt itt SzÅ±z utcÃ¡nak...}
 {728}{}{I wish he'd wear a paper bag sometimes...}
-{729}{}{Nem hívsz meg egy csajszit valami italra?}
-{730}{}{Egy magányos hölgy kíséretre vágyik, nem jössz?}
-{731}{}{Mindjárt megáll az eszem! Egy turista!}
-{732}{}{Gyere közelebb, kedvesem, az elõadás mindjárt kezdõdik...}
-{733}{}{Azt mondják, a külvárosi lányok némelyike megölte a stricijét.}
-{734}{}{Hellóóóó, idegen!}
-{735}{}{Az a Jules jobban tenné, ha békénhagyna.}
-{736}{}{A fejtámlától még mindig tiszta sebes a fejem...}
-{737}{}{Még mindig kivagyok az utolsó összeröffenés után...}
-{738}{}{A indiánek távoltarthatnák magukat innen.}
-{739}{}{Azt hittem, megmozdult a Föld, de csak erõs volt a chili.}
-{740}{}{Olvassz fel!}
-{741}{}{Fáradhatatlan az ürge, majd jól bekrepál a ketyegõje...}
-{742}{}{A neon búgása megõrjít...}
-{743}{}{Szûz vagyok, de már a tököm ki van vele.}
-{744}{}{Ha belegondolok, hogy ezért jöttem ide Rejtekbõl...}
-{745}{}{Hé, idegen! Nem kell egy idegenvezetõ?}
-{746}{}{Jules folyton potyázni akar.}
-{747}{}{Úgy hallottam, a családok közt újra feszültség van.}
-{748}{}{A dolgok elég belassultak. Bárcsak újra feltûnne az a karaván.}
-{749}{}{Szóval felölti a Halálkarom maskarát, aztán...}
-{750}{}{Segítség nélkül nem tudok kibújni ebbõl a ruhából.}
-{751}{}{Nem akarsz újra és újra feldobni?}
-{752}{}{Mmm-mmm. Eljött a párzási idõszak!}
-{753}{}{Nem akarsz velem tölteni egy kis idõt?}
-{754}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{755}{}{Nem véletlenül hívnak engem Fortuna kegyeltjének.}
-{756}{}{Csípem a brahmin-ízû óvszereket!}
-{757}{}{Nem akarsz egy hölgyet felvidítani?}
-{758}{}{Bárcsak kitalálnának valami szexuális placebót Myron számára!}
-{759}{}{Nem akarsz randizni, indián?}
-{760}{}{Rendezzünk egy orgiát, indián?}
-{761}{}{Nem akarsz esõtáncot járni a hálószobámban, indián?}
-{762}{}{Neked nem kell más, csak egy éjszaka velem.}
-{763}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{764}{}{Te adod a pénzt, én meg magamat.}
-{765}{}{Nem tudsz segíteni? Az elveszett szüzességemet keresem.}
-{766}{}{Szûz vagyok, de kell a pénz.}
-{767}{}{Légy gyengéd, ez lesz az elsõ... Ma...}
-{768}{}{Felizgultam, mint állat!}
-{769}{}{A kuncsaft tombol, Jules meg spórol.}
-{770}{}{Hadd ébresszem fel a benned szunnyadó gyermeket!}
-{771}{}{Nem akarsz táncolni, édes szívem?}
-{772}{}{Behajtani jöttél?}
-{773}{}{Nem akarod hallani, ahogy sóhajtozom?}
-{774}{}{::Doromboló hangot hallat::}
-{775}{}{::Rrrrroárrr::}
-{776}{}{::Dob egy csókot::}
-{777}{}{Múlt éjszaka óta fennvagyok...}
-{778}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{779}{}{A kötözés extrának számít.}
-{780}{}{Hol hagytam a korbácsomat?}
-{781}{}{Készen állok, mint egy péló.}
-{782}{}{Az eszem megáll! Múlt éjszaka VILMÁNAK kellett öltöznöm!}
-{783}{}{Az elmúlt éjjel Myronnal voltam. Öt kemény másodpercig.}
-{784}{}{Nem akarsz kitárazni?}
-{785}{}{Bárcsak kihoznának valami Jet-illatú testápolót...}
-{786}{}{Nem akarod elvenni a szüzességemet?}
-{787}{}{Myron gondoskodik róla, hogy szétmenjen a seggem.}
-{788}{}{A fene egye meg, az Önmegtartóztatók Szövetsége már megint nálunk terjeszti az igét...}
-{789}{}{::Fütyül::}
-{790}{}{A harapás extrának számít.}
-{791}{}{Garantálom, hogy jobb vagyok a PipBoy kiegészítõdnél.}
-{792}{}{Nem akarod, hogy meghúzzam a csavarjaidat?}
-{793}{}{De szívesen lennék most Avellone-nal!}
-{794}{}{Bárcsak Nick Kesting itt lenne. Órákig beszélgethetnénk a szerepjáték programozásról!}
-{795}{}{Nick Kesting jó fej fazon. Mindig is nagyokat beszélgettünk.}
-{796}{}{A Tökös Tomi olyan jóképû srác.}
-{797}{}{Nocsak, nocsak. Nézzenek oda, ki csöppent közénk...}
-{798}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{799}{}{Tégy fel mindent értem, drágám!}
-{800}{}{Engem Könnyû Esetnek hívnak, leányzó. Hát téged?}
-{801}{}{Hé, kicsim! Csak nem meguntad a hétköznapi nõket?}
-{802}{}{Csak nem felkeltette az érdeklõdésed a másik oldal, édesem?}
-{803}{}{Társaságra vágysz?}
-{804}{}{Kislány, hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{805}{}{Nem kell valaki, aki felmelegíti a sátrad, kislány?}
-{806}{}{Nem kell valaki, akivel megoszthatod a matracod, kislány?}
-{807}{}{Nem akarsz táncolni, kislány?}
-{808}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{809}{}{Kislány, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{810}{}{Nem akarsz repülni, kislány?}
-{811}{}{Eltévedtél, picinyem?}
-{812}{}{Nincs egy kitárazandó fegyvered, G.I. Jane?}
-{813}{}{Szórakozni vágysz, kislány?}
-{814}{}{Csak nem a belvárosba mész, leányzó?}
-{815}{}{Nem kell egy idegenvezetõ, édesem?}
-{816}{}{Hol van a tûz, kislány?}
-{817}{}{Ettõl a nõtõl beindul a Geiger számlálóm.}
-{818}{}{Enklávé? Elnök? Meséld már el elölrõl!}
-{819}{}{Engem Tom French szkriptelt. Puha, gyengéd keze van a srácnak.}
-{820}{}{Ezek még mindig háborúztak? Nem kamuzol? Hát örülök, hogy hidegre tetted õket.}
-{821}{}{Te aztán nem vagy semmi! Na, csak azért mondom, mert egy volt lándzsarázó indián - már elnézést a kifejezésért - megmentette a világot. Hihetetlen, elképesztõ!}
-{822}{}{Egy másik karakterrel újra végig kéne játszanod a játékot!}
-{823}{}{Mondj el mindent az Enklávéval vívott harcról...}
-{824}{}{Hé, ha a világ megmentése után akarsz egy potya menetet, biztos vagyok benne, hogy rá tudsz venni...}
-{825}{}{Nem tudom, hogy élted túl a gyökér Enklávésokat, de elmondhatom, te vagy a legbátrabb ember, akit valaha láttam.}
-{826}{}{Tim Cain? Törzsvendég a lelkem.}
-{827}{}{Csókolj meg, te kis Enklávé-irtó állat!}
-{828}{}{Azt mondják, a Testvérek várnak téged. Filmet akarnak forgatni a kalandjaidból.}
-{829}{}{Hiányzik Tim Cain. Csodás cipókat sütött régen. Aztán elfenekelt bennünket, mint a gyerekeket.}
-{830}{}{Végül is rájöttem, hogy csak egy NJK vagyok. Nagyon bánt, ahogy New Renóban bemutatják a nõket.}
-{831}{}{Az itteni nõk karaktereit egy éretlen, szex-éhes tacskó tervezte, aki még mindig a szüleinél lakik.}
-{832}{}{New Renót Chris Avellone és Tom French tervezte. Mindketten SZEXISTENEK!}
-{833}{}{Feargus kissé összehúzta a szemöldökét, amikor meglátta, mennyi felúszó szövegem van. Az a fickó olyan fapofa. Egyébként Bassman is ki volt akadva.}
+{729}{}{Nem hÃ­vsz meg egy csajszit valami italra?}
+{730}{}{Egy magÃ¡nyos hÃ¶lgy kÃ­sÃ©retre vÃ¡gyik!}
+{731}{}{MindjÃ¡rt berosÃ¡lok! Egy turista!}
+{732}{}{Gyere kÃ¶zelebb, az elÅ‘adÃ¡s mindjÃ¡rt kezdÅ‘dik...}
+{733}{}{Azt rebesgetik, a kÃ¼lvÃ¡rosi lÃ¡nyok nÃ©melyike megÃ¶lte a stricijÃ©t.}
+{734}{}{HellÃ³Ã³Ã³Ã³Ã³, idegen!}
+{735}{}{Az a Jules gyerek jobban tennÃ©, ha bÃ©kÃ©nhagyna.}
+{736}{}{A fejtÃ¡mlÃ¡tÃ³l mÃ©g mindig lila foltokkal van tele a fejem...}
+{737}{}{MÃ©g mindig kivagyok az utolsÃ³ Ã¶sszerÃ¶ffenÃ©s utÃ¡n...}
+{738}{}{A indiÃ¡nek tÃ¡voltarthatnÃ¡k magukat innen.}
+{739}{}{Azt hittem, megmozdult a FÃ¶ld, de csak erÅ‘s volt a chili.}
+{740}{}{Olvassz szÃ©t!}
+{741}{}{FÃ¡radhatatlan az Ã¼rge, majd jÃ³l bekrepÃ¡l a ketyegÅ‘je...}
+{742}{}{A neon bÃºgÃ¡sa megÅ‘rjÃ­t...}
+{743}{}{SzÅ±z vagyok, Ã©s mÃ¡r kezdem unni.}
+{744}{}{Ha belegondolok, hogy ezÃ©rt jÃ¶ttem ide RejtekbÅ‘l...}
+{745}{}{HÃ©, idegen! Nem kell egy idegenvezetÅ‘?}
+{746}{}{Jules folyton potyÃ¡zni akar.}
+{747}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g van.}
+{748}{}{A dolgok elÃ©g belassultak. BÃ¡rcsak Ãºjra feltÅ±nne az a karavÃ¡n.}
+{749}{}{SzÃ³val felÃ¶lti a HalÃ¡lkarom jelmezt, aztÃ¡n...}
+{750}{}{SegÃ­tsÃ©g nÃ©lkÃ¼l nem tudok kibÃºjni ebbÅ‘l a ruhÃ¡bÃ³l.}
+{751}{}{Nem akarsz Ãºjra Ã©s Ãºjra feldobni?}
+{752}{}{Mmm-mmm. EljÃ¶tt a pÃ¡rzÃ¡si idÅ‘szak.}
+{753}{}{Nem akarsz egy kis idÅ‘t eltÃ¶lteni velem?}
+{754}{}{MÃºlt hÃ©ten jÃ³l tÃ¶kÃ¶n rÃºgtam Jules-t.}
+{755}{}{Nem vÃ©letlenÃ¼l hÃ­vnak engem Fortuna kegyeltjÃ©nek.}
+{756}{}{CsÃ­pem a brahmin-Ã­zÅ± Ã³vszereket!}
+{757}{}{Nem akarsz egy hÃ¶lgyet felvidÃ­tani?}
+{758}{}{BÃ¡rcsak kitalÃ¡lnÃ¡nak valami szexuÃ¡lis placebÃ³t Myron szÃ¡mÃ¡ra!}
+{759}{}{Nem akarsz randizni, indiÃ¡n?}
+{760}{}{RendezzÃ¼nk egy orgiÃ¡t, indiÃ¡n?}
+{761}{}{Nem akarsz esÅ‘tÃ¡ncot jÃ¡rni a hÃ¡lÃ³szobÃ¡mban, indiÃ¡n?}
+{762}{}{Neked nem kell mÃ¡s, csak egy Ã©jszaka velem.}
+{763}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{764}{}{Te adod a pÃ©nzt, Ã©n meg magamat.}
+{765}{}{Nem tudsz segÃ­teni? Az elveszett szÅ±zessÃ©gemet keresem.}
+{766}{}{SzÅ±z vagyok, de kell a pÃ©nz.}
+{767}{}{LÃ©gy gyengÃ©d, ez lesz az elsÅ‘... Ma...}
+{768}{}{Felizgultam jÃ³l!}
+{769}{}{A kuncsaft tombol, Jules meg spÃ³rol.}
+{770}{}{Hadd Ã©bresszem fel a benned szunnyadÃ³ gyermeket!}
+{771}{}{Nem akarsz tÃ¡ncolni, kis szÃ­vem?}
+{772}{}{Behajtani jÃ¶ttÃ©l?}
+{773}{}{Nem akarod hallani, ahogy sÃ³hajtozom?}
+{774}{}{::DorombolÃ³ hangot hallat::}
+{775}{}{::RrrrroÃ¡rrr::}
+{776}{}{::Dob egy csÃ³kot::}
+{777}{}{MÃºlt Ã©jszaka Ã³ta fennvagyok...}
+{778}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{779}{}{A kÃ¶tÃ¶zÃ©s extrÃ¡nak szÃ¡mÃ­t.}
+{780}{}{Hova tettem a korbÃ¡csomat?}
+{781}{}{KÃ©szen Ã¡llok, mint a pÃ©lÃ³.}
+{782}{}{Az eszem megÃ¡ll! MÃºlt Ã©jszaka VILMÃNAK kellett Ã¶ltÃ¶znÃ¶m!}
+{783}{}{Az elmÃºlt Ã©jjel Myronnal voltam. Ã–t egÃ©sz mÃ¡sodpercig.}
+{784}{}{Nem akarsz kitÃ¡razni?}
+{785}{}{BÃ¡rcsak kihoznÃ¡nak valami Jet-illatÃº testÃ¡polÃ³t...}
+{786}{}{Nem akarod elvenni a szÃ¼zessÃ©gemet?}
+{787}{}{Myron gondoskodik rÃ³la, hogy szÃ©tmenjen a seggem.}
+{788}{}{A fene egye meg, az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge mÃ¡r megint nÃ¡lunk terjeszti az igÃ©t...}
+{789}{}{::FÃ¼tyÃ¼l::}
+{790}{}{A harapÃ¡s extrÃ¡nak szÃ¡mÃ­t.}
+{791}{}{GarantÃ¡lom, hogy jobb vagyok a PipBoy kiegÃ©szÃ­tÅ‘dnÃ©l.}
+{792}{}{Nem akarod, hogy meghÃºzzam a csavarjaidat?}
+{793}{}{De szÃ­vesen lennÃ©k most Avellone-nal!}
+{794}{}{BÃ¡rcsak Nick Kesting itt lenne. Ã“rÃ¡kig beszÃ©lgethetnÃ©nk a szerepjÃ¡tÃ©k programozÃ¡srÃ³l!}
+{795}{}{Nick Kesting jÃ³ fej fazon. Mindig is nagyokat beszÃ©lgettÃ¼nk.}
+{796}{}{A TÃ¶kÃ¶s Tomi olyan jÃ³kÃ©pÅ± srÃ¡c.}
+{797}{}{Nocsak, nocsak. NÃ©zzenek oda, ki csÃ¶ppent kÃ¶zÃ©nk...}
+{798}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{799}{}{TÃ©gy fel mindent Ã©rtem, Ã©des!}
+{800}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
+{801}{}{HÃ©, csinibaba! Csak nem meguntad a hÃ©tkÃ¶znapi nÅ‘ket?}
+{802}{}{Csak nem felkeltette az Ã©rdeklÅ‘dÃ©sed a mÃ¡sik oldal, Ã©desem?}
+{803}{}{Nincs szÃ¼ksÃ©ged egy futÃ³ kalandra?}
+{804}{}{KislÃ¡ny, hadd tanÃ­tsak valamit, amit csak egy nÅ‘ tanÃ­that!}
+{805}{}{Nem kell valaki, aki felmelegÃ­ti a sÃ¡trad, kislÃ¡ny?}
+{806}{}{Nem kell valaki, akivel megoszthatod a matracod, kislÃ¡ny?}
+{807}{}{Nem tÃ¡ncolsz, bÃ©bi?}
+{808}{}{Felejtsd el a pÃ©nzbedobÃ³s automatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzem.}
+{809}{}{KislÃ¡ny, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{810}{}{RepÃ¼lhetnÃ©ked van, kislÃ¡ny?}
+{811}{}{EltÃ©vedtÃ©l, picinyem?}
+{812}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, G.I. Jane?}
+{813}{}{SzÃ³rakozni vÃ¡gysz, kislÃ¡ny?}
+{814}{}{Csak nem a belvÃ¡rosba mÃ©sz, leÃ¡nyzÃ³?}
+{815}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{816}{}{Hol van a tÅ±z, kislÃ¡ny?}
+{817}{}{EttÅ‘l a nÅ‘tÅ‘l beindul a Geiger szÃ¡mlÃ¡lÃ³m.}
+{818}{}{EnklÃ¡vÃ©? ElnÃ¶k? MesÃ©ld mÃ¡r el elÃ¶lrÅ‘l!}
+{819}{}{Engem Tom French szkriptelt. Puha, gyengÃ©d keze van a srÃ¡cnak.}
+{820}{}{Ezek mÃ©g mindig hÃ¡borÃºztak? Nem kamuzol? HÃ¡t Ã¶rÃ¼lÃ¶k, hogy hidegre tetted Å‘ket.}
+{821}{}{Te aztÃ¡n nem vagy semmi! Na, csak azÃ©rt mondom, mert egy volt lÃ¡ndzsarÃ¡zÃ³ indiÃ¡n - mÃ¡r elnÃ©zÃ©st a kifejezÃ©sÃ©rt - megmentette a vilÃ¡got. Hihetetlen, elkÃ©pesztÅ‘!}
+{822}{}{Egy mÃ¡sik karakterrel Ãºjra vÃ©gig kÃ©ne jÃ¡tszanod a jÃ¡tÃ©kot!}
+{823}{}{Mondj el mindent az EnklÃ¡vÃ©val vÃ­vott harcrÃ³l...}
+{824}{}{HÃ©, ha a vilÃ¡g megmentÃ©se utÃ¡n akarsz egy potya menetet, biztos vagyok benne, hogy rÃ¡ tudsz venni...}
+{825}{}{Nem tudom, hogy Ã©lted tÃºl a gyÃ¶kÃ©r EnklÃ¡vÃ©sokat, de elmondhatom, te vagy a legbÃ¡trabb ember, akit valaha lÃ¡ttam.}
+{826}{}{Tim Cain? TÃ¶rzsvendÃ©g a lelkem.}
+{827}{}{CsÃ³kolj meg, te kis EnklÃ¡vÃ©-irtÃ³ Ã¡llat!}
+{828}{}{Ãšgy hallottam, a TestvÃ©rek utÃ¡nad kajtatnak. Filmet akarnak csinÃ¡lni a kalandjaidbÃ³l.}
+{829}{}{Tim Cain nagyon hiÃ¡nyzik. CsodÃ¡latos cipÃ³kat tudott sÃ¼tni. UtÃ¡na Ãºgy fenekelt el bennÃ¼nket, mint a gyerekeket.}
+{830}{}{VÃ©gÃ¼l is rÃ¡jÃ¶ttem, hogy csak egy NJK vagyok. Nagyon bÃ¡nt, ahogy New RenÃ³ban bemutatjÃ¡k a nÅ‘ket.}
+{831}{}{Az itteni nÅ‘k karaktereit egy Ã©retlen, szex-Ã©hes tacskÃ³ tervezte, aki mÃ©g mindig a szÃ¼leinÃ©l lakik.}
+{832}{}{New RenÃ³t Chris Avellone Ã©s Tom French tervezte. Mindketten SZEXISTENEK!}
+{833}{}{Feargus kissÃ© Ã¶sszehÃºzta a szemÃ¶ldÃ¶kÃ©t, amikor meglÃ¡tta, mennyi felÃºszÃ³ szÃ¶vegem van. Az a fickÃ³ olyan fapofa. EgyÃ©bkÃ©nt Bassman is ki volt akadva.}
 {834}{}{You say that Locutus served with the Enclave? And I gave that bastard for free!}
-{835}{}{Valami nõcske biztos összetörte a szíved, hogy úgy bemenekültél abba a páncélozott öltözékbe. Hadd segítsek.}
-{836}{}{Nézd, bádogember, ha Dorothynak vagy Totónak akarsz öltöztetni, az extrának számít.}
-{837}{}{Nézd, öreg, ha akarsz valamit, ugorj ki abból a bádogkaszniból! A fém sérülést okoz!}
-{838}{}{Van valami nyílás azon a nyavalyán, vagy mindig le kell vetni, ha ki akarod veretni?}
-{839}{}{Nem sérülsz meg abban a fémöltözékben, ha erekciód van?}
-{840}{}{Látom, hoztad a saját óvszeredet!}
-{841}{}{Ez valamiféle új test-óvszer?}
-{842}{}{Hát eléggé félhetsz valakitõl, hogy úgy beöltöztél abba a micsodába!}
-{843}{}{Ha abban a francos öltözékben akarsz szexelni, extrának számít.}
-{844}{}{Ha akarsz valamit, jobb lenne, ha elõjönnél odabentrõl!}
-{845}{}{Nem fogsz berosdásodni a testnedveimtõl?}
-{846}{}{Hát... rendben, legyen. De hogy fölül nem leszel, az biztos.}
-{847}{}{Hogy a fészkes fenébe mész fürdeni, ha rajtad van ez a vacak?}
-{848}{}{Asszem, egy flex-re lesz szükségem, ha ki akarlak onnan szedni?}
-{849}{}{Ez valami új vibrátor?}
-{850}{}{Láttam egyszer egy anime videót, abban volt hasonló szituáció.}
-{851}{}{Biztos, hogy nem autómosásra jöttél?}
-{852}{}{Nézd, kedvesem, elõbb ki kéne jönnöd onnan. A fém felsérti a bõrt.}
-{853}{}{Ez valami új fogamzásgátló eszköz, ami rajtad van?}
-{854}{}{Nem akarsz ringbe jönni velem, drágám? Legalább 12 menetet bírnék.}
+{835}{}{Valami nÅ‘cske biztos Ã¶sszetÃ¶rte a szÃ­ved, hogy Ãºgy bemenekÃ¼ltÃ©l abba a pÃ¡ncÃ©lozott Ã¶ltÃ¶zÃ©kbe. Hadd segÃ­tsek.}
+{836}{}{NÃ©zd, bÃ¡dogember, ha Dorothynak vagy TotÃ³nak akarsz Ã¶ltÃ¶ztetni, az extrÃ¡nak szÃ¡mÃ­t.}
+{837}{}{NÃ©zd, Ã¶reg, ha akarsz valamit, ugorj ki abbÃ³l a bÃ¡dogkasznibÃ³l! A fÃ©m sÃ©rÃ¼lÃ©st okoz!}
+{838}{}{Van valami nyÃ­lÃ¡s azon a nyavalyÃ¡n, vagy mindig le kell vetni, ha ki akarod veretni?}
+{839}{}{Nem sÃ©rÃ¼lsz meg abban a fÃ©mÃ¶ltÃ¶zÃ©kben, ha erekciÃ³d van?}
+{840}{}{LÃ¡tom, hoztad a sajÃ¡t Ã³vszeredet!}
+{841}{}{Ez valamifÃ©le Ãºj test-Ã³vszer?}
+{842}{}{HÃ¡t elÃ©ggÃ© fÃ©lhetsz valakitÅ‘l, hogy Ãºgy beÃ¶ltÃ¶ztÃ©l abba a micsodÃ¡ba!}
+{843}{}{Ha abban a francos Ã¶ltÃ¶zÃ©kben akarsz szexelni, extrÃ¡nak szÃ¡mÃ­t.}
+{844}{}{Ha akarsz valamit, jobb lenne, ha elÅ‘jÃ¶nnÃ©l odabentrÅ‘l!}
+{845}{}{Nem fogsz berosdÃ¡sodni a testnedveimtÅ‘l?}
+{846}{}{HÃ¡t... rendben, legyen. De hogy fÃ¶lÃ¼l nem leszel, az biztos.}
+{847}{}{Hogy a fÃ©szkes fenÃ©be mÃ©sz fÃ¼rdeni, ha rajtad van ez a vacak?}
+{848}{}{Asszem, egy flex-re lesz szÃ¼ksÃ©gem, ha ki akarlak onnan szedni?}
+{849}{}{Ez valami Ãºj vibrÃ¡tor?}
+{850}{}{LÃ¡ttam egyszer egy anime videÃ³t, abban volt hasonlÃ³ szituÃ¡ciÃ³.}
+{851}{}{Biztos, hogy nem autÃ³mosÃ¡sra jÃ¶ttÃ©l?}
+{852}{}{NÃ©zd, kedvesem, elÅ‘bb ki kÃ©ne jÃ¶nnÃ¶d onnan. A fÃ©m felsÃ©rti a bÅ‘rt.}
+{853}{}{Ez valami Ãºj fogamzÃ¡sgÃ¡tlÃ³ eszkÃ¶z, ami rajtad van?}
+{854}{}{Nem akarsz ringbe jÃ¶nni velem, drÃ¡gÃ¡m? LegalÃ¡bb 12 menetet bÃ­rnÃ©k.}
 {855}{}{Akarsz bokszolni, }
-{856}{}{Kislány, te aztán nem vagy semmi.}
-{857}{}{Hû, ezeket a muszklikat. Keményebb vagy, mint a férfiismerõseim. Pedig én aztán sok férfit ismerek.}
+{856}{}{KislÃ¡ny, te aztÃ¡n nem vagy semmi.}
+{857}{}{HÅ±, ezeket a muszklikat. KemÃ©nyebb vagy, mint a fÃ©rfiismerÅ‘seim. Pedig Ã©n aztÃ¡n sok fÃ©rfit ismerek.}
 {858}{}{Hogy mennek a dolgok, }
 {859}{}{Nem engem keresel?}
-{860}{}{Miért nem jössz gyakrabban?}
-{861}{}{Nincs szükséged egy társra, }
-{862}{}{Jól megmutattad!}
-{863}{}{Hé... vigyázz a Húsdarálóval! Igazi vadbarom. Egyszer már le akarta harapni a fülem.}
+{860}{}{MiÃ©rt nem jÃ¶ssz gyakrabban?}
+{861}{}{Nem kÃ©ne egy partner, }
+{862}{}{JÃ³l megmutattad!}
+{863}{}{HÃ©... vigyÃ¡zz a HÃºsdarÃ¡lÃ³val. Igazi vadbarom. Egyszer mÃ¡r le akarta harapni a fÃ¼lem.}
 {864}{}{Azt tudod, hogy nagyon szexi vagy?}
 {865}{}{}
-{866}{}{Ha késõbb egy kis társaságra vágyna...}
+{866}{}{Ha kÃ©sÅ‘bb vÃ¡gynÃ¡l egy kis tÃ¡rsasÃ¡gra...}
 {867}{}{}
-{868}{}{Helló, }
-{869}{}{Mondjon már egy-két jó szót értem a fõnöknél...}
-{870}{}{Kutya legyek, ha ez itt nem az ördögi }
-{871}{}{Bármit megteszek, amit kívánsz... csak kérned kell.}
-{872}{}{Mondjon már egy-két jó szót értem a fõnöknél...}
+{868}{}{HellÃ³, }
+{869}{}{Mondjon mÃ¡r egy-kÃ©t jÃ³ szÃ³t Ã©rtem a fÅ‘nÃ¶knÃ©l...}
+{870}{}{Kutya legyek, ha ez itt nem az Ã¶rdÃ¶gi }
+{871}{}{BÃ¡rmit megteszek, amit kÃ­vÃ¡nsz... csak kÃ©rned kell.}
+{872}{}{Mondjon mÃ¡r egy-kÃ©t jÃ³ szÃ³t Ã©rtem a fÅ‘nÃ¶knÃ©l...}
 {873}{}{}
-{874}{}{Ööö... Ha késõbb egy kis társaságra vágyna, hölgyem...}
-{875}{}{Engem Könnyû Esetnek hívnak. Hát téged?}
-{876}{}{Nem kell valaki, aki megcsattogtatja a korbácsodat, hajcsár?}
-{877}{}{Miért nem viszel a ketrecedbe, hajcsár?}
-{878}{}{Megrázzam a ketrecedet, hajcsár?}
-{879}{}{Belevaló hajcsár vagy, ugyebár?}
-{880}{}{Van saját törölközõd?}
+{874}{}{Ha kÃ©sÅ‘bb egy kis tÃ¡rsasÃ¡gra vÃ¡gyna, hÃ¶lgyem...}
+{875}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak, hajcsÃ¡r. HÃ¡t tÃ©ged?}
+{876}{}{Nem kell valaki, aki megcsattogtatja a korbÃ¡csodat, hajcsÃ¡r?}
+{877}{}{MiÃ©rt nem viszel a ketrecedbe, hajcsÃ¡r?}
+{878}{}{Nem akarsz egy kis ereszdelahajamat, hajcsÃ¡r?}
+{879}{}{BelevalÃ³ hajcsÃ¡r vagy, ugyebÃ¡r?}
+{880}{}{HoztÃ¡l sajÃ¡t tÃ¶rÃ¼lkÃ¶zÅ‘t?}
 {881}{}{Bizony, ezek IGAZIAK, de sajna nem tapizhatod meg.}
-{882}{}{Kipróbálhatnánk együtt egy kis iszapbirkózást, cowboy!}
-{883}{}{Nem akarsz elsüllyeszteni a rózsaszín torpedóddal?}
-{884}{}{Hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{885}{}{Nem akarsz valakit, aki felmelegíti a sátradat, hajcsár?}
-{886}{}{Nem akarsz valakit, aki megosztaná veled a matracodat, hajcsár?}
-{887}{}{Látom jól el vagy látva, hajcsár.}
-{888}{}{Hû, milyen mérges kis gyíkod van, hajcsár.}
-{889}{}{Valami akcióra vágysz?}
-{890}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{891}{}{Randizni szeretnél?}
-{892}{}{Egyet leszögezek. Ingyenes kóstoló nincs.}
-{893}{}{Azt hallottam, volt egy kis balhé a Kereskedelmi Negyedben...}
+{882}{}{Nem akarsz befogni, cowboy?}
+{883}{}{Nem akarsz elsÃ¼llyeszteni a rÃ³zsaszÃ­n torpedÃ³ddal?}
+{884}{}{Hadd tanÃ­tsak egy-kÃ©t dolgot, amit csak nÅ‘ tanÃ­that.}
+{885}{}{Nem akarsz valakit, aki felmelegÃ­ti a sÃ¡tradat, hajcsÃ¡r?}
+{886}{}{Nem kell valaki, akivel megoszthatod a matracodat, hajcsÃ¡r?}
+{887}{}{LÃ¡tom jÃ³l el vagy lÃ¡tva, haver.}
+{888}{}{HÅ±, milyen mÃ©rges kis gyÃ­kod van, hajcsÃ¡r.}
+{889}{}{Valami akciÃ³ra vÃ¡gysz?}
+{890}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{891}{}{Partnert keresel?}
+{892}{}{Egyet leszÃ¶gezek. Ingyenes kÃ³stolÃ³ nincs.}
+{893}{}{Azt hallottam, volt egy kis balhÃ© a Kereskedelmi Negyedben...}
 {894}{}{Csak nem partnert keresel?}
-{895}{}{Az egyetlen sport manapság Renóban a fedettpályás szájtépés.}
-{896}{}{Nem akarsz táncolni, hajcsár?}
-{897}{}{Hajcsár, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{898}{}{Nem hiszem el, mennyi sztriptíztáncos volt Feargus legénybúcsúján.}
-{899}{}{Hogy mi a munkám? Fiúkat FÉRFIVÁ avatok.}
-{900}{}{Be tudsz verni a farkaddal egy százas szöget a deszkába?}
-{901}{}{Már túl régóta vagyok ebben a városban...}
-{902}{}{Nincs szükséged egy esti partnerre, hajcsár? Vagy legalább tíz percre?}
-{903}{}{Nem akarsz repülni?}
-{904}{}{Már jó ideje nem láttam reddingi karavánokat errefelé.}
-{905}{}{Szép dákó!}
-{906}{}{Eltévedtél, hajcsár?}
-{907}{}{Nincs egy kitárazandó fegyvered, hajcsár?}
-{908}{}{Bármi, amiben segíthetnék, idegen?}
-{909}{}{Tetszik a gekkód, hajcsár!}
-{910}{}{Az egy gekkó a zsebedben?}
-{911}{}{Nem kell egy idegenvezetõ, édesem?}
-{912}{}{Hol van a tûz, hajcsár?}
-{913}{}{Gyermekem, hadd tegyelek férfivá!}
-{914}{}{Nem akarsz táncolni, hajcsár?}
-{915}{}{Oh, üdv, Mr. Tyler. Esetleg... egy menet?}
-{916}{}{Ha utána beszélgetni is akarsz, extrának számít.}
+{895}{}{Az egyetlen sport manapsÃ¡g RenÃ³ban a fedettpÃ¡lyÃ¡s szÃ¡jtÃ©pÃ©s.}
+{896}{}{Nem akarsz tÃ¡ncolni, hajcsÃ¡r?}
+{897}{}{HajcsÃ¡r, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{898}{}{Nem hiszem el, mennyi sztriptÃ­ztÃ¡ncos volt Feargus legÃ©nybÃºcsÃºjÃ¡n.}
+{899}{}{Hogy mi a munkÃ¡m? FiÃºkat FÃ‰RFIVÃ avatok.}
+{900}{}{Be tudsz verni a farkaddal egy szÃ¡zas szÃ¶get a deszkÃ¡ba?}
+{901}{}{MÃ¡r tÃºl rÃ©gÃ³ta vagyok ebben a vÃ¡rosban...}
+{902}{}{Nincs szÃ¼ksÃ©ged egy esti partnerre, hajcsÃ¡r? Vagy legalÃ¡bb tÃ­z percre?}
+{903}{}{Akarsz repÃ¼lni?}
+{904}{}{MÃ¡r jÃ³ ideje nem lÃ¡ttam reddingi karavÃ¡nokat errefelÃ©.}
+{905}{}{SzÃ©p dÃ¡kÃ³!}
+{906}{}{EltÃ©vedtÃ©l, hajcsÃ¡r?}
+{907}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, hajcsÃ¡r?}
+{908}{}{BÃ¡rmi, amiben segÃ­thetnÃ©k, idegen?}
+{909}{}{Tetszik a gekkÃ³d, hajcsÃ¡r.}
+{910}{}{Az ott egy gekkÃ³ a zsebedben?}
+{911}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{912}{}{Hol van a tÅ±z, hajcsÃ¡r?}
+{913}{}{Gyermekem, hadd tegyelek fÃ©rfivÃ¡!}
+{914}{}{Nem akarsz tÃ¡ncolni, hajcsÃ¡r?}
+{915}{}{Oh, Ã¼dv, Mr. Tyler. Esetleg... egy menet?}
+{916}{}{Ha utÃ¡na beszÃ©lgetni is akarsz, extrÃ¡nak szÃ¡mÃ­t.}
 {917}{}{Bizony, ezek IGAZIAK, de sajna nem tapizhatod meg.}
-{918}{}{Jött egyszer egy fickó, Fred Hatch. Azt akarta tudni, vannak-e duci lányok a városban. Fura.}
-{919}{}{[Énekel] "Adj helyet magad mellett, az ablakhoz én is odaférjek..."}
-{920}{}{Nem akarsz hajcsárosdit játszani, hajcsár?}
-{921}{}{Ha azt akarod, hogy ébren maradjak utána, extrának számít.}
-{922}{}{Nem akarsz eljutni Csodaországba?}
-{923}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{924}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{925}{}{Úgy illek rád, mint egy hús-vér öltöny.}
-{926}{}{Ha lifegõ szeméremajkakra vágysz, bébi, nálam megkapod.}
-{927}{}{Nocsak, nocsak. Nézzenek oda, ki csöppent közénk...}
-{928}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{929}{}{Valami akcióra vágysz?}
-{930}{}{Ha kételkedsz, vedd elõ!}
-{931}{}{Végre felszereltem a párnázott fejtámlát.}
-{932}{}{Az édenkert íze csak tíz dolcsi...}
-{933}{}{Myron egy jókora gyertya kanóc nélkül.}
-{934}{}{Myron egy igazi forgószél.}
+{918}{}{JÃ¶tt egyszer egy fickÃ³, Fred Hatch. Azt akarta tudni, vannak-e duci lÃ¡nyok a vÃ¡rosban. Fura.}
+{919}{}{[Ã‰nekel.] "Adj helyet magad mellett..."}
+{920}{}{Akarsz hajcsÃ¡rosdit jÃ¡tszani, hajcsÃ¡r?}
+{921}{}{Ha azt akarod, hogy Ã©bren maradjak utÃ¡na, extrÃ¡nak szÃ¡mÃ­t.}
+{922}{}{Nem akarsz eljutni CsodaorszÃ¡gba?}
+{923}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{924}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{925}{}{Ãšgy illek rÃ¡d, mint egy hÃºs-vÃ©r Ã¶ltÃ¶ny.}
+{926}{}{Ha lifegÅ‘ szemÃ©remajkakra vÃ¡gysz, bÃ©bi, nÃ¡lam megkapod.}
+{927}{}{Nocsak, nocsak. NÃ©zzenek oda, ki csÃ¶ppent kÃ¶zÃ©nk...}
+{928}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{929}{}{Valami akciÃ³ra vÃ¡gysz?}
+{930}{}{Ha kÃ©telkedsz, vedd elÅ‘!}
+{931}{}{VÃ©gÃ¼l is sikerÃ¼lt felszerelnem azt a pÃ¡rnÃ¡zott fejtÃ¡mlÃ¡t.}
+{932}{}{Az Ã©den Ã­ze csak tÃ­z dolcsiba kerÃ¼l.}
+{933}{}{Myron egy jÃ³kora gyertya kanÃ³c nÃ©lkÃ¼l.}
+{934}{}{Myron egy igazi forgÃ³szÃ©l.}
 {935}{}{AC-DC, B n' D, egyre megy.}
-{936}{}{A Bishop lány egy lepedõvirtuóz.}
+{936}{}{A Bishop lÃ¡ny egy lepedÅ‘virtuÃ³z.}
 {937}{}{She ain't no Jet addict, she's a BONE addict.}
-{938}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
-{939}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
-{940}{}{Szerelemre vágysz, kicsim?}
-{941}{}{Csók nincs. Ez szabály!}
-{942}{}{Bárcsak Myron elköltözne a holdra.}
-{943}{}{Bármit megteszek érted, hajcsár... ha megfizeted.}
-{944}{}{Én menni készülök, édes. Nem jössz?}
-{945}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{946}{}{Utálom, amikor mindenestül be kell vennem.}
-{947}{}{Tégy fel mindent értem, drágám!}
-{948}{}{Szórakozni akarsz?}
-{949}{}{Hamisítatlan renói szerelmet kapsz tõlem.}
-{950}{}{Játszadozzunk már egyet!}
+{938}{}{Ãšgy hallottam, MenedÃ©kvÃ¡rosban csak kÃ©tfÃ©le PolgÃ¡r lÃ©tezik. Lehet, hogy valami klÃ³nozÃ¡si problÃ©mÃ¡tÃ³l van.}
+{939}{}{A mÃºlt Ã©jszaka olyan volt, mintha maratonit futottam volna.}
+{940}{}{Szerelemre vÃ¡gysz, kicsim?}
+{941}{}{CsÃ³k nincs. Ez szabÃ¡ly!}
+{942}{}{BÃ¡rcsak Myron elkÃ¶ltÃ¶zne. JÃ³ messzire, ha lehet.}
+{943}{}{BÃ¡rmit megteszek Ã©rted, hajcsÃ¡r... ha megfizeted.}
+{944}{}{Ã‰n menni kÃ©szÃ¼lÃ¶k, Ã©des. Nem jÃ¶ssz?}
+{945}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{946}{}{UtÃ¡lom, amikor mindenestÃ¼l be kell vennem.}
+{947}{}{TÃ©gy fel mindent Ã©rtem, hajcsÃ¡r!}
+{948}{}{SzÃ³rakozni vÃ¡gysz?}
+{949}{}{HamisÃ­tatlan renÃ³i szerelmet kapsz tÅ‘lem.}
+{950}{}{Ha akarod, eljÃ¡tszadozom veled.}
 {951}{}{Mocskos Spice vagyok.}
-{952}{}{Érintetlen Spice vagyok.}
+{952}{}{Ã‰rintetlen Spice vagyok.}
 {953}{}{Ribi Spice vagyok.}
 {954}{}{Old Spice vagyok.}
-{955}{}{Szifiliszes, illetve... Ribi Spice vagyok.}
+{955}{}{Szifiliszes, izÃ©... Ribi Spice vagyok.}
 {956}{}{Koszos Spice vagyok.}
-{957}{}{Van ám egy barátnõm is, ha esetleg duálban szereted.}
-{958}{}{Bárcsak Myron ratyi lenne.}
-{959}{}{Fel nem tudom fogni, miért hívják ezt itt Szûz utcának...}
-{960}{}{Bárcsak néha zacskót húzna a fejére az a fickó...}
-{961}{}{Nem hívsz meg egy csajszit valami italra, hajcsár?}
-{962}{}{Egy magányos hölgy kíséretre vágyik, nem jössz, hajcsár?}
-{963}{}{Öö.. hát persze hogy nõ vagyok. Az ádámcsutkámat ne nézd.}
-{964}{}{Azt mondják, a külvárosi lányok némelyike megölte a stricijét.}
-{965}{}{Hellóóóó, idegen!}
-{966}{}{Az a Jules jobban tenné, ha békénhagyna.}
-{967}{}{A fejtámlától még mindig tiszta sebes a fejem...}
-{968}{}{Még mindig kivagyok az utolsó rabszolga-tartó összeröffenés után...}
-{969}{}{Az E3-at remélem, más városban tartják majd.}
-{970}{}{Azt tudod-e, hogy tõled még a vas is megolvadna?}
-{971}{}{Azt hittem, megmozdult a Föld, de csak erõs volt a chili.}
-{972}{}{Olvassz fel!}
-{973}{}{Szûz vagyok, de már a tököm ki van vele.}
-{974}{}{Nem kell egy idegenvezetõ, hajcsár?}
-{975}{}{Azta! EZ BIZONY extrának számít!}
-{976}{}{Jules folyton potyázni akar.}
-{977}{}{Úgy hallottam, a családok közt újra feszültség van.}
-{978}{}{A dolgok elég belassultak. Bárcsak újra feltûnne az a karaván.}
-{979}{}{Szóval felölti a Halálkarom maskarát, aztán...}
-{980}{}{Segítség nélkül nem tudok kibújni ebbõl a ruhából.}
-{981}{}{Nem akarsz újra és újra feldobni?}
-{982}{}{Bocsi, mit is mondtál? Túlságosan lekötött a feneked látványa.}
-{983}{}{Nem akarsz velem tölteni egy kis idõt?}
-{984}{}{Szórakozni akarsz?}
-{985}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{986}{}{Csak nem a belvárosba mész?}
-{987}{}{Nem véletlenül hívnak engem Fortuna kegyeltjének.}
-{988}{}{Naná, hogy szeretem a brahmin ízu óvszereket! Mmm.}
-{989}{}{Nem akarsz egy hölgyet felvidítani?}
-{990}{}{Bárcsak kitalálnának valami szexuális placebót Myron számára!}
-{991}{}{Nem akarsz randizni, hajcsár?}
-{992}{}{Hajcsár, neked nem kell más, csak egy éjszaka velem.}
-{993}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{994}{}{Te adod a pénzt, én meg magamat.}
-{995}{}{Nem tudsz segíteni? Az elveszett szüzességemet keresem.}
-{996}{}{Szûz vagyok, de kell a pénz.}
-{997}{}{Légy gyengéd, ez lesz az elsõ... Ma...}
-{998}{}{Felizgultam, mint állat!}
-{999}{}{A kuncsaft tombol, Jules meg spórol.}
-{1000}{}{Hadd ébresszem fel a benned szunnyadó gyermeket!}
-{1001}{}{Csak azért csinálom, hogy a tandíjat fizetni tudjam.}
-{1002}{}{Még egyszer utoljára: Nem fogok Menedéklakónak öltözni!}
-{1003}{}{Behajtani jöttél?}
-{1004}{}{Nem akarod hallani, ahogy sóhajtozom?}
-{1005}{}{::Doromboló hangot hallat::}
-{1006}{}{::Rrrrroárrr::}
+{957}{}{Van Ã¡m egy barÃ¡tnÅ‘m is, ha esetleg duÃ¡lban szereted.}
+{958}{}{BÃ¡rcsak Myron ratyi lenne.}
+{959}{}{Fel nem tudom fogni, miÃ©rt hÃ­vjÃ¡k ezt itt SzÅ±z utcÃ¡nak...}
+{960}{}{BÃ¡rcsak nÃ©ha zacskÃ³t hÃºzna a fejÃ©re az a fickÃ³...}
+{961}{}{Nem hÃ­vsz meg egy csajszit valami italra, hajcsÃ¡r?}
+{962}{}{Egy magÃ¡nyos hÃ¶lgy kÃ­sÃ©retre vÃ¡gyik, hajcsÃ¡r...}
+{963}{}{Ã–Ã¶.. hÃ¡t persze hogy nÅ‘ vagyok. Az Ã¡dÃ¡mcsutkÃ¡mat ne nÃ©zd.}
+{964}{}{Azt rebesgetik, a kÃ¼lvÃ¡rosi lÃ¡nyok nÃ©melyike megÃ¶lte a stricijÃ©t.}
+{965}{}{HellÃ³Ã³Ã³Ã³Ã³, idegen!}
+{966}{}{Az a Jules gyerek jobban tennÃ©, ha bÃ©kÃ©nhagyna.}
+{967}{}{A fejtÃ¡mlÃ¡tÃ³l mÃ©g mindig lila foltokkal van tele a fejem...}
+{968}{}{MÃ©g mindig kivagyok az utolsÃ³ rabszolga-tartÃ³ Ã¶sszerÃ¶ffenÃ©s utÃ¡n...}
+{969}{}{Az E3-at igazÃ¡n mÃ¡s vÃ¡rosban is tarthatnÃ¡k.}
+{970}{}{Azt tudod-e, hogy tÅ‘led mÃ©g a fÃ©m is megolvadna?}
+{971}{}{Azt hittem, megmozdult a FÃ¶ld, de csak erÅ‘s volt a chili.}
+{972}{}{Olvassz szÃ©t!}
+{973}{}{SzÅ±z vagyok, Ã©s mÃ¡r kezdem unni.}
+{974}{}{Nem kell egy idegenvezetÅ‘, hajcsÃ¡r?}
+{975}{}{Azta! EZ BIZONY extrÃ¡nak szÃ¡mÃ­t!}
+{976}{}{Jules folyton potyÃ¡zni akar.}
+{977}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g van.}
+{978}{}{A dolgok elÃ©g belassultak. BÃ¡rcsak Ãºjra feltÅ±nne az a karavÃ¡n.}
+{979}{}{SzÃ³val felÃ¶lti a HalÃ¡lkarom jelmezt, aztÃ¡n...}
+{980}{}{SegÃ­tsÃ©g nÃ©lkÃ¼l nem tudok kibÃºjni ebbÅ‘l a ruhÃ¡bÃ³l.}
+{981}{}{Nem akarsz Ãºjra Ã©s Ãºjra feldobni?}
+{982}{}{Bocsi, mit is mondtÃ¡l? TÃºlsÃ¡gosan lekÃ¶tÃ¶tt a feneked lÃ¡tvÃ¡nya.}
+{983}{}{Nem akarsz egy kis idÅ‘t eltÃ¶lteni velem?}
+{984}{}{SzÃ³rakozni vÃ¡gysz?}
+{985}{}{MÃºlt hÃ©ten jÃ³l tÃ¶kÃ¶n rÃºgtam Jules-t.}
+{986}{}{Csak nem a belvÃ¡rosba akarsz menni?}
+{987}{}{Nem vÃ©letlenÃ¼l hÃ­vnak engem Fortuna kegyeltjÃ©nek.}
+{988}{}{NanÃ¡, hogy szeretem a brahmin Ã­zÅ± Ã³vszereket! Mmm.}
+{989}{}{Nem akarsz egy hÃ¶lgyet felvidÃ­tani, hajcsÃ¡r?}
+{990}{}{BÃ¡rcsak kitalÃ¡lnÃ¡nak valami szexuÃ¡lis placebÃ³t Myron szÃ¡mÃ¡ra!}
+{991}{}{Nem akarsz egy partnert, hajcsÃ¡r?}
+{992}{}{HajcsÃ¡r, neked nem kell mÃ¡s, csak egy Ã©jszaka velem.}
+{993}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{994}{}{Te adod a pÃ©nzt, Ã©n meg magamat.}
+{995}{}{Nem tudsz segÃ­teni? Az elveszett szÅ±zessÃ©gemet keresem.}
+{996}{}{SzÅ±z vagyok, de kell a pÃ©nz.}
+{997}{}{LÃ©gy gyengÃ©d, ez lesz az elsÅ‘... Ma...}
+{998}{}{Felizgultam jÃ³l!}
+{999}{}{A kuncsaft tombol, Jules meg spÃ³rol.}
+{1000}{}{Hadd Ã©bresszem fel a benned szunnyadÃ³ gyermeket!}
+{1001}{}{AzÃ©rt csinÃ¡lom ezt, hogy ki tudjam fizetni a tandÃ­jat.}
+{1002}{}{MÃ©g egyszer utoljÃ¡ra: Nem fogok MenedÃ©klakÃ³nak Ã¶ltÃ¶zni!}
+{1003}{}{Behajtani jÃ¶ttÃ©l?}
+{1004}{}{Nem akarod hallani, ahogy sÃ³hajtozom?}
+{1005}{}{::DorombolÃ³ hangot hallat::}
+{1006}{}{::RrrrroÃ¡rrr::}
 {1007}{}{Ne csikizz!}
-{1008}{}{Múlt éjszaka óta fennvagyok...}
-{1009}{}{Nincs kedved velem üzekedõ halálkarmokat utánozni?}
-{1010}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{1011}{}{A kötözés extrának számít.}
-{1012}{}{Hol hagytam a korbácsomat?}
-{1013}{}{Készen állok, mint egy péló.}
-{1014}{}{Az eszem megáll! Múlt éjszaka VILMÁNAK kellett öltöznöm!}
-{1015}{}{Az elmúlt éjjel Myronnal voltam. Öt kemény másodpercig.}
-{1016}{}{Nem akarsz kitárazni?}
-{1017}{}{Bárcsak kihoznának valami Jet-illatú testápolót...}
-{1018}{}{Nem akarod elvenni a szüzességemet?}
-{1019}{}{Myron gondoskodik róla, hogy szétmenjen a seggem.}
-{1020}{}{A fene egye meg, az Önmegtartóztatók Szövetsége már megint nálunk terjeszti az igét...}
-{1021}{}{Ha rádnézek, beindul a Geiger számlálóm.}
-{1022}{}{::Fütyül::}
-{1023}{}{A harapás extrának számít.}
-{1024}{}{Garantálom, hogy jobb vagyok a PipBoy kiegészítõdnél.}
-{1025}{}{Nem akarod, hogy meghúzzam a csavarjaidat?}
-{1026}{}{De szívesen lennék most Avellone-nal!}
-{1027}{}{Bárcsak Nick Kesting itt lenne. Órákig beszélgethetnénk a szerepjáték programozásról!}
-{1028}{}{Nick Kesting jó fej fazon. Mindig is nagyokat beszélgettünk.}
-{1029}{}{A Tökös Tomi olyan jóképû srác.}
-{1030}{}{Ötven dolcsiért üvölteni fogsz a gyönyörtõl!}
-{1031}{}{Engem Könnyû Esetnek hívnak, hajcsárlány. Hát téged?}
-{1032}{}{Nem kell valaki, aki megcsattogtatja a korbácsodat, hajcsárlány?}
-{1033}{}{Miért nem viszel a ketrecedbe, hajcsárlány?}
-{1034}{}{Hé, hajcsár! Csak nem meguntad a hétköznapi nõket?}
-{1035}{}{Csak nem felkeltette az érdeklõdésed a másik oldal, édesem?}
-{1036}{}{Megrázzam a ketrecedet, hajcsárlány?}
-{1037}{}{Kísérletezõ kedvû vagy, hajcsárlány? Ne fogd vissza magad!}
-{1038}{}{Nem akarod elveszteni a fejed, hajcsárlány?}
-{1039}{}{Nem akarsz valakit, akivel megoszthatod a sátradat, hajcsárlány?}
-{1040}{}{Nem akarsz valakit, aki megosztaná veled a matracodat, hajcsár?}
-{1041}{}{Szép kis formás hátsód van, hajcsárlány.}
-{1042}{}{Nem akarsz táncolni, hajcsárlány?}
-{1043}{}{Addig fogalmad nem lesz a szerelemrõl, hajcsárlány, amíg a renói szerelmet ki nem próbáltad.}
-{1044}{}{Hogy mi a munkám? Fiúkat FÉRFIVÁ avatok. Azt nem tudom, hogy nõket mivé tudnék avatni, de kipróbálnám.}
-{1045}{}{Eltévedtél, hajcsárlány?}
-{1046}{}{Szórakozni vágysz, hajcsárlány?}
-{1047}{}{Nem akarsz randizni, hajcsárlány?}
-{1048}{}{Hol van a tûz, hajcsárlány?}
-{1049}{}{Hajcsárlány, tõled még a Geiger számlálóm is beindul.}
-{1050}{}{Engem Könnyû Esetnek hívnak. Hát téged?}
+{1008}{}{MÃºlt Ã©jszaka Ã³ta fennvagyok...}
+{1009}{}{Nincs kedved velem Ã¼zekedÅ‘ halÃ¡lkarmokat utÃ¡nozni?}
+{1010}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{1011}{}{A kÃ¶tÃ¶zÃ©s extrÃ¡nak szÃ¡mÃ­t.}
+{1012}{}{Hova tettem a korbÃ¡csomat?}
+{1013}{}{KÃ©szen Ã¡llok, mint a pÃ©lÃ³.}
+{1014}{}{Az eszem megÃ¡ll! MÃºlt Ã©jszaka VILMÃNAK kellett Ã¶ltÃ¶znÃ¶m!}
+{1015}{}{Az elmÃºlt Ã©jjel Myronnal voltam. Ã–t egÃ©sz mÃ¡sodpercig.}
+{1016}{}{Nem akarsz kitÃ¡razni?}
+{1017}{}{BÃ¡rcsak kihoznÃ¡nak valami Jet-illatÃº testÃ¡polÃ³t...}
+{1018}{}{Nem akarod elvenni a szÃ¼zessÃ©gemet?}
+{1019}{}{Myron gondoskodik rÃ³la, hogy szÃ©tmenjen a seggem.}
+{1020}{}{A fene egye meg, az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge mÃ¡r megint nÃ¡lunk terjeszti az igÃ©t...}
+{1021}{}{Ha rÃ¡dnÃ©zek, beindul a Geiger szÃ¡mlÃ¡lÃ³m.}
+{1022}{}{::FÃ¼tyÃ¼l::}
+{1023}{}{A harapÃ¡s extrÃ¡nak szÃ¡mÃ­t.}
+{1024}{}{GarantÃ¡lom, hogy jobb vagyok a PipBoy kiegÃ©szÃ­tÅ‘dnÃ©l.}
+{1025}{}{Nem akarod, hogy meghÃºzzam a csavarjaidat?}
+{1026}{}{De szÃ­vesen lennÃ©k most Avellone-nal!}
+{1027}{}{BÃ¡rcsak Nick Kesting itt lenne. Ã“rÃ¡kig beszÃ©lgethetnÃ©nk a szerepjÃ¡tÃ©k programozÃ¡srÃ³l!}
+{1028}{}{Nick Kesting jÃ³ fej fazon. Mindig is nagyokat beszÃ©lgettÃ¼nk.}
+{1029}{}{A TÃ¶kÃ¶s Tomi olyan jÃ³kÃ©pÅ± srÃ¡c.}
+{1030}{}{Ã–tven dolcsiÃ©rt Ã¼vÃ¶lteni fogsz a gyÃ¶nyÃ¶rtÅ‘l!}
+{1031}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak, hajcsÃ¡rlÃ¡ny. HÃ¡t tÃ©ged?}
+{1032}{}{Nem kell valaki, aki megcsattogtatja a korbÃ¡csodat, hajcsÃ¡rlÃ¡ny?}
+{1033}{}{MiÃ©rt nem viszel a ketrecedbe, hajcsÃ¡rlÃ¡ny?}
+{1034}{}{HÃ©, hajcsÃ¡r! Csak nem meguntad a hÃ©tkÃ¶znapi nÅ‘ket?}
+{1035}{}{Csak nem felkeltette az Ã©rdeklÅ‘dÃ©sed a mÃ¡sik oldal, Ã©desem?}
+{1036}{}{MegrÃ¡zzam a ketrecedet, hajcsÃ¡rlÃ¡ny?}
+{1037}{}{KÃ­sÃ©rletezÅ‘ kedvÅ± vagy, hajcsÃ¡rlÃ¡ny? Ne fogd vissza magad!}
+{1038}{}{Nem akarod elveszteni a fejed, hajcsÃ¡rlÃ¡ny?}
+{1039}{}{Nem akarsz valakit, akivel megoszthatod a sÃ¡tradat, hajcsÃ¡rlÃ¡ny?}
+{1040}{}{Nem akarsz valakit, aki megosztanÃ¡ veled a matracodat, hajcsÃ¡rlÃ¡ny?}
+{1041}{}{SzÃ©p kis formÃ¡s hÃ¡tsÃ³d van, hajcsÃ¡rlÃ¡ny.}
+{1042}{}{Nem akarsz tÃ¡ncolni, hajcsÃ¡rlÃ¡ny?}
+{1043}{}{HajcsÃ¡rlÃ¡ny, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1044}{}{Hogy mi a munkÃ¡m? FiÃºkat FÃ‰RFIVÃ avatok. Azt nem tudom, hogy nÅ‘ket mivÃ© tudnÃ©k avatni, de kiprÃ³bÃ¡lnÃ¡m.}
+{1045}{}{EltÃ©vedtÃ©l, hajcsÃ¡rlÃ¡ny?}
+{1046}{}{SzÃ³rakozni vÃ¡gysz, hajcsÃ¡rlÃ¡ny?}
+{1047}{}{Nem akarsz randizni, hajcsÃ¡rlÃ¡ny?}
+{1048}{}{Hol a tÅ±z, hajcsÃ¡rlÃ¡ny?}
+{1049}{}{HajcsÃ¡rlÃ¡ny, tÅ‘led mÃ©g a Geiger szÃ¡mlÃ¡lÃ³m is beindul.}
+{1050}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
 {1051}{}{Fel vagy dobva, mi?}
-{1052}{}{Van saját törölközõd?}
-{1053}{}{Ne is kérdezd... igaziak.}
+{1052}{}{HoztÃ¡l sajÃ¡t tÃ¶rÃ¼lkÃ¶zÅ‘t?}
+{1053}{}{Ne is kÃ©rdezd... igaziak.}
 {1054}{}{Bizony, ezek IGAZIAK, de sajna nem tapizhatod meg.}
-{1055}{}{Kopjál le, seggarc!}
-{1056}{}{Kipróbálhatnánk együtt egy kis iszapbirkózást, cowboy!}
-{1057}{}{Nem akarsz elsüllyeszteni a rózsaszín torpedóddal?}
-{1058}{}{Nem akarsz valakit, aki felmelegíti a sátradat?}
-{1059}{}{Nem akarsz valakit, akivel megoszthatod a matracodat?}
-{1060}{}{Látom jól el vagy látva, haver.}
-{1061}{}{Milyen mérges kis gyíkod van!}
-{1062}{}{Valami akcióra vágysz?}
-{1063}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{1064}{}{Randizni szeretnél?}
-{1065}{}{Egyet leszögezek. Ingyenes kóstoló nincs.}
-{1066}{}{Azt hallottam, volt egy kis balhé a Kereskedelmi Negyedben...}
+{1055}{}{KopjÃ¡l le, seggarc!}
+{1056}{}{Nem akarsz befogni, cowboy?}
+{1057}{}{Nem akarsz elsÃ¼llyeszteni a rÃ³zsaszÃ­n torpedÃ³ddal?}
+{1058}{}{Nincs szÃ¼ksÃ©ged valakire, aki felmelegÃ­ti a sÃ¡tradat?}
+{1059}{}{Nincs szÃ¼ksÃ©ged valakire, akivel megoszthatnÃ¡d a matracodat?}
+{1060}{}{LÃ¡tom jÃ³l el vagy lÃ¡tva, haver.}
+{1061}{}{HÅ±, milyen mÃ©rges kis gyÃ­kod van!}
+{1062}{}{Valami akciÃ³ra vÃ¡gysz?}
+{1063}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1064}{}{Partnert keresel?}
+{1065}{}{Egyet leszÃ¶gezek. Ingyenes kÃ³stolÃ³ nincs.}
+{1066}{}{Azt hallottam, volt egy kis balhÃ© a Kereskedelmi Negyedben...}
 {1067}{}{Csak nem partnert keresel?}
-{1068}{}{Az egyetlen sport manapság Renóban a fedettpályás szájtépés.}
-{1069}{}{Nincs kedved táncolni?}
-{1070}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{1071}{}{Hogy mi a munkám? Fiúkat FÉRFIVÁ avatok.}
-{1072}{}{Be tudsz verni a farkaddal egy százas szöget a deszkába?}
-{1073}{}{Múlt éjszaka óta az utcát járom...}
-{1074}{}{Nincs szükséged egy esti partnerre? Vagy legalább tíz percre?}
-{1075}{}{Nem akarsz repülni?}
-{1076}{}{Már jó ideje nem láttam reddingi karavánokat errefelé.}
-{1077}{}{Szép dákó!}
-{1078}{}{Eltévedtél, cowboy?}
-{1079}{}{Nincs egy kitárazandó fegyvered, katona?}
-{1080}{}{Bármi, amiben segíthetnék, idegen?}
-{1081}{}{Szórakozni akarsz?}
-{1082}{}{Csak nem a belvárosba mész?}
-{1083}{}{Tetszik a gekkód!}
-{1084}{}{Az egy gekkó a zsebedben?}
-{1085}{}{Nem kell egy idegenvezetõ, édesem?}
-{1086}{}{Hol van a tûz?}
-{1087}{}{Te adod a pénzt, én meg magamat.}
-{1088}{}{Gyermekem, hadd tegyelek férfivá!}
-{1089}{}{Oh, üdv, Mr. Tyler. Esetleg... egy menet?}
-{1090}{}{Ha utána beszélgetni is akarsz, extrának számít.}
-{1091}{}{Jött egyszer egy fickó, Fred Hatch. Azt akarta tudni, vannak-e duci lányok a városban. Fura.}
-{1092}{}{Az barátod a farokkal az orrában... nagggyon egyedi!}
-{1093}{}{Az elõember barátod tud valami trükköt az orrával?}
-{1094}{}{Lehet, hogy nekem is farkat kéne dugnom az orromba. Több nõi kuncsaftot vonzanék.}
-{1095}{}{Annak a fickónak akkora a farok van az orrában, mint a karom. Te jószagúúú...}
-{1096}{}{Nem akarom tudni, hogy az a farok hogy került annak a srácnak az orrába.}
-{1097}{}{A farokorrú barátod is benne van az üzletben?}
-{1098}{}{A farokorrú barátod mennyit kér?}
-{1099}{}{Harminc dolcsiért a barátod orrában lévõ farkat is megnagyobbítom.}
-{1100}{}{A farokorrú barátod ezzel próbál valamit elrejteni mások elõl?}
-{1101}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{1102}{}{Valami akcióra vágysz?}
-{1103}{}{Ha kételkedsz, vedd elõ!}
-{1104}{}{Hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{1105}{}{Végre felszereltem a párnázott fejtámlát.}
-{1106}{}{Az édenkert íze csak tíz dolcsi...}
-{1107}{}{Myron egy jókora gyertya kanóc nélkül.}
-{1108}{}{Myron egy igazi forgószél.}
+{1068}{}{Az egyetlen sport manapsÃ¡g RenÃ³ban a fedettpÃ¡lyÃ¡s szÃ¡jtÃ©pÃ©s.}
+{1069}{}{Nem akarsz tÃ¡ncolni?}
+{1070}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1071}{}{Hogy mi a munkÃ¡m? FiÃºkat FÃ‰RFIVÃ avatok.}
+{1072}{}{Be tudsz verni a farkaddal egy szÃ¡zas szÃ¶get a deszkÃ¡ba?}
+{1073}{}{Tegnap Ã³ta koptatom az utcÃ¡t.}
+{1074}{}{Nincs szÃ¼ksÃ©ged egy esti partnerre? Vagy legalÃ¡bb tÃ­z percre?}
+{1075}{}{Akarsz repÃ¼lni?}
+{1076}{}{MÃ¡r jÃ³ ideje nem lÃ¡ttam reddingi karavÃ¡nokat errefelÃ©.}
+{1077}{}{SzÃ©p dÃ¡kÃ³!}
+{1078}{}{EltÃ©vedtÃ©l, cowboy?}
+{1079}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, kiskatonÃ¡m?}
+{1080}{}{BÃ¡rmi, amiben segÃ­thetnÃ©k, idegen?}
+{1081}{}{SzÃ³rakozni vÃ¡gysz?}
+{1082}{}{Csak nem a belvÃ¡rosba akarsz menni?}
+{1083}{}{Tetszik a gekkÃ³d!}
+{1084}{}{Az ott egy gekkÃ³ a zsebedben?}
+{1085}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{1086}{}{Hol van a tÅ±z?}
+{1087}{}{Te adod a pÃ©nzt, Ã©n meg magamat.}
+{1088}{}{Gyermekem, hadd tegyelek fÃ©rfivÃ¡!}
+{1089}{}{Oh, Ã¼dv, Mr. Tyler. Esetleg... egy menet?}
+{1090}{}{Ha utÃ¡na beszÃ©lgetni is akarsz, extrÃ¡nak szÃ¡mÃ­t.}
+{1091}{}{JÃ¶tt egyszer egy fickÃ³, Fred Hatch. Azt akarta tudni, vannak-e duci lÃ¡nyok a vÃ¡rosban. Fura.}
+{1092}{}{Az barÃ¡tod a farokkal az orrÃ¡ban... nagggyon egyedi!}
+{1093}{}{Az elÅ‘ember barÃ¡tod tud valami trÃ¼kkÃ¶t az orrÃ¡val?}
+{1094}{}{Lehet, hogy nekem is farkat kÃ©ne dugnom az orromba. TÃ¶bb nÅ‘i kuncsaftot vonzanÃ©k.}
+{1095}{}{Annak a fickÃ³nak akkora a farok van az orrÃ¡ban, mint a karom. AtyaÃ©g...}
+{1096}{}{Nem akarom tudni, hogy az a farok milyen mÃ³don kerÃ¼lt annak a srÃ¡cnak az orrÃ¡ba.}
+{1097}{}{A farokorrÃº barÃ¡tod is benne van az Ã¼zletben?}
+{1098}{}{A farokorrÃº barÃ¡tod mennyit kÃ©r?}
+{1099}{}{Harminc dolcsiÃ©rt a barÃ¡tod orrÃ¡ban lÃ©vÅ‘ farkat is megnagyobbÃ­tom.}
+{1100}{}{A farokorrÃº barÃ¡tod ezzel prÃ³bÃ¡l valamit elrejteni mÃ¡sok elÅ‘l?}
+{1101}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{1102}{}{Valami akciÃ³ra vÃ¡gysz?}
+{1103}{}{Ha kÃ©telkedsz, vedd elÅ‘!}
+{1104}{}{Hadd tanÃ­tsak egy-kÃ©t dolgot, amit csak nÅ‘ tanÃ­that.}
+{1105}{}{VÃ©gÃ¼l is sikerÃ¼lt felszerelnem azt a pÃ¡rnÃ¡zott fejtÃ¡mlÃ¡t.}
+{1106}{}{Az Ã©den Ã­ze csak tÃ­z dolcsiba kerÃ¼l.}
+{1107}{}{Myron egy jÃ³kora gyertya kanÃ³c nÃ©lkÃ¼l.}
+{1108}{}{Myron egy igazi forgÃ³szÃ©l.}
 {1109}{}{AC-DC, B n' D, egyre megy.}
-{1110}{}{A Bishop lány egy lepedõvirtuóz.}
+{1110}{}{A Bishop lÃ¡ny egy lepedÅ‘virtuÃ³z.}
 {1111}{}{She ain't no Jet addict, she's a BONE addict.}
-{1112}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
-{1113}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
-{1114}{}{Szerelemre vágysz, kicsim?}
-{1115}{}{Csók nincs. Ez szabály!}
-{1116}{}{Bárcsak Myron elköltözne a holdra.}
-{1117}{}{Bármit megteszek érted... ha megfizeted.}
-{1118}{}{Én menni készülök, édes. Nem jössz?}
-{1119}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{1120}{}{Utálom, amikor mindenestül be kell vennem.}
-{1121}{}{Tégy fel mindent értem, drágám!}
-{1122}{}{Szórakozni akarsz?}
-{1123}{}{Nem hiszem el, mennyi sztriptíztáncos volt Feargus legénybúcsúján.}
-{1124}{}{Hamisítatlan renói szerelmet kapsz tõlem.}
-{1125}{}{Játszadozzunk már egyet!}
+{1112}{}{Ãšgy hallottam, MenedÃ©kvÃ¡rosban csak kÃ©tfÃ©le PolgÃ¡r lÃ©tezik. Lehet, hogy valami klÃ³nozÃ¡si problÃ©mÃ¡tÃ³l van.}
+{1113}{}{A mÃºlt Ã©jszaka olyan volt, mintha maratonit futottam volna.}
+{1114}{}{Szerelemre vÃ¡gysz, kicsim?}
+{1115}{}{CsÃ³k nincs. Ez szabÃ¡ly!}
+{1116}{}{BÃ¡rcsak Myron elkÃ¶ltÃ¶zne. JÃ³ messzire, ha lehet.}
+{1117}{}{BÃ¡rmit megteszek Ã©rted... ha megfizeted.}
+{1118}{}{Ã‰n menni kÃ©szÃ¼lÃ¶k, Ã©des. Nem jÃ¶ssz?}
+{1119}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{1120}{}{UtÃ¡lom, amikor mindenestÃ¼l be kell vennem.}
+{1121}{}{TÃ©gy fel mindent Ã©rtem, Ã©des!}
+{1122}{}{SzÃ³rakozni vÃ¡gysz?}
+{1123}{}{Nem hiszem el, mennyi sztriptÃ­ztÃ¡ncos volt Feargus legÃ©nybÃºcsÃºjÃ¡n.}
+{1124}{}{HamisÃ­tatlan renÃ³i szerelmet kapsz tÅ‘lem.}
+{1125}{}{Ha akarod, eljÃ¡tszadozom veled.}
 {1126}{}{Mocskos Spice vagyok.}
-{1127}{}{Érintetlen Spice vagyok.}
+{1127}{}{Ã‰rintetlen Spice vagyok.}
 {1128}{}{Old Spice vagyok.}
 {1129}{}{Ribi Spice vagyok.}
-{1130}{}{Szifiliszes, illetve... Ribi Spice vagyok.}
+{1130}{}{Szifiliszes, izÃ©... Ribi Spice vagyok.}
 {1131}{}{Koszos Spice vagyok.}
-{1132}{}{Van egy barátnõm is, ha esetleg duálban szereted.}
-{1133}{}{Bárcsak Myron ratyi lenne.}
-{1134}{}{Fel nem tudom fogni, miért hívják ezt itt Szûz utcának...}
-{1135}{}{Bárcsak néha zacskót húzna a fejére az a fickó...}
-{1136}{}{Nem veszel egy italt nekem?}
-{1137}{}{Egy magányos hölgy kíséretre vágyik, nem jössz?}
-{1138}{}{Öö.. hát persze hogy nõ vagyok. Az ádámcsutkámat ne nézd.}
-{1139}{}{Azt mondják, a külvárosi lányok némelyike megölte a stricijét.}
-{1140}{}{Hellóóóó, idegen!}
-{1141}{}{Az a Jules jobban tenné, ha békénhagyna.}
-{1142}{}{A fejtámlától még mindig tiszta sebes a fejem...}
-{1143}{}{Még mindig kivagyok az utolsó összeröffenés után...}
-{1144}{}{Az E3-at remélem, más városban tartják majd.}
-{1145}{}{Azt tudod-e, hogy tõled még a vas is megolvadna?}
-{1146}{}{Azt hittem, megmozdult a Föld, de csak erõs volt a chili.}
-{1147}{}{Olvassz fel!}
-{1148}{}{Szûz vagyok, de már a tököm ki van vele.}
-{1149}{}{Nem kell egy idegenvezetõ?}
-{1150}{}{Azta! EZ BIZONY extrának számít!}
-{1151}{}{Jules folyton potyázni akar.}
-{1152}{}{Úgy hallottam, a családok közt újra feszültség van.}
-{1153}{}{A dolgok elég belassultak. Bárcsak újra feltûnne az a karaván.}
-{1154}{}{Szóval felölti a Halálkarom maskarát, aztán...}
-{1155}{}{Segítség nélkül nem tudok kibújni ebbõl a ruhából.}
-{1156}{}{Nem akarsz újra és újra feldobni?}
-{1157}{}{Bocsi, mit is mondtál? Túlságosan lekötött a feneked látványa.}
-{1158}{}{Nem akarsz velem tölteni egy kis idõt?}
-{1159}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{1160}{}{Nem véletlenül hívnak engem Fortuna kegyeltjének.}
-{1161}{}{Naná, hogy szeretem a brahmin ízû óvszereket! Mmm.}
-{1162}{}{Nem akarsz egy hölgyet felvidítani?}
-{1163}{}{Bárcsak kitalálnának valami szexuális placebót Myron számára!}
-{1164}{}{Nem akarsz randizni, indián?}
-{1165}{}{Rendezzünk egy orgiát, indián?}
-{1166}{}{Nem akarsz esõtáncot járni a hálószobámban, indián?}
-{1167}{}{Neked nem kell más, csak egy éjszaka velem.}
-{1168}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{1169}{}{Nem tudsz segíteni? Az elveszett szüzességemet keresem.}
-{1170}{}{Szûz vagyok, de kell a pénz.}
-{1171}{}{Légy gyengéd, ez lesz az elsõ... Ma...}
-{1172}{}{Felizgultam, mint állat!}
-{1173}{}{A kuncsaft tombol, Jules meg spórol.}
-{1174}{}{Hadd ébresszem fel a benned szunnyadó gyermeket!}
-{1175}{}{Csak azért csinálom, hogy a tandíjat fizetni tudjam.}
-{1176}{}{Nem akarsz táncolni, édes szívem?}
-{1177}{}{Még egyszer utoljára: Nem fogok Menedéklakónak öltözni!}
-{1178}{}{Behajtani jöttél?}
-{1179}{}{Nem akarod hallani, ahogy sóhajtozom?}
-{1180}{}{::Doromboló hangot hallat::}
-{1181}{}{::Rrrrroárrr::}
+{1132}{}{Van egy barÃ¡tnÅ‘m is, ha esetleg duÃ¡lban szereted.}
+{1133}{}{BÃ¡rcsak Myron ratyi lenne.}
+{1134}{}{Fel nem tudom fogni, miÃ©rt hÃ­vjÃ¡k ezt itt SzÅ±z utcÃ¡nak...}
+{1135}{}{BÃ¡rcsak nÃ©ha zacskÃ³t hÃºzna a fejÃ©re az a fickÃ³...}
+{1136}{}{Nem hÃ­vsz meg egy italra?}
+{1137}{}{Egy magÃ¡nyos hÃ¶lgy kÃ­sÃ©retre vÃ¡gyik!}
+{1138}{}{Ã–Ã¶.. hÃ¡t persze hogy nÅ‘ vagyok. Az Ã¡dÃ¡mcsutkÃ¡mat ne nÃ©zd.}
+{1139}{}{Azt rebesgetik, a kÃ¼lvÃ¡rosi lÃ¡nyok nÃ©melyike megÃ¶lte a stricijÃ©t.}
+{1140}{}{HellÃ³Ã³Ã³Ã³Ã³, idegen!}
+{1141}{}{Az a Jules gyerek jobban tennÃ©, ha bÃ©kÃ©nhagyna.}
+{1142}{}{A fejtÃ¡mlÃ¡tÃ³l mÃ©g mindig lila foltokkal van tele a fejem...}
+{1143}{}{MÃ©g mindig kivagyok az utolsÃ³ Ã¶sszerÃ¶ffenÃ©s utÃ¡n...}
+{1144}{}{Az E3-at igazÃ¡n mÃ¡s vÃ¡rosban is tarthatnÃ¡k.}
+{1145}{}{Azt tudod-e, hogy tÅ‘led mÃ©g a fÃ©m is megolvadna?}
+{1146}{}{Azt hittem, megmozdult a FÃ¶ld, de csak erÅ‘s volt a chili.}
+{1147}{}{Olvassz szÃ©t!}
+{1148}{}{SzÅ±z vagyok, Ã©s mÃ¡r kezdem unni.}
+{1149}{}{Nem kell egy idegenvezetÅ‘?}
+{1150}{}{Azta! EZ BIZONY extrÃ¡nak szÃ¡mÃ­t!}
+{1151}{}{Jules folyton potyÃ¡zni akar.}
+{1152}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g van.}
+{1153}{}{A dolgok elÃ©g belassultak. BÃ¡rcsak Ãºjra feltÅ±nne az a karavÃ¡n.}
+{1154}{}{SzÃ³val felÃ¶lti a HalÃ¡lkarom jelmezt, aztÃ¡n...}
+{1155}{}{SegÃ­tsÃ©g nÃ©lkÃ¼l nem tudok kibÃºjni ebbÅ‘l a ruhÃ¡bÃ³l.}
+{1156}{}{Nem akarsz Ãºjra Ã©s Ãºjra feldobni?}
+{1157}{}{Bocsi, mit is mondtÃ¡l? TÃºlsÃ¡gosan lekÃ¶tÃ¶tt a feneked lÃ¡tvÃ¡nya.}
+{1158}{}{Nem akarsz egy kis idÅ‘t eltÃ¶lteni velem?}
+{1159}{}{MÃºlt hÃ©ten jÃ³l tÃ¶kÃ¶n rÃºgtam Jules-t.}
+{1160}{}{Nem vÃ©letlenÃ¼l hÃ­vnak engem Fortuna kegyeltjÃ©nek.}
+{1161}{}{NanÃ¡, hogy szeretem a brahmin Ã­zÅ± Ã³vszereket! Mmm.}
+{1162}{}{Nem akarsz egy hÃ¶lgyet felvidÃ­tani?}
+{1163}{}{BÃ¡rcsak kitalÃ¡lnÃ¡nak valami szexuÃ¡lis placebÃ³t Myron szÃ¡mÃ¡ra!}
+{1164}{}{Nem akarsz randizni, indiÃ¡n?}
+{1165}{}{RendezzÃ¼nk egy orgiÃ¡t, indiÃ¡n?}
+{1166}{}{Nem akarsz esÅ‘tÃ¡ncot jÃ¡rni a hÃ¡lÃ³szobÃ¡mban, indiÃ¡n?}
+{1167}{}{Neked nem kell mÃ¡s, csak egy Ã©jszaka velem.}
+{1168}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{1169}{}{Nem tudsz segÃ­teni? Az elveszett szÅ±zessÃ©gemet keresem.}
+{1170}{}{SzÅ±z vagyok, de kell a pÃ©nz.}
+{1171}{}{LÃ©gy gyengÃ©d, ez lesz az elsÅ‘... Ma...}
+{1172}{}{Felizgultam jÃ³l!}
+{1173}{}{A kuncsaft tombol, Jules meg spÃ³rol.}
+{1174}{}{Hadd Ã©bresszem fel a benned szunnyadÃ³ gyermeket!}
+{1175}{}{AzÃ©rt csinÃ¡lom ezt, hogy ki tudjam fizetni a tandÃ­jat.}
+{1176}{}{Nem akarsz tÃ¡ncolni, kis szÃ­vem?}
+{1177}{}{MÃ©g egyszer utoljÃ¡ra: Nem fogok MenedÃ©klakÃ³nak Ã¶ltÃ¶zni!}
+{1178}{}{Behajtani jÃ¶ttÃ©l?}
+{1179}{}{Nem akarod hallani, ahogy sÃ³hajtozom?}
+{1180}{}{::DorombolÃ³ hangot hallat::}
+{1181}{}{::RrrrroÃ¡rrr::}
 {1182}{}{Ne csikizz!}
-{1183}{}{Múlt éjszaka óta fennvagyok...}
-{1184}{}{Nincs kedved velem üzekedõ halálkarmokat utánozni?}
-{1185}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{1186}{}{A kötözés extrának számít.}
-{1187}{}{Hol hagytam a korbácsomat?}
-{1188}{}{Készen állok, mint egy péló.}
-{1189}{}{Az eszem megáll! Múlt éjszaka VILMÁNAK kellett öltöznöm!}
-{1190}{}{Az elmúlt éjjel Myronnal voltam. Öt kemény másodpercig.}
-{1191}{}{Nem akarsz kitárazni?}
-{1192}{}{Bárcsak kihoznának valami Jet-illatú testápolót...}
-{1193}{}{Nem akarod elvenni a szüzességemet?}
-{1194}{}{Myron gondoskodik róla, hogy szétmenjen a seggem.}
-{1195}{}{A fene egye meg, az Önmegtartóztatók Szövetsége már megint nálunk terjeszti az igét...}
-{1196}{}{Ha rádnézek, beindul a Geiger számlálóm.}
-{1197}{}{::Fütyül::}
-{1198}{}{A harapás extrának számít.}
-{1199}{}{Garantálom, hogy jobb vagyok a PipBoy kiegészítõdnél.}
-{1200}{}{Nem akarod, hogy meghúzzam a csavarjaidat?}
-{1201}{}{De szívesen lennék most Avellone-nal!}
-{1202}{}{Bárcsak Nick Kesting itt lenne. Órákig beszélgethetnénk a szerepjáték programozásról!}
-{1203}{}{Nick Kesting jó fej fazon. Mindig is nagyokat beszélgettünk.}
-{1204}{}{A Tökös Tomi olyan jóképû srác.}
-{1205}{}{Ötven dolcsiért üvölteni fogsz a gyönyörtõl!}
-{1206}{}{Engem Könnyû Esetnek hívnak, leányzó. Hát téged?}
-{1207}{}{Hé, kicsim! Csak nem meguntad a hétköznapi nõket?}
-{1208}{}{Csak nem felkeltette az érdeklõdésed a másik oldal, édesem?}
-{1209}{}{Társaságra vágysz?}
-{1210}{}{Kislány, hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{1211}{}{Nem akarsz valakit, aki felmelegíti a sátradat, kedvesem?}
-{1212}{}{Nem akarsz valakit, aki megosztaná veled a matracodat, kedves?}
-{1213}{}{Nem akarsz táncolni, kislány?}
-{1214}{}{Kislány, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{1215}{}{Nem akarsz repülni, kislány?}
-{1216}{}{Eltévedtél, picinyem?}
-{1217}{}{Hé, G.I. Jane!}
-{1218}{}{Szórakozni vágysz, kislány?}
-{1219}{}{Csak nem a belvárosba indulsz, leányzó?}
-{1220}{}{Nem kell egy idegenvezetõ, édesem?}
-{1221}{}{Hol van a tûz, kislány?}
-{1222}{}{Te adod a pénzt, én meg magamat.}
-{1223}{}{Engem Könnyû Esetnek hívnak. Hát téged?}
+{1183}{}{MÃºlt Ã©jszaka Ã³ta fennvagyok...}
+{1184}{}{Nincs kedved velem Ã¼zekedÅ‘ halÃ¡lkarmokat utÃ¡nozni?}
+{1185}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{1186}{}{A kÃ¶tÃ¶zÃ©s extrÃ¡nak szÃ¡mÃ­t.}
+{1187}{}{Hova tettem a korbÃ¡csomat?}
+{1188}{}{KÃ©szen Ã¡llok, mint a pÃ©lÃ³.}
+{1189}{}{Az eszem megÃ¡ll! MÃºlt Ã©jszaka VILMÃNAK kellett Ã¶ltÃ¶znÃ¶m!}
+{1190}{}{Az elmÃºlt Ã©jjel Myronnal voltam. Ã–t egÃ©sz mÃ¡sodpercig.}
+{1191}{}{Nem akarsz kitÃ¡razni?}
+{1192}{}{BÃ¡rcsak kihoznÃ¡nak valami Jet-illatÃº testÃ¡polÃ³t...}
+{1193}{}{Nem akarod elvenni a szÃ¼zessÃ©gemet?}
+{1194}{}{Myron gondoskodik rÃ³la, hogy szÃ©tmenjen a seggem.}
+{1195}{}{A fene egye meg, az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge mÃ¡r megint nÃ¡lunk terjeszti az igÃ©t...}
+{1196}{}{Ha rÃ¡dnÃ©zek, beindul a Geiger szÃ¡mlÃ¡lÃ³m.}
+{1197}{}{::FÃ¼tyÃ¼l::}
+{1198}{}{A harapÃ¡s extrÃ¡nak szÃ¡mÃ­t.}
+{1199}{}{GarantÃ¡lom, hogy jobb vagyok a PipBoy kiegÃ©szÃ­tÅ‘dnÃ©l.}
+{1200}{}{Nem akarod, hogy meghÃºzzam a csavarjaidat?}
+{1201}{}{De szÃ­vesen lennÃ©k most Avellone-nal!}
+{1202}{}{BÃ¡rcsak Nick Kesting itt lenne. Ã“rÃ¡kig beszÃ©lgethetnÃ©nk a szerepjÃ¡tÃ©k programozÃ¡srÃ³l!}
+{1203}{}{Nick Kesting jÃ³ fej fazon. Mindig is nagyokat beszÃ©lgettÃ¼nk.}
+{1204}{}{A TÃ¶kÃ¶s Tomi olyan jÃ³kÃ©pÅ± srÃ¡c.}
+{1205}{}{Ã–tven dolcsiÃ©rt Ã¼vÃ¶lteni fogsz a gyÃ¶nyÃ¶rtÅ‘l!}
+{1206}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
+{1207}{}{HÃ©, csinibaba! Csak nem meguntad a hÃ©tkÃ¶znapi nÅ‘ket?}
+{1208}{}{Csak nem felkeltette az Ã©rdeklÅ‘dÃ©sed a mÃ¡sik oldal, Ã©desem?}
+{1209}{}{Nincs szÃ¼ksÃ©ged egy futÃ³ kalandra?}
+{1210}{}{KislÃ¡ny, hadd tanÃ­tsak valamit, amit csak egy nÅ‘ tanÃ­that!}
+{1211}{}{Nem akarsz valakit, aki felmelegÃ­ti a sÃ¡tradat, kedvesem?}
+{1212}{}{Nem akarsz valakit, aki megosztanÃ¡ veled a matracodat, kedves?}
+{1213}{}{Nem tÃ¡ncolsz, bÃ©bi?}
+{1214}{}{KislÃ¡ny, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1215}{}{RepÃ¼lhetnÃ©ked van, kislÃ¡ny?}
+{1216}{}{EltÃ©vedtÃ©l, picinyem?}
+{1217}{}{HÃ©, G.I. Jane!}
+{1218}{}{SzÃ³rakozni vÃ¡gysz, kislÃ¡ny?}
+{1219}{}{Csak nem a belvÃ¡rosba mÃ©sz, leÃ¡nyzÃ³?}
+{1220}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{1221}{}{Hol van a tÅ±z, kislÃ¡ny?}
+{1222}{}{Te adod a pÃ©nzt, Ã©n meg magamat.}
+{1223}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
 {1224}{}{Fel vagy dobva, mi?}
-{1225}{}{Van saját törölközõd?}
-{1226}{}{Ne is kérdezd... igaziak.}
+{1225}{}{HoztÃ¡l sajÃ¡t tÃ¶rÃ¼lkÃ¶zÅ‘t?}
+{1226}{}{Ne is kÃ©rdezd... igaziak.}
 {1227}{}{Bizony, ezek IGAZIAK, de sajna nem tapizhatod meg.}
-{1228}{}{Kopjál le, seggarc!}
-{1229}{}{Kipróbálhatnánk együtt egy kis iszapbirkózást, cowboy!}
-{1230}{}{Nem akarsz elsüllyeszteni a rózsaszín torpedóddal?}
-{1231}{}{Nem akarsz valakit, aki felmelegíti a sátradat?}
-{1232}{}{Nem akarsz valakit, akivel megoszthatod a matracodat?}
-{1233}{}{Látom jól el vagy látva, haver.}
-{1234}{}{Milyen mérges kis gyíkod van!}
-{1235}{}{Valami akcióra vágysz?}
-{1236}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{1237}{}{Randizni szeretnél?}
-{1238}{}{Egyet leszögezek. Ingyenes kóstoló nincs.}
-{1239}{}{Azt hallottam, volt egy kis balhé a Kereskedelmi Negyedben...}
+{1228}{}{KopjÃ¡l le, seggarc!}
+{1229}{}{Nem akarsz befogni, cowboy?}
+{1230}{}{Nem akarsz elsÃ¼llyeszteni a rÃ³zsaszÃ­n torpedÃ³ddal?}
+{1231}{}{Nincs szÃ¼ksÃ©ged valakire, aki felmelegÃ­ti a sÃ¡tradat?}
+{1232}{}{Nincs szÃ¼ksÃ©ged valakire, akivel megoszthatnÃ¡d a matracodat?}
+{1233}{}{LÃ¡tom jÃ³l el vagy lÃ¡tva, haver.}
+{1234}{}{HÅ±, milyen mÃ©rges kis gyÃ­kod van!}
+{1235}{}{Valami akciÃ³ra vÃ¡gysz?}
+{1236}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1237}{}{Partnert keresel?}
+{1238}{}{Egyet leszÃ¶gezek. Ingyenes kÃ³stolÃ³ nincs.}
+{1239}{}{Azt hallottam, volt egy kis balhÃ© a Kereskedelmi Negyedben...}
 {1240}{}{Csak nem partnert keresel?}
-{1241}{}{Az egyetlen sport manapság Renóban a fedettpályás szájtépés.}
-{1242}{}{Nincs kedved táncolni?}
-{1243}{}{Addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{1244}{}{Hogy mi a munkám? Fiúkat FÉRFIVÁ avatok.}
-{1245}{}{Be tudsz verni a farkaddal egy százas szöget a deszkába?}
-{1246}{}{Múlt éjszaka óta az utcát járom...}
-{1247}{}{Nincs szükséged egy esti partnerre? Vagy legalább tíz percre?}
-{1248}{}{Nem akarsz repülni?}
-{1249}{}{Már jó ideje nem láttam reddingi karavánokat errefelé.}
-{1250}{}{Szép dákó!}
-{1251}{}{Eltévedtél, cowboy?}
-{1252}{}{Nincs egy kitárazandó fegyvered, katona?}
-{1253}{}{Bármi, amiben segíthetnék, idegen?}
-{1254}{}{Szórakozni akarsz?}
-{1255}{}{Csak nem a belvárosba mész?}
-{1256}{}{Tetszik a gekkód!}
-{1257}{}{Az egy gekkó a zsebedben?}
-{1258}{}{Nem kell egy idegenvezetõ, édesem?}
-{1259}{}{Hol van a tûz?}
-{1260}{}{Te adod a pénzt, én meg magamat.}
-{1261}{}{Gyermekem, hadd tegyelek férfivá!}
-{1262}{}{Oh, üdv, Mr. Tyler. Esetleg... egy menet?}
-{1263}{}{Ha utána beszélgetni is akarsz, extrának számít.}
-{1264}{}{Jött egyszer egy fickó, Fred Hatch. Azt akarta tudni, vannak-e duci lányok a városban. Fura.}
-{1265}{}{Ha a szex után azt akarod, hogy fennmaradjak, extrának számít.}
-{1266}{}{Nem akarsz eljutni Csodaországba?}
-{1267}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{1268}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{1269}{}{Hé, kedvesem!}
-{1270}{}{Nem akarsz birkózni egyet?}
-{1271}{}{Úgy illek rád, mint egy hús-vér öltöny.}
-{1272}{}{Ha lifegõ szeméremajkakra vágysz, bébi, nálam megkapod.}
-{1273}{}{Nocsak, nocsak. Nézzenek oda, ki csöppent közénk...}
-{1274}{}{Az Édenkertet keresed? Gyere a hálószobámba!}
-{1275}{}{Valami akcióra vágysz?}
-{1276}{}{Ha kételkedsz, vedd elõ!}
-{1277}{}{Hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{1278}{}{Végre felszereltem a párnázott fejtámlát.}
-{1279}{}{Az édenkert íze csak tíz dolcsi...}
-{1280}{}{Myron egy jókora gyertya kanóc nélkül.}
-{1281}{}{Myron egy igazi forgószél.}
+{1241}{}{Az egyetlen sport manapsÃ¡g RenÃ³ban a fedettpÃ¡lyÃ¡s szÃ¡jtÃ©pÃ©s.}
+{1242}{}{Nem akarsz tÃ¡ncolni?}
+{1243}{}{Addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1244}{}{Hogy mi a munkÃ¡m? FiÃºkat FÃ‰RFIVÃ avatok.}
+{1245}{}{Be tudsz verni a farkaddal egy szÃ¡zas szÃ¶get a deszkÃ¡ba?}
+{1246}{}{Tegnap Ã³ta koptatom az utcÃ¡t.}
+{1247}{}{Nincs szÃ¼ksÃ©ged egy esti partnerre? Vagy legalÃ¡bb tÃ­z percre?}
+{1248}{}{Akarsz repÃ¼lni?}
+{1249}{}{MÃ¡r jÃ³ ideje nem lÃ¡ttam reddingi karavÃ¡nokat errefelÃ©.}
+{1250}{}{SzÃ©p dÃ¡kÃ³!}
+{1251}{}{EltÃ©vedtÃ©l, cowboy?}
+{1252}{}{Nincs egy kitÃ¡razandÃ³ fegyvered, kiskatonÃ¡m?}
+{1253}{}{BÃ¡rmi, amiben segÃ­thetnÃ©k, idegen?}
+{1254}{}{SzÃ³rakozni vÃ¡gysz?}
+{1255}{}{Csak nem a belvÃ¡rosba akarsz menni?}
+{1256}{}{Tetszik a gekkÃ³d!}
+{1257}{}{Az ott egy gekkÃ³ a zsebedben?}
+{1258}{}{Nem kell egy idegenvezetÅ‘, Ã©desem?}
+{1259}{}{Hol van a tÅ±z?}
+{1260}{}{Te adod a pÃ©nzt, Ã©n meg magamat.}
+{1261}{}{Gyermekem, hadd tegyelek fÃ©rfivÃ¡!}
+{1262}{}{Oh, Ã¼dv, Mr. Tyler. Esetleg... egy menet?}
+{1263}{}{Ha utÃ¡na beszÃ©lgetni is akarsz, extrÃ¡nak szÃ¡mÃ­t.}
+{1264}{}{JÃ¶tt egyszer egy fickÃ³, Fred Hatch. Azt akarta tudni, vannak-e duci lÃ¡nyok a vÃ¡rosban. Fura.}
+{1265}{}{Ha a szex utÃ¡n azt akarod, hogy fennmaradjak, extrÃ¡nak szÃ¡mÃ­t.}
+{1266}{}{Nem akarsz eljutni CsodaorszÃ¡gba?}
+{1267}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{1268}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{1269}{}{HÃ©, kedvesem!}
+{1270}{}{Nincs kedved dÃ¶ngetni egyet?}
+{1271}{}{Ãšgy illek rÃ¡d, mint egy hÃºs-vÃ©r Ã¶ltÃ¶ny.}
+{1272}{}{Ha lifegÅ‘ szemÃ©remajkakra vÃ¡gysz, bÃ©bi, nÃ¡lam megkapod.}
+{1273}{}{Nocsak, nocsak. NÃ©zzenek oda, ki csÃ¶ppent kÃ¶zÃ©nk...}
+{1274}{}{Az Ã‰denkertet keresed? Gyere a hÃ¡lÃ³szobÃ¡mba!}
+{1275}{}{Valami akciÃ³ra vÃ¡gysz?}
+{1276}{}{Ha kÃ©telkedsz, vedd elÅ‘!}
+{1277}{}{Hadd tanÃ­tsak egy-kÃ©t dolgot, amit csak nÅ‘ tanÃ­that.}
+{1278}{}{VÃ©gÃ¼l is sikerÃ¼lt felszerelnem azt a pÃ¡rnÃ¡zott fejtÃ¡mlÃ¡t.}
+{1279}{}{Az Ã©den Ã­ze csak tÃ­z dolcsiba kerÃ¼l.}
+{1280}{}{Myron egy jÃ³kora gyertya kanÃ³c nÃ©lkÃ¼l.}
+{1281}{}{Myron egy igazi forgÃ³szÃ©l.}
 {1282}{}{AC-DC, B n' D, egyre megy.}
-{1283}{}{A Bishop lány egy lepedõvirtuóz.}
+{1283}{}{A Bishop lÃ¡ny egy lepedÅ‘virtuÃ³z.}
 {1284}{}{She ain't no Jet addict, she's a BONE addict.}
-{1285}{}{Úgy hallottam, Menedékvárosban csak két féle Polgár létezik. Lehet, hogy valami klónozási problémától van.}
-{1286}{}{A múlt éjszaka olyan volt, mintha maratonit futottam volna.}
-{1287}{}{Szerelemre vágysz, kicsim?}
-{1288}{}{Csók nincs. Ez szabály!}
-{1289}{}{Bárcsak Myron elköltözne a holdra.}
-{1290}{}{Bármit megteszek érted... ha megfizeted.}
-{1291}{}{Én menni készülök, édes. Nem jössz?}
-{1292}{}{Felejtsd el a pénzbedobós automatákat! Én jobban megérem a pénzem.}
-{1293}{}{Utálom, amikor mindenestül be kell vennem.}
-{1294}{}{Tégy fel mindent értem, drágám!}
-{1295}{}{Szórakozni vágysz, bébi?}
-{1296}{}{Nem hiszem el, mennyi sztriptíztáncos volt Feargus legénybúcsúján.}
-{1297}{}{Édes szerelmet kapsz tõlem!}
-{1298}{}{Játszadozzunk már egyet!}
+{1285}{}{Ãšgy hallottam, MenedÃ©kvÃ¡rosban csak kÃ©tfÃ©le PolgÃ¡r lÃ©tezik. Lehet, hogy valami klÃ³nozÃ¡si problÃ©mÃ¡tÃ³l van.}
+{1286}{}{A mÃºlt Ã©jszaka olyan volt, mintha maratonit futottam volna.}
+{1287}{}{Szerelemre vÃ¡gysz, kicsim?}
+{1288}{}{CsÃ³k nincs. Ez szabÃ¡ly!}
+{1289}{}{BÃ¡rcsak Myron elkÃ¶ltÃ¶zne. JÃ³ messzire, ha lehet.}
+{1290}{}{BÃ¡rmit megteszek Ã©rted... ha megfizeted.}
+{1291}{}{Ã‰n menni kÃ©szÃ¼lÃ¶k, Ã©des. Nem jÃ¶ssz?}
+{1292}{}{Felejtsd el a jÃ¡tÃ©kautomatÃ¡kat! Ã‰n jobban megÃ©rem a pÃ©nzemet.}
+{1293}{}{UtÃ¡lom, amikor mindenestÃ¼l be kell vennem.}
+{1294}{}{TÃ©gy fel mindent Ã©rtem, Ã©des!}
+{1295}{}{SzÃ³rakozni vÃ¡gysz, bÃ©bi?}
+{1296}{}{Nem hiszem el, mennyi sztriptÃ­ztÃ¡ncos volt Feargus legÃ©nybÃºcsÃºjÃ¡n.}
+{1297}{}{Ã‰des szerelmet kapsz tÅ‘lem!}
+{1298}{}{Ha akarod, eljÃ¡tszadozom veled.}
 {1299}{}{Mocskos Spice vagyok.}
-{1300}{}{Érintetlen Spice vagyok.}
+{1300}{}{Ã‰rintetlen Spice vagyok.}
 {1301}{}{Ribi Spice vagyok.}
 {1302}{}{Old Spice vagyok.}
-{1303}{}{Szifiliszes, illetve... Ribi Spice vagyok.}
+{1303}{}{Szifiliszes, izÃ©... Ribi Spice vagyok.}
 {1304}{}{Koszos Spice vagyok.}
-{1305}{}{Van egy barátnõm is, ha esetleg duálban szereted.}
-{1306}{}{Bárcsak Myron ratyi lenne.}
-{1307}{}{Fel nem tudom fogni, miért hívják ezt itt Szûz utcának...}
-{1308}{}{Bárcsak néha zacskót húzna a fejére az a fickó...}
-{1309}{}{Nem veszel egy italt nekem?}
-{1310}{}{Egy magányos hölgy kíséretre vágyik, nem jössz?}
-{1311}{}{Öö.. hát persze hogy nõ vagyok. Az ádámcsutkámat ne nézd.}
-{1312}{}{Azt mondják, a külvárosi lányok némelyike megölte a stricijét.}
-{1313}{}{Az egész pusztaság legjobb szerelmét kapod tõlem!}
-{1314}{}{Az a Jules jobban tenné, ha békénhagyna.}
-{1315}{}{A fejtámlától még mindig tiszta sebes a fejem...}
-{1316}{}{Még mindig kivagyok az utolsó összeröffenés után...}
-{1317}{}{Az E3-at remélem, más városban tartják majd.}
-{1318}{}{Azt tudod-e, hogy tõled még a vas is megolvadna?}
-{1319}{}{Azt hittem, megmozdult a Föld, de csak erõs volt a chili.}
-{1320}{}{Olvassz fel!}
-{1321}{}{Szûz vagyok, de már a tököm ki van vele.}
-{1322}{}{Nem kell egy idegenvezetõ?}
-{1323}{}{AZTA! Ez bizony extrának számít a javából!}
-{1324}{}{Jules folyton potyázni akar.}
-{1325}{}{Úgy hallottam, a családok közt újra feszültség van.}
-{1326}{}{A dolgok elég belassultak. Bárcsak újra feltûnne az a karaván.}
-{1327}{}{Szóval felölti a Halálkarom maskarát, aztán...}
-{1328}{}{Segítség nélkül nem tudok kibújni ebbõl a ruhából.}
-{1329}{}{Nem akarsz újra és újra feldobni?}
-{1330}{}{Bocsi, mit is mondtál? Túlságosan lekötött a feneked látványa.}
-{1331}{}{Nem akarsz velem tölteni egy kis idõt?}
-{1332}{}{Múlt héten jól alárúgtam a kis Jules barátunknak.}
-{1333}{}{Nem véletlenül hívnak engem Fortuna kegyeltjének.}
-{1334}{}{Naná, hogy szeretem a brahmin ízu óvszereket! Mmm.}
-{1335}{}{Nem akarsz egy hölgyet felvidítani?}
-{1336}{}{Myronnak nincs olyan baja, amit egy töltény ne gyógyítana meg.}
-{1337}{}{Nem akarsz randizni, indián?}
-{1338}{}{Rendezzünk egy orgiát, indián?}
-{1339}{}{Nem akarsz esõtáncot járni a hálószobámban, indián?}
-{1340}{}{Neked nem kell más, csak egy éjszaka velem.}
-{1341}{}{Az Édent keresed? Nálam megtalálod.}
-{1342}{}{Nem tudsz segíteni? Az elveszett szüzességemet keresem.}
-{1343}{}{Szûz vagyok, de kell a pénz.}
-{1344}{}{Légy gyengéd, ez lesz az elsõ... Ma...}
-{1345}{}{Felizgultam, mint állat!}
-{1346}{}{A kuncsaft tombol, Jules meg spórol.}
-{1347}{}{Hadd ébresszem fel a benned szunnyadó gyermeket!}
-{1348}{}{Csak azért csinálom, hogy a tandíjat fizetni tudjam.}
-{1349}{}{Nem akarsz táncolni, édes szívem?}
-{1350}{}{Még egyszer utoljára: Nem fogok Menedéklakónak öltözni!}
-{1351}{}{Behajtani jöttél?}
-{1352}{}{Nem akarod hallani, ahogy sóhajtozom?}
-{1353}{}{::Doromboló hangot hallat::}
-{1354}{}{::Rrrrroárrr::}
+{1305}{}{Van egy barÃ¡tnÅ‘m is, ha esetleg duÃ¡lban szereted.}
+{1306}{}{BÃ¡rcsak Myron ratyi lenne.}
+{1307}{}{Fel nem tudom fogni, miÃ©rt hÃ­vjÃ¡k ezt itt SzÅ±z utcÃ¡nak...}
+{1308}{}{BÃ¡rcsak nÃ©ha zacskÃ³t hÃºzna a fejÃ©re az a fickÃ³...}
+{1309}{}{Nem hÃ­vsz meg egy italra?}
+{1310}{}{Egy magÃ¡nyos hÃ¶lgy kÃ­sÃ©retre vÃ¡gyik!}
+{1311}{}{Ã–Ã¶.. hÃ¡t persze hogy nÅ‘ vagyok. Az Ã¡dÃ¡mcsutkÃ¡mat ne nÃ©zd.}
+{1312}{}{Azt rebesgetik, a kÃ¼lvÃ¡rosi lÃ¡nyok nÃ©melyike megÃ¶lte a stricijÃ©t.}
+{1313}{}{Az egÃ©sz pusztasÃ¡g legjobb szerelmÃ©t kapod tÅ‘lem!}
+{1314}{}{Az a Jules gyerek jobban tennÃ©, ha bÃ©kÃ©nhagyna.}
+{1315}{}{A fejtÃ¡mlÃ¡tÃ³l mÃ©g mindig lila foltokkal van tele a fejem...}
+{1316}{}{MÃ©g mindig kivagyok az utolsÃ³ Ã¶sszerÃ¶ffenÃ©s utÃ¡n...}
+{1317}{}{Az E3-at igazÃ¡n mÃ¡s vÃ¡rosban is tarthatnÃ¡k.}
+{1318}{}{Azt tudod-e, hogy tÅ‘led mÃ©g a fÃ©m is megolvadna?}
+{1319}{}{Azt hittem, megmozdult a FÃ¶ld, de csak erÅ‘s volt a chili.}
+{1320}{}{Olvassz szÃ©t!}
+{1321}{}{SzÅ±z vagyok, Ã©s mÃ¡r kezdem unni.}
+{1322}{}{Nem kell egy idegenvezetÅ‘?}
+{1323}{}{AZTA! Ez bizony extrÃ¡nak szÃ¡mÃ­t a javÃ¡bÃ³l!}
+{1324}{}{Jules folyton potyÃ¡zni akar.}
+{1325}{}{Ãšgy hallottam, a csalÃ¡dok kÃ¶zt Ãºjra feszÃ¼ltsÃ©g van.}
+{1326}{}{A dolgok elÃ©g belassultak. BÃ¡rcsak Ãºjra feltÅ±nne az a karavÃ¡n.}
+{1327}{}{SzÃ³val felÃ¶lti a HalÃ¡lkarom jelmezt, aztÃ¡n...}
+{1328}{}{SegÃ­tsÃ©g nÃ©lkÃ¼l nem tudok kibÃºjni ebbÅ‘l a ruhÃ¡bÃ³l.}
+{1329}{}{Nem akarsz Ãºjra Ã©s Ãºjra feldobni?}
+{1330}{}{Bocsi, mit is mondtÃ¡l? TÃºlsÃ¡gosan lekÃ¶tÃ¶tt a feneked lÃ¡tvÃ¡nya.}
+{1331}{}{Nem akarsz egy kis idÅ‘t eltÃ¶lteni velem?}
+{1332}{}{MÃºlt hÃ©ten jÃ³l tÃ¶kÃ¶n rÃºgtam Jules-t.}
+{1333}{}{Nem vÃ©letlenÃ¼l hÃ­vnak engem Fortuna kegyeltjÃ©nek.}
+{1334}{}{NanÃ¡, hogy szeretem a brahmin Ã­zÅ± Ã³vszereket! Mmm.}
+{1335}{}{Nem akarsz egy hÃ¶lgyet felvidÃ­tani?}
+{1336}{}{Myronnak nincs olyan baja, amit egy tÃ¶ltÃ©ny ne gyÃ³gyÃ­tana meg.}
+{1337}{}{Nem akarsz randizni, indiÃ¡n?}
+{1338}{}{RendezzÃ¼nk egy orgiÃ¡t, indiÃ¡n?}
+{1339}{}{Nem akarsz esÅ‘tÃ¡ncot jÃ¡rni a hÃ¡lÃ³szobÃ¡mban, indiÃ¡n?}
+{1340}{}{Neked nem kell mÃ¡s, csak egy Ã©jszaka velem.}
+{1341}{}{Az Ã‰dent keresed? NÃ¡lam megtalÃ¡lod.}
+{1342}{}{Nem tudsz segÃ­teni? Az elveszett szÅ±zessÃ©gemet keresem.}
+{1343}{}{SzÅ±z vagyok, de kell a pÃ©nz.}
+{1344}{}{LÃ©gy gyengÃ©d, ez lesz az elsÅ‘... Ma...}
+{1345}{}{Felizgultam jÃ³l!}
+{1346}{}{A kuncsaft tombol, Jules meg spÃ³rol.}
+{1347}{}{Hadd Ã©bresszem fel a benned szunnyadÃ³ gyermeket!}
+{1348}{}{AzÃ©rt csinÃ¡lom ezt, hogy ki tudjam fizetni a tandÃ­jat.}
+{1349}{}{Nem akarsz tÃ¡ncolni, kis szÃ­vem?}
+{1350}{}{MÃ©g egyszer utoljÃ¡ra: Nem fogok MenedÃ©klakÃ³nak Ã¶ltÃ¶zni!}
+{1351}{}{Behajtani jÃ¶ttÃ©l?}
+{1352}{}{Nem akarod hallani, ahogy sÃ³hajtozom?}
+{1353}{}{::DorombolÃ³ hangot hallat::}
+{1354}{}{::RrrrroÃ¡rrr::}
 {1355}{}{Ne csikizz!}
-{1356}{}{Kezdek kilenni Renótól...}
-{1357}{}{Nincs kedved velem üzekedõ halálkarmokat utánozni?}
-{1358}{}{Nem vagyok olcsó, viszont különlegeset nyújtok.}
-{1359}{}{A kötözés extrának számít.}
-{1360}{}{Hol hagytam a korbácsomat?}
-{1361}{}{Készen állok, mint egy péló.}
-{1362}{}{Az eszem megáll! Múlt éjszaka VILMÁNAK kellett öltöznöm!}
-{1363}{}{Az elmúlt éjjel Myronnal voltam. Öt kemény másodpercig.}
-{1364}{}{Nem akarsz kitárazni?}
-{1365}{}{Hol van a tûz?}
-{1366}{}{Nem akarod elvenni a szüzességemet?}
-{1367}{}{Myron gondoskodik róla, hogy szétmenjen a seggem.}
-{1368}{}{A fene egye meg, az Önmegtartóztatók Szövetsége már megint nálunk terjeszti az igét...}
-{1369}{}{Ha rádnézek, beindul a Geiger számlálóm.}
-{1370}{}{::Fütyül::}
-{1371}{}{A harapás extrának számít.}
-{1372}{}{Garantálom, hogy jobb vagyok a PipBoy kiegészítõdnél.}
-{1373}{}{Nem akarod, hogy meghúzzam a csavarjaidat?}
-{1374}{}{De szívesen lennék most Avellone-nal!}
-{1375}{}{Bárcsak Nick Kesting itt lenne. Órákig beszélgethetnénk a szerepjáték programozásról!}
-{1376}{}{Nick Kesting jó fej fazon. Mindig is nagyokat beszélgettünk.}
-{1377}{}{A Tökös Tomi olyan jóképû srác.}
-{1378}{}{Ötven dolcsiért üvölteni fogsz a gyönyörtõl!}
-{1379}{}{Engem Könnyû Esetnek hívnak, leányzó. Hát téged?}
-{1380}{}{Hé, kicsim! Csak nem meguntad a hétköznapi nõket?}
-{1381}{}{Csak nem felkeltette az érdeklõdésed a másik oldal, édesem?}
-{1382}{}{Társaságra vágysz?}
-{1383}{}{Kislány, hadd tanítsak valamit, amit csak egy nõ taníthat!}
-{1384}{}{Nem akarsz valakit, aki felmelegíti a sátradat, kedvesem?}
-{1385}{}{Nem akarsz valakit, aki megosztaná veled a matracodat, kedves?}
-{1386}{}{Nem akarsz táncolni, kislány?}
-{1387}{}{Kislány, addig fogalmad nem lesz a szerelemrõl, amíg a renói szerelmet ki nem próbáltad.}
-{1388}{}{Nem akarsz repülni, kislány?}
-{1389}{}{Eltévedtél, picinyem?}
+{1356}{}{Kezdek kilenni RenÃ³tÃ³l...}
+{1357}{}{Nincs kedved velem Ã¼zekedÅ‘ halÃ¡lkarmokat utÃ¡nozni?}
+{1358}{}{Nem vagyok olcsÃ³, de kÃ¼lÃ¶nlegeset nyÃºjtok.}
+{1359}{}{A kÃ¶tÃ¶zÃ©s extrÃ¡nak szÃ¡mÃ­t.}
+{1360}{}{Hova tettem a korbÃ¡csomat?}
+{1361}{}{KÃ©szen Ã¡llok, mint a pÃ©lÃ³.}
+{1362}{}{Az eszem megÃ¡ll! MÃºlt Ã©jszaka VILMÃNAK kellett Ã¶ltÃ¶znÃ¶m!}
+{1363}{}{Az elmÃºlt Ã©jjel Myronnal voltam. Ã–t egÃ©sz mÃ¡sodpercig.}
+{1364}{}{Nem akarsz kitÃ¡razni?}
+{1365}{}{Hol van a tÅ±z?}
+{1366}{}{Nem akarod elvenni a szÃ¼zessÃ©gemet?}
+{1367}{}{Myron gondoskodik rÃ³la, hogy szÃ©tmenjen a seggem.}
+{1368}{}{A fene egye meg, az Ã–nmegtartÃ³ztatÃ³k SzÃ¶vetsÃ©ge mÃ¡r megint nÃ¡lunk terjeszti az igÃ©t...}
+{1369}{}{Ha rÃ¡dnÃ©zek, beindul a Geiger szÃ¡mlÃ¡lÃ³m.}
+{1370}{}{::FÃ¼tyÃ¼l::}
+{1371}{}{A harapÃ¡s extrÃ¡nak szÃ¡mÃ­t.}
+{1372}{}{GarantÃ¡lom, hogy jobb vagyok a PipBoy kiegÃ©szÃ­tÅ‘dnÃ©l.}
+{1373}{}{Nem akarod, hogy meghÃºzzam a csavarjaidat?}
+{1374}{}{De szÃ­vesen lennÃ©k most Avellone-nal!}
+{1375}{}{BÃ¡rcsak Nick Kesting itt lenne. Ã“rÃ¡kig beszÃ©lgethetnÃ©nk a szerepjÃ¡tÃ©k programozÃ¡srÃ³l!}
+{1376}{}{Nick Kesting jÃ³ fej fazon. Mindig is nagyokat beszÃ©lgettÃ¼nk.}
+{1377}{}{A TÃ¶kÃ¶s Tomi olyan jÃ³kÃ©pÅ± srÃ¡c.}
+{1378}{}{Ã–tven dolcsiÃ©rt Ã¼vÃ¶lteni fogsz a gyÃ¶nyÃ¶rtÅ‘l!}
+{1379}{}{Engem KÃ¶nnyÅ± Esetnek hÃ­vnak. HÃ¡t tÃ©ged?}
+{1380}{}{HÃ©, csinibaba! Csak nem meguntad a hÃ©tkÃ¶znapi nÅ‘ket?}
+{1381}{}{Csak nem felkeltette az Ã©rdeklÅ‘dÃ©sed a mÃ¡sik oldal, Ã©desem?}
+{1382}{}{Nincs szÃ¼ksÃ©ged egy futÃ³ kalandra?}
+{1383}{}{KislÃ¡ny, hadd tanÃ­tsak valamit, amit csak egy nÅ‘ tanÃ­that!}
+{1384}{}{Nem akarsz valakit, aki felmelegÃ­ti a sÃ¡tradat, kedvesem?}
+{1385}{}{Nem akarsz valakit, aki megosztanÃ¡ veled a matracodat, kedves?}
+{1386}{}{Nem tÃ¡ncolsz, bÃ©bi?}
+{1387}{}{KislÃ¡ny, addig fogalmad nem lesz a szerelemrÅ‘l, amÃ­g a renÃ³i szerelmet ki nem prÃ³bÃ¡ltad.}
+{1388}{}{RepÃ¼lhetnÃ©ked van, kislÃ¡ny?}
+{1389}{}{EltÃ©vedtÃ©l, picinyem?}
 {1390}{}{Szia, G.I. Jane!}
-{1391}{}{Szórakozni vágysz, kislány?}
-{1392}{}{Csak nem a belvárosba indulsz, leányzó?}
-{1393}{}{Netán akcióra vágysz, édesem?}
-{1394}{}{Hol van a tûz, kedves?}
-{1395}{}{Kislány, te adod a pénzt, én meg magamat.}
-{2175}{}{. Õ az, aki picsán rúgta az Enklávésokat!}
-{2178}{}{. Szép munka volt valagba rúgni az Enklávés fiúkat!}
-{2181}{}{. Õ az, aki picsán rúgta az Enklávésokat!}
-{2195}{}{!}
-{2197}{}{! Nem tudnál nekem munkát szerezni a stúdióban?}
-{2210}{}{ vagyok.}
-{2263}{}{! Te jössz, csõdör!}
-{2264}{}{ annyi seggbe belerúgott már! Lehet, hogy csizma volt elõzõ életében.}
-{2268}{}{?}
-{2272}{}{?}
-{2278}{}{! Te jössz, kislány!}
-{2279}{}{?}
-{2280}{}{ annyi seggbe belerúgott már! Lehet, hogy csizma volt elõzõ életében.}
-{2285}{}{ vagyok.}
-{2292}{}{Ó...}
-{2293}{}{?}
-{2294}{}{... gyere ide, édes pofa...}
-{2295}{}{ vagyok.}
-{2855}{}{?}
-{2858}{}{?}
-{2861}{}{?}
-{2865}{}{, te nagy mackó... mit forgatsz a fejedben?}
+{1391}{}{SzÃ³rakozni vÃ¡gysz, kislÃ¡ny?}
+{1392}{}{Csak nem a belvÃ¡rosba mÃ©sz, leÃ¡nyzÃ³?}
+{1393}{}{NetÃ¡n akciÃ³ra vÃ¡gysz, Ã©desem?}
+{1394}{}{Hol van a tÅ±z, kedves?}
+{1395}{}{KislÃ¡ny, te adod a pÃ©nzt, Ã©n meg magamat.}
+{2175}{}{. Å az, aki picsÃ¡n rÃºgta az EnklÃ¡vÃ©sokat!}
+{2178}{}{! JÃ³ munka volt seggbe rÃºgni az EnklÃ¡vÃ©t!}
+{2181}{}{. Å az, aki picsÃ¡n rÃºgta az EnklÃ¡vÃ©sokat!}
+{2195}{}{. menet!}
+{2197}{}{! Nem tudnÃ¡l nekem munkÃ¡t szerezni a stÃºdiÃ³ban?}
+{2210}{}{ dollÃ¡r.}
+{2263}{}{! Te jÃ¶ssz, csÅ‘dÃ¶r!}
+{2264}{}{ annyi seggbe belerÃºgott mÃ¡r! Lehet, hogy csizma volt elÅ‘zÅ‘ Ã©letÃ©ben.}
+{2268}{}{ barÃ¡toddal?}
+{2272}{}{ barÃ¡toddal?}
+{2278}{}{! Te jÃ¶ssz, kislÃ¡ny!}
+{2279}{}{ barÃ¡toddal?}
+{2280}{}{ annyi seggbe belerÃºgott mÃ¡r! Lehet, hogy csizma volt elÅ‘zÅ‘ Ã©letÃ©ben.}
+{2285}{}{ dollÃ¡r.}
+{2292}{}{Ã“...}
+{2293}{}{ barÃ¡toddal?}
+{2294}{}{... gyere ide, Ã©des pofa...}
+{2295}{}{ dollÃ¡r.}
+{2855}{}{ barÃ¡toddal?}
+{2858}{}{ barÃ¡toddal?}
+{2861}{}{ barÃ¡toddal?}
+{2865}{}{, te nagy mackÃ³... mit forgatsz a fejedben?}
 {2867}{}{! Hogy vagy?}
-{2868}{}{! Segíthetek *valamiben*?}
-{2870}{}{ vagyok.}
-{2873}{}{, te kis csábító... mit forgatsz a fejedben?}
-{3100}{}{Õ a Cat's Paw szalon lányainak egyike.}
-{3150}{}{Õ egy... éjszakai pillangó. Lenge öltözékét csábosan tekerte magára.}
+{2868}{}{! SegÃ­thetek *valamiben*?}
+{2870}{}{ dollÃ¡r.}
+{2873}{}{, te kis csÃ¡bÃ­tÃ³... mit forgatsz a fejedben?}
+{3100}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike.}
+{3150}{}{Å egy... Ã©jjeli pillangÃ³. Lenge Ã¶ltÃ¶zÃ©kÃ©t csÃ¡bosan tekerte magÃ¡ra.}
 {3151}{}{You see one of the Cat's Paw girls. She winks at you.}
-{3152}{}{Õ a Cat's Paw szalon lányainak egyike. A szeme olyan, mint a kiment biztosíték.}
-{3153}{}{Õ a Cat's Paw szalon lányainak egyike. Virágillata van.}
-{3154}{}{Õ a Cat's Paw szalon lányainak egyike. Olyan illata van, mint a mamádnak.}
-{3155}{}{Õ a Cat's Paw szalon lányainak egyike. Kész rejtély, hogy lenge öltözéke hogyan képes kordában tartani a melleit.}
-{3156}{}{Õ a Cat's Paw szalon lányainak egyike. Úgy néz ki, mint aki elõször megöli, aztán megeszi a partnereit.}
-{3157}{}{Õ a Cat's Paw szalon lányainak egyike. Úgy tanulmányoz téged, mint egy ékszerész.}
-{3158}{}{Õ a Cat's Paw szalon lányainak egyike. Lenge öltözékét csábosan kanyarította maga köré.}
-{3200}{}{Óh, Istenem! Óh, Istenem! ÓhIstenÓhIstenemÓhIst... ooooooooh Istenem.}
-{3201}{}{Igen! Igen! Igeeeeeeeeen. IgenIgenIgenIgen IGEN IGEN IGGGGEN! Most pedig mehetsz a pénztárhoz.}
-{3202}{}{Siess! Ketyeg az óra!}
-{3203}{}{Kell egy törülközõ?}
-{3204}{}{Vedd elõ, Fr... Ni... Sco... ööö, bocsi, mit is mondtál, hogy hívnak?}
-{3205}{}{Óh, Istenem, óh Istenem, óh Istenem! NA akkor ezzel kész vagyunk?}
-{3206}{}{AZTA! Ez bizony extrának számít!}
-{3207}{}{Igen! Te vagy Columbus, én vagyok Amerika!}
-{3208}{}{Óh, Istenem, ez a legjobb volt, amit valaha átéltem. Most pedig kopj le rólam, és irány a kassza!}
-{3209}{}{Benn van már?}
-{3210}{}{Igen, TE vagy a Menedéklakó. Igen, TE találtad meg a víztísztító chipet és TE gyõzted le a MESTERT! HÕS VAGY!!!}
-{3211}{}{Olyan kemény vagy, mint az Enklávésok páncélja.}
+{3152}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. A szeme olyan, mint a kiment biztosÃ­tÃ©k.}
+{3153}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. VirÃ¡gillata van.}
+{3154}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. Olyan illata van, mint a mamÃ¡dnak.}
+{3155}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. KÃ©sz rejtÃ©ly, hogy lenge Ã¶ltÃ¶zÃ©ke hogyan kÃ©pes kordÃ¡ban tartani a melleit.}
+{3156}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. Ãšgy nÃ©z ki, mint aki elÅ‘szÃ¶r megÃ¶li, aztÃ¡n megeszi a partnereit.}
+{3157}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. Ãšgy tanulmÃ¡nyoz tÃ©ged, mint egy Ã©kszerÃ©sz.}
+{3158}{}{Å a Cat's Paw szalon lÃ¡nyainak egyike. Lenge Ã¶ltÃ¶zÃ©kÃ©t csÃ¡bosan kanyarÃ­totta maga kÃ¶rÃ©.}
+{3200}{}{Ã“h, Istenem! Ã“h, Istenem! Ã“hIstenÃ“hIstenemÃ“hIst... ooooooooh Istenem.}
+{3201}{}{Igen! Igen! Igeeeeeeeeen. IgenIgenIgenIgen IGEN IGEN IGGGGEN! Most pedig mehetsz a pÃ©nztÃ¡rhoz.}
+{3202}{}{Siess! Ketyeg az Ã³ra!}
+{3203}{}{Kell egy tÃ¶rÃ¼lkÃ¶zÅ‘?}
+{3204}{}{Vedd elÅ‘, Fr... Ni... Sco... Ã¶Ã¶Ã¶, bocsi, mit is mondtÃ¡l, hogy hÃ­vnak?}
+{3205}{}{Ã“h, Istenem, Ã³h Istenem, Ã³h Istenem! NA akkor ezzel kÃ©sz vagyunk?}
+{3206}{}{AZTA! Ez bizony extrÃ¡nak szÃ¡mÃ­t!}
+{3207}{}{Igen! Te vagy Columbus, Ã©n vagyok Amerika!}
+{3208}{}{Ã“h, Istenem, ez a legjobb volt, amit valaha Ã¡tÃ©ltem. Most pedig kopj le rÃ³lam, Ã©s irÃ¡ny a kassza!}
+{3209}{}{Benn van mÃ¡r?}
+{3210}{}{Igen, TE vagy a MenedÃ©klakÃ³. Igen, TE talÃ¡ltad meg a vÃ­ztÃ­sztÃ­tÃ³ chipet Ã©s TE gyÅ‘zted le a MESTERT! HÅS VAGY!!!}
+{3211}{}{Olyan kemÃ©ny vagy, mint az EnklÃ¡vÃ©sok pÃ¡ncÃ©lja.}
 {3212}{}{*Huff*}
 {3213}{}{*Puff*}
-{3214}{}{Azért se viselem a Mickey Mouse fület!}
-{3215}{}{Igen, igen, iszonyat heréid vannak!}
+{3214}{}{AzÃ©rt se viselem a Mickey Mouse fÃ¼let!}
+{3215}{}{Igen, igen, iszonyat herÃ©id vannak!}

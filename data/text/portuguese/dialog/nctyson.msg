@@ -1,4 +1,4 @@
-{100}{}{Você vê um boxeador.}
+{100}{}{VocÃª vÃª um boxeador.}
 {101}{}{You see Mike "the Masticator."}
 {150}{}{His arms look like tree trunks.}
 {151}{}{Each arm looks like it could double as a tank barrel.}
@@ -29,5 +29,5 @@
 {202}{}{::Mike holds up his hands in surrender as you approach::}
 {203}{}{Que fofo.}
 {204}{}{Eu gosto das suas orelhas.}
-{205}{}{Enough talk. Time for bed.}
+{205}{}{Chega de conversa. Hora de dormir.}
 {206}{}{Robin? That you?}

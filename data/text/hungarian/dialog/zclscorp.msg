@@ -1,2 +1,2 @@
-{100}{}{Egy radskorpiót látsz.}
-{500}{}{Megölted a brahminokat fenyegetõ összes radskorpiót.}
+{100}{}{Egy radskorpiÃ³t lÃ¡tsz.}
+{500}{}{MegÃ¶lted a brahminokat fenyegetÅ‘ Ã¶sszes radskorpiÃ³t.}

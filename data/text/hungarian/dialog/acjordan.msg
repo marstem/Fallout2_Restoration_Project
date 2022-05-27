@@ -1,9 +1,9 @@
-{100}{}{Õ Jordan, aki szokása szerint a dárdáját forgatja.}
-{101}{}{Õ Jordan, aki szokása szerint a dárdáját forgatja.}
-{102}{}{Sok szerencsét! Tõled függ a falu élete.}
-{103}{}{Kiválasztott, ahogy azzal a dárdával bánsz, könnyû préda leszel a gekkók számára. Mutathatok neked néhány fogást.}
-{104}{}{Hogyne.}
-{105}{}{Nem, kösz.}
-{106}{}{Egy kis idõbe fog telni.}
-{107}{}{Gyorsan tanulsz! Úgy látszik, mindent a fejedbe véstél, amit mutattam neked.}
-{108}{}{Köszönöm, Jordan, sokat segítettél.}
+{100}{}{Å Jordan, aki szokÃ¡sa szerint a dÃ¡rdÃ¡jÃ¡t forgatja.}
+{101}{}{Å Jordan, aki szokÃ¡sa szerint a dÃ¡rdÃ¡jÃ¡t forgatja.}
+{102}{}{Sok szerencsÃ©t! TÅ‘led fÃ¼gg a falu Ã©lete.}
+{103}{}{KivÃ¡lasztott, ahogy azzal a dÃ¡rdÃ¡val bÃ¡nsz, kÃ¶nnyÅ± prÃ©da leszel a gekkÃ³k szÃ¡mÃ¡ra. Mutathatok neked nÃ©hÃ¡ny fogÃ¡st.}
+{104}{}{Persze.}
+{105}{}{Nem, kÃ¶sz.}
+{106}{}{Egy kis idÅ‘be fog telni.}
+{107}{}{Gyorsan tanulsz! Ãšgy lÃ¡tszik, mindent a fejedbe vÃ©stÃ©l, amit mutattam neked.}
+{108}{}{KÃ¶szÃ¶nÃ¶m, Jordan, sokat segÃ­tettÃ©l.}

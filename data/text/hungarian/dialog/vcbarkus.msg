@@ -1,171 +1,171 @@
-{100}{}{Egy menedékvárosi hivatalnok.}
-{101}{}{Õ Barkus, a Szolgaközvetítõ Központ vezetõje.}
-{102}{}{Mi a... ?! Egy mutáns Menedékvárosban?! Õrség! Õrség!!!}
-{103}{}{Mi a... ?! Egy ghoul Menedékvárosban?! Õrség! Õrség!!!}
-{104}{}{Ömm... hurnhh?}
+{100}{}{Egy menedÃ©kvÃ¡rosi hivatalnok.}
+{101}{}{Å Barkus, a SzolgakÃ¶zvetÃ­tÅ‘ KÃ¶zpont vezetÅ‘je.}
+{102}{}{Mi a... ?! Egy mutÃ¡ns MenedÃ©kvÃ¡rosban?! ÅrsÃ©g! ÅrsÃ©g!!!}
+{103}{}{Mi a... ?! Egy ghoul MenedÃ©kvÃ¡rosban?! ÅrsÃ©g! ÅrsÃ©g!!!}
+{104}{}{Ã–mm... hurnhh?}
 {105}{}{Ha verekedni akarsz...}
-{106}{}{A Szolgaközvetítõ Központ már zárva van. Gyere vissza holnap!}
-{107}{}{Igen, Kapitány?}
-{108}{}{Igen, Polgár?}
-{109}{}{Igen, mi az? Még nagyon sok dolgom van.}
-{110}{}{Én keres Menelék!}
-{111}{}{[Elcsoszogsz]}
-{112}{}{Megtudhatnám, mi ez az épület?}
-{113}{}{A Menedéket keresem.}
-{114}{}{Egy szolga után érdeklõdöm. Ha jól emlékszem, Joshuának hívják. Itt van?}
-{115}{}{Érdekel néhány eladásra szánt rabsz... akarom mondani szolga?}
-{116}{}{Kösz, egyelõre elleszek magam is.}
-{117}{}{Ez? Ez a Szolgaközvetítõ Központ. Szükséged van egy szolgára?}
-{118}{}{Ez a Szolgaközvetítõ Központ.}
-{119}{}{Szolgaközvetítõ Központ?! Nem értem.}
-{120}{}{Egy szolga után érdeklõdöm. Ha jól emlékszem, Joshuának hívják. Itt van?}
-{121}{}{Hát persze, "szolga"elosztó, mi? Vásároltok itt rabsz... akarom mondani szolgákat?}
-{122}{}{Csak kíváncsiskodtam. Köszönöm.}
-{123}{}{Értem, viszlát!}
-{124}{}{A Menedéket? Itt van a közelben, az a nagy lyuk a hegy oldalában, a város keleti részén. Kimész az ajtón, balra fordulsz, aztán egyenesen tovább. El sem tévesztheted.}
-{125}{}{Megtudhatnám, mi ez az épület?}
-{126}{}{Bárki bemehet oda?}
-{127}{}{Lenne még egy kérdésem.}
-{128}{}{Köszönöm a segítséget, bátyám. Viszlát!}
-{129}{}{Hát te meg ki vagy, tyúkeszû barátom. Az egyik új szolga?}
+{106}{}{A SzolgakÃ¶zvetÃ­tÅ‘ KÃ¶zpont mÃ¡r zÃ¡rva van. Gyere vissza holnap!}
+{107}{}{Igen, KapitÃ¡ny?}
+{108}{}{Igen, PolgÃ¡r?}
+{109}{}{Igen, mi az? MÃ©g nagyon sok dolgom van.}
+{110}{}{Ã‰n keres MenelÃ©k!}
+{111}{}{[TovÃ¡bbÃ¡llsz]}
+{112}{}{MegtudhatnÃ¡m, mi ez az Ã©pÃ¼let?}
+{113}{}{MenedÃ©ket keresem.}
+{114}{}{Egy szolga utÃ¡n Ã©rdeklÅ‘dÃ¶m. Ha jÃ³l emlÃ©kszem, JoshuÃ¡nak hÃ­vjÃ¡k. Itt van?}
+{115}{}{Ã‰rdekel nÃ©hÃ¡ny eladÃ¡sra szÃ¡nt rabsz... akarom mondani szolga?}
+{116}{}{TÅ‘led? Semmit.}
+{117}{}{Ez? Ez a SzolgakÃ¶zvetÃ­tÅ‘ KÃ¶zpont. SzÃ¼ksÃ©ged van egy szolgÃ¡ra?}
+{118}{}{Ez a SzolgakÃ¶zvetÃ­tÅ‘ KÃ¶zpont.}
+{119}{}{SzolgakÃ¶zvetÃ­tÅ‘ KÃ¶zpont?! Nem Ã©rtem.}
+{120}{}{Egy szolga utÃ¡n Ã©rdeklÅ‘dÃ¶m. Ha jÃ³l emlÃ©kszem, JoshuÃ¡nak hÃ­vjÃ¡k. Itt van?}
+{121}{}{HÃ¡t persze, "szolga"elosztÃ³, mi? VÃ¡sÃ¡roltok itt rabsz... akarom mondani szolgÃ¡kat?}
+{122}{}{Csak kÃ­vÃ¡ncsiskodtam. KÃ¶szÃ¶nÃ¶m.}
+{123}{}{Ã‰rtem, viszlÃ¡t!}
+{124}{}{A MenedÃ©ket? Itt van a kÃ¶zelben, az a nagy lyuk a hegy oldalÃ¡ban, a vÃ¡ros keleti rÃ©szÃ©n. KimÃ©sz az ajtÃ³n, balra fordulsz, aztÃ¡n egyenesen tovÃ¡bb. El sem tÃ©vesztheted.}
+{125}{}{MegtudhatnÃ¡m, mi ez az Ã©pÃ¼let?}
+{126}{}{BÃ¡rki bemehet oda?}
+{127}{}{Lenne mÃ©g egy kÃ©rdÃ©sem.}
+{128}{}{KÃ¶sz az ÃºtbaigazÃ­tÃ¡st! ViszlÃ¡t.}
+{129}{}{HÃ¡t te meg ki vagy, tyÃºkeszÅ± barÃ¡tom. Az egyik Ãºj szolga?}
 {130}{}{Ja}
-{131}{}{Én most menni elfele.}
-{132}{}{Biztos új vagy még. Akkor most elmagyarázom, mit kell tenned. Szééép... las... san.}
-{133}{}{Ha egy Polgárnak segítségre van szüksége az alantas munkák elvégzéséhez, ide jön, és mi arra a napra beosztunk mellé egy szolgát.}
-{134}{}{Ez eléggé kimeríti a rabszolgaság fogalmát.}
-{135}{}{Így már világos... szóval itt tartjátok a rabszolgákat.}
-{136}{}{Honnan szerzitek õket?}
-{137}{}{Egy szolga után érdeklõdöm. Ha jól emlékszem, Joshuának hívják. Itt van?}
-{138}{}{Érdekel néhány eladásra szánt... szolga?}
-{139}{}{Köszönöm az információt. Viszlát!}
-{140}{}{Elegem van már abból, hogy a szolgákat csak úgy küldözgetik... [sóhajt]... Lássuk csak! Szóval a Menedéket keresed? Biztos oda rendeltek. Rendben, mindjárt kerítek valakit, aki bekísér.}
-{141}{}{Menelék! Menelék!}
-{142}{}{Én a helyedben vigyáznék a számra! Ez NEM rabszolgaság. Mi gondoskodunk ezekrõl az emberekrõl, jó életük van itt... legalábbis jobb, mint amit a pusztában remélhetnének.}
-{143}{}{Honnan szerzitek õket?}
-{144}{}{Feltehetnék még egy kérdést?}
-{145}{}{Csak ennyit akartam tudni. Viszlát!}
-{146}{}{Nem. Ahhoz, hogy beléphess a Menedékbe, polgárnak kell lenned. Nézd, nagyon elfoglalt vagyok, szóval ha megbocsátasz...}
-{147}{}{Csak még egy kérdés...}
-{148}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{149}{}{A szolgáink többnyire rablótámadások túlélõi vagy elítéltek, akik a büntetésüket produktív munkával kívánják letölteni.}
-{150}{}{Áhááá... úgy érted, hogy felvételi vizsgát kell tenniük? Ismertem egy srácot, Dan-nek hívták, aki egyszer...}
-{151}{}{Világos. Szóval rabszolgákat csináltok a szerencsétlenekbõl.}
-{152}{}{Egy szolga után érdeklõdöm. Ha jól emlékszem, Joshuának hívják. Itt van?}
-{153}{}{Van néhány eladásra szánt szolgám. Érdekel?}
-{154}{}{Feltennék még egy kérdést.}
-{155}{}{Értem. Köszönöm az információt.}
-{156}{}{Nem... [sóhajt]... a szolgáknak nem kell felvételi vizsgát tenniük, te hülye.}
-{157}{}{Hülye?! Keményen megdolgoztam a kilences Intelligenciáért és Érzékelésért, hogy megtaláljam ezt a beszólást. Na, mindegy. Hol is tartottunk?}
-{158}{}{Majd pont te fogsz itt morális ítéleteket hozni, rabszolga-hajcsár... Takarodj innen!}
-{159}{}{Úgy beszélsz, mint az az idióta Moore... már csak ez kellett Menedékvárosnak. Nézd, nem tudom, ki vagy, de nekem most dolgom van, szóval örülnék, ha eltûnnél innen!}
-{160}{}{Már itt sem vagyok.}
-{161}{}{Rohadt rabszolga-hajcsár, most kicsinállak!}
-{162}{}{Joshua? Igen, van egy ilyen nevû szolgánk, de nem szívesen osztanám be melléd. A kiképzése...  hmm... nehézkesnek bizonyult.}
-{163}{}{Joshua? Azt hiszem, régebben volt egy ilyen nevû Szolgánk, de már nincs itt.}
-{164}{}{Ki kell kérdeznem õt Menedékváros biztonsága érdekében. Küldd a város külsõ övezetébe, de azonnal!}
-{165}{}{Azért én mégis szeretném, ha beosztanád mellém.}
-{166}{}{Nehézkesnek?}
-{167}{}{Félreértettél, nem akarom hogy beoszd mellém. Isten õrizz! Csupán azért érdeklõdöm, mert valószínûleg fertõzött.}
-{168}{}{Feltehetek még egy kérdést?}
-{169}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{170}{}{Nem hinném, hogy ez jó ötlet. Várj, amíg megtanítjuk viselkedni, aztán megkapod.}
-{171}{}{Azt mondod, nehézkes volt a kiképzése?}
-{172}{}{Csak még egy kérdés...}
-{173}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{174}{}{Igen. Ha nem tudnám, hogy ez lehetetlen, azt mondanám, az apja egy brahmin volt. Rendkívül engedetlen és csökönyös egy barom ez a Joshua.}
-{175}{}{Értem. Azt ugye tudod, hogy ez a fajta hozzáállás veszélyes is lehet? Mi van, ha a többi szolga is követi a példáját?}
-{176}{}{Szeretném megvásárolni, hogy levegyem a válladról ezt a terhet. Elfogad a Központ... adományokat?}
-{177}{}{Csak még egy kérdés...}
-{178}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{179}{}{Ez igaz. Tegnap elkülönítenem a többiektõl, mert már egy másik szolga is megkérdõjelezte az utasításaimat.}
-{180}{}{Talán szabadon kéne õt engedned, mielõtt a helyzet rosszabbra fordul.}
-{181}{}{Joshua? Igen, van egy ilyen nevû szolgánk. Nemrég helyeztük át a Nevelõ Központba. Miért keresed?}
-{182}{}{Szeretnék tárgyalni a szabadlábra helyezésérõl.}
-{183}{}{Azt gyanítom, fertõzõ betegséget hordoz. Én a helyedben megszabadulnék tõle, mielõtt kitör a járvány.}
-{184}{}{Rendben, hagyjuk! Viszont lenne egy kérdésem.}
-{185}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{186}{}{Valóban? Mibõl gondolod, hogy engem ez érdekel?}
-{187}{}{Felkeltené az érdeklõdésedet, ha egy kisebb összegû adománnyal támogatnám a Szolgaközvetítõ Központot?}
-{188}{}{Azt gyanítom, fertõzõ betegséget hordoz. Én a helyedben megszabadulnék tõle, mielõtt kitör a járvány.}
-{189}{}{Rendben, hagyjuk! Viszont lenne egy kérdésem.}
-{190}{}{Szóval nem érdekel? Sebaj. Viszlát!}
-{191}{}{Sajnálom, ez nem elég. Én egy nagylelkûbb támogatásban reménykedem.}
-{192}{}{Hmmm... az adományok mindig jól jönnek, mert biztosítják a Központ gördülékeny mûködését. Ahhoz azonban egy nagyobb összegre lenne szükség, hogy Joshuát a gondjaidra bízzam.}
-{193}{}{Mit szólnál 1000 dollárhoz?}
-{194}{}{Mit szólnál 750 dollárhoz?}
-{195}{}{Mit szólnál 500 dollárhoz?}
-{196}{}{Mit szólnál 250 dollárhoz?}
-{197}{}{Még meggondolom. Addig is kérdeznék valamit.}
-{198}{}{Értem. Késõbb visszajövök.}
-{199}{}{Értem. Késõbb visszajövök, amint lesz elég pénzem.}
-{200}{}{Rendben. Ez ugyan nem olyam bõkezû adomány, mint amit a Központ elvárna, de hát minden centet meg kell becsülni, ugye. Azonnal intézkedem, hogy Joshuát a külsõ övezetbe küldjék.}
-{201}{}{Oké.}
-{202}{}{Akkor meg is volnánk, Joshua többé már nem szolga. Az elõvárosban megtalálod.}
-{203}{}{Nagyszerû! Kérdezhetek még valamit?}
-{204}{}{Rendben. Viszlát!}
+{131}{}{Ã‰n most menni elfele.}
+{132}{}{Biztos Ãºj vagy mÃ©g. Akkor most elmagyarÃ¡zom, mit kell tenned. SzÃ©Ã©Ã©p... las... san.}
+{133}{}{Ha egy PolgÃ¡rnak segÃ­tsÃ©gre van szÃ¼ksÃ©ge az alantas munkÃ¡k elvÃ©gzÃ©sÃ©hez, ide jÃ¶n, Ã©s mi arra a napra beosztunk mellÃ© egy szolgÃ¡t.}
+{134}{}{Ez elÃ©ggÃ© kimerÃ­ti a rabszolgasÃ¡g fogalmÃ¡t.}
+{135}{}{Ãgy mÃ¡r vilÃ¡gos... szÃ³val itt tartjÃ¡tok a rabszolgÃ¡kat.}
+{136}{}{Honnan szerzitek Å‘ket?}
+{137}{}{Egy szolga utÃ¡n Ã©rdeklÅ‘dÃ¶m. Ha jÃ³l emlÃ©kszem, JoshuÃ¡nak hÃ­vjÃ¡k. Itt van?}
+{138}{}{Ã‰rdekel nÃ©hÃ¡ny eladÃ¡sra szÃ¡nt... szolga?}
+{139}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{140}{}{Elegem van mÃ¡r abbÃ³l, hogy a szolgÃ¡kat csak Ãºgy kÃ¼ldÃ¶zgetik... [sÃ³hajt]... LÃ¡ssuk csak! SzÃ³val a MenedÃ©ket keresed? Biztos oda rendeltek. Rendben, mindjÃ¡rt kerÃ­tek valakit, aki bekÃ­sÃ©r.}
+{141}{}{MenelÃ©k! MenelÃ©k!}
+{142}{}{Ã‰n a helyedben vigyÃ¡znÃ©k a szÃ¡mra! Ez NEM rabszolgasÃ¡g. Mi gondoskodunk ezekrÅ‘l az emberekrÅ‘l, jÃ³ Ã©letÃ¼k van itt... legalÃ¡bbis jobb, mint amit a pusztÃ¡ban remÃ©lhetnÃ©nek.}
+{143}{}{Honnan szerzitek Å‘ket?}
+{144}{}{FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{145}{}{Csak ennyit akartam tudni. ViszlÃ¡t!}
+{146}{}{Nem. Ahhoz, hogy belÃ©phess a MenedÃ©kbe, polgÃ¡rnak kell lenned. NÃ©zd, nagyon elfoglalt vagyok, szÃ³val ha megbocsÃ¡tasz...}
+{147}{}{Csak mÃ©g egy kÃ©rdÃ©st...}
+{148}{}{ViszlÃ¡t!}
+{149}{}{A szolgÃ¡ink tÃ¶bbnyire rablÃ³tÃ¡madÃ¡sok tÃºlÃ©lÅ‘i vagy elÃ­tÃ©ltek, akik a bÃ¼ntetÃ©sÃ¼ket produktÃ­v munkÃ¡val kÃ­vÃ¡njÃ¡k letÃ¶lteni.}
+{150}{}{ÃhÃ¡Ã¡Ã¡... Ãºgy Ã©rted, hogy felvÃ©teli vizsgÃ¡t kell tenniÃ¼k? Ismertem egy srÃ¡cot, Dan-nek hÃ­vtÃ¡k, aki egyszer...}
+{151}{}{VilÃ¡gos. SzÃ³val rabszolgÃ¡kat csinÃ¡ltok a szerencsÃ©tlenekbÅ‘l.}
+{152}{}{Egy szolga utÃ¡n Ã©rdeklÅ‘dÃ¶m. Ha jÃ³l emlÃ©kszem, JoshuÃ¡nak hÃ­vjÃ¡k. Itt van?}
+{153}{}{Van nÃ©hÃ¡ny eladÃ¡sra szÃ¡nt szolgÃ¡m. Ã‰rdekel?}
+{154}{}{FeltennÃ©k mÃ©g egy kÃ©rdÃ©st.}
+{155}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m.}
+{156}{}{Nem... [sÃ³hajt]... a szolgÃ¡knak nem kell felvÃ©teli vizsgÃ¡t tenniÃ¼k, te hÃ¼lye.}
+{157}{}{HÃ¼lye?! KemÃ©nyen megdolgoztam a kilences IntelligenciÃ¡Ã©rt Ã©s Ã‰rzÃ©kelÃ©sÃ©rt, hogy megtalÃ¡ljam ezt a beszÃ³lÃ¡st. Na, mindegy. Hol is tartottunk?}
+{158}{}{Majd pont te fogsz itt morÃ¡lis Ã­tÃ©leteket hozni, rabszolga-hajcsÃ¡r... Takarodj innen!}
+{159}{}{Ãšgy beszÃ©lsz, mint az az idiÃ³ta Moore... mÃ¡r csak ez kellett MenedÃ©kvÃ¡rosnak. NÃ©zd, nem tudom, ki vagy, de nekem most dolgom van, szÃ³val Ã¶rÃ¼lnÃ©k, ha eltÅ±nnÃ©l innen!}
+{160}{}{MÃ¡r itt sem vagyok.}
+{161}{}{Rohadt rabszolga-hajcsÃ¡r, most kicsinÃ¡llak!}
+{162}{}{Joshua? Igen, van egy ilyen nevÅ± szolgÃ¡nk, de nem szÃ­vesen osztanÃ¡m be mellÃ©d. A kikÃ©pzÃ©se...  hmm... nehÃ©zkesnek bizonyult.}
+{163}{}{Joshua? Azt hiszem, rÃ©gebben volt egy ilyen nevÅ± SzolgÃ¡nk, de mÃ¡r nincs itt.}
+{164}{}{Ki kell kÃ©rdeznem Å‘t MenedÃ©kvÃ¡ros biztonsÃ¡ga Ã©rdekÃ©ben. KÃ¼ldd a vÃ¡ros kÃ¼lsÅ‘ Ã¶vezetÃ©be, de azonnal!}
+{165}{}{AzÃ©rt Ã©n mÃ©gis szeretnÃ©m, ha beosztanÃ¡d mellÃ©m.}
+{166}{}{NehÃ©zkesnek?}
+{167}{}{FÃ©lreÃ©rtettÃ©l, nem akarom hogy beoszd mellÃ©m. Isten Å‘rizz! CsupÃ¡n azÃ©rt Ã©rdeklÅ‘dÃ¶m, mert valÃ³szÃ­nÅ±leg fertÅ‘zÃ¶tt.}
+{168}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{169}{}{ViszlÃ¡t!}
+{170}{}{Nem hinnÃ©m, hogy ez jÃ³ Ã¶tlet. VÃ¡rj, amÃ­g megtanÃ­tjuk viselkedni, aztÃ¡n megkapod.}
+{171}{}{Azt mondod, nehÃ©zkes volt a kikÃ©pzÃ©se?}
+{172}{}{Csak mÃ©g egy kÃ©rdÃ©st...}
+{173}{}{ViszlÃ¡t!}
+{174}{}{Igen. Ha nem tudnÃ¡m, hogy ez lehetetlen, azt mondanÃ¡m, az apja egy brahmin volt. RendkÃ­vÃ¼l engedetlen Ã©s csÃ¶kÃ¶nyÃ¶s egy barom ez a Joshua.}
+{175}{}{Ã‰rtem. Azt ugye tudod, hogy ez a fajta hozzÃ¡Ã¡llÃ¡s veszÃ©lyes is lehet? Mi van, ha a tÃ¶bbi szolga is kÃ¶veti a pÃ©ldÃ¡jÃ¡t?}
+{176}{}{SzeretnÃ©m megvÃ¡sÃ¡rolni, hogy levegyem a vÃ¡lladrÃ³l ezt a terhet. Elfogad a KÃ¶zpont... adomÃ¡nyokat?}
+{177}{}{Csak mÃ©g egy kÃ©rdÃ©st...}
+{178}{}{ViszlÃ¡t!}
+{179}{}{Ez igaz. Tegnap elkÃ¼lÃ¶nÃ­tenem a tÃ¶bbiektÅ‘l, mert mÃ¡r egy mÃ¡sik szolga is megkÃ©rdÅ‘jelezte az utasÃ­tÃ¡saimat.}
+{180}{}{TalÃ¡n szabadon kÃ©ne Å‘t engedned, mielÅ‘tt a helyzet rosszabbra fordul.}
+{181}{}{Joshua? Igen, van egy ilyen nevÅ± szolgÃ¡nk. NemrÃ©g helyeztÃ¼k Ã¡t a NevelÅ‘ KÃ¶zpontba. MiÃ©rt keresed?}
+{182}{}{SzeretnÃ©k tÃ¡rgyalni a szabadlÃ¡bra helyezÃ©sÃ©rÅ‘l.}
+{183}{}{Azt gyanÃ­tom, fertÅ‘zÅ‘ betegsÃ©get hordoz. EngedjÃ©tek szabadon, mielÅ‘tt kitÃ¶r a jÃ¡rvÃ¡ny!}
+{184}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{185}{}{ViszlÃ¡t!}
+{186}{}{ValÃ³ban? MibÅ‘l gondolod, hogy engem ez Ã©rdekel?}
+{187}{}{FelkeltenÃ© az Ã©rdeklÅ‘dÃ©sedet, ha egy kisebb Ã¶sszegÅ± adomÃ¡nnyal tÃ¡mogatnÃ¡m a SzolgakÃ¶zvetÃ­tÅ‘ KÃ¶zpontot?}
+{188}{}{Azt gyanÃ­tom, fertÅ‘zÅ‘ betegsÃ©get hordoz. EngedjÃ©tek szabadon, mielÅ‘tt kitÃ¶r a jÃ¡rvÃ¡ny!}
+{189}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{190}{}{ViszlÃ¡t!}
+{191}{}{SajnÃ¡lom, ez nem elÃ©g. Ã‰n egy nagylelkÅ±bb tÃ¡mogatÃ¡sban remÃ©nykedem.}
+{192}{}{Hmmm... az adomÃ¡nyok mindig jÃ³l jÃ¶nnek, mert biztosÃ­tjÃ¡k a KÃ¶zpont gÃ¶rdÃ¼lÃ©keny mÅ±kÃ¶dÃ©sÃ©t. Ahhoz azonban egy nagyobb Ã¶sszegre lenne szÃ¼ksÃ©g, hogy JoshuÃ¡t a gondjaidra bÃ­zzam.}
+{193}{}{Mit szÃ³lnÃ¡l 1000 dollÃ¡rhoz?}
+{194}{}{Mit szÃ³lnÃ¡l 750 dollÃ¡rhoz?}
+{195}{}{Mit szÃ³lnÃ¡l 500 dollÃ¡rhoz?}
+{196}{}{Mit szÃ³lnÃ¡l 250 dollÃ¡rhoz?}
+{197}{}{MÃ©g meggondolom. Addig is kÃ©rdeznÃ©k valamit.}
+{198}{}{Ã‰rtem. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{199}{}{Ã‰rtem. KÃ©sÅ‘bb visszajÃ¶vÃ¶k, amint lesz elÃ©g pÃ©nzem.}
+{200}{}{Rendben. Ez ugyan nem olyam bÅ‘kezÅ± adomÃ¡ny, mint amit a KÃ¶zpont elvÃ¡rna, de hÃ¡t minden centet meg kell becsÃ¼lni, ugye. Azonnal intÃ©zkedem, hogy JoshuÃ¡t a kÃ¼lsÅ‘ Ã¶vezetbe kÃ¼ldjÃ©k.}
+{201}{}{OkÃ©.}
+{202}{}{Akkor meg is volnÃ¡nk, Joshua tÃ¶bbÃ© mÃ¡r nem szolga. Az elÅ‘vÃ¡rosban megtalÃ¡lod.}
+{203}{}{KÃ¶szÃ¶nÃ¶m. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{204}{}{Rendben. ViszlÃ¡t!}
 {205}{}{Sounds good. Hopefully, he won't make his way back into the city.}
-{206}{}{Igazán? Én ezt kizártnak tartom. Minden szolgát folyamatos orvosi megfigyelés alatt tartunk.}
-{207}{}{Valóban? Akkor tárgyalhatnánk Joshua szabadlábra helyezésérõl.}
-{208}{}{Ezek szerint még nem hallottál a "}
-{209}{}{" szindrómáról. A szimpla orvosi vizsgálat nem mutatja ki. Hetekig lappang és csak utána jelentkeznek az elsõ tünetek. Rendkívül veszélyes.}
-{210}{}{A pusztában tombol egy járvány, amit úgy hívnak, "}
-{211}{}{" szindróma. Gondolom te is észrevetted már, mennyire fáradékonyak, kedvetlenek a szolgák. Nos... ez még csak a kezdet.}
-{212}{}{Nevetséges! Esetleg, ha megkímélnéd a drága idõmet a hazugságaidtól, nagyon hálás lennék.}
+{206}{}{IgazÃ¡n? Ã‰n ezt kizÃ¡rtnak tartom. Minden szolgÃ¡t folyamatos orvosi megfigyelÃ©s alatt tartunk.}
+{207}{}{ValÃ³ban? Akkor tÃ¡rgyalhatnÃ¡nk Joshua szabadlÃ¡bra helyezÃ©sÃ©rÅ‘l.}
+{208}{}{Ezek szerint mÃ©g nem hallottÃ¡l a "}
+{209}{}{" szindrÃ³mÃ¡rÃ³l. A szimpla orvosi vizsgÃ¡lat nem mutatja ki. Hetekig lappang Ã©s csak utÃ¡na jelentkeznek az elsÅ‘ tÃ¼netek. RendkÃ­vÃ¼l veszÃ©lyes.}
+{210}{}{A pusztÃ¡ban tombol egy jÃ¡rvÃ¡ny, amit Ãºgy hÃ­vnak, "}
+{211}{}{" szindrÃ³ma. Gondolom te is Ã©szrevetted mÃ¡r, mennyire fÃ¡radÃ©konyak, kedvetlenek a szolgÃ¡k. Nos... ez mÃ©g csak a kezdet.}
+{212}{}{NevetsÃ©ges! Esetleg, ha megkÃ­mÃ©lnÃ©d a drÃ¡ga idÅ‘met a hazugsÃ¡gaidtÃ³l, nagyon hÃ¡lÃ¡s lennÃ©k.}
 {213}{}{Rendben, felejtsd el a "}
-{214}{}{" szindrómát! Szeretnék tárgyalni Joshua szabadlábra helyezésérõl.}
-{215}{}{Kérdeznék valamit.}
-{216}{}{Értem. Nem is zavarlak tovább. Viszlát!}
-{217}{}{Fertõzés? Miféle fertõzés?}
-{218}{}{Tünetek? Miféle tünetek?}
-{219}{}{Bizonyára te is megfigyelted már, mostanában mennyire fáradékonyak és levertek a szolgák. Nyilván feltûnt az is, hogy néha képtelenek meghallani és normálisan követni az utasításaidat? Ez még csak a kezdeti stádium.}
-{220}{}{Öö...}
-{221}{}{" szindrómát? Pedig már rengeteg Kívülállót megfertõzött. A tünetei... durva stílus, káromkodás, erõszakra való hajlam.}
-{222}{}{Az tényleg nem lenne jó, ha az Elsõ Polgár fülébe jutna, hogy gondok vannak a szolgákkal. Rendben van, elengedem Joshuát. Egy perc, azonnal intézkedem.}
-{223}{}{Szóval azt mondod... fertõzõ? Nos, ez esetben valóban az lesz a legjobb, ha eltávolítom. Azonnal intézkedem.}
-{224}{}{Köszönöm. Hidd el, így lesz a legjobb!}
-{225}{}{Természetesen, Kapitány! Azonnal intézkedem.}
-{226}{}{Remek. Köszönöm, Polgártárs!}
-{227}{}{Meglehet. Van valaki, akit szeretnél eladni?}
-{228}{}{Igen, itt van velem. Vess rá egy pillantást és mondj egy árat!}
-{229}{}{Igen, itt vannak velem. Vess rájuk egy pillantást és mondj egy árat!}
-{230}{}{Nem, most nincs. Viszont feltennék egy kérdést.}
-{231}{}{Meggondoltam magam. Viszlát!}
-{232}{}{Arra a nõre gondoltál? Hogy is hívják? Miria? Lássuk csak... erõs kezek, széles csípõ. Rendben, 250 dollár.}
+{214}{}{" szindrÃ³mÃ¡t! SzeretnÃ©k tÃ¡rgyalni Joshua szabadlÃ¡bra helyezÃ©sÃ©rÅ‘l.}
+{215}{}{KÃ©rdeznÃ©k valamit.}
+{216}{}{Ã‰rtem. Nem is zavarlak tovÃ¡bb. ViszlÃ¡t!}
+{217}{}{FertÅ‘zÃ©s? MifÃ©le fertÅ‘zÃ©s?}
+{218}{}{TÃ¼netek? MifÃ©le tÃ¼netek?}
+{219}{}{BizonyÃ¡ra te is megfigyelted mÃ¡r, mostanÃ¡ban mennyire fÃ¡radÃ©konyak Ã©s levertek a szolgÃ¡k. NyilvÃ¡n feltÅ±nt az is, hogy nÃ©ha kÃ©ptelenek meghallani Ã©s normÃ¡lisan kÃ¶vetni az utasÃ­tÃ¡saidat? Ez mÃ©g csak a kezdeti stÃ¡dium.}
+{220}{}{Ã–Ã¶...}
+{221}{}{" szindrÃ³mÃ¡t? Pedig mÃ¡r rengeteg KÃ­vÃ¼lÃ¡llÃ³t megfertÅ‘zÃ¶tt. A tÃ¼netei... durva stÃ­lus, kÃ¡romkodÃ¡s, erÅ‘szakra valÃ³ hajlam.}
+{222}{}{Az tÃ©nyleg nem lenne jÃ³, ha az ElsÅ‘ PolgÃ¡r fÃ¼lÃ©be jutna, hogy gondok vannak a szolgÃ¡kkal. Rendben van, elengedem JoshuÃ¡t. Egy perc, azonnal intÃ©zkedem.}
+{223}{}{SzÃ³val azt mondod... fertÅ‘zÅ‘? Nos, ez esetben valÃ³ban az lesz a legjobb, ha eltÃ¡volÃ­tom. Azonnal intÃ©zkedem.}
+{224}{}{KÃ¶szÃ¶nÃ¶m. Hidd el, Ã­gy lesz a legjobb!}
+{225}{}{TermÃ©szetesen, KapitÃ¡ny! Azonnal intÃ©zkedem.}
+{226}{}{Remek. KÃ¶szÃ¶nÃ¶m, PolgÃ¡rtÃ¡rs!}
+{227}{}{Meglehet. Van valaki, akit szeretnÃ©l eladni?}
+{228}{}{Igen, itt van velem. Vess rÃ¡ egy pillantÃ¡st Ã©s mondj egy Ã¡rat!}
+{229}{}{Igen, itt vannak velem. Vess rÃ¡juk egy pillantÃ¡st Ã©s mondj egy Ã¡rat!}
+{230}{}{Nem, most nincs. Viszont feltennÃ©k egy kÃ©rdÃ©st.}
+{231}{}{Meggondoltam magam. ViszlÃ¡t!}
+{232}{}{Arra a nÅ‘re gondoltÃ¡l? Hogy is hÃ­vjÃ¡k? Miria? LÃ¡ssuk csak... erÅ‘s kezek, szÃ©les csÃ­pÅ‘. Rendben, 250 dollÃ¡r.}
 {233}{}{Hmmm. that boy there, Davin, is it? He looks relatively free from Outworlder contamination. I will buy him from you for $200.}
-{234}{}{A törzsbélidnek elég erõs... szaga van, de egészségesnek tûnik. 100 dollárt adok érte.}
-{235}{}{Arról a köpcös emberrõl beszélsz? Vic, ugye?...  Hogy mondod? Ezermester? Rendben. 100 dollár.}
-{236}{}{Majd akkor gyere, ha megfelelõ lesz a kínálat! A mostani felhozatal... siralmas.}
-{237}{}{Szó sem lehet róla, ennél sokkal többet ér! Nézd meg alaposabban!}
-{238}{}{Rendben van, megegyeztünk.}
-{239}{}{Hagyjuk! Inkább kérdeznék valamit.}
-{240}{}{Jobban belegondolva, még nem is akarom eladni. Viszlát!}
-{241}{}{Rendben. Kérdezhetek valamit?}
-{242}{}{Akkor megyek is. Viszlát!}
+{234}{}{A tÃ¶rzsbÃ©lidnek elÃ©g erÅ‘s... szaga van, de egÃ©szsÃ©gesnek tÅ±nik. 100 dollÃ¡rt adok Ã©rte.}
+{235}{}{ArrÃ³l a kÃ¶pcÃ¶s emberrÅ‘l beszÃ©lsz? Vic, ugye?...  Hogy mondod? Ezermester? Rendben. 100 dollÃ¡r.}
+{236}{}{Majd akkor gyere, ha megfelelÅ‘ lesz a kÃ­nÃ¡lat! A mostani felhozatal... siralmas.}
+{237}{}{SzÃ³ sem lehet rÃ³la, ennÃ©l sokkal tÃ¶bbet Ã©r! NÃ©zd meg alaposabban!}
+{238}{}{Rendben van, megegyeztÃ¼nk.}
+{239}{}{IgazÃ¡ndibÃ³l egyet sem akarok eladni, hanem kÃ©rdÃ©seket akartam feltenni magÃ¡nak...}
+{240}{}{Az igazat megvallva nem akarom eladni azt a rabszolgÃ¡t. TÃ©rjÃ¼nk rÃ¡ vissza mÃ¡skor!}
+{241}{}{JÃ³l van. Viszont volna nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{242}{}{Rendben. KÃ©sÅ‘bb, ha jobb lesz a felhozatal, visszatÃ©rÃ¼nk rÃ¡.}
 {243}{}{Nem!! 250 vagy semmi.}
-{244}{}{Szó sem lehet róla! Úgy látom, vele sok gondunk lesz. 200 és nem több.}
-{245}{}{Nézd! Legalább egy hétig kell sikálnom, mire szalonképes lesz. 100, egy centtel se több.}
+{244}{}{SzÃ³ sem lehet rÃ³la! Ãšgy lÃ¡tom, vele sok gondunk lesz. 200 Ã©s nem tÃ¶bb.}
+{245}{}{NÃ©zd! LegalÃ¡bb egy hÃ©tig kell sikÃ¡lnom, mire szalonkÃ©pes lesz. 100, egy centtel se tÃ¶bb.}
 {246}{}{You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.}
-{247}{}{Rendben van, megegyeztünk.}
-{248}{}{Akkor felejtsd el! Inkább kérdeznék valamit.}
-{249}{}{Nincs üzlet! Viszlát!}
-{250}{}{Jól van, végül is egészséges példánynak tûnik. Talán már ma munkába állíthatom. Rendben. 500 dollár, de ez a végsõ ajánlatom.}
-{251}{}{Rendben, tényleg munkabírónak látszik. Legyen mondjuk 400.}
-{252}{}{Esetleg 200 dollár, de nincs több alkudozás.}
-{253}{}{200 dollár, egy centtel se több.}
+{247}{}{Rendben van, megegyeztÃ¼nk.}
+{248}{}{Akkor felejtsd el! InkÃ¡bb kÃ©rdeznÃ©k valamit.}
+{249}{}{Nincs Ã¼zlet! ViszlÃ¡t!}
+{250}{}{JÃ³l van, vÃ©gÃ¼l is egÃ©szsÃ©ges pÃ©ldÃ¡nynak tÅ±nik. TalÃ¡n mÃ¡r ma munkÃ¡ba Ã¡llÃ­thatom. Rendben. 500 dollÃ¡r, de ez a vÃ©gsÅ‘ ajÃ¡nlatom.}
+{251}{}{Rendben, tÃ©nyleg munkabÃ­rÃ³nak lÃ¡tszik. Legyen mondjuk 400.}
+{252}{}{Esetleg 200 dollÃ¡r, de nincs tÃ¶bb alkudozÃ¡s.}
+{253}{}{200 dollÃ¡r, egy centtel se tÃ¶bb.}
 {254}{}{Rendben. Viheted!}
-{255}{}{Hagyjuk! Inkább kérdeznék valamit.}
-{256}{}{Jobban belegondolva, még nem is akarom eladni. Viszlát!}
-{257}{}{Nagyszerû, itt a pénzed. Most azonnal elküldöm a nõt orvosi vizsgálatra. }
-{258}{}{Nagyszerû, itt a pénzed. Most azonnal elküldöm orvosi vizsgálatra. }
-{259}{}{Nagyszerû, itt a pénzed. Most azonnal elküldöm a törzsbélit orvosi vizsgálatra. }
-{260}{}{Nagyszerû, itt a pénzed. Most azonnal elküldöm az öreget orvosi vizsgálatra. }
-{261}{}{Egy perc, azonnal intézkedem.}
-{262}{}{Rendben. Itt várok.}
-{263}{}{Meg is volnánk. A szolgát megvizsgálták és elvitték kondicionálásra. Az összes motyóját betettem egy dobozba. Érdekes, a történtekre elég... hevesen reagált. Be kellett adni neki némi nyugtatót, hogy gördülékenyen menjenek a dolgok.}
-{264}{}{A szolgák már csak ilyenek. Kérdezhetnék valamit?}
-{265}{}{Nem törõdj vele, majd lehiggad! Érdekelnek a többiek is?}
-{266}{}{Ez már a te gondod, most mennem kell.}
-{267}{}{Mit keresel itt már megint? A Menedékbe küldtelek! Hogy az a... na mindegy, kerítek valakit, aki visszakísér.}
+{255}{}{IgazÃ¡ndibÃ³l egyet sem akarok eladni, hanem kÃ©rdÃ©seket akartam feltenni magÃ¡nak...}
+{256}{}{Az igazat megvallva nem akarom eladni azt a rabszolgÃ¡t. TÃ©rjÃ¼nk rÃ¡ vissza mÃ¡skor!}
+{257}{}{NagyszerÅ±, itt a pÃ©nzed. Most azonnal elkÃ¼ldÃ¶m a nÅ‘t orvosi vizsgÃ¡latra. }
+{258}{}{NagyszerÅ±, itt a pÃ©nzed. Most azonnal elkÃ¼ldÃ¶m orvosi vizsgÃ¡latra. }
+{259}{}{NagyszerÅ±, itt a pÃ©nzed. Most azonnal elkÃ¼ldÃ¶m a tÃ¶rzsbÃ©lit orvosi vizsgÃ¡latra. }
+{260}{}{NagyszerÅ±, itt a pÃ©nzed. Most azonnal elkÃ¼ldÃ¶m az Ã¶reget orvosi vizsgÃ¡latra. }
+{261}{}{Egy perc, azonnal intÃ©zkedem.}
+{262}{}{Rendben. Itt vÃ¡rok.}
+{263}{}{Meg is volnÃ¡nk. A szolgÃ¡t megvizsgÃ¡ltÃ¡k Ã©s elvittÃ©k kondicionÃ¡lÃ¡sra. Az Ã¶sszes motyÃ³jÃ¡t betettem egy dobozba. Ã‰rdekes, a tÃ¶rtÃ©ntekre elÃ©g... hevesen reagÃ¡lt. Be kellett adni neki nÃ©mi nyugtatÃ³t, hogy gÃ¶rdÃ¼lÃ©kenyen menjenek a dolgok.}
+{264}{}{A szolgÃ¡k mÃ¡r csak ilyenek. KÃ©rdezhetnÃ©k valamit?}
+{265}{}{Nem tÃ¶rÅ‘dj vele, majd lehiggad! Ã‰rdekelnek a tÃ¶bbiek is?}
+{266}{}{Ez mÃ¡r a te gondod, most mennem kell.}
+{267}{}{Mit keresel itt mÃ¡r megint? A MenedÃ©kbe kÃ¼ldtelek! Hogy az a... na mindegy, kerÃ­tek valakit, aki visszakÃ­sÃ©r.}
 {268}{}{Nem menni vissza. Nem akar...}
-{269}{}{Meggyõzted Barkust, hogy engedje el Joshuát.}
+{269}{}{MeggyÅ‘zted Barkust, hogy engedje el JoshuÃ¡t.}
 {300}{}{I heard you're quite the hero. Good job.}

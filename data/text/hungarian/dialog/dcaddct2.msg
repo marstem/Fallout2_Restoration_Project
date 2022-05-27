@@ -1,7 +1,7 @@
-{100}{}{Egy fˆldfoglalÛt l·tsz.}
+{100}{}{Egy f√∂ldfoglal√≥t l√°tsz.}
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
-{103}{}{Mit akarsz?}
+{103}{}{Mit akar?}
 {104}{}{I want you and your friends out of this building. It's come to my attention that Mom intends to turn this place
  into an orphanage to get all those homeless children off the streets. And she can't do that with you squatting here.}
 {105}{}{[He snickers uneasily and glances at his fellow squatters for support.] Mom knows the deal. We're not going anywhere
@@ -24,11 +24,11 @@
 {113}{}{Screw this, I changed my mind. We ain't leaving. We're staying right here and fighting.}
 {114}{}{[He exchanges a look with the other squatters and ponders your words.] You know what? That doesn't sound too bad. In fact, that could work out great,
  if you really think Mom will go for it. While you go talk to her, we'll get started on cleaning this place up. Oh, and thanks for being so cool about things.}
-{115}{}{Senkit.}
+{115}{}{Hagyjuk!}
 {116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
 {117}{}{Alright, well, I gave it a shot. Bye.}
 {120}{}{This is a great idea. We'll get things ready.}
-{200}{}{Nah·t...}
+{200}{}{Hogy?}
 {201}{}{This is our turf.}
 {202}{}{You squatting here too?}
 {203}{}{Got anything to eat?}
@@ -37,7 +37,7 @@
 {310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}
 {311}{}{You better. Make sure the children stay out of trouble too.}
 {312}{}{We'll do our best.}
-{313}{}{Viszl·t!}
+{313}{}{Viszl√°t!}
 {350}{}{Anywhere but here. The Den's a big place, I'm sure you can find somewhere else to crash. Come on, do you really want the children to live on the streets?}
 {351}{}{Nah, you're right, that ain't cool for the children. Alright, we'll pack our things and move out. This place had a leaky roof anyway.}
 {352}{}{Thanks. This will mean a lot to them. Take care.}

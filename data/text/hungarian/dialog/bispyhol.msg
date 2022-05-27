@@ -1,3 +1,3 @@
-{100}{}{Egy viharvert hololemez.}
-{101}{}{PipBoy kijelzõk: A Fájl már megtalálható a Rendszerben. Letöltés megszakítása...}
-{102}{}{PipBoy kijelzõk: Adat letöltése a lemezrõl.}
+{100}{}{Viharvert szalag.}
+{101}{}{PipBoy kijelzÅ‘k: A FÃ¡jl mÃ¡r megtalÃ¡lhatÃ³ a Rendszerben. LetÃ¶ltÃ©s megszakÃ­tÃ¡sa...}
+{102}{}{PipBoy kijelzÅ‘k: Adat letÃ¶ltÃ©se a lemezrÅ‘l.}

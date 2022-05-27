@@ -1,9 +1,9 @@
-{100}{}{Egy kulcsnélküli beléptetõ-rendszer. Az ajtón lévõ kis táblán ez áll "Használja a panelen a Tanker FBK-t!"}
-{101}{}{Egy kulcsnélküli beléptetõ-rendszer. Az ajtón lévõ kis táblán ez áll "Használja a panelen a Tanker FBK-t!"}
-{102}{}{A konzolon van egy fekete lap, melynek tetején egy vörös lámpa ég. Egy kis táblán ez áll "Használja a panelen a Tanker FBK-t!"}
-{103}{}{A konzolon van egy fekete lap, melynek tetején egy zöld lámpa ég. Egy kis táblán ez áll "Használja a panelen a Tanker FBK-t!"}
-{104}{}{[kattanás] A fekete panelen világító fény zöldre vált...}
-{105}{}{[kattanás] A fekete panelen világító fény vörösre vált...}
-{106}{}{Semmi nem történik.}
-{107}{}{Ez nem mûködik.}
-{108}{}{Ez egy távirányítású, kulcsnélküli beléptetõ-rendszer. Rendszerint valamifére mágneskártyával szokott mûködni.}
+{100}{}{Egy kulcsnÃ©lkÃ¼li belÃ©ptetÅ‘-rendszer. Az ajtÃ³n lÃ©vÅ‘ kis tÃ¡blÃ¡n ez Ã¡ll "HasznÃ¡lja a panelen a Tanker FBK-t!"}
+{101}{}{Egy kulcsnÃ©lkÃ¼li belÃ©ptetÅ‘-rendszer. Az ajtÃ³n lÃ©vÅ‘ kis tÃ¡blÃ¡n ez Ã¡ll "HasznÃ¡lja a panelen a Tanker FBK-t!"}
+{102}{}{A konzolon van egy fekete lap, melynek tetejÃ©n egy vÃ¶rÃ¶s lÃ¡mpa Ã©g. Egy kis tÃ¡blÃ¡n ez Ã¡ll "HasznÃ¡lja a panelen a Tanker FBK-t!"}
+{103}{}{A konzolon van egy fekete lap, melynek tetejÃ©n egy zÃ¶ld lÃ¡mpa Ã©g. Egy kis tÃ¡blÃ¡n ez Ã¡ll "HasznÃ¡lja a panelen a Tanker FBK-t!"}
+{104}{}{[kattanÃ¡s] A fekete panelen vilÃ¡gÃ­tÃ³ fÃ©ny zÃ¶ldre vÃ¡lt...}
+{105}{}{[kattanÃ¡s] A fekete panelen vilÃ¡gÃ­tÃ³ fÃ©ny vÃ¶rÃ¶sre vÃ¡lt...}
+{106}{}{Nem tÃ¶rtÃ©nt semmi.}
+{107}{}{Ez nem mÅ±kÃ¶dik.}
+{108}{}{Ez egy tÃ¡virÃ¡nyÃ­tÃ¡sÃº, kulcsnÃ©lkÃ¼li belÃ©ptetÅ‘-rendszer. Rendszerint valamifÃ©re mÃ¡gneskÃ¡rtyÃ¡val szokott mÅ±kÃ¶dni.}

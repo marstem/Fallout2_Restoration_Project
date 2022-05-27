@@ -1,15 +1,15 @@
-{100}{}{Egy gengsztert látsz.}
-{101}{}{Nocsak, nocsak... mit találtunk?}
+{100}{}{Egy gengsztert lÃ¡tsz.}
+{101}{}{Nocsak, nocsak... mit talÃ¡ltunk?}
 {102}{}{Simple travelers, eh? Ain't no such thing. You need help with any of your valuables? }
-{103}{}{Vigyázz, merre mászkálsz Reno körül, különben bajod eshet! Ne kerülj az utamba!}
-{104}{}{Helló, }
-{105}{}{ vagyok.}
-{106}{}{Mit csinálsz errefelé, }
-{107}{}{?}
-{108}{}{Csak kijöttünk, hogy rádnézzünk, }
-{109}{}{. Szép idõnk van, mi, }
-{110}{}{?}
-{111}{}{Azért jöttél ki ide, hogy távol légy a világ zajától,}
+{103}{}{VigyÃ¡zz, merre mÃ¡szkÃ¡lsz Reno kÃ¶rÃ¼l, kÃ¼lÃ¶nben bajod eshet! Ne kerÃ¼lj az utamba!}
+{104}{}{HellÃ³, }
+{105}{}{ dollÃ¡r.}
+{106}{}{Mit csinÃ¡lsz errefelÃ©, }
+{107}{}{ barÃ¡toddal?}
+{108}{}{Csak kijÃ¶ttÃ¼nk, hogy rÃ¡dnÃ©zzÃ¼nk, }
+{109}{}{. SzÃ©p idÅ‘nk van, mi, }
+{110}{}{ barÃ¡toddal?}
+{111}{}{AzÃ©rt jÃ¶ttÃ©l ki ide, hogy tÃ¡vol lÃ©gy a vilÃ¡g zajÃ¡tÃ³l,}
 {112}{}{?}
-{113}{}{ kiváncsi, mire készülsz,}
-{114}{}{ vagyok.}
+{113}{}{ kivÃ¡ncsi, mire kÃ©szÃ¼lsz,}
+{114}{}{ dollÃ¡r.}

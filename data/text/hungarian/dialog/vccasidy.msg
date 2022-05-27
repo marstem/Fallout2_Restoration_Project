@@ -1,234 +1,233 @@
-{100}{}{Ennek a korosodó embernek mély ráncok barázdálják az arcát. Ha észre is vette fürkészõ  tekinteted, nem látszik rajta.}
+{100}{}{Ennek a korosodÃ³ embernek mÃ©ly rÃ¡ncok barÃ¡zdÃ¡ljÃ¡k az arcÃ¡t. Ha Ã©szre is vette fÃ¼rkÃ©szÅ‘  tekinteted, nem lÃ¡tszik rajta.}
 {101}{}{Cassidy.}
-{102}{}{Ennek a korosodó embernek mély ráncok barázdálják az arcát. Biccent feléd.}
-{103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
-{104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
-{105}{}{Pá... linka?}
-{106}{}{[Elcsoszogsz]}
-{107}{}{A Menedéket keresem.}
-{108}{}{Szeretnél eltünni innen?}
-{109}{}{Innék valamit. Mit ajánlasz?}
-{110}{}{Egy sztorival. Történt valami különös mostanában?}
-{111}{}{Kösz, egyelõre elleszek magam is.}
-{112}{Cas0112}{Hit on the head a little too often, eh? Sorry, I don't speak imbecile.}
-{113}{}{O-gyós?}
-{114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
-{115}{}{Mit lehet inni?}
-{116}{}{Egy sztorival. Történt valami különös mostanában?}
-{117}{}{Köszönöm a segítséget, bátyám. Viszlát!}
-{118}{Cas0118}{Beer for $20, shot of whiskey for $30. Nothing special. Why, you want something?}
-{119}{}{A Menedéket keresem.}
-{120}{}{Egy sört kérek.}
-{121}{}{Egy whiskyt kérek.}
-{122}{}{Egy sztorival. Történt valami különös mostanában?}
-{123}{}{Kösz a jó tanácsot, most mennem kell.}
-{124}{Cas0124}{"Interesting?" Heh. Friend, Vault City ain't an "interesting" place... unless the guards get bored, then you
- better take cover. Why you asking? You looking for something in this sinkhole?}
-{125}{}{Mit lehet inni?}
-{126}{}{Fontos dolgom van, egy Menedéket keresek.}
-{127}{}{Utálsz itt lenni? Szerintem nem rossz hely ez.}
-{128}{}{Kösz a jó tanácsot, most mennem kell.}
-{129}{Cas0129}{Here you go. Drink up. It might help you forget where you are.}
+{102}{}{Ennek a korosodÃ³ embernek mÃ©ly rÃ¡ncok barÃ¡zdÃ¡ljÃ¡k az arcÃ¡t. Biccent felÃ©d.}
+{103}{Cas0103}{MÃ©g nem lÃ¡ttak errefelÃ©, idegen. Cassidy-nek hÃ­vnak, Ã©n vagyok itt a tulaj. Mit tehetek Ã©rted?}
+{104}{Cas0104}{LÃ¡tom, ismÃ©t itt a titokzatos idegen. Miben segÃ­thetek?}
+{105}{}{PÃ¡... linka?}
+{106}{}{[TovÃ¡bbÃ¡llsz]}
+{107}{}{MenedÃ©ket keresem.}
+{108}{}{SzeretnÃ©l eltÃ¼nni innen?}
+{109}{}{InnÃ©k valamit. Mit ajÃ¡nlasz?}
+{110}{}{TÃ¶rtÃ©nt valami kÃ¼lÃ¶nÃ¶s mostanÃ¡ban?}
+{111}{}{TÅ‘led? Semmit.}
+{112}{Cas0112}{TÃºl sokszor vertek kupÃ¡n igaz, barÃ¡tom? Bocs, de Ã©n nem beszÃ©lek gyogyÃ³sul.}
+{113}{}{O-gyÃ³s?}
+{114}{Cas0114}{MenedÃ©k? Az egyetlen Ã¡ltalam ismert MenedÃ©k itt van a vÃ¡rosban. Egy bazi nagy lyuk, el sem lehet tÃ©veszteni.}
+{115}{}{Mit lehet itt inni?}
+{116}{}{TÃ¶rtÃ©nt valami kÃ¼lÃ¶nÃ¶s mostanÃ¡ban?}
+{117}{}{KÃ¶sz az ÃºtbaigazÃ­tÃ¡st! ViszlÃ¡t.}
+{118}{Cas0118}{A sÃ¶r 20 dolcsi, egy pohÃ¡r viszki 30, extrÃ¡k nincsenek. Mivel szolgÃ¡lhatok?}
+{119}{}{MenedÃ©ket keresem.}
+{120}{}{Egy sÃ¶rt kÃ©rek.}
+{121}{}{Egy whiskyt kÃ©rek.}
+{122}{}{TÃ¶rtÃ©nt valami kÃ¼lÃ¶nÃ¶s mostanÃ¡ban?}
+{123}{}{Semmivel, kÃ¶szÃ¶nÃ¶m. Mennem kell.}
+{124}{Cas0124}{HosszÃº lenne a lista, barÃ¡tom. MenedÃ©kvÃ¡ros "Ã©rdekes" egy hely, jobban teszed, ha messzirÅ‘l kerÃ¼lÃ¶d.}
+{125}{}{Mit lehet itt inni?}
+{126}{}{Fontos dolgom van, egy MenedÃ©ket keresek.}
+{127}{}{UtÃ¡lsz itt lenni? Szerintem nem rossz hely ez.}
+{128}{}{Semmivel, kÃ¶szÃ¶nÃ¶m. Mennem kell.}
+{129}{Cas0129}{TessÃ©k, hajtsd fel! TalÃ¡n ez segÃ­t elfelejteni, hogy hol is vagy.}
 {130}{}{Nekem tetszik ez a hely.}
-{131}{}{Kösz az italt. Mennem kell.}
-{132}{Cas0132}{Oh, really? Well, hell then, I must be mistaken, considering YOU'RE the authority and all. Guess you must have been napping during the raid last week?}
-{133}{}{Rablótámadás?!}
-{134}{Cas0134}{Aw, yeah, a beautiful sight it was. A guard patrol broke in here looking for "illegal substances." They busted down the door, busted up my stock, then busted up a few of my customers, too.}
-{135}{}{Ejha. Mi történt utána?}
-{136}{}{Sajnos mennem kell. Késõbb még találkozunk.}
-{137}{Cas0137}{After they hauled away this one guy, Joshua, for resisting arrest, they fined my ass for finding - get this - REAL whiskey on the premises. Nevermind that I got a permit from Stark three months before. Bastards.}
-{138}{}{Elképesztõ! Folytasd csak!}
-{139}{}{Sajnos mennem kell. Késõbb még találkozunk.}
-{140}{Cas0140}{It gets better. Now I'm in debt to the guards for the fine, an' I had to buy a new case of alcohol from a merchant at triple my standard rate. I'm expecting the guards to come knocking again soon, just to bust my chops. }
-{141}{}{Legalább sok vendég jár ide? Van hasznod?}
-{142}{}{Nehéz idõket élünk. Viszlát!}
-{143}{Cas0143}{Even the good days ain't worth a damn. The Citizens don't drink much, so I'm stuck here pouring drinks for merchants. The next cheap sonuvabitch who haggles for a drink is going to be wearing his ass as a hat.}
-{144}{}{Miért nem lépsz le, ha ennyire utálod ezt a helyet?}
-{145}{}{Megértelek, barátom, de dolgom van. Egy Menedéket keresek.}
-{146}{}{Most mennem kell. Viszlát!}
-{147}{Cas0147}{I have a bad heart. Need cardio booster shots to keep it beating. This city's the only place to get real medical care, so I thought I'd settle here, try and make a living.}
-{148}{}{Úgy hangzik, mintha kicsit eleged lenne ebbõl a helybõl.}
-{149}{}{Bocs, de kevés az idõm. Tudnál segíteni? A Menedéket keresem.}
-{150}{}{Remélem, a jövõben jobb sorod lesz. Viszlát!}
-{151}{Cas0151}{Makes me want to close up shop and let this City rot. Screw 'em all.}
-{152}{}{Miért nem mész el?}
-{153}{}{Sajnálom, de most már tényleg mennem kell.}
-{154}{Cas0154}{Go into the wastes by myself? Ha! I'm sick of this place, but I ain't stupid.}
-{155}{}{Miért nem tartassz velem?}
-{156}{}{Értem. Ahogy akarod. Most mennem kell, viszlát!}
-{157}{Cas0157}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{158}{Cas0158}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{159}{Cas0159}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{160}{Cas0160}{Naw... you look like you got enough of a crowd already.}
-{161}{}{Rendben. Sok szerencsét!}
-{162}{}{Vedd úgy, hogy nem kérdeztem semmit, seggfej! Maradj csak bártulaj ebben a lepattant kricsmiben!}
+{131}{}{KÃ¶sz az italt. Mennem kell.}
+{132}{Cas0132}{Most ugye csak viccelsz? Ezek szerint te Ã©pp szunyÃ³kÃ¡ltÃ¡l, amikor a rablÃ³tÃ¡madÃ¡s tÃ¶rtÃ©nt.}
+{133}{}{RablÃ³tÃ¡madÃ¡s?!}
+{134}{Cas0134}{Az bizony. Stark Å‘rmester vezetÃ©sÃ©vel bejÃ¶tt ide egy Å‘rjÃ¡rat, hogy "illegÃ¡lis anyagok" utÃ¡n kutasson. BezÃºztÃ¡k a raktÃ¡rajtÃ³t, felforgattÃ¡k a helyisÃ©get Ã©s a vicces kedvÅ± fiÃºk mÃ©g nÃ©hÃ¡ny vendÃ©gem orrÃ¡t is bevertÃ©k.}
+{135}{}{Ejha. Mi tÃ¶rtÃ©nt utÃ¡na?}
+{136}{}{SajnÃ¡lattal hallom, de most mennem kell.}
+{137}{Cas0137}{Elhurcoltak egy Joshua nevÅ± fickÃ³t, amiÃ©rt bÃ¡torkodott visszaÃ¼tni, Ã©n meg kaptam egy zsÃ­ros bÃ¼ntetÃ©st... na, ezt figyeld... mert VALÃ“DI viszkit talÃ¡ltak a helyszÃ­nen! Itt ez nem tilos. Mocskok!}
+{138}{}{ElkÃ©pesztÅ‘! Folytasd csak!}
+{139}{}{SajnÃ¡lattal hallom, de most mennem kell.}
+{140}{Cas0140}{Az Ã¶nÃ©rzetem megtaposva, de nem ez a legnagyobb baj. Anyagilag is lesÃºjtott az eset. Ã–sszetÃ¶rtÃ©k a kÃ©szleteimet Ã©s az eredeti Ã¡r hÃ¡romszorosÃ¡Ã©rt tudtam csak pÃ³tolni. A tÃ¶nk szÃ©lÃ©n Ã¡llok, barÃ¡tom.}
+{141}{}{LegalÃ¡bb sok vendÃ©g jÃ¡r ide? Van hasznod?}
+{142}{}{NehÃ©z idÅ‘ket Ã©lÃ¼nk. ViszlÃ¡t!}
+{143}{Cas0143}{Sajnos a PolgÃ¡rok nem sokat isznak, a csÃ³rÃ³k meg Ã¡llandÃ³an hepciÃ¡skodnak az Ã¡rak miatt. EskÃ¼szÃ¶m, a kÃ¶vetkezÅ‘ potyalesÅ‘nek rojtosra rugdosom a seggÃ©t.}
+{144}{}{MiÃ©rt nem lÃ©psz le, ha ennyire utÃ¡lod ezt a helyet?}
+{145}{}{MegÃ©rtelek, barÃ¡tom, de dolgom van. Egy MenedÃ©ket keresek.}
+{146}{}{Most mennem kell. ViszlÃ¡t!}
+{147}{Cas0147}{Rossz a szÃ­vem Ã©s szÃ­verÅ‘sÃ­tÅ‘ injekciÃ³kra van szÃ¼ksÃ©gem, hogy ketyegjen mÃ©g egy ideig a vekker. Ez a vÃ¡ros az egyetlen hely a kÃ¶rnyÃ©ken, ahol normÃ¡lis az egÃ©szsÃ©gÃ¼gyi ellÃ¡tÃ¡s. EzÃ©rt telepedtem le itt.}
+{148}{}{Ãšgy hangzik, mintha kicsit eleged lenne ebbÅ‘l a helybÅ‘l.}
+{149}{}{Bocs, de kevÃ©s az idÅ‘m. TudnÃ¡l segÃ­teni? A MenedÃ©ket keresem.}
+{150}{}{RemÃ©lem, a jÃ¶vÅ‘ben jobb sorod lesz. ViszlÃ¡t!}
+{151}{Cas0151}{Igen, tudom. Emiatt akarom becsukni a boltot Ã©s elhagyni a vÃ¡rost. A PolgÃ¡rok meg... [kÃ¶zelebb hajol Ã©s a fÃ¼ledbe sÃºgja]... kinyalhatjÃ¡k a seggem! Tudod, ahogy kell. DobszÃ³ mellett a TanÃ¡cshÃ¡za dÃ­szterÃ©n.}
+{152}{}{MiÃ©rt nem mÃ©sz el?}
+{153}{}{SajnÃ¡lom, de most mÃ¡r tÃ©nyleg mennem kell.}
+{154}{Cas0154}{Menjek a pusztÃ¡ba? Ã–nkÃ©nt? Na, ja, elegem van ebbÅ‘l a helybÅ‘l, de azÃ©rt hÃ¼lye nem vagyok.}
+{155}{}{MiÃ©rt nem tartassz velem?}
+{156}{}{Ã‰rtem. Ahogy akarod. Most mennem kell, viszlÃ¡t!}
+{157}{Cas0157}{Ne vedd sÃ©rtÃ©snek, barÃ¡tom, de nem Ãºgy nÃ©zel ki, mint aki egy brahminon kÃ­vÃ¼l bÃ¡rmire is vigyÃ¡zni tudna. A puszta megenne reggelire.}
+{158}{Cas0158}{Nem, kÃ¶sz, nem utazom rabszolga-kereskedÅ‘kkel. Tudod, meg van az a rossz szokÃ¡suk, hogy eladjÃ¡k a tÃ¡rsukat, ha elfogyott a pÃ©nzÃ¼k.}
+{159}{Cas0159}{Ne vedd zokon, de Ãºgy nÃ©zel ki, mint aki fÃ©l lÃ¡bbal a sÃ­rban, a mÃ¡sikkal meg a pokolban Ã¡ll. Ãgy is Ã©pp elÃ©g rossz a hÃ­rem, nem szeretnÃ©k tovÃ¡bb rontani rajta.}
+{160}{Cas0160}{Ãšgy lÃ¡tom, mÃ¡r Ã©pp elegen vagytok.}
+{161}{}{Rendben. Sok szerencsÃ©t!}
+{162}{}{Vedd Ãºgy, hogy nem kÃ©rdeztem semmit, seggfej! Maradj csak bÃ¡rtulaj ebben a lepattant kricsmiben!}
 {163}{}{Felejtsd el! Te bajod.}
-{164}{Cas0164}{Heh. You serious?}
-{165}{}{Persze, hogy az. Nem vagy már fiatal, de biztos vagyok benne, hogy hasznos útitárs leszel. Nos?}
-{166}{}{Bocs, felejtsd el, amit mondtam! Beteg szívvel nem húznád sokáig.}
-{167}{Cas0167}{All right, count me in.}
-{168}{}{Gyerünk!}
+{164}{Cas0164}{Mi van? EZ KOMOLY?}
+{165}{}{Persze, hogy az. Nem vagy mÃ¡r fiatal, de biztos vagyok benne, hogy hasznos ÃºtitÃ¡rs leszel. Nos?}
+{166}{}{Bocs, felejtsd el, amit mondtam! Beteg szÃ­vvel nem hÃºznÃ¡d sokÃ¡ig.}
+{167}{Cas0167}{Rendben, benne vagyok. Induljunk!}
+{168}{}{GyerÃ¼nk!}
 {169}{}{}
 {170}{}{}
-{171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
-{172}{Cas0172}{Yeah?}
-{173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
-{174}{}{Szeretnék választ kapni egy kérdésre.}
-{175}{}{Úgy látom, megsérültél. Használj egy stimpakkot és gyógyítsd meg magad!}
-{176}{}{Cassidy! Várj itt, amíg visszajövök!}
+{171}{Cas0171}{Mi van? MÃ¡r megint azzal az "el kell mondanom valamit, ami nem fog tetszeni" tekintettel nÃ©zel rÃ¡m.}
+{172}{Cas0172}{ValÃ³ban?}
+{173}{Cas0173}{Mi van? MÃ¡r megint azt a "visszaÃ©lek a hatalmammal" tekintetet lÃ¡tom.}
+{174}{}{KÃ©rni akartam tÅ‘led valamit...}
+{175}{}{Ãšgy lÃ¡tom, megsÃ©rÃ¼ltÃ©l. HasznÃ¡lj egy stimpakkot Ã©s gyÃ³gyÃ­tsd meg magad!}
+{176}{}{Cassidy, itt kÃ©ne vÃ¡rnod, amÃ­g visszajÃ¶vÃ¶k!}
 {177}{}{Tedd el a fegyvered!}
-{178}{}{Maradj a közelemben!}
-{179}{}{Ne menj túl messzire!}
-{180}{}{Kicsit szét kellene szóródnunk.}
-{181}{}{Gyerünk, Cassidy! Ideje indulni.}
-{182}{}{Hagyjuk, viszlát!}
-{261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
-{262}{Cas0262}{What's on your mind?}
-{263}{}{Miért akarod kinyírni Myront?}
-{264}{}{Milyen fegyverekhez értesz?}
-{265}{}{Igazából valami mást kéne csinálnod.}
-{266}{}{Igazából azt akarom, hogy..}
-{267}{}{Felejtsd el! Menjünk!}
-{268}{}{Neee... ne bántsd Myront! Legalábbis ma ne. Majd szólok...}
-{269}{Cas0269}{Well, shotguns and rifles, mostly... just personal preference. I ain't a bad shot with pistols, neither.}
-{270}{}{Másvalamit?}
-{271}{}{Világos. Kérdeznék még valamit.}
-{272}{}{Erre voltam kíváncsi. Kösz.}
-{273}{Cas0273}{If you ever need to learn somebody some manners up close and personal, slip me some brass knuckles, and I can tapdance on their face with my fists.}
-{274}{}{Nagyszerû! Egyéb?}
-{275}{}{Világos. Kérdeznék még valamit.}
-{276}{}{Erre voltam kíváncsi. Kösz.}
-{277}{Cas0277}{Uh, well... just between you and me, I can also use a spear pretty good. Me and my buddies used to hunt radscorpions with spears way back when... fact I'm alive and they ain't might tell you something.}
-{278}{}{Én is szeretem a lándzsákat.}
-{279}{}{Világos. Kérdeznék még valamit.}
-{280}{}{Erre voltam kíváncsi. Kösz.}
-{281}{Cas0281}{Says you. Just don't be calling me no tribal, and we'll get along just fine.}
-{282}{Cas0282}{Don't want people mistaking me for ol' Bone-nose over there. Heh-heh. I ain't never seen no tribal do something as dumb as jam a bone in his nose.}
-{283}{Cas0283}{Of course there isn't. Spear's a fine weapon. Lots of tribal friends of mine use 'em.}
-{284}{}{Tudtad, hogy én is "törzsbéli" vagyok?}
-{285}{}{Valami mást szeretnék.}
+{178}{}{Maradj szorosan mellettem!}
+{179}{}{Ne menj tÃºl messze!}
+{180}{}{SzÃ³rÃ³djunk szÃ©t egy kicsit!}
+{181}{}{GyerÃ¼nk, Cassidy, ideje indulni!}
+{182}{}{Hagyjuk, viszlÃ¡t!}
+{261}{Cas0261}{Azt akarod, hogy repÃ­tsek golyÃ³t Myron fejÃ©be, ugye? Nem problÃ©ma. Egy szavadba kerÃ¼l.}
+{262}{Cas0262}{Mire vagy kÃ­vÃ¡ncsi?}
+{263}{}{MiÃ©rt akarod kinyÃ­rni Myront?}
+{264}{}{Milyen fegyverekhez Ã©rtesz?}
+{265}{}{IgazÃ¡bÃ³l valami mÃ¡st kÃ©ne csinÃ¡lnod.}
+{266}{}{IgazÃ¡bÃ³l azt akarom, hogy..}
+{267}{}{Felejtsd el! MenjÃ¼nk!}
+{268}{}{Neee... ne bÃ¡ntsd Myront! LegalÃ¡bbis ma ne. Majd szÃ³lok...}
+{269}{Cas0269}{JÃ³l bÃ¡nok a kÃ©zifegyverekkel, kÃ¼lÃ¶nÃ¶sen a puskÃ¡kkal, ezek a kedvenceim. AzÃ©rt a pisztolyokkal is elboldogulok.}
+{270}{}{MÃ¡svalamit?}
+{271}{}{Rendben. Lenne mÃ©g egy kÃ©rdÃ©sem.}
+{272}{}{Ã‰rtem.}
+{273}{Cas0273}{Ha valakitÅ‘l valami szemÃ©lyes dolgot szeretnÃ©l megtudni, csak passzolj ide egy bokszert Ã©s Ã©n majd kicsipkÃ©zem az arcÃ¡t az Ã¶klÃ¶mmel.}
+{274}{}{NagyszerÅ±! EgyÃ©b?}
+{275}{}{Rendben. Lenne mÃ©g egy kÃ©rdÃ©sem.}
+{276}{}{Ã‰rtem.}
+{277}{Cas0277}{Ezen kÃ­vÃ¼l elÃ©g jÃ³l bÃ¡nok a lÃ¡ndzsÃ¡val. A haverokkal radskorpiÃ³kra vadÃ¡sztunk annak idejÃ©n. Ã‰n Ã©lek, Å‘k mÃ¡r nem. Ez talÃ¡n mond valamit.}
+{278}{}{Ã‰n is szeretem a lÃ¡ndzsÃ¡kat.}
+{279}{}{Rendben. Lenne mÃ©g egy kÃ©rdÃ©sem.}
+{280}{}{Ã‰rtem.}
+{281}{Cas0281}{Mondod te. Csak ne hÃ­vj tÃ¶rzsbÃ©linek, Ã©s jÃ³l megleszÃ¼nk!}
+{282}{Cas0282}{AzÃ©rt nem szeretnÃ©m, ha Ã¶sszetÃ©vesztenÃ©l az Ã¶reg CsontorrÃºval hehe... mÃ©g nem lÃ¡ttam tÃ¶rzsbÃ©lit, aki ilyen bazi nagy csontot rakott volna az orrÃ¡ba.}
+{283}{Cas0283}{A lÃ¡ndzsa jÃ³ fegyver. Sok tÃ¶rzsbÃ©li barÃ¡tom hasznÃ¡lja.}
+{284}{}{Tudtad, hogy Ã©n is "tÃ¶rzsbÃ©li" vagyok?}
+{285}{}{Valami mÃ¡st szeretnÃ©k.}
 {286}{}{Rendben, Ez minden.}
-{287}{Cas0287}{Aw, don't be playing with ol' Cassidy now. You ain't no tribal.}
-{288}{}{De, én vagyok.}
-{289}{}{Mindegy. Lenne még valami.}
-{290}{}{Felejtsd el! Nem akarok belebonyolódni.}
-{291}{Cas0291}{Uh, well... damn it all, you can have my apology right here and now. I didn't mean any offense.}
-{292}{}{Persze, tudom, semmi baj. Kérdeznék valami mást.}
-{293}{}{Menjünk!}
-{294}{Cas0294}{Well, now, before you go, I got a question for you. What are we doing out here? We seem to be running all over the place looking for something. Have we got some sort of plan?}
-{295}{}{Az ÉLET-et keressük. Az Édenkert Létrehozást Elõsegítõ Táskát. A falumnak szüksége van rá.}
-{296}{}{Bemegyünk a Menedékbe és visszavisszük az ÉLET-et a falumba.}
-{297}{}{A falumat elpusztították. Azt próbálom kideríteni, hogy mi történt.}
-{298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
-{299}{Cas0299}{Huh. All right then, just checking.}
-{300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
+{287}{Cas0287}{Na, ne szÃ³rakozz az Ã¶reg Cassidy-vel! Nem vagy te tÃ¶rzsbÃ©li.}
+{288}{}{De, az vagyok.}
+{289}{}{Mindegy. Lenne mÃ©g valami.}
+{290}{}{Felejtsd el! Nem akarok belebonyolÃ³dni.}
+{291}{Cas0291}{Rendben... a fenÃ©be is, bocsÃ¡nat. Nem akartalak megbÃ¡ntani.}
+{292}{}{Persze, tudom, semmi baj. KÃ©rdeznÃ©k valami mÃ¡st.}
+{293}{}{MenjÃ¼nk!}
+{294}{Cas0294}{MielÅ‘tt folytatnÃ¡nk elÃ¡rulnÃ¡d, mit csinÃ¡lunk mi odakint? Csak Ãºgy fel-le bÃ³klÃ¡szunk, vagy van valami konkrÃ©t cÃ©lunk is?}
+{295}{}{Az Ã‰LET-et keressÃ¼k. Az Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t. A falumnak szÃ¼ksÃ©ge van rÃ¡.}
+{296}{}{BemegyÃ¼nk a MenedÃ©kbe Ã©s visszavisszÃ¼k az Ã‰LET-et a falumba.}
+{297}{}{A falumat elpusztÃ­tottÃ¡k. Azt prÃ³bÃ¡lom kiderÃ­teni, hogy mi tÃ¶rtÃ©nt.}
+{298}{Cas0298}{Az ilyesmit tÃ¡skÃ¡ba rakjÃ¡k egyÃ¡ltalÃ¡n? Ezt elÃ©g nehÃ©z elhinni, barÃ¡tom, de hÃ¡t te tudod. MehetÃ¼nk.}
+{299}{Cas0299}{Minden rendben, csak Ã©rdeklÅ‘dtem.}
+{300}{Cas0300}{SzÃ­vesen csinÃ¡lok pÃ¡r extra-lyukat nÃ©hÃ¡ny bandita fejÃ©be. Egy kis magÃ¡n-igazsÃ¡gszolgÃ¡ltatÃ¡s senkinek sem Ã¡rt... legalÃ¡bbis nem nekem.}
 {301}{}{Rendben. Induljunk!}
-{302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
-{303}{Cas0303}{Especially a woman's.}
-{304}{}{Nocsak, Cassidy, nem is tudtam, hogy ilyesmivel is törõdsz. Repes a szívem.}
-{305}{}{Valóban?}
-{306}{}{Tudod, te is sokat káromkodsz, Cassidy.}
-{307}{}{Nekem mondod? Menjünk!}
-{308}{Cas0308}{Yeah, but when I do it, it's got style. He's just a little trash mouth.}
-{309}{Cas0309}{And I don't like the way he looks at you, neither.}
-{310}{}{Nocsak, Cassidy, nem is tudtam, hogy ilyesmivel is törõdsz. Repes a szívem.}
-{311}{}{Valóban?}
-{312}{}{Nekem mondod? Menjünk!}
-{313}{Cas0313}{Now hold on, I didn't mean it like that.}
-{314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
-{315}{}{Az élet bizony szigorú tanár. Lenne még pár kérdésem.}
-{316}{}{Nos, már úgysincs sok hátra neki. Én nem aggódnék miatta.}
-{317}{}{Csak nyugodj meg, Cassidy! Hagyd békén Myront!}
-{318}{}{Utálom ezt a helyet.}
-{319}{}{Reméltem, hogy eltûzünk errõl a helyrõl.}
-{320}{}{Seggarcúak Városa.}
-{321}{}{Ez a hely rosszabb, mint Menedékváros.}
-{322}{}{Jó, hogy ellenõriztem a fegyvereimet, mielõtt bejöttem ide.}
+{302}{Cas0302}{Amiket az a suttyÃ³ mond, nem valÃ³ bizonyos fÃ¼leknek.}
+{303}{Cas0303}{PÃ©ldÃ¡ul a nÅ‘knek...}
+{304}{}{Nocsak, Cassidy, nem is  tudtam, hogy ilyesmivel is tÃ¶rÅ‘dsz. Repes a szÃ­vem.}
+{305}{}{ValÃ³ban?}
+{306}{}{Tudod, te is sokat kÃ¡romkodsz, Cassidy.}
+{307}{}{Nekem mondod? MenjÃ¼nk!}
+{308}{Cas0308}{ValÃ³ban, de legalÃ¡bb stÃ­lusosan. BÃ¡r igaz, egy kicsit mocskos szÃ¡jÃº.}
+{309}{Cas0309}{Ã‰s az sem tetszik, ahogy rÃ¡d nÃ©z.}
+{310}{}{Nocsak, Cassidy, nem is  tudtam, hogy ilyesmivel is tÃ¶rÅ‘dsz. Repes a szÃ­vem.}
+{311}{}{ValÃ³ban?}
+{312}{}{Nekem mondod? MenjÃ¼nk!}
+{313}{Cas0313}{Ãllj csak meg egy pillanatra, nem Ã©rtettem...}
+{314}{Cas0314}{Azt mondom, hogy ennek a kis seggarcÃº baromnak egyszer mÃ©g kicsengetnek. Csak egy percig maradjunk kettesben a pusztÃ¡ban.}
+{315}{}{Az Ã©let bizony szigorÃº tanÃ¡r. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{316}{}{Nos, mÃ¡r Ãºgysincs sok hÃ¡tra neki. Ã‰n nem aggÃ³dnÃ©k miatta.}
+{317}{}{Csak nyugodj meg, Cassidy! Hagyd bÃ©kÃ©n Myront!}
+{318}{}{UtÃ¡lom ezt a helyet.}
+{319}{}{RemÃ©ltem, hogy eltÅ±zÃ¼nk errÅ‘l a helyrÅ‘l.}
+{320}{}{SeggarcÃºak VÃ¡rosa.}
+{321}{}{Ez a hely rosszabb, mint MenedÃ©kvÃ¡ros.}
+{322}{}{JÃ³, hogy ellenÅ‘riztem a fegyvereimet, mielÅ‘tt bejÃ¶ttem ide.}
 {323}{}{Ha elpatkolok, ne itt temessetek el!}
-{324}{}{Vigyázz magadra, a helybeliek nem túl barátságosak.}
-{325}{}{Nahát... sosem hittem volna, hogy egyszer még látni fogom San Franciscót.}
-{326}{}{Nem hittem volna, hogy egy ilyen öreg trottyost mint én, ennyi ideig magadnál tartasz. Csináljuk meg ezt a melót és menjünk haza!}
-{327}{}{Redding egy bányaváros, elsõsorban aranyat termelnek. Sok karavánt küldtek már Menedékvárosba.}
-{328}{}{Broken Hills egy bányaváros, leginkább uránt hoznak a felszínre. Durva hely is tud lenni, úgyhogy vigyázz magadra!}
-{329}{}{Egy kis méreg szaladgál a szervezetemben. Van nálad ellenméreg?}
+{324}{}{VigyÃ¡zz magadra, a helybeliek nem tÃºl barÃ¡tsÃ¡gosak.}
+{325}{}{NahÃ¡t... sosem hittem volna, hogy egyszer mÃ©g lÃ¡tni fogom San FranciscÃ³t.}
+{326}{}{Nem hittem volna, hogy egy ilyen Ã¶reg trottyost mint Ã©n, ennyi ideig magadnÃ¡l tartasz. CsinÃ¡ljuk meg ezt a melÃ³t Ã©s menjÃ¼nk haza!}
+{327}{}{Redding egy bÃ¡nyavÃ¡ros, elsÅ‘sorban aranyat termelnek. Sok karavÃ¡nt kÃ¼ldtek mÃ¡r MenedÃ©kvÃ¡rosba.}
+{328}{}{Broken Hills egy bÃ¡nyavÃ¡ros, leginkÃ¡bb urÃ¡nt hoznak a felszÃ­nre. Durva hely is tud lenni, Ãºgyhogy vigyÃ¡zz magadra!}
+{329}{}{Egy kis mÃ©reg szaladgÃ¡l a szervezetemben. Van nÃ¡lad ellenmÃ©reg?}
 {330}{}{I'm glowing like a neon sign over here. Got any anti-radiation drugs?}
-{331}{}{Rosszul vagyok. Szükségem lenne egy stimpakkra.}
-{332}{}{Ne üsd bele az orrod, Myron! Figyellek!}
-{333}{}{Lépj ki, Myron és kinyírlak!}
-{334}{}{A francba, Lenny, ideje lenne már megfürödnöd. Vagy inkább fertõtlenítsd magad!}
-{335}{}{Ghoul-fiú, menj már egy kicsit odébb! Fúúúúúú, te aztán bûzlesz!}
-{336}{}{Ez a legrémisztõbb kutya, amit valaha láttam.}
-{337}{}{Jól van, kutyus. Cassidy  a barátod, oké?}
-{338}{}{Vajon mit esznek a kiberkutyák? Valószínûleg embereket.}
-{339}{}{Ha ez a kiberkutya belekap a lábamba, kicsinálom.}
-{340}{}{Örülök, hogy több milliót csináltak ezekbõl az izékbõl, mielõtt ledobták a bombát.}
-{341}{}{Köszönöm, barátom!}
-{342}{}{Remélem, ezek a stimpakkok nem ártanak meg a szívemnek.}
-{343}{}{Mi a... ?! Úristen, a szívem... én... *hrrrkkk*}
-{344}{}{Bocs, csak gyönyörködtem a kilátásban.}
-{345}{}{A fenébe, én meg csak álldogálok itt.}
-{346}{}{Bocsánat, barátaim. Nem akartam elállni az utat.}
-{347}{}{Ez már valami. Köszönöm szépen!}
-{348}{}{*Hukk* Hehehe... Semmi sem serkenti annyira a vérkeringést, mint a jó öreg tüzes víz.}
-{349}{}{Kösz. A pokolba is, innod kéne egy kortyot.}
-{350}{}{Az a Menedék. Bazi nagy egy izé, mi?}
-{351}{}{Azt akarod, hogy megint csatlakozzak hozzád?}
-{352}{}{Én kész vagyok, csak szólj!}
-{353}{}{Biztos ne segítsek?}
-{354}{}{Alig várom, hogy induljunk.}
-{355}{}{Elszívnék egy cigit.}
-{356}{}{Apám egy háború elõtti képregény-figura után nevezett el. Azt mondta, az is egy mogorva fickó volt.}
-{357}{}{Jó újra úton lenni. A menedékvárosi élettõl már herótom volt.}
-{358}{}{Remélem, a szívem még bírja az utazást.}
-{359}{}{Jól esne egy ital.}
-{360}{}{Jobb, ha még egyszer átnézem a felszerelésem.}
-{361}{}{Rohadt ízületi gyulladás!}
-{362}{}{Ha húsz évvel fiatalabb lennék, felderíteném a középnyugatot. Most már túl késõ... szerintem.}
-{363}{}{Úgy halottam, középnyugaton több mérföld széles tornádók voltak. Most az egész egy nagy radioaktív szemétgödör.}
-{364}{}{Vajon Texas túlélte a háborút?}
-{365}{}{Kösz, barátom. Én... húúú... mintha egyre homályosabban látnék.}
-{366}{}{Úgy hallottam, ez a cucc okozhat hallucin... húúú... honnan a fenébõl jött elõ ez a rengeteg kígyó?!}
-{367}{}{Ha beveszem ezt a cuccot, emlékképek jelennek meg a szemeim elõtt.}
-{368}{}{Semmi sem hasonlítható egy jó kis törzsbéli gyógyításhoz.}
-{369}{}{Hamarosan szükségem lesz egy pár mankóra és egy tolószékre.}
-{370}{}{Cassidy meghalt egy szívrohamban.}
-{371}{}{Meggyõzted Cassidy-t, hogy csatlakozzon a csapatodhoz.}
+{331}{}{Rosszul vagyok. SzÃ¼ksÃ©gem lenne egy stimpakkra.}
+{332}{}{Ne Ã¼sd bele az orrod, Myron! Figyellek!}
+{333}{}{LÃ©pj ki, Myron Ã©s kinyÃ­rlak!}
+{334}{}{A francba, Lenny, ideje lenne mÃ¡r megfÃ¼rÃ¶dnÃ¶d. Vagy inkÃ¡bb fertÅ‘tlenÃ­tsd magad!}
+{335}{}{Ghoul-fiÃº, menj mÃ¡r egy kicsit odÃ©bb! FÃºÃºÃºÃºÃºÃº, te aztÃ¡n bÅ±zlesz!}
+{336}{}{Ez a legrÃ©misztÅ‘bb kutya, amit valaha lÃ¡ttam.}
+{337}{}{JÃ³l van, kutyus. Cassidy  a barÃ¡tod, okÃ©?}
+{338}{}{Vajon mit esznek a kiberkutyÃ¡k? ValÃ³szÃ­nÅ±leg embereket.}
+{339}{}{Ha ez a kiberkutya belekap a lÃ¡bamba, kicsinÃ¡lom.}
+{340}{}{Ã–rÃ¼lÃ¶k, hogy tÃ¶bb milliÃ³t csinÃ¡ltak ezekbÅ‘l az izÃ©kbÅ‘l, mielÅ‘tt ledobtÃ¡k a bombÃ¡t.}
+{341}{}{KÃ¶szÃ¶nÃ¶m, barÃ¡tom!}
+{342}{}{RemÃ©lem, ezek a stimpakkok nem Ã¡rtanak meg a szÃ­vemnek.}
+{343}{}{Mi a... ?! Ãšristen, a szÃ­vem... Ã©n... *hrrrkkk*}
+{344}{}{Bocs, csak gyÃ¶nyÃ¶rkÃ¶dtem a kilÃ¡tÃ¡sban.}
+{345}{}{A fenÃ©be, Ã©n meg csak Ã¡lldogÃ¡lok itt.}
+{346}{}{BocsÃ¡nat, barÃ¡taim. Nem akartam elÃ¡llni az utat.}
+{347}{}{Ez mÃ¡r valami. KÃ¶szÃ¶nÃ¶m szÃ©pen!}
+{348}{}{*Hukk* Hehehe... Semmi sem serkenti annyira a vÃ©rkeringÃ©st, mint a jÃ³ Ã¶reg tÃ¼zes vÃ­z.}
+{349}{}{KÃ¶sz. A pokolba is, innod kÃ©ne egy kortyot.}
+{350}{}{Az a MenedÃ©k. Bazi nagy egy izÃ©, mi?}
+{351}{}{Azt akarod, hogy megint csatlakozzak hozzÃ¡d?}
+{352}{}{Ã‰n kÃ©sz vagyok, csak szÃ³lj!}
+{353}{}{Biztos ne segÃ­tsek?}
+{354}{}{Alig vÃ¡rom, hogy induljunk.}
+{355}{}{ElszÃ­vnÃ©k egy cigit.}
+{356}{}{ApÃ¡m egy hÃ¡borÃº elÅ‘tti kÃ©pregÃ©ny-figura utÃ¡n nevezett el. Azt mondta, az is egy mogorva fickÃ³ volt.}
+{357}{}{JÃ³ Ãºjra Ãºton lenni. A menedÃ©kvÃ¡rosi Ã©lettÅ‘l mÃ¡r herÃ³tom volt.}
+{358}{}{RemÃ©lem, a szÃ­vem mÃ©g bÃ­rja az utazÃ¡st.}
+{359}{}{JÃ³l esne egy ital.}
+{360}{}{Jobb, ha mÃ©g egyszer Ã¡tnÃ©zem a felszerelÃ©sem.}
+{361}{}{Rohadt Ã­zÃ¼leti gyulladÃ¡s!}
+{362}{}{Ha hÃºsz Ã©vvel fiatalabb lennÃ©k, felderÃ­tenÃ©m a kÃ¶zÃ©pnyugatot. Most mÃ¡r tÃºl kÃ©sÅ‘... szerintem.}
+{363}{}{Ãšgy halottam, kÃ¶zÃ©pnyugaton tÃ¶bb mÃ©rfÃ¶ld szÃ©les tornÃ¡dÃ³k voltak. Most az egÃ©sz egy nagy radioaktÃ­v szemÃ©tgÃ¶dÃ¶r.}
+{364}{}{Vajon Texas tÃºlÃ©lte a hÃ¡borÃºt?}
+{365}{}{KÃ¶sz, barÃ¡tom. Ã‰n... hÃºÃºÃº... mintha egyre homÃ¡lyosabban lÃ¡tnÃ©k.}
+{366}{}{Ãšgy hallottam, ez a cucc okozhat hallucin... hÃºÃºÃº... honnan a fenÃ©bÅ‘l jÃ¶tt elÅ‘ ez a rengeteg kÃ­gyÃ³?!}
+{367}{}{Ha beveszem ezt a cuccot, emlÃ©kkÃ©pek jelennek meg a szemeim elÅ‘tt.}
+{368}{}{Semmi sem hasonlÃ­thatÃ³ egy jÃ³ kis tÃ¶rzsbÃ©li gyÃ³gyÃ­tÃ¡shoz.}
+{369}{}{Hamarosan szÃ¼ksÃ©gem lesz egy pÃ¡r mankÃ³ra Ã©s egy tolÃ³szÃ©kre.}
+{370}{}{Cassidy meghalt egy szÃ­vrohamban.}
+{371}{}{MeggyÅ‘zted Cassidy-t, hogy csatlakozzon a csapatodhoz.}
 {372}{}{Just let me pop a heart pill first...}
-{1000}{Cas1000}{Well... all right, then. I'll wait here 'til you get back. }
-{1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
-{1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
-{1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}
-{1400}{Cas1400}{All right, I'll be watching your back. You need me, holler, and I'll come running.}
-{2000}{Cas2000}{No offense or nothin', but you don't look too capable of leading anybody. It looks like the wastes would have you for dinner.}
-{2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
-{2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
-{2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
-{2400}{Cas2400}{All right, then.}
-{2999}{}{Nos, rendben. Vigyázz magadra!}
-{3000}{}{Gyerünk, induljunk!}
-{3100}{}{Felejtsd el, seggfej!}
+{1000}{Cas1000}{Rendben, legalÃ¡bb pihenek egy kicsit. RÃ¡fÃ©r a gyenge szÃ­vemre.}
+{1100}{Cas1100}{Rendben, habÃ¡r nem Ã­gÃ©rem, hogy bajban nem veszem elÅ‘.}
+{1200}{Cas1200}{Rendben, kÃ¶zel maradok hozzÃ¡d. TÃ¡madÃ¡stÃ³l tartasz?}
+{1300}{Cas1300}{Rendben, de azÃ©rt kissÃ© lemaradok. LegalÃ¡bb Ã­gy elÅ‘nyÃ¶sebb pozÃ­ciÃ³ban leszek.}
+{1400}{Cas1400}{Rendben, fedezlek. Csak fÃ¼ttyents, Ã©s Ã©n rohanok!}
+{2000}{Cas2000}{Ne vedd sÃ©rtÃ©snek, barÃ¡tom, de nem Ãºgy nÃ©zel ki, mint aki egy brahminon kÃ­vÃ¼l bÃ¡rmire is vigyÃ¡zni tudna. A puszta megenne reggelire.}
+{2100}{Cas2100}{Nem, kÃ¶sz, nem utazom rabszolga-kereskedÅ‘kkel. Tudod, meg van az a rossz szokÃ¡suk, hogy eladjÃ¡k a tÃ¡rsukat, ha elfogyott a pÃ©nzÃ¼k.}
+{2200}{Cas2200}{Ne vedd zokon, de Ãºgy nÃ©zel ki, mint aki fÃ©l lÃ¡bbal a sÃ­rban, a mÃ¡sikkal meg a pokolban Ã¡ll. Ãgy is Ã©pp elÃ©g rossz a hÃ­rem, nem szeretnÃ©k tovÃ¡bb rontani rajta.}
+{2300}{Cas2300}{Ãšgy lÃ¡tom, mÃ¡r Ã©pp elegen vagytok.}
+{2400}{Cas2400}{JÃ³l van.}
+{2999}{}{Nos, rendben. VigyÃ¡zz magadra!}
+{3000}{}{GyerÃ¼nk!}
+{3100}{}{Felejtsd el, hogy kÃ©rdeztem valamit, seggfej!}
 {3200}{}{Felejtsd el! A te bajod.}
-{4100}{Cas4100}{Okay, everything's stitched up. I'm good to go.}
-{4200}{Cas4200}{Okay, pretty much everything is patched up.}
-{4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
-{4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
-{9999}{}{Szeretnék választ kapni egy kérdésre.}
-{10001}{}{Vegyél még néhány stimpakkot és gyógyíts magadon!}
-{10002}{}{Cassidy! Várj itt, amíg visszajövök!}
+{4100}{Cas4100}{OkÃ©, minden rendben van. MehetÃ¼nk.}
+{4200}{Cas4200}{OkÃ©, elÃ©g jÃ³l Ã¶sszefoltoztÃ¡l.}
+{4300}{Cas4300}{Ez bÅ‘ven megteszi, de jÃ³ lenne mÃ©g pÃ¡r stimpakk.}
+{4400}{Cas4400}{Amit tudtam, hasznÃ¡ltam, de Ã­gy is elÃ©g szarul vagyok. Ha van, adhatnÃ¡l mÃ©g pÃ¡r stimpakkot,  bÃ¡r jÃ¡rni mÃ¡r tudok.}
+{9999}{}{KÃ©rni akartam tÅ‘led valamit...}
+{10001}{}{VÃ©gy magadhoz pÃ¡r stimpakkot Ã©s gyÃ³gyÃ­tsd magad!}
+{10002}{}{Cassidy, itt kÃ©ne vÃ¡rnod, amÃ­g visszajÃ¶vÃ¶k!}
 {10003}{}{Tedd el a fegyvered!}
-{10004}{}{Maradj a közelemben!}
-{10005}{}{Ne menj túl messzire!}
-{10006}{}{Kicsit szét kellene szóródnunk.}
+{10004}{}{Maradj szorosan mellettem!}
+{10005}{}{Ne menj tÃºl messze!}
+{10006}{}{SzÃ³rÃ³djunk szÃ©t egy kicsit!}
 {10007}{}{Na, akkor induljunk!}
-{10100}{}{Gyerünk, Cassidy! Ideje indulni.}
-{20000}{Cas20000}{All right, I'm listening.}
-{20001}{Cas20001}{My gear? What about it?}
-{20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
-{20003}{}{Próbáljunk más formációt!}
-{20004}{}{Beszélnünk kell a felszerelésedrõl.}
-{20005}{}{Felejtsd el! Maradjunk a mostani formációban!}
-{20006}{}{Semmi. Nem érdekes.}
-{20007}{}{Kérlek, vedd le a páncélodat!}
+{10100}{}{GyerÃ¼nk, Cassidy, ideje indulni!}
+{20000}{Cas20000}{OkÃ©, hallgatlak.}
+{20001}{Cas20001}{A felszerelÃ©sem? Mi van vele?}
+{20002}{Cas20002}{No problemo. AmÃºgy is tÃºl meleg van itt ilyen felszerelÃ©shez. Ãšgy izzadtam tÅ‘le, mint egy New Reno-i kurva.}
+{20003}{}{PrÃ³bÃ¡ljunk mÃ¡s formÃ¡ciÃ³t!}
+{20004}{}{BeszÃ©lnem kell veled a felszerelÃ©sedrÅ‘l.}
+{20005}{}{Felejtsd el! Maradjunk a mostani formÃ¡ciÃ³ban!}
+{20006}{}{Semmi. Nem Ã©rdekes.}
+{20007}{}{KÃ©rlek, vedd le a pÃ¡ncÃ©lodat!}
 {30000}{}{Ah, that actually feels good. I feel like I can handle things much better now.}
 {30001}{}{Wow, this feels different. Those heart pills must be working.}
 {30100}{}{Yeah, why not... It'll help me feel like I'm dead.}

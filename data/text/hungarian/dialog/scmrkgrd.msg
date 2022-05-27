@@ -1,10 +1,10 @@
-{100}{}{Ez is olyan fickónak tûnik, aki inkább az öklével gondolkodik, mint a fejével.}
-{101}{}{Hmmm. Merk egyik testõre.}
-{102}{}{Nagy. Kemény. Hülye. Testõr.}
-{103}{}{Állj hátrébb! Adj helyet Mr. Merknek!}
+{100}{}{Ez is olyan fickÃ³nak tÅ±nik, aki inkÃ¡bb az Ã¶klÃ©vel gondolkodik, mint a fejÃ©vel.}
+{101}{}{Hmmm. Merk egyik testÅ‘re.}
+{102}{}{Nagy. KemÃ©ny. HÃ¼lye. TestÅ‘r.}
+{103}{}{Ãllj hÃ¡trÃ©bb! Adj helyet Mr. Merknek!}
 {104}{}{Ajjaj...}
-{105}{}{Senkivel sem beszélhetek szolgálat közben.}
-{106}{}{A magadfajták miatt vagyok itt. Megértetted?}
-{107}{}{Menj csak tovább, oké?}
+{105}{}{Senkivel sem beszÃ©lhetek szolgÃ¡lat kÃ¶zben.}
+{106}{}{A magadfajtÃ¡k miatt vagyok itt. MegÃ©rtetted?}
+{107}{}{Menj csak tovÃ¡bb, okÃ©?}
 {108}{}{Ne zaklass!}
-{109}{}{Mr. Merk nem szeretné, ha bárki zavarná.}
+{109}{}{Mr. Merk nem szeretnÃ©, ha bÃ¡rki zavarnÃ¡.}

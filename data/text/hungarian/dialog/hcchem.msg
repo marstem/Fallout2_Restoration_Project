@@ -1,98 +1,97 @@
-{100}{}{Egy teljes kémikus felszerelést látsz.}
-{101}{}{Egy "Kis Kémikus" felszerelés.}
-{102}{}{Egy "Kis Kémikus" készletet látsz, amivel érdekes kotyvalékokat lehet kikeverni.}
-{103}{}{Mivel szeretnéd kezdeni? Négyféle folyadékod van kis fiolákban: piros, kék, sárga és áttetszõ.}
+{100}{}{Egy teljes kÃ©mikus felszerelÃ©st lÃ¡tsz.}
+{101}{}{Egy "Kis KÃ©mikus" felszerelÃ©s.}
+{102}{}{Egy "Kis KÃ©mikus" kÃ©szletet lÃ¡tsz, amivel Ã©rdekes kotyvalÃ©kokat lehet kikeverni.}
+{103}{}{Mivel szeretnÃ©d kezdeni? NÃ©gyfÃ©le folyadÃ©kod van kis fiolÃ¡kban: piros, kÃ©k, sÃ¡rga Ã©s Ã¡ttetszÅ‘.}
 {104}{}{A pirossal.}
-{105}{}{A kékkel.}
-{106}{}{A sárgával.}
-{107}{}{Az áttetszõvel.}
-{108}{}{Nem csinálok semmit.}
-{109}{}{A pirosat választottad. Mit szeretnél hozzákeverni?}
-{110}{}{Kéket. Így lila lesz.}
-{111}{}{Sárgát. Így narancssárga lesz.}
-{112}{}{Áttetszõt. Így piros marad.}
+{105}{}{A kÃ©kkel.}
+{106}{}{A sÃ¡rgÃ¡val.}
+{107}{}{Az Ã¡ttetszÅ‘vel.}
+{108}{}{Nem csinÃ¡lok semmit.}
+{109}{}{A pirosat vÃ¡lasztottad. Mit szeretnÃ©l hozzÃ¡keverni?}
+{110}{}{KÃ©ket. Ãgy lila lesz.}
+{111}{}{SÃ¡rgÃ¡t. Ãgy narancssÃ¡rga lesz.}
+{112}{}{ÃttetszÅ‘t. Ãgy piros marad.}
 {113}{}{Megiszom.}
 {114}{}{Blue. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
  dosages.}
-{115}{}{Sárgát. Tudós elméd felismeri, hogy ha jól kevered hozzá, sósav lesz belõle.}
-{116}{}{Áttetszõt. Gyakorlott agyad tudja, hogy így erõs vitamin lesz belõle... feltéve, ha ki tudod mérni a megfelelõ arányt.}
+{115}{}{SÃ¡rgÃ¡t. TudÃ³s elmÃ©d felismeri, hogy ha jÃ³l kevered hozzÃ¡, sÃ³sav lesz belÅ‘le.}
+{116}{}{ÃttetszÅ‘t. Gyakorlott agyad tudja, hogy Ã­gy erÅ‘s vitamin lesz belÅ‘le... feltÃ©ve, ha ki tudod mÃ©rni a megfelelÅ‘ arÃ¡nyt.}
 {117}{}{Abbahagyom.}
-{118}{}{A kéket választottad. Mit szeretnél hozzákeverni?}
-{119}{}{Pirosat. Így lila lesz.}
-{120}{}{Sárgát. Így zöld lesz..}
-{121}{}{Áttetszõt. Így kék marad.}
+{118}{}{A kÃ©ket vÃ¡lasztottad. Mit szeretnÃ©l hozzÃ¡keverni?}
+{119}{}{Pirosat. Ãgy lila lesz.}
+{120}{}{SÃ¡rgÃ¡t. Ãgy zÃ¶ld lesz..}
+{121}{}{ÃttetszÅ‘t. Ãgy kÃ©k marad.}
 {122}{}{Red. This, you know, will make Jet, an addictive amphetamine-like drug... if you get the correct
  dosages.}
-{123}{}{Sárgát. Mielõtt hozzákevernéd, fejben elvégzed a szükséges számításokat. Tudod jól, hogy nitroglicerin lesz belõle, egy erõs robbanóanyag.}
-{124}{}{Áttetszõt. Így egy toxikus vegyületet kapsz, ami semmire nem jó a sugárzás hatásának tanulmányozásán kívül.}
+{123}{}{SÃ¡rgÃ¡t. MielÅ‘tt hozzÃ¡kevernÃ©d, fejben elvÃ©gzed a szÃ¼ksÃ©ges szÃ¡mÃ­tÃ¡sokat. Tudod jÃ³l, hogy nitroglicerin lesz belÅ‘le, egy erÅ‘s robbanÃ³anyag.}
+{124}{}{ÃttetszÅ‘t. Ãgy egy toxikus vegyÃ¼letet kapsz, ami semmire nem jÃ³ a sugÃ¡rzÃ¡s hatÃ¡sÃ¡nak tanulmÃ¡nyozÃ¡sÃ¡n kÃ­vÃ¼l.}
 {125}{}{Megiszom.}
 {126}{}{Abbahagyom.}
-{127}{}{A sárgát választottad. Mit szeretnél hozzákeverni?}
-{128}{}{Kéket. Így zöld lesz.}
-{129}{}{Pirosat. Így narancssárga lesz.}
-{130}{}{Áttetszõt. Így sárga marad.}
+{127}{}{A sÃ¡rgÃ¡t vÃ¡lasztottad. Mit szeretnÃ©l hozzÃ¡keverni?}
+{128}{}{KÃ©ket. Ãgy zÃ¶ld lesz.}
+{129}{}{Pirosat. Ãgy narancssÃ¡rga lesz.}
+{130}{}{ÃttetszÅ‘t. Ãgy sÃ¡rga marad.}
 {131}{}{Megiszom.}
-{132}{}{Kéket. Mielõtt hozzákevernéd, fejben elvégzed a szükséges számításokat. Tudod jól, hogy nitroglicerin lesz belõle, egy erõs robbanóanyag.}
-{133}{}{Pirosat. Tudós elméd felismeri, hogy ha jól kevered hozzá, sósav lesz belõle.}
-{134}{}{Áttetszõt. Tudod, hogy ha így folytatod, egy gyenge méreg lesz az eredmény.}
+{132}{}{KÃ©ket. MielÅ‘tt hozzÃ¡kevernÃ©d, fejben elvÃ©gzed a szÃ¼ksÃ©ges szÃ¡mÃ­tÃ¡sokat. Tudod jÃ³l, hogy nitroglicerin lesz belÅ‘le, egy erÅ‘s robbanÃ³anyag.}
+{133}{}{Pirosat. TudÃ³s elmÃ©d felismeri, hogy ha jÃ³l kevered hozzÃ¡, sÃ³sav lesz belÅ‘le.}
+{134}{}{ÃttetszÅ‘t. Tudod, hogy ha Ã­gy folytatod, egy gyenge mÃ©reg lesz az eredmÃ©ny.}
 {135}{}{Abbahagyom.}
-{136}{}{Az áttetszõ folyadékot választottad. Mit szeretnél hozzákeverni?}
-{137}{}{Kéket, hogy kék maradjon.}
+{136}{}{Az Ã¡ttetszÅ‘ folyadÃ©kot vÃ¡lasztottad. Mit szeretnÃ©l hozzÃ¡keverni?}
+{137}{}{KÃ©ket, hogy kÃ©k maradjon.}
 {138}{}{Pirosat, hogy piros maradjon.}
-{139}{}{Sárgát, hogy sárga maradjon.}
+{139}{}{SÃ¡rgÃ¡t, hogy sÃ¡rga maradjon.}
 {140}{}{Megiszom.}
-{141}{}{Sárgát. Tudod, hogy ha így folytatod, egy gyenge méreg lesz az eredmény.}
-{142}{}{Kéket. Így egy toxikus vegyületet kapsz, ami semmire sem jó a sugárzás hatásának tanulmányozásán kívül.}
-{143}{}{Pirosat. Gyakorlott agyad tudja, hogy így erõs vitamin lesz belõle... feltéve, ha ki tudod mérni a megfelelõ arányt.}
+{141}{}{SÃ¡rgÃ¡t. Tudod, hogy ha Ã­gy folytatod, egy gyenge mÃ©reg lesz az eredmÃ©ny.}
+{142}{}{KÃ©ket. Ãgy egy toxikus vegyÃ¼letet kapsz, ami semmire sem jÃ³ a sugÃ¡rzÃ¡s hatÃ¡sÃ¡nak tanulmÃ¡nyozÃ¡sÃ¡n kÃ­vÃ¼l.}
+{143}{}{Pirosat. Gyakorlott agyad tudja, hogy Ã­gy erÅ‘s vitamin lesz belÅ‘le... feltÃ©ve, ha ki tudod mÃ©rni a megfelelÅ‘ arÃ¡nyt.}
 {144}{}{Abbahagyom.}
-{145}{}{Sikerült létrehoznod egy érdekes, lila színû kotyvalékot. Mit teszel vele?}
+{145}{}{SikerÃ¼lt lÃ©trehoznod egy Ã©rdekes, lila szÃ­nÅ± kotyvalÃ©kot. Mit teszel vele?}
 {146}{}{Megiszom.}
-{147}{}{Elteszem a hátizsákomba.}
-{148}{}{Hmmm. Különleges narancssárga színe lett. Mit teszel vele?}
+{147}{}{Elteszem a hÃ¡tizsÃ¡komba.}
+{148}{}{Hmmm. KÃ¼lÃ¶nleges narancssÃ¡rga szÃ­ne lett. Mit teszel vele?}
 {149}{}{Megiszom.}
-{150}{}{Elteszem a hátizsákomba.}
-{151}{}{Skarlátvörös szín. Mi legyen vele?}
+{150}{}{Elteszem a hÃ¡tizsÃ¡komba.}
+{151}{}{SkarlÃ¡tvÃ¶rÃ¶s szÃ­n. Mi legyen vele?}
 {152}{}{Megiszom.}
-{153}{}{Elteszem a hátizsákomba.}
-{154}{}{Méregzöld szín az eredmény. Mi legyen vele?}
+{153}{}{Elteszem a hÃ¡tizsÃ¡komba.}
+{154}{}{MÃ©regzÃ¶ld szÃ­n az eredmÃ©ny. Mi legyen vele?}
 {155}{}{Megiszom.}
 {156}{}{Elteszem.}
-{157}{}{Furcsa kék árnyalat. Mit teszel vele?}
+{157}{}{Furcsa kÃ©k Ã¡rnyalat. Mit teszel vele?}
 {158}{}{Megiszom.}
-{159}{}{Elteszem késõbbre.}
-{160}{}{Ez a sárga úgy néz ki, mint a vizelet és borzasztó szaga van. Mit teszel vele?}
+{159}{}{Elteszem kÃ©sÅ‘bbre.}
+{160}{}{Ez a sÃ¡rga Ãºgy nÃ©z ki, mint a vizelet Ã©s borzasztÃ³ szaga van. Mit teszel vele?}
 {161}{}{Megiszom.}
-{162}{}{Elteszem. Még hasznos lehet.}
-{163}{}{Ááh, édes siker! Létrehoztad a Jetet. New Renóban nagy népszerûségre tehetnél szert ezzel. Mit teszel vele?}
+{162}{}{Elteszem. MÃ©g hasznos lehet.}
+{163}{}{ÃÃ¡h, Ã©des siker! LÃ©trehoztad a Jetet. New RenÃ³ban nagy nÃ©pszerÅ±sÃ©gre tehetnÃ©l szert ezzel. Mit teszel vele?}
 {164}{}{Megiszom.}
-{165}{}{Elteszem. Majd késõbb hasznát vehetem...}
-{166}{}{Hoppá! Valamiféle toxikus gõz fejlõdik! Egy szippantástól kifekszel. Nagyon szarul érzed magad.}
+{165}{}{Elteszem. Majd kÃ©sÅ‘bb hasznÃ¡t vehetem...}
+{166}{}{HoppÃ¡! ValamifÃ©le toxikus gÅ‘z fejlÅ‘dik! Egy szippantÃ¡stÃ³l kifekszel. Nagyon szarul Ã©rzed magad.}
 {167}{}{[DONE]}
-{168}{}{Ez a szer hatásosnak tûnik. Mit teszel vele?}
+{168}{}{Ez a szer hatÃ¡sosnak tÅ±nik. Mit teszel vele?}
 {169}{}{Megiszom.}
-{170}{}{Elteszem késõbbre.}
-{171}{}{Ó nem! Túl erõteljesen keverted! Átmarta az üveget és a kezedet is majdnem! Jaj!}
-{172}{}{Sikeresen létrehoztál egy adag folyékony robbanóanyagot!}
+{170}{}{Elteszem kÃ©sÅ‘bbre.}
+{171}{}{Ã“ nem! TÃºl erÅ‘teljesen keverted! Ãtmarta az Ã¼veget Ã©s a kezedet is majdnem! Jaj!}
+{172}{}{Sikeresen lÃ©trehoztÃ¡l egy adag folyÃ©kony robbanÃ³anyagot!}
 {173}{}{Megiszom.}
-{174}{}{Elteszem a hátizsákomba.}
-{175}{}{Egy csepp ebbõl, egy csepp abból, és... ajjaj... BUMM!}
-{176}{}{Ó, ne! Te marha! Lenyelted a robbanóanyagot!}
-{177}{}{Kissé viccesen érzed magad. Nem, nagyon viccesen érzed magad. Tulajdonképpen úgy érzed, hogy felgyorsul a szíved, a külvilág pedig lelassul. Nem tudod, mi történik, és nem tudsz segítséget kérni, mert nem tudod, mi történik veled... jaj, ne, vigyázz! ÁÁÁÁÁÁH! TELJESEN KIPURCANSZ!!!}
-{178}{}{Elfintorodsz az íze miatt, majd, ahogy halad lefelé, észreveszed, hogy éget a folyadék. Au! AU! AUUU!! Szétroncsolja a beleidet! }
-{179}{}{Kicsit kesernyés, de leerõszakolod. Különös, de jobban érzed magad tõle.}
-{180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
- spitting and gagging. You've been irradiated!}
+{174}{}{Elteszem a hÃ¡tizsÃ¡komba.}
+{175}{}{Egy csepp ebbÅ‘l, egy csepp abbÃ³l, Ã©s... ajjaj... BUMM!}
+{176}{}{Ã“, ne! Te marha! Lenyelted a robbanÃ³anyagot!}
+{177}{}{KissÃ© viccesen Ã©rzed magad. Nem, nagyon viccesen Ã©rzed magad. TulajdonkÃ©ppen Ãºgy Ã©rzed, hogy felgyorsul a szÃ­ved, a kÃ¼lvilÃ¡g pedig lelassul. Nem tudod, mi tÃ¶rtÃ©nik, Ã©s nem tudsz segÃ­tsÃ©get kÃ©rni, mert nem tudod, mi tÃ¶rtÃ©nik veled... jaj, ne, vigyÃ¡zz! ÃÃÃÃÃÃH! TELJESEN KIPURCANSZ!!!}
+{178}{}{Elfintorodsz az Ã­ze miatt, majd, ahogy halad lefelÃ©, Ã©szreveszed, hogy Ã©get a folyadÃ©k. Au! AU! AUUU!! SzÃ©troncsolja a beleidet! }
+{179}{}{Kicsit kesernyÃ©s, de leerÅ‘szakolod. KÃ¼lÃ¶nÃ¶s, de jobban Ã©rzed magad tÅ‘le.}
+{180}{}{ÃÃ¡Ã¡, Mi a fene?! A kinÃ©zete ellenÃ©re felhajtod a ronda lÃ¶ttyÃ¶t. Azonnal elkezdesz kÃ¶pkÃ¶dni Ã©s gurgulÃ¡zni. SzÃ©p adag sugÃ¡rzÃ¡st kaptÃ¡l!}
 {181}{}{[DONE]}
-{182}{}{Na, jó... rendben. Emlékezve arra, mi mindent ittál még kisgyermek korodban, lehúzod az üveg tartalmát. Amint leér a folyadék, a gyomrod összerándul. Úgy érzed magad, mintha épp most csípett volna meg egy radskorpió.}
-{183}{}{Hé, ez pont olyan, mintha víz lenne, szóval legalább olyan jó is, nem? Amint lenyeled, érzed, hogy nagyot hibáztál. Ez ÉGET! Nagyon nagyon sokáig fáj.}
-{184}{}{Egy kicsit ebbõl, egy kicsit abból... egy pillanat... miért füstöl az üveg... mit csináltam rosszul? Ó, NE! Az üveg az arcodba robban!}
-{185}{}{Vidáman összekevered a löttyöket, remélve, hogy a megfelelõ vegyi anyagokat választottad. Aztán leülsz és várod az eredményt. És vársz. És vársz. A folyadék átszínezõdik valami trutymós barnává. Mehet a szemétbe.}
-{186}{}{Sikerült egy adag erõs vitamint létrehoznod. Mit teszel vele?}
+{182}{}{Na, jÃ³... rendben. EmlÃ©kezve arra, mi mindent ittÃ¡l mÃ©g kisgyermek korodban, lehÃºzod az Ã¼veg tartalmÃ¡t. Amint leÃ©r a folyadÃ©k, a gyomrod Ã¶sszerÃ¡ndul. Ãšgy Ã©rzed magad, mintha Ã©pp most csÃ­pett volna meg egy radskorpiÃ³.}
+{183}{}{HÃ©, ez pont olyan, mintha vÃ­z lenne, szÃ³val legalÃ¡bb olyan jÃ³ is, nem? Amint lenyeled, Ã©rzed, hogy nagyot hibÃ¡ztÃ¡l. Ez Ã‰GET! Nagyon nagyon sokÃ¡ig fÃ¡j.}
+{184}{}{Egy kicsit ebbÅ‘l, egy kicsit abbÃ³l... egy pillanat... miÃ©rt fÃ¼stÃ¶l az Ã¼veg... mit csinÃ¡ltam rosszul? Ã“, NE! Az Ã¼veg az arcodba robban!}
+{185}{}{VidÃ¡man Ã¶sszekevered a lÃ¶ttyÃ¶ket, remÃ©lve, hogy a megfelelÅ‘ vegyi anyagokat vÃ¡lasztottad. AztÃ¡n leÃ¼lsz Ã©s vÃ¡rod az eredmÃ©nyt. Ã‰s vÃ¡rsz. Ã‰s vÃ¡rsz. A folyadÃ©k Ã¡tszÃ­nezÅ‘dik valami trutymÃ³s barnÃ¡vÃ¡. Mehet a szemÃ©tbe.}
+{186}{}{SikerÃ¼lt egy adag erÅ‘s vitamint lÃ©trehoznod. Mit teszel vele?}
 {187}{}{Megiszom.}
-{188}{}{Elteszem késõbbre.}
-{189}{}{Sikerült egy adag mérget létrehoznod! Rendben, és most?}
+{188}{}{Elteszem kÃ©sÅ‘bbre.}
+{189}{}{SikerÃ¼lt egy adag mÃ©rget lÃ©trehoznod! Rendben, Ã©s most?}
 {190}{}{Megiszom.}
-{191}{}{Elteszem késõbbre.}
-{192}{}{Sikeresen létrehoztál egy adag folyadékot, mely szimulálja a radioaktív mérgezés tüneteit. Mit teszel vele?}
+{191}{}{Elteszem kÃ©sÅ‘bbre.}
+{192}{}{Sikeresen lÃ©trehoztÃ¡l egy adag folyadÃ©kot, mely szimulÃ¡lja a radioaktÃ­v mÃ©rgezÃ©s tÃ¼neteit. Mit teszel vele?}
 {193}{}{Megiszom.}
-{194}{}{Elteszem késõbbre.}
+{194}{}{Elteszem kÃ©sÅ‘bbre.}

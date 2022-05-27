@@ -1,8 +1,8 @@
-{100}{}{Ez olyan, mint egy generátor.}
-{101}{}{Ez a generátor valószínûleg a liftet mûködteti.}
-{200}{}{Elõbb meg kéne javítani a generátort.}
-{201}{}{A generátor már mûködik.}
-{202}{}{Lekapcsoltad a generátort.}
-{300}{}{Ez a képzettség használhatatlan a generátoron.}
-{400}{}{Megjavítottad és beindítottad a generátort.}
-{401}{}{Nem sikerült megjavítanod a generátort.}
+{100}{}{Ez olyan, mint egy generÃ¡tor.}
+{101}{}{Ez a generÃ¡tor valÃ³szÃ­nÅ±leg a liftet mÅ±kÃ¶dteti.}
+{200}{}{ElÅ‘bb meg kÃ©ne javÃ­tani a generÃ¡tort.}
+{201}{}{A generÃ¡tor mÃ¡r mÅ±kÃ¶dik.}
+{202}{}{Lekapcsoltad a generÃ¡tort.}
+{300}{}{Ez a kÃ©pzettsÃ©g hasznÃ¡lhatatlan a generÃ¡toron.}
+{400}{}{MegjavÃ­tottad Ã©s beindÃ­tottad a generÃ¡tort.}
+{401}{}{Nem sikerÃ¼lt megjavÃ­tanod a generÃ¡tort.}

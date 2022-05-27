@@ -1,21 +1,21 @@
-{100}{}{Egy furcsa bestiát látsz.}
-{101}{}{Egy szupermutánst látsz. Kicsit tébolyodottnak tûnik.}
-{102}{}{Állj!}
-{103}{}{Ne közelíts! A Fenséges Melchior parancsol neked!}
-{104}{}{Nézz csak ide! Én vagyok a legnagyobb bûvész a világon!}
-{105}{}{Reszkess a Fenséges Melchior hatalma elõtt!}
-{106}{}{Az állatkáim a csontjaidon fognak lakmározni!}
-{107}{}{Figyelmeztettelek! Állatkáim, tépjétek szét!}
-{1000}{}{SAHUHÉÉJ!}
-{1001}{}{A karmos állatkáim majd elintéznek.}
-{1002}{}{Karmoskáim, támadás!}
+{100}{}{Egy furcsa bestiÃ¡t lÃ¡tsz.}
+{101}{}{Egy szupermutÃ¡nst lÃ¡tsz. Kicsit tÃ©bolyodottnak tÅ±nik.}
+{102}{}{Ãllj!}
+{103}{}{Ne kÃ¶zelÃ­ts! A FensÃ©ges Melchior parancsol neked!}
+{104}{}{NÃ©zz csak ide! Ã‰n vagyok a legnagyobb bÅ±vÃ©sz a vilÃ¡gon!}
+{105}{}{Reszkess a FensÃ©ges Melchior hatalma elÅ‘tt!}
+{106}{}{Az Ã¡llatkÃ¡im a csontjaidon fognak lakmÃ¡rozni!}
+{107}{}{Figyelmeztettelek! ÃllatkÃ¡im, tÃ©pjÃ©tek szÃ©t!}
+{1000}{}{SAHUHÃ‰Ã‰J!}
+{1001}{}{A karmos Ã¡llatkÃ¡im majd elintÃ©znek.}
+{1002}{}{KarmoskÃ¡im, tÃ¡madÃ¡s!}
 {1010}{}{ABADABRA!}
-{1011}{}{Melchior tüzes állatkákat kreál, hogy elégesse az embert.}
-{1012}{}{Pörkölgessetek oda az EM-BER-NEK!}
+{1011}{}{Melchior tÃ¼zes Ã¡llatkÃ¡kat kreÃ¡l, hogy elÃ©gesse az embert.}
+{1012}{}{PÃ¶rkÃ¶lgessetek oda az EM-BER-NEK!}
 {1020}{}{ZIMZOWY!}
-{1021}{}{A kardfogúcskáim darabokra szaggatnak téged!}
-{1022}{}{Ropogtassátok el, drágaságaim!}
+{1021}{}{A kardfogÃºcskÃ¡im darabokra szaggatnak tÃ©ged!}
+{1022}{}{RopogtassÃ¡tok el, drÃ¡gasÃ¡gaim!}
 {1030}{}{KALIMADZSIGGER!}
-{1031}{}{A francba! Már csak dagadt patkányok maradtak.}
-{1032}{}{Kifogytam az állatkákból...}
-{1050}{}{O-ó. Kifogytam a múútálni való teremtményekbõl.}
+{1031}{}{A francba! MÃ¡r csak dagadt patkÃ¡nyok maradtak.}
+{1032}{}{Kifogytam az Ã¡llatkÃ¡kbÃ³l...}
+{1050}{}{O-Ã³. Kifogytam a mÃºÃºtÃ¡lni valÃ³ teremtmÃ©nyekbÅ‘l.}

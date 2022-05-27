@@ -1,71 +1,71 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{A képerernyõkímélõ aktív.}
-{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
-{103}{}{Skynet Biztonsági Rendszer
-                                        Betolakodó az 1. Szinten
-                                        Ellenintézkedések Aktiválása az 1. Szinten
-                    Ellenintézkedések - A Továbbítás Megszûnt
-                   Automata Javító Rendszer Aktiválása}
-{104}{}{Skynet Biztonsági Rendszer
-                                          Betolakodó az 1. Szinten
-                                            Ellenintézkedések Aktiválása az 1. Szinten
-                      Energia-átirányítási kísérlet az erõtér-emittereknek}
-{105}{}{Skynet Biztonsági Rendszer
-                                          Betolakodó az 1. Szinten
-                                             Ellenintézkedések Aktiválása az 1. Szinten}
-{106}{}{1. Szint Riasztásának Vége - Téves Riasztás}
-{107}{}{[Felfedezel egy "Súgó" feliratú billentyût a klaviatúrán]. Megnyomod.}
-{108}{}{Feltöröd a védelmi rendszert}
-{109}{}{Kilépés}
-{110}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre]}
-{112}{}{Skynet Biztonsági Rendszer
-                                          Behatoló regisztrálva - Külsõ Terület
-                            Automatikus javítás Elindítva
-                                      Fõkapu - Meghibásodás
-                                              Mûködés elõkészítése...
-                                              Fõkapu jelentés: A zároló retesz a helyén van
-                 Visszatérés energia-takarékos üzemmódba}
-{113}{}{Riasztó Rendszer aktiválása az 1. Szinten}
-{114}{}{Saját diagnosztikai program futtatása.}
-{115}{}{Kilépés}
-{116}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre]}
-{118}{}{Skynet Biztonsági Rendszer
-                                          Hozzáférés a terminálhoz: Elutasítva.}
-{120}{}{Kilépés}
-{122}{}{29-es Hibakód
-                                                             Nem sikerült csatlakozni a szerverhez
-                                           Kérem, indítsa újra a gépet}
-{124}{}{Kilépés}
-{125}{}{Parancs megvizsgálása - Kérem, várjon...
-                           Engedélyezve
-                                                          Riasztó Rendszer Leállítása - 1. Szint}
-{126}{}{[Egy ilyen vacak biztonsági rendszerrel nem csoda, hogy felrobbantották magukat.] Kilépés}
-{127}{}{[Felbukkan egy menü]
-                                                  1. - A Riasztó kikapcsolása
-                                         2. - A Diagnosztikai ellenõrzés bekapcsolása
-                    3. - Kilépés}
-{128}{}{A Riasztó kikapcsolását választod, és megnyomod az 1-es gombot}
-{129}{}{A Diagnosztikai ellenõrzést választod, és megnyomod a 2-es gombot }
-{130}{}{A Kilépést választod, és megnyomod a 3-as gombot }
-{131}{}{Figyelem! Ez a program akkor mûködik a leghatásosabban, ha ön minden programot bezár. Biztosan szeretné most futtatni?}
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l. Bugos!!!}
+{101}{}{A kÃ©perernyÅ‘kÃ­mÃ©lÅ‘ aktÃ­v.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©pernyÅ‘n.}
+{103}{}{Skynet BiztonsÃ¡gi Rendszer
+                                        BetolakodÃ³ az 1. Szinten
+                                        EllenintÃ©zkedÃ©sek AktivÃ¡lÃ¡sa az 1. Szinten
+                    EllenintÃ©zkedÃ©sek - A TovÃ¡bbÃ­tÃ¡s MegszÅ±nt
+                   Automata JavÃ­tÃ³ Rendszer AktivÃ¡lÃ¡sa}
+{104}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          BetolakodÃ³ az 1. Szinten
+                                            EllenintÃ©zkedÃ©sek AktivÃ¡lÃ¡sa az 1. Szinten
+                      Energia-Ã¡tirÃ¡nyÃ­tÃ¡si kÃ­sÃ©rlet az erÅ‘tÃ©r-emittereknek}
+{105}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          BetolakodÃ³ az 1. Szinten
+                                             EllenintÃ©zkedÃ©sek AktivÃ¡lÃ¡sa az 1. Szinten}
+{106}{}{1. Szint RiasztÃ¡sÃ¡nak VÃ©ge - TÃ©ves RiasztÃ¡s}
+{107}{}{[Felfedezel egy "SÃºgÃ³" feliratÃº billentyÅ±t a klaviatÃºrÃ¡n]. Megnyomod.}
+{108}{}{VÃ©delmi rendszer feltÃ¶rÃ©se}
+{109}{}{BefejezÃ©s}
+{110}{}{Agrr! [Ã–klÃ¶ddel csalÃ³dottan rÃ¡vÃ¡gsz a billentyÅ±zetre]}
+{112}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          BehatolÃ³ regisztrÃ¡lva - KÃ¼lsÅ‘ TerÃ¼let
+                            Automatikus javÃ­tÃ¡s ElindÃ­tva
+                                      FÅ‘kapu - MeghibÃ¡sodÃ¡s
+                                              MÅ±kÃ¶dÃ©s elÅ‘kÃ©szÃ­tÃ©se...
+                                              FÅ‘kapu jelentÃ©s: A zÃ¡rolÃ³ retesz a helyÃ©n van
+                 VisszatÃ©rÃ©s energia-takarÃ©kos Ã¼zemmÃ³dba}
+{113}{}{RiasztÃ³ Rendszer aktivÃ¡lÃ¡sa az 1. Szinten}
+{114}{}{SajÃ¡t diagnosztikai program futtatÃ¡sa.}
+{115}{}{BefejezÃ©s}
+{116}{}{Agrr! [Ã–klÃ¶ddel csalÃ³dottan rÃ¡vÃ¡gsz a billentyÅ±zetre]}
+{118}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          HozzÃ¡fÃ©rÃ©s a terminÃ¡lhoz: ElutasÃ­tva.}
+{120}{}{BefejezÃ©s}
+{122}{}{29-es HibakÃ³d
+                                                             Nem sikerÃ¼lt csatlakozni a szerverhez
+                                           KÃ©rem, indÃ­tsa Ãºjra a gÃ©pet}
+{124}{}{BefejezÃ©s}
+{125}{}{Parancs megvizsgÃ¡lÃ¡sa - KÃ©rem, vÃ¡rjon...
+                           EngedÃ©lyezve
+                                                          RiasztÃ³ Rendszer LeÃ¡llÃ­tÃ¡sa - 1. Szint}
+{126}{}{[Egy ilyen vacak biztonsÃ¡gi rendszerrel nem csoda, hogy felrobbantottÃ¡k magukat.] KilÃ©pÃ©s}
+{127}{}{[Felbukkan egy menÃ¼]
+                                                  1. - A RiasztÃ³ kikapcsolÃ¡sa
+                                         2. - A Diagnosztikai ellenÅ‘rzÃ©s bekapcsolÃ¡sa
+                    3. - KilÃ©pÃ©s}
+{128}{}{Megnyomod az 1-est!}
+{129}{}{Megnyomod a 2-est!}
+{130}{}{Megnyomod a 3-ast!}
+{131}{}{Figyelem! Ez a program akkor mÅ±kÃ¶dik a leghatÃ¡sosabban, ha Ã¶n minden programot bezÃ¡r. Biztosan szeretnÃ© most futtatni?}
 {132}{}{Igen}
-{133}{}{Nem.}
-{134}{}{Kilépés}
-{135}{}{===Az Összes Program Bezárása===
-                                Skynet Biztonsági Program bezárása - 1. Szint
-                 A Rendszer 1990. Okt. 19-én volt diagnosztizálva utoljára
-   Rendszer ellenõrzése...
-                                               A befejezésig hátralévõ idõ: 99:24:60:60}
-{136}{}{[Szerinted ez nem lesz egyhamar kész.] Kilépés.}
-{137}{}{Hozzáférés Megtagadva
-                                               Hozzáférés Megtagadva
-                                             Hozzzzáfé Megtagadva
-                                              Hozzrés Engegadva
-                                                   Hozzáférés Engedélyezve
-                                           Riasztórendszer Kikapcsolása - 1. Szint}
-{138}{}{Kilépés}
-{139}{}{Illetéktelen hozzáférés
-                                            Biztonsági Kizárás elindítása a terminálon
-                  Felhasználói hozzáférés ehhez a terminálhoz MEGTAGADVA}
-{140}{}{Kilépés}
-{200}{}{A Számítógép Diagnosztikai Módban van. Kérem, várjon, amíg a Diagnosztikai Program futása befejezõdik!}
+{133}{}{Nem}
+{134}{}{BefejezÃ©s}
+{135}{}{===Az Ã–sszes Program BezÃ¡rÃ¡sa===
+                                Skynet BiztonsÃ¡gi Program bezÃ¡rÃ¡sa - 1. Szint
+                 A Rendszer 1990. Okt. 19-Ã©n volt diagnosztizÃ¡lva utoljÃ¡ra
+   Rendszer ellenÅ‘rzÃ©se...
+                                               A befejezÃ©sig hÃ¡tralÃ©vÅ‘ idÅ‘: 99:24:60:60}
+{136}{}{[Szerinted ez nem lesz egyhamar kÃ©sz.] KilÃ©pÃ©s.}
+{137}{}{HozzÃ¡fÃ©rÃ©s Megtagadva
+                                               HozzÃ¡fÃ©rÃ©s Megtagadva
+                                             HozzzzÃ¡fÃ© Megtagadva
+                                              HozzrÃ©s Engegadva
+                                                   HozzÃ¡fÃ©rÃ©s EngedÃ©lyezve
+                                           RiasztÃ³rendszer KikapcsolÃ¡sa - 1. Szint}
+{138}{}{BefejezÃ©s}
+{139}{}{IlletÃ©ktelen hozzÃ¡fÃ©rÃ©s
+                                            BiztonsÃ¡gi KizÃ¡rÃ¡s elindÃ­tÃ¡sa a terminÃ¡lon
+                  FelhasznÃ¡lÃ³i hozzÃ¡fÃ©rÃ©s ehhez a terminÃ¡lhoz MEGTAGADVA}
+{140}{}{BefejezÃ©s}
+{200}{}{A SzÃ¡mÃ­tÃ³gÃ©p Diagnosztikai MÃ³dban van. KÃ©rem, vÃ¡rjon, amÃ­g a Diagnosztikai Program futÃ¡sa befejezÅ‘dik!}

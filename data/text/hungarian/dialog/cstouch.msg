@@ -1,27 +1,27 @@
-{170}{}{Ügyesen kinyitottad az öltözõszekrényt.}
-{171}{}{Képességek hiányában összetörted az öltözõszekrény zárját.}
-{172}{}{Nem tudod kinyitni az öltözõszekrény zárját.}
-{173}{}{ ügyesen kinyitotta az öltözõszekrényt.}
-{174}{}{ képességek hiányában összetörte az öltözõszekrény zárját.}
-{175}{}{ nem tudta kinyitni az öltözõszekrény zárját.}
-{176}{}{Leverted a zárat az ajtóról.}
-{177}{}{Miközben megpróbáltad leütni a lakatot a konténerrõl, meghúzódott a hátad, és [x] ÉP-t sérültél.}
-{178}{}{Miközben megpróbáltad leütni a lakatot a konténerrõl, meghúzódott a hátad, és }
-{179}{}{ ÉP a büntetés!}
-{180}{}{Túl gyenge vagy, hogy leverd a zárat.}
-{181}{}{ leverte a zárat az ajtóról.}
-{182}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{183}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és }
-{184}{}{ ÉP a büntetés!}
-{185}{}{ túl gyenge, hogy leverje a zárat.}
-{186}{}{ háta megsérült, miközben megpróbálta leverni a zárat, és [x] ÉP-t sérült.}
-{187}{}{ háta megsérül, miközben megpróbálta leverni a zárat és }
-{188}{}{ ÉP a büntetés!}
-{189}{}{Ügyesen bezártad az öltözõszekrényt.}
-{190}{}{Nem tudtad bezárni az öltözõszekrényt.}
-{191}{}{ ügyesen bezárta az öltözõszekrényt.}
-{192}{}{ nem tudta bezárni az öltözõszekrényt.}
-{203}{}{Az öltözõszekrény be van zárva.}
+{170}{}{Ãœgyesen kinyitottad az Ã¶ltÃ¶zÅ‘szekrÃ©nyt.}
+{171}{}{KÃ©pessÃ©gek hiÃ¡nyÃ¡ban Ã¶sszetÃ¶rted az Ã¶ltÃ¶zÅ‘szekrÃ©ny zÃ¡rjÃ¡t.}
+{172}{}{Nem tudod kinyitni az Ã¶ltÃ¶zÅ‘szekrÃ©ny zÃ¡rjÃ¡t.}
+{173}{}{ Ã¼gyesen kinyitotta az Ã¶ltÃ¶zÅ‘szekrÃ©nyt.}
+{174}{}{ kÃ©pessÃ©gek hiÃ¡nyÃ¡ban Ã¶sszetÃ¶rte az Ã¶ltÃ¶zÅ‘szekrÃ©ny zÃ¡rjÃ¡t.}
+{175}{}{ nem tudta kinyitni az Ã¶ltÃ¶zÅ‘szekrÃ©ny zÃ¡rjÃ¡t.}
+{176}{}{SzÃ©ttÃ¶rted az ajtÃ³n lÃ©vÅ‘ zÃ¡rat.}
+{177}{}{MikÃ¶zben megprÃ³bÃ¡ltad leÃ¼tni a lakatot a kontÃ©nerrÅ‘l, meghÃºzÃ³dott a hÃ¡tad, Ã©s [x] Ã‰P-t sÃ©rÃ¼ltÃ©l.}
+{178}{}{MikÃ¶zben megprÃ³bÃ¡ltad leÃ¼tni a lakatot a kontÃ©nerrÅ‘l, meghÃºzÃ³dott a hÃ¡tad, Ã©s }
+{179}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{180}{}{TÃºl gyenge vagy, hogy leÃ¼sd a lakatot.}
+{181}{}{ szÃ©ttÃ¶rte az ajtÃ³n lÃ©vÅ‘ zÃ¡rat.}
+{182}{}{ hÃ¡ta meghÃºzÃ³dott, mikÃ¶zben megprÃ³bÃ¡lta leÃ¼tni a lakatot a kontÃ©nerrÅ‘l, Ã©s [x] Ã‰P-t sÃ©rÃ¼lt.}
+{183}{}{ hÃ¡ta meghÃºzÃ³dott, mikÃ¶zben megprÃ³bÃ¡lta leÃ¼tni a lakatot a kontÃ©nerrÅ‘l, Ã©s }
+{184}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{185}{}{ tÃºl gyenge, hogy leÃ¼sse a lakatot.}
+{186}{}{ hÃ¡ta meghÃºzÃ³dott, mikÃ¶zben megprÃ³bÃ¡lta leÃ¼tni a lakatot a kontÃ©nerrÅ‘l, Ã©s [x] Ã‰P-t sÃ©rÃ¼lt.}
+{187}{}{ hÃ¡ta meghÃºzÃ³dott, mikÃ¶zben megprÃ³bÃ¡lta leÃ¼tni a lakatot a kontÃ©nerrÅ‘l, Ã©s }
+{188}{}{ Ã‰P a bÃ¼ntetÃ©s!}
+{189}{}{Ãœgyesen bezÃ¡rtad az Ã¶ltÃ¶zÅ‘szekrÃ©nyt.}
+{190}{}{Nem tudtad bezÃ¡rni az Ã¶ltÃ¶zÅ‘szekrÃ©nyt.}
+{191}{}{ Ã¼gyesen bezÃ¡rta az Ã¶ltÃ¶zÅ‘szekrÃ©nyt.}
+{192}{}{ nem tudta bezÃ¡rni az Ã¶ltÃ¶zÅ‘szekrÃ©nyt.}
+{203}{}{Az Ã¶ltÃ¶zÅ‘szekrÃ©ny be van zÃ¡rva.}
 {800}{}{Megszerezted az FBK-t.}
 {810}{}{Megszerezted a terveket.}
-{820}{}{Megszerezted a K-9-es hajtómûvet.}
+{820}{}{Megszerezted a K-9-es hajtÃ³mÅ±vet.}

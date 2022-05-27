@@ -1,1 +1,1 @@
-{100}{}{Sajnálom, de a fõnök azt mondja, hogy nem játszhatsz itt többet.}
+{100}{}{SajnÃ¡lom, de a fÅ‘nÃ¶k azt mondja, hogy nem jÃ¡tszhatsz itt tÃ¶bbet.}

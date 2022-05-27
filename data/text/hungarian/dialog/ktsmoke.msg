@@ -1,1 +1,1 @@
-{100}{}{Ez a szoba bûzlik az égett fától.}
+{100}{}{Ez a szoba bÅ±zlik az Ã©gett fÃ¡tÃ³l.}

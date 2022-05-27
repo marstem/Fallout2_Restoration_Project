@@ -1,64 +1,64 @@
-{100}{}{Sz·mÌtÛgÈp-termin·l}
-{101}{}{Egy kis matrica van rajta, amin ez ·ll: I*tel Inside.}
-{102}{}{[KÈptelen vagy elolvasni, mi van a kÈpernyıre Ìrva.]}
+{100}{}{Sz√°m√≠t√≥g√©p-termin√°l}
+{101}{}{Egy kis matrica van rajta, amin ez √°ll: I*tel Inside.}
+{102}{}{[K√©ptelen vagy elolvasni, mi van a k√©perny≈ën.]}
 {103}{}{Control Terminal
                                                        Project: Organic and Robotic Synthesis Experiment}
 {104}{}{}
-{105}{}{Rendszer ellenırzÈse.}
-{106}{}{Robot aktiv·l·sa}
-{107}{}{KilÈpÈs}
-{108}{}{Hˆ?}
-{109}{}{[KÈptelen vagy elolvasni, mi van a kÈpernyıre Ìrva.]}
-{110}{}{Program vÈge}
-{111}{}{KilÈpÈs}
-{112}{}{Ah...}
-{113}{}{KÈrem, v·rjon...
+{105}{}{Rendszer ellen≈ërz√©se.}
+{106}{}{Robot aktiv√°l√°sa}
+{107}{}{Befejez√©s}
+{108}{}{H√∂?}
+{109}{}{[K√©ptelen vagy elolvasni, mi van a k√©perny≈ën.]}
+{110}{}{Program v√©ge}
+{111}{}{Befejez√©s}
+{112}{}{Uh!}
+{113}{}{K√©rem, v√°rjon...
                                                          Robot test - Rendben
-                                               Bio-Med gÈl-tart·ly - Feltˆltve
-                                    Szervt·rolÛ berendezÈs - Agy behelyezve
-                       Aktiv·l·sra kÈsz}
+                                               Bio-Med g√©l-tart√°ly - Felt√∂ltve
+                                    Szervt√°rol√≥ berendez√©s - Agy behelyezve
+                       Aktiv√°l√°sra k√©sz}
 {114}{}{Please Wait...
                                                            Robot Body - OK
                                                      Biomed gel reservoirs - Full
                                        Organic Storage Device - Not Present
                   Activation not recommended}
-{115}{}{KÈrem, v·rjon...
-                                                        Robot test - Nincs motiv·tor
-                                      Bio-Med gÈl-tart·ly - Feltˆltve
-                                 Szervt·rolÛ berendezÈs - Agy behelyezve
-                Az aktiv·l·s nem aj·nlott}
+{115}{}{K√©rem, v√°rjon...
+                                                        Robot test - Nincs motiv√°tor
+                                      Bio-Med g√©l-tart√°ly - Felt√∂ltve
+                                 Szervt√°rol√≥ berendez√©s - Agy behelyezve
+                Az aktiv√°l√°s nem aj√°nlott}
 {116}{}{Please Wait...
                                                            Robot Body - Replace Motivator
                                    Biomed gel reservoirs - Full
                                         Organic Storage Device - Not Present
                    Activation not recommended}
-{117}{}{KÈrem, v·rjon...
+{117}{}{K√©rem, v√°rjon...
                                                          Robot test - Rendben
-                                               Bio-Med gÈl-tart·ly - Nincs feltˆltve
-                             Szervt·rolÛ berendezÈs - Agy behelyezve
-                     Az aktiv·l·s nem aj·nlott}
-{118}{}{KÈrem, v·rjon...
+                                               Bio-Med g√©l-tart√°ly - Nincs felt√∂ltve
+                             Szervt√°rol√≥ berendez√©s - Agy behelyezve
+                     Az aktiv√°l√°s nem aj√°nlott}
+{118}{}{K√©rem, v√°rjon...
                                                          Robot test - Rendben
-                                               Bio-Med gÈl-tart·ly - Nincs feltˆltve
-                             Szervt·rolÛ berendezÈs - Nincs agy behelyezve
-               Az aktiv·l·s nem aj·nlott}
-{119}{}{KÈrem, v·rjon...
-                                                         Robot test - Nincs motiv·tor
-                                      Bio-Med gÈl-tart·ly - Nincs feltˆltve
-                             Szervt·rolÛ berendezÈs - Agy behelyezve
-                 Az aktiv·l·s nem aj·nlott}
-{120}{}{KÈrem, v·rjon...
-                                                         Robot test - Nincs motiv·tor
-                                      Bio-Med gÈl-tart·ly - Nincs feltˆltve
-                             Szervt·rolÛ berendezÈs - Nincs agy behelyezve
-                Az aktiv·l·s nem aj·nlott}
+                                               Bio-Med g√©l-tart√°ly - Nincs felt√∂ltve
+                             Szervt√°rol√≥ berendez√©s - Nincs agy behelyezve
+               Az aktiv√°l√°s nem aj√°nlott}
+{119}{}{K√©rem, v√°rjon...
+                                                         Robot test - Nincs motiv√°tor
+                                      Bio-Med g√©l-tart√°ly - Nincs felt√∂ltve
+                             Szervt√°rol√≥ berendez√©s - Agy behelyezve
+                 Az aktiv√°l√°s nem aj√°nlott}
+{120}{}{K√©rem, v√°rjon...
+                                                         Robot test - Nincs motiv√°tor
+                                      Bio-Med g√©l-tart√°ly - Nincs felt√∂ltve
+                             Szervt√°rol√≥ berendez√©s - Nincs agy behelyezve
+                Az aktiv√°l√°s nem aj√°nlott}
 {121}{}{}
 {122}{}{}
 {124}{}{}
-{153}{}{Robot aktiv·l·sa}
-{154}{}{KilÈpÈs}
-{155}{}{Javaslat fel¸lbÌr·l·sa
-                                                  Az egysÈg indul·sra kÈsz}
+{153}{}{Robot aktiv√°l√°sa}
+{154}{}{Befejez√©s}
+{155}{}{Javaslat fel√ºlb√≠r√°l√°sa
+                                                  Az egys√©g indul√°sra k√©sz}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -67,19 +67,19 @@
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{IndÌt·s-szekvencia inicializ·l·sa}
-{165}{}{                                      Energia szint - CsekÈly}
-{166}{}{                                              Kompatibilit·s - 75%}
-{167}{}{                                                  Az egysÈg m˚kˆdıkÈpes}
-{170}{}{                                              Kompatibilit·s - 50%}
-{174}{}{                                              Kompatibilit·s - 10%}
-{176}{}{KilÈpÈs}
-{200}{}{ kÈptelen elolvasni, mi van a kÈpernyıre Ìrva.}
-{300}{}{⁄gy l·tszik, a sz·mÌtÛgÈp vÈdelmi berendezÈssel van ell·tva.}
-{500}{}{IndÌt·s-szekvencia inicializ·l·sa
-                                      Energia szint - CsekÈly
-                                              Program MegszakÌtva
-                                                 LetˆltÈs...
-                                                              Program Folytat·sa
-                                                  Kompatibilit·s - 100%
-                                                 Az egysÈg m˚kˆdıkÈpes}
+{164}{}{Ind√≠t√°s-szekvencia inicializ√°l√°sa}
+{165}{}{                                      Energia szint - Csek√©ly}
+{166}{}{                                              Kompatibilit√°s - 75%}
+{167}{}{                                                  Az egys√©g m≈±k√∂d≈ëk√©pes}
+{170}{}{                                              Kompatibilit√°s - 50%}
+{174}{}{                                              Kompatibilit√°s - 10%}
+{176}{}{Befejez√©s}
+{200}{}{ k√©ptelen elolvasni, mi van a k√©perny≈ën.}
+{300}{}{√ögy l√°tszik, a sz√°m√≠t√≥g√©p v√©delmi mechanizmussal van ell√°tva.}
+{500}{}{Ind√≠t√°s-szekvencia inicializ√°l√°sa
+                                      Energia szint - Csek√©ly
+                                              Program Megszak√≠tva
+                                                 Let√∂lt√©s...
+                                                              Program Folytat√°sa
+                                                  Kompatibilit√°s - 100%
+                                                 Az egys√©g m≈±k√∂d≈ëk√©pes}

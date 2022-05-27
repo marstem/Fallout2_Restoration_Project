@@ -1,50 +1,50 @@
-{100}{}{Ez a köpcös ember egy géppisztolyt hintáztat a kezében.}
-{101}{}{Ez a rabszolga-felügyelõ.}
-{102}{}{A tetoválásáról rögtön tudod, hogy õ egy rabszolga-hajcsár. Úgy néz ki, hogy õ az itteni õrök fõnöke.}
-{103}{}{Mi a fene vagy te? Valami betörõ?}
-{104}{}{Az ÚKK jótevõje! Van neked egy kis gyógyszerem.}
-{105}{}{Vortis, van egy behatolónk!}
-{106}{}{Õrség! Riadó!}
-{107}{}{Mit akarsz?}
+{100}{}{Ez a kÃ¶pcÃ¶s ember egy gÃ©ppisztolyt hintÃ¡ztat a kezÃ©ben.}
+{101}{}{Ez a rabszolga-felÃ¼gyelÅ‘.}
+{102}{}{A tetovÃ¡lÃ¡sÃ¡rÃ³l rÃ¶gtÃ¶n tudod, hogy Å‘ egy rabszolga-hajcsÃ¡r. Ãšgy nÃ©z ki, hogy Å‘ az itteni Å‘rÃ¶k fÅ‘nÃ¶ke.}
+{103}{}{Mi a fene vagy te? Valami betÃ¶rÅ‘?}
+{104}{}{Az ÃšKK jÃ³tevÅ‘je! Van neked egy kis gyÃ³gyszerem.}
+{105}{}{Vortis, van egy behatolÃ³nk!}
+{106}{}{ÅrsÃ©g! RiadÃ³!}
+{107}{}{Mit akar?}
 {108}{}{Kurg?}
-{109}{}{Mi ez a hely tulajdonképpen?}
-{110}{}{A Felderítõk küldtek.}
+{109}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{110}{}{A FelderÃ­tÅ‘k kÃ¼ldtek.}
 {111}{}{A tulajt keresem.}
-{112}{}{Hajcsár-testvérem, volna néhány kérdésem.}
-{113}{}{Bocs, nem téged kereslek.}
-{114}{}{El innen, eridj! Van már itt épp elég hülye õr.}
-{115}{}{Mi van, tökfej, vak vagy? Ez egy rabszolga-karám. Ha többet akarsz tudni, beszélj Vortisszal!}
+{112}{}{HajcsÃ¡r-testvÃ©rem, volna nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{113}{}{Bocs, nem tÃ©ged kereslek.}
+{114}{}{El innen, eridj! Van mÃ¡r itt Ã©pp elÃ©g hÃ¼lye Å‘r.}
+{115}{}{Mi van, tÃ¶kfej, vak vagy? Ez egy rabszolga-karÃ¡m. Ha tÃ¶bbet akarsz tudni, beszÃ©lj Vortisszal!}
 {116}{}{Is that so? Well, I'm sending you back in a body bag.}
-{117}{}{Nyilván Vortisra gondolsz, az öreg fickóra.}
+{117}{}{NyilvÃ¡n Vortisra gondolsz, az Ã¶reg fickÃ³ra.}
 {118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
-{119}{}{Az öreg fickó? Okés.}
-{120}{}{Ha már így állunk, nem igazán tudok nemet mondani. Mi jár a fejedben?}
-{121}{}{Kösz, idegen.}
-{122}{}{Többet tudok, mint amennyit az öreg Vortis feltételez rólam.}
-{123}{}{Több mindent csináltam már, mint amire az emberek többsége számítana. Itt van például ez a meló. Igazán megfelel az igényeimnek.}
-{124}{}{Ahogy gondolja.}
-{125}{}{Mi a helyzet a mindenfelé elhíresült Felderítõkkel?}
-{126}{}{A 13-as Menedéket keresem. Hallottál már róla?}
-{127}{}{Hallottál valaha az ÉLET-rõl?}
-{128}{}{Hallottál már egy Enklávé nevû csoportosulásról?}
-{129}{}{Munkát keresek. Tudsz valakit, aki szerzõdtetne?}
+{119}{}{Az Ã¶reg fickÃ³? OkÃ©s.}
+{120}{}{Ha mÃ¡r Ã­gy Ã¡llunk, nem igazÃ¡n tudok nemet mondani. Mi jÃ¡r a fejedben?}
+{121}{}{KÃ¶sz, idegen.}
+{122}{}{TÃ¶bbet tudok, mint amennyit az Ã¶reg Vortis feltÃ©telez rÃ³lam.}
+{123}{}{TÃ¶bb mindent csinÃ¡ltam mÃ¡r, mint amire az emberek tÃ¶bbsÃ©ge szÃ¡mÃ­tana. Itt van pÃ©ldÃ¡ul ez a melÃ³. IgazÃ¡n megfelel az igÃ©nyeimnek.}
+{124}{}{JÃ³l van, jÃ³l van...}
+{125}{}{Mi a helyzet a mindenfelÃ© elhÃ­resÃ¼lt FelderÃ­tÅ‘kkel?}
+{126}{}{A 13-as MenedÃ©ket keresem. HallottÃ¡l mÃ¡r rÃ³la?}
+{127}{}{HallottÃ¡l valaha az Ã‰LET-rÅ‘l?}
+{128}{}{HallottÃ¡l mÃ¡r egy EnklÃ¡vÃ© nevÅ± csoportosulÃ¡srÃ³l?}
+{129}{}{MunkÃ¡t keresek. Tudsz valakit, aki szerzÅ‘dtetne?}
 {130}{}{Na, magadra hagylak... Nem akarlak feltartani.}
-{131}{}{Those bastards killed my brother and then said it was for the good of the people! I want them dead. If you can help, talk to Vortis.}
-{132}{}{Nekem jó ötletnek tûnik.}
-{133}{}{Vortisszal? Te vagy itt a bölcsesség forrása. Mit egyebet tudsz még mondani?}
-{134}{}{Kösz. Azt hiszem, azt fogom most csinálni. }
-{135}{}{Mindenki hallott a 13-as Menedékrõl. Mikor kölyök voltam, én és a haverok egyre csak kerestük. Innen keletre kellene lennie, mindent átkutattuk utána, de soha nem találtuk meg.}
-{136}{}{Biztos vagyok benne, hogy mindent beleadtatok. Kérdeznék még valamit, ha már ilyen sokat tudsz.}
-{137}{}{Rendben, viszont mennem kell.}
-{138}{}{ÉLET, na hiszen... Régen, amikor a Menedék-technikát tanulmányoztam, olvastam róluk. Feltehetõen minden menedéknek volt egy és amikor kinyitották az ajtókat, ezeket kellett elõször használniuk. Azt mondják, Shady Sands is így kezdte... egy ÉLET-tel. Segít ez valamit?}
-{139}{}{Tanulmányoztad a Menedék-technikát? Lenyûgözõ. Van még néhány kérdésem a számodra.}
-{140}{}{Rendben, viszont mennem kell.}
-{141}{}{Az Enklávé... Tudod, van egy doki a városban, egy Henry nevû. Valamelyik éjjel, amikor be volt rúgva, beszélt valami Enklávésoknak titulált fickókról.}
-{142}{}{Pontoson ezt akartam tudni. Te aztán jól informált ember vagy.}
-{143}{}{Csak ennyit akartam tõled, testvérem. Kösz.}
+{131}{}{Azok a mocskok megÃ¶ltÃ©k a testvÃ©remet Ã©s azt mondtÃ¡k, hogy az emberek jÃ³lÃ©tÃ©Ã©rt tettÃ©k. Ki kell pusztÃ­tani Å‘ket. Ha tudsz segÃ­teni, beszÃ©lj Vortisszal!}
+{132}{}{Nekem jÃ³ Ã¶tletnek tÅ±nik.}
+{133}{}{Vortisszal? Te vagy itt a bÃ¶lcsessÃ©g forrÃ¡sa. Mit egyebet tudsz mÃ©g mondani?}
+{134}{}{KÃ¶sz. Azt hiszem, azt fogom most csinÃ¡lni. }
+{135}{}{Mindenki hallott a 13-as MenedÃ©krÅ‘l. Mikor kÃ¶lyÃ¶k voltam, Ã©n Ã©s a haverok egyre csak kerestÃ¼k. Innen keletre kellene lennie, mindent Ã¡tkutattuk utÃ¡na, de soha nem talÃ¡ltuk meg.}
+{136}{}{Biztos vagyok benne, hogy mindent beleadtatok. KÃ©rdeznÃ©k mÃ©g valamit, ha mÃ¡r ilyen sokat tudsz.}
+{137}{}{A helyzet az, hogy mennem kell...}
+{138}{}{Ã‰LET, na hiszen... RÃ©gen, amikor a MenedÃ©k-technikÃ¡t tanulmÃ¡nyoztam, olvastam rÃ³luk. FeltehetÅ‘en minden menedÃ©knek volt egy Ã©s amikor kinyitottÃ¡k az ajtÃ³kat, ezeket kellett elÅ‘szÃ¶r hasznÃ¡lniuk. Azt mondjÃ¡k, Shady Sands is Ã­gy kezdte... egy Ã‰LET-tel. SegÃ­t ez valamit?}
+{139}{}{TanulmÃ¡nyoztad a MenedÃ©k-technikÃ¡t? LenyÅ±gÃ¶zÅ‘. Van mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem a szÃ¡modra.}
+{140}{}{A helyzet az, hogy mennem kell...}
+{141}{}{Az EnklÃ¡vÃ©... Tudod, van egy doki a vÃ¡rosban, egy Henry nevÅ±. Valamelyik Ã©jjel, amikor be volt rÃºgva, beszÃ©lt valami EnklÃ¡vÃ©soknak titulÃ¡lt fickÃ³krÃ³l.}
+{142}{}{Pontoson ezt akartam tudni. Te aztÃ¡n jÃ³l informÃ¡lt ember vagy.}
+{143}{}{Csak ennyit akartam tÅ‘led, testvÃ©rem. KÃ¶sz.}
 {144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
-{145}{}{Ember, te aztán jó sokmindent tudsz! Az egész napot el tudnám tölteni azzal, hogy téged kérdezgetlek.}
-{146}{}{Rendben, megyek és utána nézek a dolgoknak.}
-{147}{}{Levágod nekem a... tudod, mirõl van szó... rendben?}
-{148}{}{Semmi gond. Mindamellett van itt még valami, amit tudni szeretnék.}
-{149}{}{Elintézem õket, ne aggódj!}
+{145}{}{Ember, te aztÃ¡n jÃ³ sokmindent tudsz! Az egÃ©sz napot el tudnÃ¡m tÃ¶lteni azzal, hogy tÃ©ged kÃ©rdezgetlek.}
+{146}{}{Rendben, megyek Ã©s utÃ¡na nÃ©zek a dolgoknak.}
+{147}{}{LevÃ¡god nekem a... tudod, mirÅ‘l van szÃ³... rendben?}
+{148}{}{Semmi gond. Mindamellett van itt mÃ©g valami, amit tudni szeretnÃ©k.}
+{149}{}{ElintÃ©zem Å‘ket, ne aggÃ³dj!}

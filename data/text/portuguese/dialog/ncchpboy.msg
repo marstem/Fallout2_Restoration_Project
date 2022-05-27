@@ -1,75 +1,75 @@
-{150}{}{You see a grease-covered mechanic.}
-{151}{}{You see one of the chop shop boyz.}
-{152}{}{You see a shifty-looking mechanic. You can barely make out his features beneath the grease and oil.}
-{200}{}{Holy shit. *Gulp* Look what just walked in.}
-{201}{}{Well, if ain't Mr. Fucking Coffee Can.}
-{202}{}{Anybody in that thing?}
-{203}{}{Can we get you anything? A beer? Some water? A danish?}
-{204}{}{I hope nothing's wrong, uh, sir... or ma'am. Whatever you are inside there.}
-{205}{}{Whatever's wrong, T-Ray's responsible. I'd see him.}
-{206}{}{Is that some kind of new car?}
-{207}{}{We don't want any trouble.}
-{208}{}{Maybe you came looking for T-Ray. He's in the back.}
-{220}{}{Well, helloooo there, little lady. Damn fine performance you give.}
-{221}{}{Wow. Don't get many visitors. What can we do for you, Miss }
-{222}{}{How did you get your legs over your head like that?}
-{223}{}{Are those real tits? Can I make sure?}
-{224}{}{Would it be too much trouble for you to check under my hood?}
-{225}{}{Aw, hell, I look like crap, then you show up. Don't mind the grease, miss.}
-{226}{}{You looking for talent? T-Ray's in the back, so don't bother going there.}
+{150}{}{Você vê um mecânico coberto de graxa.}
+{151}{}{Você vê um dos garotos da loja de desmanche.}
+{152}{}{Você vê um mecânico de aparência esquisita. Você mal consegue distinguir suas feições sob a graxa e o óleo.}
+{200}{}{Puta merda. *engole* Olha quem acabou de entrar.}
+{201}{}{Uau, uau: Sr. Puta Lata de Café em pessoa.}
+{202}{}{Tem algo nessa coisa?}
+{203}{}{Podemos te dar alguma coisa? Uma cerveja? Um pouco de água? Um pão dinamarquês?}
+{204}{}{Espero que esteja tudo bem, eh, senhor... ou senhora. O que quer que esteja lá.}
+{205}{}{Seja qual for o problema, a T-Ray é responsável. Se eu fosse você iria ver.}
+{206}{}{Isso é algum tipo de carro novo?}
+{207}{}{Não queremos problemas.}
+{208}{}{Talvez você esteja procurando T-Ray. Ele está mais atrás.}
+{220}{}{Olha, olááááá, mocinha. Que performance fodida você fez.}
+{221}{}{Uau. Não temos muitos visitantes. O que podemos fazer por você, senhorita }
+{222}{}{Como você colocou as pernas sob a cabeça daquele jeito?}
+{223}{}{Essas tetas são reais? Me confirma isso?}
+{224}{}{Teria algum problema você dar uma olhada embaixo do meu capô?}
+{225}{}{Ai, droga, eu estou todo zuado e você me aparece. Não ligue para a graxa, senhorita.}
+{226}{}{Procurando talento? T-Ray está na parte de trás, não se preocupe em ir lá.}
 {227}{}{Eu sabia que deveria ter lavado hoje...}
-{228}{}{Check your oil? Heh-heh.}
-{229}{}{Wanna see my lil' grease monkey?}
+{228}{}{Devo verificar seu óleo? He he.}
+{229}{}{Quer ver meu ajudante no trabalho?}
 {230}{}{::Assobios::}
 {231}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
-{232}{}{Well, helloooo there, little lady.}
-{233}{}{Wow. Don't get many visitors. What can we do for you, miss?}
-{234}{}{You looking for some hot love? T-Ray's in the back, so don't bother going there.}
-{245}{}{Vi voc� lutando no ringue. Que belo gancho que voc� deu.}
-{246}{}{Voc� vai cair? Eu ganhei 30 conto apostando em voc�.}
-{247}{}{You don't look so tough for a prizefighter.}
-{248}{}{Quanto voc� pesa?}
-{249}{}{Onde voc� trabalha fora do ringue?}
-{250}{}{Cuidado com o Masticator. Ele � louco por orelhas.}
-{251}{}{Wanna beer? We usually save them for when we're working.}
-{252}{}{T-Ray said you ain't so tough. I'll give you 5 chips if you go punch him.}
-{253}{}{T-Ray said you got a glass jaw. He's in the back if you want to go talk to him.}
-{254}{}{That Mastictor's a big wuss. Uh, don't tell him I said that, though.}
-{265}{}{I hope nothing's wrong, ma'am.}
-{266}{}{We meant no disrespect, ma'am.}
-{267}{}{Holy shit. *Gulp* Look what just walked in.}
-{268}{}{What can we do for you, }
-{269}{}{Can we get you anything? A beer? Some water? A danish?}
-{270}{}{Whatever's wrong, T-Ray's responsible. I'd see him.}
-{271}{}{Tell your boss hello from all us.}
-{272}{}{Maybe you came looking for T-Ray. He's in the back.}
-{273}{}{I hope nothing's wrong, sir.}
-{274}{}{We meant no disrespect, sir.}
-{300}{}{Sorry about that misunderstanding with the Highwayman.}
-{301}{}{We didn't know the Highwayman was yours.}
-{302}{}{Yeah, the Highwayman's not a bad car, but I'd rather have an Omni.}
-{303}{}{You looking to sell the Highwayman?}
-{304}{}{Go, greased lightning, go.}
-{305}{}{Grease is the word that I heard... dum dum dum dum...}
-{306}{}{The Highwayman's a sweet car; Chryslus sure knew how to make them back then.}
-{307}{}{T-Ray's "working" in the back again. Lazy bastard.}
-{308}{}{I'm sick of picking up T-Ray's slack.}
-{309}{}{T-Ray's been scoping my woman again.}
-{310}{}{T-Ray slept with my sister. And my mother. And my dog.}
-{311}{}{T-Ray's hornier than a four-headed goat.}
-{312}{}{T-Ray's in the back. On the phone.}
-{313}{}{Engine's still good.}
-{314}{}{Interior smells like someone took a dump in there.}
-{315}{}{Interior smells like gecko.}
-{316}{}{Not a bad car, but I'd rather have an Omni.}
-{317}{}{The Highwayman's got a full analog system, 800 + Horsepower, 0 to 60 in less than a second.}
-{318}{}{Fast? The Highwayman goes from 0 to 60 in less than a second.}
-{319}{}{The Highwayman's got the power: 800+, in fact.}
-{320}{}{You supposed to be here?}
-{321}{}{Feel sorry for the idiot who left this Highwayman lying around.}
-{322}{}{I wouldn't sweat it; the Highwayman's got a full analog system and no computers. None of the fancy stuff.}
-{330}{}{Hands off or your hands come off. Understand?}
-{331}{}{Get the HELL away from that car.}
-{332}{}{Your life ain't worth more than that car. Touch it again, and I'll prove it to you.}
+{232}{}{Oi, oláááááá, senhorita.}
+{233}{}{Uau. Não temos muitos visitantes. O que podemos fazer por você, senhorita?}
+{234}{}{Procurando uma paixão selvagem? T-Ray está na parte de trás, não se preocupe em ir lá.}
+{245}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
+{246}{}{Você vai cair? Eu ganhei 30 conto apostando em você.}
+{247}{}{Você não parece tão forte para um boxeador.}
+{248}{}{Quanto você pesa?}
+{249}{}{Onde você trabalha fora do ringue?}
+{250}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
+{251}{}{Quer cerveja? Normalmente guardamos para quando estamos no serviço.}
+{252}{}{T-Ray disse que você não é tão forte. Te dou 5 tampas se você der um soco nele.}
+{253}{}{T-Ray disse que sua mãe não é homem. Ele está na parte de trás se você quiser ir falar com ele.}
+{254}{}{Esse Masticador é um covarde. Ei, mas não diga nada que eu disse isso dele}
+{265}{}{Espero que não tenha problema, senhorita.}
+{266}{}{Não quisemos desrespeitar, senhora.}
+{267}{}{Puta merda. *engole* Olha quem acabou de entrar.}
+{268}{}{O que podemos fazer por você, }
+{269}{}{Podemos te dar alguma coisa? Uma cerveja? Um pouco de água? Um pão dinamarquês?}
+{270}{}{Seja qual for o problema, a T-Ray é responsável. Se eu fosse você iria ver.}
+{271}{}{Diga olá ao seu chefe por nós.}
+{272}{}{Talvez você esteja procurando T-Ray. Ele está mais atrás.}
+{273}{}{Espero que nada esteja errado, senhor.}
+{274}{}{Não quisemos desrespeitar, senhor.}
+{300}{}{Desculpe pelo mal entendido com o Highwayman.}
+{301}{}{Não sabíamos que o Highwayman era seu.}
+{302}{}{Sim, o Highwayman não é um carro ruim, mas prefiro um Omni.}
+{303}{}{Quer vender o Highwayman?}
+{304}{}{Vamos, eletrizante, vamos.}
+{305}{}{Graxa é a palavra que eu ouvi... dum dum dum dum...}
+{306}{}{O Highwayman é um puta carro; Chryslus certamente sabia como fazê-los nos velhos tempos.}
+{307}{}{T-Ray está "trabalhando" lá atrás novamente. Vagabundo.}
+{308}{}{Estou farto de trabalhar nessas folgas do T-Ray.}
+{309}{}{T-Ray está secando minha mulher de novo.}
+{310}{}{T-Ray dormiu com minha irmã, e minha mãe, e meu cachorro.}
+{311}{}{T-Ray tem mais tesão do que uma cabra de quatro cabeças.}
+{312}{}{O T-Ray está lá atrás, no telefone.}
+{313}{}{O motor ainda está bom.}
+{314}{}{O interior está cheirando como se alguém tivesse cagado ali.}
+{315}{}{O interior cheira como um gecko.}
+{316}{}{Não é um carro ruim, mas prefiro um Omni.}
+{317}{}{O Highwayman tem um sistema analógico completo, 800 cavalos de potência, 0-100 em menos de um segundo.}
+{318}{}{Rápido? O Highwayman vai de 0 a 100 em menos de um segundo.}
+{319}{}{Na verdade, a potencia do Highwayman é de 800 CV.}
+{320}{}{Você deveria estar aqui?}
+{321}{}{Tenho pena do idiota que deixou este Highwayman por aí.}
+{322}{}{Não me preocuparia; o Highwayman tem um sistema analógico completo e nenhum computador. Nada de coisas extravagantes.}
+{330}{}{Tire suas mãos ou eu as corto. Entendeu?}
+{331}{}{Sai de perto desse carro.}
+{332}{}{Sua vida não vale mais do que aquele carro. Toque novamente, e eu te mostro.}
 {5221}{}{?}
 {5268}{}{?}

@@ -1,14 +1,14 @@
-{100}{}{Egy... fehér bõrû hõsnõ-karaktert látsz.}
-{101}{}{Egy gyönyörû hollófekete hajú lányt látsz a 13-as Menedék kezeslábasában. Viccelõdik és nevetgél a körülötte állókkal.}
-{102}{}{Egy fehérbõrû hõsnõ-karaktert látsz. Viccelõdik és nevetgél.}
-{103}{}{Egy fehérbõrû hõsnõ-karaktert látsz. Viccelõdik és nevetgél.}
-{104}{}{Azt hiszem, valami lopakodós alak játszhatott velem.}
-{105}{}{Mindenkitõl állandóan lopni akart.... és mûködött. Többnyire.}
+{100}{}{Egy... fehÃ©r bÅ‘rÅ± hÅ‘snÅ‘-karaktert lÃ¡tsz.}
+{101}{}{Egy gyÃ¶nyÃ¶rÅ± hollÃ³fekete hajÃº lÃ¡nyt lÃ¡tsz a 13-as MenedÃ©k kezeslÃ¡basÃ¡ban. ViccelÅ‘dik Ã©s nevetgÃ©l a kÃ¶rÃ¼lÃ¶tte Ã¡llÃ³kkal.}
+{102}{}{Egy fehÃ©rbÅ‘rÅ± hÅ‘snÅ‘-karaktert lÃ¡tsz. ViccelÅ‘dik Ã©s nevetgÃ©l.}
+{103}{}{Egy fehÃ©rbÅ‘rÅ± hÅ‘snÅ‘-karaktert lÃ¡tsz. ViccelÅ‘dik Ã©s nevetgÃ©l.}
+{104}{}{Azt hiszem, valami lopakodÃ³s alak jÃ¡tszhatott velem.}
+{105}{}{MindenkitÅ‘l Ã¡llandÃ³an lopni akart.... Ã©s mÅ±kÃ¶dÃ¶tt. TÃ¶bbnyire.}
 {106}{}{Bezzeg, amikor nem...}
-{107}{}{Soha életemben nem láttam még annyi állás-mentést és visszatöltést. Atyaég! Csak egyszer adjatok nekem egy harcos játékost.}
-{108}{}{Meg kell mondanom, hogy nagyon tetszettem magamnak a harci páncélban.}
-{109}{}{Nem mondtam semmit elõtte, de Ian... hát, bizony elég sokat nézegetett engem a Fallout 1-ben.}
-{110}{}{Kényelmetlenül éreztem magam.}
-{111}{}{Arra gondoltam, hogy beszélek errõl a játéktervezõkkel, de rájöttem, hogy amíg Ian nem viszi túlzásba, nem probléma.}
-{112}{}{Ian teljesen jól nézett ki... Mondjuk, egy hajvágás ráfért volna, de az nagyon...}
-{113}{}{Na, meg egy fürdés... Juhujjj...}
+{107}{}{Soha Ã©letemben nem lÃ¡ttam mÃ©g annyi Ã¡llÃ¡s-mentÃ©st Ã©s visszatÃ¶ltÃ©st. AtyaÃ©g! Csak egyszer adjatok nekem egy harcos jÃ¡tÃ©kost.}
+{108}{}{Meg kell mondanom, hogy nagyon tetszettem magamnak a harci pÃ¡ncÃ©lban.}
+{109}{}{Nem mondtam semmit elÅ‘tte, de Ian... hÃ¡t, bizony elÃ©g sokat nÃ©zegetett engem a Fallout 1-ben.}
+{110}{}{KÃ©nyelmetlenÃ¼l Ã©reztem magam.}
+{111}{}{Arra gondoltam, hogy beszÃ©lek errÅ‘l a jÃ¡tÃ©ktervezÅ‘kkel, de rÃ¡jÃ¶ttem, hogy amÃ­g Ian nem viszi tÃºlzÃ¡sba, nem problÃ©ma.}
+{112}{}{Ian teljesen jÃ³l nÃ©zett ki... Mondjuk, egy hajvÃ¡gÃ¡s rÃ¡fÃ©rt volna, de az nagyon...}
+{113}{}{Na, meg egy fÃ¼rdÃ©s... Juhujjj...}

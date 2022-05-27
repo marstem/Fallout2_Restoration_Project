@@ -1,39 +1,39 @@
-{100}{}{Ez a Halálkarom szokatlanul intelligens tekintettel néz rád.}
-{101}{}{Dar, a Halálkarmok egyike.}
-{102}{}{Egy átlagos Halálkarom. Óriási teremtmény, erõs testtel, éles fogakkal és karmokkal felvértezve..}
-{103}{}{Üdv, ember!}
+{100}{}{Ez a HalÃ¡lkarom kÃ¼lÃ¶nÃ¶s, intelligens szemekkel figyel tÃ©ged.}
+{101}{}{Dar, a HalÃ¡lkarmok egyike.}
+{102}{}{Egy tipikus HalÃ¡lkarmot lÃ¡tsz. A teremtmÃ©nynek hatalmas, erÅ‘teljes teste, Ã©les fogai, Ã©s hosszÃº karmai vannak.}
+{103}{}{Ãœdv, ember!}
 {104}{}{Mit akarsz?}
 {105}{}{Szia. Te ki?}
-{106}{}{Miért vagy itt?}
-{107}{}{Okos vagy, mint a többi?}
-{108}{}{Én unatkozza, menek.}
-{109}{}{Elnézést a zavarásért, de ki vagy te?}
-{110}{}{Mi a munkád a menedékben?}
-{111}{}{Ne vedd sértésnek, de mennyire vagy mûvelt?}
-{112}{}{Csak múlatom az idõt...}
+{106}{}{MiÃ©rt vagy itt?}
+{107}{}{Okos vagy, mint a tÃ¶bbi?}
+{108}{}{Ã‰n unatkozza, menek.}
+{109}{}{ElnÃ©zÃ©st a zavarÃ¡sÃ©rt, de ki vagy te?}
+{110}{}{Mi a munkÃ¡d a menedÃ©kben?}
+{111}{}{Ne vedd sÃ©rtÃ©snek, de mennyire vagy mÅ±velt?}
+{112}{}{HÃ¡t, csak elÃ¼tÃ¶m az idÅ‘t.}
 {113}{}{Dar vagyok, harcos.}
-{114}{}{Oké.}
-{115}{}{Ti egyformák. Elmegyek.}
-{116}{}{Én}
-{117}{}{Értem. Most már mennem kell.}
-{118}{}{Én}
-{119}{}{Értem.}
-{120}{}{Harcos! Ha! Ez jó. Tudsz még valamit ezen kívül?}
-{121}{}{Dar õrzi a hallt, és a békét. Semmi több.}
-{122}{}{Hallani elõtte.}
-{123}{}{Oké.}
-{124}{}{Hát, te aztán jól dolgozol Dar. Csak így tovább!}
-{125}{}{Ja, rájöttem én is.}
+{114}{}{OkÃ©.}
+{115}{}{Ti egyformÃ¡k. Elmegyek.}
+{116}{}{Ã‰n }
+{117}{}{Ã‰rtem. Most mÃ¡r mennem kell.}
+{118}{}{Ã‰n}
+{119}{}{Fogtam.}
+{120}{}{Harcos! Ha! Ez jÃ³. Tudsz mÃ©g valamit ezen kÃ­vÃ¼l?}
+{121}{}{Dar Å‘rzi a hallt, Ã©s a bÃ©kÃ©t. Semmi tÃ¶bb.}
+{122}{}{Hallani elÅ‘tte.}
+{123}{}{OkÃ©.}
+{124}{}{HÃ¡t, te aztÃ¡n jÃ³l dolgozol Dar. Csak Ã­gy tovÃ¡bb!}
+{125}{}{Ja, rÃ¡jÃ¶ttem Ã©n is.}
 {126}{}{Nothing new here. I guess I'll be going.}
-{127}{}{Egy ilyen pofával, mint a tied, hogyan tartod fenn a békét?}
-{128}{}{Te nem vagy szép. Mennyé innen!}
-{129}{}{Nem nagyon, de tanulok. Gruthar, a vezetõnk, mondta, hogy tanuljunk.}
-{130}{}{Törzsfõ a faluban ugyanez csinál nekem.}
+{127}{}{Egy ilyen pofÃ¡val, mint a tied, hogyan tartod fenn a bÃ©kÃ©t?}
+{128}{}{Te nem vagy szÃ©p. MennyÃ© innen!}
+{129}{}{Nem nagyon, de tanulok. Gruthar, a vezetÅ‘nk, mondta, hogy tanuljunk.}
+{130}{}{TÃ¶rzsfÅ‘ a faluban ugyanez csinÃ¡l nekem.}
 {131}{}{Ah.}
-{132}{}{Grutharnak igaza van, meg kell próbálnotok önállóan tanulni.}
-{133}{}{Értem.}
-{134}{}{Szóval olyan hülye vagy, hogy másnak kell tanulásra ösztönözni téged? Na, szép...}
-{135}{}{Helló, te falka-barát!}
+{132}{}{Grutharnak igaza van, meg kell prÃ³bÃ¡lnotok Ã¶nÃ¡llÃ³an tanulni.}
+{133}{}{Fogtam.}
+{134}{}{SzÃ³val olyan hÃ¼lye vagy, hogy mÃ¡snak kell tanulÃ¡sra Ã¶sztÃ¶nÃ¶zni tÃ©ged? Na, szÃ©p...}
+{135}{}{HellÃ³, te falka-barÃ¡t!}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
-{137}{}{ vagyok.}
+{137}{}{ dollÃ¡r.}
 {138}{}{ vagyok, Dar.}

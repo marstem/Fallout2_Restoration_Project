@@ -1,13 +1,13 @@
-{100}{}{Ez itt egy vérmes bokszrajongó.}
-{150}{}{Ez itt egy elég vad kinézetû ember. Torkaszakadtából üvölt valami kihámozhatatlant.}
-{151}{}{Ez itt egy vérmes bokszrajongó. Láthatóan vért akar.}
-{152}{}{Ez itt egy elég vad kinézetû ember. Zagyvaságokat üvölt torkaszakadtából.}
-{153}{}{Ez itt egy vérmes bokszrajongó. Láthatóan vért akar.}
-{200}{}{Igggeeeeeeennnn!}
-{201}{}{::rikolt:: ::üvölt:: ::rikolt::}
-{202}{}{Öldd meg, }
+{100}{}{Ez itt egy vÃ©rmes bokszrajongÃ³.}
+{150}{}{Ez itt egy elÃ©g vad kinÃ©zetÅ± ember. TorkaszakadtÃ¡bÃ³l Ã¼vÃ¶lt valami kihÃ¡mozhatatlant.}
+{151}{}{Ez itt egy vÃ©rmes bokszrajongÃ³. LÃ¡thatÃ³an vÃ©rt akar.}
+{152}{}{Ez itt egy elÃ©g vad kinÃ©zetÅ± ember. ZagyvasÃ¡gokat Ã¼vÃ¶lt torkaszakadtÃ¡bÃ³l.}
+{153}{}{Ez itt egy vÃ©rmes bokszrajongÃ³. LÃ¡thatÃ³an vÃ©rt akar.}
+{200}{}{Igggeeeeeennnn!}
+{201}{}{::rikolt:: ::Ã¼vÃ¶lt:: ::rikolt::}
+{202}{}{Ã–ldd meg, }
 {203}{}{Te vagy a legjobb, }
-{204}{}{Kapd el õket, }
+{204}{}{Kapd el Å‘ket, }
 {205}{}{Igen! Adj neki!}
 {206}{}{}
 {207}{}{}
@@ -18,174 +18,174 @@
 {212}{}{}
 {213}{}{}
 {214}{}{A kedvencem }
-{215}{}{::sivít:: ::sivít::}
+{215}{}{::sivÃ­t:: ::sivÃ­t::}
 {216}{}{}
 {250}{}{}
 {251}{}{}
 {252}{}{}
-{253}{}{Úgy hallottam, }
-{254}{}{Óhistenem! }
-{255}{}{Üss meg! Üss meg! El akarom mesélni a kölykeimnek, hogy megütöttél!}
+{253}{}{Az hallottam, }
+{254}{}{Ã“histenem! }
+{255}{}{Ãœss meg! Ãœss meg! El akarom mesÃ©lni a kÃ¶lykeimnek, hogy megÃ¼tÃ¶ttÃ©l!}
 {256}{}{Te vagy a legjobb, }
-{257}{}{Öldd meg, }
+{257}{}{Ã–ldd meg, }
 {258}{}{Te vagy a legjobb, }
-{259}{}{Kapd el õket, }
+{259}{}{Kapd el Å‘ket, }
 {260}{}{Igen! Adj neki!}
 {261}{}{}
 {262}{}{}
-{263}{}{Igggeeeeeeennnn!}
-{264}{}{::rikolt:: ::üvölt:: ::rikolt::}
+{263}{}{Igggeeeeeennnn!}
+{264}{}{::rikolt:: ::Ã¼vÃ¶lt:: ::rikolt::}
 {265}{}{}
 {266}{}{}
-{267}{}{Szívósabb vagy, mint Tyson felesége!}
+{267}{}{SzÃ­vÃ³sabb vagy, mint Tyson neje!}
 {268}{}{}
 {269}{}{}
 {270}{}{}
-{271}{}{Úgy hallottam, }
-{280}{}{Egy szerencsecsókot?}
+{271}{}{Az hallottam, }
+{280}{}{Egy szerencsecsÃ³kot?}
 {281}{}{}
 {282}{}{}
 {283}{}{}
 {284}{}{}
 {285}{}{}
-{286}{}{Úgy hallottam, }
-{287}{}{Óhistenem! }
-{288}{}{Üss meg! Üss meg! El akarom mesélni a kölykeimnek, hogy megütöttél!}
-{289}{}{Te vagy a legjobb }
-{290}{}{Öldd meg, }
+{286}{}{Az hallottam, }
+{287}{}{Ã“histenem! }
+{288}{}{Ãœss meg! Ãœss meg! El akarom mesÃ©lni a kÃ¶lykeimnek, hogy megÃ¼tÃ¶ttÃ©l!}
+{289}{}{Te vagy a legjobb, }
+{290}{}{Ã–ldd meg, }
 {291}{}{Te vagy a legjobb, }
-{292}{}{Kapd el õket, }
+{292}{}{Kapd el Å‘ket, }
 {293}{}{Igen! Adj neki!}
 {294}{}{}
 {295}{}{}
-{296}{}{Áijjjjééééééé!}
-{297}{}{::sivít:: ::sivít::}
+{296}{}{ÃiiijjjÃ©Ã©Ã©Ã©Ã©Ã©Ã©!}
+{297}{}{::sivÃ­t:: ::sivÃ­t::}
 {298}{}{}
 {299}{}{}
-{300}{}{Szívósabb vagy, mint Tyson felesége!}
+{300}{}{SzÃ­vÃ³sabb vagy, mint Tyson neje!}
 {301}{}{}
 {302}{}{}
 {303}{}{}
-{304}{}{Úgy hallottam, }
-{320}{}{ mindenkit kinyír, aki az útjába áll!}
-{321}{}{ a LEGJOBB! A LEGJOBB!}
+{304}{}{Az hallottam, }
+{320}{}{ mindenkit kinyÃ­r, aki az ÃºtjÃ¡ba Ã¡ll!}
+{321}{}{a LEGJOBB! A LEGJOBB!}
 {322}{}{!!!}
-{323}{}{ a férfiak férfija!}
-{324}{}{ a legnagyobb bokszbajnok, akit valaha láttam.}
-{325}{}{ is nagyon ravasz. Tudja, hogy kell igazán bántalmazni az ellenfeleket.}
-{326}{}{ törõdik a rajongóival. Nem ignorálja oket, mint a többi bokszoló.}
-{327}{}{ annyira jóképû!}
-{328}{}{ körültekintõ és ad a táplálkozásra. Ezt mondta nekem múlt éjszaka.}
+{323}{}{ a fÃ©rfiak fÃ©rfija!}
+{324}{}{ a legnagyobb bokszbajnok, akit valaha lÃ¡ttam.}
+{325}{}{ is nagyon ravasz. Tudja, hogy kell sÃ©rÃ¼lÃ©st okozni a mÃ¡siknak.}
+{326}{}{ foglalkozik a rajongÃ³ival. Nem szarik rÃ¡juk, mint a tÃ¶bbi bokszolÃ³.}
+{327}{}{ annyira jÃ³kÃ©pÅ±.}
+{328}{}{ kÃ¶rÃ¼ltekintÅ‘ Ã©s ad a tÃ¡plÃ¡lkozÃ¡sra. Ezt mondta nekem mÃºlt Ã©jszaka.}
 {350}{}{}
-{351}{}{Otthon egy üvegben õrzök az izzadságodból!}
-{352}{}{Óhistenem! }
-{353}{}{Üss meg! Üss meg! El akarom mesélni a kölykeimnek, hogy megütöttél!}
-{354}{}{Te vagy a legjobb }
+{351}{}{Otthon egy Ã¼vegben Å‘rzÃ¶k az izzadsÃ¡godbÃ³l!}
+{352}{}{Ã“histenem! }
+{353}{}{Ãœss meg! Ãœss meg! El akarom mesÃ©lni a kÃ¶lykeimnek, hogy megÃ¼tÃ¶ttÃ©l!}
+{354}{}{Te vagy a legjobb, }
 {355}{}{Te vagy a legjobb, }
-{356}{}{Menj és mutasd meg nekik, }
+{356}{}{Menj Ã©s mutasd meg nekik, }
 {357}{}{}
 {358}{}{}
-{359}{}{Igggeeeeeeennnn!}
+{359}{}{Igggeeeeeennnn!}
 {360}{}{}
 {361}{}{}
 {362}{}{}
-{363}{}{Azt hallottam, mielõtt New Renóba jöttél volna bokszolni, teljesen ismeretlen voltál. Honnan is jöttél hozzánk?}
+{363}{}{Azt hallottam, mielÅ‘tt New RenÃ³ba jÃ¶ttÃ©l volna bokszolni, teljesen ismeretlen voltÃ¡l. Honnan jÃ¶ttÃ©l vÃ©gÃ¼l is?}
 {364}{}{}
-{365}{}{Szívósabb vagy, mint Tyson felesége!}
+{365}{}{SzÃ­vÃ³sabb vagy, mint Tyson neje!}
 {366}{}{}
-{380}{}{Egy szerencsecsókot?}
+{380}{}{Egy szerencsecsÃ³kot?}
 {381}{}{}
 {382}{}{}
-{383}{}{::Ahogy beszélsz hozzá, elsápad::}
-{384}{}{Otthon egy üvegben õrzök az izzadságodból!}
-{385}{}{Óhistenem! }
-{386}{}{Üss meg! Üss meg! El akarom mesélni a kölykeimnek, hogy megütöttél!}
-{387}{}{Te vagy a legjobb }
+{383}{}{::Ahogy beszÃ©lsz hozzÃ¡, elsÃ¡pad::}
+{384}{}{Otthon egy Ã¼vegben Å‘rzÃ¶k az izzadsÃ¡godbÃ³l!}
+{385}{}{Ã“histenem! }
+{386}{}{Ãœss meg! Ãœss meg! El akarom mesÃ©lni a kÃ¶lykeimnek, hogy megÃ¼tÃ¶ttÃ©l!}
+{387}{}{Te vagy a legjobb, }
 {388}{}{Kill 'em, !}
 {389}{}{Te vagy a legjobb, }
-{390}{}{Kapd el õket, }
-{391}{}{ vagyok.}
+{390}{}{Kapd el Å‘ket, }
+{391}{}{ dollÃ¡r.}
 {392}{}{}
-{393}{}{Áijjjjééééééé!}
+{393}{}{ÃiiijjjÃ©Ã©Ã©Ã©Ã©Ã©Ã©!}
 {394}{}{}
 {395}{}{}
 {396}{}{}
-{397}{}{Azt hallottam, mielõtt New Renóba jöttél volna bokszolni, teljesen ismeretlen voltál. Honnan is jöttél hozzánk?}
+{397}{}{Azt hallottam, mielÅ‘tt New RenÃ³ba jÃ¶ttÃ©l volna bokszolni, teljesen ismeretlen voltÃ¡l. Honnan jÃ¶ttÃ©l vÃ©gÃ¼l is?}
 {398}{}{}
-{399}{}{Szívósabb vagy, mint Tyson felesége!}
+{399}{}{SzÃ­vÃ³sabb vagy, mint Tyson neje!}
 {400}{}{}
-{1202}{}{!}
-{1203}{}{!}
-{1204}{}{!}
-{1206}{}{ a LEGJOBB! A LEGJOBB!}
+{1202}{}{. menet!}
+{1203}{}{. menet!}
+{1204}{}{. menet!}
+{1206}{}{a LEGJOBB! A LEGJOBB!}
 {1207}{}{!!!}
-{1208}{}{, igazi férfi vagy a javából!}
-{1209}{}{ a legnagyobb bokszbajnok, akit valaha láttam.}
-{1210}{}{ is nagyon ravasz. Tudja, hogy kell igazán bántalmazni az ellenfeleket.}
-{1211}{}{ törõdik a rajongóival. Nem ignorálja oket, mint a többi bokszoló.}
-{1212}{}{ annyira jóképû!}
-{1213}{}{ annyira férfias.}
-{1214}{}{Áiiiijééééééééé!}
-{1216}{}{ körültekintõ és ad a táplálkozásra. Ezt mondta nekem múlt éjszaka.}
-{1250}{}{, igazi férfi vagy a javából!}
-{1251}{}{ is nagyon ravasz. Tudja, hogy kell igazán bántalmazni az ellenfeleket.}
-{1252}{}{ törõdik a rajongóival. Nem ignorálja oket, mint a többi bokszoló.}
-{1253}{}{, mielõtt New Renóba jött volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztából jött. Rejtélyes alak! Halálos ellenfél!}
-{1254}{}{! Adnál egy autogramot?}
+{1208}{}{, te aztÃ¡n vagy valaki!}
+{1209}{}{ a legnagyobb bokszbajnok, akit valaha lÃ¡ttam.}
+{1210}{}{ is nagyon ravasz. Tudja, hogy kell sÃ©rÃ¼lÃ©st okozni a mÃ¡siknak.}
+{1211}{}{ foglalkozik a rajongÃ³ival. Nem szarik rÃ¡juk, mint a tÃ¶bbi bokszolÃ³.}
+{1212}{}{ annyira jÃ³kÃ©pÅ±.}
+{1213}{}{ annyira fÃ©rfias.}
+{1214}{}{ÃiiiijÃ©Ã©Ã©Ã©Ã©Ã©Ã©Ã©Ã©!}
+{1216}{}{ kÃ¶rÃ¼ltekintÅ‘ Ã©s ad a tÃ¡plÃ¡lkozÃ¡sra. Ezt mondta nekem mÃºlt Ã©jszaka.}
+{1250}{}{, te aztÃ¡n vagy valaki!}
+{1251}{}{ is nagyon ravasz. Tudja, hogy kell sÃ©rÃ¼lÃ©st okozni a mÃ¡siknak.}
+{1252}{}{ foglalkozik a rajongÃ³ival. Nem szarik rÃ¡juk, mint a tÃ¶bbi bokszolÃ³.}
+{1253}{}{, mielÅ‘tt New RenÃ³ba jÃ¶tt volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztÃ¡bÃ³l jÃ¶tt. RejtÃ©lyes alak! HalÃ¡los ellenfÃ©l!}
+{1254}{}{! Hadd kÃ©rjek autogramot!}
 {1256}{}{! Mutasd meg nekik!}
-{1257}{}{!}
-{1258}{}{!}
-{1259}{}{!}
-{1261}{}{, te vagy a LEGJOBBAK LEGJOBBIKA!}
+{1257}{}{. menet!}
+{1258}{}{. menet!}
+{1259}{}{. menet!}
+{1261}{}{, te vagy a LEGJOBB! A LEGJOBB!}
 {1262}{}{!!!}
-{1265}{}{ a legnagyobb bokszbajnok, akit valaha láttam.}
-{1266}{}{, te vagy a legkeményebb nõ a világon!}
-{1268}{}{, te aztán nõ vagy a javából!}
-{1269}{}{ is nagyon ravasz fajta. Õ aztán tudja, hogy kell az ellenfelet bántalmazni.}
-{1270}{}{ törõdik a rajongóival. Nem tojik rájuk, mint a többi bokszoló.}
-{1271}{}{, mielõtt New Renóba jött volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztából jött. Annyira rejtélyes egy nõ!}
-{1281}{}{, igazi férfi vagy a javából!}
-{1282}{}{ annyira jóképû!}
-{1283}{}{ olyan felépítésû, mint egy harckocsi!}
-{1284}{}{ is nagyon ravasz. Tudja, hogy kell igazán bántalmazni az ellenfeleket.}
-{1285}{}{ törõdik a rajongóival. Nem ignorálja oket, mint a többi bokszoló.}
-{1286}{}{, mielõtt New Renóba jött volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztából jött. Rejtélyes alak! Halálos ellenfél!}
-{1287}{}{! Adnál egy autogramot?}
+{1265}{}{ a legnagyobb bokszbajnok, akit valaha lÃ¡ttam.}
+{1266}{}{, te vagy a legkemÃ©nyebb csaj a vilÃ¡gon!}
+{1268}{}{, te aztÃ¡n nÅ‘ vagy a javÃ¡bÃ³l!}
+{1269}{}{ is nagyon ravasz. Tudja, hogy kell igazÃ¡n bÃ¡ntalmazni valakit.}
+{1270}{}{ tÃ¶rÅ‘dik a rajnogÃ³ival. Nem tojik a fejÃ¼kre, mint a tÃ¶bbi bokszolÃ³.}
+{1271}{}{, mielÅ‘tt New RenÃ³ba jÃ¶tt volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztÃ¡bÃ³l jÃ¶tt. Annyira rejtÃ©lyes egy nÅ‘!}
+{1281}{}{, te aztÃ¡n vagy valaki!}
+{1282}{}{ annyira jÃ³kÃ©pÅ±.}
+{1283}{}{ olyan felÃ©pÃ­tÃ©sÅ±, mint egy harckocsi!}
+{1284}{}{ is nagyon ravasz. Tudja, hogy kell sÃ©rÃ¼lÃ©st okozni a mÃ¡siknak.}
+{1285}{}{ foglalkozik a rajongÃ³ival. Nem szarik rÃ¡juk, mint a tÃ¶bbi bokszolÃ³.}
+{1286}{}{, mielÅ‘tt New RenÃ³ba jÃ¶tt volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztÃ¡bÃ³l jÃ¶tt. RejtÃ©lyes alak! HalÃ¡los ellenfÃ©l!}
+{1287}{}{! Hadd kÃ©rjek autogramot!}
 {1289}{}{! Mutasd meg nekik!}
-{1290}{}{!}
-{1291}{}{!}
-{1292}{}{!}
-{1294}{}{, te vagy a LEGJOBBAK LEGJOBBIKA!}
+{1290}{}{. menet!}
+{1291}{}{. menet!}
+{1292}{}{. menet!}
+{1294}{}{, te vagy a LEGJOBB! A LEGJOBB!}
 {1295}{}{!!!}
-{1298}{}{ a legnagyobb bokszbajnok, akit valaha láttam.}
-{1299}{}{, te vagy a legkeményebb nõ a világon!}
-{1301}{}{, te aztán nõ vagy a javából!}
-{1302}{}{ is nagyon ravasz fajta. Õ aztán tudja, hogy kell az ellenfelet bántalmazni.}
-{1303}{}{ törõdik a rajongóival. Nem tojik rájuk, mint a többi bokszoló.}
-{1304}{}{, mielõtt New Renóba jött volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztából jött. Annyira rejtélyes egy nõ!}
-{1350}{}{, igazi férfi vagy a javából!}
-{1352}{}{! Adnál egy autogramot?}
+{1298}{}{ a legnagyobb bokszbajnok, akit valaha lÃ¡ttam.}
+{1299}{}{, te vagy a legkemÃ©nyebb csaj a vilÃ¡gon!}
+{1301}{}{, te aztÃ¡n nÅ‘ vagy a javÃ¡bÃ³l!}
+{1302}{}{ is nagyon ravasz. Tudja, hogy kell igazÃ¡n bÃ¡ntalmazni valakit.}
+{1303}{}{ tÃ¶rÅ‘dik a rajnogÃ³ival. Nem tojik a fejÃ¼kre, mint a tÃ¶bbi bokszolÃ³.}
+{1304}{}{, mielÅ‘tt New RenÃ³ba jÃ¶tt volna bokszolni, teljesen ismeretlen volt. Egyenesen a pusztÃ¡bÃ³l jÃ¶tt. Annyira rejtÃ©lyes egy nÅ‘!}
+{1350}{}{, te aztÃ¡n vagy valaki!}
+{1352}{}{! Hadd kÃ©rjek autogramot!}
 {1354}{}{! Mutasd meg nekik!}
-{1355}{}{!}
-{1356}{}{!}
-{1357}{}{, te vagy a LEGJOBBAK LEGJOBBIKA!}
+{1355}{}{. menet!}
+{1356}{}{. menet!}
+{1357}{}{, te vagy a LEGJOBB! A LEGJOBB!}
 {1358}{}{!!!}
-{1360}{}{, te vagy a legnagyobb bokszbajnok, akit valaha láttam.}
-{1361}{}{, te aztán tudod, hogy kell fájdalmat okozni az ellenfélnek.}
-{1362}{}{, te legalább törõdsz a rajongóiddal. Nem szarsz rájuk, mint a többi bokszoló.}
-{1364}{}{, te vagy a legkeményebb nõ a világon!}
-{1366}{}{, te aztán nõ vagy a javából!}
-{1381}{}{, igazi férfi vagy a javából!}
-{1382}{}{, annyira jóképû vagy.}
-{1385}{}{! Adnál egy autogramot?}
+{1360}{}{, te vagy a legnagyobb bokszbajnok, akit valaha lÃ¡ttam.}
+{1361}{}{, te aztÃ¡n tudod, hogy kell bÃ¡ntalmazni az ellenfelet.}
+{1362}{}{, lÃ¡tom, tÃ¶rÅ‘dsz a rajongÃ³iddal. Nem tojsz a fejÃ¼kre, mint a tÃ¶bbi bokszolÃ³.}
+{1364}{}{, te vagy a legkemÃ©nyebb csaj a vilÃ¡gon!}
+{1366}{}{, te aztÃ¡n nÅ‘ vagy a javÃ¡bÃ³l!}
+{1381}{}{, te aztÃ¡n vagy valaki!}
+{1382}{}{, annyira jÃ³kÃ©pÅ± vagy.}
+{1385}{}{! Hadd kÃ©rjek autogramot!}
 {1387}{}{! Mutasd meg nekik!}
-{1388}{}{!}
-{1389}{}{!}
-{1390}{}{!}
-{1391}{}{, te vagy a LEGJOBBAK LEGJOBBIKA!}
+{1388}{}{. menet!}
+{1389}{}{. menet!}
+{1390}{}{. menet!}
+{1391}{}{, te vagy a LEGJOBB! A LEGJOBB!}
 {1392}{}{!!!}
-{1394}{}{, te vagy a legnagyobb bokszbajnok, akit valaha láttam.}
-{1395}{}{, te aztán tudod, hogy kell fájdalmat okozni az ellenfélnek.}
-{1396}{}{, te legalább törõdsz a rajongóiddal. Nem szarsz rájuk, mint a többi bokszoló.}
-{1398}{}{, te vagy a legkeményebb nõ a világon!}
-{1400}{}{, te aztán nõ vagy a javából!}
+{1394}{}{, te vagy a legnagyobb bokszbajnok, akit valaha lÃ¡ttam.}
+{1395}{}{, te aztÃ¡n tudod, hogy kell bÃ¡ntalmazni az ellenfelet.}
+{1396}{}{, lÃ¡tom, tÃ¶rÅ‘dsz a rajongÃ³iddal. Nem tojsz a fejÃ¼kre, mint a tÃ¶bbi bokszolÃ³.}
+{1398}{}{, te vagy a legkemÃ©nyebb csaj a vilÃ¡gon!}
+{1400}{}{, te aztÃ¡n nÅ‘ vagy a javÃ¡bÃ³l!}

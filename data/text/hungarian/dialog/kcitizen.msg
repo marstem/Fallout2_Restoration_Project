@@ -1,75 +1,75 @@
-{100}{}{Õ egy klamath-i lakos.}
-{101}{}{Õ egy klamath-i lakos.}
-{150}{}{Mér nem mész vissza a törzsedbe?}
-{151}{}{Adok neked pár szép gyöngyszemet, ha békén hagysz.}
-{152}{}{Aranyos törzsbéli, jó törzsbéli, ne bánts!}
-{153}{}{Nem ártana egy fal a város köré.}
-{154}{}{Nincs semmim, amit ellophatnál. Menj el!}
-{155}{}{Miért nézel így rám?}
-{156}{}{Remek, még egy törzsbéli.}
-{157}{}{Mért nem mész vissza az Arany Gekkóba?}
-{158}{}{Csak tartsd magad távol tõlem!}
-{159}{}{Nem kellenek ide bajkeverõk!}
-{160}{}{Biztos Rejtektõl északra laksz.}
-{161}{}{Ami a legkevésbé kell nekünk, az is több nálad.}
-{170}{}{Helló, idegen!}
-{171}{}{Remélem, a prémvadászat jó lesz ebben az idényben.}
-{172}{}{Egyre több brahmin tûnik el mostanában.}
-{173}{}{(Nyam, nyam) A Duntonok aztán tudnak szárított húst csinálni.}
-{174}{}{Azért jöttél, hogy bõröket cserélj tüzes vízre?}
-{175}{}{Azt hittem, hogy az összes törzsbéli csontot rak az orrába.}
-{176}{}{Légy óvatos, sok patkány van a Prémvadászok Városában.}
-{177}{}{Na, hova is tettem azokat a varázsbabokat?}
-{178}{}{A gekkóknak pont olyan ízük van, mint a konzerv-csirkének, fõleg ha rendesen megfõzöd.}
-{179}{}{Azt hiszem, elmegyek relaxálni egyet a Fürdõházba.}
-{180}{}{Légy óvatos a Duntonokkal!}
-{181}{}{Buckner mindig jó árat ad a cuccaimért.}
-{182}{}{Szép napunk van.}
+{100}{}{Klamath egyik lakÃ³jÃ¡t lÃ¡tod.}
+{101}{}{Klamath egyik lakÃ³jÃ¡t lÃ¡tod.}
+{150}{}{MÃ©r nem mÃ©sz vissza a tÃ¶rzsedbe?}
+{151}{}{Adok neked pÃ¡r szÃ©p gyÃ¶ngyszemet, ha bÃ©kÃ©n hagysz.}
+{152}{}{Aranyos tÃ¶rzsbÃ©li, jÃ³ tÃ¶rzsbÃ©li, ne bÃ¡nts!}
+{153}{}{Nem Ã¡rtana egy fal a vÃ¡ros kÃ¶rÃ©.}
+{154}{}{Nincs semmim, amit ellophatnÃ¡l. Menj el!}
+{155}{}{MiÃ©rt nÃ©zel Ã­gy rÃ¡m?}
+{156}{}{Remek, mÃ©g egy tÃ¶rzsbÃ©li.}
+{157}{}{MÃ©rt nem mÃ©sz vissza az Arany GekkÃ³ba?}
+{158}{}{Csak tartsd magad tÃ¡vol tÅ‘lem!}
+{159}{}{Nem kellenek ide bajkeverÅ‘k!}
+{160}{}{Biztos RejtektÅ‘l Ã©szakra laksz.}
+{161}{}{Ami a legkevÃ©sbÃ© kell nekÃ¼nk, az is tÃ¶bb nÃ¡lad.}
+{170}{}{HellÃ³, idegen!}
+{171}{}{RemÃ©lem, a prÃ©mvadÃ¡szat jÃ³ lesz ebben az idÃ©nyben.}
+{172}{}{Egyre tÃ¶bb brahmin tÅ±nik el mostanÃ¡ban.}
+{173}{}{(Nyam, nyam) A Duntonok aztÃ¡n tudnak szÃ¡rÃ­tott hÃºst csinÃ¡lni.}
+{174}{}{AzÃ©rt jÃ¶ttÃ©l, hogy bÅ‘rÃ¶ket cserÃ©lj tÃ¼zes vÃ­zre?}
+{175}{}{Azt hittem, hogy az Ã¶sszes tÃ¶rzsbÃ©li csontot rak az orrÃ¡ba.}
+{176}{}{LÃ©gy Ã³vatos, sok patkÃ¡ny van a PrÃ©mvadÃ¡szok VÃ¡rosÃ¡ban.}
+{177}{}{Na, hova is tettem azokat a varÃ¡zsbabokat?}
+{178}{}{A gekkÃ³knak pont olyan Ã­zÃ¼k van, mint a konzerv-csirkÃ©nek, fÅ‘leg ha rendesen megfÅ‘zÃ¶d.}
+{179}{}{Azt hiszem, elmegyek relaxÃ¡lni egyet a FÃ¼rdÅ‘hÃ¡zba.}
+{180}{}{LÃ©gy Ã³vatos a Duntonokkal!}
+{181}{}{Buckner mindig jÃ³ Ã¡rat ad a cuccaimÃ©rt.}
+{182}{}{SzÃ©p napunk van.}
 {183}{}{Olyan vagy, mint Sulik.}
-{184}{}{Hova tûnt már megint az a hülye Torr?}
-{185}{}{Az a titka az egésznek... hé, mi ez a zsebemben?!?}
-{186}{}{A szegények sosem pihennek.}
-{187}{}{Fájnak az izületeim. Biztos az idõjárás.}
-{188}{}{Kicsit felerõsödött a szél.}
-{190}{}{Örülök, hogy látlak.}
-{191}{}{Több hozzád hasonló is van az otthonodban?}
-{192}{}{Remélem, tetszik neked Klamath.}
-{193}{}{Hát nem jönne rosszul még egy pár olyan rátermett ember, mint te.}
-{194}{}{Mizújs haver?}
-{195}{}{Sok szerencsét.}
-{196}{}{Ha bármire szükséged van, menj a Buckner Házba!}
+{184}{}{Hova tÅ±nt mÃ¡r megint az a hÃ¼lye Torr?}
+{185}{}{Az a titka az egÃ©sznek... hÃ©, mi ez a zsebemben?!?}
+{186}{}{A szegÃ©nyek sosem pihennek.}
+{187}{}{FÃ¡jnak az izÃ¼leteim. Biztos az idÅ‘jÃ¡rÃ¡s.}
+{188}{}{Kicsit felerÅ‘sÃ¶dÃ¶tt a szÃ©l.}
+{190}{}{Ã–rÃ¼lÃ¶k, hogy lÃ¡tlak.}
+{191}{}{TÃ¶bb hozzÃ¡d hasonlÃ³ is van az otthonodban?}
+{192}{}{RemÃ©lem, tetszik neked Klamath.}
+{193}{}{HÃ¡t nem jÃ¶nne rosszul mÃ©g egy pÃ¡r olyan rÃ¡termett ember, mint te.}
+{194}{}{MizÃºjs haver?}
+{195}{}{Sok szerencsÃ©t.}
+{196}{}{Ha bÃ¡rmire szÃ¼ksÃ©ged van, menj a Buckner HÃ¡zba!}
 {197}{}{Nem is vagy olyan, mint Sulik.}
-{198}{}{Te vagy a legcivilizáltabb törzsbéli, akivel valaha is találkoztam.}
-{199}{}{Vigyázz a megváltozott színû gekkókkal.}
-{200}{}{Üdvözöllek, utazó!}
-{201}{}{Jó, hogy köztünk vagy.}
+{198}{}{Te vagy a legcivilizÃ¡ltabb tÃ¶rzsbÃ©li, akivel valaha is talÃ¡lkoztam.}
+{199}{}{VigyÃ¡zz a megvÃ¡ltozott szÃ­nÅ± gekkÃ³kkal.}
+{200}{}{Ne Ã¡csorogj itt!}
+{201}{}{JÃ³, hogy kÃ¶ztÃ¼nk vagy.}
 {202}{}{Hogy s mint, idegen?}
-{203}{}{Vigyázz a Duntonokkal, veszélyesek!}
-{204}{}{A Prémvadászok városában aztán sok a patkány.}
-{1000}{}{Törzsfõ}
-{1001}{}{Alapító}
-{1002}{}{Menedéklakó}
+{203}{}{VigyÃ¡zz a Duntonokkal, veszÃ©lyesek!}
+{204}{}{A PrÃ©mvadÃ¡szok vÃ¡rosÃ¡ban aztÃ¡n sok a patkÃ¡ny.}
+{1000}{}{TÃ¶rzsfÅ‘nÃ¶k}
+{1001}{}{AlapÃ­tÃ³}
+{1002}{}{MenedÃ©klakÃ³}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Menedék}
-{1006}{}{Kiválasztott}
-{1007}{}{Sámán}
+{1005}{}{Menedek}
+{1006}{}{KivÃ¡lasztott}
+{1007}{}{SÃ¡mÃ¡n}
 {1008}{}{Hakunin}
-{1009}{}{Gyógyító por}
-{1010}{}{Híd}
+{1009}{}{GyÃ³gyÃ­tÃ³ por}
+{1010}{}{Hid}
 {1011}{}{Mynoc}
-{1100}{}{A törzsfõ a te édesanyád és a vezetõnk.}
-{1101}{}{Õ a mi nagyszerû õsünk, neki köszönhetjük a tudást.}
-{1102}{}{Õ volt az, aki elõször küzdött meg sikeresen a káosszal.}
-{1103}{}{Ez a mi szépséges falunk.}
+{1100}{}{A tÃ¶rzsfÅ‘ a te Ã©desanyÃ¡d Ã©s a vezetÅ‘nk.}
+{1101}{}{Å a mi nagyszerÅ± Å‘sÃ¼nk, neki kÃ¶szÃ¶nhetjÃ¼k a tudÃ¡st.}
+{1102}{}{Å volt az, aki elÅ‘szÃ¶r kÃ¼zdÃ¶tt meg sikeresen a kÃ¡osszal.}
+{1103}{}{Ez a mi szÃ©psÃ©ges falunk.}
 {1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{A Menedék maga a mennyország.}
-{1106}{}{TE vagy a Kiválasztott.}
+{1105}{}{A MenedÃ©k maga a mennyorszÃ¡g.}
+{1106}{}{TE vagy a KivÃ¡lasztott.}
 {1107}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1108}{}{He heals us with his herbs and magic. He is in the north part
  of our village.}
 {1109}{}{It is a magic powder which will heal you, but will make you
  sleepy.}
-{1110}{}{A Nagy Híd dél felé van a falunktól.}
+{1110}{}{A Nagy HÃ­d dÃ©l felÃ© van a falunktÃ³l.}
 {1111}{}{He guards the bridge leading into our village.}

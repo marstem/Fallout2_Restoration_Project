@@ -57,7 +57,7 @@
 {156}{}{Sembra proprio che la fortuna vi abbia voltato le spalle. Quanto hai detto che ti serve?}
 {157}{}{Grazie ancora. Non vedo l'ora di dirlo al mio ragazzo. Ce ne andremo da qui non appena la sua gamba sara' guarita.}
 {158}{}{Il tuo modo di ringraziare mi piace moltissimo, Fannie. Sara' meglio che io esca dal locale fintanto che riesco ancora a camminare. Grazie a te. Addio.}
-{159}{}{Quando te ne sarai andata, Fannie, il mondo avrà perso una grande professionista. Addio.}
+{159}{}{Quando te ne sarai andata, Fannie, il mondo avrÃ  perso una grande professionista. Addio.}
 {160}{}{Ehila'. Vuoi passare un po' di tempo con Fannie?}
 {161}{}{Ma non ti avevo dato dei soldi perche' tu smettessi di fare questo lavoro?}
 {162}{}{Certo, a me sta bene. E' una fortuna averti beccato prima che tu partissi.}
@@ -84,10 +84,7 @@
 {183}{}{Beh, spero che il tuo naso non sia troppo sensibile, allora. Quei minatori non amano molto l'acqua e il sapone.}
 {184}{}{Davvero? Forse la cosa non fa per me, allora. Grazie dell'offerta, pero'. Ci vediamo.}
 {185}{}{Non so come tu faccia a resistere, ma dubito che io potrei farcela. A non svenire, intendo. Addio.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+{186}{}{[Fannie sembra essersi tolta un gran peso dalle spalle] Ehi, sei tu! Lou mi ha raccontato quello che hai fatto. Quella roba che mi ha fatto bere mi ha fatto star male un casino, ma da quel giorno non ho piu' sentito il bisogno di farmi di Jet. (Ti bacia sulla guancia) Non so proprio come potrei ringraziarti... beh, un modo lo conoscerei... Quando ti vien voglia, passa pure a trovarmi. Offre la casa. (ti fa l'occhiolino)}
 {187}{}{Lo terro' a mente. Grazie, Fannie.}
 {188}{}{Grazie. (Ti bacia) Ricorda, per te offre sempre la casa. (ti fa l'occhiolino)}
 {189}{}{Ehila'! Vuoi passare un po' di tempo con Fannie? Offre la casa, naturalmente. (sorride maliziosa)}

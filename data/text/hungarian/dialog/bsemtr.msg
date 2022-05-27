@@ -1,5 +1,5 @@
-{100}{}{Egy érdekes szerkentyût látsz az erõtér mellett.}
-{101}{}{Egy erõtér-emitter látsz.}
-{102}{}{Ez a legfurcsább fal, amit valaha láttál.}
-{103}{}{Ez egy erõtér-emitter. Ez szolgáltatja az energiát az erõtérhez.}
-{104}{}{A kibocsátó sivító hangot ad magából, aztán felrobban.}
+{100}{}{Egy Ã©rdekes szerkentyÅ±t lÃ¡tsz az erÅ‘tÃ©r mellett.}
+{101}{}{Egy erÅ‘tÃ©r-emitter lÃ¡tsz.}
+{102}{}{Ez a legfurcsÃ¡bb fal, amit valaha lÃ¡ttÃ¡l.}
+{103}{}{Ez egy erÅ‘tÃ©r-emitter. Ez szolgÃ¡ltatja az energiÃ¡t az erÅ‘tÃ©rhez.}
+{104}{}{A kibocsÃ¡tÃ³ sivÃ­tÃ³ hangot ad magÃ¡bÃ³l, aztÃ¡n felrobban.}

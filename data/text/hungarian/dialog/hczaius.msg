@@ -1,126 +1,126 @@
-{100}{}{Egy keménykötésû, öregedõ mutánst látsz.}
-{101}{}{Zaius, a bányavezetõ.}
-{102}{}{Egy keménykötésû, öregedõ mutánst látsz. Kezében csákány, fején bányászsisak.}
-{103}{}{Te vagy az az új ember a városban?}
-{104}{}{Íík, úúg og!}
-{105}{}{Új! Vagyok! Város!}
-{106}{}{Így van!}
-{107}{}{Aha, nemrég érkeztem.}
-{108}{}{Nem, zsenikém, mindigis itt éltem, csak sosem vettél észre.}
-{109}{}{Úgy hallottam, van egy kis gond a bányával.}
-{110}{}{Mit tudsz mondani nekem errõl a városról?}
-{111}{}{Ööö... hát peeersze. Tudod, mit? Itt egy pár dolcsi, eridj és vegyél magadnak valamit inni a kocsmában!}
+{100}{}{Egy kemÃ©nykÃ¶tÃ©sÅ±, Ã¶regedÅ‘ mutÃ¡nst lÃ¡tsz.}
+{101}{}{Zaius, a bÃ¡nyavezetÅ‘.}
+{102}{}{Egy kemÃ©nykÃ¶tÃ©sÅ±, Ã¶regedÅ‘ mutÃ¡nst lÃ¡tsz. KezÃ©ben csÃ¡kÃ¡ny, fejÃ©n bÃ¡nyÃ¡szsisak.}
+{103}{}{Te vagy az az Ãºj ember a vÃ¡rosban?}
+{104}{}{ÃÃ­k, ÃºÃºg og!}
+{105}{}{Ãšj! Vagyok! VÃ¡ros!}
+{106}{}{Ãgy van!}
+{107}{}{Aha, nemrÃ©g Ã©rkeztem.}
+{108}{}{Nem, zsenikÃ©m, mindigis itt Ã©ltem, csak sosem vettÃ©l Ã©szre.}
+{109}{}{Ãšgy hallottam, van egy kis gond a bÃ¡nyÃ¡val.}
+{110}{}{Mit tudna mondani errÅ‘l a helyrÅ‘l?}
+{111}{}{Ã–Ã¶Ã¶... hÃ¡t peeersze. Tudod, mit? Itt egy pÃ¡r dolcsi, eridj Ã©s vegyÃ©l magadnak valamit inni a kocsmÃ¡ban!}
 {112}{}{Jagga? Ogg? Gronk!}
-{113}{}{Nem értelek, haver. Mért nem mész el inkább a kocsmába? Talán Francis szkanderozna veled.}
-{114}{}{Kanderozna? O-KÉ!}
-{115}{}{Rendben. Nos, a nevem Zaius. Most pedig, hogy bemutatkoztunk... jó a kézügyességed? Van egy kis gond ugyanis a légtisztító berendezéssel a bánya alsó szintjén, de sajnos nincs hozzá megfelelõ alkatrészünk, sem védõruhánk, ami megvédjen minket az odalent szétterjedt radongáztól.}
+{113}{}{Nem Ã©rtelek, haver. MÃ©rt nem mÃ©sz el inkÃ¡bb a kocsmÃ¡ba? TalÃ¡n Francis szkanderozna veled.}
+{114}{}{Kanderozna? O-KÃ‰!}
+{115}{}{Rendben. Nos, a nevem Zaius. Most pedig, hogy bemutatkoztunk... jÃ³ a kÃ©zÃ¼gyessÃ©ged? Van egy kis gond ugyanis a lÃ©gtisztÃ­tÃ³ berendezÃ©ssel a bÃ¡nya alsÃ³ szintjÃ©n, de sajnos nincs hozzÃ¡ megfelelÅ‘ alkatrÃ©szÃ¼nk, sem vÃ©dÅ‘ruhÃ¡nk, ami megvÃ©djen minket az odalent szÃ©tterjedt radongÃ¡ztÃ³l.}
 {116}{}{Nem, sajnos nem.}
-{117}{}{Nem túl rossz. Mire van szükség?}
-{118}{}{Hát, remélem, jól fogod érezni magad itt Broken Hillsben.}
-{119}{}{(tovább)}
-{120}{}{Ha ha. Vicces. Épp egy ilyen csodás elmére van szükségünk a probléma megoldásához.}
-{121}{}{Okosabb vagyok bárkinél ebben a segglyuknyi faluban.}
-{122}{}{Nocsak? Van itt valami probléma? Mi volna az?}
-{123}{}{A legfõbb probléma az, hogy te egy idióta vagy.}
-{124}{}{Ez lennék én. Csodás elme. Mi a probléma?}
-{125}{}{Tönkrement az alsó szinten lévõ légtisztítónk. Nincs hozzá alkatrészünk, és nincs védõfelszerelésünk sem. Megfelelõ alkatrész nélkül nem tudjuk megjavítani, védõruha nélkül pedig taccsra vág minket a radongáz. Jó a kézügyességed?}
-{126}{}{Jól vagyok.}
-{127}{}{Nem, nem igazán.}
-{128}{}{Már megint te vagy?}
-{129}{}{Ork! Úúú! Ug ug!}
-{130}{}{Helló! HEELLÓÓÓÓÓ! Én (name)!}
-{131}{}{Haver, már adtam pénzt. Menj, idegesíts valaki mást, jó?}
-{132}{}{Helló! Miért nem nézed meg... ööö... a városi bankot? Biztos vagyok benne, hogy ott sok ember nagyon szívesen elbeszélgetne veled.}
-{133}{}{Hát, ha meggondolod magad, csak szólj!}
-{134}{}{Tényleg? Megtennéd nekem... és méginkább Broken Hillsért?}
-{135}{}{Mi esik le nekem ebbõl?}
-{136}{}{Rendben, persze... megteszem.}
-{137}{}{Jelen pillantban nem.}
-{138}{}{Úgy lenne? Hát, agyas barátom, akkor miért nem javítod meg a légtisztító berendezést a bányában? Szükséged lesz az alkatrészekre és valamire, amivel lélegezni tudsz odalent. Ha ez megvan, megmutathatod, mit tudsz! De szerintem, csak a szád nagy.}
-{139}{}{Mi esik le nekem ebbõl?}
-{140}{}{Rendben, persze... megteszem.}
+{117}{}{Nem tÃºl rossz. Mire van szÃ¼ksÃ©g?}
+{118}{}{HÃ¡t, remÃ©lem, jÃ³l fogod Ã©rezni magad itt Broken Hillsben.}
+{119}{}{(tovÃ¡bb)}
+{120}{}{Ha ha. Vicces. Ã‰pp egy ilyen csodÃ¡s elmÃ©re van szÃ¼ksÃ©gÃ¼nk a problÃ©ma megoldÃ¡sÃ¡hoz.}
+{121}{}{Okosabb vagyok bÃ¡rkinÃ©l ebben a segglyuknyi faluban.}
+{122}{}{Nocsak? Van itt valami problÃ©ma? Mi volna az?}
+{123}{}{A legfÅ‘bb problÃ©ma az, hogy te egy idiÃ³ta vagy.}
+{124}{}{Ez lennÃ©k Ã©n. CsodÃ¡s elme. Mi a problÃ©ma?}
+{125}{}{TÃ¶nkrement az alsÃ³ szinten lÃ©vÅ‘ lÃ©gtisztÃ­tÃ³nk. Nincs hozzÃ¡ alkatrÃ©szÃ¼nk, Ã©s nincs vÃ©dÅ‘felszerelÃ©sÃ¼nk sem. MegfelelÅ‘ alkatrÃ©sz nÃ©lkÃ¼l nem tudjuk megjavÃ­tani, vÃ©dÅ‘ruha nÃ©lkÃ¼l pedig taccsra vÃ¡g minket a radongÃ¡z. JÃ³ a kÃ©zÃ¼gyessÃ©ged?}
+{126}{}{JÃ³l vagyok.}
+{127}{}{Nem, nem igazÃ¡n.}
+{128}{}{MÃ¡r megint te vagy?}
+{129}{}{Ork! ÃšÃºÃº! Ug ug!}
+{130}{}{HellÃ³! HEELLÃ“Ã“Ã“Ã“Ã“! Ã‰n (name)!}
+{131}{}{Haver, mÃ¡r adtam pÃ©nzt. Menj, idegesÃ­ts valaki mÃ¡st, jÃ³?}
+{132}{}{HellÃ³! MiÃ©rt nem nÃ©zed meg... Ã¶Ã¶Ã¶... a vÃ¡rosi bankot? Biztos vagyok benne, hogy ott sok ember nagyon szÃ­vesen elbeszÃ©lgetne veled.}
+{133}{}{HÃ¡t, ha meggondolod magad, csak szÃ³lj!}
+{134}{}{TÃ©nyleg? MegtennÃ©d nekem... Ã©s mÃ©ginkÃ¡bb Broken HillsÃ©rt?}
+{135}{}{Mit ajÃ¡nlasz cserÃ©be?}
+{136}{}{Rendben van, vÃ¡llalom.}
+{137}{}{Most nincs.}
+{138}{}{Ãšgy lenne? HÃ¡t, agyas barÃ¡tom, akkor miÃ©rt nem javÃ­tod meg a lÃ©gtisztÃ­tÃ³ berendezÃ©st a bÃ¡nyÃ¡ban? SzÃ¼ksÃ©ged lesz az alkatrÃ©szekre Ã©s valamire, amivel lÃ©legezni tudsz odalent. Ha ez megvan, megmutathatod, mit tudsz! De szerintem, csak a szÃ¡d nagy.}
+{139}{}{Mit ajÃ¡nlasz cserÃ©be?}
+{140}{}{Rendben van, vÃ¡llalom.}
 {141}{}{Viccelsz?}
-{142}{}{A legfõbb probléma az, hogy idióta vagyok. Ezt ismételgetem magamnak, mert nehéz elhinni, hogy a seggedbõl épp most hallatszott ki valami, ami szavakra hasonlított. Menj innen a fenébe, tökmag!}
-{143}{}{Eltekintve a seggfejektõl, akik folyton bosszantanak, a problémát a légtisztító okozza a bányában. Ugyanis meghalt, és nincs védõruhánk, amivel a radongáz ellenére lemehetnénk, és nincsenek megfelelõ alkatrészeink sem, amivel megjavíthatnánk. De te biztosan meg tudod csinálni, ugye? Hiszen te olyan okos vagy.}
-{144}{}{Mi esik le nekem ebbõl?}
-{145}{}{Rendben, persze... megteszem.}
+{142}{}{A legfÅ‘bb problÃ©ma az, hogy idiÃ³ta vagyok. Ezt ismÃ©telgetem magamnak, mert nehÃ©z elhinni, hogy a seggedbÅ‘l Ã©pp most hallatszott ki valami, ami szavakra hasonlÃ­tott. Menj innen a fenÃ©be, tÃ¶kmag!}
+{143}{}{Eltekintve a seggfejektÅ‘l, akik folyton bosszantanak, a problÃ©mÃ¡t a lÃ©gtisztÃ­tÃ³ okozza a bÃ¡nyÃ¡ban. Ugyanis meghalt, Ã©s nincs vÃ©dÅ‘ruhÃ¡nk, amivel a radongÃ¡z ellenÃ©re lemehetnÃ©nk, Ã©s nincsenek megfelelÅ‘ alkatrÃ©szeink sem, amivel megjavÃ­thatnÃ¡nk. De te biztosan meg tudod csinÃ¡lni, ugye? Hiszen te olyan okos vagy.}
+{144}{}{Mit ajÃ¡nlasz cserÃ©be?}
+{145}{}{Rendben van, vÃ¡llalom.}
 {146}{}{Viccelsz? Soha.}
-{147}{}{ dollár. Mit szólsz hozzá?}
-{148}{}{Szarra sem elég. Többet akarok!}
-{149}{}{Jól hangzik.}
-{150}{}{Felejts el! Nem vállalom.}
-{151}{}{Nagyszerû! Akkor be kell szerezned az alkatrészeket. Menj el New Renóba és keresd fel Renescót! Neki van mindenféle alkatrész a boltjában. Mondd meg neki, hogy Zaius küldött! Azt is közöld vele, hogy "Kipurcant a kanári."! Nem tudom, hogy a gáz ellen hol találsz védõfelszerelést, de talán bemehetsz anélkül is, csak kicsit fájni fog. Még egyszer, kösz.}
-{152}{}{Semmi baj. Viszlát!}
-{153}{}{Nem? Ha meggondolod magad, itt megtalálsz.}
-{154}{}{Rendicsek. Viszlát!}
-{155}{}{ dollár akkor. A felét most, a felét, ha kész vagy. Menj el New Renóba és keresd meg Renescót! Neki van mindenféle alkatrész a boltjában. Biztos tud segíteni.}
-{156}{}{Szeva.}
-{157}{}{Bocs, de nem adhatok többet. Vagy elfogadod, vagy nem.}
+{147}{}{. Mit szÃ³lsz hozzÃ¡?}
+{148}{}{Szarra sem elÃ©g. TÃ¶bbet akarok!}
+{149}{}{JÃ³l hangzik.}
+{150}{}{Felejts el! Nem vÃ¡llalom.}
+{151}{}{NagyszerÅ±! Akkor be kell szerezned az alkatrÃ©szeket. Menj el New RenÃ³ba Ã©s keresd fel RenescÃ³t! Neki van mindenfÃ©le alkatrÃ©sz a boltjÃ¡ban. Mondd meg neki, hogy Zaius kÃ¼ldÃ¶tt! Azt is kÃ¶zÃ¶ld vele, hogy "Kipurcant a kanÃ¡ri."! Nem tudom, hogy a gÃ¡z ellen hol talÃ¡lsz vÃ©dÅ‘felszerelÃ©st, de talÃ¡n bemehetsz anÃ©lkÃ¼l is, csak kicsit fÃ¡jni fog. MÃ©g egyszer, kÃ¶sz.}
+{152}{}{Nem problÃ©ma. Ãœdv!}
+{153}{}{Nem? Ha meggondolod magad, itt megtalÃ¡lsz.}
+{154}{}{Tiszta sor. ViszlÃ¡t!}
+{155}{}{ dollÃ¡r akkor. A felÃ©t most, a felÃ©t, ha kÃ©sz vagy. Menj el New RenÃ³ba Ã©s keresd meg RenescÃ³t! Neki van mindenfÃ©le alkatrÃ©sz a boltjÃ¡ban. Biztos tud segÃ­teni.}
+{156}{}{ViszlÃ¡t!}
+{157}{}{Bocs, de nem adhatok tÃ¶bbet. Vagy elfogadod, vagy nem.}
 {158}{}{Megveszem.}
 {159}{}{Itthagyom.}
 {160}{}{Rendben. Akkor ne fogadd el!}
-{161}{}{Ahogy gondolja.}
+{161}{}{JÃ³l van, jÃ³l van...}
 {162}{}{Hi, friend!}
 {163}{}{Oh, good. It's you again.}
 {164}{}{Szevasz.}
-{165}{}{Tudtam hogy ezek a mocskok, Franc, Manson, Jacob és Aileen terveznek valamit ellenünk. Szép munka! Naszóval...}
-{166}{}{Remélem, gondolkoztál azon, hogy azt az ércet visszaadd a városnak... Naszóval...}
-{167}{}{Kösz, hogy eladtad az ércet a városnak. Van mire használni. Naszóval...}
-{168}{}{Kösz, hogy visszaadtad az ércet. Nem is tudod, milyen keményen dolgozunk érte.}
-{169}{}{Akkor MOST mit akarsz?}
-{170}{}{Mesélnél a városról?}
-{171}{}{Úgy hallottam, gondok vannak a bányával.}
+{165}{}{Tudtam hogy ezek a mocskok, Franc, Manson, Jacob Ã©s Aileen terveznek valamit ellenÃ¼nk. SzÃ©p munka! NaszÃ³val...}
+{166}{}{RemÃ©lem, gondolkoztÃ¡l azon, hogy azt az Ã©rcet visszaadd a vÃ¡rosnak... NaszÃ³val...}
+{167}{}{KÃ¶sz, hogy eladtad az Ã©rcet a vÃ¡rosnak. Van mire hasznÃ¡lni. NaszÃ³val...}
+{168}{}{KÃ¶sz, hogy visszaadtad az Ã©rcet. Nem is tudod, milyen kemÃ©nyen dolgozunk Ã©rte.}
+{169}{}{Most mit akarsz?}
+{170}{}{MesÃ©lnÃ©l a vÃ¡rosrÃ³l?}
+{171}{}{Ãšgy hallottam, gondok vannak a bÃ¡nyÃ¡val.}
 {172}{}{How're things?}
-{173}{}{Jól kijössz az emberekkel?}
-{174}{}{Meggondoltad magad a légtisztító ügyében?}
-{175}{}{Mi esik le nekem ebbõl?}
-{176}{}{Rendben, persze... megteszem.}
-{177}{}{Jelen pillantban nem.}
+{173}{}{JÃ³l kijÃ¶ssz az emberekkel?}
+{174}{}{Meggondoltad magad a lÃ©gtisztÃ­tÃ³ Ã¼gyÃ©ben?}
+{175}{}{Mit ajÃ¡nlasz cserÃ©be?}
+{176}{}{Rendben van, vÃ¡llalom.}
+{177}{}{Most nincs.}
 {178}{}{Nem.}
-{179}{}{Mi újság? Remélem, hamarosan elintézed a dolgot...}
-{180}{}{Minden a legjobb úton halad.}
-{181}{}{Sok a dolgom, még nem tudtam vele foglalkozni.}
-{182}{}{Nemsokára meglesz.}
-{183}{}{Megvannak az alkatrészek? Nagyszerû... Remélem, van védõruhád is. A gáz elég veszélyes.}
-{184}{}{Felkészültem, hogy lemenjek.}
+{179}{}{Mi ÃºjsÃ¡g? RemÃ©lem, hamarosan elintÃ©zed a dolgot...}
+{180}{}{Minden a legjobb Ãºton halad.}
+{181}{}{Sok a dolgom, mÃ©g nem tudtam vele foglalkozni.}
+{182}{}{NemsokÃ¡ra meglesz.}
+{183}{}{Megvannak az alkatrÃ©szek? NagyszerÅ±... RemÃ©lem, van vÃ©dÅ‘ruhÃ¡d is. A gÃ¡z elÃ©g veszÃ©lyes.}
+{184}{}{FelkÃ©szÃ¼ltem, hogy lemenjek.}
 {185}{}{Hamarosan lemegyek.}
-{186}{}{Megvannak az alkatrészek? Nagyszerû... Remélem, van védõruhád is. A gáz elég veszélyes.}
-{187}{}{Felkészültem, hogy lemenjek.}
+{186}{}{Megvannak az alkatrÃ©szek? NagyszerÅ±... RemÃ©lem, van vÃ©dÅ‘ruhÃ¡d is. A gÃ¡z elÃ©g veszÃ©lyes.}
+{187}{}{FelkÃ©szÃ¼ltem, hogy lemenjek.}
 {188}{}{Hamarosan lemegyek.}
-{189}{}{Megjavítottad? Csodás! Tudom, hogy ingyen vállaltad, de... ezt nem hagyhatom. A srácokkal összedobtunk egy keveset és ezt szereztük neked. Egy harci sörétes. Sok szerencsét, és még egyszer, kösz!}
-{190}{}{Nem gond. Kösz!}
-{191}{}{Megjavítottad? Csodás! Ahogy megegyeztünk, itt van, amivel még tartozom. Kösz még egyszer.}
+{189}{}{MegjavÃ­tottad? CsodÃ¡s! Tudom, hogy ingyen vÃ¡llaltad, de... ezt nem hagyhatom. A srÃ¡cokkal Ã¶sszedobtunk egy keveset Ã©s ezt szereztÃ¼k neked. Egy harci sÃ¶rÃ©tes. Sok szerencsÃ©t, Ã©s mÃ©g egyszer, kÃ¶sz!}
+{190}{}{Nem gond. KÃ¶sz!}
+{191}{}{MegjavÃ­tottad? CsodÃ¡s! Ahogy megegyeztÃ¼nk, itt van, amivel mÃ©g tartozom. KÃ¶sz mÃ©g egyszer.}
 {192}{}{Te mocsok! Most meghalsz!}
-{193}{}{Jó, jó. Kérlek, siess... a városnak kell a bánya.}
-{194}{}{Tiszta sor. Viszlát!}
-{195}{}{Ne sürgess már! Elfoglalt ember vagyok.}
-{196}{}{Sajnálom, Mr. Nagy és Csodás, de talán a város sorsa egy kicsivel fontosabb. Siess, légy szíves!}
-{197}{}{Rendben. Megcsinálom. Viszlát!}
-{198}{}{Ez volt az utolsó húzásod. Viszlát, hullajelölt!}
-{199}{}{Kérlek, siess! A bánya a városunk éltetõ ereje.}
-{200}{}{Rendben, rendben.}
-{201}{}{Hát, a legjobb, akivel errõl beszélhetsz, az Marcus, a banknál, vagy Steve, a város üdvözlõ embere.}
-{202}{}{Hmm. Rendben, kösz.}
+{193}{}{JÃ³, jÃ³. KÃ©rlek, siess... a vÃ¡rosnak kell a bÃ¡nya.}
+{194}{}{Tiszta sor. ViszlÃ¡t!}
+{195}{}{Ne sÃ¼rgess mÃ¡r! Elfoglalt ember vagyok.}
+{196}{}{SajnÃ¡lom, Mr. Nagy Ã©s CsodÃ¡s, de talÃ¡n a vÃ¡ros sorsa egy kicsivel fontosabb. Siess, lÃ©gy szÃ­ves!}
+{197}{}{Rendben. MegcsinÃ¡lom. ViszlÃ¡t!}
+{198}{}{Ez volt az utolsÃ³ hÃºzÃ¡sod. ViszlÃ¡t, hullajelÃ¶lt!}
+{199}{}{KÃ©rlek, siess! A bÃ¡nya a vÃ¡rosunk Ã©ltetÅ‘ ereje.}
+{200}{}{ElnÃ©zÃ©st, csupÃ¡n fÃ©lreÃ©rtÃ©s volt.}
+{201}{}{HÃ¡t, a legjobb, akivel errÅ‘l beszÃ©lhetsz, az Marcus, a banknÃ¡l, vagy Steve, a vÃ¡ros Ã¼dvÃ¶zlÅ‘ embere.}
+{202}{}{Hmm. Rendben, kÃ¶sz.}
 {203}{}{I'll go ask them, then.}
-{204}{}{Azt kell mondjam, hogy egész tûrhetõen. Persze... mehetnének jobban is.}
-{205}{}{Heh. Kösz az infót.}
+{204}{}{Azt kell mondjam, hogy egÃ©sz tÅ±rhetÅ‘en. Persze... mehetnÃ©nek jobban is.}
+{205}{}{Heh. KÃ¶sz az infÃ³t.}
 {206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
  something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
  far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
  from the other places around here... now those are some bastards.}
-{207}{}{Értem, kösz. Viszlát!}
-{300}{}{ dollár. Mit szólsz hozzá?}
-{301}{}{ dollár. Mit szólsz hozzá?}
-{302}{}{$}
-{381}{}{Elfoglalt nõ vagyok. Még nem tudtam vele foglalkozni.}
-{382}{}{Ne sürgess már! Elfoglalt nõ vagyok.}
-{383}{}{Sajnálom, Mrs. Nagy és Csodás, de talán a város sorsa egy kicsivel fontosabb. Siess, légy szíves!}
-{400}{}{Van nálam egy cetli, amin rajta van a neved. Az alagutakban találtam egy hullarakás mellett. Van hozzáfûznivalód?}
-{401}{}{Hé, én csak megkaptam azt az üzenetet. Menj, beszélj Francisszel, oké? Õ írta.}
-{402}{}{Ha benne voltál azoknak az embereknek a meggyilkolásában, szeretném tudni.}
-{403}{}{Rendben. Viszlát!}
-{404}{}{Nem! Csak védekezünk az összeesküvés ellen. Marcus hisz a törvényben és a bizonyítékok erejében, és ha tudta is, hogy azok az emberek veszélyesek, nem tudta, kik is õk. Õ túl becsületes, hogy bizonyítékot hamisítson. Az én feladatom, hogy távoltartsam Francist a bosszútól.}
-{405}{}{Ez túl jól hangzik. Megyek, beszélek Francisszel.}
-{406}{}{Tudtam, hogy Francis nem tud majd mit kezdeni a leleplezõdéssel. Tisztában volt a tettei kockázatával, de szerintem nem hitte, hogy elkaphatják. Végülis nem lesz semmi baja. Remélem, Broken Hillsnek sem.}
-{407}{}{Én is remélem. Lenne pár kérdésem.}
-{408}{}{Én is. Viszlát!}
+{207}{}{Ã‰rtem, kÃ¶sz. ViszlÃ¡t!}
+{300}{}{. Mit szÃ³lsz hozzÃ¡?}
+{301}{}{. Mit szÃ³lsz hozzÃ¡?}
+{302}{}{, }
+{381}{}{Elfoglalt nÅ‘ vagyok. MÃ©g nem tudtam vele foglalkozni.}
+{382}{}{Ne sÃ¼rgess mÃ¡r! Elfoglalt nÅ‘ vagyok.}
+{383}{}{SajnÃ¡lom, Mrs. Nagy Ã©s CsodÃ¡s, de talÃ¡n a vÃ¡ros sorsa egy kicsivel fontosabb. Siess, lÃ©gy szÃ­ves!}
+{400}{}{Van nÃ¡lam egy cetli, amin rajta van a neved. Az alagutakban talÃ¡ltam egy hullarakÃ¡s mellett. Van hozzÃ¡fÅ±znivalÃ³d?}
+{401}{}{HÃ©, Ã©n csak megkaptam azt az Ã¼zenetet. Menj, beszÃ©lj Francisszel, okÃ©? Å Ã­rta.}
+{402}{}{Ha benne voltÃ¡l azoknak az embereknek a meggyilkolÃ¡sÃ¡ban, szeretnÃ©m tudni.}
+{403}{}{Rendben. ViszlÃ¡t!}
+{404}{}{Nem! Csak vÃ©dekezÃ¼nk az Ã¶sszeeskÃ¼vÃ©s ellen. Marcus hisz a tÃ¶rvÃ©nyben Ã©s a bizonyÃ­tÃ©kok erejÃ©ben, Ã©s ha tudta is, hogy azok az emberek veszÃ©lyesek, nem tudta, kik is Å‘k. Å tÃºl becsÃ¼letes, hogy bizonyÃ­tÃ©kot hamisÃ­tson. Az Ã©n feladatom, hogy tÃ¡voltartsam Francist a bosszÃºtÃ³l.}
+{405}{}{Ez tÃºl jÃ³l hangzik. Megyek, beszÃ©lek Francisszel.}
+{406}{}{Tudtam, hogy Francis nem tud majd mit kezdeni a leleplezÅ‘dÃ©ssel. TisztÃ¡ban volt a tettei kockÃ¡zatÃ¡val, de szerintem nem hitte, hogy elkaphatjÃ¡k. VÃ©gÃ¼lis nem lesz semmi baja. RemÃ©lem, Broken Hillsnek sem.}
+{407}{}{Ã‰n is remÃ©lem. Lenne pÃ¡r kÃ©rdÃ©sem.}
+{408}{}{Ã‰n is. ViszlÃ¡t!}

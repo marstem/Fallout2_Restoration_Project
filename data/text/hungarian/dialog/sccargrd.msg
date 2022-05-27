@@ -1,12 +1,12 @@
-{100}{}{Egy újabb õr. Bizonyára tenyésztik õket, mert mindegyik tökugyanúgy néz ki.}
-{101}{}{Ismét egy ellenszenves õr.}
-{102}{}{Közelebbrõl is megszemléled, és meg vagy gyõzõdve róla, hogy ez egy õr.}
-{103}{}{Nincs engedélye itt tartózkodni.}
-{104}{}{Láthatnám a belépõjét?}
-{105}{}{Ez a terület a kormány fennhatósága alatt áll. Menjen tovább!}
-{106}{}{Szal maga az új ember, mi?}
-{107}{}{Ideje lenne beszélni Carlsonnal, ha még nem tette meg.}
-{108}{}{Mr. Carlson már várja önt.}
-{109}{}{Mr. Carlson most fogadja önt.}
-{110}{}{Remélem, fontos ügyben zaklatja Mr. Carlsont. Õ rendkívül elfoglalt ember.}
-{111}{}{Ott van benn. Azt ajánlom, ne maradjon túl sokáig!}
+{100}{}{Egy Ãºjabb Å‘r. BizonyÃ¡ra tenyÃ©sztik Å‘ket, mert mindegyik tÃ¶kugyanÃºgy nÃ©z ki.}
+{101}{}{IsmÃ©t egy ellenszenves Å‘r.}
+{102}{}{KÃ¶zelebbrÅ‘l is megszemlÃ©led, Ã©s meg vagy gyÅ‘zÅ‘dve rÃ³la, hogy ez egy Å‘r.}
+{103}{}{Nincs engedÃ©lye itt tartÃ³zkodni.}
+{104}{}{LÃ¡thatnÃ¡m a belÃ©pÅ‘jÃ©t?}
+{105}{}{Ez a terÃ¼let kormÃ¡nyfennhatÃ³sÃ¡g alatt Ã¡ll. Menjen tovÃ¡bb!}
+{106}{}{Szal maga az Ãºj ember, mi?}
+{107}{}{Ideje lenne beszÃ©lni Carlsonnal, ha mÃ©g nem tette meg.}
+{108}{}{Mr. Carlson mÃ¡r vÃ¡rja Ã¶nt.}
+{109}{}{Mr. Carlson most fogadja Ã¶nt.}
+{110}{}{RemÃ©lem, fontos Ã¼gyben zaklatja Mr. Carlsont. Å rendkÃ­vÃ¼l elfoglalt ember.}
+{111}{}{Ott van benn. Azt ajÃ¡nlom, ne maradjon tÃºl sokÃ¡ig!}

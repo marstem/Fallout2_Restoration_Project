@@ -1,197 +1,197 @@
-{100}{}{Egy óriási, rémítõen izmos fekete férfit látsz.}
-{101}{}{Ez itt Earl Marion, Redding város seriffje.}
-{102}{}{Ez itt egy igen masszív úriember. Áthatóan bámul rád.}
-{103}{}{Olyan vagy, mint egy taco vegyesköret nélkül.}
-{104}{}{Nincs segély! Tûnés!}
-{105}{}{Úgy nézel ki, mint egy rakás sótlan krumpli hús nélkül!}
+{100}{}{Egy Ã³riÃ¡si, rÃ©mÃ­tÅ‘en izmos fekete fÃ©rfit lÃ¡tsz.}
+{101}{}{Ez itt Earl Marion, Redding vÃ¡ros seriffje.}
+{102}{}{Ez itt egy igen masszÃ­v Ãºriember. ÃthatÃ³an bÃ¡mul rÃ¡d.}
+{103}{}{Olyan vagy, mint egy taco vegyeskÃ¶ret nÃ©lkÃ¼l.}
+{104}{}{Nincs segÃ©ly! TÅ±nÃ©s!}
+{105}{}{Ãšgy nÃ©zel ki, mint egy rakÃ¡s sÃ³tlan krumpli hÃºs nÃ©lkÃ¼l!}
 {106}{}{Kopj le, kutyuli!}
-{107}{}{Eridj tovább!}
-{108}{}{Szevasz! A nevem Earl Marion. Én vagyok itt a seriff. Ugye milyen szerfelett érdekfeszítõ? Mindegy, munka-munka.}
-{109}{}{Miben tudnék rajtad segíteni?}
-{110}{}{Szigorúan seriffként érdekelne: mi a szándékod ebben a városban?}
-{111}{}{Azé gyöttem ebbe a városba, mert szét kõ rúgnom pár segget, megkülönbenis e'fogyott a rágóm!}
-{112}{}{Nem csinálok én semmit rosszat. Éppen indulni készültem. Viszlát!}
-{113}{}{Üvözöllek, Felderítõ! Earl Marionnak hívnak, én vagyok a reddingi seriff. Örülök, hogy megtiszteled városunkat a jelenléteddel!}
-{114}{}{Üdv, Felderítõ! Miben állhat szolgálatodra Marion seriff?}
-{115}{}{Honnan tudtad, hogy Felderítõ vagyok?}
-{116}{}{Szigorúan seriffként érdekelne: mi a szándékod ebben a városban?}
-{117}{}{Tetszik ez a hely. Csak beköszönni jöttem, seriff. Késõbb még találkozunk! Viszlát!}
-{118}{}{Egyszerû! Oda van tetoválva a tarkódra.}
-{119}{}{De hát nincs is!}
-{120}{}{Tényleg?}
+{107}{}{MozgÃ¡s!}
+{108}{}{Szevasz! A nevem Earl Marion. Ã‰n vagyok itt a seriff. Ugye milyen szerfelett Ã©rdekfeszÃ­tÅ‘? Mindegy, munka-munka.}
+{109}{}{Miben tudnÃ©k rajtad segÃ­teni?}
+{110}{}{Mint seriffet kÃ©rdezem: mit csinÃ¡lsz ebben a vÃ¡rosban?}
+{111}{}{AzÃ© gyÃ¶ttem ebbe a vÃ¡rosba, mert szÃ©t kÅ‘ rÃºgnom pÃ¡r segget, megkÃ¼lÃ¶nbenis e'fogyott a rÃ¡gÃ³m!}
+{112}{}{Nem csinÃ¡lok Ã©n semmit rosszat. Ã‰ppen indulni kÃ©szÃ¼ltem. ViszlÃ¡t!}
+{113}{}{ÃœvÃ¶zÃ¶llek, FelderÃ­tÅ‘! Earl Marionnak hÃ­vnak, Ã©n vagyok a reddingi seriff. Ã–rÃ¼lÃ¶k, hogy megtiszteled vÃ¡rosunkat a jelenlÃ©teddel!}
+{114}{}{Ãœdv, FelderÃ­tÅ‘! Miben Ã¡llhat szolgÃ¡latodra Marion seriff?}
+{115}{}{Honnan tudtad, hogy FelderÃ­tÅ‘ vagyok?}
+{116}{}{Mint seriffet kÃ©rdezem: mit csinÃ¡lsz ebben a vÃ¡rosban?}
+{117}{}{Tetszik ez a hely. Csak bekÃ¶szÃ¶nni jÃ¶ttem, seriff. KÃ©sÅ‘bb mÃ©g talÃ¡lkozunk! ViszlÃ¡t!}
+{118}{}{EgyszerÅ±! Oda van tetovÃ¡lva a tarkÃ³dra.}
+{119}{}{De hÃ¡t nincs is!}
+{120}{}{TÃ©nyleg?}
 {121}{}{A francba! Azt hittem, ez titok!}
-{122}{}{Óhhh... Azt hittem, felismerted a titkos kézfogást...}
-{123}{}{(he-he) Ha hal lettél volna, mostanra már biztosan kifogtalak volna! Csak vicceltem! Komolyra fordítva a szót: az a dolgom, hogy ilyeneket is tudjak.}
-{124}{}{Ó, értem! Mi mással foglalkozol, mint seriff?}
-{125}{}{Még mindig kíváncsi vagyok, honnan jöttél rá...}
-{126}{}{Nyilván ezért vagy te a seriff, Earl! Viszlát!}
-{127}{}{Rendben, ha már mindenáron le akarod lõni a poént... Van egy-két barátom az ÚKK-ban. Nagyon jó barátaim. Mondhatnánk azt is, hogy vannak közös érdekeltségeink...}
-{128}{}{Öhm, izé... már értem. Csak kíváncsi voltam. És... seriffként mivel foglalkozol ebben a városban?}
-{129}{}{Milyen közös érdekeltségrõl van szó?}
-{130}{}{Ééértem. Na, akkor ideje útrakelnem! Viszlát!}
-{131}{}{Nem akartam, hogy ilyen könnyen rá lehessen jönni! Bárki ismerheti a kézfogást.}
-{132}{}{Ejha!}
-{133}{}{Többnyire a rendre vigyázok. Pontosabban vigyáznék a rendre, ha nem ment volna tropára a lábam...}
-{134}{}{Mint ahogy már korábban is mondtam, teljesen szétment a lábam, ezért nem tudom elvégezni a munkámat.}
-{135}{}{Mi történt a lábaddal?}
-{136}{}{Ez eléggé megnehezíti, hogy el tudd látni egy seriff feladatkörét.}
-{137}{}{Nem akarok tovább LÁBATLANKODNI... Hopsz! Mármint: szedem is a LÁBAIMAT... Viszlát!}
-{138}{}{Valamelyik nap elindultam, hogy találkozzak egy karavánnal, de gyorsan besötétedett, szóval úgy döntöttem, szundítok egyet. A következõ dolog, amire emlékszem az volt, hogy egy nyamvadt gekkó éppen próbálja megkajolni a térdkalácsomat. A fenébe, majdnem sikerült is neki! Még egy harapás, és végleg elveszthettem volna lábam!}
-{139}{}{A lábad még mindig rosszalkodik, nemde?}
+{122}{}{Ã“hhh... Azt hittem, felismerted a titkos kÃ©zfogÃ¡st...}
+{123}{}{(he-he) Ha hal lettÃ©l volna, mostanra mÃ¡r biztosan kifogtalak volna! Csak vicceltem! Komolyra fordÃ­tva a szÃ³t: az a dolgom, hogy ilyeneket is tudjak.}
+{124}{}{Ã“, Ã©rtem! Mi mÃ¡ssal foglalkozol, mint seriff?}
+{125}{}{MÃ©g mindig kÃ­vÃ¡ncsi vagyok, honnan jÃ¶ttÃ©l rÃ¡...}
+{126}{}{NyilvÃ¡n ezÃ©rt vagy te a seriff, Earl! ViszlÃ¡t!}
+{127}{}{Rendben, ha mÃ¡r mindenÃ¡ron le akarod lÅ‘ni a poÃ©nt... Van egy-kÃ©t barÃ¡tom az ÃšKK-ban. Nagyon jÃ³ barÃ¡taim. MondhatnÃ¡nk azt is, hogy vannak kÃ¶zÃ¶s Ã©rdekeltsÃ©geink...}
+{128}{}{Ã–hm, izÃ©... mÃ¡r Ã©rtem. Csak kÃ­vÃ¡ncsi voltam. Ã‰s... seriffkÃ©nt mivel foglalkozol ebben a vÃ¡rosban?}
+{129}{}{Milyen kÃ¶zÃ¶s Ã©rdekeltsÃ©grÅ‘l van szÃ³?}
+{130}{}{Ã‰Ã©Ã©rtem. Na, akkor ideje Ãºtrakelnem! ViszlÃ¡t!}
+{131}{}{Nem akartam, hogy ilyen kÃ¶nnyen rÃ¡ lehessen jÃ¶nni! BÃ¡rki ismerheti a kÃ©zfogÃ¡st.}
+{132}{}{Ã“.}
+{133}{}{TÃ¶bbnyire a rendre vigyÃ¡zok. Pontosabban vigyÃ¡znÃ©k a rendre, ha nem ment volna tropÃ¡ra a lÃ¡bam...}
+{134}{}{Mint ahogy mÃ¡r korÃ¡bban is mondtam, teljesen szÃ©tment a lÃ¡bam, ezÃ©rt nem tudom elvÃ©gezni a munkÃ¡mat.}
+{135}{}{Mi tÃ¶rtÃ©nt a lÃ¡baddal?}
+{136}{}{Ez elÃ©ggÃ© megnehezÃ­ti, hogy el tudd lÃ¡tni egy seriff feladatkÃ¶rÃ©t.}
+{137}{}{Nem akarok tovÃ¡bb LÃBATLANKODNI... Hopsz! MÃ¡rmint: szedem is a LÃBAIMAT... ViszlÃ¡t!}
+{138}{}{Valamelyik nap elindultam, hogy talÃ¡lkozzak egy karavÃ¡nnal, de gyorsan besÃ¶tÃ©tedett, szÃ³val Ãºgy dÃ¶ntÃ¶ttem, szundÃ­tok egyet. A kÃ¶vetkezÅ‘ dolog, amire emlÃ©kszem az volt, hogy egy nyamvadt gekkÃ³ Ã©ppen prÃ³bÃ¡lja megkajolni a tÃ©rdkalÃ¡csomat. A fenÃ©be, majdnem sikerÃ¼lt is neki! MÃ©g egy harapÃ¡s, Ã©s vÃ©gleg elveszthettem volna lÃ¡bam!}
+{139}{}{A lÃ¡bad mÃ©g mindig rosszalkodik, nemde?}
 {140}{}{Well, I wasn't much of a dancer before this happened, and I reckon I won't be afterwards, neither.
  I can gimp around, but Doc Johnson said I better not if'n I want it to heal right. Sure could use some
  help, though.}
-{141}{}{Jelen pillanatban nem sok mindent tudok elintézni, fõleg, hogy a lábam így tönkrement. Még jó ideig nyugton kell maradnom, ahogy azt Johnson doki tanácsolta. Miben tudnék segíteni?}
-{142}{}{Mos'meg mi a fészkes fene van?}
+{141}{}{Jelen pillanatban nem sok mindent tudok elintÃ©zni, fÅ‘leg, hogy a lÃ¡bam Ã­gy tÃ¶nkrement. MÃ©g jÃ³ ideig nyugton kell maradnom, ahogy azt Johnson doki tanÃ¡csolta. Miben tudnÃ©k segÃ­teni?}
+{142}{}{Mos'meg mi a fÃ©szkes fene van?}
 {143}{}{Ki az a Johnson doki?}
-{144}{}{Segíthetek valamiben, seriff?}
+{144}{}{SegÃ­thetek valamiben, seriff?}
 {145}{}{Ha nincs otthon a macska...}
-{146}{}{Nem akarlak tovább feltartani. Szükséged van a pihenésre. Viszlát!}
-{147}{}{A jó öreg "Nemfáj" Johnson doki a városunk orvosa. Ha fáj a fogad, vagy eltört valamid, õ biztosan talpra tud állítani... Sõt, még orvosságot is árul! Mindenfélét, ha érted, mire gondolok... *minden* nyavalyára tud valamit.}
-{148}{}{Úgy látszik, nagyon rendes kis emberke lehet. Hol találom?}
-{149}{}{Érdekes... Hadd kérdezzek még valami mást is, Marion seriff!}
-{150}{}{Kösz! Még visszanézek! Viszlát!}
-{151}{}{Ja, rengeteg dologban hasznát tudnám venni a segítségnek. Amolyan részidõs jelleggel. Tényleg jó fizetést lehet érte kapni, és közben még Redding városáért is sokat tehet az ember.}
-{152}{}{Tényleg sokat? Mennyire sok az a sok?}
-{153}{}{Hogyan tudnálak téged kisegíteni?}
-{154}{}{Felderítõként nem tehetek egyebet érted, minthogy kisegítelek, ameddig csak kell.}
-{155}{}{Nem hinném, hogy most a segítségedre tudnék lenni, seriff. Talán majd máskor. Viszlát!}
+{146}{}{Nem akarlak tovÃ¡bb feltartani. SzÃ¼ksÃ©ged van a pihenÃ©sre. ViszlÃ¡t!}
+{147}{}{A jÃ³ Ã¶reg "NemfÃ¡j" Johnson doki a vÃ¡rosunk orvosa. Ha fÃ¡j a fogad, vagy eltÃ¶rt valamid, Å‘ biztosan talpra tud Ã¡llÃ­tani... SÅ‘t, mÃ©g orvossÃ¡got is Ã¡rul! MindenfÃ©lÃ©t, ha Ã©rted, mire gondolok... *minden* nyavalyÃ¡ra tud valamit.}
+{148}{}{Ãšgy lÃ¡tszik, nagyon rendes kis emberke lehet. Hol talÃ¡lom?}
+{149}{}{Ã‰rdekes... Hadd kÃ©rdezzek mÃ©g valami mÃ¡st is, Marion seriff!}
+{150}{}{KÃ¶sz! MÃ©g visszanÃ©zek! ViszlÃ¡t!}
+{151}{}{Ja, rengeteg dologban hasznÃ¡t tudnÃ¡m venni a segÃ­tsÃ©gnek. Amolyan rÃ©szidÅ‘s jelleggel. TÃ©nyleg jÃ³ fizetÃ©st lehet Ã©rte kapni, Ã©s kÃ¶zben mÃ©g Redding vÃ¡rosÃ¡Ã©rt is sokat tehet az ember.}
+{152}{}{TÃ©nyleg sokat? Mennyire sok az a sok?}
+{153}{}{Hogyan tudnÃ¡lak tÃ©ged kisegÃ­teni?}
+{154}{}{FelderÃ­tÅ‘kÃ©nt nem tehetek egyebet Ã©rted, minthogy kisegÃ­telek, ameddig csak kell.}
+{155}{}{Nem hinnÃ©m, hogy most a segÃ­tsÃ©gedre tudnÃ©k lenni, seriff. TalÃ¡n majd mÃ¡skor. ViszlÃ¡t!}
 {156}{}{I wouldn't get any bright ideas. I can still whoop any two of you, with or without a good leg.}
-{157}{}{Hóka! Csak vicceltem! Hadd kérdezzek akkor már valami mást...}
-{158}{}{Igennn, te és egy hadsereg?}
-{159}{}{Csak UGRATTALAK... Öhm, izé... ühm... Viszlát, seriff!}
-{160}{}{A doki rendelõje innentõl nyugatra található, a belvárosban. Minden új beteget szívesen lát.}
-{161}{}{Értem. Talán akkor kérdezõsködnék más felõl is.}
-{162}{}{Akkor talán megyek, és meg is látogatom õt. Viszlát, seriff!}
-{163}{}{Természetesen a város összes lakója egyformán szükségesnek tartja a törvényt és a rendet, és mindannyiunkban él némi aggodalom Redding jövõjét illetõen.}
-{164}{}{Mi a helyzet Redding jövõjét illetõen?}
-{165}{}{Nem tûnik lehetetlennek, ha te vagy a seriff. Mondca, mi is a seriff teendõje ebben a városban?}
-{166}{}{Hogyne! Redding nem képes egyedül fennmaradni az örökkévalóságig! Bizonyos esetekben nagyon jól jönne, ha lennének támogatóink. Egyszerûen csak biztos szeretnék lenni benne, hogyha szükséges, ott áll mögöttünk valaki. A *megfelelõ* partner.}
-{167}{}{Vannak nem megfelelõek is?}
-{168}{}{Hidd el, hogy vannak. New Reno egy szempillantás alatt elhordaná Redding összes aranyát, Menedékváros pedig másodrangú polgárként kezelne minket, nem tekintene tényleges partnernek.}
-{169}{}{Úgy véled, az ÚKK eltér tõlük?}
-{170}{}{El bizony. Az ÚKK képviseli a pusztaság jövõjét. "Együtt egy szebb jövõért!" - ahogy az a plakátjaikra írva vagyon. Azt akarják, hogy csatlakozzunk hozzájuk, nem pedig azt, hogy behódoljunk nekik.}
-{171}{}{Értem. De te hogyan tudsz hatni Reddingre?}
-{172}{}{Mindenkinek megvan a maga látásmódja, seriff. Viszlát!}
-{173}{}{A tényleges cselekvés ideje még nem jött el, de hagyom, hogy az emberek megtudhassák, nagy baj esetén kire számíthatnak igazán. Ennyi egyelõre épp elég.}
-{174}{}{Érdekes! Még kérdezek valami mást is.}
-{175}{}{Hmmm... Mindenesetre érdemes rajta elgondolkodni. Viszlát!}
-{176}{}{El sem tudom hinni, hogy ennyire el vagy tájolva! Túl sok ponyvaregényt olvastál! Figyelj csak: hajlandó vagy birokra kelni, vagy csak álldogálsz és nézel ki a fejedbõl?}
-{177}{}{Rendben, seriff! Fegyvert elõ!}
-{178}{}{Nnaaa... nem akartalak megbántani! Csak jópofiztam. Esetleg kérdeznék tõled valami mást.}
-{179}{}{Ühm, he-he... csak poén volt! Szerintem csak nézek ki a fejembõl, köszönöm! Öhm... viszlát!.. seriff!}
+{157}{}{HÃ³ka! Csak vicceltem! Hadd kÃ©rdezzek akkor mÃ¡r valami mÃ¡st...}
+{158}{}{Igennn, te Ã©s egy hadsereg?}
+{159}{}{Csak UGRATTALAK... Ã–hm, izÃ©... Ã¼hm... ViszlÃ¡t, seriff!}
+{160}{}{A doki rendelÅ‘je innentÅ‘l nyugatra talÃ¡lhatÃ³, a belvÃ¡rosban. Minden Ãºj beteget szÃ­vesen lÃ¡t.}
+{161}{}{Ã‰rtem. TalÃ¡n akkor kÃ©rdezÅ‘skÃ¶dnÃ©k mÃ¡s felÅ‘l is.}
+{162}{}{Akkor talÃ¡n megyek, Ã©s meg is lÃ¡togatom Å‘t. ViszlÃ¡t, seriff!}
+{163}{}{TermÃ©szetesen a vÃ¡ros Ã¶sszes lakÃ³ja egyformÃ¡n szÃ¼ksÃ©gesnek tartja a tÃ¶rvÃ©nyt Ã©s a rendet, Ã©s mindannyiunkban Ã©l nÃ©mi aggodalom Redding jÃ¶vÅ‘jÃ©t illetÅ‘en.}
+{164}{}{Mi a helyzet Redding jÃ¶vÅ‘jÃ©t illetÅ‘en?}
+{165}{}{Nem tÅ±nik lehetetlennek, ha te vagy a seriff. Mondca, mi is a seriff teendÅ‘je ebben a vÃ¡rosban?}
+{166}{}{Hogyne! Redding nem kÃ©pes egyedÃ¼l fennmaradni az Ã¶rÃ¶kkÃ©valÃ³sÃ¡gig! Bizonyos esetekben nagyon jÃ³l jÃ¶nne, ha lennÃ©nek tÃ¡mogatÃ³ink. EgyszerÅ±en csak biztos szeretnÃ©k lenni benne, hogyha szÃ¼ksÃ©ges, ott Ã¡ll mÃ¶gÃ¶ttÃ¼nk valaki. A *megfelelÅ‘* partner.}
+{167}{}{Vannak nem megfelelÅ‘ek is?}
+{168}{}{Hidd el, hogy vannak. New Reno egy szempillantÃ¡s alatt elhordanÃ¡ Redding Ã¶sszes aranyÃ¡t, MenedÃ©kvÃ¡ros pedig mÃ¡sodrangÃº polgÃ¡rkÃ©nt kezelne minket, nem tekintene tÃ©nyleges partnernek.}
+{169}{}{Ãšgy vÃ©led, az ÃšKK eltÃ©r tÅ‘lÃ¼k?}
+{170}{}{El bizony. Az ÃšKK kÃ©pviseli a pusztasÃ¡g jÃ¶vÅ‘jÃ©t. "EgyÃ¼tt egy szebb jÃ¶vÅ‘Ã©rt!" - ahogy az a plakÃ¡tjaikra Ã­rva vagyon. Azt akarjÃ¡k, hogy csatlakozzunk hozzÃ¡juk, nem pedig azt, hogy behÃ³doljunk nekik.}
+{171}{}{Ã‰rtem. De te hogyan tudsz hatni Reddingre?}
+{172}{}{Mindenkinek megvan a maga lÃ¡tÃ¡smÃ³dja, seriff. ViszlÃ¡t!}
+{173}{}{A tÃ©nyleges cselekvÃ©s ideje mÃ©g nem jÃ¶tt el, de hagyom, hogy az emberek megtudhassÃ¡k, nagy baj esetÃ©n kire szÃ¡mÃ­thatnak igazÃ¡n. Ennyi egyelÅ‘re Ã©pp elÃ©g.}
+{174}{}{Ã‰rdekes. Na, hadd kÃ©rdezzek valami mÃ¡st!}
+{175}{}{Hmmm... Mindenesetre Ã©rdemes rajta elgondolkodni. ViszlÃ¡t!}
+{176}{}{El sem tudom hinni, hogy ennyire el vagy tÃ¡jolva! TÃºl sok ponyvaregÃ©nyt olvastÃ¡l! Figyelj csak: hajlandÃ³ vagy birokra kelni, vagy csak Ã¡lldogÃ¡lsz Ã©s nÃ©zel ki a fejedbÅ‘l?}
+{177}{}{Rendben, seriff! Fegyvert elÅ‘!}
+{178}{}{Nnaaa... nem akartalak megbÃ¡ntani! Csak jÃ³pofiztam. Esetleg kÃ©rdeznÃ©k tÅ‘led valami mÃ¡st.}
+{179}{}{Ãœhm, he-he... csak poÃ©n volt! Szerintem csak nÃ©zek ki a fejembÅ‘l, kÃ¶szÃ¶nÃ¶m! Ã–hm... viszlÃ¡t!.. seriff!}
 {180}{}{Ja. Sejtettem, hogy ilyen vagy.}
-{181}{}{He-he-he... Viszlát, Marion!}
-{182}{}{Mit tudsz te rólam? Na, elég... Busásan megfizetsz ezért! Védd magad!}
-{183}{}{A fizetség munkánként változik... de kezdésképp van egy egyszerû feladatom a számodra. Csupán el kell intézni egy illegális lakásfoglalót. Fizetek neked 100 dolcsit, ha megcsinálod.}
-{184}{}{Ez nem hangzik annyira keménynek. Mondj még róla valamit!}
-{185}{}{Nincs idõm most ilyenekre, seriff! Viszlát!}
-{186}{}{Ez az, Felderítõ, ezt már szeretem! Az özvegy Rooney-nénak van egy kis lakbérhátraléka. A háza nyugatra található, a sikátor másik oldalán. Nincs más dolgod, csak ki kell tenni a szûrét - hacsak nem tudja kipengetni a hiányzó lakbért, amivel Ascorti-nak tartozik.}
-{187}{}{A megboldogult Rooney felesége elmaradt a lakbér fizetésével. A háza nyugat felé van a sikátor másik felén. Ha nem tudja kifizetni a hátralékot, amivel Ascorti polgármester úrnak tartozik, ki kell lakoltatnod.}
-{188}{}{Íme, még egyszer: Az özvegy Rooney-né már jó ideje nem fizeti a lakbért. A háza nincs messze innen, csak nyugatra kell menned, át a sikátoron. Nem sok tennivalód van - rakd ki a házból, de csak akkor, ha nem tudja kifizetni a tartozását Ascorti polgármester úrnak!}
+{181}{}{He-he-he... ViszlÃ¡t, Marion!}
+{182}{}{Mit tudsz te rÃ³lam? Na, elÃ©g... BusÃ¡san megfizetsz ezÃ©rt! VÃ©dd magad!}
+{183}{}{A fizetsÃ©g munkÃ¡nkÃ©nt vÃ¡ltozik... de kezdÃ©skÃ©pp van egy egyszerÅ± feladatom a szÃ¡modra. CsupÃ¡n el kell intÃ©zni egy illegÃ¡lis lakÃ¡sfoglalÃ³t. Fizetek neked 100 dolcsit, ha megcsinÃ¡lod.}
+{184}{}{Ez nem hangzik annyira kemÃ©nynek. Mondj mÃ©g rÃ³la valamit!}
+{185}{}{Nincs idÅ‘m most ilyenekre, seriff! ViszlÃ¡t!}
+{186}{}{Ez az, FelderÃ­tÅ‘, ezt mÃ¡r szeretem! Az Ã¶zvegy Rooney-nÃ©nak van egy kis lakbÃ©rhÃ¡tralÃ©ka. A hÃ¡za nyugatra talÃ¡lhatÃ³, a sikÃ¡tor mÃ¡sik oldalÃ¡n. Nincs mÃ¡s dolgod, csak ki kell tenni a szÅ±rÃ©t - hacsak nem tudja kipengetni a hiÃ¡nyzÃ³ lakbÃ©rt, amivel Ascorti-nak tartozik.}
+{187}{}{A megboldogult Rooney felesÃ©ge elmaradt a lakbÃ©r fizetÃ©sÃ©vel. A hÃ¡za nyugat felÃ© van a sikÃ¡tor mÃ¡sik felÃ©n. Ha nem tudja kifizetni a hÃ¡tralÃ©kot, amivel Ascorti polgÃ¡rmester Ãºrnak tartozik, ki kell lakoltatnod.}
+{188}{}{Ãme, mÃ©g egyszer: Az Ã¶zvegy Rooney-nÃ© mÃ¡r jÃ³ ideje nem fizeti a lakbÃ©rt. A hÃ¡za nincs messze innen, csak nyugatra kell menned, Ã¡t a sikÃ¡toron. Nem sok tennivalÃ³d van - rakd ki a hÃ¡zbÃ³l, de csak akkor, ha nem tudja kifizetni a tartozÃ¡sÃ¡t Ascorti polgÃ¡rmester Ãºrnak!}
 {189}{}{Mennyivel tartozik Ascorti-nak?}
-{190}{}{Mint tisztességes Felderítõ, örömmel segítek a törvény és a rend fenntartásában! Biztos lehetsz, hogy elvégzem a munkát!}
-{191}{}{Ascorti? Ki az?}
-{192}{}{Nem hangzik rosszul. Elvállalom.}
-{193}{}{Nem, ez nem nekem való. Viszlát, seriff!}
-{194}{}{Nagyszerû! Kösz a segítséget! Jer' vissza hozzám, ha végeztél, és majd meglátjuk, mit tudunk még elõbányászni a számodra.}
-{195}{}{Rendben. Viszlát, seriff!}
-{196}{}{Fogalmam sincs róla. De fogadok, hogy õ meg tudja mondani neked. Elvállalod?}
-{197}{}{Rendben, legyen. Megcsinálom.}
-{198}{}{Ascorti? Ki az?}
-{199}{}{Jelen pillanatban nem akarom elvállalni ezt a munkát. Viszlát, seriff!}
-{200}{}{Ascorti Redding polgármestere. Övé Ascorti kaszinója, itt szemben, északra. Nos, akkor segítesz nekem?}
-{201}{}{Mennyi pénzzel tartozik neki?}
-{202}{}{Rendben, legyen. Megcsinálom.}
-{203}{}{Sajnos, most nem tudok neked segíteni. Viszlát, seriff!}
-{204}{}{Szomorúan hallom ezt. Pedig rengeteg hasznát tudnám venni a segítségednek. Nos, ha mégis meggondolnád magad, akkor tudod, merre találsz...}
-{205}{}{Mielõtt indulnék, szeretnék még valamit kérdezni.}
-{206}{}{Hogyne, seriff! Viszlát!}
-{207}{}{Ó, még egy apróság! Már majdnem elfelejtettem! Nesze, itt egy jelvény. Még szükséged lehet rá.}
-{208}{}{Kösz, seriff! Megtisztelve érzem magam. Nem teszek olyat, amit te ne látnál jónak!}
-{209}{}{Heh, most már sokkal fontosabbnak érzem magam. Viszlát!}
-{210}{}{Hahó! Kár, hogy korábban nem segítettél ki. Azért tértél vissza, mert meggondoltad magad?}
-{211}{}{Talán... Mondd el még egyszer, mit is kell tennem!}
-{212}{}{Neeem, csak sétálgatok a városban. Még egyszer: viszlát!}
-{213}{}{Örülök, hogy újra látlak! De mielõtt fizetnék neked, el kell rendezned az özvegy Rooney-né ügyét.}
-{214}{}{Naná! Öhm, még egyszer tisztázzuk csak... mit is kellene csinálnom?}
-{215}{}{Ó, rendben... Viszlát!}
-{216}{}{Szépen megoldottad az özvegy Rooney-né ügyet! Tessék, itt van a 100 dolcsid. Készen állsz a következõ munkára? Újból nagy szükségem lenne a segítségre.}
-{217}{}{Kíváncsi vagyok, mit kéne tennem.}
-{218}{}{Kötve hiszem, seriff! Viszlát!}
-{219}{}{Ügyesen elintézted Rooney-né ügyét... Barátokat is szereztél, és megóvtad a békét! Köszönet érte! Jöhet a következõ megbízatás? Szerintem feküdni fog neked.}
-{220}{}{Kíváncsi vagyok, mit kéne tennem.}
-{221}{}{Most nem, seriff! Viszlát!}
-{222}{}{Elég csúnya módon bántál el az özvegy Rooney-néval! Az isten szerelmére, õ csak egy ártatlan kisnyugdíjas volt! Mi a francnak kellett megölni? Fogd a pénzed... és legközelebb lehetõleg ne viszkessen ennyire az ujjad a ravaszon!}
-{223}{}{Kíváncsi vagyok, mit kéne tennem.}
-{224}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{225}{}{Nem tettél túl sokat annak érdekében, hogy feloszlasd a kocsmai veredõket. Nem fizethetek azért, amit nem jól végeztél el. A lábam még mindig tropára áll. Készen állsz egy újabb munkára?}
-{226}{}{Kíváncsi vagyok, mit kéne tennem.}
-{227}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{228}{}{Mi tagadás, azzal, hogy lecsuktad az összes Morningstaros bányászt, kétségkívül elõrébb jutottunk, de a fõnökük, Dan McGrew nem lesz túlságosan boldog tõle. Itt a béred. Van kedved egy újabb feladathoz?}
-{229}{}{Kíváncsi vagyok, mit kéne tennem.}
-{230}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{231}{}{Marge alaposan le fog szidni, hogy a bányászait hûvösre tetted! Mondjuk, bejött... Nesze, fogd a pénzed! Mit szólnál egy újabb munkához?}
-{232}{}{Kíváncsi vagyok, mit kéne tennem.}
-{233}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{234}{}{Nem vagyok benne biztos, hogy jó ötlet volt minden egyes nyamvadt bányászt dutyiba vágnod. Bár ragyogóan megoldotta a helyzetet. Tessék, a pénzed. Fel vagy készülve a következõ megbízatásodra?}
-{235}{}{Kíváncsi vagyok, mit kéne tennem.}
-{236}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{237}{}{Te mindent ilyen véresen szeretsz? Ezúttal átestél a ló túloldalára! Ezért most csak a fizetésed felét kapod. Talán ez majd megtanít valamire: senkit sem kell megölni egy kocsmai bunyóban. Legközelebb lehetõleg figyelj erre! Jöhet a következõ feladat?}
-{238}{}{Kíváncsi vagyok, mit kéne tennem.}
-{239}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{240}{}{Üdvözöllek! Biztosra veszem, hogy örömmel veszed kézbe Lou lányainak ügyét, mielõtt még valami õrült ki nem nyírja mindegyiket. Ha sikeresen felgöngyölítetted az ügyet, gyere vissza! }
-{241}{}{Már dolgozom rajta, seriff. Viszlát!}
-{242}{}{Megyek, és megnézem, mit tehetek. Egybõl neki is látok. Viszlát!}
-{243}{}{Hagyod, hogy az a szemét tetûláda, aki elintézte a csajt, meglógjon? Hogy lehetsz ekkora idióta? Adok neked egy újabb munkát, de ezért semmiképpen nem fogok fizetni egy vasat sem!}
-{244}{}{Majd én megmondom neked, ki az idióta, te bádogcsillagos, lúdtalpas zöldfülû!}
-{245}{}{Kíváncsi vagyok, mit kéne tennem.}
-{246}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{247}{}{Hála istennek, hogy sikerült elkapnod Hakeswillt, azt a szemét gyilkost! Majd megmutatjuk neki, milyen nálunk az igazságszolgáltatás - és szépen fellógatjuk! Szép munka volt! Itt a fizetséged. Készen állsz még egy munkára?}
-{248}{}{Kíváncsi vagyok, mit kéne tennem.}
-{249}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{250}{}{Nem kételkedem, hogy a rohadék, aki bántotta a lányokat, megérdemelte, amit kapott; de ezzel a húzással bizony nem sok barátot szereztél a bányászok körében. Szívesen végignéztek volna egy szaftos tárgyalást, mielõtt felakasztjuk a fickót. Persze a munka így is elvégzettnek tekinthetõ. Fogd a pénzed! Készen állsz a következõ feladatra?}
-{251}{}{Kíváncsi vagyok, mit kéne tennem.}
-{252}{}{Nem, most nem vállalom el a munkát, seriff. Viszlát!}
-{253}{}{Bizonyára ismered Hûtõs Mortont. Nos, el kellene intézni õt. Túlságosan veszélyes, hogy engedjük a város közelében tanyázni! Adok neked ezer dollárt, ha elmész a Nagy-Wanamingo bányába - innen nincs is messze, kicsit nyugatra - és megölöd a Hûtõst meg a bandáját. Nagyon gonosz ember, jobb lesz, ha vigyázol vele!}
-{254}{}{Ez jól hangzik. Máris indulok!}
-{255}{}{Nem hiszem, hogy képes lennék az egész bandát elintézni. Sajnálom, de ez nem nekem való. Viszlát!}
-{256}{}{Megcsináltad! Megölted a Hûtõst! Gratulálok, gratulálok! Itt van az 1000 dolláros vérdíj. Persze a fivérei nem fognak nagyon örülni neked, ha megtudják... - de hát a fenébe, ez is a munka része.}
-{257}{}{Hé, azt nem montad, hogy a Hûtõsnek testvérei is vannak...}
+{190}{}{Mint tisztessÃ©ges FelderÃ­tÅ‘, Ã¶rÃ¶mmel segÃ­tek a tÃ¶rvÃ©ny Ã©s a rend fenntartÃ¡sÃ¡ban! Biztos lehetsz, hogy elvÃ©gzem a munkÃ¡t!}
+{191}{}{Ascorti? Az meg ki?}
+{192}{}{Nem hangzik rosszul. ElvÃ¡llalom.}
+{193}{}{Nem, ez nem nekem valÃ³. ViszlÃ¡t, seriff!}
+{194}{}{NagyszerÅ±! KÃ¶sz a segÃ­tsÃ©get! Jer' vissza hozzÃ¡m, ha vÃ©geztÃ©l, Ã©s majd meglÃ¡tjuk, mit tudunk mÃ©g elÅ‘bÃ¡nyÃ¡szni a szÃ¡modra.}
+{195}{}{Rendben. ViszlÃ¡t, seriff!}
+{196}{}{Fogalmam sincs rÃ³la. De fogadok, hogy Å‘ meg tudja mondani neked. ElvÃ¡llalod?}
+{197}{}{Rendben, meglesz.}
+{198}{}{Ascorti? Az meg ki?}
+{199}{}{Jelen pillanatban nem akarom elvÃ¡llalni ezt a munkÃ¡t. ViszlÃ¡t, seriff!}
+{200}{}{Ascorti Redding polgÃ¡rmestere. Ã–vÃ© Ascorti kaszinÃ³ja, itt szemben, Ã©szakra. Nos, akkor segÃ­tesz nekem?}
+{201}{}{Mennyi pÃ©nzzel tartozik neki?}
+{202}{}{Rendben, meglesz.}
+{203}{}{Sajnos, most nem tudok neked segÃ­teni. ViszlÃ¡t, seriff!}
+{204}{}{SzomorÃºan hallom ezt. Pedig rengeteg hasznÃ¡t tudnÃ¡m venni a segÃ­tsÃ©gednek. Nos, ha mÃ©gis meggondolnÃ¡d magad, akkor tudod, merre talÃ¡lsz...}
+{205}{}{MielÅ‘tt indulnÃ©k, szeretnÃ©k mÃ©g valamit kÃ©rdezni.}
+{206}{}{Hogyne, seriff! ViszlÃ¡t!}
+{207}{}{Ã“, mÃ©g egy aprÃ³sÃ¡g! MÃ¡r majdnem elfelejtettem! Nesze, itt egy jelvÃ©ny. MÃ©g szÃ¼ksÃ©ged lehet rÃ¡.}
+{208}{}{KÃ¶sz, seriff! Megtisztelve Ã©rzem magam. Nem teszek olyat, amit te ne lÃ¡tnÃ¡l jÃ³nak!}
+{209}{}{Heh, most mÃ¡r sokkal fontosabbnak Ã©rzem magam. ViszlÃ¡t!}
+{210}{}{HahÃ³! KÃ¡r, hogy korÃ¡bban nem segÃ­tettÃ©l ki. AzÃ©rt tÃ©rtÃ©l vissza, mert meggondoltad magad?}
+{211}{}{TalÃ¡n... Mondd el mÃ©g egyszer, mit is kell tennem!}
+{212}{}{Neeem, csak sÃ©tÃ¡lgatok a vÃ¡rosban. MÃ©g egyszer: viszlÃ¡t!}
+{213}{}{Ã–rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tlak! De mielÅ‘tt fizetnÃ©k neked, el kell rendezned az Ã¶zvegy Rooney-nÃ© Ã¼gyÃ©t.}
+{214}{}{NanÃ¡! Ã–hm, mÃ©g egyszer tisztÃ¡zzuk csak... mit is kellene csinÃ¡lnom?}
+{215}{}{Ã“, rendben... ViszlÃ¡t!}
+{216}{}{SzÃ©pen megoldottad az Ã¶zvegy Rooney-nÃ© Ã¼gyet! TessÃ©k, itt van a 100 dolcsid. KÃ©szen Ã¡llsz a kÃ¶vetkezÅ‘ munkÃ¡ra? ÃšjbÃ³l nagy szÃ¼ksÃ©gem lenne a segÃ­tsÃ©gre.}
+{217}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{218}{}{KÃ¶tve hiszem, seriff! ViszlÃ¡t!}
+{219}{}{Ãœgyesen elintÃ©zted Rooney-nÃ© Ã¼gyÃ©t... BarÃ¡tokat is szereztÃ©l, Ã©s megÃ³vtad a bÃ©kÃ©t! KÃ¶szÃ¶net Ã©rte! JÃ¶het a kÃ¶vetkezÅ‘ megbÃ­zatÃ¡s? Szerintem fekÃ¼dni fog neked.}
+{220}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{221}{}{Most nem, seriff! ViszlÃ¡t!}
+{222}{}{ElÃ©g csÃºnya mÃ³don bÃ¡ntÃ¡l el az Ã¶zvegy Rooney-nÃ©val! Az isten szerelmÃ©re, Å‘ csak egy Ã¡rtatlan kisnyugdÃ­jas volt! Mi a francnak kellett megÃ¶lni? Fogd a pÃ©nzed... Ã©s legkÃ¶zelebb lehetÅ‘leg ne viszkessen ennyire az ujjad a ravaszon!}
+{223}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{224}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{225}{}{Nem tettÃ©l tÃºl sokat annak Ã©rdekÃ©ben, hogy feloszlasd a kocsmai veredÅ‘ket. Nem fizethetek azÃ©rt, amit nem jÃ³l vÃ©geztÃ©l el. A lÃ¡bam mÃ©g mindig tropÃ¡ra Ã¡ll. KÃ©szen Ã¡llsz egy Ãºjabb munkÃ¡ra?}
+{226}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{227}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{228}{}{Mi tagadÃ¡s, azzal, hogy lecsuktad az Ã¶sszes Morningstaros bÃ¡nyÃ¡szt, kÃ©tsÃ©gkÃ­vÃ¼l elÅ‘rÃ©bb jutottunk, de a fÅ‘nÃ¶kÃ¼k, Dan McGrew nem lesz tÃºlsÃ¡gosan boldog tÅ‘le. Itt a bÃ©red. Van kedved egy Ãºjabb feladathoz?}
+{229}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{230}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{231}{}{Marge alaposan le fog szidni, hogy a bÃ¡nyÃ¡szait hÅ±vÃ¶sre tetted! Mondjuk, bejÃ¶tt... Nesze, fogd a pÃ©nzed! Mit szÃ³lnÃ¡l egy Ãºjabb munkÃ¡hoz?}
+{232}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{233}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{234}{}{Nem vagyok benne biztos, hogy jÃ³ Ã¶tlet volt minden egyes nyamvadt bÃ¡nyÃ¡szt dutyiba vÃ¡gnod. BÃ¡r ragyogÃ³an megoldotta a helyzetet. TessÃ©k, a pÃ©nzed. Fel vagy kÃ©szÃ¼lve a kÃ¶vetkezÅ‘ megbÃ­zatÃ¡sodra?}
+{235}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{236}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{237}{}{Te mindent ilyen vÃ©resen szeretsz? EzÃºttal Ã¡testÃ©l a lÃ³ tÃºloldalÃ¡ra! EzÃ©rt most csak a fizetÃ©sed felÃ©t kapod. TalÃ¡n ez majd megtanÃ­t valamire: senkit sem kell megÃ¶lni egy kocsmai bunyÃ³ban. LegkÃ¶zelebb lehetÅ‘leg figyelj erre! JÃ¶het a kÃ¶vetkezÅ‘ feladat?}
+{238}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{239}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{240}{}{ÃœdvÃ¶zÃ¶llek! Biztosra veszem, hogy Ã¶rÃ¶mmel veszed kÃ©zbe Lou lÃ¡nyainak Ã¼gyÃ©t, mielÅ‘tt mÃ©g valami Å‘rÃ¼lt ki nem nyÃ­rja mindegyiket. Ha sikeresen felgÃ¶ngyÃ¶lÃ­tetted az Ã¼gyet, gyere vissza! }
+{241}{}{MÃ¡r dolgozom rajta, seriff. ViszlÃ¡t!}
+{242}{}{Megyek, Ã©s megnÃ©zem, mit tehetek. EgybÅ‘l neki is lÃ¡tok. ViszlÃ¡t!}
+{243}{}{Hagyod, hogy az a szemÃ©t tetÅ±lÃ¡da, aki elintÃ©zte a csajt, meglÃ³gjon? Hogy lehetsz ekkora idiÃ³ta? Adok neked egy Ãºjabb munkÃ¡t, de ezÃ©rt semmikÃ©ppen nem fogok fizetni egy vasat sem!}
+{244}{}{Majd Ã©n megmondom neked, ki az idiÃ³ta, te bÃ¡dogcsillagos, lÃºdtalpas zÃ¶ldfÃ¼lÅ±!}
+{245}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{246}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{247}{}{HÃ¡la istennek, hogy sikerÃ¼lt elkapnod Hakeswillt, azt a szemÃ©t gyilkost! Majd megmutatjuk neki, milyen nÃ¡lunk az igazsÃ¡gszolgÃ¡ltatÃ¡s - Ã©s szÃ©pen fellÃ³gatjuk! SzÃ©p munka volt! Itt a fizetsÃ©ged. KÃ©szen Ã¡llsz mÃ©g egy munkÃ¡ra?}
+{248}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{249}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{250}{}{Nem kÃ©telkedem, hogy a rohadÃ©k, aki bÃ¡ntotta a lÃ¡nyokat, megÃ©rdemelte, amit kapott; de ezzel a hÃºzÃ¡ssal bizony nem sok barÃ¡tot szereztÃ©l a bÃ¡nyÃ¡szok kÃ¶rÃ©ben. SzÃ­vesen vÃ©gignÃ©ztek volna egy szaftos tÃ¡rgyalÃ¡st, mielÅ‘tt felakasztjuk a fickÃ³t. Persze a munka Ã­gy is elvÃ©gzettnek tekinthetÅ‘. Fogd a pÃ©nzed! KÃ©szen Ã¡llsz a kÃ¶vetkezÅ‘ feladatra?}
+{251}{}{Mondj valamit a kÃ¶vetkezÅ‘ feladat mibenlÃ©tÃ©rÅ‘l...}
+{252}{}{Most nincs szÃ¼ksÃ©gem egy Ãºjabb munkÃ¡ra, seriff. ViszlÃ¡t!}
+{253}{}{BizonyÃ¡ra ismered HÅ±tÅ‘s Mortont. Nos, el kellene intÃ©zni Å‘t. TÃºlsÃ¡gosan veszÃ©lyes, hogy engedjÃ¼k a vÃ¡ros kÃ¶zelÃ©ben tanyÃ¡zni! Adok neked ezer dollÃ¡rt, ha elmÃ©sz a Nagy-Wanamingo bÃ¡nyÃ¡ba - innen nincs is messze, kicsit nyugatra - Ã©s megÃ¶lÃ¶d a HÅ±tÅ‘st meg a bandÃ¡jÃ¡t. Nagyon gonosz ember, jobb lesz, ha vigyÃ¡zol vele!}
+{254}{}{Ez jÃ³l hangzik. MÃ¡ris indulok!}
+{255}{}{Nem hiszem, hogy kÃ©pes lennÃ©k az egÃ©sz bandÃ¡t elintÃ©zni. SajnÃ¡lom, de ez nem nekem valÃ³. ViszlÃ¡t!}
+{256}{}{MegcsinÃ¡ltad! MegÃ¶lted a HÅ±tÅ‘st! GratulÃ¡lok, gratulÃ¡lok! Itt van az 1000 dollÃ¡ros vÃ©rdÃ­j. Persze a fivÃ©rei nem fognak nagyon Ã¶rÃ¼lni neked, ha megtudjÃ¡k... - de hÃ¡t a fenÃ©be, ez is a munka rÃ©sze.}
+{257}{}{HÃ©, azt nem montad, hogy a HÅ±tÅ‘snek testvÃ©rei is vannak...}
 {258}{}{Didn't I? Must have plum darn slipped my mind. Yup, that's what it did. Well, he's got three
  older brothers... even meaner than he was, from what I hear. Let's see... Toad, Newt and Snake Morton, if
  I remember aright. Heck, you know how tall tales can get. By the way, keep that badge I gave you. You
  earned it... Sheriff. (He smiles.)}
-{259}{}{Ööö... igen. Hogyne. Hát, ideje, hogy menjek. Van egy találkozóm, valahol máshol. Jó messze Reddingtõl. Viszlát!}
-{260}{}{Csak három újabb strigula a fegyveremen. Semmi gond. Minden jót, seriff!}
-{261}{}{Sajnálom, hogy ezt kell hallanom, pedig szívesen vennék minden segítséget. Mindenesetre, ha meggondolnád magad, bármikor visszanézhetsz.}
-{262}{}{Meglesz, seriff! Viszlát!}
-{263}{}{Majd gondolkodom még rajta, seriff. Viszlát!}
-{264}{}{Úgy hallottam, hogy a Morningstar és a Kokoweef bányászai szép kis kalamajkát okoztak Lou kocsmájában. Fizetek neked 300 dollárt, ha szétválasztod õket. Pillanatok alatt ott lehetsz. Nincs messze, csak át kell menni az utca másik oldalára, és elsétálni egészen a város nyugati széléig.}
-{265}{}{Rögvest nekiesek, seriff. Viszlát!}
-{266}{}{Nem nagyon szeretnék belekeveredni semmiféle bunyóba. Még a végén megsérülnék. Viszlát, seriff!}
-{267}{}{Valaki megkéselt egy kurvát Lou kocsmájában. Itt van szemben, a belvárosban. Eredj, járj utána, ki mûvelte ezt, és állítsd elõ! 500 dollár üti a markodat, ha meg tudod csinálni. Az üzlet és a város nyugalma is megsínyli az ilyesmit.}
-{268}{}{El fogom kapni, bárki is tette. Nem okozhat gondot. Viszlát, seriff!}
-{269}{}{Nem éppen az én esetem. Sokkal jobb lesz, ha most inkább megyek. Viszlát, seriff!}
-{270}{}{Van egy gonosztevõ, akit Hûtõs Morton-nak hívnak, és az innen nyugatra fekvõ Nagy-Wanamingo bánya romjai közt verte fel a tanyáját. Szeretném, ha leszámolnál vele. Légy nagyon óvatos! Igen agyafúrt ember, és minden bizonnyal mindig vele van a bandájából néhány ember. 1000 dollárt kapsz, ha megszabadítasz ettõl a gazfickótól.}
-{271}{}{Miért hívják õt Hûtõsnek?}
-{272}{}{Bízhatsz bennem, seriff!}
-{273}{}{Gondolj amit akarsz, de az ilyen "devoir" nem az esetem, "mon frére". Viszlát!}
-{274}{}{A neve Morton, de mindenki csak Hûtõsnek hívja, mer' folyton hidegre teszi az embereket. Elintézed õt, vagy sem?}
-{275}{}{Óóóhhh... Jaj! Ez kibírhatatlan! Fáj... fáááj...}
+{259}{}{Ã–Ã¶Ã¶... igen. Hogyne. HÃ¡t, ideje, hogy menjek. Van egy talÃ¡lkozÃ³m, valahol mÃ¡shol. JÃ³ messze ReddingtÅ‘l. ViszlÃ¡t!}
+{260}{}{Csak hÃ¡rom Ãºjabb strigula a fegyveremen. Semmi gond. Minden jÃ³t, seriff!}
+{261}{}{SajnÃ¡lom, hogy ezt kell hallanom, pedig szÃ­vesen vennÃ©k minden segÃ­tsÃ©get. Mindenesetre, ha meggondolnÃ¡d magad, bÃ¡rmikor visszanÃ©zhetsz.}
+{262}{}{Meglesz, seriff! ViszlÃ¡t!}
+{263}{}{Majd gondolkodom mÃ©g rajta, seriff. ViszlÃ¡t!}
+{264}{}{Ãšgy hallottam, hogy a Morningstar Ã©s a Kokoweef bÃ¡nyÃ¡szai szÃ©p kis kalamajkÃ¡t okoztak Lou kocsmÃ¡jÃ¡ban. Fizetek neked 300 dollÃ¡rt, ha szÃ©tvÃ¡lasztod Å‘ket. Pillanatok alatt ott lehetsz. Nincs messze, csak Ã¡t kell menni az utca mÃ¡sik oldalÃ¡ra, Ã©s elsÃ©tÃ¡lni egÃ©szen a vÃ¡ros nyugati szÃ©lÃ©ig.}
+{265}{}{RÃ¶gvest nekiesek, seriff. ViszlÃ¡t!}
+{266}{}{Nem nagyon szeretnÃ©k belekeveredni semmifÃ©le bunyÃ³ba. MÃ©g a vÃ©gÃ©n megsÃ©rÃ¼lnÃ©k. ViszlÃ¡t, seriff!}
+{267}{}{Valaki megkÃ©selt egy kurvÃ¡t Lou kocsmÃ¡jÃ¡ban. Itt van szemben, a belvÃ¡rosban. Eredj, jÃ¡rj utÃ¡na, ki mÅ±velte ezt, Ã©s Ã¡llÃ­tsd elÅ‘! 500 dollÃ¡r Ã¼ti a markodat, ha meg tudod csinÃ¡lni. Az Ã¼zlet Ã©s a vÃ¡ros nyugalma is megsÃ­nyli az ilyesmit.}
+{268}{}{El fogom kapni, bÃ¡rki is tette. Nem okozhat gondot. ViszlÃ¡t, seriff!}
+{269}{}{Nem Ã©ppen az Ã©n esetem. Sokkal jobb lesz, ha most inkÃ¡bb megyek. ViszlÃ¡t, seriff!}
+{270}{}{Van egy gonosztevÅ‘, akit HÅ±tÅ‘s Morton-nak hÃ­vnak, Ã©s az innen nyugatra fekvÅ‘ Nagy-Wanamingo bÃ¡nya romjai kÃ¶zt verte fel a tanyÃ¡jÃ¡t. SzeretnÃ©m, ha leszÃ¡molnÃ¡l vele. LÃ©gy nagyon Ã³vatos! Igen agyafÃºrt ember, Ã©s minden bizonnyal mindig vele van a bandÃ¡jÃ¡bÃ³l nÃ©hÃ¡ny ember. 1000 dollÃ¡rt kapsz, ha megszabadÃ­tasz ettÅ‘l a gazfickÃ³tÃ³l.}
+{271}{}{MiÃ©rt hÃ­vjÃ¡k Å‘t HÅ±tÅ‘snek?}
+{272}{}{BÃ­zhatsz bennem, seriff!}
+{273}{}{Gondolj amit akarsz, de az ilyen "devoir" nem az esetem, "mon frÃ©re". ViszlÃ¡t!}
+{274}{}{A neve Morton, de mindenki csak HÅ±tÅ‘snek hÃ­vja, mer' folyton hidegre teszi az embereket. ElintÃ©zed Å‘t, vagy sem?}
+{275}{}{Ã“Ã³Ã³hhh... Jaj! Ez kibÃ­rhatatlan! FÃ¡j... fÃ¡Ã¡Ã¡j...}
 {276}{}{Rendicsek!}
-{277}{}{Nem kockáztatom meg, hogy engem is hidegre tegyen. Viszlát!}
-{278}{}{Hé, ezt nem én találtam ki! Lehet, hogy egy rossz szóvicc , de legalább még egy érv szól amellett, hogy megdögöljön. Mit mondasz?}
+{277}{}{Nem kockÃ¡ztatom meg, hogy engem is hidegre tegyen. ViszlÃ¡t!}
+{278}{}{HÃ©, ezt nem Ã©n talÃ¡ltam ki! Lehet, hogy egy rossz szÃ³vicc , de legalÃ¡bb mÃ©g egy Ã©rv szÃ³l amellett, hogy megdÃ¶gÃ¶ljÃ¶n. Mit mondasz?}
 {279}{}{Rajta vagyok, seriff. Megoldjuk.}
-{280}{}{Egy cseppet veszélyesnek tûnik a számomra. Viszlát!}
-{281}{}{Feloszlattad már a kocsmai verekedést? Hajrá, ess neki! Sokaknak bántódása eshet még, ha nem tolod oda rögtön a segged! Kapcsolj rá!}
-{282}{}{Ööö... persze, hogyne, seriff!}
-{283}{}{Majd meglátom, mit tehetek. Viszlát, seriff.}
-{284}{}{Hé, neked még van egy megoldatlan feladatod! Akkor gyere csak vissza, ha hidegre tetted azt a Hûtõst!}
-{285}{}{Csak szereztem némi utánpótlást. Már megyek is. Viszlát!}
-{286}{}{Már suhanok is arrafelé, seriff. Viszlát!}
+{280}{}{Egy cseppet veszÃ©lyesnek tÅ±nik a szÃ¡momra. ViszlÃ¡t!}
+{281}{}{Feloszlattad mÃ¡r a kocsmai verekedÃ©st? HajrÃ¡, ess neki! Sokaknak bÃ¡ntÃ³dÃ¡sa eshet mÃ©g, ha nem tolod oda rÃ¶gtÃ¶n a segged! Kapcsolj rÃ¡!}
+{282}{}{Ã–Ã¶Ã¶... persze, hogyne, seriff!}
+{283}{}{Majd meglÃ¡tom, mit tehetek. ViszlÃ¡t, seriff.}
+{284}{}{HÃ©, neked mÃ©g van egy megoldatlan feladatod! Akkor gyere csak vissza, ha hidegre tetted azt a HÅ±tÅ‘st!}
+{285}{}{Csak szereztem nÃ©mi utÃ¡npÃ³tlÃ¡st. MÃ¡r megyek is. ViszlÃ¡t!}
+{286}{}{MÃ¡r suhanok is arrafelÃ©, seriff. ViszlÃ¡t!}
 {287}{}{Well, I don't know how you did it, but that's the quietest I've ever heard the Malamute Saloon.
  Here's your money. Ready for your next job?}
-{300}{}{Ez a munka lehet, hogy egy kicsit húzós neked. Akkor gyere vissza, ha már kicsivel több tapasztalattal rendelkezel...}
+{300}{}{Ez a munka lehet, hogy egy kicsit hÃºzÃ³s neked. Akkor gyere vissza, ha mÃ¡r kicsivel tÃ¶bb tapasztalattal rendelkezel...}
 {301}{}{Okay, Sheriff.}
 {302}{}{There is nothing more that can be done with this leg. Only time will heal it.}

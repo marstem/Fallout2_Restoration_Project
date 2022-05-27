@@ -1,233 +1,233 @@
-{100}{}{Egy strici a sok közül.}
-{150}{}{A férfi egész jólöltözött. A ruhája visszaveri a környezõ fényeket, szinte elvakítja az embert.}
-{151}{}{A fickónak olyan harsány ruhája van, hogy majd kiüti a szemed.}
-{152}{}{A fickó strici. Nagyon divatos akar lenni.}
-{153}{}{Õ egy strici. A férfi feléd biccent.}
-{154}{}{Ez az illetõ egy strici. Elég extravagánsnak tûnik, hogy az év stricije lehessen.}
-{155}{}{Ez az illetõ strici. A ruhája olyan harsány, hogy majd kiüti a szemed.}
-{200}{}{Ember, hallottam, hogy megsemmisítetted az Enklávét. Most már akár jöhetne egy kis etyepetye is, nem igaz?}
-{201}{}{Asziszed, hogy az Enklávé kiiktatásával már vagy valaki? Lószart!}
-{202}{}{Hela, embör! Csak egyetlen jobb dolog van egy fúrótorony szétszívatásánál, ha a te fúrótornyodat szívják szét. Remélem, vágod a témát!}
-{220}{}{Hallom, megsemmisítetted az Enklávét, picinyem. Most már akár nekem is dolgozhatnál!}
-{221}{}{A nõ lenyomja az Enklávét, és máris azt hiszi, hogy övé a világ... meg a tököm.}
-{222}{}{Egy ilyen szexi Enklávé-gyakó nõ, mint te, egy RAHEDLI pénzt kereshetne ebben a városban...}
-{230}{}{Asszony, nehogy lenyeld a pénzem...}
-{231}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{232}{}{Szajha, nehogy lenyúlj...}
-{233}{}{Jól van, ne állj meg! Séta tovább!}
-{234}{}{Valami akcióra vágysz?}
-{235}{}{Hogyhogy nem cipeled el valamelyik csajomat filmezni, tesó?}
-{236}{}{Ha igazi partnert akarsz, próbáld ki az egyik csajomat a filmedben.}
-{237}{}{Tutajos kell? Csak szólj!}
-{238}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
-{239}{}{Mikor vonsz be az üzletbe, mozisztár úr?}
-{240}{}{Engedd, hogy a kamerák elõtt nyomuljak veled. Megmutatom, milyen az igazi sztár!}
-{241}{}{Én is megcsinálom, amit te, ugyanazt a csajt fektetem le, mint te, ráadásul jobban meg lesz velem elégedve.}
-{242}{}{Hagynod kéne, hogy megtanítsak egy-két fogást, tesó.}
-{243}{}{Van itt egy csaj, akit mindenképpen ki kéne próbálnod. Igazi pihe-puha feneke van.}
-{244}{}{Hallgass rám, ember! Két évig én voltam az év stricije.}
-{245}{}{Nem értem, hogy lettél sztár...}
-{260}{}{Asszony, nehogy lenyeld a pénzem...}
-{261}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{262}{}{Szajha, nehogy lenyúlj...}
-{263}{}{Jól van, ne állj meg! Séta tovább!}
-{264}{}{Még az a pihe-puha fenék!}
-{265}{}{Bébi, gyere már közelebb, hadd simizzem már meg azt a pihe-puha fenekedet!}
-{266}{}{::Fütyül::}
-{267}{}{::Szájával a "francba" szót formázza::}
-{268}{}{Fogsz mostanában táncolni a kaszinóban, édes húsom?}
-{269}{}{Ha igazi partnerre vágysz, próbálj ki engem, kedvesem!}
-{270}{}{Mikor vonsz be az üzletbe, mozisztár kisasszony?}
-{271}{}{Engedd, hogy a kamerák elõtt nyomuljak veled! Megmutatom, milyen az igazi sztár!}
-{272}{}{Bármikor jobban megfektetlek, mint valaha megfektettek.}
-{273}{}{Hadd tanítsak egy-két fogást, asszony!}
-{274}{}{Fenébe, az ilyen dögös testet be kéne tiltani!}
-{275}{}{Asszony, kész csoda, hogy az aszfalt nem olvad meg az ilyen lábak alatt.}
-{276}{}{Gyere, dolgozz nekem, asszony! Két éven át én voltam az év stricije!}
-{277}{}{Bébi, hadd simizzem már meg azt a pihe-puha fenekedet!}
+{100}{}{Egy strici a sok kÃ¶zÃ¼l.}
+{150}{}{A fÃ©rfi egÃ©sz jÃ³lÃ¶ltÃ¶zÃ¶tt. A ruhÃ¡ja visszaveri a kÃ¶rnyezÅ‘ fÃ©nyeket, szinte elvakÃ­tja az embert.}
+{151}{}{A fickÃ³nak olyan harsÃ¡ny ruhÃ¡ja van, hogy majd kiÃ¼ti a szemed.}
+{152}{}{A fickÃ³ strici. Nagyon divatos akar lenni.}
+{153}{}{Å egy strici. A fÃ©rfi felÃ©d biccent.}
+{154}{}{Ez az illetÅ‘ egy strici. ElÃ©g extravagÃ¡nsnak tÅ±nik, hogy az Ã©v stricije lehessen.}
+{155}{}{Ez az illetÅ‘ strici. A ruhÃ¡ja olyan harsÃ¡ny, hogy majd kiÃ¼ti a szemed.}
+{200}{}{Ember, hallottam, hogy megsemmisÃ­tetted az EnklÃ¡vÃ©t. Most mÃ¡r akÃ¡r jÃ¶hetne egy kis etyepetye is, nem igaz?}
+{201}{}{Asziszed, hogy az EnklÃ¡vÃ© kiiktatÃ¡sÃ¡val mÃ¡r vagy valaki? LÃ³szart!}
+{202}{}{Hela, embÃ¶r! Csak egyetlen jobb dolog van egy fÃºrÃ³torony szÃ©tszÃ­vatÃ¡sÃ¡nÃ¡l, ha a te fÃºrÃ³tornyodat szÃ­vjÃ¡k szÃ©t. RemÃ©lem, vÃ¡god a tÃ©mÃ¡t!}
+{220}{}{Hallom, megsemmisÃ­tetted az EnklÃ¡vÃ©t, picinyem. Most mÃ¡r akÃ¡r nekem is dolgozhatnÃ¡l!}
+{221}{}{A nÅ‘ lenyomja az EnklÃ¡vÃ©t, Ã©s mÃ¡ris azt hiszi, hogy Ã¶vÃ© a vilÃ¡g... meg a tÃ¶kÃ¶m.}
+{222}{}{Egy ilyen szexi EnklÃ¡vÃ©-gyakÃ³ nÅ‘, mint te, egy RAHEDLI pÃ©nzt kereshetne ebben a vÃ¡rosban...}
+{230}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{231}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{232}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{233}{}{JÃ³l van, ne Ã¡llj meg! SÃ©ta tovÃ¡bb!}
+{234}{}{Valami akciÃ³ra vÃ¡gysz?}
+{235}{}{Hogyhogy nem cipeled el valamelyik csajomat filmezni, tesÃ³?}
+{236}{}{Ha igazi partnert akarsz, prÃ³bÃ¡ld ki az egyik csajomat a filmedben.}
+{237}{}{Tutajos kell? Csak szÃ³lj!}
+{238}{}{Ezek nem rabszolgÃ¡k, hanem profik, hallod-e...}
+{239}{}{Mikor vonsz be az Ã¼zletbe, mozisztÃ¡r Ãºr?}
+{240}{}{Engedd, hogy a kamerÃ¡k elÅ‘tt nyomuljak veled. Megmutatom, milyen az igazi sztÃ¡r!}
+{241}{}{Ã‰n is megcsinÃ¡lom, amit te, ugyanazt a csajt fektetem le, mint te, rÃ¡adÃ¡sul jobban meg lesz velem elÃ©gedve.}
+{242}{}{Hagynod kÃ©ne, hogy megtanÃ­tsak egy-kÃ©t fogÃ¡st, tesÃ³.}
+{243}{}{Van itt egy csaj, akit mindenkÃ©ppen ki kÃ©ne prÃ³bÃ¡lnod. Igazi pihe-puha feneke van.}
+{244}{}{Hallgass rÃ¡m, ember! KÃ©t Ã©vig Ã©n voltam az Ã©v stricije.}
+{245}{}{Nem Ã©rtem, hogy lettÃ©l sztÃ¡r...}
+{260}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{261}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{262}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{263}{}{JÃ³l van, ne Ã¡llj meg! SÃ©ta tovÃ¡bb!}
+{264}{}{PrÃ³bÃ¡ld ki azt a pihe-puha feneket!}
+{265}{}{BÃ©bi, hadd tapizzam meg azt a kis pihe-puha fenekedet.}
+{266}{}{::FÃ¼tyÃ¼l::}
+{267}{}{::Ajkaival a "francba" szÃ³t formÃ¡zza::}
+{268}{}{Fogsz mostanÃ¡ban tÃ¡ncolni a kaszinÃ³ban, Ã©des hÃºsom?}
+{269}{}{Ha igazi partnerre vÃ¡gysz, prÃ³bÃ¡lj ki engem, kedvesem!}
+{270}{}{Mikor vonsz be az Ã¼zletbe, mozisztÃ¡r kisasszony?}
+{271}{}{Engedd, hogy a kamerÃ¡k elÅ‘tt nyomuljak veled! Megmutatom, milyen az igazi sztÃ¡r!}
+{272}{}{BÃ¡rmikor jobban megfektetlek, mint valaha megfektettek.}
+{273}{}{Hadd tanÃ­tsak egy-kÃ©t fogÃ¡st, asszony!}
+{274}{}{FenÃ©be, az ilyen dÃ¶gÃ¶s testet be kÃ©ne tiltani!}
+{275}{}{Asszony, kÃ©sz csoda, hogy az aszfalt nem olvad meg az ilyen lÃ¡bak alatt.}
+{276}{}{Gyere, dolgozz nekem, asszony! KÃ©t Ã©ven Ã¡t Ã©n voltam az Ã©v stricije!}
+{277}{}{BÃ©bi, had nyomkodjam mÃ¡r meg a kis pihe-puha fenekedet!}
 {278}{}{Francbaaaa...}
-{290}{}{Asszony, nehogy lenyeld a pénzem...}
-{291}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{292}{}{Szajha, nehogy lenyúlj...}
-{293}{}{Valami akcióra vágysz?}
-{294}{}{Valami akcióra vágysz? Befizetlek egy potyamenetre, tesó.}
-{295}{}{Gesztusként elviheted az egyik nõmet egy egész éjszakára.}
-{296}{}{Gyere ide, barátom, van itt egy lány a számodra!}
-{297}{}{A családodnak pont egy magamfajta ember kell, hogy ne legyen hiány jányokban...}
-{298}{}{Frankón nézel ki, ember, frankón...}
-{299}{}{Jó az öltönyöd, fiúúúka...}
-{300}{}{Csak szójjá, én majd vigyázok rád, tesó!}
-{301}{}{Rám számíthatsz, tesó.}
-{302}{}{Te vagy itt a menõ, a NAGY menõ, hallod-e!}
-{303}{}{Hallgass rám, ember! Két évig én voltam az év stricije.}
-{304}{}{Figyuzzatok, itt jön a Gengszter...}
-{305}{}{Itt jön a Nagy ember...}
-{320}{}{Asszony, nehogy lenyeld a pénzem...}
-{321}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{322}{}{Szajha, nehogy lenyúlj...}
-{323}{}{Ki ez a szééééépséges hölgy, akit lát a szemem?}
-{324}{}{Francba, a nõ, akit szeretek, egy tõzsgyökeres bûnözõ.}
-{325}{}{Jól nézel ki, húgi, nagyon jól.}
-{326}{}{Szép öltönyöd van, asszony!}
-{327}{}{Haláli fosatósan öltözködsz, tetszik!}
-{328}{}{Csak szólj, én majd vigyázok rád, húgom!}
-{329}{}{Rám számíthatsz, húgi.}
-{330}{}{Tetszik a hollófekete hajad, meg a gengszter-stílusod, asszony!}
-{350}{}{Asszony, nehogy lenyeld a pénzem...}
-{351}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{352}{}{Szajha, nehogy lenyúlj...}
-{353}{}{Egy kis akcióra vágysz, bajnok?}
-{354}{}{Egy kis akcióra vágysz, bajnok? Meghívlak egy menetre!}
-{355}{}{Gesztusként elviheted az egyik nõmet egy egész éjszakára.}
-{356}{}{Gyere ide, barátom, van itt egy lány a számodra!}
-{357}{}{Én nem Robbin' Givens-ekkel traktállak... én jó nõket hozok, elhiheted.}
-{358}{}{Jól nézel ki, bajnok, nagyon jól.}
+{290}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{291}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{292}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{293}{}{Valami akciÃ³ra vÃ¡gysz?}
+{294}{}{Valami akciÃ³ra vÃ¡gysz? Befizetlek egy potyamenetre, tesÃ³.}
+{295}{}{GesztuskÃ©nt elviheted az egyik nÅ‘met egy egÃ©sz Ã©jszakÃ¡ra.}
+{296}{}{Gyere ide, barÃ¡tom, van itt egy lÃ¡ny a szÃ¡modra!}
+{297}{}{A csalÃ¡dodnak pont egy magamfajta ember kell, hogy ne legyen hiÃ¡ny jÃ¡nyokban...}
+{298}{}{FrankÃ³n nÃ©zel ki, ember, frankÃ³n...}
+{299}{}{JÃ³ az Ã¶ltÃ¶nyÃ¶d, fiÃºÃºÃºka...}
+{300}{}{Csak szÃ³jjÃ¡, Ã©n majd vigyÃ¡zok rÃ¡d, tesÃ³!}
+{301}{}{RÃ¡m szÃ¡mÃ­thatsz, tesÃ³.}
+{302}{}{Te vagy itt a menÅ‘, a NAGY menÅ‘, hallod-e!}
+{303}{}{Hallgass rÃ¡m, ember! KÃ©t Ã©vig Ã©n voltam az Ã©v stricije.}
+{304}{}{Figyuzzatok, itt jÃ¶n a Gengszter...}
+{305}{}{Itt jÃ¶n a Nagy ember...}
+{320}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{321}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{322}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{323}{}{Ki ez a szÃ©Ã©Ã©Ã©Ã©psÃ©ges hÃ¶lgy, akit lÃ¡t a szemem?}
+{324}{}{Francba, a nÅ‘, akit szeretek, egy tÅ‘zsgyÃ¶keres bÅ±nÃ¶zÅ‘.}
+{325}{}{JÃ³l nÃ©zel ki, asszony, nagyon jÃ³l!}
+{326}{}{SzÃ©p Ã¶ltÃ¶nyÃ¶d van, asszony!}
+{327}{}{HalÃ¡li fosatÃ³san Ã¶ltÃ¶zkÃ¶dsz, tetszik!}
+{328}{}{Csak szÃ³jjÃ¡, Ã©n majd vigyÃ¡zok rÃ¡d, hÃºgi!}
+{329}{}{RÃ¡m szÃ¡mÃ­thatsz, hÃºgi.}
+{330}{}{Tetszik a hollÃ³fekete hajad, meg a gengszter-stÃ­lusod, asszony!}
+{350}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{351}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{352}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{353}{}{Egy kis akciÃ³ra vÃ¡gysz, bajnok?}
+{354}{}{Egy kis akciÃ³ra vÃ¡gysz, bajnok? MeghÃ­vlak egy menetre!}
+{355}{}{GesztuskÃ©nt elviheted az egyik nÅ‘met egy egÃ©sz Ã©jszakÃ¡ra.}
+{356}{}{Gyere ide, barÃ¡tom, van itt egy lÃ¡ny a szÃ¡modra!}
+{357}{}{Ã‰n nem Robbin' Givens-ekkel traktÃ¡llak... Ã©n jÃ³ nÅ‘ket hozok, elhiheted.}
+{358}{}{JÃ³l nÃ©zel ki, bajnok, nagyon jÃ³l.}
 {359}{}{Nehogy cserben hagyj a ringben, hallod-e!}
-{360}{}{100 dolcsit tettem rád. Nehogy csalódást okozz!}
-{361}{}{Kell egy edzõpartner éjszakára, bajnok? Van itt egy nagyon aranyos darab...}
-{362}{}{Csak szólj, én majd vigyázok rád, bajnok!}
-{363}{}{Rám számíthatsz, bajnok.}
-{364}{}{Hallgass rám, bajnok! Két éven át voltam az év stricije.}
-{365}{}{Itt jön a bajnok!}
-{366}{}{Itt jön a Nagy ember...}
-{380}{}{Asszony, nehogy lenyeld a pénzem...}
-{381}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{382}{}{Szajha, nehogy lenyúlj...}
-{383}{}{Ki ez a szééééépséges hölgy, akit lát a szemem?}
-{384}{}{Fenébe, a nõ, akit szeretek, férfiakat ver.}
-{385}{}{Jól nézel ki, húgi, nagyon jól.}
-{386}{}{Szép öltönyöd van, asszony!}
-{387}{}{Haláli fosatósan öltözködsz, tetszik!}
-{388}{}{Csak szólj, én majd vigyázok rád, húgom!}
-{389}{}{Rám számíthatsz, húgi.}
-{390}{}{Te vagy a nõk nõje, a királynõ, a mindenkit ütõ bajnok. }
+{360}{}{100 dolcsit tettem rÃ¡d. Nehogy csalÃ³dÃ¡st okozz!}
+{361}{}{Kell egy edzÅ‘partner Ã©jszakÃ¡ra, bajnok? Van itt egy nagyon aranyos darab...}
+{362}{}{Csak szÃ³lj, Ã©n majd vigyÃ¡zok rÃ¡d, bajnok!}
+{363}{}{RÃ¡m szÃ¡mÃ­thatsz, bajnok.}
+{364}{}{Hallgass rÃ¡m, bajnok! KÃ©t Ã©ven Ã¡t voltam az Ã©v stricije.}
+{365}{}{Itt jÃ¶n a bajnok!}
+{366}{}{Itt jÃ¶n a Nagy ember...}
+{380}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{381}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{382}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{383}{}{Ki ez a szÃ©Ã©Ã©Ã©Ã©psÃ©ges hÃ¶lgy, akit lÃ¡t a szemem?}
+{384}{}{FenÃ©be, a nÅ‘, akit szeretek, fÃ©rfiakat ver.}
+{385}{}{JÃ³l nÃ©zel ki, asszony, nagyon jÃ³l!}
+{386}{}{SzÃ©p Ã¶ltÃ¶nyÃ¶d van, asszony!}
+{387}{}{HalÃ¡li fosatÃ³san Ã¶ltÃ¶zkÃ¶dsz, tetszik!}
+{388}{}{Csak szÃ³jjÃ¡, Ã©n majd vigyÃ¡zok rÃ¡d, hÃºgi!}
+{389}{}{RÃ¡m szÃ¡mÃ­thatsz, hÃºgi.}
+{390}{}{Te vagy a nÅ‘k nÅ‘je, a kirÃ¡lynÅ‘, a mindenkit Ã¼tÅ‘ bajnok. }
 {391}{}{Nehogy cserben hagyj a ringben, hallod-e!}
-{392}{}{100 dolcsit tettem rád, húgom. Nehogy csalódást okozz!}
-{393}{}{Nagyon tetszik a hollófekete hajad, meg a ravasz bal horgod!}
-{410}{}{Asszony, nehogy lenyeld a pénzem...}
-{411}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{412}{}{Szajha, nehogy lenyúlj...}
-{413}{}{Valami akcióra vágysz?}
-{414}{}{Kettõtökre eléggé ráférne egy kis hancúrozás.}
-{415}{}{Hela, Myron! Mizújs?}
-{416}{}{Hela, Myron! Nem kell egy kis társaság éjszakára? Van egy új csajom számodra...}
-{417}{}{Hé srácok, csak nem... hancúrozni jöttetek?}
-{418}{}{Sehol nem találsz édesebb lánykákat.}
-{419}{}{Úgy csillogok, hogy Reno elbújhat.}
-{420}{}{Nagyon úgy tûnik, hogy fellángolt a tûz a lábatok közt.}
-{421}{}{Gyertek, barátaim! Olyan nõket kaptok, hogy egész éjszaka ellesztek velük.}
-{422}{}{Ha van pénzed, megízlelheted a mennyországot.}
-{423}{}{Myron, aztán meg ne tudjam, hogy úgy cidáztatod a csajaimat, hogy beszóljanak érte!}
-{424}{}{Myron, aztán meg ne tudjam, hogy erõszakosan toszod seggbe a csajaimat!}
-{425}{}{Aztán meg ne tudjam, Myron, hogy durván cumiztatod a csajaimat!}
-{426}{}{Aztán meg ne tudjam, Myron, hogy megint kipróbálsz valami agyament pózt!}
-{427}{}{Aztán meg ne tudjam, Myron, hogy rászarsz a nõim mellére!}
-{428}{}{Hela, Myron! Nem kell egy barát éjszakára? Volna itt egy édes darab.}
-{429}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
-{430}{}{Myron! Barátom, még mindig tartozol a múlt hétrõl!}
+{392}{}{100 dolcsit tettem rÃ¡d, hÃºgom. Nehogy csalÃ³dÃ¡st okozz!}
+{393}{}{Nagyon tetszik a hollÃ³fekete hajad, meg a ravasz bal horgod!}
+{410}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{411}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{412}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{413}{}{Valami akciÃ³ra vÃ¡gysz?}
+{414}{}{KettÅ‘tÃ¶kre elÃ©ggÃ© rÃ¡fÃ©rne egy kis hancÃºrozÃ¡s.}
+{415}{}{Hela, Myron! MizÃºjs?}
+{416}{}{Hela, Myron! Nem kell egy kis tÃ¡rsasÃ¡g Ã©jszakÃ¡ra? Van egy Ãºj csajom szÃ¡modra...}
+{417}{}{HÃ© srÃ¡cok, csak nem... hancÃºrozni jÃ¶ttetek?}
+{418}{}{Sehol nem talÃ¡lni Ã©desebb lÃ¡nykÃ¡kat.}
+{419}{}{Ãšgy csillogok, hogy Reno elbÃºjhat.}
+{420}{}{Nagyon Ãºgy tÅ±nik, hogy fellÃ¡ngolt a tÅ±z a lÃ¡batok kÃ¶zt.}
+{421}{}{Gyertek, barÃ¡taim! Olyan nÅ‘ket kaptok, hogy egÃ©sz Ã©jszaka ellesztek velÃ¼k.}
+{422}{}{Ha van pÃ©nzetek, megÃ­zlelhetitek a mennyorszÃ¡got.}
+{423}{}{Myron, aztÃ¡n meg ne tudjam, hogy Ãºgy cidÃ¡ztatod a csajaimat, hogy beszÃ³ljanak Ã©rte!}
+{424}{}{Myron, aztÃ¡n meg ne tudjam, hogy erÅ‘szakosan toszod seggbe a csajaimat!}
+{425}{}{AztÃ¡n meg ne tudjam, Myron, hogy durvÃ¡n cumiztatod a csajaimat!}
+{426}{}{AztÃ¡n meg ne tudjam, Myron, hogy megint kiprÃ³bÃ¡lsz valami agyament pÃ³zt!}
+{427}{}{AztÃ¡n meg ne tudjam, Myron, hogy rÃ¡szarsz a nÅ‘im mellÃ©re!}
+{428}{}{Hela, Myron! Nem kell egy barÃ¡t Ã©jszakÃ¡ra? Volna itt egy Ã©des darab.}
+{429}{}{Ezek nem rabszolgÃ¡k, hanem profik, hallod-e...}
+{430}{}{Myron! BarÃ¡tom, mÃ©g mindig tartozol a mÃºlt hÃ©trÅ‘l!}
 {431}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
-{432}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
-{433}{}{A csapatomban megtalálod a kincsek-kincsét.}
-{434}{}{Mit csinálsz te itt az istállón kívül, Myron? Tehetségkutatásba fogtál?}
-{435}{}{A vén Mordino végül is kiengedett, Myron?}
-{440}{}{Asszony, nehogy lenyeld a pénzem...}
-{441}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{442}{}{Szajha, nehogy lenyúlj...}
-{443}{}{A múltkor is elkaptam Myront, amikor valami agyament pózt próbált ráerõltetni a csajomra.}
-{444}{}{Ha megtudom, hogy Myron megint a csajom mellére szarik...}
-{445}{}{Kéne egy barát éjszakára, testvérem? Van itt egy édes darab.}
-{446}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
-{447}{}{Úgy csillogok, hogy Reno elbújhat.}
-{448}{}{Sehol nem találsz édesebb lánykákat.}
-{449}{}{Ha van pénzed, megízlelheted a mennyországot.}
-{450}{}{Jobb lesz, ha nem itt strichelteted a kurvádat!}
-{451}{}{Ha meglátom, hogy a kurvádat viszi valaki, elbeszélgetünk!}
-{452}{}{A kurvád jobb lesz, ha visszavesz magából, amíg a városban van!}
-{453}{}{Rúgd ki a kurvádat, barátom! Van énnekem olyan nõm, hogy egész éjszaka elleszel vele.}
-{454}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
-{455}{}{A csapatomban megtalálod a kincsek-kincsét.}
-{456}{}{Ha meglátom, hogy a szutyok nõdet itt futtatod, csinálok egy helyes kis renói vörös mosolyt a torkodra!}
-{457}{}{Ez itt a nejed, mi? Figyi, "papucs", jobb lesz, ha a csajod vigyáz magára, amíg itt van!}
-{458}{}{Ez az én sarkom! Ne itt futtasd a ribancodat!}
-{459}{}{Meg ne lássam, hogy a lotyódat itt futtatod!}
-{470}{}{Asszony, nehogy lenyeld a pénzem...}
-{471}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{472}{}{Szajha, nehogy lenyúlj...}
-{473}{}{Hela, hajcsár! Csak nem... hancúrozni akarsz?}
-{474}{}{Hajcsár, ha bárhol olcsóbb cafkát találsz, alálicitálok.}
-{475}{}{Úgy csillogok, hogy Reno elbújhat.}
-{476}{}{Hajcsár, úgy nézel ki, mint akinek fellángolt a tüze odalenn.}
-{477}{}{Gyere csak, hajcsár! Van itt neked olyan csajom, hogy egész éjszaka elleszel vele.}
-{478}{}{Ha van pénzed, megízlelheted a mennyországot.}
-{479}{}{Kéne egy barát éjszakára, hajcsár? Van itt egy édes darab.}
-{480}{}{Ezek jobbak, mint a rabszolgák. Ezek profik, hallod-e!}
-{481}{}{Van valami árud, hajcsár? Kéne egy kis frissítés.}
+{432}{}{Vannak nÅ‘im, akik igazi fÃ©rfivÃ¡ avatnak, Ã©s alig kerÃ¼l valamibe.}
+{433}{}{A csapatomban megtalÃ¡lod a kincsek-kincsÃ©t.}
+{434}{}{Mit csinÃ¡lsz te itt az istÃ¡llÃ³n kÃ­vÃ¼l, Myron? TehetsÃ©gkutatÃ¡sba fogtÃ¡l?}
+{435}{}{A vÃ©n Mordino vÃ©gÃ¼l is kiengedett, Myron?}
+{440}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{441}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{442}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{443}{}{A mÃºltkor is elkaptam Myront, amikor valami agyament pÃ³zt prÃ³bÃ¡lt rÃ¡erÅ‘ltetni a csajomra.}
+{444}{}{Ha megtudom, hogy Myron megint a csajom mellÃ©re szarik...}
+{445}{}{Kell egy barÃ¡t ma Ã©jszakÃ¡ra, testvÃ©r? Tudok egy nagyon Ã©deset.}
+{446}{}{Ezek nem rabszolgÃ¡k, hanem profik, hallod-e...}
+{447}{}{Ãšgy csillogok, hogy Reno elbÃºjhat.}
+{448}{}{Sehol nem talÃ¡lni Ã©desebb lÃ¡nykÃ¡kat.}
+{449}{}{Ha van pÃ©nzetek, megÃ­zlelhetitek a mennyorszÃ¡got.}
+{450}{}{Jobb lesz, ha nem itt strichelteted a kurvÃ¡dat!}
+{451}{}{Ha meglÃ¡tom, hogy a kurvÃ¡dat viszi valaki, elbeszÃ©lgetÃ¼nk!}
+{452}{}{A kurvÃ¡d jobb lesz, ha visszavesz magÃ¡bÃ³l, amÃ­g a vÃ¡rosban van!}
+{453}{}{RÃºgd ki a kurvÃ¡dat, barÃ¡tom! Van Ã©nnekem olyan nÅ‘m, hogy egÃ©sz Ã©jszaka elleszel vele.}
+{454}{}{Vannak nÅ‘im, akik igazi fÃ©rfivÃ¡ avatnak, Ã©s alig kerÃ¼l valamibe.}
+{455}{}{A csapatomban megtalÃ¡lod a kincsek-kincsÃ©t.}
+{456}{}{Ha meglÃ¡tom, hogy a szutyok nÅ‘det itt futtatod, csinÃ¡lok egy helyes kis renÃ³i vÃ¶rÃ¶s mosolyt a torkodra!}
+{457}{}{Ez itt a nejed, mi? Figyi, "papucs", jobb lesz, ha a csajod vigyÃ¡z magÃ¡ra, amÃ­g itt van!}
+{458}{}{Ez az Ã©n sarkom! Ne itt futtasd a ribancodat!}
+{459}{}{Meg ne lÃ¡ssam, hogy a lotyÃ³dat itt futtatod!}
+{470}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{471}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{472}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{473}{}{Hela, hajcsÃ¡r! Csak nem... hancÃºrozni akarsz?}
+{474}{}{HajcsÃ¡r, ha bÃ¡rhol olcsÃ³bb cafkÃ¡t talÃ¡lsz, alÃ¡licitÃ¡lok.}
+{475}{}{Ãšgy csillogok, hogy Reno elbÃºjhat.}
+{476}{}{HajcsÃ¡r, Ãºgy nÃ©zel ki, mint akinek fellÃ¡ngolt a tÃ¼ze odalenn.}
+{477}{}{Gyere csak, hajcsÃ¡r! Van itt neked olyan csajom, hogy egÃ©sz Ã©jszaka elleszel vele.}
+{478}{}{Ha van pÃ©nzetek, megÃ­zlelhetitek a mennyorszÃ¡got.}
+{479}{}{KÃ©ne egy barÃ¡t Ã©jszakÃ¡ra, hajcsÃ¡r? Van itt egy Ã©des darab.}
+{480}{}{Ezek jobbak, mint a rabszolgÃ¡k. Ezek profik, hallod-e!}
+{481}{}{Van valami Ã¡rud, hajcsÃ¡r? KÃ©ne egy kis frissÃ­tÃ©s.}
 {482}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
-{483}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
-{484}{}{A csapatomban megtalálod a kincsek-kincsét.}
-{485}{}{Hajcsár, ha a csajaim közül egynek is lába kél, ki fogod fizetni. Értve vagyok?}
-{486}{}{Hallgass rám, hajcsár! Két évig én voltam az év stricije.}
-{487}{}{Van itt egy csaj, akit mindenképpen ki kéne próbálnod, hajcsár. Igazi pihe-puha feneke van.}
-{488}{}{Nem akarok rabszolgákat vásárolni, de késõbb lehet, hogy eladnék párat.}
-{489}{}{Nehogy úgy cumiztass, hajcsár, hogy a nõim panaszkodjanak!}
-{490}{}{Ha elkaplak, hajcsár, hogy a csajomon valami agyament pózt próbálsz ki, lesz nemulass!}
-{491}{}{Az a faszkalap-gyökér Myron a nõim felét úgy cidáztatta meg, hogy elegük lett belõle.}
-{492}{}{Ha Myron megint rászarik a nõim mellére, elgyepálom, mint a répát.}
-{493}{}{Hajcsár, ha a csajaim közül egynek is lába kél, ki fogod fizetni. Értve vagyok?}
-{494}{}{Hajcsár, ha bárhol olcsóbb muffot találsz, alálicitálok.}
-{495}{}{Nehogy úgy cumiztass, hajcsár, hogy a nõim panaszkodjanak!}
-{496}{}{Ha a nõm nem hagyja abba a szájalást, lesz kit eladnom neked.}
-{497}{}{A hajcsárokat mindig szívesen látjuk ebben a városban.}
-{500}{}{Asszony, nehogy lenyeld a pénzem...}
-{501}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{502}{}{Szajha, nehogy lenyúlj...}
-{503}{}{Úgy csillogok, hogy Reno elbújhat.}
-{504}{}{Kell egy barát éjszakára, hajcsár? Szerzek neked egy édes példányt, legyen akár nõ vagy férfi. Amit csak megkívánsz.}
-{505}{}{Van itt egy csaj, akit mindenképpen ki kéne próbálnod, hajcsár. Igazi pihe-puha feneke van.}
-{506}{}{Hajcsár, olyannak tûnsz, mint aki meg akar mártózni a bûn tengerében.}
-{507}{}{Kell egy barát éjszakára, hajcsár? Szerzek neked egy édes példányt, legyen akár nõ vagy férfi. Amit csak megkívánsz.}
-{508}{}{Hajcsár, ha a csajaim közül egynek is lába kél, ki fogod fizetni. Értve vagyok?}
-{509}{}{Ha a nõm nem hagyja abba a szájalást, lesz kit eladnom neked.}
-{510}{}{Nem akarok rabszolgákat vásárolni, de késõbb lehet, hogy eladnék párat.}
-{511}{}{Van itt egy csaj, akit mindenképpen ki kéne próbálnod, hajcsár. Igazi pihe-puha feneke van.}
-{512}{}{A hajcsárokat mindig szívesen látjuk ebben a városban.}
-{520}{}{Asszony, nehogy lenyeld a pénzem...}
-{521}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{522}{}{Szajha, nehogy lenyúlj...}
-{523}{}{Valami akcióra vágysz?}
-{524}{}{Csak nem... hancúrozni jöttél?}
-{525}{}{Sehol nem találsz édesebb lánykákat.}
-{526}{}{Úgy csillogok, hogy Reno elbújhat.}
-{527}{}{Úgy nézel ki, mint akinek fellángolt a tüze odalenn.}
-{528}{}{Gyere csak, barátom! Van itt neked olyan csajom, hogy egész éjszaka elleszel vele.}
-{529}{}{Ha van pénzed, megízlelheted a mennyországot.}
-{530}{}{Kéne egy barát éjszakára, testvérem? Van itt egy édes darab.}
-{531}{}{Ezek nem rabszolgák. Ezek profik, hallod-e!}
-{532}{}{Itt vannak a legjobb hölgyek egész New Renóban. Csak kérned kell... meg persze legyen pénzed.}
+{483}{}{Vannak nÅ‘im, akik igazi fÃ©rfivÃ¡ avatnak, Ã©s alig kerÃ¼l valamibe.}
+{484}{}{A csapatomban megtalÃ¡lod a kincsek-kincsÃ©t.}
+{485}{}{HajcsÃ¡r, ha valamelyik csajomnak lÃ¡ba kÃ©l, ki fogod fizetni! Ã‰rtve vagyok?}
+{486}{}{Hallgass rÃ¡m, hajcsÃ¡r! KÃ©t Ã©vig Ã©n voltam az Ã©v stricije.}
+{487}{}{Van itt egy csaj, akit mindenkÃ©ppen ki kÃ©ne prÃ³bÃ¡lnod. Igazi pihe-puha feneke van.}
+{488}{}{Nem akarok rabszolgÃ¡kat vÃ¡sÃ¡rolni, de kÃ©sÅ‘bb lehet, hogy eladnÃ©k pÃ¡rat.}
+{489}{}{Az erÅ‘szakos cidÃ¡ztatÃ¡st mellÅ‘zd, hajcsÃ¡r!}
+{490}{}{Ha elkaplak, hajcsÃ¡r, hogy a csajomon valami agyament pÃ³zt prÃ³bÃ¡lsz ki, lesz nemulass!}
+{491}{}{Az a faszkalap-gyÃ¶kÃ©r Myron a nÅ‘im felÃ©t Ãºgy cidÃ¡ztatta meg, hogy elegÃ¼k lett belÅ‘le.}
+{492}{}{Ha Myron megint rÃ¡szarik a nÅ‘im mellÃ©re, elgyepÃ¡lom, mint a rÃ©pÃ¡t.}
+{493}{}{HajcsÃ¡r, ha valamelyik csajomnak lÃ¡ba kÃ©l, ki fogod fizetni! Ã‰rtve vagyok?}
+{494}{}{HajcsÃ¡r, ha bÃ¡rhol olcsÃ³bb muffot talÃ¡lsz, alÃ¡licitÃ¡lok.}
+{495}{}{Az erÅ‘szakos cidÃ¡ztatÃ¡st mellÅ‘zd, hajcsÃ¡r!}
+{496}{}{Ha a nÅ‘m nem hagyja abba a szÃ¡jalÃ¡st, lesz kit eladnom neked.}
+{497}{}{A hajcsÃ¡rokat mindig szÃ­vesen lÃ¡tjuk ebben a vÃ¡rosban.}
+{500}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{501}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{502}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{503}{}{Ãšgy csillogok, hogy Reno elbÃºjhat.}
+{504}{}{Kell egy barÃ¡t Ã©jszakÃ¡ra, hajcsÃ¡r? Szerzek neked egy Ã©des pÃ©ldÃ¡nyt, legyen akÃ¡r nÅ‘ vagy fÃ©rfi. Amit csak megkÃ­vÃ¡nsz.}
+{505}{}{Van itt egy csaj, akit mindenkÃ©ppen ki kÃ©ne prÃ³bÃ¡lnod. Igazi pihe-puha feneke van.}
+{506}{}{HajcsÃ¡r, olyannak tÅ±nsz, mint aki meg akar mÃ¡rtÃ³zni a bÅ±n tengerÃ©ben.}
+{507}{}{Kell egy barÃ¡t Ã©jszakÃ¡ra, hajcsÃ¡r? Szerzek neked egy Ã©des pÃ©ldÃ¡nyt, legyen akÃ¡r nÅ‘ vagy fÃ©rfi. Amit csak megkÃ­vÃ¡nsz.}
+{508}{}{HajcsÃ¡r, ha valamelyik csajomnak lÃ¡ba kÃ©l, ki fogod fizetni! Ã‰rtve vagyok?}
+{509}{}{Ha a nÅ‘m nem hagyja abba a szÃ¡jalÃ¡st, lesz kit eladnom neked.}
+{510}{}{Nem akarok rabszolgÃ¡kat vÃ¡sÃ¡rolni, de kÃ©sÅ‘bb lehet, hogy eladnÃ©k pÃ¡rat.}
+{511}{}{Van itt egy csaj, akit mindenkÃ©ppen ki kÃ©ne prÃ³bÃ¡lnod. Igazi pihe-puha feneke van.}
+{512}{}{A hajcsÃ¡rokat mindig szÃ­vesen lÃ¡tjuk ebben a vÃ¡rosban.}
+{520}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{521}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{522}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{523}{}{Valami akciÃ³ra vÃ¡gysz?}
+{524}{}{Csak nem... hancÃºrozni jÃ¶ttÃ©l?}
+{525}{}{Sehol nem talÃ¡lni Ã©desebb lÃ¡nykÃ¡kat.}
+{526}{}{Ãšgy csillogok, hogy Reno elbÃºjhat.}
+{527}{}{Ãšgy nÃ©zel ki, mint akinek fellÃ¡ngolt a tÃ¼ze odalenn.}
+{528}{}{Gyere csak, barÃ¡tom! Van itt neked olyan csajom, hogy egÃ©sz Ã©jszaka elleszel vele.}
+{529}{}{Ha van pÃ©nzetek, megÃ­zlelhetitek a mennyorszÃ¡got.}
+{530}{}{Kell egy barÃ¡t ma Ã©jszakÃ¡ra, testvÃ©r? Tudok egy nagyon Ã©deset.}
+{531}{}{Ezek nem rabszolgÃ¡k, hanem profik, hallod-e...}
+{532}{}{Itt vannak a legjobb hÃ¶lgyek egÃ©sz New RenÃ³ban. Csak kÃ©rned kell... meg persze legyen pÃ©nzed.}
 {533}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
-{534}{}{Vannak nõim, akik igazi férfivá avatnak, és alig kerül valamibe.}
-{535}{}{A csapatomban megtalálod a kincsek-kincsét.}
-{536}{}{Hallgass rám, ember! Két évig én voltam az év stricije.}
-{537}{}{Van egy csajom, akit ki kéne próbálnod. Igazi pihe-puha feneke van.}
-{538}{}{Aztán nehogy úgy cumiztass, hogy a nõim beszóljanak!}
-{539}{}{Nehogy elkapjalak, hogy erõszakosan dugod a nõimet!}
-{540}{}{Jobban teszed, ha a durva cummantást mellõzöd, hallod?}
-{541}{}{Ha meglátom, hogy rászarsz a nõim mellére, MEGÖLLEK!}
-{542}{}{Valami akcióra vágysz?}
-{543}{}{Nálam vannak a legtutibb kurvák egész New Renóban. Gyere és próbáld ki!}
-{550}{}{Asszony, nehogy lenyeld a pénzem...}
-{551}{}{Ezek a turisták közel sem olyan kanosak, mint szeretném.}
-{552}{}{Szajha, nehogy lenyúlj...}
-{553}{}{::Fixíroz::}
-{554}{}{Hali, édesem, gyere dumcsizzunk már egy kicsit!}
-{555}{}{Nem jössz ide? Volna egy ajánlatom a számodra.}
-{556}{}{Még az a pihe-puha fenék!}
-{557}{}{Bébi, gyere már közelebb, hadd simizzem már meg azt a pihe-puha fenekedet!}
-{558}{}{Hé, szépségem! Nem érdekel egy kis munka?}
-{559}{}{Volna egy kis munkám a számodra. Az az elõnye, hogy nem kell folyton állni.}
+{534}{}{Vannak nÅ‘im, akik igazi fÃ©rfivÃ¡ avatnak, Ã©s alig kerÃ¼l valamibe.}
+{535}{}{A csapatomban megtalÃ¡lod a kincsek-kincsÃ©t.}
+{536}{}{Hallgass rÃ¡m, ember! KÃ©t Ã©vig Ã©n voltam az Ã©v stricije.}
+{537}{}{Van egy csajom, akit ki kÃ©ne prÃ³bÃ¡lnod. Igazi pihe-puha feneke van.}
+{538}{}{AztÃ¡n nehogy Ãºgy cumiztass, hogy a nÅ‘im beszÃ³ljanak!}
+{539}{}{Nehogy elkapjalak, hogy erÅ‘szakosan dugod a nÅ‘imet!}
+{540}{}{Jobban teszed, ha a durva cummantÃ¡st mellÅ‘zÃ¶d, hallod?}
+{541}{}{Ha meglÃ¡tom, hogy rÃ¡szarsz a nÅ‘im mellÃ©re, MEGÃ–LLEK!}
+{542}{}{Valami akciÃ³ra vÃ¡gysz?}
+{543}{}{NÃ¡lam vannak a legtutibb kurvÃ¡k egÃ©sz New RenÃ³ban. Gyere Ã©s prÃ³bÃ¡ld ki!}
+{550}{}{Asszony, nehogy lenyeld a pÃ©nzem...}
+{551}{}{Ezek a turistÃ¡k kÃ¶zel sem olyan kanosak, mint amennyire szeretnÃ©m.}
+{552}{}{Szajha, meg ne tudjam, hogy lenyÃºlsz...}
+{553}{}{::FixÃ­roz::}
+{554}{}{Hali, Ã©desem, gyere dumcsizzunk mÃ¡r egy kicsit!}
+{555}{}{Nem jÃ¶ssz ide? Volna egy ajÃ¡nlatom a szÃ¡modra.}
+{556}{}{PrÃ³bÃ¡ld ki azt a pihe-puha feneket!}
+{557}{}{BÃ©bi, hadd tapizzam meg azt a kis pihe-puha fenekedet.}
+{558}{}{HÃ©, szÃ©psÃ©gem! Nem Ã©rdekel egy kis munka?}
+{559}{}{Volna egy kis munkÃ¡m a szÃ¡modra. Az az elÅ‘nye, hogy nem kell folyton Ã¡llni.}
 {560}{}{Van hol aludj, cukorfalatom?}
-{561}{}{Gyere el a kérómba, a legjobb hely egész Renóban!}
-{562}{}{Van hol aludj? Én tudnék szerezni egy helyet.}
-{563}{}{::Fixíroz::}
-{564}{}{Bébi, hadd simizzem már meg azt a pihe-puha fenekedet!}
-{565}{}{Nincs kedved egy könnyû pénzkeresethez, asszony?}
+{561}{}{Gyere el a kÃ©rÃ³mba, a legjobb hely egÃ©sz RenÃ³ban!}
+{562}{}{Van hol aludj? Ã‰n tudnÃ©k szerezni egy helyet.}
+{563}{}{::FixÃ­roz::}
+{564}{}{BÃ©bi, had nyomkodjam mÃ¡r meg a kis pihe-puha fenekedet!}
+{565}{}{Nincs kedved egy kÃ¶nnyÅ± pÃ©nzkeresethez, asszony?}

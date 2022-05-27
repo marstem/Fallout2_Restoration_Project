@@ -1,18 +1,18 @@
-{100}{}{Egy szerelõt látsz.}
-{101}{}{Kevin, a szerelõ.}
-{102}{}{Egy embert látsz katonai gyakorlóban. A kinézetbõl ítélve inkább szerelõ lehet, mint katona.}
-{200}{}{Most nem beszélhetek veled. Menj Quincyhez!}
-{201}{}{Quincy a fõnök. Vele beszélj!}
-{202}{}{Még kezdõ szerelõ vagyok. Te biztos Quincyt keresed.}
+{100}{}{SzerelÅ‘.}
+{101}{}{Kevin, a szerelÅ‘.}
+{102}{}{Egy embert lÃ¡tsz katonai gyakorlÃ³ban. A kinÃ©zetbÅ‘l Ã­tÃ©lve inkÃ¡bb szerelÅ‘ lehet, mint katona.}
+{200}{}{Most nem beszÃ©lhetek veled. Menj Quincyhez!}
+{201}{}{Quincy a fÅ‘nÃ¶k. Vele beszÃ©lj!}
+{202}{}{MÃ©g kezdÅ‘ szerelÅ‘ vagyok. Te biztos Quincyt keresed.}
 {300}{}{Nincs rajtad egyenruha.}
-{301}{}{Jobb lenne, ha felöltöznél.}
-{302}{}{Nagy kockázatot válalsz, ha csak így flangálsz itt. Vegyél fel egy páncélt!}
-{400}{}{Kik ezek a fickók?... Behatolók! Riadó!}
-{401}{}{Megtámadtak bennünket! Riadó!}
-{402}{}{Behatolók! Riadó!}
-{500}{}{Picsába! Kezdjük gyorsan az archiválást!}
-{501}{}{Minden titkos mûveletet hagyjatok abba}
-{502}{}{Biztosítsátok a rendszert!}
-{600}{}{Szerelõ vagyok, nem katona!}
-{601}{}{"A hegyes végén lévõ lézerdiódát irányítsa rá a célpontra, aztán húzza meg a ravaszt!"}
-{602}{}{Segítség! Segítség! Mindenki a szervízbe!}
+{301}{}{Jobb lenne, ha felÃ¶ltÃ¶znÃ©l.}
+{302}{}{Nagy kockÃ¡zatot vÃ¡lalsz, ha csak Ã­gy flangÃ¡lsz itt. VegyÃ©l fel egy pÃ¡ncÃ©lt!}
+{400}{}{Kik ezek a fickÃ³k?... BehatolÃ³k! RiadÃ³!}
+{401}{}{MegtÃ¡madtak bennÃ¼nket! RiadÃ³!}
+{402}{}{BehatolÃ³k! RiadÃ³!}
+{500}{}{PicsÃ¡ba! KezdjÃ¼k gyorsan az archivÃ¡lÃ¡st!}
+{501}{}{Minden titkos mÅ±veletet hagyjatok abba}
+{502}{}{BiztosÃ­tsÃ¡tok a rendszert!}
+{600}{}{SzerelÅ‘ vagyok, nem katona!}
+{601}{}{"A hegyes vÃ©gÃ©n lÃ©vÅ‘ lÃ©zerdiÃ³dÃ¡t irÃ¡nyÃ­tsa rÃ¡ a cÃ©lpontra, aztÃ¡n hÃºzza meg a ravaszt!"}
+{602}{}{SegÃ­tsÃ©g! SegÃ­tsÃ©g! Mindenki a szervÃ­zbe!}

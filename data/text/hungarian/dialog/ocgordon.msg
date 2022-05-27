@@ -1,78 +1,78 @@
-{100}{}{Vézna férfi, hosszú csuhában. Úgy tûnik, elmélyülten gondolkodik.}
-{101}{}{A Szentély Õrzõje.}
-{102}{}{Vézna férfi, hosszú csuhában. A negyvenes éveinek végén járhat, de az arcvonásai lágyak, még nem kezdte ki az idõ vasfoga. Úgy tûnik, éppen meditál.}
-{103}{}{Üdvözöllek, utazó. Gordonnak hívnak, én vagyok a Szentély Õrzõje. Miben segíthetek?}
-{104}{}{Szentély?}
-{105}{}{Én kérdez?}
-{106}{}{Öö... nem emlékez. Viszlát!}
-{107}{}{Örülök, hogy találkoztunk, Gordon. Én}
-{108}{}{Ezt nevezi maga szentélynek? Bárkinek is legyen szentelve ez a hely, foroghat a sírjában.}
-{109}{}{Hát, sajnálom, hogy megzavartam. Indulok is tovább.}
-{110}{}{Igen. A szentély egy templom, amit általában egy istennek, egy szentnek, vagy más hatalmasságnak állítanak.}
-{111}{}{Ah. Oké. Én kérdez?}
-{112}{}{Oké. Viszlát!}
-{113}{}{Természetesen.}
-{114}{}{Mit szeretnél tudni?}
-{115}{}{Szentély kié?}
-{116}{}{Te mióta lenni itten?}
-{117}{}{Halá'karmok rossz?}
-{118}{}{Miért te maradni?}
-{119}{}{Én menni mostan.}
-{120}{}{Kinek van szentelve ez a szentély?}
-{121}{}{Mióta vagy itt?}
-{122}{}{Mit tudnál mondani a halálkarmokról?}
-{123}{}{Miért maradt itt?}
-{124}{}{Kösz, Gordon. Viszlát!}
-{125}{}{Ez a szentély egy ismeretlen hõsnek van szentelve, akit csak úgy ismertek, hogy Menedéklakó. Õ mentette meg az emberöltõkkel ezelõtt itt élt lakosokat. Nem tudjuk, mi lett a sorsa, de gondolatainkban és a szívünkben tovább él.}
-{126}{}{Ez szép.}
-{127}{}{Én köszön. Pá...}
-{128}{}{Ez vicc! Szentély épül valakinek, akire még csak nem is emlékszik?}
-{129}{}{Értem. Nos, lenne még kérdésem.}
+{100}{}{VÃ©zna fÃ©rfi, hosszÃº csuhÃ¡ban. Ãšgy tÅ±nik, elmÃ©lyÃ¼lten gondolkodik.}
+{101}{}{A SzentÃ©ly ÅrzÅ‘je.}
+{102}{}{VÃ©zna fÃ©rfi, hosszÃº csuhÃ¡ban. A negyvenes Ã©veinek vÃ©gÃ©n jÃ¡rhat, de az arcvonÃ¡sai lÃ¡gyak, mÃ©g nem kezdte ki az idÅ‘ vasfoga. Ãšgy tÅ±nik, Ã©ppen meditÃ¡l.}
+{103}{}{ÃœdvÃ¶zÃ¶llek, utazÃ³. Gordonnak hÃ­vnak, Ã©n vagyok a SzentÃ©ly ÅrzÅ‘je. Miben segÃ­thetek?}
+{104}{}{SzentÃ©ly?}
+{105}{}{Ã‰n kÃ©rdez?}
+{106}{}{Ã–Ã¶... nem emlÃ©kez. ViszlÃ¡t!}
+{107}{}{Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk, Gordon. Ã‰n}
+{108}{}{Ezt nevezi maga szentÃ©lynek? BÃ¡rkinek is legyen szentelve ez a hely, foroghat a sÃ­rjÃ¡ban.}
+{109}{}{HÃ¡t, sajnÃ¡lom, hogy megzavartam. Indulok is tovÃ¡bb.}
+{110}{}{Igen. A szentÃ©ly egy templom, amit Ã¡ltalÃ¡ban egy istennek, egy szentnek, vagy mÃ¡s hatalmassÃ¡gnak Ã¡llÃ­tanak.}
+{111}{}{Ah. OkÃ©. Ã‰n kÃ©rdez?}
+{112}{}{OkÃ©. ViszlÃ¡t!}
+{113}{}{TermÃ©szetesen.}
+{114}{}{Mit szeretnÃ©l tudni?}
+{115}{}{SzentÃ©ly kiÃ©?}
+{116}{}{Te miÃ³ta lenni itten?}
+{117}{}{HalÃ¡'karmok rossz?}
+{118}{}{MiÃ©rt te maradni?}
+{119}{}{Ã‰n menek mostan.}
+{120}{}{Kinek van szentelve ez a szentÃ©ly?}
+{121}{}{MiÃ³ta vagy itt?}
+{122}{}{Mit tudnÃ¡l mondani a halÃ¡lkarmokrÃ³l?}
+{123}{}{MiÃ©rt maradt itt?}
+{124}{}{KÃ¶sz, Gordon. ViszlÃ¡t!}
+{125}{}{Ez a szentÃ©ly egy ismeretlen hÅ‘snek van szentelve, akit csak Ãºgy ismertek, hogy MenedÃ©klakÃ³. Å mentette meg az emberÃ¶ltÅ‘kkel ezelÅ‘tt itt Ã©lt lakosokat. Nem tudjuk, mi lett a sorsa, de gondolatainkban Ã©s a szÃ­vÃ¼nkben tovÃ¡bb Ã©l.}
+{126}{}{Lenni kedves.}
+{127}{}{Ã‰n kÃ¶szÃ¶n. PÃ¡...}
+{128}{}{Ez vicc! SzentÃ©ly Ã©pÃ¼l valakinek, akire mÃ©g csak nem is emlÃ©kszik?}
+{129}{}{Ã‰rtem. Nos, lenne mÃ©g kÃ©rdÃ©sem.}
 {130}{}{Very commendable, Gordon. Can I ask you some more questions?}
-{131}{}{Egész életemben ebben a Menedékben éltem. Amióta az eszemet tudom, én vagyok a Szentély Õrzõje.}
-{132}{}{Te lenni itt a Halá'karmok elõtt?}
-{133}{}{Ah. Én akar tudni még.}
+{131}{}{EgÃ©sz Ã©letemben ebben a MenedÃ©kben Ã©ltem. AmiÃ³ta az eszemet tudom, Ã©n vagyok a SzentÃ©ly ÅrzÅ‘je.}
+{132}{}{Te lenni itt a HalÃ¡'karmok elÅ‘tt?}
+{133}{}{Ah. Ã‰n akar tudni mÃ©g.}
 {134}{}{Menni kell.}
-{135}{}{Maga nagyon elkötelezett ember. Feltehetek még néhány kérdést?}
-{136}{}{Az hosszú idõ. Válaszolna még néhány kérdésemre?}
-{137}{}{Úgy tékozolja el az életét, ahogy csak jól esik, jóember.}
-{138}{}{Itt volt már a halálkarmok beköltözésekor?}
-{139}{}{Nem, barátom, nem voltam. Néhány hónapja elindultam, hogy megnézzem a Menedéklakó szobrát, amit az ÚKK fõterén emeltek (Az Új Kaliforniai Köztársaság keletre van innen). Amikor visszaértem a Menedékbe, a halálkarmok már bevették magukat. Talán szükségtelen mondanom, mekkora sokk ért. Mindenesetre meg vagyok gyõzõdve arról, hogy nem õk a felelõsek azért, ami a polgártársaimmal történt. Ha esetleg több információra lenne szükséged ebben a tárgyban, megkeresheted Gorist a könyvtárban.}
-{140}{}{Oké, kösz.}
-{141}{}{Oké, viszlát!}
-{142}{}{Észben fogom tartani.}
-{143}{}{Nem kell elmondania, hova menjek, vagy kivel beszéljek!}
-{144}{}{Köszönet a segítségért. Bár lenne még néhány kérdésem.}
-{145}{}{Már több hónapja élek együtt a halálkarmokkal. Becsületesnek és õszintének tûnnek velem, és a többi itt élõ emberrel szintén. Én megbízom bennük, és azt hiszem, idõvel te is így fogsz tenni.}
-{146}{}{Ööö... Oké.}
-{147}{}{Hmm. Én mostan menek el.}
-{148}{}{Jelenleg inkább hagyom, hadd kétkedjenek.}
-{149}{}{Ha akarsz, hihetsz a gyíkoknak, én inkább megtartom a véleményemet magamnak, kösz.}
-{150}{}{Köszönöm. Viszont szeretnék többet tudni.}
-{151}{}{Az én helyem itt van, a Szentélyben. Önszántamból nem hagyom el.}
+{135}{}{Maga nagyon elkÃ¶telezett ember. Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{136}{}{Az hosszÃº idÅ‘. VÃ¡laszolna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©semre?}
+{137}{}{Ãšgy tÃ©kozolja el az Ã©letÃ©t, ahogy csak jÃ³l esik, jÃ³ember.}
+{138}{}{Itt volt mÃ¡r a halÃ¡lkarmok bekÃ¶ltÃ¶zÃ©sekor?}
+{139}{}{Nem, barÃ¡tom, nem voltam. NÃ©hÃ¡ny hÃ³napja elindultam, hogy megnÃ©zzem a MenedÃ©klakÃ³ szobrÃ¡t, amit az ÃšKK fÅ‘terÃ©n emeltek (Az Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡g keletre van innen). Amikor visszaÃ©rtem a MenedÃ©kbe, a halÃ¡lkarmok mÃ¡r bevettÃ©k magukat. TalÃ¡n szÃ¼ksÃ©gtelen mondanom, mekkora sokk Ã©rt. Mindenesetre meg vagyok gyÅ‘zÅ‘dve arrÃ³l, hogy nem Å‘k a felelÅ‘sek azÃ©rt, ami a polgÃ¡rtÃ¡rsaimmal tÃ¶rtÃ©nt. Ha esetleg tÃ¶bb informÃ¡ciÃ³ra lenne szÃ¼ksÃ©ged ebben a tÃ¡rgyban, megkeresheted Gorist a kÃ¶nyvtÃ¡rban.}
+{140}{}{OkÃ©, kÃ¶sz.}
+{141}{}{OkÃ©, viszlÃ¡t!}
+{142}{}{Ã‰szben fogom tartani.}
+{143}{}{Nem kell elmondania, hova menjek, vagy kivel beszÃ©ljek!}
+{144}{}{KÃ¶szÃ¶net a segÃ­tsÃ©gÃ©rt. BÃ¡r lenne mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{145}{}{MÃ¡r tÃ¶bb hÃ³napja Ã©lek egyÃ¼tt a halÃ¡lkarmokkal. BecsÃ¼letesnek Ã©s Å‘szintÃ©nek tÅ±nnek velem, Ã©s a tÃ¶bbi itt Ã©lÅ‘ emberrel szintÃ©n. Ã‰n megbÃ­zom bennÃ¼k, Ã©s azt hiszem, idÅ‘vel te is Ã­gy fogsz tenni.}
+{146}{}{Ã–Ã¶Ã¶... OkÃ©.}
+{147}{}{Hmm. Ã‰n mostan menek el.}
+{148}{}{Jelenleg inkÃ¡bb hagyom, hadd kÃ©tkedjenek.}
+{149}{}{Ha akarsz, hihetsz a gyÃ­koknak, Ã©n inkÃ¡bb megtartom a vÃ©lemÃ©nyemet magamnak, kÃ¶sz.}
+{150}{}{KÃ¶szÃ¶nÃ¶m. Viszont szeretnÃ©k tÃ¶bbet tudni.}
+{151}{}{Az Ã©n helyem itt van, a SzentÃ©lyben. Ã–nszÃ¡ntambÃ³l nem hagyom el.}
 {152}{}{Ah.}
-{153}{}{Én itt hagy téged.}
-{154}{}{OKÉ.}
-{155}{}{Maga vagy nagyon elkötelezett, vagy segg-hülye. Én az utóbbira szavazok!}
-{156}{}{Az elkötelezettsége csodálatra méltó.}
-{157}{}{Meglehetõsen durva és goromba alak vagy. Ha itt lenne velünk egy õr, talán lakatot tennél a nyelvedre.}
-{158}{}{Már korábban figyelmeztettelek, hogy nem tûröm a sértegetéseidet. Nyilvánvalóan magasról teszel az ilyesmire. (Gordon az ajtó felé néz) Õrség! A Szentélyhez, azonnal!}
-{159}{}{Szóval még mindig inkább seggként viselkedsz. (Gordon a halálkarom õr felé mozdul) Õr, vidd ki a szemetet.}
-{160}{}{Na, villantson szépen valamit... Egy szempillantás alatt szétrúgom a seggét!}
-{161}{}{Bocsánatot kérek, lakatot teszek a nyelvemre.}
-{162}{}{Elnézését kérem, Gordon. Kérem, bocsássa meg a kirohanásomat!}
-{163}{}{Elnézését kérem, megfeledkeztem magamról!}
-{164}{}{Bocsánat, elnézést kérek.}
-{165}{}{Alig várom, hogy végre kiklopfolhassak néhány gyíkot!}
-{166}{}{Õrség! A Szentélybe!}
+{153}{}{Ã‰n itt hagy tÃ©ged.}
+{154}{}{OkÃ©.}
+{155}{}{Maga vagy nagyon elkÃ¶telezett, vagy segg-hÃ¼lye. Ã‰n az utÃ³bbira szavazok!}
+{156}{}{Az elkÃ¶telezettsÃ©ge csodÃ¡latra mÃ©ltÃ³.}
+{157}{}{MeglehetÅ‘sen durva Ã©s goromba alak vagy. Ha itt lenne velÃ¼nk egy Å‘r, talÃ¡n lakatot tennÃ©l a nyelvedre.}
+{158}{}{MÃ¡r korÃ¡bban figyelmeztettelek, hogy nem tÅ±rÃ¶m a sÃ©rtegetÃ©seidet. NyilvÃ¡nvalÃ³an magasrÃ³l teszel az ilyesmire. (Gordon az ajtÃ³ felÃ© nÃ©z) ÅrsÃ©g! A SzentÃ©lyhez, azonnal!}
+{159}{}{SzÃ³val mÃ©g mindig inkÃ¡bb seggkÃ©nt viselkedsz. (Gordon a halÃ¡lkarom Å‘r felÃ© mozdul) År, vidd ki a szemetet.}
+{160}{}{Na, villantson szÃ©pen valamit... Egy szempillantÃ¡s alatt szÃ©trÃºgom a seggÃ©t!}
+{161}{}{BocsÃ¡natot kÃ©rek, lakatot teszek a nyelvemre.}
+{162}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, Gordon. KÃ©rem, bocsÃ¡ssa meg a kirohanÃ¡somat!}
+{163}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, megfeledkeztem magamrÃ³l!}
+{164}{}{BocsÃ¡nat, elnÃ©zÃ©st kÃ©rek.}
+{165}{}{Alig vÃ¡rom, hogy vÃ©gre kiklopfolhassak nÃ©hÃ¡ny gyÃ­kot!}
+{166}{}{ÅrsÃ©g! A SzentÃ©lybe!}
 {167}{}{}
 {168}{}{}
-{169}{}{Szóval visszajöttél... Nos, egyszer már el kellett távolítatnom téged, most megint ez fog történni. Õrség! A Szentélyhez! A szemét visszajött!}
+{169}{}{SzÃ³val visszajÃ¶ttÃ©l... Nos, egyszer mÃ¡r el kellett tÃ¡volÃ­tatnom tÃ©ged, most megint ez fog tÃ¶rtÃ©nni. ÅrsÃ©g! A SzentÃ©lyhez! A szemÃ©t visszajÃ¶tt!}
 {170}{}{}
 {171}{}{}
-{172}{}{Üdv megint. Mit tehetek érted?}
-{173}{}{Én feltehet kérdés?}
-{174}{}{Én lenni már itten? Én sajnálja. Menek elfele.}
-{175}{}{Még egyszer beszélni akartam magával.}
-{176}{}{Csak beköszöntem.}
-{177}{}{. Feltehetek néhány kérdést?}
+{172}{}{Ãœdv megint. Mit tehetek Ã©rted?}
+{173}{}{Ã‰n feltehet kÃ©rdÃ©s?}
+{174}{}{Ã‰n lenni mÃ¡r itten? Ã‰n sajnÃ¡lja. Menek elfele.}
+{175}{}{MÃ©g egyszer beszÃ©lni akartam magÃ¡val.}
+{176}{}{Csak bekÃ¶szÃ¶ntem.}
+{177}{}{. Feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st?}

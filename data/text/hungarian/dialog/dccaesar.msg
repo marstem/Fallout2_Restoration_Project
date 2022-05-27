@@ -1,152 +1,152 @@
-{100}{}{A Rabszolga-Céh egyik tagját látod.}
-{150}{}{Metzger, a Rabszolga-Céh vezetõje.}
-{151}{}{[Beszélgetés]}
-{152}{}{Õrség! Támadás!}
-{153}{}{[kész]}
-{154}{}{Gyere vissza reggel, a francba! Én csak nap közben üzletelek.}
-{155}{}{[kész]}
-{156}{}{Most meg mi van? Kezdesz rohadtul idegesíteni!}
-{157}{}{Szeretnék elnézést kérni.}
+{100}{}{A Rabszolga-CÃ©h egyik tagjÃ¡t lÃ¡tod.}
+{150}{}{Metzger, a Rabszolga-CÃ©h vezetÅ‘je.}
+{151}{}{[BeszÃ©d]}
+{152}{}{ÅrsÃ©g! TÃ¡madÃ¡s!}
+{153}{}{[kÃ©sz]}
+{154}{}{Gyere vissza reggel, a francba! Ã‰n csak nap kÃ¶zben Ã¼zletelek.}
+{155}{}{[kÃ©sz]}
+{156}{}{Most meg mi van? Kezdesz rohadtul idegesÃ­teni!}
+{157}{}{SzeretnÃ©k elnÃ©zÃ©st kÃ©rni.}
 {158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
-{159}{}{Héé, neked meg mi bajod?}
-{160}{}{Szeretnék kérdezni valamit.}
-{161}{}{Úgy tûnik, hogy van. Viszlát!}
-{162}{}{Áh.}
-{163}{}{Hát, ezzel elkéstél. Takarodj kifelé!}
-{164}{}{Légyszi, légyszi, légyszi... elnézést kérek.}
-{165}{}{Na, mindegy, legalább megpróbáltam.}
+{159}{}{HÃ©Ã©, neked meg mi bajod?}
+{160}{}{SzeretnÃ©k kÃ©rdezni valamit.}
+{161}{}{Ãšgy tÅ±nik, hogy van. ViszlÃ¡t!}
+{162}{}{VÃ¡Ã¡h.}
+{163}{}{HÃ¡t, ezzel elkÃ©stÃ©l. Takarodj kifelÃ©!}
+{164}{}{LÃ©gyszi, lÃ©gyszi, lÃ©gyszi... elnÃ©zÃ©st kÃ©rek.}
+{165}{}{Na, mindegy, legalÃ¡bb megprÃ³bÃ¡ltam.}
 {166}{}{Akkor cseszd meg!}
-{167}{}{Oké, oké. Elfogadom a bocsánatkérést.}
-{168}{}{Feltehetek néhány kérdést?}
-{169}{}{Örülök, hogy tisztáztuk ezt. Viszlát!}
-{170}{}{Helló! Jó újra látni téged.}
-{171}{}{Helló, Metzger! Beszélnünk kell.}
-{172}{}{Téged is. Csá.}
-{173}{}{Büff.}
-{174}{}{Metzger vagyok, a Rabszolga-Céh feje. Mi kéne?}
-{175}{}{Naszóval... lenne néhány kérdésem.}
-{176}{}{Kösz nem. Mennem kell.}
+{167}{}{OkÃ©, okÃ©. Elfogadom a bocsÃ¡natkÃ©rÃ©st.}
+{168}{}{Feltehetek nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{169}{}{Ã–rÃ¼lÃ¶k, hogy tisztÃ¡ztuk ezt. ViszlÃ¡t!}
+{170}{}{HellÃ³! JÃ³ Ãºjra lÃ¡tni tÃ©ged.}
+{171}{}{HellÃ³, Metzger! BeszÃ©lnÃ¼nk kell.}
+{172}{}{TÃ©ged is. CsÃ¡.}
+{173}{}{BÃ¼ff.}
+{174}{}{Metzger vagyok, a Rabszolga-CÃ©h feje. Mi kÃ©ne?}
+{175}{}{NaszÃ³val... lenne nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{176}{}{KÃ¶sz nem. Mennem kell.}
 {177}{}{Swavuh???}
-{178}{}{Kérlek távozz. Most azonnal!}
-{179}{}{Különben?}
-{180}{}{Rendben. De még visszajövök!}
-{181}{}{Oké. Helló!}
-{182}{}{Mit szeretnél tudni?}
-{183}{}{Vicrõl, a kereskedõrõl...}
-{184}{}{Csatlakozhatok a Rabszolga-Céhhez?}
-{185}{}{El szeretném adni a férjemet.}
-{186}{}{Eladnám a feleségemet. Mennyit adsz érte?}
-{187}{}{Eladnám az egyik barátomat.}
-{188}{}{Mesélj nekem a céhrõl!}
-{189}{}{Melyik városok veszik meg a rabszolgákat?}
-{190}{}{Szeretnék venni egy rabszolgát.}
-{191}{}{A 13-as Menedéket keresem. Hallottál már róla?}
-{192}{}{Metzger? Fura egy név.}
+{178}{}{KÃ©rlek tÃ¡vozz. Most azonnal!}
+{179}{}{KÃ¼lÃ¶nben?}
+{180}{}{Rendben. De mÃ©g visszajÃ¶vÃ¶k!}
+{181}{}{OkÃ©. ViszlÃ¡t!}
+{182}{}{Mit szeretnÃ©l tudni?}
+{183}{}{VicrÅ‘l, a kereskedÅ‘rÅ‘l...}
+{184}{}{Csatlakozhatok a Rabszolga-CÃ©hhez?}
+{185}{}{El szeretnÃ©m adni a fÃ©rjemet.}
+{186}{}{EladnÃ¡m a felesÃ©gemet. Mennyit adsz Ã©rte?}
+{187}{}{EladnÃ¡m az egyik barÃ¡tomat.}
+{188}{}{MesÃ©lj nekem a cÃ©hrÅ‘l!}
+{189}{}{Melyik vÃ¡rosok veszik meg a rabszolgÃ¡kat?}
+{190}{}{SzeretnÃ©k venni egy rabszolgÃ¡t.}
+{191}{}{A 13-as MenedÃ©ket keresem. HallottÃ¡l mÃ¡r rÃ³la?}
+{192}{}{Metzger? Fura egy nÃ©v.}
 {193}{}{Semmit. Mennem kell.}
-{195}{}{Egy régi nyelvbõl származik. Háború elõtti vagy micsoda.}
-{196}{}{Metzger hentest jelent. Találó, nem gondolod?}
+{195}{}{Egy rÃ©gi nyelvbÅ‘l szÃ¡rmazik. HÃ¡borÃº elÅ‘tti vagy micsoda.}
+{196}{}{Metzger hentest jelent. TalÃ¡lÃ³, nem gondolod?}
 {197}{}{That was my great grandfather's name. He came from somewhere far to
  the east. Across a large body of water.}
-{198}{}{Olvastam egy könyvet egy Metzgerrõl. Elnök volt vagy micsoda.}
+{198}{}{Olvastam egy kÃ¶nyvet egy MetzgerrÅ‘l. ElnÃ¶k volt vagy micsoda.}
 {199}{}{Look who's talking tribal.}
-{200}{}{Némat, német, nemét, vagy valami ilyesmi. Õsi nyelv, már nagyon régi.}
+{200}{}{NÃ©mat, nÃ©met, nemÃ©t, vagy valami ilyesmi. Åsi nyelv, mÃ¡r nagyon rÃ©gi.}
 {201}{}{Et tu, Brutus?}
-{202}{}{Értem. Bár, volna még néhány kérdésem.}
-{203}{}{Ez a leghülyébb dolog, amit egész életemben hallottam.}
-{204}{}{Lenyûgözõ... viszont mennem kell.}
+{202}{}{Ã‰rtem. BÃ¡r, volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem.}
+{203}{}{Ez a leghÃ¼lyÃ©bb dolog, amit egÃ©sz Ã©letemben hallottam.}
+{204}{}{LenyÅ±gÃ¶zÅ‘... viszont mennem kell.}
 {205}{}{Our mission is to provide a steady and high-quality labor force to
  handle the ever-growing demands of the larger cities. Would you like to join?}
-{206}{}{Persze. Jól hangzik.}
-{207}{}{Szó sem lehet róla!}
-{208}{}{Erre majd még visszaérünk. Mely városok veszik a rabszolgáitokat?}
-{209}{}{Sajnálom, ez csak a céh tagjaira tartozik.}
-{210}{}{Oké. Belépek!}
+{206}{}{Persze. JÃ³l hangzik.}
+{207}{}{SemmikÃ©pp.}
+{208}{}{Erre majd mÃ©g visszaÃ©rÃ¼nk. Mely vÃ¡rosok veszik a rabszolgÃ¡itokat?}
+{209}{}{SajnÃ¡lom, ez csak a cÃ©h tagjaira tartozik.}
+{210}{}{OkÃ©. BelÃ©pek!}
 {211}{}{Nem! Ti betegek vagytok!}
-{212}{}{Ezt még átgondolom. Lenne még pár kérdésem.}
-{213}{}{Hmm, késõbb visszajövök.}
-{214}{}{A Rabszolga-Céh felé mutatott hûséged zálogaként jelet égetünk a homlokodra egy izzó vassal. Készen állsz?}
-{215}{}{Jól hangzik! Csináld!}
-{216}{}{Meggondoltam magam. Kérdezhetek valamit?}
-{217}{}{Erre most nincs idõm. Mennem kell.}
-{218}{}{Üdvözöllek a céhben!}
-{219}{}{Remek, van pár kérdésem!}
-{220}{}{Oké, köszi. Késõbb visszajövök.}
-{221}{}{13-as Menedék? Nem. Várj... azt hiszem, Vic Menedékvárosból jött. Talán ott megtalálod.}
+{212}{}{Ezt mÃ©g Ã¡tgondolom. Lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{213}{}{Hmm, kÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{214}{}{A Rabszolga-CÃ©h felÃ© mutatott hÅ±sÃ©ged zÃ¡logakÃ©nt jelet Ã©getÃ¼nk a homlokodra egy izzÃ³ vassal. KÃ©szen Ã¡llsz?}
+{215}{}{JÃ³l hangzik! CsinÃ¡ld!}
+{216}{}{Meggondoltam magam. KÃ©rdezhetek valamit?}
+{217}{}{Erre most nincs idÅ‘m. Mennem kell.}
+{218}{}{ÃœdvÃ¶zÃ¶llek a cÃ©hben!}
+{219}{}{Remek, van pÃ¡r kÃ©rdÃ©sem!}
+{220}{}{OkÃ©, kÃ¶szi. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{221}{}{13-as MenedÃ©k? Nem. VÃ¡rj... azt hiszem, Vic MenedÃ©kvÃ¡rosbÃ³l jÃ¶tt. TalÃ¡n ott megtalÃ¡lod.}
 {222}{}{Igen, hol van?}
-{223}{}{Nem. Viszont lenne még pár kérdésem.}
-{224}{}{Vedd úgy, hogy nem mondtam semmit!}
-{225}{}{A rabszolgáink nagy részét Menedékvárosnak és New Renónak adjuk el. New Reno innen délkeletre van és a Rejtekbeliek többsége üzletel velük.}
-{226}{}{Hol van Menedékváros?}
-{227}{}{Volna még néhány kérdésem.}
-{228}{}{Kösz, mennem kell.}
-{229}{}{Menedékváros innen keletre és egy kicsit délre van. Onnan jött Vic.}
-{230}{}{Volna még néhány kérdésem.}
-{231}{}{Kösz, mennem kell.}
-{232}{}{Hmm, egészséges rabszolgának látszik. Adok érte }
-{233}{}{ dollárt.}
-{234}{}{Oké! Megegyeztünk.}
-{235}{}{Öö, felejtsd el.}
-{236}{}{Semmiképp! Kétszer ennyit akarok érte!}
-{237}{}{Neked aztán van üzleti érzéked. Itt a pénzed.}
-{238}{}{Kösz. Van még pár kérdésem.}
-{239}{}{Kösz. Viszlát!}
-{240}{}{Másvalamit?}
-{241}{}{Igen, egy kérdés.}
-{242}{}{Nem. Szeva.}
-{243}{}{Melyik "barátodat" akarod eladni?}
-{244}{}{Ömm, felejtsd el!}
-{245}{}{Érdekes. Adok érte }
-{246}{}{ dollárt.}
+{223}{}{Nem. Viszont lenne mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{224}{}{Vedd Ãºgy, hogy nem mondtam semmit!}
+{225}{}{A rabszolgÃ¡ink nagy rÃ©szÃ©t MenedÃ©kvÃ¡rosnak Ã©s New RenÃ³nak adjuk el. New Reno innen dÃ©lkeletre van Ã©s a Rejtekbeliek tÃ¶bbsÃ©ge Ã¼zletel velÃ¼k.}
+{226}{}{Hol van MenedÃ©kvÃ¡ros?}
+{227}{}{MÃ¡st szeretnÃ©k kÃ©rdezni.}
+{228}{}{KÃ¶sz, mennem kell.}
+{229}{}{MenedÃ©kvÃ¡ros innen keletre Ã©s egy kicsit dÃ©lre van. Onnan jÃ¶tt Vic.}
+{230}{}{MÃ¡st szeretnÃ©k kÃ©rdezni.}
+{231}{}{KÃ¶sz, mennem kell.}
+{232}{}{Hmm, egÃ©szsÃ©ges rabszolgÃ¡nak lÃ¡tszik. Adok Ã©rte }
+{233}{}{ dollÃ¡rt.}
+{234}{}{OkÃ©! MegegyeztÃ¼nk.}
+{235}{}{Ã–Ã¶, felejtsd el.}
+{236}{}{SemmikÃ©pp! KÃ©tszer ennyit akarok Ã©rte!}
+{237}{}{Neked aztÃ¡n van Ã¼zleti Ã©rzÃ©ked. Itt a pÃ©nzed.}
+{238}{}{KÃ¶sz. Van mÃ©g pÃ¡r kÃ©rdÃ©sem.}
+{239}{}{KÃ¶szÃ¶nÃ¶m. ViszlÃ¡t!}
+{240}{}{MÃ¡svalamit?}
+{241}{}{Igen, egy kÃ©rdÃ©s.}
+{242}{}{Nem. PÃ¡!}
+{243}{}{Melyik "barÃ¡todat" akarod eladni?}
+{244}{}{Ã–mm, felejtsd el!}
+{245}{}{Ã‰rdekes. Adok Ã©rte }
+{246}{}{ dollÃ¡rt.}
 {247}{}{Eladva!}
-{248}{}{Nem, kösz.}
-{249}{}{Ennél többet is megér!}
-{250}{}{Rendben, adok érte }
-{251}{}{ dollárt, de többet nem!}
+{248}{}{Nem, kÃ¶sz.}
+{249}{}{EnnÃ©l tÃ¶bbet is megÃ©r!}
+{250}{}{Rendben, adok Ã©rte }
+{251}{}{ dollÃ¡rt, de tÃ¶bbet nem!}
 {252}{}{Eladva!}
-{253}{}{Nem elég jó.}
-{254}{}{Ez túl kevés. El is megyek.}
-{255}{}{Mit akarsz Vic-kel? Õ már az én tulajdonom. Nem kellett volna átbasznia.}
+{253}{}{Nem elÃ©g jÃ³.}
+{254}{}{Ez tÃºl kevÃ©s. El is megyek.}
+{255}{}{Mit akarsz Vic-kel? Å mÃ¡r az Ã©n tulajdonom. Nem kellett volna Ã¡tbasznia.}
 {256}{}{Meg akarom venni.}
-{257}{}{Miért tartod itt?}
-{258}{}{Semmi-semmi... Nem érdekes.}
-{259}{}{Nem eladó... egyelõre.}
-{260}{}{Merthogy?}
-{261}{}{Rendben.}
-{262}{}{2000 dollárba kerül.}
-{263}{}{Itt a pénzed.}
-{264}{}{Az rengeteg. Talán késõbb.}
-{265}{}{1000 dollárod bánja.}
-{266}{}{Itt a pénzed.}
-{267}{}{Még nincs annyim. Viszlát!}
-{268}{}{Elromlott a rádiónk és õ felel a javításáért.}
-{269}{}{Értem.}
-{270}{}{Nincs elég pénzed!}
-{271}{}{Mindig én húzom a rövidebbet. Kérdezhetek valamit?}
-{272}{}{Bocs, majd késõbb visszajövök.}
-{307}{}{Hogy mersz viszajönni, miután cserben hagytad a barátaidat a rabszolga-vadászaton? Õrség! Támadás!}
-{308}{}{[kész]}
-{309}{}{Kiváló! Pár napodba telik, amíg oda-vissza megjárod az utat. Készen állsz?}
-{310}{}{Nem. Késõbb visszajövök.}
-{311}{}{Igen, készen állok. Menjünk!}
-{312}{}{Áh, visszajöttél a rabszolga-vadászatról. Nézzük csak, hogy muzsikáltál...}
-{313}{}{[még]}
-{314}{}{[még]}
-{315}{}{Potenciális rabszolgákat öltél meg! A halott ember nem hoz bevételt! Csak azokat öld meg, akik rádtámadnak!}
-{316}{}{[még]}
-{317}{}{Egyetlen rabszolgát sem hoztál! Mi a franc van veled, ember? Mi itt pénzt akarunk keresni, nem akarjuk kiszórni az ablakon!}
-{318}{}{[még]}
-{319}{}{Mindent összevetve jó munkát végeztél. Csak így tovább, és szép jövõd lesz a céhnél.}
-{320}{}{Köszönöm. Rajta leszek...}
-{321}{}{Ez nem igazán tetszik nekem.}
-{322}{}{Javítanod kell a rabszolga-ejtési technikádon.}
-{323}{}{Megpróbálom.}
-{324}{}{Elnézést kérek a szörnyû szereplésemért.}
-{325}{}{Azt hiszem, elég jó vagyok.}
-{326}{}{Francba! Szörnyû voltál ezen a vadászaton! Csõdbe akarsz juttatni minket? Légy óvatosabb legközelebb! Nem kell mindegyiket megölni! Csak az ellenségesekkel végezz! A fegyverteleneket hagyd meg begyûjtésre.}
-{327}{}{Igazán sajnálom, Metzger.}
-{328}{}{Nehéz a rabszolga-hajcsárok dolga!}
-{329}{}{Szeretném látni, hogy jobban csinálod.}
-{330}{}{Szeretnék elmenni egy rabszolga-vadászatra.}
+{257}{}{MiÃ©rt tartod itt?}
+{258}{}{Semmit. Felejtsd el.}
+{259}{}{Nem eladÃ³... egyelÅ‘re.}
+{260}{}{MiÃ©rt nem?}
+{261}{}{Ã“, okÃ©.}
+{262}{}{2000 dollÃ¡rba kerÃ¼l.}
+{263}{}{Itt a pÃ©nz.}
+{264}{}{Az rengeteg. TalÃ¡n kÃ©sÅ‘bb.}
+{265}{}{1000 dollÃ¡rod bÃ¡nja.}
+{266}{}{Itt a pÃ©nz.}
+{267}{}{MÃ©g nincs annyim. ViszlÃ¡t!}
+{268}{}{Elromlott a rÃ¡diÃ³nk Ã©s Å‘ felel a javÃ­tÃ¡sÃ¡Ã©rt.}
+{269}{}{Ã‰rtem.}
+{270}{}{Nincs elÃ©g pÃ©nzed!}
+{271}{}{Mindig Ã©n hÃºzom a rÃ¶videbbet. KÃ©rdezhetek valamit?}
+{272}{}{Bocs, majd kÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{307}{}{Hogy mersz viszajÃ¶nni, miutÃ¡n cserben hagytad a barÃ¡taidat a rabszolga-vadÃ¡szaton? ÅrsÃ©g! TÃ¡madÃ¡s!}
+{308}{}{[kÃ©sz]}
+{309}{}{KivÃ¡lÃ³! PÃ¡r napodba telik, amÃ­g oda-vissza megjÃ¡rod az utat. KÃ©szen Ã¡llsz?}
+{310}{}{Nem. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{311}{}{Igen, kÃ©szen Ã¡llok. MenjÃ¼nk!}
+{312}{}{Ãh, visszajÃ¶ttÃ©l a rabszolga-vadÃ¡szatrÃ³l. NÃ©zzÃ¼k csak, hogy muzsikÃ¡ltÃ¡l...}
+{313}{}{[tovÃ¡bb]}
+{314}{}{[tovÃ¡bb]}
+{315}{}{PotenciÃ¡lis rabszolgÃ¡kat Ã¶ltÃ©l meg! A halott ember nem hoz bevÃ©telt! Csak azokat Ã¶ld meg, akik rÃ¡dtÃ¡madnak!}
+{316}{}{[tovÃ¡bb]}
+{317}{}{Egyetlen rabszolgÃ¡t sem hoztÃ¡l! Mi a franc van veled, ember? Mi itt pÃ©nzt akarunk keresni, nem akarjuk kiszÃ³rni az ablakon!}
+{318}{}{[tovÃ¡bb]}
+{319}{}{Mindent Ã¶sszevetve jÃ³ munkÃ¡t vÃ©geztÃ©l. Csak Ã­gy tovÃ¡bb, Ã©s szÃ©p jÃ¶vÅ‘d lesz a cÃ©hnÃ©l.}
+{320}{}{KÃ¶szÃ¶nÃ¶m. Rajta leszek...}
+{321}{}{Ez nem igazÃ¡n tetszik nekem.}
+{322}{}{JavÃ­tanod kell a rabszolga-ejtÃ©si technikÃ¡don.}
+{323}{}{MegprÃ³bÃ¡lom.}
+{324}{}{ElnÃ©zÃ©st kÃ©rek a szÃ¶rnyÅ± szereplÃ©semÃ©rt.}
+{325}{}{Azt hiszem, elÃ©g jÃ³ vagyok.}
+{326}{}{Francba! SzÃ¶rnyÅ± voltÃ¡l ezen a vadÃ¡szaton! CsÅ‘dbe akarsz juttatni minket? LÃ©gy Ã³vatosabb legkÃ¶zelebb! Nem kell mindegyiket megÃ¶lni! Csak az ellensÃ©gesekkel vÃ©gezz! A fegyverteleneket hagyd meg begyÅ±jtÃ©sre.}
+{327}{}{IgazÃ¡n sajnÃ¡lom, Metzger.}
+{328}{}{NehÃ©z a rabszolga-hajcsÃ¡rok dolga!}
+{329}{}{SzeretnÃ©m lÃ¡tni, hogy jobban csinÃ¡lod.}
+{330}{}{SzeretnÃ©k elmenni egy rabszolga-vadÃ¡szatra.}
 {331}{}{Damn it! I hate losing any guild member on a Run. Try to watch each other's back!}
-{332}{}{Összegezve a dolgokat, jó munkát végeztél. Itt van }
-{333}{}{ dollár buzdítás gyanánt, hogy továbbra is hasonlóan jó munkát végezz.}
+{332}{}{Ã–sszegezve a dolgokat, jÃ³ munkÃ¡t vÃ©geztÃ©l. Itt van }
+{333}{}{ dollÃ¡r buzdÃ­tÃ¡s gyanÃ¡nt, hogy tovÃ¡bbra is hasonlÃ³an jÃ³ munkÃ¡t vÃ©gezz.}

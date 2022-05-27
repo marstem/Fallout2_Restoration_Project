@@ -1,237 +1,237 @@
-{100}{}{Õ Nagy Jesus Mordino.}
-{150}{}{Egy kövér, gombszemû embert látsz magad elõtt. Izzad és közben nehezen veszi a levegõt.}
-{151}{}{Õ Nagy Jesus Mordino személyesen. Izzad és nehezen veszi a levegõt.}
-{200}{}{MENJ ONNAN!!!}
+{100}{}{Å Nagy Jesus Mordino.}
+{150}{}{Egy kÃ¶vÃ©r, gombszemÅ± embert lÃ¡tsz magad elÅ‘tt. Izzad Ã©s kÃ¶zben nehezen veszi a levegÅ‘t.}
+{151}{}{Å Nagy Jesus Mordino szemÃ©lyesen. Izzad Ã©s nehezen veszi a levegÅ‘t.}
+{200}{}{Eridj onnan!}
 {201}{}{Az ott... nem a tied!}
-{202}{}{Ha még egyszer hozzányúlsz... a Golgotán fogsz megrohadni.}
-{210}{}{::Zihál::}
-{211}{}{*Köhécsel*}
-{212}{}{::Letörli az izzadságot a homlokáról::}
-{220}{}{Te vagy a... ::köhécsel:: ...a legjobb emberem.}
-{221}{}{A renói lakosok... ::köhög:: ...megadják a kellõ tiszteletet?}
+{202}{}{Ha mÃ©g egyszer hozzÃ¡nyÃºlsz... a GolgotÃ¡n fogsz megrohadni.}
+{210}{}{::ZihÃ¡l::}
+{211}{}{*KÃ¶hÃ©csel*}
+{212}{}{::LetÃ¶rli az izzadsÃ¡got a homlokÃ¡rÃ³l::}
+{220}{}{Te vagy a... ::kÃ¶hÃ©csel:: ...a legjobb emberem.}
+{221}{}{A renÃ³i lakosok... ::kÃ¶hÃ¶g:: ...megadjÃ¡k a kellÅ‘ tiszteletet?}
 {230}{}{Urgggg...}
 {231}{}{...Dios mio...}
-{232}{}{...a szívem...}
-{233}{}{höörrrggg}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
-{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
+{232}{}{...a szÃ­vem...}
+{233}{}{hÃ¶Ã¶rrrggg}
+{240}{}{(A fÃ©rfi farkasszemet nÃ©z veled. A lÃ¡ztÃ³l igen sÃ¡padt, az izzadsÃ¡g patakokban folyik az arcÃ¡n, Ã©s benedvesÃ­ti a ruhÃ¡jÃ¡t. }
+{241}{}{RÃ¡d Ã¼gyet sem vet, ehelyett Myront mÃ©ricskÃ©li. Ãšgy tÅ±nik, csak arra vÃ¡r, hogy megszÃ³laljon.)}
+{242}{}{RÃ¡dbÃ¡mul, lÃ¡tszik, hogy csak arra vÃ¡r, hogy megszÃ³lalj.)}
 {243}{}{[Stare back at him with your meanest stare.]}
 {244}{}{[Stare back at him with mild disinterest.]}
 {245}{}{[Stare back at him with a sneering gaze.]}
 {246}{}{[Stare back at him with affected disinterest.]}
 {247}{}{[Wander off.]}
-{248}{}{Ki vagy te?}
+{248}{}{Ki vagy?}
 {249}{}{Maga Jesus Mordino?}
-{250}{}{Bocsánat. Rossz szobába jöttem.}
-{260}{}{Hát te? (Ahogy Myron belép, Mordino pillantása egybõl rászegezõdik. Szeme sötét villámokat szór.) Elhagytad... a helyedet. A pályafutásodnak nálam mostantól vége. (Int az õreinek, akik készenlétbe helyezik a fegyvereiket.)}
-{261}{}{(A férfi pillantása megkomorodik, majd int az õreinek, akik fegyvert húznak.)}
-{262}{}{(Nagy Jesus pillantása megkomorodik, majd int az õreinek, akik fegyvert húznak.)}
-{263}{}{Aiiiiiiééééééé!}
-{264}{}{Jácca le!}
-{265}{}{Fuss!}
-{266}{}{Õha! Õha...!}
-{267}{}{Hé! Várjunk egy pillanatra...!}
-{268}{}{Akar EBBÕL, dagadék? Kell egy kis bemutató, milyen ember }
-{275}{}{(A férfi reszelõs hangon szólal meg.) Jesus... Mordino vagyok. SENOR Mordinónak fogsz szólítani. (A homlokán legördül egy izzadságcsepp.) Mi dolgod van itt?}
-{276}{}{Visszajöttél hát... (A homlokán legördül egy izzadságcsepp.) Mi... dolgod van nálam?}
-{277}{}{Munkát keresek.}
-{278}{}{Beszéltem a fiával, Senor Mordino. Munkát keresek.}
-{279}{}{Beszéltem a fiával, Senor Mordino. Hajcsár vagyok, és vannak eladó rabszolgáim.}
-{280}{}{Tud valamit Mr. Wright fia halálának körülményeirõl?}
-{281}{}{Csak nem a meleg zavarja? Mintha elég kényelmetlenül érezné magát...}
-{282}{}{Ma nincs üzlet. Mennem kell.}
-{290}{}{(Jó darabig tanulmányozgat, aztán megrázza a fejét.) Nem tûnsz valami... ERÕSNEK. Számodra nincs munka.}
-{291}{}{(Jó darabig tanulmányozgat, aztán megrázza a fejét.) Te... NÕ vagy. Az elvégzendõ munka nem nõknek való.}
-{292}{}{Adjon egy esélyt! Bízzon meg valamivel - bármivel - én meg tudom csinálni!}
-{293}{}{Adjon egy esélyt, Senor Mordino! Bízzon meg valamivel, bármivel, én meg tudom csinálni!}
-{294}{}{Hadd bizonyítsam be a rátermettségemet! Bármit megcsinálok!}
-{295}{}{Hadd bizonyítsam be a rátermettségemet, Senor Mordino! Bármit megcsinálok!}
-{296}{}{Na, jó. Késõbb találkozunk.}
-{305}{}{(Mordino arcán izzadság gyöngyözik, és igen komor lesz az arckifejezése.) Amit mondtam, megmondtam... Nincs munkám a számodra... Távozz... és ne is gyere vissza!}
-{306}{}{Ugyan már, Nagy Jesus... csak egy esélyt adjon már...}
-{307}{}{Na, jó, rendben. Viszlát!}
-{315}{}{(Mordino nem szól egy darabig, aztán beszélni kezd.) Jesus Mordino vagyok, a Mordino család feje. Bejöttél a kaszinómba... Az otthonomba. Nem mutattál... tiszteletet. Most tanulni fogsz ebbõl a hibádból.}
-{316}{}{Szerintem ha valaki tanulni fog itt egy-két dolgot, az MAGA lesz...}
-{317}{}{Ejha! Várjunk már... beszéljük meg! Én igazán nem...}
-{318}{}{Az ajtó felé rohansz.}
-{319}{}{::Fedezéket keresve lassított felvételben húzod elõ a fegyveredet, miközben a semmibõl csak egyre jönnek a nehézfiúk.::}
-{325}{}{(Mordino vár egy darabig. Miközben figyeled, egy újabb izzadságcsepp gördül végig az arcán.)}
-{326}{}{Néhány rabszolgát pénzzé akartam tenni...}
-{327}{}{Mit tud Richard Wright haláláról?}
-{329}{}{Senkit.}
-{335}{}{(Megtanulmányoz kicsit...) Én... nem ismerlek téged, de azért meghallgatlak... (Letörli az izzadságot a homlokáról.)}
-{336}{}{Szóval eladó rabszolgáid vannak?}
-{337}{}{Pontosan, itt vannak velem. Vessen rájuk egy pillantást, és tegyen ajánlatot!}
-{338}{}{Nem, nem igazán. Rosszul fejeztem ki magam. Munkát keresek, nem rabszolgákat akarok eladni.}
-{339}{}{Igazából... néhány kérdésem volna magához.}
-{340}{}{Nem, bocsánat. Hirtelen eszembe jutott, hogy most nagyon máshol kéne lennem.}
-{345}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad Mirián és megnyalja a szája szélét.) A puta friss darabnak látszik... Adok érte 250 dolcsit.}
-{346}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad Davinon.) Habár nem valami erõs fajta, az a fiú jöhet... Adok érte 200 dolcsit.}
-{347}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad Sulikon... és fintorogni kezd.) Az a kannibál-kinézetû... bûzlik, mint a görény, de legalább bivalyerõsnek tûnik... 100 dolcsiért átveszem.}
-{348}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad Vicen.) Az öregember jöhet... látszik, hogy van már néhány év tapasztalat mögötte. Adok érte 100 dolcsit.}
-{349}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad Cassidy-n.) Az az öregember ér valamit... látszik, hogy van már néhány év tapasztalat mögötte. Adok érte 100 dolcsit.}
-{350}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad a roboton.) Az a gép ott érdekel.. Adok érte 500 dolcsit.}
-{351}{}{(Mordino szemügyre veszi a társaidat. Pillantása megakad a kiberkutyán.) Azt a gépkutyát megvásárolom... Adok érte 500 dolcsit.}
-{352}{}{(Mordino szemügyre veszi a társaidat, de csak a fejét rázza.) Nincs itt senki olyan, aki érdekelne engem.}
-{353}{}{Senor Mordino, kérem... az a rabszolga SOKKAL többet ér annál. Évekig szolgálhatja még magát.}
-{354}{}{Az ár elfogadható. A rabszolga a magáé.}
-{355}{}{Hagyjuk! Inkább kérdeznék valamit.}
-{356}{}{Jobban belegondolva, még nem is akarom eladni. Viszlát!}
-{357}{}{Rendben. Kérdezhetek valamit?}
-{358}{}{Akkor megyek is. Viszlát!}
-{370}{}{Nem. Csak sokat utazott, ezért fáradtnak látszik... 250 dolcsi, vagy megtartom.}
-{371}{}{A fiú puhánynak és gyengének látszik. 200 dolcsinál többet nem adok érte.}
-{372}{}{Nem. A kannibál bûzlik és eléggé... nehéz esetnek tûnik. Kemény lesz betörni. 100 dollár, egy centtel sem több!}
-{373}{}{A fickó túl idõs. 100 dolcsit adok érte.}
-{375}{}{Nem addig van az. 500 dolcsit akarok érte.}
-{377}{}{Senor Mordino, kérem... ne hozzon ki a sodromból. Ez elsõrangú áru, és sokkal többet ér annál.}
-{390}{}{(Mordino körbejárja Miriát, gondosan megtanulmányozza az arcát, aztán rácsap a fenekére.) Hmmm. Legyen akkor 500 dollár.}
+{250}{}{BocsÃ¡nat. Rossz szobÃ¡ba jÃ¶ttem.}
+{260}{}{HÃ¡t te? (Ahogy Myron belÃ©p, Mordino pillantÃ¡sa egybÅ‘l rÃ¡szegezÅ‘dik. Szeme sÃ¶tÃ©t villÃ¡mokat szÃ³r.) Elhagytad... a helyedet. A pÃ¡lyafutÃ¡sodnak nÃ¡lam mostantÃ³l vÃ©ge. (Int az Å‘reinek, akik kÃ©szenlÃ©tbe helyezik a fegyvereiket.)}
+{261}{}{(A fÃ©rfi pillantÃ¡sa megkomorodik, majd int az Å‘reinek, akik fegyvert hÃºznak.)}
+{262}{}{(Nagy Jesus pillantÃ¡sa megkomorodik, majd int az Å‘reinek, akik fegyvert hÃºznak.)}
+{263}{}{AiiiiiiÃ©Ã©Ã©Ã©Ã©Ã©Ã©!}
+{264}{}{JÃ¡cca le!}
+{265}{}{FutÃ¡s!}
+{266}{}{Åha! Åha...!}
+{267}{}{HÃ©! VÃ¡rjunk egy pillanatra...!}
+{268}{}{Akar EBBÅL, dagadÃ©k? Kell egy kis bemutatÃ³, milyen ember }
+{275}{}{(A fÃ©rfi reszelÅ‘s hangon szÃ³lal meg.) Jesus... Mordino vagyok. SENOR MordinÃ³nak fogsz szÃ³lÃ­tani. (A homlokÃ¡n legÃ¶rdÃ¼l egy izzadsÃ¡gcsepp.) Mi dolgod van itt?}
+{276}{}{VisszajÃ¶ttÃ©l hÃ¡t... (A homlokÃ¡n legÃ¶rdÃ¼l egy izzadsÃ¡gcsepp.) Mi... dolgod van nÃ¡lam?}
+{277}{}{MunkÃ¡t keresek.}
+{278}{}{BeszÃ©ltem a fiÃ¡val, Senor Mordino. MunkÃ¡t keresek.}
+{279}{}{BeszÃ©ltem a fiÃ¡val, Senor Mordino. HajcsÃ¡r vagyok, Ã©s vannak eladÃ³ rabszolgÃ¡im.}
+{280}{}{Tud valamit Mr. Wright fia halÃ¡lÃ¡nak kÃ¶rÃ¼lmÃ©nyeirÅ‘l?}
+{281}{}{Csak nem a meleg zavarja? Mintha elÃ©g kÃ©nyelmetlenÃ¼l Ã©reznÃ© magÃ¡t...}
+{282}{}{Ma nincs Ã¼zlet. Mennem kell.}
+{290}{}{(JÃ³ darabig tanulmÃ¡nyozgat, aztÃ¡n megrÃ¡zza a fejÃ©t.) Nem tÅ±nsz valami... ERÅSNEK. SzÃ¡modra nincs munka.}
+{291}{}{(JÃ³ darabig tanulmÃ¡nyozgat, aztÃ¡n megrÃ¡zza a fejÃ©t.) Te... NÅ vagy. Az elvÃ©gzendÅ‘ munka nem nÅ‘knek valÃ³.}
+{292}{}{Adjon egy esÃ©lyt! BÃ­zzon meg valamivel - bÃ¡rmivel - Ã©n meg tudom csinÃ¡lni!}
+{293}{}{Adjon egy esÃ©lyt, Senor Mordino! BÃ­zzon meg valamivel, bÃ¡rmivel, Ã©n meg tudom csinÃ¡lni!}
+{294}{}{Hadd bizonyÃ­tsam be a rÃ¡termettsÃ©gemet! BÃ¡rmit megcsinÃ¡lok!}
+{295}{}{Hadd bizonyÃ­tsam be a rÃ¡termettsÃ©gemet, Senor Mordino! BÃ¡rmit megcsinÃ¡lok!}
+{296}{}{Na, jÃ³. KÃ©sÅ‘bb talÃ¡lkozunk.}
+{305}{}{(Mordino arcÃ¡n izzadsÃ¡g gyÃ¶ngyÃ¶zik, Ã©s igen komor lesz az arckifejezÃ©se.) Amit mondtam, megmondtam... Nincs munkÃ¡m a szÃ¡modra... TÃ¡vozz... Ã©s ne is gyere vissza!}
+{306}{}{Ugyan mÃ¡r, Nagy Jesus... csak egy esÃ©lyt adjon mÃ¡r...}
+{307}{}{Na, rendben, ne forszÃ­rozzuk. ViszlÃ¡t!}
+{315}{}{(Mordino nem szÃ³l egy darabig, aztÃ¡n beszÃ©lni kezd.) Jesus Mordino vagyok, a Mordino csalÃ¡d feje. BejÃ¶ttÃ©l a kaszinÃ³mba... Az otthonomba. Nem mutattÃ¡l... tiszteletet. Most tanulni fogsz ebbÅ‘l a hibÃ¡dbÃ³l.}
+{316}{}{Szerintem ha valaki tanulni fog itt egy-kÃ©t dolgot, az MAGA lesz...}
+{317}{}{Ejha! VÃ¡rjunk mÃ¡r... beszÃ©ljÃ¼k meg! Ã‰n igazÃ¡n nem...}
+{318}{}{Az ajtÃ³ felÃ© rohansz.}
+{319}{}{::FedezÃ©ket keresve lassÃ­tott felvÃ©telben hÃºzod elÅ‘ a fegyveredet, mikÃ¶zben a semmibÅ‘l csak egyre jÃ¶nnek a nehÃ©zfiÃºk.::}
+{325}{}{(Mordino vÃ¡r egy darabig. MikÃ¶zben figyeled, egy Ãºjabb izzadsÃ¡gcsepp gÃ¶rdÃ¼l vÃ©gig az arcÃ¡n.)}
+{326}{}{NÃ©hÃ¡ny rabszolgÃ¡t pÃ©nzzÃ© akartam tenni...}
+{327}{}{Mit tud Richard Wright halÃ¡lÃ¡rÃ³l?}
+{329}{}{Hagyjuk!}
+{335}{}{(MegtanulmÃ¡nyoz kicsit...) Ã‰n... nem ismerlek tÃ©ged, de azÃ©rt meghallgatlak... (LetÃ¶rli az izzadsÃ¡got a homlokÃ¡rÃ³l.)}
+{336}{}{SzÃ³val eladÃ³ rabszolgÃ¡id vannak?}
+{337}{}{Pontosan, itt vannak velem. Vessen rÃ¡juk egy pillantÃ¡st, Ã©s tegyen ajÃ¡nlatot!}
+{338}{}{Nem, nem igazÃ¡n. Rosszul fejeztem ki magam. MunkÃ¡t keresek, nem rabszolgÃ¡kat akarok eladni.}
+{339}{}{IgazÃ¡bÃ³l... nÃ©hÃ¡ny kÃ©rdÃ©sem volna magÃ¡hoz.}
+{340}{}{Nem, bocsÃ¡nat. Hirtelen eszembe jutott, hogy most nagyon mÃ¡shol kÃ©ne lennem.}
+{345}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad MiriÃ¡n Ã©s megnyalja a szÃ¡ja szÃ©lÃ©t.) A puta friss darabnak lÃ¡tszik... Adok Ã©rte 250 dolcsit.}
+{346}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad Davinon.) HabÃ¡r nem valami erÅ‘s fajta, az a fiÃº jÃ¶het... Adok Ã©rte 200 dolcsit.}
+{347}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad Sulikon... Ã©s fintorogni kezd.) Az a kannibÃ¡l-kinÃ©zetÅ±... bÅ±zlik, mint a gÃ¶rÃ©ny, de legalÃ¡bb bivalyerÅ‘snek tÅ±nik... 100 dolcsiÃ©rt Ã¡tveszem.}
+{348}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad Vicen.) Az Ã¶regember jÃ¶het... lÃ¡tszik, hogy van mÃ¡r nÃ©hÃ¡ny Ã©v tapasztalat mÃ¶gÃ¶tte. Adok Ã©rte 100 dolcsit.}
+{349}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad Cassidy-n.) Az az Ã¶regember Ã©r valamit... lÃ¡tszik, hogy van mÃ¡r nÃ©hÃ¡ny Ã©v tapasztalat mÃ¶gÃ¶tte. Adok Ã©rte 100 dolcsit.}
+{350}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad a roboton.) Az a gÃ©p ott Ã©rdekel.. Adok Ã©rte 500 dolcsit.}
+{351}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat. PillantÃ¡sa megakad a kiberkutyÃ¡n.) Azt a gÃ©pkutyÃ¡t megvÃ¡sÃ¡rolom... Adok Ã©rte 500 dolcsit.}
+{352}{}{(Mordino szemÃ¼gyre veszi a tÃ¡rsaidat, de csak a fejÃ©t rÃ¡zza.) Nincs itt senki olyan, aki Ã©rdekelne engem.}
+{353}{}{Senor Mordino, kÃ©rem... az a rabszolga SOKKAL tÃ¶bbet Ã©r annÃ¡l. Ã‰vekig szolgÃ¡lhatja mÃ©g magÃ¡t.}
+{354}{}{Az Ã¡r elfogadhatÃ³. A rabszolga a magÃ¡Ã©.}
+{355}{}{IgazÃ¡ndibÃ³l egyet sem akarok eladni, hanem kÃ©rdÃ©seket akartam feltenni magÃ¡nak...}
+{356}{}{Az igazat megvallva nem akarom eladni azt a rabszolgÃ¡t. TÃ©rjÃ¼nk rÃ¡ vissza mÃ¡skor!}
+{357}{}{JÃ³l van. Viszont volna nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{358}{}{Rendben. KÃ©sÅ‘bb, ha jobb lesz a felhozatal, visszatÃ©rÃ¼nk rÃ¡.}
+{370}{}{Nem. Csak sokat utazott, ezÃ©rt fÃ¡radtnak lÃ¡tszik... 250 dolcsi, vagy megtartom.}
+{371}{}{A fiÃº puhÃ¡nynak Ã©s gyengÃ©nek lÃ¡tszik. 200 dolcsinÃ¡l tÃ¶bbet nem adok Ã©rte.}
+{372}{}{Nem. A kannibÃ¡l bÅ±zlik Ã©s elÃ©ggÃ©... nehÃ©z esetnek tÅ±nik. KemÃ©ny lesz betÃ¶rni. 100 dollÃ¡r, egy centtel sem tÃ¶bb!}
+{373}{}{A fickÃ³ tÃºl idÅ‘s. 100 dolcsit adok Ã©rte.}
+{375}{}{Nem addig van az. 500 dolcsit akarok Ã©rte.}
+{377}{}{Senor Mordino, kÃ©rem... ne hozzon ki a sodrombÃ³l. Ez elsÅ‘rangÃº Ã¡ru, Ã©s sokkal tÃ¶bbet Ã©r annÃ¡l.}
+{390}{}{(Mordino kÃ¶rbejÃ¡rja MiriÃ¡t, gondosan megtanulmÃ¡nyozza az arcÃ¡t, aztÃ¡n rÃ¡csap a fenekÃ©re.) Hmmm. Legyen akkor 500 dollÃ¡r.}
 {391}{}{(Mordino walks around Davin, rolls up the boy's sleeve and examines his muscles, then checks his eyes for drug use.)
  Hmmmm. He looks strong enough. 400 chips for him, then.}
-{392}{}{(Mordino homlokát ráncolva körbejárja Sulikot.) Hmmm. Hát nem gyenge darab... bírja a fájdalmat, hogy egy ekkora csontot dugott az orrába. Legyen hát 200 dollár.}
-{393}{}{(Mordino körbejárja Vicet) Hmmmmm. Õt 200 dolcsiért megveszem, de nem többért.}
-{394}{}{(Mordino körbejárja Cassidy-t) Hmmmmm. Érte... adok 200 dolcsit, de nem többet.}
-{395}{}{(Mordino szép lassan körbejárja a robotot.) Hmmmmm. Adok érte 1000 ezer dolcsit.}
-{396}{}{(Mordino szép lassan tanulmányozgatja a kiberkutyát.) Legyen egyezer dollár.}
-{410}{}{(Miközben számolod a pénzedet, Mordino elvezetteti Miriát.) Tessék.}
-{411}{}{(Miközben számolod a pénzedet, Mordino elvezetteti Davint.) Tessék.}
-{412}{}{(Miközben számolod a pénzedet, Mordino elvezetteti Sulikot.) Tessék.}
-{413}{}{(Miközben számolod a pénzedet, Mordino elvezetteti Vicet.) Tessék.}
-{414}{}{(Miközben számolod a pénzedet, Mordino elvezetteti Cassidy-t.) Tessék.}
-{415}{}{(Miközben számolod a pénzedet, Mordino elvezetteti a robotot.) Tessék.}
-{416}{}{(Miközben számolod a pénzedet, Mordino elvezetteti a kiberkutyát.) Tessék.}
-{417}{}{Érdekelné esetleg, mi egyébbel tudok szolgálni?}
-{418}{}{Köszönöm, Senor Mordino. Apropó, csakúgy mellékesen volna néhány kérdésem magához...}
-{419}{}{Köszönöm, Senor Mordino. Remélem, kedvét leli a rabszolgában. Viszlát!}
-{430}{}{(Miközben izzadságcseppek gyöngyöznek rajta, Mordino arca elkomorodik.) Te egy rühös kutya vagy, abból is a legrosszabb fajta. Az ilyenektõl nem vásárlok semmit. Tûnés kifelé... és meg ne lássalak még egyszer itt!}
-{431}{}{Senor Mordino, kérem... gondolja át újra...}
-{432}{}{(Csendben távozol.)}
-{440}{}{(Mordino tanulmányozni kezd.) Nakéremszépen... volna egy munkám a számodra. Itt van ez a... (mély, sípoló lélegzetet vesz, és letörli az izzadságot a homlokáról) ...ez a csomag... vidd el a Renótól észak felé található Istállóba, és add oda egy... Ramirez nevû embernek! Utána gyere vissza!}
-{441}{}{Rendben. Elég könnyûnek tûnik.}
-{442}{}{Már indulok is, Senor Mordino.}
+{392}{}{(Mordino homlokÃ¡t rÃ¡ncolva kÃ¶rbejÃ¡rja Sulikot.) Hmmm. HÃ¡t nem gyenge darab... bÃ­rja a fÃ¡jdalmat, hogy egy ekkora csontot dugott az orrÃ¡ba. Legyen hÃ¡t 200 dollÃ¡r.}
+{393}{}{(Mordino kÃ¶rbejÃ¡rja Vicet) Hmmmmm. Åt 200 dolcsiÃ©rt megveszem, de nem tÃ¶bbÃ©rt.}
+{394}{}{(Mordino kÃ¶rbejÃ¡rja Cassidy-t) Hmmmmm. Ã‰rte... adok 200 dolcsit, de nem tÃ¶bbet.}
+{395}{}{(Mordino szÃ©p lassan kÃ¶rbejÃ¡rja a robotot.) Hmmmmm. Adok Ã©rte 1000 ezer dolcsit.}
+{396}{}{(Mordino szÃ©p lassan tanulmÃ¡nyozgatja a kiberkutyÃ¡t.) Legyen egyezer dollÃ¡r.}
+{410}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti MiriÃ¡t.) TessÃ©k.}
+{411}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti Davint.) TessÃ©k.}
+{412}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti Sulikot.) TessÃ©k.}
+{413}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti Vicet.) TessÃ©k.}
+{414}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti Cassidy-t.) TessÃ©k.}
+{415}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti a robotot.) TessÃ©k.}
+{416}{}{(MikÃ¶zben szÃ¡molod a pÃ©nzedet, Mordino elvezetteti a kiberkutyÃ¡t.) TessÃ©k.}
+{417}{}{Ã‰rdekelnÃ© esetleg, mi egyÃ©bbel tudok szolgÃ¡lni?}
+{418}{}{KÃ¶szÃ¶nÃ¶m, Senor Mordino. ApropÃ³, csakÃºgy mellÃ©kesen volna nÃ©hÃ¡ny kÃ©rdÃ©sem magÃ¡hoz...}
+{419}{}{KÃ¶szÃ¶nÃ¶m, Senor Mordino. RemÃ©lem, kedvÃ©t leli a rabszolgÃ¡ban. ViszlÃ¡t!}
+{430}{}{(MikÃ¶zben izzadsÃ¡gcseppek gyÃ¶ngyÃ¶znek rajta, Mordino arca elkomorodik.) Te egy rÃ¼hÃ¶s kutya vagy, abbÃ³l is a legrosszabb fajta. Az ilyenektÅ‘l nem vÃ¡sÃ¡rlok semmit. TÅ±nÃ©s kifelÃ©... Ã©s meg ne lÃ¡ssalak mÃ©g egyszer itt!}
+{431}{}{Senor Mordino, kÃ©rem... gondolja Ã¡t Ãºjra...}
+{432}{}{(Csendben tÃ¡vozol.)}
+{440}{}{(Mordino tanulmÃ¡nyozni kezd.) NakÃ©remszÃ©pen... volna egy munkÃ¡m a szÃ¡modra. Itt van ez a... (mÃ©ly, sÃ­polÃ³ lÃ©legzetet vesz, Ã©s letÃ¶rli az izzadsÃ¡got a homlokÃ¡rÃ³l) ...ez a csomag... vidd el a RenÃ³tÃ³l Ã©szak felÃ© talÃ¡lhatÃ³ IstÃ¡llÃ³ba, Ã©s add oda egy... Ramirez nevÅ± embernek! UtÃ¡na gyere vissza!}
+{441}{}{Rendben. ElÃ©g kÃ¶nnyÅ±nek tÅ±nik.}
+{442}{}{MÃ¡r indulok is, Senor Mordino.}
 {443}{}{Mi van a csomagban?}
-{444}{}{Öö... meggondoltam magam, azt hiszem, lépek.}
-{450}{}{Nem kérdezõsködésért fizetek...}
-{451}{}{Mielõtt elvállalnám, akarom tudni, mit szállítok. Veszélyes dolog van benne?}
-{452}{}{Na, jó, felejtse el. Elhúztam...}
-{460}{}{Menj végig a Szûz utcán, és a kaszinók után... kövesd a városból kivezetõ utat! Egyenesen az Istállóhoz vezet. Na, eridj!}
-{461}{}{(Követed az utasításait...)}
+{444}{}{Ã–Ã¶... meggondoltam magam, azt hiszem, lÃ©pek.}
+{450}{}{Nem kÃ©rdezÅ‘skÃ¶dÃ©sÃ©rt fizetek...}
+{451}{}{MielÅ‘tt elvÃ¡llalnÃ¡m, akarom tudni, mit szÃ¡llÃ­tok. VeszÃ©lyes dolog van benne?}
+{452}{}{Na, jÃ³, felejtse el. ElhÃºztam...}
+{460}{}{Menj vÃ©gig a SzÅ±z utcÃ¡n, Ã©s a kaszinÃ³k utÃ¡n... kÃ¶vesd a vÃ¡rosbÃ³l kivezetÅ‘ utat! Egyenesen az IstÃ¡llÃ³hoz vezet. Na, eridj!}
+{461}{}{(KÃ¶veted az utasÃ­tÃ¡sait...)}
 {470}{}{Have... you done as I asked?}
-{471}{}{Nem, még nem tudtam rá idõt szakítani.}
+{471}{}{Nem, mÃ©g nem tudtam rÃ¡ idÅ‘t szakÃ­tani.}
 {472}{}{Meg. Elvittem a csomagot Ramireznek.}
 {473}{}{Yes, I've been to the Stables and dropped off your package... do you know what they DO there? They're torturing
  slaves with drugs.}
 {474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
-{480}{}{Akkor mit keresel itt? (Nagy Jesus letörli a homlokát, aztán mély lélegzetet vesz.) MIÉRT nem szállítottad le a csomagot?}
-{481}{}{Elõbb szeretnék feltenni néhány kérdést...}
-{482}{}{Indulok és most azonnal elviszem.}
-{483}{}{Ööö, tudja mit? Most azonnal elviszem...}
-{490}{}{(Bólint.) Nagyon jó. Itt van a... fizetséged. Száz dolcsi... egy ilyen közönséges munkáért több, mint elég.}
-{491}{}{Hát több, mint a semmi...}
-{492}{}{Köszönöm, Senor Mordino.}
-{500}{}{(Dühösen sandít rád, miközben az arcán egy újabb izzadságcsepp gurul végig.) Azok ott háziállatok. Semmi egyéb.}
-{501}{}{Te szörnyeteg... ezzel alá is írtad a halálos ítéletedet.}
-{502}{}{Öö... csak beugrottam. A fizetségrõl kéne beszélnünk...}
-{510}{}{Nincs több munka... a számodra. (Az ajtó felé biccent.) Egyedül akarok maradni. Távozz innen... és SOHA ne gyere vissza többet!}
-{511}{}{Ugyan már. Biztos van valami MÁS meló, amit megcsinálhatnék...}
-{512}{}{Oké.}
-{520}{}{Van... egy másik munkám a számodra. Kell nekem valaki... (Mély ziháló lélegzetet vesz, aztán letörli az izzadságot a homlokáról.) ...hogy a Korzikai Testvérektõl begyûjtse az engem megilletõ részesedést. Kicsit MEGKÉSTEK a fizetéssel.}
-{523}{}{Azt hiszem, ejtem a dolgot. Amúgy köszönöm a lehetõséget.}
-{530}{}{Menj felfelé a Szûz utcán. Az edzõteremmel átellenben van a stúdiójuk... ha fejfájást okoznának... ha kifogásokat keresnének... BÁNTSD õket.}
-{531}{}{Oké. Mi sem könnyebb ennél.}
+{480}{}{Akkor mit keresel itt? (Nagy Jesus letÃ¶rli a homlokÃ¡t, aztÃ¡n mÃ©ly lÃ©legzetet vesz.) MIÃ‰RT nem szÃ¡llÃ­tottad le a csomagot?}
+{481}{}{ElÅ‘bb szeretnÃ©k feltenni nÃ©hÃ¡ny kÃ©rdÃ©st...}
+{482}{}{Indulok Ã©s most azonnal elviszem.}
+{483}{}{Ã–Ã¶Ã¶, tudja mit? Most azonnal elviszem...}
+{490}{}{(BÃ³lint.) Nagyon jÃ³. Itt van a... fizetsÃ©ged. SzÃ¡z dolcsi... egy ilyen kÃ¶zÃ¶nsÃ©ges munkÃ¡Ã©rt tÃ¶bb, mint elÃ©g.}
+{491}{}{HÃ¡t tÃ¶bb, mint a semmi...}
+{492}{}{KÃ¶szÃ¶nÃ¶m, Senor Mordino.}
+{500}{}{(DÃ¼hÃ¶sen sandÃ­t rÃ¡d, mikÃ¶zben az arcÃ¡n egy Ãºjabb izzadsÃ¡gcsepp gurul vÃ©gig.) Azok ott hÃ¡ziÃ¡llatok. Semmi egyÃ©b.}
+{501}{}{Te szÃ¶rnyeteg... ezzel alÃ¡ is Ã­rtad a halÃ¡los Ã­tÃ©letedet.}
+{502}{}{Ã–Ã¶... csak beugrottam. A fizetsÃ©grÅ‘l kÃ©ne beszÃ©lnÃ¼nk...}
+{510}{}{Nincs tÃ¶bb munka... a szÃ¡modra. (Az ajtÃ³ felÃ© biccent.) EgyedÃ¼l akarok maradni. TÃ¡vozz innen... Ã©s SOHA ne gyere vissza tÃ¶bbet!}
+{511}{}{Ugyan mÃ¡r. Biztos van valami MÃS melÃ³, amit megcsinÃ¡lhatnÃ©k...}
+{512}{}{OkÃ©.}
+{520}{}{Van... egy mÃ¡sik munkÃ¡m a szÃ¡modra. Kell nekem valaki... (MÃ©ly zihÃ¡lÃ³ lÃ©legzetet vesz, aztÃ¡n letÃ¶rli az izzadsÃ¡got a homlokÃ¡rÃ³l.) ...hogy a Korzikai TestvÃ©rektÅ‘l begyÅ±jtse az engem megilletÅ‘ rÃ©szesedÃ©st. Kicsit MEGKÃ‰STEK a fizetÃ©ssel.}
+{523}{}{Azt hiszem, ejtem a dolgot. AmÃºgy kÃ¶szÃ¶nÃ¶m a lehetÅ‘sÃ©get.}
+{530}{}{Menj felfelÃ© a SzÅ±z utcÃ¡n. Az edzÅ‘teremmel Ã¡tellenben van a stÃºdiÃ³juk... ha fejfÃ¡jÃ¡st okoznÃ¡nak... ha kifogÃ¡sokat keresnÃ©nek... BÃNTSD Å‘ket.}
+{531}{}{OkÃ©. Mi sem kÃ¶nnyebb ennÃ©l.}
 {532}{}{Rendben van, Senor Mordino.}
-{540}{}{Én azt mondtam, hogy... BÁNTSD a Korzikai Testvéreket. Arra nem adtam engedélyt, hogy... MEGÖLD õket.}
-{541}{}{Ami azt illeti... eléggé kezdett elmérgesedni a helyzet, én meg csak magamat védtem.}
-{542}{}{Csúnyaságokat mondtak az édesanyjáról, Nagy Jesus. Meg kellett ölnöm õket.}
-{543}{}{Óh. Akkor bizonyára félreértettem.}
-{551}{}{Öö... igen, de most nincs nálam a pénz. Adjon egy kis idõt, és secperc alatt elõkerítem.}
-{552}{}{Hogyne, itt van a pénze.}
-{553}{}{Nem, még nem.}
-{554}{}{Nem foglalkoztam még vele, ööö... megyek és máris elintézem.}
-{560}{}{Akkor... mi a fenét lebzselsz itt? (Letörli a homlokát, és mély lélegzetet vesz.) MIÉRT nincs nálad a pénz?}
-{561}{}{Hát volna elõbb néhány kérdésem...}
-{562}{}{Jó kérdés. Na, megyek azt' gyorsan lerendezem.}
-{570}{}{(Mikor átadod az összeget, rábólint.) Tessék. A fele... a tied. Heh. Már fizettek ebben a hónapban, de szeretem, ha... nem szalad el velük a ló.}
-{571}{}{Igazán köszönöm, Nagy Jesus.}
-{580}{}{(Senor Mordino hosszasan szemlél téged, aztán aprót bólint.) Van még egy feladatom a számodra. (a levegõvétel elég nehezen megy neki, és egyre csak az izzadságot törölgeti a homlokáról.) Van egy ember... akinek meg kell halnia.}
-{581}{}{Vegye úgy, mintha már meg is halt volna. Hogy hívják a hullajelöltet?}
+{540}{}{Ã‰n azt mondtam, hogy... BÃNTSD a Korzikai TestvÃ©reket. Arra nem adtam engedÃ©lyt, hogy... MEGÃ–LD Å‘ket.}
+{541}{}{Ami azt illeti... elÃ©ggÃ© kezdett elmÃ©rgesedni a helyzet, Ã©n meg csak magamat vÃ©dtem.}
+{542}{}{CsÃºnyasÃ¡gokat mondtak az Ã©desanyjÃ¡rÃ³l, Nagy Jesus. Meg kellett Ã¶lnÃ¶m Å‘ket.}
+{543}{}{Ã“h. Akkor bizonyÃ¡ra fÃ©lreÃ©rtettem.}
+{551}{}{Ã–Ã¶... igen, de most nincs nÃ¡lam a pÃ©nz. Adjon egy kis idÅ‘t, Ã©s secperc alatt elÅ‘kerÃ­tem.}
+{552}{}{Hogyne, itt van a pÃ©nze.}
+{553}{}{Nem, mÃ©g nem.}
+{554}{}{Nem foglalkoztam mÃ©g vele, Ã¶Ã¶Ã¶... megyek Ã©s mÃ¡ris elintÃ©zem.}
+{560}{}{Akkor... mi a fenÃ©t lebzselsz itt? (LetÃ¶rli a homlokÃ¡t, Ã©s mÃ©ly lÃ©legzetet vesz.) MIÃ‰RT nincs nÃ¡lad a pÃ©nz?}
+{561}{}{HÃ¡t volna elÅ‘bb nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{562}{}{JÃ³ kÃ©rdÃ©s. Na, megyek azt' gyorsan lerendezem.}
+{570}{}{(Mikor Ã¡tadod az Ã¶sszeget, rÃ¡bÃ³lint.) TessÃ©k. A fele... a tied. Heh. MÃ¡r fizettek ebben a hÃ³napban, de szeretem, ha... nem szalad el velÃ¼k a lÃ³.}
+{571}{}{IgazÃ¡n kÃ¶szÃ¶nÃ¶m, Nagy Jesus.}
+{580}{}{(Senor Mordino hosszasan szemlÃ©l tÃ©ged, aztÃ¡n aprÃ³t bÃ³lint.) Van mÃ©g egy feladatom a szÃ¡modra. (a levegÅ‘vÃ©tel elÃ©g nehezen megy neki, Ã©s egyre csak az izzadsÃ¡got tÃ¶rÃ¶lgeti a homlokÃ¡rÃ³l.) Van egy ember... akinek meg kell halnia.}
+{581}{}{Vegye Ãºgy, mintha mÃ¡r meg is halt volna. Hogy hÃ­vjÃ¡k a hullajelÃ¶ltet?}
 {582}{}{Ki az az ember?}
-{583}{}{Kit szeretne, ha eltennék láb alól, Senor Mordino?}
-{584}{}{Hah, gyilkosság szóba sem jöhet! Felejtse el!}
-{585}{}{Sajnálom, Senor Mordino, de ezt a munkát nem vállalhatom el. Viszlát!}
-{595}{}{Munkáért kuncsorogsz nálam. Megkapod tõlem... erre nekiállsz nyavalyogni, mint egy kisgyerek. (Mély, reszelõs levegõt vesz, aztán köhécsel.) Többé... nem látunk szívesen a kaszinómban. Távozz!}
-{596}{}{Munkáért kuncsorogsz nálam, aztán visszautasítod az... ajánlatomat. (Mély, reszelõs levegõt vesz, aztán köhécsel.) Többé... nem látunk szívesen a kaszinómban. Távozz!}
-{597}{}{Mielõtt lelépnék, válaszoljon néhány kérdésemre...}
-{598}{}{Még nem fejeztem be a MONDÓKÁMAT, "Nagy Jesus"!}
-{599}{}{Elnézését kérem, Senor Mordino. Nem rontom itt tovább a levegõt.}
-{600}{}{Miért nem TESZ róla, hogy távozzak?}
-{610}{}{Gondolom ismered Louis Salvatorét... rengeteg emberemet meggyilkolta... rengeteg BÜSZKE Mordino esett az áldozatául. Úgy... mészárolta le õket, mint a kutyákat... (Keze ökölbe szorul.) Az a kívánságom, hogy az az ember haljon meg.}
-{611}{}{Ha meg tudja fizetni, akár máris halottnak tekintheti.}
-{612}{}{Egy pillanat! A Salvatore családfõrõl van szó, Louis Salvatoréról? Akiknek az embereket kettémetszõ fénysugárzóik vannak?}
-{613}{}{Megbosszulom a Mordino családot ért szégyent, Senor Mordino. Ha végeztem, visszajövök.}
-{614}{}{Ezt a megbízatást nem fogadhatom el. Mennem kell.}
-{615}{}{Megteszem magának.}
-{620}{}{Ha Salvatore kilehelte a lelkét... fizetek.}
-{621}{}{Egy pillanat! A Salvatore családfõrõl van szó, Louis Salvatoréról? Akiknek az embereket kettémetszõ fénysugárzóik vannak?}
-{623}{}{Semmiért nem viszem vásárra a bõrömet. Már itt sem vagyok.}
-{630}{}{(Mordino bólogat és téged fürkész.) Csak nem... berezeltél? Mert ha igen. (Az ajtóra mutat.) A Mordino család nem tud mit kezdeni a... gyávákkal.}
-{631}{}{Nem-nem, megcsinálom én...}
-{633}{}{Hívjon nyugodt szívvel gyávának, de nekem kedves az életem. A munkát tehát ejteném.}
-{640}{}{(Bólint.) Ez remek. Az az ember idõs... nyomorék... ott rejtõzik a lebujában, a Salvatore bárban. Közel a Bishop Kaszinóhoz. Az a fickó egy gyáva kutya... sosem hagyja el az emeleti szobáját. Ha meghalt... látogass meg újra!}
-{641}{}{Hogyhogy nyomorék?}
-{642}{}{Rendben.}
-{650}{}{(Bólogat.) A mészáros lábai... igen gyengék. (Jesus megtörli a homlokát, aztán egy újabb erõtlen levegõt vesz.) Neki is problémái vannak a... légzéssel. Oxigéntartályt használ.}
-{651}{}{Oxigéntartályt használ? Hát nem semmi...}
-{652}{}{Amint meghalt, visszajövök, Senor Mordino.}
-{660}{}{Louis Salvatore még él. Miért vagy itt mégis?}
-{661}{}{(Mordino arcán végiggördül egy izzadságcsepp.) Megcsináltad, amit kértem? Louis Salvatore halott?}
-{662}{}{Jobban nem is lehetne. A családját ért sérelmet megbosszultam, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
-{664}{}{Salvatore barátunkat kegyetlenül õrzik. Azt hiszem, vissza kell mondanom ezt a megbízatást.}
-{670}{}{Ha... visszatáncolsz, meg kell hogy... ÖLESSELEK.}
-{671}{}{Hát ha ez a tényállás, akkor inkább megpróbálok valamit.}
+{583}{}{Kit szeretne, ha eltennÃ©k lÃ¡b alÃ³l, Senor Mordino?}
+{584}{}{Hah, gyilkossÃ¡g szÃ³ba sem jÃ¶het! Felejtse el!}
+{585}{}{SajnÃ¡lom, Senor Mordino, de ezt a munkÃ¡t nem vÃ¡llalhatom el. ViszlÃ¡t!}
+{595}{}{MunkÃ¡Ã©rt kuncsorogsz nÃ¡lam. Megkapod tÅ‘lem... erre nekiÃ¡llsz nyavalyogni, mint egy kisgyerek. (MÃ©ly, reszelÅ‘s levegÅ‘t vesz, aztÃ¡n kÃ¶hÃ©csel.) TÃ¶bbÃ©... nem lÃ¡tunk szÃ­vesen a kaszinÃ³mban. TÃ¡vozz!}
+{596}{}{MunkÃ¡Ã©rt kuncsorogsz nÃ¡lam, aztÃ¡n visszautasÃ­tod az... ajÃ¡nlatomat. (MÃ©ly, reszelÅ‘s levegÅ‘t vesz, aztÃ¡n kÃ¶hÃ©csel.) TÃ¶bbÃ©... nem lÃ¡tunk szÃ­vesen a kaszinÃ³mban. TÃ¡vozz!}
+{597}{}{MielÅ‘tt lelÃ©pnÃ©k, vÃ¡laszoljon nÃ©hÃ¡ny kÃ©rdÃ©semre...}
+{598}{}{MÃ©g nem fejeztem be a MONDÃ“KÃMAT, "Nagy Jesus"!}
+{599}{}{ElnÃ©zÃ©sÃ©t kÃ©rem, Senor Mordino. Nem rontom itt tovÃ¡bb a levegÅ‘t.}
+{600}{}{MiÃ©rt nem TESZ rÃ³la, hogy tÃ¡vozzak?}
+{610}{}{Gondolom ismered Louis SalvatorÃ©t... rengeteg emberemet meggyilkolta... rengeteg BÃœSZKE Mordino esett az Ã¡ldozatÃ¡ul. Ãšgy... mÃ©szÃ¡rolta le Å‘ket, mint a kutyÃ¡kat... (Keze Ã¶kÃ¶lbe szorul.) Az a kÃ­vÃ¡nsÃ¡gom, hogy az az ember haljon meg.}
+{611}{}{Ha meg tudja fizetni, akÃ¡r mÃ¡ris halottnak tekintheti.}
+{612}{}{Egy pillanat! A Salvatore csalÃ¡dfÅ‘rÅ‘l van szÃ³, Louis SalvatorÃ©rÃ³l? Akiknek az embereket kettÃ©metszÅ‘ fÃ©nysugÃ¡rzÃ³ik vannak?}
+{613}{}{Megbosszulom a Mordino csalÃ¡dot Ã©rt szÃ©gyent, Senor Mordino. Ha vÃ©geztem, visszajÃ¶vÃ¶k.}
+{614}{}{Ezt a megbÃ­zatÃ¡st nem fogadhatom el. Mennem kell.}
+{615}{}{Megteszem magÃ¡nak.}
+{620}{}{Ha Salvatore kilehelte a lelkÃ©t... fizetek.}
+{621}{}{Egy pillanat! A Salvatore csalÃ¡dfÅ‘rÅ‘l van szÃ³, Louis SalvatorÃ©rÃ³l? Akiknek az embereket kettÃ©metszÅ‘ fÃ©nysugÃ¡rzÃ³ik vannak?}
+{623}{}{SemmiÃ©rt nem viszem vÃ¡sÃ¡rra a bÅ‘rÃ¶met. MÃ¡r itt sem vagyok.}
+{630}{}{(Mordino bÃ³logat Ã©s tÃ©ged fÃ¼rkÃ©sz.) Csak nem... berezeltÃ©l? Mert ha igen. (Az ajtÃ³ra mutat.) A Mordino csalÃ¡d nem tud mit kezdeni a... gyÃ¡vÃ¡kkal.}
+{631}{}{Nem-nem, megcsinÃ¡lom Ã©n...}
+{633}{}{HÃ­vjon nyugodt szÃ­vvel gyÃ¡vÃ¡nak, de nekem kedves az Ã©letem. A munkÃ¡t tehÃ¡t ejtenÃ©m.}
+{640}{}{(BÃ³lint.) Ez remek. Az az ember idÅ‘s... nyomorÃ©k... ott rejtÅ‘zik a lebujÃ¡ban, a Salvatore bÃ¡rban. KÃ¶zel a Bishop KaszinÃ³hoz. Az a fickÃ³ egy gyÃ¡va kutya... sosem hagyja el az emeleti szobÃ¡jÃ¡t. Ha meghalt... lÃ¡togass meg Ãºjra!}
+{641}{}{Hogyhogy nyomorÃ©k?}
+{642}{}{Ã‰rtem.}
+{650}{}{(BÃ³logat.) A mÃ©szÃ¡ros lÃ¡bai... igen gyengÃ©k. (Jesus megtÃ¶rli a homlokÃ¡t, aztÃ¡n egy Ãºjabb erÅ‘tlen levegÅ‘t vesz.) Neki is problÃ©mÃ¡i vannak a... lÃ©gzÃ©ssel. OxigÃ©ntartÃ¡lyt hasznÃ¡l.}
+{651}{}{OxigÃ©ntartÃ¡lyt hasznÃ¡l? HÃ¡t nem semmi...}
+{652}{}{Amint meghalt, visszajÃ¶vÃ¶k, Senor Mordino.}
+{660}{}{Louis Salvatore mÃ©g Ã©l. MiÃ©rt vagy itt mÃ©gis?}
+{661}{}{(Mordino arcÃ¡n vÃ©giggÃ¶rdÃ¼l egy izzadsÃ¡gcsepp.) MegcsinÃ¡ltad, amit kÃ©rtem? Louis Salvatore halott?}
+{662}{}{Jobban nem is lehetne. A csalÃ¡djÃ¡t Ã©rt sÃ©relmet megbosszultam, Senor Mordino.}
+{663}{}{MÃ©g nem vÃ©geztem vele, ha kÃ©sz vagyok, Ãºjra jÃ¶vÃ¶k.}
+{664}{}{Salvatore barÃ¡tunkat kegyetlenÃ¼l Å‘rzik. Azt hiszem, vissza kell mondanom ezt a megbÃ­zatÃ¡st.}
+{670}{}{Ha... visszatÃ¡ncolsz, meg kell hogy... Ã–LESSELEK.}
+{671}{}{HÃ¡t ha ez a tÃ©nyÃ¡llÃ¡s, akkor inkÃ¡bb megprÃ³bÃ¡lok valamit.}
 {672}{}{Try anything, and you'll be joining the Mordinos that the Salvatores butchered.}
-{680}{}{Nekem is tudomásomra jutott. (Elismerõen biccent.) Jól dolgoztál... Nem hiába vetettem beléd a bizalmam. Itt van a fizetséged. Ötszáz... dollár. }
-{681}{}{Köszi.}
-{682}{}{Ez, egyelõre... megteszi.}
-{683}{}{Ezenkívül némi védõfelszerelés meg fegyver is megillet téged...}
-{690}{}{(Bólint egyet) A felmutatott eredmény... megörvendezteti a szívem. Szeretnélek a Mordino család tagjai között látni. (Megveregeti a vállad.) Csatlakoznál a családunkhoz? A te erõd... a mi erõnk is lenne.}
-{691}{}{Nagy megelégedéssel venném tudomásul, ha a Mordino család tagja lennék.}
-{692}{}{Sajnos nem áll módomban a Mordino család tagja lenni, de félre ne értsen, Nagy Jesus. Nagyon-nagy örömmel dolgoztam magának.}
-{693}{}{Nem akarok csatlakozni, köszönöm. Elõbb meg kell mentenem egy falut.}
-{700}{}{(Beleegyezõen bólint.) Sajnálkozva hallom ezt. Amint mondtam, örülök a sikerednek... nem szeretném, ha a képességeidet a... versenytársaim használnák ki. (Int az õreinek, akik szépen készenlétbe helyezik a fegyvereiket.)}
-{710}{}{Nagyon jó. Van valami neved... egy olyan neved, amit szívesen használnál a köreinkben? Minden Mordino... egész Reno... ismerni fogja ezt a nevet.}
-{711}{}{Ah, mit szólna mondjuk ehhez: }
-{720}{}{...jó kis név. (Bólogat.) A Mordino névnek Renóban... súlya van. Látogass el a Cat's Paw-ba, vagy a New Reno-i fegyverboltba... mondd meg nekik, hogy családtagnak számítasz nálunk, és megfelelõ elbánásban lesz részed.}
-{730}{}{(Sokáig bámul rád, aztán zavart képet vág.) Miért... kérdezed tõlem ezt? Hallottam... mi történt. (Megtörli a szemöldökét.) A fiú túl sok Jetet szedett be és meghalt.}
-{731}{}{Na, ez a probléma. A Mordino család a legnagyobb New Reno-i Jet-forgalmazó. Ebbõl könnyen következik, hogy kit kell vádolni vele.}
-{732}{}{Tudja, honnan szedte a srác a Jetet?}
-{733}{}{Rendben, csak úgy megkérdeztem. Most inkább kérdezek mást...}
-{734}{}{Értem. Akkor jobb, ha megyek is.}
-{740}{}{(Zihál, egy jó adag izzadságot letöröl a homlokáról.) Ha Wrightéknak volna némi született ÉRZÉKE, akkor tudnák... hogy nem csak mi vagyunk az egyedüli Jet-forgalmazók New Renóban. Mi... nem ölünk gyerekeket.}
-{741}{}{Csak felnõtteket, mi? Úgy értem, a Jet nem öl meg valakit rögtön, de elõbb vagy utóbb igen. Igazam van?}
-{742}{}{Valaki más lesz a dolog mögött, le akarják járatni a Mordino nevet. Van ötlete, ki adhatta el Richard számára a halálos Jetet?}
-{743}{}{Értem. Hát volna még néhány kérdésem hozzád...}
-{744}{}{Köszönöm az információt, Senor Mordino. Most mennem kell.}
-{750}{}{(Megrázza a fejét.) Én... keveset tudok a renói dílerekrõl. (Vesz egy súlyos lélegzetet, és köhécsel kicsit.) Kérdezd meg talán... a fiamat... lenn a kaszinóban.}
-{751}{}{Megkérdezem. Viszont elõbb még kérdeznék ezt-azt...}
-{752}{}{Megkérdezem. Köszönöm, Senor Mordino.}
-{760}{}{A hõmérséklet nem igazán... kedvez nekem. A levegõvétel.. néha nagyon nehezemre esik. Különösen a stresszes idõszakokban, vagy ha erõkifejtésre kényszerülök, gyorsan kifáradok. Néha a mellkasom is fáj.}
+{680}{}{Nekem is tudomÃ¡somra jutott. (ElismerÅ‘en biccent.) JÃ³l dolgoztÃ¡l... Nem hiÃ¡ba vetettem belÃ©d a bizalmam. Itt van a fizetsÃ©ged. Ã–tszÃ¡z... dollÃ¡r. }
+{681}{}{KÃ¶sz.}
+{682}{}{Ez, egyelÅ‘re... megteszi.}
+{683}{}{EzenkÃ­vÃ¼l nÃ©mi vÃ©dÅ‘felszerelÃ©s meg fegyver is megillet tÃ©ged...}
+{690}{}{(BÃ³lint egyet) A felmutatott eredmÃ©ny... megÃ¶rvendezteti a szÃ­vem. SzeretnÃ©lek a Mordino csalÃ¡d tagjai kÃ¶zÃ¶tt lÃ¡tni. (Megveregeti a vÃ¡llad.) CsatlakoznÃ¡l a csalÃ¡dunkhoz? A te erÅ‘d... a mi erÅ‘nk is lenne.}
+{691}{}{Nagy megelÃ©gedÃ©ssel vennÃ©m tudomÃ¡sul, ha a Mordino csalÃ¡d tagja lennÃ©k.}
+{692}{}{Sajnos nem Ã¡ll mÃ³domban a Mordino csalÃ¡d tagja lenni, de fÃ©lre ne Ã©rtsen, Nagy Jesus. Nagyon-nagy Ã¶rÃ¶mmel dolgoztam magÃ¡nak.}
+{693}{}{Nem akarok csatlakozni, kÃ¶szÃ¶nÃ¶m. ElÅ‘bb meg kell mentenem egy falut.}
+{700}{}{(BeleegyezÅ‘en bÃ³lint.) SajnÃ¡lkozva hallom ezt. Amint mondtam, Ã¶rÃ¼lÃ¶k a sikerednek... nem szeretnÃ©m, ha a kÃ©pessÃ©geidet a... versenytÃ¡rsaim hasznÃ¡lnÃ¡k ki. (Int az Å‘reinek, akik szÃ©pen kÃ©szenlÃ©tbe helyezik a fegyvereiket.)}
+{710}{}{Nagyon jÃ³. Van valami neved... egy olyan neved, amit szÃ­vesen hasznÃ¡lnÃ¡l a kÃ¶reinkben? Minden Mordino... egÃ©sz Reno... ismerni fogja ezt a nevet.}
+{711}{}{Ah, mit szÃ³lna mondjuk ehhez: }
+{720}{}{...jÃ³ kis nÃ©v. (BÃ³logat.) A Mordino nÃ©vnek RenÃ³ban... sÃºlya van. LÃ¡togass el a Cat's Paw-ba, vagy a New Reno-i fegyverboltba... mondd meg nekik, hogy csalÃ¡dtagnak szÃ¡mÃ­tasz nÃ¡lunk, Ã©s megfelelÅ‘ elbÃ¡nÃ¡sban lesz rÃ©szed.}
+{730}{}{(SokÃ¡ig bÃ¡mul rÃ¡d, aztÃ¡n zavart kÃ©pet vÃ¡g.) MiÃ©rt... kÃ©rdezed tÅ‘lem ezt? Hallottam... mi tÃ¶rtÃ©nt. (MegtÃ¶rli a szemÃ¶ldÃ¶kÃ©t.) A fiÃº tÃºl sok Jetet szedett be Ã©s meghalt.}
+{731}{}{Na, ez a problÃ©ma. A Mordino csalÃ¡d a legnagyobb New Reno-i Jet-forgalmazÃ³. EbbÅ‘l kÃ¶nnyen kÃ¶vetkezik, hogy kit kell vÃ¡dolni vele.}
+{732}{}{Tudja, honnan szedte a srÃ¡c a Jetet?}
+{733}{}{Rendben, csak Ãºgy megkÃ©rdeztem. Most inkÃ¡bb kÃ©rdezek mÃ¡st...}
+{734}{}{Ã‰rtem. Akkor jobb, ha megyek is.}
+{740}{}{(ZihÃ¡l, egy jÃ³ adag izzadsÃ¡got letÃ¶rÃ¶l a homlokÃ¡rÃ³l.) Ha WrightÃ©knak volna nÃ©mi szÃ¼letett Ã‰RZÃ‰KE, akkor tudnÃ¡k... hogy nem csak mi vagyunk az egyedÃ¼li Jet-forgalmazÃ³k New RenÃ³ban. Mi... nem Ã¶lÃ¼nk gyerekeket.}
+{741}{}{Csak felnÅ‘tteket, mi? Ãšgy Ã©rtem, a Jet nem Ã¶l meg valakit rÃ¶gtÃ¶n, de elÅ‘bb vagy utÃ³bb igen. Igazam van?}
+{742}{}{Valaki mÃ¡s lesz a dolog mÃ¶gÃ¶tt, le akarjÃ¡k jÃ¡ratni a Mordino nevet. Van Ã¶tlete, ki adhatta el Richard szÃ¡mÃ¡ra a halÃ¡los Jetet?}
+{743}{}{Ã‰rtem. Hadd kÃ©rdezzek valami mÃ¡st...}
+{744}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t, Senor Mordino. Most mennem kell.}
+{750}{}{(MegrÃ¡zza a fejÃ©t.) Ã‰n... keveset tudok a renÃ³i dÃ­lerekrÅ‘l. (Vesz egy sÃºlyos lÃ©legzetet, Ã©s kÃ¶hÃ©csel kicsit.) KÃ©rdezd meg talÃ¡n... a fiamat... lenn a kaszinÃ³ban.}
+{751}{}{MegkÃ©rdezem. Viszont elÅ‘bb mÃ©g kÃ©rdeznÃ©k ezt-azt...}
+{752}{}{MegkÃ©rdezem. KÃ¶szÃ¶nÃ¶m, Senor Mordino.}
+{760}{}{A hÅ‘mÃ©rsÃ©klet nem igazÃ¡n... kedvez nekem. A levegÅ‘vÃ©tel.. nÃ©ha nagyon nehezemre esik. KÃ¼lÃ¶nÃ¶sen a stresszes idÅ‘szakokban, vagy ha erÅ‘kifejtÃ©sre kÃ©nyszerÃ¼lÃ¶k, gyorsan kifÃ¡radok. NÃ©ha a mellkasom is fÃ¡j.}
 {761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
-{762}{}{Értem. Akkor most inkább mennék.}
-{770}{}{Nem ismerlek téged... idejössz... mindenféle ajánlólevél nélkül... (Megtörli a szemöldökét, aztán mély, zajos levegõt vesz.) Nincs munkám a számodra.}
-{771}{}{Ugyan, adjon már egy esélyt! Bízzon meg valamivel, bármivel... én képes vagyok megcsinálni!}
-{780}{}{Az Istállónál nem mindenki tudja, hogy õk is tesztalanyok.}
-{781}{}{Ööö... jól értettem?}
-{782}{}{Óh. A fizetségrõl ha beszélnénk...}
-{790}{}{Ramirez csupán a múlt hónapban négy... rabszolgát hagyott megszökni. (Kicsit megrázza a fejét.) Ez nem jó dolog. Az általad leszállított Jet egy órán belül... megállítja Ramirez szívét. Ez a BÜNTETÉSE.}
-{792}{}{Arra használt, hogy MEGÖLJE azt a fickót? Na, jó, Jesus, most itt hagyom magát!}
-{850}{}{Begyûjtötted Nagy Jesus részesedését.}
+{762}{}{Ã‰rtem. Akkor most inkÃ¡bb mennÃ©k.}
+{770}{}{Nem ismerlek tÃ©ged... idejÃ¶ssz... mindenfÃ©le ajÃ¡nlÃ³levÃ©l nÃ©lkÃ¼l... (MegtÃ¶rli a szemÃ¶ldÃ¶kÃ©t, aztÃ¡n mÃ©ly, zajos levegÅ‘t vesz.) Nincs munkÃ¡m a szÃ¡modra.}
+{771}{}{Ugyan, adjon mÃ¡r egy esÃ©lyt! BÃ­zzon meg valamivel, bÃ¡rmivel... Ã©n kÃ©pes vagyok megcsinÃ¡lni!}
+{780}{}{Az IstÃ¡llÃ³nÃ¡l nem mindenki tudja, hogy Å‘k is tesztalanyok.}
+{781}{}{Ã–Ã¶Ã¶... jÃ³l Ã©rtettem?}
+{782}{}{Ã“h. A fizetsÃ©grÅ‘l ha beszÃ©lnÃ©nk...}
+{790}{}{Ramirez csupÃ¡n a mÃºlt hÃ³napban nÃ©gy... rabszolgÃ¡t hagyott megszÃ¶kni. (Kicsit megrÃ¡zza a fejÃ©t.) Ez nem jÃ³ dolog. Az Ã¡ltalad leszÃ¡llÃ­tott Jet egy Ã³rÃ¡n belÃ¼l... megÃ¡llÃ­tja Ramirez szÃ­vÃ©t. Ez a BÃœNTETÃ‰SE.}
+{792}{}{Arra hasznÃ¡lt, hogy MEGÃ–LJE azt a fickÃ³t? Na, jÃ³, Jesus, most itt hagyom magÃ¡t!}
+{850}{}{BegyÅ±jtÃ¶tted Nagy Jesus rÃ©szesedÃ©sÃ©t.}
 {875}{}{Meggyilkoltad Nagy Jesust.}
-{900}{}{Elõléptél a Mordino család jeles tagjává.}
-{925}{}{Teljesítetted a bérgyilkosságot Nagy Jesus számára.}
-{1278}{}{Beszéltem a fiával, Senor Mordino. Hajcsár vagyok, és munkát keresek.}
-{1291}{}{Remek. Érdekli egy-két rabszolga?}
-{1621}{}{Aha... rendben, megyek és kinyírom.}
-{5268}{}{?!! AKKKOR MOST KAP EGY KICSIT MUTATÓBA, MAGA DAGADT FAROKRÁ...}
+{900}{}{ElÅ‘lÃ©ptÃ©l a Mordino csalÃ¡d jeles tagjÃ¡vÃ¡.}
+{925}{}{TeljesÃ­tetted a bÃ©rgyilkossÃ¡got Nagy Jesus szÃ¡mÃ¡ra.}
+{1278}{}{BeszÃ©ltem a fiÃ¡val, Senor Mordino. HajcsÃ¡r vagyok, Ã©s munkÃ¡t keresek.}
+{1291}{}{Remek. Ã‰rdekli egy-kÃ©t rabszolga?}
+{1621}{}{Aha... rendben, megyek Ã©s kinyÃ­rom.}
+{5268}{}{?!! AKKKOR MOST KAP EGY KICSIT MUTATÃ“BA, MAGA DAGADT FAROKRÃ...}

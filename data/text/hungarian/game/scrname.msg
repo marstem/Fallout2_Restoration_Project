@@ -5,46 +5,46 @@
 {105}{}{Script Test 3}
 {106}{}{Script Test 4}
 {107}{}{Script Test 5}
-{108}{}{ArroyÛi harcos}
-{109}{}{ArroyÛi lakos}
+{108}{}{Arroy√≥i harcos}
+{109}{}{Arroy√≥i lakos}
 {110}{}{Mynoc}
-{111}{}{Arroyo tˆrzsfıje}
+{111}{}{Arroyo t√∂rzsf≈ëje}
 {112}{}{Hakunin}
-{113}{}{AjtÛ}
-{114}{}{¡ltal·nos}
-{115}{}{L·da}
-{116}{}{P·ncÈldoboz}
-{117}{}{Brahmin}
-{118}{}{H˙sevı nˆvÈny}
+{113}{}{Ajt√≥}
+{114}{}{√Åltal√°nos}
+{115}{}{L√°da}
+{116}{}{P√°nc√©ldoboz}
+{117}{}{Brahminok}
+{118}{}{H√∫sev≈ë n√∂v√©ny}
 {119}{}{}
-{120}{}{SkorpiÛ}
-{121}{}{Im·dkozÛ s·ska}
-{122}{}{Kis hal·lkarom}
-{123}{}{V·za}
-{124}{}{L·da}
-{125}{}{ArroyÛi barlang}
-{126}{}{Fa ajtÛ}
+{120}{}{Skorpi√≥}
+{121}{}{Im√°dkoz√≥ s√°ska}
+{122}{}{Kis hal√°lkarom}
+{123}{}{V√°za}
+{124}{}{L√°da}
+{125}{}{Arroy√≥i barlang}
+{126}{}{Fa ajt√≥}
 {127}{}{Arroyo}
-{128}{}{Arroyo hÌdja}
-{129}{}{”sdi ajtÛ}
-{130}{}{PadlÛlap}
-{131}{}{PadlÛlap}
-{132}{}{PadlÛlap}
-{133}{}{PadlÛlap}
-{134}{}{PadlÛlap}
-{135}{}{AjtÛ}
-{136}{}{Drogf¸ggı}
-{137}{}{’r}
-{138}{}{V·roslakÛ}
+{128}{}{Arroyo h√≠dja}
+{129}{}{√ìsdi ajt√≥}
+{130}{}{Padl√≥lap}
+{131}{}{Padl√≥lap}
+{132}{}{Padl√≥lap}
+{133}{}{Padl√≥lap}
+{134}{}{Padl√≥lap}
+{135}{}{Ajt√≥}
+{136}{}{Drogf√ºgg≈ë}
+{137}{}{≈êr}
+{138}{}{V√°roslak√≥}
 {139}{}{Bandatag}
-{140}{}{¡rva}
+{140}{}{√Årva}
 {141}{}{Joey}
 {142}{}{Flick}
-{143}{}{’r}
+{143}{}{≈êr}
 {144}{}{Petey}
 {145}{}{Smitty}
 {146}{}{Metzger}
-{147}{}{Rabszolga-kereskedı}
+{147}{}{Rabszolga-keresked≈ë}
 {148}{}{Tubby}
 {149}{}{Anna}
 {150}{}{Vic}
@@ -54,46 +54,46 @@
 {154}{}{Sheila}
 {155}{}{Mama}
 {156}{}{Falusi ember}
-{157}{}{Rabszolga-vad·szat}
+{157}{}{Rabszolga-vad√°szat}
 {158}{}{Rabszolga-fogat}
-{159}{}{Rejtek, ¸zleti negyed}
-{160}{}{Rejtek, ¸zleti negyed}
-{161}{}{Rejtek, lakÛnegyed}
-{162}{}{SÌrhely}
-{163}{}{SÌrhely}
-{164}{}{SÌrhely}
+{159}{}{Rejtek, √ºzleti negyed}
+{160}{}{Rejtek, √ºzleti negyed}
+{161}{}{Rejtek, lak√≥negyed}
+{162}{}{S√≠rhely}
+{163}{}{S√≠rhely}
+{164}{}{S√≠rhely}
 {165}{}{Csontok}
-{166}{}{NaplÛ}
-{167}{}{Med·l}
-{168}{}{Szeszfızde}
-{169}{}{SÌrhely}
+{166}{}{Napl√≥}
+{167}{}{Med√°l}
+{168}{}{Szeszf≈ëzde}
+{169}{}{S√≠rhely}
 {170}{}{Black Jack asztal}
 {171}{}{Rabszolga}
 {172}{}{Black Jack asztal}
-{173}{}{AjtÛ}
+{173}{}{Ajt√≥}
 {174}{}{Whiskey Bob}
 {175}{}{Craps}
 {176}{}{Aldo}
 {177}{}{Ardin}
-{178}{}{Gyerek}
-{179}{}{Polg·r}
+{178}{}{K√∂ly√∂k}
+{179}{}{V√°roslak√≥}
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
 {183}{}{Vigyori}
 {184}{}{Jenny}
-{185}{}{VÈzna}
+{185}{}{V√©zna}
 {186}{}{Torr}
 {187}{}{Dunton}
-{188}{}{Polg·r}
-{189}{}{UtazÛ}
-{190}{}{MenedÈkv·rosi ır}
-{191}{}{MenedÈkv·rosi ır}
+{188}{}{V√°roslak√≥}
+{189}{}{Utaz√≥}
+{190}{}{Mened√©kv√°rosi ≈ër}
+{191}{}{Mened√©kv√°rosi ≈ër}
 {192}{}{Steve}
 {193}{}{Andrew}
-{194}{}{MenedÈkv·rosi ır}
+{194}{}{Mened√©kv√°rosi ≈ër}
 {195}{}{Dr. Troy}
-{196}{}{S·rga kutya}
+{196}{}{S√°rga kutya}
 {197}{}{Balthas}
 {198}{}{Cornelius}
 {199}{}{Davin}
@@ -102,171 +102,171 @@
 {202}{}{Jo}
 {203}{}{Jonny}
 {204}{}{Karl}
-{205}{}{÷csi}
+{205}{}{√ñcsi}
 {206}{}{Miria}
-{207}{}{Korm·nyzÛ}
+{207}{}{Korm√°nyz√≥}
 {208}{}{Rose}
 {209}{}{Vegeir}
 {210}{}{Ed}
 {211}{}{Harry}
 {212}{}{Mrs. Smith}
 {213}{}{Melinda}
-{214}{}{PrÈmvad·sz}
+{214}{}{Pr√©mvad√°sz}
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
-{217}{}{Gregory fıtan·csos}
+{217}{}{Gregory f≈ëtan√°csos}
 {218}{}{Nurse Phyllis}
 {219}{}{Randal}
-{220}{}{TrutymÛ}
+{220}{}{Trutym√≥}
 {221}{}{Barkus}
 {222}{}{Falusi ember}
 {223}{}{Stark}
-{224}{}{MenedÈk kapuır}
-{225}{}{VÈn Joe}
+{224}{}{Mened√©k kapu≈ër}
+{225}{}{V√©n Joe}
 {226}{}{Connar}
 {227}{}{Wallace}
 {228}{}{Lynette}
 {229}{}{McClure}
-{230}{}{Mut·ns patk·ny}
+{230}{}{Mut√°ns patk√°ny}
 {231}{}{Festus}
 {232}{}{Gordon}
 {233}{}{Hank}
 {234}{}{Jeremy}
-{235}{}{P˙pos}
+{235}{}{P√∫pos}
 {236}{}{Skeeter}
 {237}{}{Zomak}
 {238}{}{Wooz}
 {239}{}{Lenny}
-{240}{}{Ghoul ır}
-{241}{}{Ghoul Munk·s}
-{242}{}{FÈnylı ghoul}
-{243}{}{Ghoul ır}
+{240}{}{Eligaz√≠t√≥ ≈ër}
+{241}{}{Ghoul munk√°s}
+{242}{}{F√©nyl≈ë ghoul}
+{243}{}{Eligaz√≠t√≥ ≈ër}
 {244}{}{Robot}
-{245}{}{Ghoul polg·r}
+{245}{}{Ghoul polg√°r}
 {246}{}{Map Script}
 {247}{}{Map Script}
 {248}{}{Map Script}
-{249}{}{Biztons·gi robot}
-{250}{}{JavÌtÛrobot}
+{249}{}{Biztons√°gi robot}
+{250}{}{Jav√≠t√≥robot}
 {251}{}{Hololemez}
 {252}{}{Hololemez}
 {253}{}{Hololemez}
-{254}{}{Termin·l}
-{255}{}{Termin·l}
-{256}{}{Termin·l}
-{257}{}{Termin·l}
-{258}{}{Termin·l}
-{259}{}{Termin·l}
-{260}{}{Termin·l}
-{261}{}{Termin·l}
-{262}{}{Termin·l}
-{263}{}{Termin·l}
-{264}{}{Termin·l}
-{265}{}{PapÌr}
-{266}{}{Dobbs kˆzlegÈny}
+{254}{}{Termin√°l}
+{255}{}{Termin√°l}
+{256}{}{Termin√°l}
+{257}{}{Termin√°l}
+{258}{}{Termin√°l}
+{259}{}{Termin√°l}
+{260}{}{Termin√°l}
+{261}{}{Termin√°l}
+{262}{}{Termin√°l}
+{263}{}{Termin√°l}
+{264}{}{Termin√°l}
+{265}{}{Pap√≠r}
+{266}{}{Dobbs k√∂zleg√©ny}
 {267}{}{Agy-bot}
 {268}{}{Lift}
 {269}{}{Lift}
-{270}{}{P·ncÈldoboz}
-{271}{}{P·ncÈldoboz}
+{270}{}{P√°nc√©ldoboz}
+{271}{}{P√°nc√©ldoboz}
 {272}{}{Tandi}
-{273}{}{L·ndzsa-csapda}
-{274}{}{L·ndzsa-csapda}
-{275}{}{L·ndzsa-csapda}
-{276}{}{L·ndzsa-csapda}
-{277}{}{L·ndzsa-csapda}
-{278}{}{L·ndzsa-csapda}
-{279}{}{L·ndzsa-csapda}
-{280}{}{L·ndzsa-csapda}
-{281}{}{L·ndzsa-csapda}
-{282}{}{L·ndzsa-csapda}
-{283}{}{L·ndzsa-csapda}
-{284}{}{L·ndzsa-csapda}
-{285}{}{L·ndzsa-csapda}
-{286}{}{L·ndzsa-csapda}
-{287}{}{L·ndzsa-csapda}
-{288}{}{L·ndzsa-csapda}
-{289}{}{1-es kÌsÈrtetbarlang}
-{290}{}{2-es kÌsÈrtetbarlang}
+{273}{}{L√°ndzsa-csapda}
+{274}{}{L√°ndzsa-csapda}
+{275}{}{L√°ndzsa-csapda}
+{276}{}{L√°ndzsa-csapda}
+{277}{}{L√°ndzsa-csapda}
+{278}{}{L√°ndzsa-csapda}
+{279}{}{L√°ndzsa-csapda}
+{280}{}{L√°ndzsa-csapda}
+{281}{}{L√°ndzsa-csapda}
+{282}{}{L√°ndzsa-csapda}
+{283}{}{L√°ndzsa-csapda}
+{284}{}{L√°ndzsa-csapda}
+{285}{}{L√°ndzsa-csapda}
+{286}{}{L√°ndzsa-csapda}
+{287}{}{L√°ndzsa-csapda}
+{288}{}{L√°ndzsa-csapda}
+{289}{}{1-es k√≠s√©rtetbarlang}
+{290}{}{2-es k√≠s√©rtetbarlang}
 {291}{}{Kisertet farm}
-{292}{}{Modoc, brahmin legelı}
+{292}{}{Modoc, brahmin legel≈ë}
 {293}{}{Modoc, kert}
-{294}{}{Modoc, fogadÛ}
+{294}{}{Modoc, fogad√≥}
 {295}{}{Modoc}
-{296}{}{Modoc, pˆcegˆdˆr}
-{297}{}{Modoc, k˙t}
-{298}{}{⁄KK, 2. ter¸let}
+{296}{}{Modoc, p√∂ceg√∂d√∂r}
+{297}{}{Modoc, k√∫t}
+{298}{}{√öKK, 2. ter√ºlet}
 {299}{}{Arroyo kert}
-{300}{}{GekkÛ}
-{301}{}{Broc vir·g}
-{302}{}{Xander gyˆkÈr}
-{303}{}{Brahmin}
-{304}{}{Balthas felesÈge}
-{305}{}{Brahmin}
+{300}{}{Gekko}
+{301}{}{Broc vir√°g}
+{302}{}{Xander gy√∂k√©r}
+{303}{}{Brahminok}
+{304}{}{Balthas feles√©ge}
+{305}{}{Brahminok}
 {306}{}{Vadkutya}
-{307}{}{Kˆvek}
-{308}{}{Kˆvek}
-{309}{}{Fali szÈf}
-{310}{}{PÈnzeszs·k}
+{307}{}{K√∂vek}
+{308}{}{K√∂vek}
+{309}{}{Fali sz√©f}
+{310}{}{P√©nzeszs√°k}
 {311}{}{WC}
 {312}{}{Doboz}
 {313}{}{Jordan}
-{314}{}{Morlis nagynÈni}
+{314}{}{Morlis nagyn√©ni}
 {315}{}{Lucas}
 {316}{}{Feargus}
-{317}{}{K˙t}
+{317}{}{Kut}
 {318}{}{Gruthar}
 {319}{}{Map Script}
 {320}{}{Doofus}
 {321}{}{Nagor}
-{322}{}{F¸st}
-{323}{}{⁄KK, 1-es ter¸let}
-{324}{}{⁄KK, 2-es ter¸let}
-{325}{}{⁄KK, 3-as ter¸let}
-{326}{}{⁄KK, K¸lsı ter¸let}
+{322}{}{F√ºst}
+{323}{}{√öKK, 1-es ter√ºlet}
+{324}{}{√öKK, 2-es ter√ºlet}
+{325}{}{√öKK, 3-as ter√ºlet}
+{326}{}{√öKK, K√ºls≈ë ter√ºlet}
 {327}{}{Mikey}
 {328}{}{Mikey doboza}
-{329}{}{Emitter}
-{330}{}{Emitter}
-{331}{}{Emitter}
-{332}{}{Emitter}
-{333}{}{Emitter}
-{334}{}{Emitter}
-{335}{}{Emitter}
-{336}{}{Emitter}
-{337}{}{Emitter}
-{338}{}{Emitter}
-{339}{}{Emitter}
-{340}{}{ErıtÈr}
-{341}{}{ErıtÈr}
-{342}{}{ErıtÈr}
-{343}{}{ErıtÈr}
-{344}{}{ErıtÈr}
-{345}{}{ErıtÈr}
-{346}{}{ErıtÈr}
-{347}{}{ErıtÈr}
-{348}{}{ErıtÈr}
-{349}{}{ErıtÈr}
-{350}{}{ErıtÈr}
-{351}{}{RiasztÛ}
+{329}{}{Gener√°tor}
+{330}{}{Gener√°tor}
+{331}{}{Gener√°tor}
+{332}{}{Gener√°tor}
+{333}{}{Gener√°tor}
+{334}{}{Gener√°tor}
+{335}{}{Gener√°tor}
+{336}{}{Gener√°tor}
+{337}{}{Gener√°tor}
+{338}{}{Gener√°tor}
+{339}{}{Gener√°tor}
+{340}{}{Er≈ët√©r}
+{341}{}{Er≈ët√©r}
+{342}{}{Er≈ët√©r}
+{343}{}{Er≈ët√©r}
+{344}{}{Er≈ët√©r}
+{345}{}{Er≈ët√©r}
+{346}{}{Er≈ët√©r}
+{347}{}{Er≈ët√©r}
+{348}{}{Er≈ët√©r}
+{349}{}{Er≈ët√©r}
+{350}{}{Er≈ët√©r}
+{351}{}{Riaszt√≥}
 {352}{}{Buster}
-{353}{}{Kˆnyvespolc}
-{354}{}{Kˆnyvespolc}
-{355}{}{Kˆnyvespolc}
-{356}{}{FosztogatÛ}
-{357}{}{Paraszt}
-{358}{}{Kereskedı}
-{359}{}{’r}
-{360}{}{Rawhide vendÈg}
-{361}{}{PadlÛ}
+{353}{}{K√∂nyvespolc}
+{354}{}{K√∂nyvespolc}
+{355}{}{K√∂nyvespolc}
+{356}{}{Fosztogat√≥}
+{357}{}{Farmer}
+{358}{}{Keresked≈ë}
+{359}{}{≈êr}
+{360}{}{Rawhide vend√©g}
+{361}{}{Padl√≥}
 {362}{}{Plazma csapda}
 {363}{}{Plazma csapda}
-{364}{}{Termin·l}
-{365}{}{Hirdetıt·bla}
+{364}{}{Termin√°l}
+{365}{}{Hirdet≈ët√°bla}
 {366}{}{Kapu}
-{367}{}{TrutymÛ}
-{368}{}{AjtÛ}
-{369}{}{AjtÛ}
+{367}{}{Trutym√≥}
+{368}{}{Ajt√≥}
+{369}{}{Ajt√≥}
 {370}{}{}
 {371}{}{}
 {372}{}{Map Script}
@@ -293,15 +293,15 @@
 {393}{}{Map Script}
 {394}{}{Map Script}
 {395}{}{Map Script}
-{396}{}{Szeszfızde}
-{397}{}{B·rvendÈg}
-{398}{}{B·rvendÈg}
+{396}{}{Szeszf≈ëzde}
+{397}{}{B√°rvend√©g}
+{398}{}{B√°rvend√©g}
 {399}{}{Vortis}
-{400}{}{F¸rdıszemÈlyzet}
-{401}{}{Rabszolg·k}
-{402}{}{SkorpiÛ}
-{403}{}{Brahmin}
-{404}{}{AutÛ}
+{400}{}{F√ºrd≈ëszem√©lyzet}
+{401}{}{Rabszolg√°k}
+{402}{}{Skorpi√≥}
+{403}{}{Brahminok}
+{404}{}{Aut√≥}
 {405}{}{Asztal}
 {406}{}{Map Script}
 {407}{}{Map Script}
@@ -309,53 +309,53 @@
 {409}{}{Map Script}
 {410}{}{Corvega}
 {411}{}{Map Script}
-{412}{}{FÈmajtÛ}
+{412}{}{F√©majt√≥}
 {413}{}{Map Script}
 {414}{}{Map Script}
 {415}{}{Map Script}
-{416}{}{P·ncÈldoboz}
-{417}{}{P·ncÈldoboz}
-{418}{}{P·ncÈldoboz}
+{416}{}{P√°nc√©ldoboz}
+{417}{}{P√°nc√©ldoboz}
+{418}{}{P√°nc√©ldoboz}
 {419}{}{Ratch}
-{420}{}{BokszolÛ}
+{420}{}{Bokszol√≥}
 {421}{}{Pete McKneely}
 {422}{}{Evan Hollyfeld}
-{423}{}{H˙sdar·lÛ}
-{424}{}{TudÛs}
+{423}{}{H√∫sdar√°l√≥}
+{424}{}{Tud√≥s}
 {425}{}{Merk}
-{426}{}{Ventill·tor}
-{427}{}{Drog·rus}
-{428}{}{KaszinÛ vendÈg}
+{426}{}{Ventill√°tor}
+{427}{}{Drog√°rus}
+{428}{}{Kaszin√≥ vend√©g}
 {429}{}{Strici}
-{430}{}{NarkÛs}
-{431}{}{B˙tor}
-{432}{}{PadlÛ}
-{433}{}{T·j}
+{430}{}{Nark√≥s}
+{431}{}{B√∫tor}
+{432}{}{Padl√≥}
+{433}{}{T√°j}
 {434}{}{Hololemez}
 {435}{}{Lenny}
 {436}{}{Doboz}
-{437}{}{Prostitu·lt}
+{437}{}{Prostitu√°lt}
 {438}{}{Rabszolga}
 {439}{}{Rico}
-{440}{}{PornÛ-szÌnÈsznı}
+{440}{}{Porn√≥-sz√≠n√©szn≈ë}
 {441}{}{Kurva}
 {442}{}{Map Script}
 {443}{}{Farkas}
-{444}{}{Gener·tor}
-{445}{}{AjtÛ}
+{444}{}{Gener√°tor}
+{445}{}{Ajt√≥}
 {446}{}{Super mutant}
 {447}{}{Salvatore embere}
 {448}{}{Bishop embere}
 {449}{}{Mordino embere}
 {450}{}{Wright-gyerek}
-{451}{}{KidobÛember}
+{451}{}{Kidob√≥ember}
 {452}{}{Mira}
-{453}{}{New Reno, Sz˚z utca}
-{454}{}{New Reno, M·sodik utca}
+{453}{}{New Reno, Sz≈±z utca}
+{454}{}{New Reno, M√°sodik utca}
 {455}{}{New Reno, Kereskedelmi negyed}
 {456}{}{New Reno, Keleti oldal}
-{457}{}{New Reno, Ist·llÛ}
-{458}{}{New Reno, RontÛ-BontÛ}
+{457}{}{New Reno, Ist√°ll√≥}
+{458}{}{New Reno, Ront√≥-Bont√≥}
 {459}{}{New Reno, Gologta}
 {460}{}{New Reno, Bishop alagsora}
 {461}{}{Hololemez}
@@ -363,171 +363,171 @@
 {463}{}{Hololemez}
 {464}{}{Hololemez}
 {465}{}{Hololemez}
-{466}{}{’r}
+{466}{}{≈êr}
 {467}{}{Csille}
 {468}{}{Melchior}
-{469}{}{Mut·ns szˆrny}
+{469}{}{Mut√°ns sz√∂rny}
 {470}{}{FEV Ragacs}
-{471}{}{’rsÈg kapit·ny}
-{472}{}{Rabszolga-fel¸gyelı}
-{473}{}{Melchior szˆrnye}
-{474}{}{Hajcs·r ır}
-{475}{}{AjtÛ}
-{476}{}{Termin·l}
-{477}{}{Nyerıautomata}
-{478}{}{Gyerek}
+{471}{}{≈êrs√©g kapit√°ny}
+{472}{}{Rabszolga-fel√ºgyel≈ë}
+{473}{}{Melchior sz√∂rnye}
+{474}{}{Hajcs√°r ≈ër}
+{475}{}{Ajt√≥}
+{476}{}{Termin√°l}
+{477}{}{Nyer≈ëautomata}
+{478}{}{K√∂ly√∂k}
 {479}{}{Sheb}
-{480}{}{’r}
-{481}{}{Emitter}
-{482}{}{ErıtÈr}
+{480}{}{≈êr}
+{481}{}{Gener√°tor}
+{482}{}{Er≈ët√©r}
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
-{485}{}{’r}
+{485}{}{≈êr}
 {486}{}{Carlson Guards Attack}
-{487}{}{Carlson kapuıre}
+{487}{}{Carlson kapu≈ëre}
 {488}{}{Fogoly}
 {489}{}{Fogoly}
-{490}{}{Polg·r}
-{491}{}{Komfort felelıs}
-{492}{}{EligazÌtÛ ır}
-{493}{}{Ghoul Munk·s}
-{494}{}{FÈnylı ghoul}
-{495}{}{Ghoul ır}
+{490}{}{V√°roslak√≥}
+{491}{}{Komfort felel≈ës}
+{492}{}{Eligaz√≠t√≥ ≈ër}
+{493}{}{Ghoul munk√°s}
+{494}{}{F√©nyl≈ë ghoul}
+{495}{}{Eligaz√≠t√≥ ≈ër}
 {496}{}{Robot}
 {497}{}{Ghoul}
-{498}{}{HÌvı}
+{498}{}{H√≠v≈ë}
 {499}{}{Harold}
 {500}{}{Tiszt}
 {501}{}{Toto}
 {502}{}{Dorothy}
-{503}{}{V·roslakÛ}
-{504}{}{Ghoul ır}
-{505}{}{Ghoul ır}
+{503}{}{V√°roslak√≥}
+{504}{}{Eligaz√≠t√≥ ≈ër}
+{505}{}{Eligaz√≠t√≥ ≈ër}
 {506}{}{Gond}
 {507}{}{Duppo}
 {508}{}{Cucc}
 {509}{}{Bob}
-{510}{}{KaszinÛl·ny}
-{511}{}{KaszinÛl·ny}
-{512}{}{M·gikus 8-as golyÛ}
-{513}{}{Brahmin}
-{514}{}{Nyerıautomata}
-{515}{}{VÈn McGee}
+{510}{}{Kaszin√≥l√°ny}
+{511}{}{Kaszin√≥l√°ny}
+{512}{}{M√°gikus 8-as goly√≥}
+{513}{}{Brahminok}
+{514}{}{Nyer≈ëautomata}
+{515}{}{V√©n McGee}
 {516}{}{"Ittapiros" Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
 {519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
-{521}{}{J·tÈkautomata}
-{522}{}{RontÛ-BontÛ szerelı}
+{521}{}{J√°t√©kautomata}
+{522}{}{Ront√≥-Bont√≥ szerel≈ë}
 {523}{}{Chris Wright}
 {524}{}{Cody}
-{525}{}{A Korzikai TestvÈrek egyike}
+{525}{}{A Korzikai Testv√©rek egyike}
 {526}{}{Eldridge}
 {527}{}{Etil Wright}
 {528}{}{Tully atya}
 {529}{}{HumperdumperDIDO}
 {530}{}{Kis Jesus Mordino}
-{531}{}{CsipkÈs Jimmy J.}
+{531}{}{Csipk√©s Jimmy J.}
 {532}{}{Keith Wright}
 {533}{}{Lee Anne Bishop}
-{534}{}{SzÈpfi˙ Lloyd}
+{534}{}{Sz√©pfi√∫ Lloyd}
 {535}{}{Mason}
-{536}{}{’r}
+{536}{}{≈êr}
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Felvigy·zÛ}
-{541}{}{RakÈt·s Renesco}
+{540}{}{Felvigy√°z√≥}
+{541}{}{Rak√©t√°s Renesco}
 {542}{}{Marjorie Reed}
-{543}{}{Salvatore, a nagyfınˆk}
+{543}{}{Salvatore, a nagyf≈ën√∂k}
 {544}{}{Stuart Little}
 {545}{}{T-Ray}
 {546}{}{Kurva}
 {547}{}{Wright-gyerek}
-{548}{}{⁄KK rendır}
+{548}{}{√öKK rend≈ër}
 {549}{}{Oswald}
 {550}{}{Dusty}
 {551}{}{Jules}
 {552}{}{Kitty kisasszony}
 {553}{}{Csapos}
-{554}{}{Karl, a megbÌzott}
+{554}{}{Karl, a megb√≠zott}
 {555}{}{Cella ajtaja}
 {556}{}{Nagy Jesus Mordino}
 {557}{}{Hoss}
-{558}{}{MutagÈn szÈrum}
+{558}{}{Mutag√©n sz√©rum}
 {559}{}{Doboz}
 {560}{}{Doboz}
 {561}{}{Doboz}
 {562}{}{Doboz}
 {563}{}{Doktor Jubilee}
-{564}{}{AjtÛ}
-{565}{}{AjtÛ}
-{566}{}{Kˆnyvespolc}
+{564}{}{Ajt√≥}
+{565}{}{Ajt√≥}
+{566}{}{K√∂nyvespolc}
 {567}{}{Dumont seriff}
 {568}{}{Elise}
-{569}{}{RanchsegÈd}
+{569}{}{Ranchseg√©d}
 {570}{}{Felix}
 {571}{}{Westin}
 {572}{}{Rondo}
 {573}{}{Robokutya}
-{574}{}{LÈpcsı}
+{574}{}{L√©pcs≈ë}
 {575}{}{Hal}
 {576}{}{Gunther}
-{577}{}{Brahmin}
-{578}{}{Karav·nmester}
-{579}{}{Karav·n vezetı}
-{580}{}{Karav·n ır}
-{581}{}{FosztogatÛ}
+{577}{}{Brahminok}
+{578}{}{Karav√°nmester}
+{579}{}{Karav√°nvezet≈ë}
+{580}{}{Karav√°n ≈ër}
+{581}{}{Fosztogat√≥}
 {582}{}{Gengszter}
-{583}{}{Vad·sz}
-{584}{}{Vad·sz}
-{585}{}{CserkÈsz}
+{583}{}{Vad√°sz}
+{584}{}{Vad√°sz}
+{585}{}{Cserk√©sz}
 {586}{}{Zsoldos}
 {587}{}{Zsoldos}
-{588}{}{FosztogatÛ}
-{589}{}{Karav·n vezetı}
-{590}{}{Karav·n ır}
-{591}{}{J·rır}
-{592}{}{J·rır kapit·ny}
+{588}{}{Fosztogat√≥}
+{589}{}{Karav√°nvezet≈ë}
+{590}{}{Karav√°n ≈ër}
+{591}{}{J√°r≈ër}
+{592}{}{J√°r≈ër kapit√°ny}
 {593}{}{Farmer}
-{594}{}{Brahmin}
-{595}{}{Brahmin}
-{596}{}{UtazÛ}
-{597}{}{J·rır}
-{598}{}{J·rır kapit·ny}
-{599}{}{J·rır}
-{600}{}{J·rır kapit·ny}
-{601}{}{Brahmin hajtÛ}
+{594}{}{Brahminok}
+{595}{}{Brahminok}
+{596}{}{Utaz√≥}
+{597}{}{J√°r≈ër}
+{598}{}{J√°r≈ër kapit√°ny}
+{599}{}{J√°r≈ër}
+{600}{}{J√°r≈ër kapit√°ny}
+{601}{}{Brahmin hajt√≥}
 {602}{}{Marhatolvaj}
-{603}{}{FˆldbitorlÛ}
-{604}{}{SzˆrnyszakÈrtı}
-{605}{}{SzeszcsempÈsz}
+{603}{}{F√∂ldbitorl√≥}
+{604}{}{Sz√∂rnyszak√©rt≈ë}
+{605}{}{Szeszcsemp√©sz}
 {606}{}{Super mutant}
-{607}{}{Hal·sz}
-{608}{}{Rabszolga-kereskedı}
-{609}{}{PrÈmvad·sz}
-{610}{}{Carlson kˆlyˆk}
+{607}{}{Hal√°sz}
+{608}{}{Rabszolga-keresked≈ë}
+{609}{}{Pr√©mvad√°sz}
+{610}{}{Carlson k√∂ly√∂k}
 {611}{}{Carlson}
 {612}{}{}
 {613}{}{Jack, a tiszt}
-{614}{}{A Megvil·gosodott}
-{615}{}{AjtÛ}
-{616}{}{Sz·mÌtÛgÈp}
+{614}{}{A Megvil√°gosodott}
+{615}{}{Ajt√≥}
+{616}{}{Sz√°m√≠t√≥g√©p}
 {617}{}{Brahmin}
-{618}{}{Hal·lkarom                                                        }
-{619}{}{Kij·rat}
-{620}{}{Sz·mÌtÛgÈp}
+{618}{}{Hal√°lkarom}
+{619}{}{Kij√°rat}
+{620}{}{Sz√°m√≠t√≥g√©p}
 {621}{}{Feargus}
 {622}{}{Ariel}
 {623}{}{Fannie Mae}
-{624}{}{Sz·mÌtÛgÈp-termin·l}
+{624}{}{Sz√°m√≠t√≥g√©p-termin√°l}
 {625}{}{Dalia}
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{"‹zemen kÌv¸l" t·bla}
-{630}{}{Reaktor vezÈrlı gÈpezet}
+{629}{}{"√územen k√≠v√ºl" t√°bla}
+{630}{}{Reaktor vez√©rl≈ë g√©pezet}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
@@ -540,143 +540,143 @@
 {640}{}{Doboz}
 {641}{}{Doboz}
 {642}{}{Valdis}
-{643}{}{Sz·mÌtÛgÈp-termin·l}
-{644}{}{FÈmszekrÈny}
-{645}{}{L·da}
-{646}{}{Hal·lkarom ır}
+{643}{}{Sz√°m√≠t√≥g√©p-termin√°l}
+{644}{}{F√©mszekr√©ny}
+{645}{}{L√°da}
+{646}{}{Hal√°lkarom ≈ër}
 {647}{}{Goris}
 {648}{}{Doboz}
-{649}{}{FÈmszekrÈny}
-{650}{}{CsalÛ}
+{649}{}{F√©mszekr√©ny}
+{650}{}{Csal√≥}
 {651}{}{V15 map Script}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{MÈsz·ros}
+{654}{}{M√©sz√°ros}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
-{661}{}{AjtÛ}
-{662}{}{Hal·lkarom                                                        }
+{661}{}{Ajt√≥}
+{662}{}{Hal√°lkarom}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
-{666}{}{Brahmin}
-{667}{}{Fa ajtÛ}
+{666}{}{Brahminok}
+{667}{}{Fa ajt√≥}
 {668}{}{Chrissy}
 {669}{}{Darion}
-{670}{}{Darion testıre}
-{671}{}{Darion kuty·ja}
+{670}{}{Darion test≈ëre}
+{671}{}{Darion kuty√°ja}
 {672}{}{Cassidy}
-{673}{}{K˙t}
-{674}{}{Vakondpatk·ny}
+{673}{}{Kut}
+{674}{}{Vakondpatk√°ny}
 {675}{}{Nagydarab brahmin}
-{676}{}{Brahmin}
-{677}{}{LiftajtÛ}
+{676}{}{Brahminok}
+{677}{}{Liftajt√≥}
 {678}{}{Kutya}
-{679}{}{Patk·ny}
-{680}{}{Naps¸tÈses hely}
+{679}{}{Patk√°ny}
+{680}{}{Naps√ºt√©ses hely}
 {681}{}{Bess}
 {682}{}{Doboz}
-{683}{}{Kockaj·tÈkos}
-{684}{}{15-ˆs MenedÈkır}
-{685}{}{AljanÈp ır}
-{686}{}{Szınyeg}
-{687}{}{Gyerek}
+{683}{}{Kockaj√°t√©kos}
+{684}{}{15-√∂s Mened√©k≈ër}
+{685}{}{Az aljan√©p egyike}
+{686}{}{Sz≈ënyeg}
+{687}{}{K√∂ly√∂k}
 {688}{}{Aileen}
-{689}{}{’r}
+{689}{}{≈êr}
 {690}{}{Holiday doki}
-{691}{}{BÈrenc}
-{692}{}{BÈrenc}
-{693}{}{Nı}
+{691}{}{B√©renc}
+{692}{}{B√©renc}
+{693}{}{N≈ë}
 {694}{}{Francis}
 {695}{}{Frank}
 {696}{}{Ghoul}
 {697}{}{Liz}
-{698}{}{FÈrfi}
+{698}{}{F√©rfi}
 {699}{}{Manson}
 {700}{}{Marcus}
-{701}{}{B·ny·sz}
-{702}{}{Mut·ns                                                            }
+{701}{}{B√°ny√°sz}
+{702}{}{Mut√°ns}
 {703}{}{Bill}
 {704}{}{Phil}
 {705}{}{Steve}
-{706}{}{Ellenır}
+{706}{}{Ellen≈ër}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{KÈmikus kÈszlet}
-{710}{}{KarÛ}
-{711}{}{AjtÛ}
-{712}{}{Sz·mÌtÛgÈp}
+{709}{}{K√©mikus k√©szlet}
+{710}{}{Kar√≥}
+{711}{}{Ajt√≥}
+{712}{}{Sz√°m√≠t√≥g√©p}
 {713}{}{Chad}
-{714}{}{H˙sevı nˆvÈny}
+{714}{}{H√∫sev≈ë n√∂v√©ny}
 {715}{}{}
-{716}{}{RadskorpiÛ}
+{716}{}{Radskorpi√≥}
 {717}{}{}
 {718}{}{Harcos}
-{719}{}{Kannib·l}
-{720}{}{Sz·m˚zˆtt}
+{719}{}{Kannib√°l}
+{720}{}{Sz√°m≈±z√∂tt}
 {721}{}{Szent ember}
-{722}{}{Nom·d}
-{723}{}{HajlÈktalan}
+{722}{}{Nom√°d}
+{723}{}{Hajl√©ktalan}
 {724}{}{Bandita}
-{725}{}{RablÛ}
-{726}{}{⁄ton·llÛ}
-{727}{}{Rabszolga-kereskedı}
+{725}{}{Rabl√≥}
+{726}{}{√öton√°ll√≥}
+{727}{}{Rabszolga-keresked≈ë}
 {728}{}{Rabszolga}
-{729}{}{BulizÛ}
-{730}{}{S·ska}
-{731}{}{Brahmin}
+{729}{}{Buliz√≥}
+{730}{}{Im√°dkoz√≥-s√°ska}
+{731}{}{Brahminok}
 {732}{}{Vadkutya}
-{733}{}{Sz·mÌtÛgÈp}
-{734}{}{Sz·mÌtÛgÈp}
-{735}{}{Sz·mÌtÛgÈp-termin·l}
-{736}{}{Sz·mÌtÛgÈp}
-{737}{}{Gener·tor}
-{738}{}{ErıtÈr}
-{739}{}{Paraszt}
-{740}{}{Emitter}
-{741}{}{MenedÈkajtÛ}
-{742}{}{Biztons·gi ajtÛ}
-{743}{}{Tal·lkoz·s Bess-szel}
+{733}{}{Sz√°m√≠t√≥g√©p}
+{734}{}{Sz√°m√≠t√≥g√©p}
+{735}{}{Sz√°m√≠t√≥g√©p-termin√°l}
+{736}{}{Sz√°m√≠t√≥g√©p}
+{737}{}{Gener√°tor}
+{738}{}{Er≈ët√©r}
+{739}{}{Farmer}
+{740}{}{Gener√°tor}
+{741}{}{Mened√©k-ajt√≥}
+{742}{}{Biztons√°gi ajt√≥}
+{743}{}{Tal√°lkoz√°s Bess-szel}
 {744}{}{Bess}
-{745}{}{Brahmin}
+{745}{}{Brahminok}
 {746}{}{Angela Bishop}
-{747}{}{Tˆkˆs Tomi}
-{748}{}{SzÈf}
-{749}{}{SzÈf}
-{750}{}{SzÈf}
-{751}{}{SzÈf}
-{752}{}{SÌrhely}
-{753}{}{÷ltˆzıasztal}
-{754}{}{SÌrhely}
-{755}{}{Szeszfızde}
+{747}{}{T√∂k√∂s Tomi}
+{748}{}{Sz√©f}
+{749}{}{Sz√©f}
+{750}{}{Sz√©f}
+{751}{}{Sz√©f}
+{752}{}{S√≠rhely}
+{753}{}{Kom√≥d}
+{754}{}{S√≠rhely}
+{755}{}{Szeszf≈ëzde}
 {756}{}{Ramirez}
-{757}{}{Barlang 1, VÈletlen esemÈny}
+{757}{}{Barlang 1, V√©letlen esem√©ny}
 {758}{}{Doboz}
-{759}{}{AjtÛ}
-{760}{}{Barlang 2, VÈletlen esemÈny}
-{761}{}{Barlang 3, VÈletlen esemÈny}
-{762}{}{Barlang 4, VÈletlen esemÈny}
-{763}{}{Barlang 2, VÈletlen esemÈny}
-{764}{}{AjtÛ}
+{759}{}{Ajt√≥}
+{760}{}{Barlang 2, V√©letlen esem√©ny}
+{761}{}{Barlang 3, V√©letlen esem√©ny}
+{762}{}{Barlang 4, V√©letlen esem√©ny}
+{763}{}{Barlang 2, V√©letlen esem√©ny}
+{764}{}{Ajt√≥}
 {765}{}{Map Script}
-{766}{}{CsapÛajtÛ}
-{767}{}{P·ncÈldoboz}
+{766}{}{Csap√≥ajt√≥}
+{767}{}{P√°nc√©ldoboz}
 {768}{}{Szoba}
 {769}{}{Thomas Moore}
-{770}{}{AjtÛ}
-{771}{}{SzekrÈny}
-{772}{}{NyÌl·s}
-{773}{}{SÌrhely}
-{774}{}{Rakt·r ır}
+{770}{}{Ajt√≥}
+{771}{}{√ñlt√∂z≈ëszekr√©ny}
+{772}{}{Ny√≠l√°s}
+{773}{}{S√≠rhely}
+{774}{}{Rakt√°r ≈ër}
 {775}{}{Map Script}
 {776}{}{Map Script}
 {777}{}{Veszett brahminok}
 {778}{}{Hakeswill}
-{779}{}{Redding, Belv·ros}
+{779}{}{Redding, Belv√°ros}
 {780}{}{Map Script}
 {781}{}{Map Script}
 {782}{}{Lou}
@@ -687,8 +687,8 @@
 {787}{}{Galahad}
 {788}{}{Ben Wade}
 {789}{}{Athabaska Dick}
-{790}{}{÷zvegy Rooney-nÈ}
-{791}{}{V·roslakÛ}
+{790}{}{√ñzvegy Rooney-n√©}
+{791}{}{V√°roslak√≥}
 {792}{}{Stanwell}
 {793}{}{Savinelli}
 {794}{}{Marge}
@@ -700,264 +700,264 @@
 {800}{}{Eric}
 {801}{}{John}
 {802}{}{Joshua}
-{803}{}{LÈtra}
-{804}{}{Nagy fej}
-{805}{}{Fekete hıs}
-{806}{}{Vˆrˆs hısnı}
+{803}{}{L√©tra}
+{804}{}{Nagy fej.}
+{805}{}{Fekete h≈ës}
+{806}{}{V√∂r√∂s h≈ësn≈ë}
 {807}{}{Set}
 {808}{}{Tandi}
-{809}{}{FehÈr hıs}
-{810}{}{FehÈr hıs}
-{811}{}{FehÈr hısnı}
+{809}{}{Feh√©r h≈ës}
+{810}{}{Feh√©r h≈ës}
+{811}{}{Feh√©r h≈ësn≈ë}
 {812}{}{Doboz}
 {813}{}{Doboz}
 {814}{}{Doboz}
 {815}{}{Map Script}
-{816}{}{Vorpal patk·ny}
+{816}{}{Vorpal patk√°ny}
 {817}{}{Kutya}
 {818}{}{Drill Sergeant}
-{819}{}{’r}
+{819}{}{≈êr}
 {820}{}{Technikus}
 {821}{}{Parancsnok}
 {822}{}{Chris}
-{823}{}{Rakt·ros}
-{824}{}{’r}
-{825}{}{SÌrhely}
-{826}{}{AutÛ}
-{827}{}{AutÛ}
-{828}{}{SÌrhely}
-{829}{}{Kˆpenyes alak}
-{830}{}{MarhatartÛ}
+{823}{}{Rakt√°ros}
+{824}{}{≈êr}
+{825}{}{S√≠rhely}
+{826}{}{Aut√≥}
+{827}{}{Aut√≥}
+{828}{}{S√≠rhely}
+{829}{}{K√∂penyes alak}
+{830}{}{Marhatart√≥}
 {831}{}{Map Script}
 {832}{}{Titokzatos idegen}
 {833}{}{Veszett brahminok}
 {834}{}{Yakuza Member}
-{835}{}{VadonlakÛ}
+{835}{}{Vadonlak√≥}
 {836}{}{Kutya}
 {837}{}{Doboz}
 {838}{}{Patrol Member}
-{839}{}{UtazÛ}
-{840}{}{F¸st}
-{841}{}{Kereskedı}
-{842}{}{Guber·lÛ}
-{843}{}{Kereskedı}
-{844}{}{Paraszt}
+{839}{}{Utaz√≥}
+{840}{}{F√ºst}
+{841}{}{Keresked≈ë}
+{842}{}{Guber√°l√≥}
+{843}{}{Keresked≈ë}
+{844}{}{Farmer}
 {845}{}{Arroyo, Templom}
-{846}{}{Dokkmunk·s}
-{847}{}{Paraszt}
-{848}{}{Shi ır}
+{846}{}{Dokkmunk√°s}
+{847}{}{Farmer}
+{848}{}{Shi ≈ër}
 {849}{}{Cameron}
-{850}{}{AjtÛ}
+{850}{}{Ajt√≥}
 {851}{}{Klint}
-{852}{}{TermÈs}
+{852}{}{Term√©s}
 {853}{}{Shi labortechnikus}
-{854}{}{Gyerek}
+{854}{}{K√∂ly√∂k}
 {855}{}{Ghoul}
 {856}{}{Dr. Fung}
 {857}{}{Jul}
 {858}{}{Kerith}
-{859}{}{L·da}
+{859}{}{L√°da}
 {860}{}{Ghoul}
 {861}{}{}
 {862}{}{}
-{863}{}{FˆldmÈrı}
+{863}{}{F√∂ldm√©r≈ë}
 {864}{}{Gang Member}
-{865}{}{Nom·d fınˆk}
+{865}{}{Nom√°d f≈ën√∂k}
 {866}{}{Hubologista}
-{867}{}{’r¸lt}
-{868}{}{FˆldfoglalÛ}
-{869}{}{Kannib·l}
-{870}{}{Nom·d s·m·n}
-{871}{}{MartalÛc}
-{872}{}{Zsiv·ny}
+{867}{}{≈êr√ºlt}
+{868}{}{F√∂ldfoglal√≥}
+{869}{}{Kannib√°l}
+{870}{}{Nom√°d s√°m√°n}
+{871}{}{Martal√≥c}
+{872}{}{Zsiv√°ny}
 {873}{}{Remete}
 {874}{}{}
-{875}{}{Karav·nmester}
-{876}{}{Karav·nmester}
-{877}{}{Karav·nmester}
-{878}{}{Karav·nmester}
-{879}{}{Karav·nmester}
-{880}{}{Karav·nmester}
-{881}{}{Karav·nmester}
-{882}{}{Karav·nmester}
-{883}{}{Karav·nmester}
-{884}{}{Farmer felesÈge}
-{885}{}{Farmer kˆlyke}
+{875}{}{Karav√°nmester}
+{876}{}{Karav√°nmester}
+{877}{}{Karav√°nmester}
+{878}{}{Karav√°nmester}
+{879}{}{Karav√°nmester}
+{880}{}{Karav√°nmester}
+{881}{}{Karav√°nmester}
+{882}{}{Karav√°nmester}
+{883}{}{Karav√°nmester}
+{884}{}{Farmer feles√©ge}
+{885}{}{Farmer k√∂lyke}
 {886}{}{Telepes}
-{887}{}{Tanyasi felesÈge}
-{888}{}{Tanyasi kˆlyke}
-{889}{}{Karav·nmester}
+{887}{}{Tanyasi feles√©ge}
+{888}{}{Tanyasi k√∂lyke}
+{889}{}{Karav√°nmester}
 {890}{}{}
 {891}{}{}
 {892}{}{}
 {893}{}{}
-{894}{}{Enkl·vÈ j·rır}
-{895}{}{Zsoldoskapit·ny}
-{896}{}{Zsoldos fosztogatÛ}
-{897}{}{"¡rnyÈk-Aki-J·r"}
-{898}{}{SzÈf}
+{894}{}{Enkl√°v√© j√°r≈ër}
+{895}{}{Zsoldoskapit√°ny}
+{896}{}{Zsoldos fosztogat√≥}
+{897}{}{"√Årny√©k-Aki-J√°r"}
+{898}{}{Sz√©f}
 {899}{}{}
 {900}{}{}
 {901}{}{}
 {902}{}{Doboz}
-{903}{}{Richardson elnˆk}
+{903}{}{Richardson eln√∂k}
 {904}{}{Tarack}
-{905}{}{AjtÛ}
-{906}{}{Hal·lkarom kˆlyˆk}
-{907}{}{"VeszÈlyes" Dan}
+{905}{}{Ajt√≥}
+{906}{}{Hal√°lkarom k√∂ly√∂k}
+{907}{}{"Vesz√©lyes" Dan}
 {908}{}{Johnson doki}
 {909}{}{Marion seriff}
-{910}{}{Ascorti polg·rmester}
+{910}{}{Ascorti polg√°rmester}
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
-{914}{}{A S·rk·ny}
-{915}{}{Ist·llÛfi˙}
-{916}{}{Kereskedı}
-{917}{}{V·roslakÛ}
-{918}{}{AljanÈp ır}
-{919}{}{AljanÈp ır}
+{914}{}{A S√°rk√°ny}
+{915}{}{Ist√°ll√≥fi√∫}
+{916}{}{Keresked≈ë}
+{917}{}{V√°roslak√≥}
+{918}{}{Az aljan√©p egyike}
+{919}{}{Az aljan√©p egyike}
 {920}{}{Lo Pan}
 {921}{}{A Borz}
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
 {925}{}{Mai Da Chiang}
-{926}{}{AjtÛ}
-{927}{}{AjtÛ}
-{928}{}{Emitter}
-{929}{}{Patk·nykir·ly}
+{926}{}{Ajt√≥}
+{927}{}{Ajt√≥}
+{928}{}{Gener√°tor}
+{929}{}{Patk√°nykir√°ly}
 {930}{}{}
 {931}{}{Kaga}
 {932}{}{Kaga}
 {933}{}{Kaga}
 {934}{}{Kaga}
 {935}{}{Kaga}
-{936}{}{Fejvad·sz}
-{937}{}{Sz·mÌtÛgÈp}
-{938}{}{Sz·mÌtÛgÈp}
-{939}{}{Sz·mÌtÛgÈp}
+{936}{}{Fejvad√°sz}
+{937}{}{Sz√°m√≠t√≥g√©p}
+{938}{}{Sz√°m√≠t√≥g√©p}
+{939}{}{Sz√°m√≠t√≥g√©p}
 {940}{}{Darrow}
 {941}{}{Farrell}
-{942}{}{B·rvendÈg}
-{943}{}{MenedÈkv·rosi polg·r}
-{944}{}{MenedÈkv·rosi szolga}
-{945}{}{SzellızınyÌl·s}
+{942}{}{B√°rvend√©g}
+{943}{}{Mened√©kv√°rosi polg√°r}
+{944}{}{Mened√©kv√°rosi szolga}
+{945}{}{Szell≈ëz≈ëny√≠l√°s}
 {946}{}{Charlie}
-{947}{}{H˚tÈsvezÈrlı panel}
+{947}{}{H≈±t√©svez√©rl≈ë panel}
 {948}{}{Brahminszar}
 {949}{}{Grant}
-{950}{}{Emitter}
-{951}{}{Emitter}
-{952}{}{Sz·mÌtÛgÈp-termin·l}
-{953}{}{UralkodÛ Termin·l v8.8}
-{954}{}{Bird alelnˆk}
+{950}{}{Gener√°tor}
+{951}{}{Gener√°tor}
+{952}{}{Sz√°m√≠t√≥g√©p-termin√°l}
+{953}{}{Uralkod√≥ Termin√°l v8.8}
+{954}{}{Bird aleln√∂k}
 {955}{}{Martin}
 {956}{}{Ken Lee}
-{957}{}{Granite ırmester}
+{957}{}{Granite ≈ërmester}
 {958}{}{Frank Horrigan}
 {959}{}{Map Script}
 {960}{}{Map Script}
-{961}{}{AjtÛ}
-{962}{}{AjtÛ}
-{963}{}{AjtÛ}
-{964}{}{KˆtÈl}
-{965}{}{Emitter}
+{961}{}{Ajt√≥}
+{962}{}{Ajt√≥}
+{963}{}{Ajt√≥}
+{964}{}{K√∂t√©l}
+{965}{}{Gener√°tor}
 {966}{}{Dr. Curling}
-{967}{}{Hirdetıt·bla}
-{968}{}{Vakondpatk·ny}
-{969}{}{Elnˆk titk·rnıje}
+{967}{}{Hirdet≈ët√°bla}
+{968}{}{Vakondpatk√°ny}
+{969}{}{Eln√∂k titk√°rn≈ëje}
 {970}{}{Tom Murray}
-{971}{}{MasszÌv ajtÛ}
-{972}{}{V·roslakÛ}
-{973}{}{MenedÈkv·ros tan·csh·z}
-{974}{}{LÈgtisztÌtÛ}
-{975}{}{Kˆvek}
-{976}{}{Szerencsej·tÈkos}
+{971}{}{Massz√≠v ajt√≥}
+{972}{}{V√°roslak√≥}
+{973}{}{Mened√©kv√°ros tan√°csh√°z}
+{974}{}{L√©gtiszt√≠t√≥}
+{975}{}{K√∂vek}
+{976}{}{Szerencsej√°t√©kos}
 {977}{}{Spatial Script}
 {978}{}{SCCheat}
 {979}{}{Fogoly}
-{980}{}{Polg·r}
-{981}{}{’r}
-{982}{}{TudÛs}
-{983}{}{Termin·l}
+{980}{}{V√°roslak√≥}
+{981}{}{≈êr}
+{982}{}{Tud√≥s}
+{983}{}{Termin√°l}
 {984}{}{}
 {985}{}{}
-{986}{}{Emitter}
-{987}{}{AjtÛ}
-{988}{}{AjtÛ}
-{989}{}{Darrow ·ruja}
-{990}{}{AjtÛ}
-{991}{}{Szuperdupermut·ns}
+{986}{}{Gener√°tor}
+{987}{}{Ajt√≥}
+{988}{}{Ajt√≥}
+{989}{}{Darrow √°ruja}
+{990}{}{Ajt√≥}
+{991}{}{Szuperdupermut√°ns}
 {992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
 {994}{}{Melchior Jr.}
 {995}{}{Retinaszkenner}
-{996}{}{LiftajtÛ}
+{996}{}{Liftajt√≥}
 {997}{}{Cybernetic Receptacle}
 {998}{}{Fal}
 {999}{}{Map Script}
-{1000}{}{Farrell ·ruja}
-{1001}{}{Harry ·ruja}
+{1000}{}{Farrell √°ruja}
+{1001}{}{Harry √°ruja}
 {1002}{}{Doboz}
 {1003}{}{Doboz}
 {1004}{}{Derek}
-{1005}{}{Tubby bar·tja}
-{1006}{}{Szerencsej·tÈkos}
+{1005}{}{Tubby bar√°tja}
+{1006}{}{Szerencsej√°t√©kos}
 {1007}{}{Rabszolga}
-{1008}{}{’r}
-{1009}{}{Rabszolga-kereskedı}
+{1008}{}{≈êr}
+{1009}{}{Rabszolga-keresked≈ë}
 {1010}{}{Lara}
 {1011}{}{Tyler}
 {1012}{}{Marc}
-{1013}{}{Hirdetıt·bla}
-{1014}{}{Rabszolga-kereskedı}
-{1015}{}{Rabszolga-kereskedı}
+{1013}{}{Hirdet≈ët√°bla}
+{1014}{}{Rabszolga-keresked≈ë}
+{1015}{}{Rabszolga-keresked≈ë}
 {1016}{}{Fred}
 {1017}{}{Doboz}
 {1018}{}{Doboz}
 {1019}{}{Doboz}
-{1020}{}{CsomagtartÛ}
-{1021}{}{Biztons·gi ajtÛ}
-{1022}{}{Sz·mÌtÛgÈp-termin·l}
-{1023}{}{Sz·mÌtÛgÈp-termin·l}
-{1024}{}{Sz·mÌtÛgÈp-termin·l}
+{1020}{}{Csomagtart√≥}
+{1021}{}{Biztons√°gi ajt√≥}
+{1022}{}{Sz√°m√≠t√≥g√©p-termin√°l}
+{1023}{}{Sz√°m√≠t√≥g√©p-termin√°l}
+{1024}{}{Sz√°m√≠t√≥g√©p-termin√°l}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{SzellızınyÌl·s}
+{1027}{}{Szell≈ëz≈ëny√≠l√°s}
 {1028}{}{Map Script}
 {1029}{}{Hulla}
-{1030}{}{VezetÈk}
+{1030}{}{Vezet√©k}
 {1031}{}{Doboz}
 {1032}{}{Rabszolga}
 {1033}{}{Rabszolga}
-{1034}{}{Rabszolga-kereskedı}
+{1034}{}{Rabszolga-keresked≈ë}
 {1035}{}{Chip}
 {1036}{}{Reaktor}
-{1037}{}{Reaktor sz·mÌtÛgÈp}
-{1038}{}{PÈnzt·ros}
-{1039}{}{PÈnzesl·da}
+{1037}{}{Reaktor sz√°m√≠t√≥g√©p}
+{1038}{}{P√©nzt√°ros}
+{1039}{}{P√©nzesl√°da}
 {1040}{}{Wanamingo}
-{1041}{}{B·rvendÈg}
-{1042}{}{B·rvendÈg}
-{1043}{}{BˆrtˆnajtÛ}
+{1041}{}{B√°rvend√©g}
+{1042}{}{B√°rvend√©g}
+{1043}{}{B√∂rt√∂najt√≥}
 {1044}{}{Suze}
-{1045}{}{Ron Meyers, a kapit·ny}
-{1046}{}{AjtÛ}
-{1047}{}{Wanamingo b·nya}
-{1048}{}{Wanamingo b·nya bej·rata}
-{1049}{}{H˚tıs Morton}
+{1045}{}{Ron Meyers, a kapit√°ny}
+{1046}{}{Ajt√≥}
+{1047}{}{Wanamingo Banya}
+{1048}{}{Wanamingo b√°nya bej√°rata}
+{1049}{}{H≈±t≈ës Morton}
 {1050}{}{Dave H.}
-{1051}{}{AjtÛ}
-{1052}{}{AjtÛ}
-{1053}{}{H·nyÛs Charlie}
-{1054}{}{FestmÈny}
+{1051}{}{Ajt√≥}
+{1052}{}{Ajt√≥}
+{1053}{}{H√°ny√≥s Charlie}
+{1054}{}{Festm√©ny}
 {1055}{}{Map Script}
 {1056}{}{Csapos}
 {1057}{}{Doboz}
 {1058}{}{AutoDoki}
 {1059}{}{}
-{1060}{}{B·ny·sz alag˙t}
+{1060}{}{B√°ny√°sz alag√∫t}
 {1061}{}{Robot}
 {1062}{}{}
 {1063}{}{Map Script}
@@ -970,319 +970,319 @@
 {1070}{}{Amanda}
 {1071}{}{Joshua}
 {1072}{}{Valerie}
-{1073}{}{TanÌtÛrendszer}
-{1074}{}{L·da}
-{1075}{}{Pis·lÛ sr·c}
+{1073}{}{Tan√≠t√≥rendszer}
+{1074}{}{Doboz}
+{1075}{}{Pis√°l√≥ sr√°c}
 {1076}{}{Curtis}
 {1077}{}{Marc}
-{1078}{}{Sz·mÌtÛgÈp}
+{1078}{}{Sz√°m√≠t√≥g√©p}
 {1079}{}{BHK-9}
-{1080}{}{’r}
-{1081}{}{Kıhalom}
-{1082}{}{AjtÛ}
-{1083}{}{’r}
-{1084}{}{’r}
-{1085}{}{AjtÛ}
-{1086}{}{"KˆrˆzvÈny"}
+{1080}{}{≈êr}
+{1081}{}{K≈ëhalom}
+{1082}{}{Ajt√≥}
+{1083}{}{≈êr}
+{1084}{}{≈êr}
+{1085}{}{Ajt√≥}
+{1086}{}{"K√∂r√∂zv√©ny"}
 {1087}{}{Dr. Wong}
 {1088}{}{Asztal}
-{1089}{}{AjtÛ}
+{1089}{}{Ajt√≥}
 {1090}{}{Punk!}
 {1091}{}{Punk!}
 {1092}{}{Ryan}
 {1093}{}{Doboz}
 {1094}{}{}
-{1095}{}{NyÌl·s}
+{1095}{}{Ny√≠l√°s}
 {1096}{}{Map Script}
-{1097}{}{LÈtra}
-{1098}{}{Boksz-zs·k}
-{1099}{}{AjtÛ}
-{1100}{}{RiasztÛ}
-{1101}{}{PadlÛlap}
-{1102}{}{PadlÛlap}
-{1103}{}{PadlÛlap}
-{1104}{}{PadlÛlap}
-{1105}{}{PadlÛlap}
-{1106}{}{PadlÛlap}
-{1107}{}{PadlÛlap}
-{1108}{}{PadlÛlap}
-{1109}{}{PadlÛlap}
-{1110}{}{PadlÛlap}
-{1111}{}{PadlÛlap}
-{1112}{}{PadlÛlap}
-{1113}{}{PadlÛlap}
-{1114}{}{PadlÛlap}
-{1115}{}{Emitter}
-{1116}{}{Emitter}
-{1117}{}{Emitter}
-{1118}{}{ErıtÈr}
-{1119}{}{ErıtÈr}
-{1120}{}{ErıtÈr}
+{1097}{}{L√©tra}
+{1098}{}{Boksz-zs√°k}
+{1099}{}{Ajt√≥}
+{1100}{}{Riaszt√≥}
+{1101}{}{Padl√≥lap}
+{1102}{}{Padl√≥lap}
+{1103}{}{Padl√≥lap}
+{1104}{}{Padl√≥lap}
+{1105}{}{Padl√≥lap}
+{1106}{}{Padl√≥lap}
+{1107}{}{Padl√≥lap}
+{1108}{}{Padl√≥lap}
+{1109}{}{Padl√≥lap}
+{1110}{}{Padl√≥lap}
+{1111}{}{Padl√≥lap}
+{1112}{}{Padl√≥lap}
+{1113}{}{Padl√≥lap}
+{1114}{}{Padl√≥lap}
+{1115}{}{Gener√°tor}
+{1116}{}{Gener√°tor}
+{1117}{}{Gener√°tor}
+{1118}{}{Er≈ët√©r}
+{1119}{}{Er≈ët√©r}
+{1120}{}{Er≈ët√©r}
 {1121}{}{Hubologista}
-{1122}{}{Sz·mÌtÛgÈp}
-{1123}{}{BunkerajtÛ}
+{1122}{}{Sz√°m√≠t√≥g√©p}
+{1123}{}{Bunkerajt√≥}
 {1124}{}{Kapu}
 {1125}{}{Doboz}
-{1126}{}{Az egyik Morton fivÈr}
-{1127}{}{Emitter}
-{1128}{}{Emitter}
-{1129}{}{Emitter}
+{1126}{}{Az egyik Morton fiv√©r}
+{1127}{}{Gener√°tor}
+{1128}{}{Gener√°tor}
+{1129}{}{Gener√°tor}
 {1130}{}{Map Script}
 {1131}{}{Chet}
 {1132}{}{Map Script}
-{1133}{}{GÈpmad·r}
-{1134}{}{Salvatore ıre}
-{1135}{}{Salvatore ıre}
+{1133}{}{G√©pmad√°r}
+{1134}{}{Salvatore ≈ëre}
+{1135}{}{Salvatore ≈ëre}
 {1136}{}{Soldier}
 {1137}{}{Soldier}
-{1138}{}{L·da}
+{1138}{}{Doboz}
 {1139}{}{Mr. Handy}
-{1140}{}{Salvatore ıre}
+{1140}{}{Salvatore ≈ëre}
 {1141}{}{Spacial Script}
-{1142}{}{AjtÛ}
-{1143}{}{AjtÛ}
-{1144}{}{AjtÛ}
+{1142}{}{Ajt√≥}
+{1143}{}{Ajt√≥}
+{1144}{}{Ajt√≥}
 {1145}{}{}
 {1146}{}{Map Script}
 {1147}{}{Rabszolga}
-{1148}{}{MenedÈkv·rosi polg·r}
-{1149}{}{AjtÛ}
-{1150}{}{BokszolÛ}
-{1151}{}{MenedÈkajtÛ}
+{1148}{}{Mened√©kv√°rosi polg√°r}
+{1149}{}{Ajt√≥}
+{1150}{}{Bokszol√≥}
+{1151}{}{Mened√©k-ajt√≥}
 {1152}{}{Xarn}
 {1153}{}{Raul}
 {1154}{}{Quincy}
-{1155}{}{Rakt·ros}
-{1156}{}{’r}
+{1155}{}{Rakt√°ros}
+{1156}{}{≈êr}
 {1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Technikus}
 {1160}{}{Technikus}
-{1161}{}{’r}
-{1162}{}{’r}
-{1163}{}{’r}
-{1164}{}{’r}
+{1161}{}{≈êr}
+{1162}{}{≈êr}
+{1163}{}{≈êr}
+{1164}{}{≈êr}
 {1165}{}{Technikus}
 {1166}{}{Technikus}
 {1167}{}{Technikus}
 {1168}{}{Technikus}
-{1169}{}{BarlangnyÌl·s}
+{1169}{}{Barlangny√≠l√°s}
 {1170}{}{Enclave Patroller}
-{1171}{}{AjtÛ}
+{1171}{}{Ajt√≥}
 {1172}{}{Map Script}
 {1173}{}{Map Script}
 {1174}{}{Map Script}
 {1175}{}{Map Script}
 {1176}{}{Map Script}
 {1177}{}{Map Script}
-{1178}{}{Biztons·gi robot}
-{1179}{}{Adom·nygy˚jtı persely}
+{1178}{}{Biztons√°gi robot}
+{1179}{}{Adom√°nygy≈±jt≈ë persely}
 {1180}{}{Test}
 {1181}{}{Doboz}
 {1182}{}{Doboz}
 {1183}{}{Doboz}
-{1184}{}{Karav·n ır}
-{1185}{}{Karav·n vezetı}
-{1186}{}{M˚sorkˆzlı}
-{1187}{}{Ringl·ny}
-{1188}{}{BokszolÛ}
-{1189}{}{AjtÛ}
-{1190}{}{CsalÛ karakter}
+{1184}{}{Karav√°n ≈ër}
+{1185}{}{Karav√°nvezet≈ë}
+{1186}{}{M≈±sork√∂zl≈ë}
+{1187}{}{Ringl√°ny}
+{1188}{}{Bokszol√≥}
+{1189}{}{Ajt√≥}
+{1190}{}{Csal√≥ karakter}
 {1191}{}{Hololemez}
 {1192}{}{Hololemez}
 {1193}{}{Hololemez}
 {1194}{}{Jegyzet}
 {1195}{}{Dogmeat}
-{1196}{}{Cat's Paw magazin 5-ˆs pÈld·nya}
-{1197}{}{A FosztogatÛk tÈrkÈpe}
-{1198}{}{P·ria kutya}
-{1199}{}{RiasztÛ}
-{1200}{}{B·nya}
-{1201}{}{‹reg}
+{1196}{}{Cat's Paw magazin 5-√∂s p√©ld√°nya}
+{1197}{}{A Fosztogat√≥k t√©rk√©pe}
+{1198}{}{P√°ria kutya}
+{1199}{}{Riaszt√≥}
+{1200}{}{B√°nya}
+{1201}{}{√úreg}
 {1202}{}{Cal}
-{1203}{}{VÈzna}
+{1203}{}{V√©zna}
 {1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
-{1207}{}{Emitter}
-{1208}{}{Emitter}
-{1209}{}{Emitter}
-{1210}{}{Emitter}
-{1211}{}{Fallout 2 tippkˆnyv}
+{1207}{}{Gener√°tor}
+{1208}{}{Gener√°tor}
+{1209}{}{Gener√°tor}
+{1210}{}{Gener√°tor}
+{1211}{}{Fallout 2 tippk√∂nyv}
 {1212}{}{}
 {1213}{}{}
-{1214}{}{’r}
-{1215}{}{FˆldmÈrı}
-{1216}{}{SzeszcsempÈsz}
+{1214}{}{≈êr}
+{1215}{}{F√∂ldm√©r≈ë}
+{1216}{}{Szeszcsemp√©sz}
 {1217}{}{}
 {1218}{}{Dan}
-{1219}{}{kezdı komikus}
-{1220}{}{A Szemetes Ènekese}
+{1219}{}{kezd≈ë komikus}
+{1220}{}{A Szemetes √©nekese}
 {1221}{}{Map Script}
 {1222}{}{}
-{1223}{}{SÌrhely}
-{1224}{}{KoporsÛs Willie}
-{1225}{}{FBK termin·l}
-{1226}{}{FBK ajtÛ}
-{1227}{}{Sz·mÌtÛgÈp}
+{1223}{}{S√≠rhely}
+{1224}{}{Kopors√≥s Willie}
+{1225}{}{FBK termin√°l}
+{1226}{}{FBK ajt√≥}
+{1227}{}{Sz√°m√≠t√≥g√©p}
 {1228}{}{Kohl}
-{1229}{}{Gyerek}
-{1230}{}{S¸ti}
-{1231}{}{Lˆvegtorony}
+{1229}{}{K√∂ly√∂k}
+{1230}{}{S√ºti}
+{1231}{}{Torony}
 {1232}{}{Brian}
-{1233}{}{Gener·tor}
+{1233}{}{Gener√°tor}
 {1234}{}{Konzol}
-{1235}{}{”ri·shangya}
-{1236}{}{”ri·shangya}
-{1237}{}{AjtÛ}
+{1235}{}{√ìri√°shangya}
+{1236}{}{√ìri√°shangya}
+{1237}{}{Ajt√≥}
 {1238}{}{}
 {1239}{}{Doboz}
 {1240}{}{Eric}
 {1241}{}{}
 {1242}{}{Doboz}
-{1243}{}{”ri·sskorpiÛ}
+{1243}{}{√ìri√°sskorpi√≥}
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Map Script}
-{1247}{}{Derm·lis PipBoy}
+{1247}{}{Derm√°lis PipBoy}
 {1248}{}{Eb}
 {1249}{}{Rattray}
-{1250}{}{H·zast·rs}
-{1251}{}{LoPan ıre}
+{1250}{}{H√°zast√°rs}
+{1251}{}{LoPan ≈ëre}
 {1252}{}{Map Script}
-{1253}{}{AjtÛ}
+{1253}{}{Ajt√≥}
 {1254}{}{Kibernetikus kutya}
 {1255}{}{Luke}
 {1256}{}{Joshua}
 {1257}{}{Kapu}
 {1258}{}{Matt}
-{1259}{}{AjtÛ}
-{1260}{}{’r}
-{1261}{}{AjtÛ}
-{1262}{}{Sz·mÌtÛgÈp}
-{1263}{}{Termin·l}
-{1264}{}{Lˆvegtorony}
+{1259}{}{Ajt√≥}
+{1260}{}{≈êr}
+{1261}{}{Ajt√≥}
+{1262}{}{Sz√°m√≠t√≥g√©p}
+{1263}{}{Termin√°l}
+{1264}{}{Torony}
 {1265}{}{Chuck Stodgers}
 {1266}{}{}
-{1267}{}{Termin·l}
+{1267}{}{Termin√°l}
 {1268}{}{Bandatag}
-{1269}{}{CsalÛ}
+{1269}{}{Csal√≥}
 {1270}{}{}
-{1271}{}{Paraszt}
-{1272}{}{A levendula vir·ga}
-{1273}{}{RadskorpiÛ}
+{1271}{}{Farmer}
+{1272}{}{A levendula vir√°ga}
+{1273}{}{Radskorpi√≥}
 {1274}{}{Professszor}
 {1275}{}{Doboz}
 {1276}{}{Doboz}
 {1277}{}{Seymour}
 {1278}{}{John Sullivan}
-{1279}{}{P˙pos}
+{1279}{}{P√∫pos}
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
-{1283}{}{’r}
+{1283}{}{≈êr}
 {1284}{}{}
 {1285}{}{}
 {1286}{}{Typhon}
-{1287}{}{Testır}
+{1287}{}{Test≈ër}
 {1288}{}{Map Script}
-{1289}{}{SzekrÈny}
-{1290}{}{K˙t}
+{1289}{}{√ñlt√∂z≈ëszekr√©ny}
+{1290}{}{Kut}
 {1291}{}{Micky}
-{1292}{}{Lˆvegtorony}
-{1293}{}{÷reg ghoul}
-{1294}{}{BÈrenc}
+{1292}{}{Torony}
+{1293}{}{√ñreg ghoul}
+{1294}{}{B√©renc}
 {1295}{}{Elmo}
 {1296}{}{WC}
 {1297}{}{Kereszt}
 {1298}{}{Eke}
 {1299}{}{Eke}
-{1300}{}{SkorpiÛ}
-{1301}{}{Gener·tor}
-{1302}{}{AjtÛ}
-{1303}{}{AjtÛ}
+{1300}{}{Skorpi√≥}
+{1301}{}{Gener√°tor}
+{1302}{}{Ajt√≥}
+{1303}{}{Ajt√≥}
 {1304}{}{Orvosi PipBoy}
-{1305}{}{SzekrÈny}
-{1306}{}{SzekrÈny}
-{1307}{}{SzekrÈny}
-{1308}{}{SzekrÈny}
-{1309}{}{SzekrÈny}
-{1310}{}{SzekrÈny}
-{1311}{}{SzekrÈny}
-{1312}{}{SzekrÈny}
-{1313}{}{SzekrÈny}
-{1314}{}{SzekrÈny}
-{1315}{}{SzekrÈny}
-{1316}{}{SzekrÈny}
-{1317}{}{SzekrÈny}
-{1318}{}{SzekrÈny}
-{1319}{}{SzekrÈny}
-{1320}{}{SzekrÈny}
-{1321}{}{SzekrÈny}
-{1322}{}{SzekrÈny}
-{1323}{}{SzekrÈny}
-{1324}{}{SzekrÈny}
+{1305}{}{√ñlt√∂z≈ëszekr√©ny}
+{1306}{}{√ñlt√∂z≈ëszekr√©ny}
+{1307}{}{√ñlt√∂z≈ëszekr√©ny}
+{1308}{}{√ñlt√∂z≈ëszekr√©ny}
+{1309}{}{√ñlt√∂z≈ëszekr√©ny}
+{1310}{}{√ñlt√∂z≈ëszekr√©ny}
+{1311}{}{√ñlt√∂z≈ëszekr√©ny}
+{1312}{}{√ñlt√∂z≈ëszekr√©ny}
+{1313}{}{√ñlt√∂z≈ëszekr√©ny}
+{1314}{}{√ñlt√∂z≈ëszekr√©ny}
+{1315}{}{√ñlt√∂z≈ëszekr√©ny}
+{1316}{}{√ñlt√∂z≈ëszekr√©ny}
+{1317}{}{√ñlt√∂z≈ëszekr√©ny}
+{1318}{}{√ñlt√∂z≈ëszekr√©ny}
+{1319}{}{√ñlt√∂z≈ëszekr√©ny}
+{1320}{}{√ñlt√∂z≈ëszekr√©ny}
+{1321}{}{√ñlt√∂z≈ëszekr√©ny}
+{1322}{}{√ñlt√∂z≈ëszekr√©ny}
+{1323}{}{√ñlt√∂z≈ëszekr√©ny}
+{1324}{}{√ñlt√∂z≈ëszekr√©ny}
 {1325}{}{Map Script}
-{1326}{}{Nem l·tsz}
-{1327}{}{Badogember}
+{1326}{}{Nem l√°tsz}
+{1327}{}{B√°dogember.}
 {1328}{}{Map Script}
-{1329}{}{Az ˆrˆkkÈvalÛsÈg ırzıje}
+{1329}{}{Az √∂r√∂kk√©val√≥s√©g ≈ërz≈ëje}
 {1330}{}{}
-{1331}{}{Termin·l}
-{1332}{}{SzekrÈny}
+{1331}{}{Termin√°l}
+{1332}{}{√ñlt√∂z≈ëszekr√©ny}
 {1333}{}{}
 {1334}{}{Map Script}
-{1335}{}{VÈdelmi robot}
-{1336}{}{VÈdelmi robot}
-{1337}{}{SzekrÈny}
-{1338}{}{SzekrÈny}
-{1339}{}{SzekrÈny}
-{1340}{}{SzekrÈny}
-{1341}{}{SzekrÈny}
-{1342}{}{SzekrÈny}
-{1343}{}{SzekrÈny}
-{1344}{}{SzekrÈny}
-{1345}{}{SzekrÈny}
-{1346}{}{SzekrÈny}
-{1347}{}{SzekrÈny}
-{1348}{}{SzekrÈny}
-{1349}{}{SzekrÈny}
-{1350}{}{SzekrÈny}
-{1351}{}{SzekrÈny}
-{1352}{}{SzekrÈny}
-{1353}{}{SzekrÈny}
-{1354}{}{SzekrÈny}
-{1355}{}{SzekrÈny}
-{1356}{}{SzekrÈny}
-{1357}{}{DokklakÛ}
-{1358}{}{DokklakÛ kˆlyˆk}
+{1335}{}{V√©delmi robot}
+{1336}{}{V√©delmi robot}
+{1337}{}{√ñlt√∂z≈ëszekr√©ny}
+{1338}{}{√ñlt√∂z≈ëszekr√©ny}
+{1339}{}{√ñlt√∂z≈ëszekr√©ny}
+{1340}{}{√ñlt√∂z≈ëszekr√©ny}
+{1341}{}{√ñlt√∂z≈ëszekr√©ny}
+{1342}{}{√ñlt√∂z≈ëszekr√©ny}
+{1343}{}{√ñlt√∂z≈ëszekr√©ny}
+{1344}{}{√ñlt√∂z≈ëszekr√©ny}
+{1345}{}{√ñlt√∂z≈ëszekr√©ny}
+{1346}{}{√ñlt√∂z≈ëszekr√©ny}
+{1347}{}{√ñlt√∂z≈ëszekr√©ny}
+{1348}{}{√ñlt√∂z≈ëszekr√©ny}
+{1349}{}{√ñlt√∂z≈ëszekr√©ny}
+{1350}{}{√ñlt√∂z≈ëszekr√©ny}
+{1351}{}{√ñlt√∂z≈ëszekr√©ny}
+{1352}{}{√ñlt√∂z≈ëszekr√©ny}
+{1353}{}{√ñlt√∂z≈ëszekr√©ny}
+{1354}{}{√ñlt√∂z≈ëszekr√©ny}
+{1355}{}{√ñlt√∂z≈ëszekr√©ny}
+{1356}{}{√ñlt√∂z≈ëszekr√©ny}
+{1357}{}{Dokklak√≥}
+{1358}{}{Dokklak√≥ k√∂ly√∂k}
 {1359}{}{Map Script}
 {1360}{}{Percy Crump}
 {1361}{}{Doboz}
 {1362}{}{Doboz}
-{1363}{}{AjtÛ}
+{1363}{}{Ajt√≥}
 {1364}{}{A Nagy Ananias}
 {1365}{}{Map Script}
 {1366}{}{Mosdatlan Falusi}
-{1367}{}{H·zalÛ}
-{1368}{}{TÈrkÈp}
+{1367}{}{H√°zal√≥}
+{1368}{}{T√©rk√©p}
 {1369}{}{Map Script}
 {1370}{}{Map Script}
 {1371}{}{Map Script}
 {1372}{}{Map Script}
 {1373}{}{Nuka-Cola automata}
 {1374}{}{Dokk}
-{1375}{}{AjtÛ}
+{1375}{}{Ajt√≥}
 {1376}{}{Akna}
 {1377}{}{Akna}
 {1378}{}{Az exed}
 {1379}{}{Mel}
-{1380}{}{Szellıztetı}
+{1380}{}{Szell≈ëz≈ë}
 {1381}{}{Kevin}
-{1382}{}{RiasztÛ}
-{1383}{}{SzekrÈny}
-{1384}{}{SzekrÈny}
-{1385}{}{SzekrÈny}
+{1382}{}{Riaszt√≥}
+{1383}{}{√ñlt√∂z≈ëszekr√©ny}
+{1384}{}{√ñlt√∂z≈ëszekr√©ny}
+{1385}{}{√ñlt√∂z≈ëszekr√©ny}
 {1386}{}{}
 {1387}{}{}
 {1388}{}{}
@@ -1291,15 +1291,15 @@
 {1391}{}{}
 {1392}{}{}
 {1393}{}{}
-{1394}{}{SzeszcsempÈsz}
+{1394}{}{Szeszcsemp√©sz}
 {1395}{}{}
 {1396}{}{}
-{1397}{}{Carny kˆlyˆk}
+{1397}{}{Carny k√∂ly√∂k}
 {1398}{}{}
 {1399}{}{}
-{1400}{}{B·nya}
-{1401}{}{SzekrÈny}
-{1402}{}{AjtÛ}
+{1400}{}{B√°nya}
+{1401}{}{√ñlt√∂z≈ëszekr√©ny}
+{1402}{}{Ajt√≥}
 {1403}{}{}
 {1404}{}{}
 {1405}{}{}
@@ -1309,22 +1309,22 @@
 {1409}{}{}
 {1410}{}{Bill}
 {1411}{}{}
-{1412}{}{Gyerek}
-{1413}{}{Hal·lkarom                                                        }
+{1412}{}{K√∂ly√∂k}
+{1413}{}{Hal√°lkarom}
 {1414}{}{Sister Elaine}
-{1415}{}{SÌrhely}
-{1416}{}{SÌrhely}
+{1415}{}{S√≠rhely}
+{1416}{}{S√≠rhely}
 {1417}{}{Brother Hank}
 {1418}{}{Abbey Doctor}
 {1419}{}{Brother John}
 {1420}{}{Brother Max}
-{1421}{}{Kereskedı}
-{1422}{}{Kereskedı}
+{1421}{}{Keresked≈ë}
+{1422}{}{Keresked≈ë}
 {1423}{}{Merchant Guard}
 {1424}{}{Mrs. Peterson}
 {1425}{}{Abbey citizen}
 {1426}{}{Mr. Peterson}
-{1427}{}{VÌzpumpa}
+{1427}{}{V√≠zpumpa}
 {1428}{}{Brother Samuel}
 {1429}{}{Abbey citizen}
 {1430}{}{Brother Thomas}
@@ -1339,54 +1339,54 @@
 {1439}{}{Tribal}
 {1440}{}{Brother Matthew}
 {1441}{}{map}
-{1442}{}{Vakondpatk·ny}
+{1442}{}{Vakondpatk√°ny}
 {1443}{}{Ann}
 {1444}{}{Head Warrior}
 {1445}{}{Marli}
 {1446}{}{Villagers}
-{1447}{}{S·m·n}
+{1447}{}{S√°m√°n}
 {1448}{}{Szellem}
 {1449}{}{Tribal}
 {1450}{}{Kurisu}
-{1451}{}{K˙t}
+{1451}{}{Kut}
 {1452}{}{Tribe map}
 {1453}{}{Tribal}
 {1454}{}{Serin}
 {1455}{}{Tribe map2}
 {1456}{}{Tribe map 2 - spacial 1}
 {1457}{}{Tribe map 2 - spacial 2}
-{1458}{}{GekkÛ}
+{1458}{}{Gekko}
 {1459}{}{Cave Guard}
 {1460}{}{dead body}
 {1461}{}{woods spacial}
 {1462}{}{Don}
-{1463}{}{Rabszolga-kereskedı}
+{1463}{}{Rabszolga-keresked≈ë}
 {1464}{}{map script}
 {1465}{}{Kutya}
-{1466}{}{Rabszolga-kereskedı}
+{1466}{}{Rabszolga-keresked≈ë}
 {1467}{}{Rabszolga}
 {1468}{}{slavepen door}
 {1469}{}{Polc}
-{1470}{}{AjtÛ}
+{1470}{}{Ajt√≥}
 {1471}{}{Little Bobby}
 {1472}{}{Little Bobby's Father}
-{1473}{}{FˆldbitorlÛ}
-{1474}{}{Drog·rus}
+{1473}{}{F√∂ldbitorl√≥}
+{1474}{}{Drog√°rus}
 {1475}{}{Den Resident}
-{1476}{}{¡rva}
-{1477}{}{Paraszt}
+{1476}{}{√Årva}
+{1477}{}{Farmer}
 {1478}{}{map script}
-{1479}{}{Enkl·vÈ ır}
-{1480}{}{Enkl·vÈ ır}
+{1479}{}{Enkl√°v√© ≈ër}
+{1480}{}{Enkl√°v√© ≈ër}
 {1481}{}{safe}
 {1482}{}{guard}
 {1483}{}{Hubologista}
-{1484}{}{Hubologista ır}
-{1485}{}{Hubologista ır}
-{1486}{}{FÈmajtÛ}
+{1484}{}{Hubologista ≈ër}
+{1485}{}{Hubologista ≈ër}
+{1486}{}{F√©majt√≥}
 {1487}{}{map script}
 {1488}{}{container script}
-{1489}{}{Brahmin}
+{1489}{}{Brahminok}
 {1490}{}{door}
 {1491}{}{gate}
 {1492}{}{Tribal Chief}
@@ -1409,7 +1409,7 @@
 {1509}{}{Harcos}
 {1510}{}{Bug Spray}
 {1511}{}{Doctor's Prisoner}
-{1512}{}{”ri·shangya}
+{1512}{}{√ìri√°shangya}
 {1513}{}{The Doctor}
 {1514}{}{Fruit Fly}
 {1515}{}{Creature}
@@ -1421,28 +1421,28 @@
 {1521}{}{Electric Chair Computer}
 {1522}{}{Electronic door}
 {1523}{}{Hologram Generator}
-{1524}{}{Biztons·gi ajtÛ}
-{1525}{}{LiftajtÛ}
-{1526}{}{AjtÛ}
+{1524}{}{Biztons√°gi ajt√≥}
+{1525}{}{Liftajt√≥}
+{1526}{}{Ajt√≥}
 {1527}{}{Random Chemicals}
 {1528}{}{Fertile ground}
 {1529}{}{Fertile ground}
 {1530}{}{Hibernation Computer}
 {1531}{}{Lighting Generator}
-{1532}{}{ErıtÈr}
+{1532}{}{Er≈ët√©r}
 {1533}{}{Plant spray}
 {1534}{}{Magnetic coil computer}
-{1535}{}{ErıtÈr}
+{1535}{}{Er≈ët√©r}
 {1536}{}{Projection machine}
-{1537}{}{AjtÛ}
+{1537}{}{Ajt√≥}
 {1538}{}{computer}
-{1539}{}{AjtÛ}
-{1540}{}{Sz·mÌtÛgÈp}
-{1541}{}{ErıtÈr}
+{1539}{}{Ajt√≥}
+{1540}{}{Sz√°m√≠t√≥g√©p}
+{1541}{}{Er≈ët√©r}
 {1542}{}{Dinamit}
 {1543}{}{Dynamite Trigger}
 {1544}{}{Stuff on Desk}
-{1545}{}{SzekrÈny}
+{1545}{}{√ñlt√∂z≈ëszekr√©ny}
 {1546}{}{Spatial Script}
 {1547}{}{Spatial Script}
 {1548}{}{Spatial Script}
@@ -1452,8 +1452,8 @@
 {1552}{}{Spatial Script}
 {1553}{}{Spatial Script}
 {1554}{}{Air Conditioning Vent}
-{1555}{}{Ventill·tor}
-{1556}{}{Ventill·tor}
+{1555}{}{Ventill√°tor}
+{1556}{}{Ventill√°tor}
 {1557}{}{spatial script}
 {1558}{}{computer terminal}
 {1559}{}{fertile ground}
@@ -1462,23 +1462,23 @@
 {1562}{}{spatial}
 {1563}{}{}
 {1564}{}{hologram computer}
-{1565}{}{Gyerek}
+{1565}{}{K√∂ly√∂k}
 {1566}{}{spatial}
-{1567}{}{GÈpmad·r}
+{1567}{}{G√©pmad√°r}
 {1568}{}{computer}
 {1569}{}{spatial}
 {1570}{}{Mr. Handy}
 {1571}{}{Nuke}
-{1572}{}{K˙t}
-{1573}{}{K˙t}
+{1572}{}{Kut}
+{1573}{}{Kut}
 {1574}{}{}
-{1575}{}{⁄KK-s FelderÌtı}
+{1575}{}{√öKK-s Felder√≠t≈ë}
 {1576}{}{object name}
 {1577}{}{object name}
 {1578}{}{object name}
-{1579}{}{TÈrkÈp}
-{1580}{}{⁄KK-s FelderÌtı}
-{1581}{}{Rabszolga-kereskedı}
+{1579}{}{T√©rk√©p}
+{1580}{}{√öKK-s Felder√≠t≈ë}
+{1581}{}{Rabszolga-keresked≈ë}
 {1582}{}{}
 {1583}{}{}
 {1584}{}{}
@@ -1486,24 +1486,24 @@
 {1586}{}{}
 {1587}{}{}
 {1588}{}{}
-{1589}{}{AjtÛ}
+{1589}{}{Ajt√≥}
 {1590}{}{}
 {1591}{}{Bandatag}
 {1592}{}{trip wire}
 {1593}{}{trip wire spatial}
-{1594}{}{Prostitu·lt}
-{1595}{}{TrutymÛ}
+{1594}{}{Prostitu√°lt}
+{1595}{}{Trutym√≥}
 {1596}{}{Spatial}
 {1597}{}{Hibernation Chamber spatial}
 {1598}{}{}
-{1599}{}{SzekrÈny}
+{1599}{}{√ñlt√∂z≈ëszekr√©ny}
 {1600}{}{Map Script}
 {1601}{}{Modder}
 {1602}{}{Smoking}
 {1603}{}{Peeing}
 {1604}{}{Map Script}
 {1605}{}{Map Script}
-{1606}{}{Kereskedı}
+{1606}{}{Keresked≈ë}
 {1607}{}{Merchant Guard}
 {1608}{}{Merchant Guard}
 {1609}{}{Merchant Map}
@@ -1513,36 +1513,36 @@
 {1613}{}{Brother Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
-{1616}{}{’r}
-{1617}{}{L·da}
+{1616}{}{≈êr}
+{1617}{}{Doboz}
 {1618}{}{Ravenous Human}
 {1619}{}{map}
 {1620}{}{force field panel}
-{1621}{}{Ventill·tor}
-{1622}{}{’r}
+{1621}{}{Ventill√°tor}
+{1622}{}{≈êr}
 {1623}{}{Motor Boat}
-{1624}{}{’r}
-{1625}{}{SzemÈt}
+{1624}{}{≈êr}
+{1625}{}{Kacatok}
 {1626}{}{stairs}
 {1627}{}{elevator shaft}
 {1628}{}{spatial}
 {1629}{}{elevator shaft}
-{1630}{}{SzekrÈny}
+{1630}{}{√ñlt√∂z≈ëszekr√©ny}
 {1631}{}{Dock Guard}
 {1632}{}{Technikus}
 {1633}{}{Technikus}
 {1634}{}{Technikus}
 {1635}{}{spatial}
-{1636}{}{Dokkmunk·s}
+{1636}{}{Dokkmunk√°s}
 {1637}{}{map script}
-{1638}{}{AjtÛ}
+{1638}{}{Ajt√≥}
 {1639}{}{spatial}
 {1640}{}{power console}
 {1641}{}{torpedo console}
 {1642}{}{targeting console}
 {1643}{}{torpedo bay}
 {1644}{}{sub hatch}
-{1645}{}{’r}
+{1645}{}{≈êr}
 {1646}{}{vertibird}
 {1647}{}{spatial}
 {1648}{}{serum}
@@ -1550,9 +1550,9 @@
 {1650}{}{Dr. Sheng}
 {1651}{}{Plant Creature}
 {1652}{}{Dr. Sheng's hideout}
-{1653}{}{AjtÛ}
-{1654}{}{AjtÛ}
+{1653}{}{Ajt√≥}
+{1654}{}{Ajt√≥}
 {1655}{}{spatial}
-{1656}{}{JavÌtÛrobot}
-{1657}{}{Biztons·gi robot}
-{1658}{}{AjtÛ}
+{1656}{}{Jav√≠t√≥robot}
+{1657}{}{Biztons√°gi robot}
+{1658}{}{Ajt√≥}

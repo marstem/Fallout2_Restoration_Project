@@ -1,40 +1,40 @@
-{100}{}{A kutya egy border collie-nak tûnik.}
+{100}{}{A kutya egy border collie-nak tÅ±nik.}
 {101}{}{You see Laddie.}
-{102}{}{Ez a kutya szerfelett szemfülesnek és intelligensnek mutatkozik.}
-{103}{}{Nincs kétséged afelõl, hogy ez a kutya valószínûleg agyasabb nálad.}
-{150}{}{Vaúú!}
-{151}{}{Vaú! Vaú!}
-{152}{}{Vaú! Vaú! Vaú!}
-{153}{}{[A kutya eléggé ideges.]}
-{154}{}{Jó kutya.}
+{102}{}{Ez a kutya szerfelett szemfÃ¼lesnek Ã©s intelligensnek mutatkozik.}
+{103}{}{Nincs kÃ©tsÃ©ged afelÅ‘l, hogy ez a kutya valÃ³szÃ­nÅ±leg agyasabb nÃ¡lad.}
+{150}{}{VaÃº!}
+{151}{}{VaÃº! VaÃº!}
+{152}{}{VaÃº! VaÃº! VaÃº!}
+{153}{}{[A kutya elÃ©ggÃ© ideges.]}
+{154}{}{JÃ³ kutya.}
 {155}{}{Tudod, hol van Jonny, kutyus?}
 {156}{}{Stay here, Laddie.}
-{157}{}{Na, keressük meg Jonnyt!}
-{158}{}{Öcsi, Jonny leesett a kútba?}
-{159}{}{Mi a baj, fiú, akarsz valamit mondani?}
-{160}{}{Grrrr! [Öcsi rendesen belédharap egyet.]}
-{161}{}{[Hmm... Valami oknál fogva nem szeret téged.]}
-{162}{}{Vaú! Vaú! Vaú! [Öcsi rádugrik és elkezdi nyalogatni az arcodat.]}
+{157}{}{Na, keressÃ¼k meg Jonnyt!}
+{158}{}{Ã–csi, Jonny leesett a kÃºtba?}
+{159}{}{Mi a baj, fiÃº, akarsz valamit mondani?}
+{160}{}{Grrrr! [Ã–csi rendesen belÃ©dharap egyet.]}
+{161}{}{[Hmm... Valami oknÃ¡l fogva nem szeret tÃ©ged.]}
+{162}{}{VaÃº! VaÃº! VaÃº! [Ã–csi rÃ¡dugrik Ã©s elkezdi nyalogatni az arcodat.]}
 {163}{}{ [Milyen kedves kis kutya.]}
-{164}{}{Vaú? [Olyan érzésed van, mintha a kutya kinevetne.]}
-{165}{}{[Senki sem szereti az okostojásokat.]}
-{167}{}{Jonny valami közeli helyen van Modocban?}
-{168}{}{Jonny elment Modocból?}
-{169}{}{Jonnyt elrabolták az idegen lények?}
-{170}{}{Öcsi, nincs idõm játszani! Meg kell találnunk Jonnyt. Gyerünk!}
-{171}{}{A mészárszéknél?}
-{172}{}{A cserzõmûhelynél?}
-{173}{}{A kereskedésnél?}
-{174}{}{A kútnál?}
-{175}{}{Valahol máshol talán?}
-{177}{}{Rose Panziójánál?}
-{180}{}{Észak felé ment?}
-{181}{}{Dél felé ment?}
-{182}{}{Kelet felé ment?}
-{183}{}{Nyugat felé ment?}
-{186}{}{Vaú?}
-{187}{}{Oké, oké... Talán máshol?}
-{190}{}{Indiánosdit játszott, amikor hirtelen beleesett a kútba, te pedig azt szeretnéd, hogy hozzak egy kötelet, és mentsem meg. Na, gyerünk, Öcsi [Elképesztõ!]}
-{191}{}{Indiánosdit játszott, amikor hirtelen beleesett a kútba, te pedig azt szeretnéd, hogy használjam a nálam levõ kötelet, és mentsem meg. Na, gyerünk, Öcsi [Elképesztõ!]}
-{195}{}{Oké, szerzek egy kötelet, és lemászom a kútba Jonnyért.}
-{196}{}{Oké, használom a kötelemet, és lemászom a kútba Jonnyért.}
+{164}{}{VaÃº? [Olyan Ã©rzÃ©sed van, mintha a kutya kinevetne.]}
+{165}{}{[Senki sem szereti az okostojÃ¡sokat.]}
+{167}{}{Jonny valami kÃ¶zeli helyen van Modocban?}
+{168}{}{Jonny elment ModocbÃ³l?}
+{169}{}{Jonnyt elraboltÃ¡k az idegen lÃ©nyek?}
+{170}{}{Ã–csi, nincs idÅ‘m jÃ¡tszani! Meg kell talÃ¡lnunk Jonnyt. GyerÃ¼nk!}
+{171}{}{A mÃ©szÃ¡rszÃ©knÃ©l?}
+{172}{}{A cserzÅ‘mÅ±helynÃ©l?}
+{173}{}{A kereskedÃ©snÃ©l?}
+{174}{}{A kÃºtnÃ¡l?}
+{175}{}{Valahol mÃ¡shol talÃ¡n?}
+{177}{}{Rose PanziÃ³jÃ¡nÃ¡l?}
+{180}{}{Ã‰szak felÃ© ment?}
+{181}{}{DÃ©l felÃ© ment?}
+{182}{}{Kelet felÃ© ment?}
+{183}{}{Nyugat felÃ© ment?}
+{186}{}{VaÃº?}
+{187}{}{OkÃ©, okÃ©... TalÃ¡n mÃ¡shol?}
+{190}{}{IndiÃ¡nosdit jÃ¡tszott, amikor hirtelen beleesett a kÃºtba, te pedig azt szeretnÃ©d, hogy hozzak egy kÃ¶telet, Ã©s mentsem meg. Na, gyerÃ¼nk, Ã–csi [ElkÃ©pesztÅ‘!]}
+{191}{}{IndiÃ¡nosdit jÃ¡tszott, amikor hirtelen beleesett a kÃºtba, te pedig azt szeretnÃ©d, hogy hasznÃ¡ljam a nÃ¡lam levÅ‘ kÃ¶telet, Ã©s mentsem meg. Na, gyerÃ¼nk, Ã–csi [ElkÃ©pesztÅ‘!]}
+{195}{}{OkÃ©, szerzek egy kÃ¶telet, Ã©s lemÃ¡szom a kÃºtba JonnyÃ©rt.}
+{196}{}{OkÃ©, hasznÃ¡lom a kÃ¶telemet, Ã©s lemÃ¡szom a kÃºtba JonnyÃ©rt.}

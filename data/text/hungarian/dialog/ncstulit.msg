@@ -1,197 +1,197 @@
-{100}{}{Ez itt egy jópofa "kis ember."}
+{100}{}{Ez itt egy jÃ³pofa "kis ember."}
 {101}{}{Ez itt Stuart Little.}
-{150}{}{Ez egy gyerekruhába öltözött törpe. Egy fogpiszkálót rágcsálva néz vissza rád.}
-{151}{}{Õ Stuart Little, a törpe bokszmenedzser. Egy fogpiszkálót rágcsálva néz vissza rád.}
-{152}{}{Õ Stuart Little, a törpe bokszmenedzser. Nagyon aranyos. Olyan, mint egy vörös szõrû plüssmaci.}
-{200}{}{Kölyök, tudom, hogy jól nyomod, de azt azért nem gondoltam volna, hogy még a világot is megmented. Jó munka volt!}
-{201}{}{Büszke vagyok rád, kölyök.}
-{202}{}{Megjártad a hadak útját, kölyök. Stuart nagyon büszke rád.}
-{210}{}{Bárcsak láttam volna, ahogy szétütöd az Enklávét.}
-{211}{}{A jó életbe! Az Enklávé elleni csata nem lehetett semmi!}
-{212}{}{Hah! Nem akarod esetleg a ringben is kamatoztatni az agilitásodat, és nem csak a világ megmentésére pazarolni a tehetséged javát?}
+{150}{}{Ez egy gyerekruhÃ¡ba Ã¶ltÃ¶zÃ¶tt tÃ¶rpe. Egy fogpiszkÃ¡lÃ³t rÃ¡gcsÃ¡lva nÃ©z vissza rÃ¡d.}
+{151}{}{Å Stuart Little, a tÃ¶rpe bokszmenedzser. Egy fogpiszkÃ¡lÃ³t rÃ¡gcsÃ¡lva nÃ©z vissza rÃ¡d.}
+{152}{}{Å Stuart Little, a tÃ¶rpe bokszmenedzser. Nagyon aranyos. Olyan, mint egy vÃ¶rÃ¶s szÅ‘rÅ± plÃ¼ssmaci.}
+{200}{}{KÃ¶lyÃ¶k, tudom, hogy jÃ³l nyomod, de azt azÃ©rt nem gondoltam volna, hogy mÃ©g a vilÃ¡got is megmented. JÃ³ munka volt!}
+{201}{}{BÃ¼szke vagyok rÃ¡d, kÃ¶lyÃ¶k.}
+{202}{}{MegjÃ¡rtad a hadak ÃºtjÃ¡t, kÃ¶lyÃ¶k. Stuart nagyon bÃ¼szke rÃ¡d.}
+{210}{}{BÃ¡rcsak lÃ¡ttam volna, ahogy szÃ©tÃ¼tÃ¶d az EnklÃ¡vÃ©t.}
+{211}{}{A jÃ³ Ã©letbe! Az EnklÃ¡vÃ© elleni csata nem lehetett semmi!}
+{212}{}{Hah! Nem akarod esetleg a ringben is kamatoztatni az agilitÃ¡sodat, Ã©s nem csak a vilÃ¡g megmentÃ©sÃ©re pazarolni a tehetsÃ©ged javÃ¡t?}
 {220}{}{Mi a nagy helyzet, bajnok?}
-{221}{}{Jól nézel ki, hallod-e!}
-{222}{}{Az ökleid aranyból vannak!}
-{223}{}{Villámot eszel és mennydörgést szarsz, kölyök!}
+{221}{}{JÃ³l nÃ©zel ki, hallod-e!}
+{222}{}{Az Ã¶kleid aranybÃ³l vannak!}
+{223}{}{VillÃ¡mot eszel Ã©s mennydÃ¶rgÃ©st szarsz, kÃ¶lyÃ¶k!}
 {224}{}{You dropped that sonuvabitch like a bad habit. Good job.}
-{225}{}{Örülök, hogy kipróbáltalak, drágám!}
-{226}{}{Jól nézel ki, kedvesem!}
-{230}{}{Kéne valami új tehetség...}
-{231}{}{Ólomseggûek gyülekezete...}
-{232}{}{Bárcsak egy kicsit magasabb lennék...}
-{233}{}{Ezek a srácok, egytõl-egyig úgy verekszenek, mint a csövesek...}
-{240}{}{(Ahogy odamész hozzá, a törpe végigmér és kiveszi a fogpiszkálót a szájából.) }
-{241}{}{Igen, mit akarsz, nagyfiú?}
-{242}{}{Mit tehetek érted, kedvesem?}
-{243}{}{Üdv, hõsöm! Mit tehetek érted?}
-{244}{}{Hönh?}
-{245}{}{Miért lenni kicsike?}
+{225}{}{Ã–rÃ¼lÃ¶k, hogy kiprÃ³bÃ¡ltalak, drÃ¡gÃ¡m!}
+{226}{}{JÃ³l nÃ©zel ki, kedvesem!}
+{230}{}{KÃ©ne valami Ãºj tehetsÃ©g...}
+{231}{}{Ã“lomseggÅ±ek gyÃ¼lekezete...}
+{232}{}{BÃ¡rcsak egy kicsit magasabb lennÃ©k...}
+{233}{}{Ezek a srÃ¡cok, egytÅ‘l-egyig Ãºgy verekszenek, mint a csÃ¶vesek...}
+{240}{}{(Ahogy odamÃ©sz hozzÃ¡, a tÃ¶rpe vÃ©gigmÃ©r Ã©s kiveszi a fogpiszkÃ¡lÃ³t a szÃ¡jÃ¡bÃ³l.) }
+{241}{}{Igen, mit akarsz, nagyfiÃº?}
+{242}{}{Mit tehetek Ã©rted, kedvesem?}
+{243}{}{Ãœdv, hÅ‘sÃ¶m! Mit tehetek Ã©rted?}
+{244}{}{HÃ¶nh?}
+{245}{}{MiÃ©rt lenni kicsike?}
 {246}{}{[Wander off.]}
-{247}{}{Ki vagy te?}
-{248}{}{Semmi-semmi... csak körbenéztem errefelé.}
-{250}{}{(Beint egyet.) Na, akkor kopj le, seggfej! Csak az idõmet pazarlod!}
+{247}{}{Ki vagy?}
+{248}{}{Semmi-semmi... csak kÃ¶rbenÃ©ztem errefelÃ©.}
+{250}{}{(Beint egyet.) Na, akkor kopj le, seggfej! Csak az idÅ‘met pazarlod!}
 {251}{}{Bzzzzzzz-bzzzzzz}
-{260}{}{(Sóhajt egyet, úgy néz ki, mondana valamit, aztán végigmér.) Te verekszel? Elég fittnek nézel ki.}
-{261}{}{Én harcol SOKSZOR. Én harcol veled?}
-{262}{}{Én nem lenni csinos. Fiúkat szeret? Vagyok benne}
-{270}{}{Nem, nem... a RINGBEN bunyózz! Tudod... RING! (Rámutat a szorítóra, és ütöget néhányat a levegõbe.) Érdekel a dolog?}
-{271}{}{(Arcul ütöd az apró embert és elveszed az ebédpénzét)}
-{272}{}{[Bólogatsz]}
-{273}{}{Kapok jégkrém ha verekszek?}
-{274}{}{[Ingatod a fejed]}
-{275}{}{Enyim házastársa a kaland én menni}
-{280}{}{(Hátraugrik.) Vigyázz, seggfej! Ez ráér majd a ringben. Szóval beszállsz, vagy sem?}
-{281}{}{Beszáll}
-{283}{}{Nem száll befele}
-{290}{}{(Mosolyog.) Rendben van, akkor megegyeztünk. A nevem Stuart, a legtöbben Stuart Little-nek hívnak, de ez csak azért van, mert... mindegy, ez nem fontos, a lényeg, hogy én vagyok itt a fõmandró. Van neved, seggfej?}
-{291}{}{Én }
+{260}{}{(SÃ³hajt egyet, Ãºgy nÃ©z ki, mondana valamit, aztÃ¡n vÃ©gigmÃ©r.) Te verekszel? ElÃ©g fittnek nÃ©zel ki.}
+{261}{}{Ã‰n harcol SOKSZOR. Ã‰n harcol veled?}
+{262}{}{Ã‰n nem lenni csinos. FiÃºkat szeret? Vagyok benne}
+{270}{}{Nem, nem... a RINGBEN bunyÃ³zz! Tudod... RING! (RÃ¡mutat a szorÃ­tÃ³ra, Ã©s Ã¼tÃ¶get nÃ©hÃ¡nyat a levegÅ‘be.) Ã‰rdekel a dolog?}
+{271}{}{(Arcul Ã¼tÃ¶d az aprÃ³ embert Ã©s elveszed az ebÃ©dpÃ©nzÃ©t)}
+{272}{}{(BÃ³logatsz)}
+{273}{}{Kapok jÃ©gkrÃ©m ha verekszek?}
+{274}{}{(Ingatod a fejed)}
+{275}{}{Enyim hÃ¡zastÃ¡rsa a kaland Ã©n menni}
+{280}{}{(HÃ¡traugrik.) VigyÃ¡zz, seggfej! Ez rÃ¡Ã©r majd a ringben. SzÃ³val beszÃ¡llsz, vagy sem?}
+{281}{}{BeszÃ¡ll}
+{283}{}{Nem szÃ¡ll befele}
+{290}{}{(Mosolyog.) Rendben van, akkor megegyeztÃ¼nk. A nevem Stuart, a legtÃ¶bben Stuart Little-nek hÃ­vnak, de ez csak azÃ©rt van, mert... mindegy, ez nem fontos, a lÃ©nyeg, hogy Ã©n vagyok itt a fÅ‘mandrÃ³. Van neved, seggfej?}
+{291}{}{Ã‰n}
 {292}{}{Me... uh... me...}
-{293}{}{Én Nagy Stu}
+{293}{}{Ã‰n Nagy Stu}
 {296}{}{[Wander away in search of adventure.]}
-{300}{}{Én-öö-Én, mi? "Élõ Fény..." TETSZIK! TETSZIK! Rendben van, akkor csapjunk a lovak közé!}
-{301}{}{(Homlokát ráncolja.) Túlteng a bölcsesség benned, mi? Hmmm... nem adnak kellõ tiszteletet a városban. (Vállat von.) Rendben van, akkor csapjunk a lovak közé!}
+{300}{}{Ã‰n-Ã¶Ã¶-Ã‰n, mi? "Ã‰lÅ‘ FÃ©ny..." TETSZIK! TETSZIK! Rendben van, akkor csapjunk a lovak kÃ¶zÃ©!}
+{301}{}{(HomlokÃ¡t rÃ¡ncolja.) TÃºlteng a bÃ¶lcsessÃ©g benned, mi? Hmmm... nem adnak kellÅ‘ tiszteletet a vÃ¡rosban. (VÃ¡llat von.) Rendben van, akkor csapjunk a lovak kÃ¶zÃ©!}
 {302}{}{Na}
 {305}{}{[Run away and hide.]}
-{310}{}{(Sértõdötten felfújja magát.) Idefigyelj! Csak azért, mert nem tartozom az úgynevezett "átlagos magasságúak" közé, nem jelenti azt, hogy tûrnöm kéne a toszogatást.}
+{310}{}{(SÃ©rtÅ‘dÃ¶tten felfÃºjja magÃ¡t.) Idefigyelj! Csak azÃ©rt, mert nem tartozom az Ãºgynevezett "Ã¡tlagos magassÃ¡gÃºak" kÃ¶zÃ©, nem jelenti azt, hogy tÅ±rnÃ¶m kÃ©ne a toszogatÃ¡st.}
 {311}{}{Csakugyan?}
-{320}{}{Na, tûnj innen, seggfej! Ne is reménykedj, hogy viszed valamire a városban! Tûnés!}
-{321}{}{NEM SZABAD LETT VOLNA kockáztatnom veled! Micsoda elcseszett balfék vagy te! Na, most aztán tûnés a szemem elõl! Ne is lássalak!}
-{322}{}{ÉN }
-{323}{}{Hol van jégkrém?}
+{320}{}{Na, tÅ±nj innen, seggfej! Ne is remÃ©nykedj, hogy viszed valamire a vÃ¡rosban! TÅ±nÃ©s!}
+{321}{}{NEM SZABAD LETT VOLNA kockÃ¡ztatnom veled! Micsoda elcseszett balfÃ©k vagy te! Na, most aztÃ¡n tÅ±nÃ©s a szemem elÅ‘l! Ne is lÃ¡ssalak!}
+{322}{}{Ã‰N }
+{323}{}{Hol van jÃ©gkrÃ©m?}
 {324}{}{[Run off crying.]}
 {326}{}{[Smile calmly, nod, then attack him.]}
-{327}{}{Adj még egy esélyt, Stuart! Légyszíves, csak egy picike esélyt! Nem hagylak cserben!}
+{327}{}{Adj mÃ©g egy esÃ©lyt, Stuart! LÃ©gyszÃ­ves, csak egy picike esÃ©lyt! Nem hagylak cserben!}
 {328}{}{[Leave.]}
-{329}{}{(Miközben kipenderítenek a ringbõl, Stuart undorodva néz feléd.) }
-{330}{}{Micsoda? A Húsdaráló leharapta a füled, fiam? }
-{331}{}{Micsoda? A Húsdaráló leharapta a füled, lányom? }
-{332}{}{Azt mondtam, TÛNÉS A SZEMEM ELÕL! Ki innen!}
+{329}{}{(MikÃ¶zben kipenderÃ­tenek a ringbÅ‘l, Stuart undorodva nÃ©z felÃ©d.) }
+{330}{}{Micsoda? A HÃºsdarÃ¡lÃ³ leharapta a fÃ¼led, fiam? }
+{331}{}{Micsoda? A HÃºsdarÃ¡lÃ³ leharapta a fÃ¼led, lÃ¡nyom? }
+{332}{}{Azt mondtam, TÅ°NÃ‰S A SZEMEM ELÅL! Ki innen!}
 {333}{}{[Kick the loud red little man.]}
 {334}{}{[Tromp out angrily.]}
 {336}{}{[Hit the road.]}
-{337}{}{(Céklavörös lesz.) }
+{337}{}{(CÃ©klavÃ¶rÃ¶s lesz.) }
 {340}{}{One more chance. I get 75%, no arguments. }
 {341}{}{One more chance. I still get 75%, no arguments. }
-{342}{}{Legyen. Készen állok a meccsre most azonnal. Menjünk, Stuart!}
-{343}{}{Legyen. Hadd pihenjek egy kicsit, hamarosan újra készen állok majd.}
-{344}{}{Semmi nem éri meg ezt a rengeteg szívást.}
-{345}{}{(Stuart céklavörös lesz, úgy néz ki, mint aki rögtön üvöltözni kezd, aztán lenyugszik.) Rendbe'. }
-{346}{}{Csak még egyszer sülj fel, úgy kipenderítelek innen...}
-{350}{}{(Stuart sakál módjára mosolyog.) Hát ez eszméletlen jó teljesítmény volt, }
-{351}{}{Most én készen KÉSZEN SZÉTÜTÖK MINDEN MOST MOST}
-{352}{}{Én alszik kicsit aztán harc újra}
-{353}{}{Én akar kis jégkrém}
-{355}{}{Készen állok. Jöjjön az üzlet.}
-{356}{}{Hadd pihenjek egy kicsit, aztán jöhet a mehet.}
-{357}{}{Asszem, én kész vagyok, Stuart... meghaltam a ringben, és ez kiakaszt engem. Szögre akasztom a kesztyût.}
-{360}{}{(A törpe pislog, aztán összevonja a szemöldökét.) Jég... micsodát?}
-{361}{}{Jégrém, jégrém, mindenki kéri a jégkrém}
-{362}{}{Öö... öö... Jég KRÉM}
+{342}{}{Legyen. KÃ©szen Ã¡llok a meccsre most azonnal. MenjÃ¼nk, Stuart!}
+{343}{}{Legyen. Hadd pihenjek egy kicsit, hamarosan Ãºjra kÃ©szen Ã¡llok majd.}
+{344}{}{Semmi nem Ã©ri meg ezt a rengeteg szÃ­vÃ¡st.}
+{345}{}{(Stuart cÃ©klavÃ¶rÃ¶s lesz, Ãºgy nÃ©z ki, mint aki rÃ¶gtÃ¶n Ã¼vÃ¶ltÃ¶zni kezd, aztÃ¡n lenyugszik.) Rendbe'. }
+{346}{}{Csak mÃ©g egyszer sÃ¼lj fel, Ãºgy kipenderÃ­telek innen...}
+{350}{}{(Stuart sakÃ¡l mÃ³djÃ¡ra mosolyog.) HÃ¡t ez eszmÃ©letlen jÃ³ teljesÃ­tmÃ©ny volt, }
+{351}{}{Most Ã©n kÃ©szen KÃ‰SZEN SZÃ‰TÃœTÃ–K MINDEN MOST MOST}
+{352}{}{Ã‰n alszik kicsit aztÃ¡n harc Ãºjra}
+{353}{}{Ã‰n akar kis jÃ©gkrÃ©m}
+{355}{}{KÃ©szen Ã¡llok. JÃ¶jjÃ¶n az Ã¼zlet.}
+{356}{}{Hadd pihenjek egy kicsit, aztÃ¡n jÃ¶het a mehet.}
+{357}{}{Asszem, Ã©n kÃ©sz vagyok, Stuart... meghaltam a ringben, Ã©s ez kiakaszt engem. SzÃ¶gre akasztom a kesztyÅ±t.}
+{360}{}{(A tÃ¶rpe pislog, aztÃ¡n Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t.) JÃ©g... micsodÃ¡t?}
+{361}{}{JÃ©grÃ©m, jÃ©grÃ©m, mindenki kÃ©ri a jÃ©gkrÃ©m}
+{362}{}{Ã–Ã¶... Ã¶Ã¶... JÃ©g KRÃ‰M}
 {363}{}{[Wander off in search of adventure.]}
-{370}{}{(A törpe kényszeredetten mosolyog.) }
+{370}{}{(A tÃ¶rpe kÃ©nyszeredetten mosolyog.) }
 {371}{}{Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. }
 {372}{}{Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. }
-{373}{}{Most akkor bunyózol vagy mi lesz?}
-{374}{}{Oké}
-{375}{}{Én akar pihenni kicsit elõbb}
+{373}{}{Most akkor bunyÃ³zol vagy mi lesz?}
+{374}{}{OkÃ©}
+{375}{}{Ã‰n akar pihenni kicsit elÅ‘bb}
 {376}{}{Neem}
-{380}{}{Hát erõltetni nem fogom, de pazar kis üzlet lett volna, száguldás a hírnév felé, igazi égi fõnyeremény... majd gyere vissza, ha meggondoltad magad. Te ugyanis aranyat érsz, kölyök.}
-{390}{}{Akkor rendben! Kezdõdjék a cirkusz!}
+{380}{}{HÃ¡t erÅ‘ltetni nem fogom, de pazar kis Ã¼zlet lett volna, szÃ¡guldÃ¡s a hÃ­rnÃ©v felÃ©, igazi Ã©gi fÅ‘nyeremÃ©ny... majd gyere vissza, ha meggondoltad magad. Te ugyanis aranyat Ã©rsz, kÃ¶lyÃ¶k.}
+{390}{}{Akkor rendben! KezdÅ‘djÃ©k a cirkusz!}
 {391}{}{[Follow him.]}
-{400}{}{Mi a... nem hallottad, amit mondtam? Stuart, Stuart Little. A legnagyobb menedzser egész Renóban! }
-{401}{}{Valaki jól kicseszett veled, haver, hogy nem mesélt elõre rólam. }
-{402}{}{Valaki jól kicseszett veled, drágám, hogy nem mesélt elõre rólam. }
-{404}{}{Hmmm. Szóval... Mi is a neved?}
-{405}{}{Én }
-{407}{}{Dolgoztál már cirkuszban, Stuart?}
+{400}{}{Mi a... nem hallottad, amit mondtam? Stuart, Stuart Little. A legnagyobb menedzser egÃ©sz RenÃ³ban! }
+{401}{}{Valaki jÃ³l kicseszett veled, haver, hogy nem mesÃ©lt elÅ‘re rÃ³lam. }
+{402}{}{Valaki jÃ³l kicseszett veled, drÃ¡gÃ¡m, hogy nem mesÃ©lt elÅ‘re rÃ³lam. }
+{404}{}{Hmmm. SzÃ³val... Mi is a neved?}
+{405}{}{A nevem }
+{407}{}{DolgoztÃ¡l mÃ¡r cirkuszban, Stuart?}
 {408}{}{"Stuart Little?"}
-{409}{}{A lábamon kívül azért egy kicsit több dolog is van rajtam, Stuart. Szóval légy udvariasabb, különben még a szokásosnál is nehezebben fogsz randizni ebben a városban! Megegyeztünk?}
-{410}{}{Tulképpen csak épp körbenéztem. Késõbb még beugrom, Stuart.}
-{411}{}{(Visszateszi a fogpiszkálót a szájába, és tovább rágódik rajta.) Neved van?}
-{412}{}{(Tetõtõl talpig végigmér.) Ezekhez a lábakhoz valami név is jár?}
-{420}{}{(Stuart bólogat.) }
+{409}{}{A lÃ¡bamon kÃ­vÃ¼l azÃ©rt egy kicsit tÃ¶bb dolog is van rajtam, Stuart. SzÃ³val lÃ©gy udvariasabb, kÃ¼lÃ¶nben mÃ©g a szokÃ¡sosnÃ¡l is nehezebben fogsz randizni ebben a vÃ¡rosban! MegegyeztÃ¼nk?}
+{410}{}{TulkÃ©ppen csak Ã©pp kÃ¶rbenÃ©ztem. KÃ©sÅ‘bb mÃ©g beugrom, Stuart.}
+{411}{}{(Visszateszi a fogpiszkÃ¡lÃ³t a szÃ¡jÃ¡ba, Ã©s tovÃ¡bb rÃ¡gÃ³dik rajta.) Neved van?}
+{412}{}{(TetÅ‘tÅ‘l talpig vÃ©gigmÃ©r.) Ezekhez a lÃ¡bakhoz valami nÃ©v is jÃ¡r?}
+{420}{}{(Stuart bÃ³logat.) }
 {421}{}{Rendbe' van, }
 {422}{}{... }
-{423}{}{Mit tehetek magáért?}
-{424}{}{Bokszolni akarok. Tudsz segíteni rajtam?}
-{430}{}{(Ahogy közeledsz, Stuart bólogat és mosolyog.) Hé, hõsöm! Hallottam, mit csináltál. Fogadd gratulációimat! Amúgy mi a helyzet?}
-{431}{}{(Ahogy közeledsz, Stuart bólogat és mosolyog.) Héééé, }
-{432}{}{(Ahogy közeledsz, Stuart csak bámul.) Megáll az ész, ez itt "}
-{433}{}{Én akarja harc megin}
-{434}{}{Azég. 'szlááát.}
-{435}{}{Készen állok az ütésváltásra!}
-{436}{}{Adj még egy esélyt, Stuart! Nem hagylak cserben! Kérlek...}
-{437}{}{Semmit nem akarok. Csak úgy körülnéztem.}
-{440}{}{Bokszolni akarsz? Ööö... rendbe', hadd legyek õszinte, kölyök. Egyszerûen nincs meg hozzá az alkatod.}
-{441}{}{Bokszolni akarsz? Rendbe', mindent tudok. A nõknek szánt renói állások többsége, hogyismondjam csak... hmmm. Szóval ahogy így megnézlek, lehet, hogy nem neked találták ki azokat.}
-{442}{}{Bokszolni akarsz? Rendbe', mindent tudok. Nem akarok itt szemétkedni vagy valami, de a boksz CSÚNYA sport... és hát a bokszolók is egyre csúnyábbak lesznek. A te esetedben ez nagy szó lenne.}
-{444}{}{Adj egy esélyt, és elfelejtem ezt a KIS beszólásodat!}
-{445}{}{Adj egy esélyt, Stuart!}
-{446}{}{Na, jó, hagyjuk ezt a brahminfost! Tûnök a francba innen.}
-{450}{}{Nem, sajnálom, kedvesem, túl nagy a kockázat... ami azt illeti, be sem engednének a ringbe. Inkább menj haza, oké?}
-{451}{}{Nem, sajnálom, barátom, túl nagy kockázat lenne... mészárlássá fajulna. Na, menj haza, oké?}
-{452}{}{Nincsenek nõi ökölvívók, Stuart, és én erre apellálok. Te leszel az elsõ menedzser, aki egy nõi bokszolót futtat. Az emberek ÖZÖNLENI fognak, hogy lássák.}
-{453}{}{Valszeg így van ez, Stu... ugye hívhatlak Stu-nak? ...mészárlás lenne, valóban. És tudod, mennyire vonzza az embereket a mészárlás? Olyan lenne, mintha kivégzést néznének az emberek!}
-{454}{}{Ez egy rakás brahminfos. Húzok a francba.}
-{460}{}{Nem, sajnálom, kedvesem, túl nagy a kockázat... ami azt illeti, be sem engednének a ringbe. Inkább menj haza, oké?}
-{461}{}{Nem, sajnálom, barátom, az a mészárlás nem lenne szórakoztató. Inkább menj haza, oké?}
-{462}{}{Kockázatos, tudom... de hát tudod, Stuart, egy kicsit akár "alulöltözött" is lehetnék a ringben. Alkalomadtán ez nagyobb tömeget vonzana, mint amihez hozzá vagy szokva...}
-{463}{}{Ez egy rakás brahminfos. Húzok a francba.}
-{470}{}{Hmmmm... rendbe', adok egy esélyt... de nem ígérek semmit. Ha ez megárt a üzletnek, akármilyen kicsit is, repülsz. (Csípõre teszi a kezét.) A nyeremény fele az enyém, és nincs vita!}
-{471}{}{Hmmmm... rendbe', adok egy esélyt... de nem ígérek semmit. Azzal, hogy egy zöldfülût bevállalok, szívességet teszek. A nyeremény fele az enyém, vita pedig nincs!}
-{472}{}{Megbeszéltük.}
-{473}{}{Legyen 25 százalék és megegyeztünk.}
-{474}{}{Ez egy rakás brahminfos. Húzok a francba.}
-{480}{}{(Stuart még a szokásosnál is jobban összehúzza a szemöldökét. Úgy néz ki, mint aki épp tiltakozni készül, aztán önelégülten megrázza a fejét.) Minek is vitatkoznánk... Ha végeztél a megkopasztásommal, akár az üzletrõl is beszélhetnénk.}
+{423}{}{SegÃ­thetek valamiben?}
+{424}{}{Bokszolni akarok. Tudsz segÃ­teni rajtam?}
+{430}{}{(Ahogy kÃ¶zeledsz, Stuart bÃ³logat Ã©s mosolyog.) HÃ©, hÅ‘sÃ¶m! Hallottam, mit csinÃ¡ltÃ¡l. Fogadd gratulÃ¡ciÃ³imat! AmÃºgy mi a helyzet?}
+{431}{}{(Ahogy kÃ¶zeledsz, Stuart bÃ³logat Ã©s mosolyog.) HÃ©Ã©Ã©Ã©, }
+{432}{}{(Ahogy kÃ¶zeledsz, Stuart csak bÃ¡mul.) MegÃ¡ll az Ã©sz, ez itt "}
+{433}{}{Ã‰n akarja harc megin}
+{434}{}{AzÃ©g. 'szlÃ¡Ã¡Ã¡t.}
+{435}{}{KÃ©szen Ã¡llok az Ã¼tÃ©svÃ¡ltÃ¡sra!}
+{436}{}{Adj mÃ©g egy esÃ©lyt, Stuart! Nem hagylak cserben! KÃ©rlek...}
+{437}{}{Semmit nem akarok. Csak Ãºgy kÃ¶rÃ¼lnÃ©ztem.}
+{440}{}{Bokszolni akarsz? Ã–Ã¶Ã¶... rendbe', hadd legyek Å‘szinte, kÃ¶lyÃ¶k. EgyszerÅ±en nincs meg hozzÃ¡ az alkatod.}
+{441}{}{Bokszolni akarsz? Rendbe', mindent tudok. A nÅ‘knek szÃ¡nt renÃ³i Ã¡llÃ¡sok tÃ¶bbsÃ©ge, hogyismondjam csak... hmmm. SzÃ³val ahogy Ã­gy megnÃ©zlek, lehet, hogy nem neked talÃ¡ltÃ¡k ki azokat.}
+{442}{}{Bokszolni akarsz? Rendbe', mindent tudok. Nem akarok itt szemÃ©tkedni vagy valami, de a boksz CSÃšNYA sport... Ã©s hÃ¡t a bokszolÃ³k is egyre csÃºnyÃ¡bbak lesznek. A te esetedben ez nagy szÃ³ lenne.}
+{444}{}{Adj egy esÃ©lyt, Ã©s elfelejtem ezt a KIS beszÃ³lÃ¡sodat!}
+{445}{}{Adj egy esÃ©lyt, Stuart!}
+{446}{}{Na, jÃ³, hagyjuk ezt a brahminfost! TÅ±nÃ¶k a francba innen.}
+{450}{}{Nem, sajnÃ¡lom, kedvesem, tÃºl nagy a kockÃ¡zat... ami azt illeti, be sem engednÃ©nek a ringbe. Na, menj haza, okÃ©?}
+{451}{}{Nem, sajnÃ¡lom, barÃ¡tom, tÃºl nagy kockÃ¡zat lenne... mÃ©szÃ¡rlÃ¡ssÃ¡ fajulna. Na, menj haza, okÃ©?}
+{452}{}{Nincsenek nÅ‘i Ã¶kÃ¶lvÃ­vÃ³k, Stuart, Ã©s Ã©n erre apellÃ¡lok. Te leszel az elsÅ‘ menedzser, aki egy nÅ‘i bokszolÃ³t futtat. Az emberek Ã–ZÃ–NLENI fognak, hogy lÃ¡ssÃ¡k.}
+{453}{}{Valszeg Ã­gy van ez, Stu... ugye hÃ­vhatlak Stu-nak? ...mÃ©szÃ¡rlÃ¡s lenne, valÃ³ban. Ã‰s tudod, mennyire vonzza az embereket a mÃ©szÃ¡rlÃ¡s? Olyan lenne, mintha kivÃ©gzÃ©st nÃ©znÃ©nek az emberek!}
+{454}{}{Na, elÃ©g ebbÅ‘l a brahminfosbÃ³l! TÅ±zÃ¶k innen.}
+{460}{}{Nem, sajnÃ¡lom, kedvesem, tÃºl nagy a kockÃ¡zat... ami azt illeti, be sem engednÃ©nek a ringbe. Na, menj haza, okÃ©?}
+{461}{}{Nem, sajnÃ¡lom, barÃ¡tom, az a mÃ©szÃ¡rlÃ¡s nem lenne szÃ³rakoztatÃ³. InkÃ¡bb menj haza, okÃ©?}
+{462}{}{KockÃ¡zatos, tudom... de hÃ¡t tudod, Stuart, egy kicsit akÃ¡r "alulÃ¶ltÃ¶zÃ¶tt" is lehetnÃ©k a ringben. AlkalomadtÃ¡n ez nagyobb tÃ¶meget vonzana, mint amihez hozzÃ¡ vagy szokva...}
+{463}{}{Na, elÃ©g ebbÅ‘l a brahminfosbÃ³l! TÅ±zÃ¶k innen.}
+{470}{}{Hmmmm... rendbe', adok egy esÃ©lyt... de nem Ã­gÃ©rek semmit. Ha ez megÃ¡rt a Ã¼zletnek, akÃ¡rmilyen kicsit is, repÃ¼lsz. (CsÃ­pÅ‘re teszi a kezÃ©t.) A nyeremÃ©ny fele az enyÃ©m, Ã©s nincs vita!}
+{471}{}{Hmmmm... rendbe', adok egy esÃ©lyt... de nem Ã­gÃ©rek semmit. Azzal, hogy egy zÃ¶ldfÃ¼lÅ±t bevÃ¡llalok, szÃ­vessÃ©get teszek. A nyeremÃ©ny fele az enyÃ©m, vita pedig nincs!}
+{472}{}{[KÃ©sz]}
+{473}{}{Legyen 25 szÃ¡zalÃ©k Ã©s megegyeztÃ¼nk.}
+{474}{}{Na, elÃ©g ebbÅ‘l a brahminfosbÃ³l! TÅ±zÃ¶k innen.}
+{480}{}{(Stuart mÃ©g a szokÃ¡sosnÃ¡l is jobban Ã¶sszehÃºzza a szemÃ¶ldÃ¶kÃ©t. Ãšgy nÃ©z ki, mint aki Ã©pp tiltakozni kÃ©szÃ¼l, aztÃ¡n Ã¶nelÃ©gÃ¼lten megrÃ¡zza a fejÃ©t.) Minek is vitatkoznÃ¡nk... Ha vÃ©geztÃ©l a megkopasztÃ¡sommal, akÃ¡r az Ã¼zletrÅ‘l is beszÃ©lhetnÃ©nk.}
 {481}{}{Okay...}
-{490}{}{Rendbe'... (Stuart végigmér.) Szükséged lesz egy névre, tudod, egy becenévre. Valami dögös, jól hangzó név kell neked, mint például }
-{500}{}{(A törpe komor arcot vág.) Õ nem halt meg, amikor azzal az Orosz fickóval bunyózott? Nem mintha számítana. Mehetünk a ringbe?}
+{490}{}{Rendbe'... (Stuart vÃ©gigmÃ©r.) SzÃ¼ksÃ©ged lesz egy nÃ©vre, tudod, egy becenÃ©vre. Valami dÃ¶gÃ¶s, jÃ³l hangzÃ³ nÃ©v kell neked, mint pÃ©ldÃ¡ul }
+{500}{}{(A tÃ¶rpe komor arcot vÃ¡g.) Å nem halt meg, amikor azzal az Orosz fickÃ³val bunyÃ³zott? Nem mintha szÃ¡mÃ­tana. MehetÃ¼nk a ringbe?}
 {501}{}{(The midget smirks.) Looks like you and the "Masticator" will be getting along just fine. Just don't bite off too many
  ears. Well... shall we hit the ring?}
-{502}{}{(A törpe önelégült arcot vág.) Nem nézel ki Orosznak. Mondjuk tökmindegy, mi hajt... mehetünk a ringbe?}
-{503}{}{(A törpe önelégült arcot vág.) Megesett a szíved a szegény bolondon, mi? Na, jó... reméljük, a karriered nem fut zátonyra. Indulhatunk a ringbe?}
-{504}{}{(A törpe önelégült arcot vág.) Eye of the Tiger, mi? "Adrian," "Aaaadrian..." Hehe. Tetszik... jó nagy izomkötegek vannak benne. Na, mindegy... mehetünk a ringbe?}
-{505}{}{(A törpe bólint.) }
-{506}{}{Csináljuk!}
-{510}{}{Ne már! Fifti-fifti, vagy SEMMI! Ha nem tetszik, megyek a dolgomra.}
-{511}{}{Legyen! Azt azért nem gondoltam volna, hogy ilyen nagyra nõtt vámpírok léteznek.}
-{512}{}{Oké. 50/50. És most?}
-{513}{}{25/75-öt mondtam volna? Valójában ötven-ötven-re gondoltam. A profitot szépen megosztjuk, nincs itt semmi probléma.}
+{502}{}{(A tÃ¶rpe Ã¶nelÃ©gÃ¼lt arcot vÃ¡g.) Nem nÃ©zel ki Orosznak. Mondjuk tÃ¶kmindegy, mi hajt... mehetÃ¼nk a ringbe?}
+{503}{}{(A tÃ¶rpe Ã¶nelÃ©gÃ¼lt arcot vÃ¡g.) Megesett a szÃ­ved a szegÃ©ny bolondon, mi? Na, jÃ³... remÃ©ljÃ¼k, a karriered nem fut zÃ¡tonyra. Indulhatunk a ringbe?}
+{504}{}{(A tÃ¶rpe Ã¶nelÃ©gÃ¼lt arcot vÃ¡g.) Eye of the Tiger, mi? "Adrian," "Aaaadrian..." Hehe. Tetszik... jÃ³ nagy izomkÃ¶tegek vannak benne. Na, mindegy... mehetÃ¼nk a ringbe?}
+{505}{}{(A tÃ¶rpe bÃ³lint.) }
+{506}{}{KÃ©szen.}
+{510}{}{Ne mÃ¡r! Fifti-fifti, vagy SEMMI! Ha nem tetszik, megyek a dolgomra.}
+{511}{}{Legyen! Azt azÃ©rt nem gondoltam volna, hogy ilyen nagyra nÅ‘tt vÃ¡mpÃ­rok lÃ©teznek.}
+{512}{}{OkÃ©. 50/50. Ã‰s most?}
+{513}{}{25/75-Ã¶t mondtam volna? ValÃ³jÃ¡ban Ã¶tven-Ã¶tven-re gondoltam. A profitot szÃ©pen megosztjuk, nincs itt semmi problÃ©ma.}
 {514}{}{[Walk.]}
-{520}{}{Igen, igen, tudom, mi a gondod a "Stuart Little" névvel. Az anyám csak úgy falta E. B. White mûveit. Egyébként téged hogy hívnak?}
+{520}{}{Igen, igen, tudom, mi a gondod a "Stuart Little" nÃ©vvel. Az anyÃ¡m csak Ãºgy falta E. B. White mÅ±veit. EgyÃ©bkÃ©nt tÃ©ged hogy hÃ­vnak?}
 {521}{}{Hmmmm. Van valami neved?}
-{526}{}{Örülök, hogy összehozott bennünket a sors, Stu. Sajnos most nem tudunk beszélgetni, de késõbb még találkozunk.}
-{530}{}{Aztán mibõl gondolod, hogy láttam valaha is cirkuszt, ráadásul még a tagja is voltam egynek?}
-{531}{}{Ööö... hát azt tudom, hogy New Reno polgárainak zöme úgy viselkedik, mintha épp most szalajtották volna a cirkuszból, ezért gondoltam, hogy...}
-{540}{}{Azt hiszed, attól, hogy kisnövésû vagyok, egyedül csak az úgynevezett csúcsszakmákat mûvelhetem?}
+{526}{}{Ã–rÃ¼lÃ¶k, hogy Ã¶sszehozott bennÃ¼nket a sors, Stu. Sajnos most nem tudunk beszÃ©lgetni, de kÃ©sÅ‘bb mÃ©g talÃ¡lkozunk.}
+{530}{}{AztÃ¡n mibÅ‘l gondolod, hogy lÃ¡ttam valaha is cirkuszt, rÃ¡adÃ¡sul mÃ©g a tagja is voltam egynek?}
+{531}{}{Ã–Ã¶Ã¶... hÃ¡t azt tudom, hogy New Reno polgÃ¡rainak zÃ¶me Ãºgy viselkedik, mintha Ã©pp most szalajtottÃ¡k volna a cirkuszbÃ³l, ezÃ©rt gondoltam, hogy...}
+{540}{}{Azt hiszed, attÃ³l, hogy kisnÃ¶vÃ©sÅ± vagyok, egyedÃ¼l csak az Ãºgynevezett csÃºcsszakmÃ¡kat mÅ±velhetem?}
 {541}{}{Uh... well, now...}
-{550}{}{Azt hiszed, egy gyors pillantásból az egész életemet megítélheted? A világért sem jutna az eszedbe, hogy egy ilyen magasságú ember esetleg a Boksz Menedzsmentben is érvényesülhessen?}
-{551}{}{Elnézést, nem akartalak megbántani.}
-{560}{}{Miért kéne megsértõdnöm? Azért talán, mert szemlátomást mindenki azt a jó szokást vette itt fel magára, hogy az NJK-król csak úgy futó véleményt lehet alkotni a külseje alapján?}
-{561}{}{Hát én nem tudok semmiféle futó véleményrõl...}
-{570}{}{Én például ugyanezt csináltam veled.}
-{571}{}{Tényleg?}
-{580}{}{(Könyörgõen néz rád.) Érzed a TRAGÉDIA mibenlétét? Véletlenül egy sztereotíp, karikatúra-jellegû, közhelyes Fallout típusnak néztelek ahelyett, hogy egy egyedülálló, jellegzetes karaktert láttam volna benned.}
-{581}{}{Ö..., de hát, Stuart, én egy tipikus hõstípus vagyok. Az a helyzet, hogy én vagyok ennek a játéknak a fõszereplõje.}
-{590}{}{Nem minden nõt vonzanak a kidolgozott felsõtestû, hatalmas izomzatú férfi modellek. Egész meglepõdnél, milyen sok nõ bukik az ilyen apró termetre.}
-{591}{}{Azon is meglepõdnél, milyen sok férfi bukna rá.}
-{600}{}{Bedõltem a nevetségesen túlizmosított alkatodnak, a kõkemény Mad Max koppintó stílusodnak, a minden leleményt nélkülözõ karakterpont felhasználásodnak és arra a végeredményre jutottam, hogy egy közönséges tápos disznó vagy.}
+{550}{}{Azt hiszed, egy gyors pillantÃ¡sbÃ³l az egÃ©sz Ã©letemet megÃ­tÃ©lheted? A vilÃ¡gÃ©rt sem jutna az eszedbe, hogy egy ilyen magassÃ¡gÃº ember esetleg a Boksz Menedzsmentben is Ã©rvÃ©nyesÃ¼lhessen?}
+{551}{}{ElnÃ©zÃ©st, nem akartalak megbÃ¡ntani.}
+{560}{}{MiÃ©rt kÃ©ne megsÃ©rtÅ‘dnÃ¶m? AzÃ©rt talÃ¡n, mert szemlÃ¡tomÃ¡st mindenki azt a jÃ³ szokÃ¡st vette itt fel magÃ¡ra, hogy az NJK-krÃ³l csak Ãºgy futÃ³ vÃ©lemÃ©nyt lehet alkotni a kÃ¼lseje alapjÃ¡n?}
+{561}{}{HÃ¡t Ã©n nem tudok semmifÃ©le futÃ³ vÃ©lemÃ©nyrÅ‘l...}
+{570}{}{Ã‰n pÃ©ldÃ¡ul ugyanezt csinÃ¡ltam veled.}
+{571}{}{TÃ©nyleg?}
+{580}{}{(KÃ¶nyÃ¶rgÅ‘en nÃ©z rÃ¡d.) Ã‰rzed a TRAGÃ‰DIA mibenlÃ©tÃ©t? VÃ©letlenÃ¼l egy sztereotÃ­p, karikatÃºra-jellegÅ±, kÃ¶zhelyes Fallout tÃ­pusnak nÃ©ztelek ahelyett, hogy egy egyedÃ¼lÃ¡llÃ³, jellegzetes karaktert lÃ¡ttam volna benned.}
+{581}{}{Ã–..., de hÃ¡t, Stuart, Ã©n egy tipikus hÅ‘stÃ­pus vagyok. Az a helyzet, hogy Ã©n vagyok ennek a jÃ¡tÃ©knak a fÅ‘szereplÅ‘je.}
+{590}{}{Nem minden nÅ‘t vonzanak a kidolgozott felsÅ‘testÅ±, hatalmas izomzatÃº fÃ©rfi modellek. EgÃ©sz meglepÅ‘dnÃ©l, milyen sok nÅ‘ bukik az ilyen aprÃ³ termetre.}
+{591}{}{Azon is meglepÅ‘dnÃ©l, milyen sok fÃ©rfi bukna rÃ¡.}
+{600}{}{BedÅ‘ltem a nevetsÃ©gesen tÃºlizmosÃ­tott alkatodnak, a kÅ‘kemÃ©ny Mad Max koppintÃ³ stÃ­lusodnak, a minden lelemÃ©nyt nÃ©lkÃ¼lÃ¶zÅ‘ karakterpont felhasznÃ¡lÃ¡sodnak Ã©s arra a vÃ©geredmÃ©nyre jutottam, hogy egy kÃ¶zÃ¶nsÃ©ges tÃ¡pos disznÃ³ vagy.}
 {601}{}{I've taken in your over-pixilated breasts, your ridiculous sashay when you walk, your unimaginative character point
  allocation and concluded you are a mini-maxing Laura Kroft wannabe... a "munchkin."}
 {602}{}{I...}
-{610}{}{Nem vagy egyéb, mint egy tipikus RPG férfi hõs, vagy ha jobban tetszik, egy olyasféle modell, amelybõl Dunát lehet rekeszteni ebben a világban.}
-{611}{}{Nem vagy egyéb, mint egy tipikus RPG hõsnõ, vagy ha jobban tetszik, egy olyasféle modell, amelybõl Dunát lehet rekeszteni ebben a világban.}
-{612}{}{Nos...}
-{1302}{}{ barátom, csapjunk a lovak közé!}
-{1322}{}{ NEM SEGGFEJ ÉN ÖL MEG ÉN ÖL MEG ÉN ÖL MEG ÉN...}
-{1350}{}{! Minden rendben amúgy? Jól érzed magad? Majd szólj, mikor állsz készen a következõ mérkõzésre!}
-{1405}{}{ vagyok.}
-{1406}{}{, és bokszolni szeretnék. Tudsz segíteni?}
-{1421}{}{. Örülök, hogy talá'koztunk. }
-{1422}{}{... tetszik. Jó kis név. Hát légy üdvözölve minálunk. }
+{610}{}{Nem vagy egyÃ©b, mint egy tipikus RPG fÃ©rfi hÅ‘s, vagy ha jobban tetszik, egy olyasfÃ©le modell, amelybÅ‘l DunÃ¡t lehet rekeszteni ebben a vilÃ¡gban.}
+{611}{}{Nem vagy egyÃ©b, mint egy tipikus RPG hÅ‘snÅ‘, vagy ha jobban tetszik, egy olyasfÃ©le modell, amelybÅ‘l DunÃ¡t lehet rekeszteni ebben a vilÃ¡gban.}
+{612}{}{HÃ¡t...}
+{1302}{}{ barÃ¡tom, csapjunk a lovak kÃ¶zÃ©!}
+{1322}{}{ NEM SEGGFEJ Ã‰N Ã–L MEG Ã‰N Ã–L MEG Ã‰N Ã–L MEG Ã‰N...}
+{1350}{}{! Minden rendben amÃºgy? JÃ³l Ã©rzed magad? Majd szÃ³lj, mikor Ã¡llsz kÃ©szen a kÃ¶vetkezÅ‘ mÃ©rkÅ‘zÃ©sre!}
+{1405}{}{ dollÃ¡r.}
+{1406}{}{, Ã©s bokszolni szeretnÃ©k. Tudsz segÃ­teni?}
+{1421}{}{. Ã–rÃ¼lÃ¶k, hogy talÃ¡'koztunk. }
+{1422}{}{... tetszik. JÃ³ kis nÃ©v. HÃ¡t lÃ©gy Ã¼dvÃ¶zÃ¶lve minÃ¡lunk. }
 {1431}{}{! What's up? Ready to get back in the ring?}
-{1432}{}{." Mi hozott téged errefelé?}
-{1490}{}{ a Hurrikán, }
-{2490}{}{ a Pofozógép, vagy ilyesmi.}
-{2505}{}{... nem rossz, nem rossz. Illik hozzád. (A ring felé biccent.) Mehetünk akkor? Készen állsz?}
-{3422}{}{. }
+{1432}{}{." Mi hozott tÃ©ged errefelÃ©?}
+{1490}{}{ a HurrikÃ¡n, }
+{2490}{}{ a PofozÃ³gÃ©p, vagy ilyesmi.}
+{2505}{}{... nem rossz, nem rossz. Illik hozzÃ¡d. (A ring felÃ© biccent.) MehetÃ¼nk akkor? KÃ©szen Ã¡llsz?}
+{3422}{}{.}

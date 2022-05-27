@@ -1,6 +1,6 @@
-{100}{}{Menedékváros egyik oktatógépe.}
-{101}{}{Úgy tûnik, ez valami oktatógép. Egy jópofa, PipBoy-szerû szerkentyû van az oldalán.}
-{102}{}{Menedékváros egyik oktatógépe.}
-{103}{}{Piszkálod egy kicsit a terminált, de ha valami hasznosat szeretnél kiszedni a gépbõl, a tudományos ismereteidre lesz szükség.}
-{104}{}{Eltöltöttél egy kis idõt az archívum tanulmányozásával.}
-{105}{}{Eltöltöttél egy kis idõt az archívum tanulmányozásával, de semmi érdekeset nem találtál.}
+{100}{}{MenedÃ©kvÃ¡ros egyik oktatÃ³gÃ©pe.}
+{101}{}{Ãšgy tÅ±nik, ez valami oktatÃ³gÃ©p. Egy jÃ³pofa, PipBoy-szerÅ± szerkentyÅ± van az oldalÃ¡n.}
+{102}{}{MenedÃ©kvÃ¡ros egyik oktatÃ³gÃ©pe.}
+{103}{}{PiszkÃ¡lod egy kicsit a terminÃ¡lt, de ha valami hasznosat szeretnÃ©l kiszedni a gÃ©pbÅ‘l, a tudomÃ¡nyos ismereteidre lesz szÃ¼ksÃ©g.}
+{104}{}{EltÃ¶ltÃ¶ttÃ©l egy kis idÅ‘t az archÃ­vum tanulmÃ¡nyozÃ¡sÃ¡val.}
+{105}{}{EltÃ¶ltÃ¶ttÃ©l egy kis idÅ‘t az archÃ­vum tanulmÃ¡nyozÃ¡sÃ¡val, de semmi Ã©rdekeset nem talÃ¡ltÃ¡l.}

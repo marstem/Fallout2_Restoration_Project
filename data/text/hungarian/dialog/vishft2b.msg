@@ -1,13 +1,13 @@
-{100}{}{Ez egy szellõzõ, friss levegõt keringet a komplexumban. Halk zörgést hallasz a rács mögül.}
-{101}{}{Szellõzõ.}
-{102}{}{Ez egy szellõzõ, friss levegõt keringet a komplexumban. Halk zörgést hallasz a rács mögül.}
-{103}{}{Ez egy szellõzõ, friss levegõt keringet a komplexumban. }
-{104}{}{Szellõzõ.}
-{105}{}{Ez egy szellõzõ, friss levegõt keringet a komplexumban. }
-{106}{}{*Zörrr*}
-{107}{}{Úgy tûnik, semmi baja a berendezésnek.}
-{108}{}{Leszereled a rácsot és keresni kezded a zaj forrását. Észreveszed, hogy valami beszorult a lapátok mögé. Kiveszed.}
-{109}{}{Úgy tûnik, valaki rejtekhelynek használta ezt a helyet.}
-{110}{}{Leszereled a rácsot és keresni kezded a zaj forrását. Észreveszed, hogy valami beszorult a lapátok mögé. Kiveszed.}
-{111}{}{Úgy tûnik, valaki rejtekhelynek használta ezt a helyet.}
+{100}{}{Ez egy szellÅ‘zÅ‘, friss levegÅ‘t keringet a komplexumban. Halk zÃ¶rgÃ©st hallasz a rÃ¡cs mÃ¶gÃ¼l.}
+{101}{}{SzellÅ‘zÅ‘.}
+{102}{}{Ez egy szellÅ‘zÅ‘, friss levegÅ‘t keringet a komplexumban. Halk zÃ¶rgÃ©st hallasz a rÃ¡cs mÃ¶gÃ¼l.}
+{103}{}{Ez egy szellÅ‘zÅ‘, friss levegÅ‘t keringet a komplexumban. }
+{104}{}{SzellÅ‘zÅ‘.}
+{105}{}{Ez egy szellÅ‘zÅ‘, friss levegÅ‘t keringet a komplexumban. }
+{106}{}{*ZÃ¶rrr*}
+{107}{}{Ãšgy tÅ±nik, semmi baja a berendezÃ©snek.}
+{108}{}{Leszereled a rÃ¡csot Ã©s keresni kezded a zaj forrÃ¡sÃ¡t. Ã‰szreveszed, hogy valami beszorult a lapÃ¡tok mÃ¶gÃ©. Kiveszed.}
+{109}{}{Ãšgy tÅ±nik, valaki rejtekhelynek hasznÃ¡lta ezt a helyet.}
+{110}{}{Leszereled a rÃ¡csot Ã©s keresni kezded a zaj forrÃ¡sÃ¡t. Ã‰szreveszed, hogy valami beszorult a lapÃ¡tok mÃ¶gÃ©. Kiveszed.}
+{111}{}{Ãšgy tÅ±nik, valaki rejtekhelynek hasznÃ¡lta ezt a helyet.}
 {112}{}{Me findie this in vent.}

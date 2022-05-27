@@ -1,40 +1,40 @@
 {151}{}{}
-{200}{}{Jók a kilátások.}
-{201}{}{A kilátások nem túl jók.}
-{202}{}{A válaszom: nem.}
-{203}{}{Ne számíts rá!}
-{204}{}{Megbízhatsz benne.}
-{205}{}{Késõbb kérdezd.}
-{206}{}{Valószínûleg.}
-{207}{}{Most nem tudom megjósolni.}
+{200}{}{JÃ³k a kilÃ¡tÃ¡sok.}
+{201}{}{A kilÃ¡tÃ¡sok nem tÃºl jÃ³k.}
+{202}{}{A vÃ¡laszom: nem.}
+{203}{}{Ne szÃ¡mÃ­ts rÃ¡!}
+{204}{}{MegbÃ­zhatsz benne.}
+{205}{}{KÃ©sÅ‘bb kÃ©rdezd.}
+{206}{}{ValÃ³szÃ­nÅ±leg.}
+{207}{}{Most nem tudom megjÃ³solni.}
 {208}{}{Igen.}
-{209}{}{Igen. Kétségtelenül.}
+{209}{}{Igen. KÃ©tsÃ©gtelenÃ¼l.}
 {210}{}{Jobb, ha most nem mondom el neked.}
 {211}{}{Ez biztos.}
-{212}{}{Elég bizonytalan.}
-{213}{}{Határozottan olyan.}
-{214}{}{Koncentrálj és kérdezz rá újra.}
-{215}{}{A jelek arra engednek következtetni, hogy igen.}
-{216}{}{Forrásaim szerint nem.}
-{217}{}{Kételyek nélkül.}
-{218}{}{A válasz ködös, próbáld újra.}
+{212}{}{ElÃ©g bizonytalan.}
+{213}{}{HatÃ¡rozottan olyan.}
+{214}{}{KoncentrÃ¡lj Ã©s kÃ©rdezz rÃ¡ Ãºjra.}
+{215}{}{A jelek arra engednek kÃ¶vetkeztetni, hogy igen.}
+{216}{}{ForrÃ¡saim szerint nem.}
+{217}{}{KÃ©telyek nÃ©lkÃ¼l.}
+{218}{}{A vÃ¡lasz kÃ¶dÃ¶s, prÃ³bÃ¡ld Ãºjra.}
 {219}{}{Szerintem igen.}
-{220}{}{Ne rázz ennyire! Ez fáj!}
-{221}{}{Erõs jobb karod van.}
-{222}{}{Kérlek, töröld meg a kezed, mielõtt még egyszer megrázol!}
-{223}{}{Átmenetileg nem mûködik.}
-{224}{}{Az RPG Tanács által bezáratva.}
-{225}{}{Ha tovább rázol, baj lesz!}
+{220}{}{Ne rÃ¡zz ennyire! Ez fÃ¡j!}
+{221}{}{ErÅ‘s jobb karod van.}
+{222}{}{KÃ©rlek, tÃ¶rÃ¶ld meg a kezed, mielÅ‘tt mÃ©g egyszer megrÃ¡zol!}
+{223}{}{Ãtmenetileg nem mÅ±kÃ¶dik.}
+{224}{}{Az RPG TanÃ¡cs Ã¡ltal bezÃ¡ratva.}
+{225}{}{Ha tovÃ¡bb rÃ¡zol, baj lesz!}
 {226}{}{Egyre betegebb vagyok.}
-{227}{}{Egyre jobban émelygek.}
+{227}{}{Egyre jobban Ã©melygek.}
 {228}{}{Meleg a kezed.}
-{229}{}{Feargus nem akart beletenni a játékba. Jó nagy állat.}
-{230}{}{Az eredményed 23 pont a lehetséges 100-ból. Még van tennivaló bõven.}
-{231}{}{Scott Everts nagyokat sóhajtozik, mikor átnézi, hogy mennyi tárgy van a játékban.}
-{232}{}{Nézz be a New Reno-i Mordino kaszinó elsõ emeletén lévõ WC-be!}
-{233}{}{Ha aktiválod a "Szemét" feliratú keresztet a Golgotán, találhatsz valamit.}
-{234}{}{Miután befejezted a játékot, menj vissza New Renóba és beszélj Tully atyával!}
-{235}{}{Tudod, hogy használhatsz fegyverként.}
-{236}{}{Ne rázz ilyen erõsen!}
-{237}{}{A szerencséd szerfelett magas. Rázz tovább nyomravezetõ tanácsokért!}
+{229}{}{Feargus nem akart beletenni a jÃ¡tÃ©kba. JÃ³ nagy Ã¡llat.}
+{230}{}{Az eredmÃ©nyed 23 pont a lehetsÃ©ges 100-bÃ³l. MÃ©g van tennivalÃ³ bÅ‘ven.}
+{231}{}{Scott Everts nagyokat sÃ³hajtozik, mikor Ã¡tnÃ©zi, hogy mennyi tÃ¡rgy van a jÃ¡tÃ©kban.}
+{232}{}{NÃ©zz be a New Reno-i Mordino kaszinÃ³ elsÅ‘ emeletÃ©n lÃ©vÅ‘ WC-be!}
+{233}{}{Ha aktivÃ¡lod a "SzemÃ©t" feliratÃº keresztet a GolgotÃ¡n, talÃ¡lhatsz valamit.}
+{234}{}{MiutÃ¡n befejezted a jÃ¡tÃ©kot, menj vissza New RenÃ³ba Ã©s beszÃ©lj Tully atyÃ¡val!}
+{235}{}{Tudod, hogy hasznÃ¡lhatsz fegyverkÃ©nt.}
+{236}{}{Ne rÃ¡zz ilyen erÅ‘sen!}
+{237}{}{A szerencsÃ©d szerfelett magas. RÃ¡zz tovÃ¡bb nyomravezetÅ‘ tanÃ¡csokÃ©rt!}
 {238}{}{Igen, mi tudjuk, hogy a "Descent to Undermountain" egy kalap szar.}

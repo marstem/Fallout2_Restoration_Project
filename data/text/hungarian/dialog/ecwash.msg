@@ -1,85 +1,85 @@
-{100}{}{Buffyt látod, a Mosdatlan Falusiak egyikét.}
-{101}{}{Doombotot látod, a Mosdatlan Falusiak egyikét.}
-{102}{}{Panoplyt látod, a Mosdatlan Falusiak egyikét.}
-{103}{}{Lerket látod, a Mosdatlan Falusiak egyikét.}
-{104}{}{Ymirt látod, a Mosdatlan Falusiak egyikét.}
-{105}{}{Iguanaevõt látod, a Mosdatlan Falusiak egyikét.}
-{106}{}{Éjjeli Bagolyt látod, a Mosdatlan Falusiak egyikét.}
-{107}{}{Árnytáncost látod, a Mosdatlan Falusiak egyikét.}
-{108}{}{Amish Kommandót látod, a Mosdatlan Falusiak egyikét.}
-{109}{}{Alexandot a Gyilkos Méhet látod, a Mosdatlan Falusiak egyikét.}
-{110}{}{A Baltást látod, a Mosdatlan Falusiak egyikét.}
-{111}{}{Kékkeresztet látod, a Mosdatlan Falusiak egyikét.}
-{113}{}{Buffyt látod, a gyönyörû, intelligens és tûzrõlpattant szószólót. Õ a Mosdatlan Falusiak Elsõ Embere.}
-{114}{}{Doombotot látod, a Hang Istennõjét, Buffy nõvérét. Nagyon hasonlít Marie Osmondra.}
-{115}{}{Panoplyt látod, egy tündérszerû lányt, akinek tekintete némi õrületrõl árulkodik.}
-{116}{}{Lerket látod, a Mosdatlan Kommandó Vezetõjét, a Mosdatlan Falusiak mûvészét, akit Fákkal Beszélgetõként is ismernek.}
-{117}{}{Ymirt látod, a déli vidékek költõjét a Költészet Fattyainak társalapítóját, a Helyi Tanítót.}
-{118}{}{Iguanaevõt látod, Smeet Lite Nagyurát.}
-{119}{}{Éjjeli Bagolyt látod, Az Alvókra Figyelõt és a Költészet Fattyainak társalapítóját.}
-{120}{}{Árnytáncost látod, a Gótikus Költészet Megszállotját - Fura módon Kevin Baconre hasonlít, de nagyon.}
-{121}{}{Amish Kommandót látod, a Tompa Erõ Trauma-Felügyelõjét, a Mosdatlan KommandóSub alparancsnokát.}
-{122}{}{Alexandot a Gyilkos Méhet látod, a gyilkos méhek egyik nemes és intelligens példányát, a Mosdatlan Falusiak Fõírnokát.}
-{123}{}{A Baltást látod, a Mosdatlanok Fegyverkovácsát, a Lángok Szítóját, az "Árnyvadász" Tanok Õrzõjét.}
-{124}{}{Kékkeresztet látod, a Mosdatlanok Papját és Termelési Igazgatóját.}
-{200}{}{A Mosdatlan Falusiak ismét gyõzedelmeskedtek!}
-{201}{}{A halál túl jó neki.}
-{202}{}{És maradj is halott!}
-{203}{}{A falu megint megmenekült!}
-{204}{}{Megvédjük az ártatlanokat és fenntartjuk a békét.}
-{205}{}{Vigyázzuk a pusztaságot. Megvédjük a Spammerektõl.}
-{206}{}{Csatlakozz hozzánk!}
-{207}{}{Az elválás oly édes szomorúság...}
-{208}{}{A Sátán pedig eljött, és látá, hogy a jóság mily borzasztó vala...}
-{209}{}{Szar dolog, ha fizetségre kerül a sor, mi?}
-{210}{}{Grim végre hasznossá tette magát... mint mûtrágya.}
-{211}{}{Ez történik akkor, ha szappant használsz...}
-{212}{}{Tûnjünk innen!}
-{213}{}{"A ház megtisztult."}
-{214}{}{Megpiszkálhatom egy bottal, hogy biztosak legyünk?}
-{215}{}{Nem kell bevárnod minket!}
+{100}{}{Buffyt lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{101}{}{Doombotot lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{102}{}{Panoplyt lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{103}{}{Lerket lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{104}{}{Ymirt lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{105}{}{IguanaevÅ‘t lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{106}{}{Ã‰jjeli Bagolyt lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{107}{}{ÃrnytÃ¡ncost lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{108}{}{Amish KommandÃ³t lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{109}{}{Alexandot a Gyilkos MÃ©het lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{110}{}{A BaltÃ¡st lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{111}{}{KÃ©kkeresztet lÃ¡tod, a Mosdatlan Falusiak egyikÃ©t.}
+{113}{}{Buffyt lÃ¡tod, a gyÃ¶nyÃ¶rÅ±, intelligens Ã©s tÅ±zrÅ‘lpattant szÃ³szÃ³lÃ³t. Å a Mosdatlan Falusiak ElsÅ‘ Embere.}
+{114}{}{Doombotot lÃ¡tod, a Hang IstennÅ‘jÃ©t, Buffy nÅ‘vÃ©rÃ©t. Nagyon hasonlÃ­t Marie Osmondra.}
+{115}{}{Panoplyt lÃ¡tod, egy tÃ¼ndÃ©rszerÅ± lÃ¡nyt, akinek tekintete nÃ©mi Å‘rÃ¼letrÅ‘l Ã¡rulkodik.}
+{116}{}{Lerket lÃ¡tod, a Mosdatlan KommandÃ³ VezetÅ‘jÃ©t, a Mosdatlan Falusiak mÅ±vÃ©szÃ©t, akit FÃ¡kkal BeszÃ©lgetÅ‘kÃ©nt is ismernek.}
+{117}{}{Ymirt lÃ¡tod, a dÃ©li vidÃ©kek kÃ¶ltÅ‘jÃ©t a KÃ¶ltÃ©szet Fattyainak tÃ¡rsalapÃ­tÃ³jÃ¡t, a Helyi TanÃ­tÃ³t.}
+{118}{}{IguanaevÅ‘t lÃ¡tod, Smeet Lite NagyurÃ¡t.}
+{119}{}{Ã‰jjeli Bagolyt lÃ¡tod, Az AlvÃ³kra FigyelÅ‘t Ã©s a KÃ¶ltÃ©szet Fattyainak tÃ¡rsalapÃ­tÃ³jÃ¡t.}
+{120}{}{ÃrnytÃ¡ncost lÃ¡tod, a GÃ³tikus KÃ¶ltÃ©szet MegszÃ¡llotjÃ¡t - Fura mÃ³don Kevin Baconre hasonlÃ­t, de nagyon.}
+{121}{}{Amish KommandÃ³t lÃ¡tod, a Tompa ErÅ‘ Trauma-FelÃ¼gyelÅ‘jÃ©t, a Mosdatlan KommandÃ³Sub alparancsnokÃ¡t.}
+{122}{}{Alexandot a Gyilkos MÃ©het lÃ¡tod, a gyilkos mÃ©hek egyik nemes Ã©s intelligens pÃ©ldÃ¡nyÃ¡t, a Mosdatlan Falusiak FÅ‘Ã­rnokÃ¡t.}
+{123}{}{A BaltÃ¡st lÃ¡tod, a Mosdatlanok FegyverkovÃ¡csÃ¡t, a LÃ¡ngok SzÃ­tÃ³jÃ¡t, az "ÃrnyvadÃ¡sz" Tanok ÅrzÅ‘jÃ©t.}
+{124}{}{KÃ©kkeresztet lÃ¡tod, a Mosdatlanok PapjÃ¡t Ã©s TermelÃ©si IgazgatÃ³jÃ¡t.}
+{200}{}{A Mosdatlan Falusiak ismÃ©t gyÅ‘zedelmeskedtek!}
+{201}{}{A halÃ¡l tÃºl jÃ³ neki.}
+{202}{}{Ã‰s maradj is halott!}
+{203}{}{A falu megint megmenekÃ¼lt!}
+{204}{}{MegvÃ©djÃ¼k az Ã¡rtatlanokat Ã©s fenntartjuk a bÃ©kÃ©t.}
+{205}{}{VigyÃ¡zzuk a pusztasÃ¡got. MegvÃ©djÃ¼k a SpammerektÅ‘l.}
+{206}{}{Csatlakozz hozzÃ¡nk!}
+{207}{}{Az elvÃ¡lÃ¡s oly Ã©des szomorÃºsÃ¡g...}
+{208}{}{A SÃ¡tÃ¡n pedig eljÃ¶tt, Ã©s lÃ¡tÃ¡, hogy a jÃ³sÃ¡g mily borzasztÃ³ vala...}
+{209}{}{Szar dolog, ha fizetsÃ©gre kerÃ¼l a sor, mi?}
+{210}{}{Grim vÃ©gre hasznossÃ¡ tette magÃ¡t... mint mÅ±trÃ¡gya.}
+{211}{}{Ez tÃ¶rtÃ©nik akkor, ha szappant hasznÃ¡lsz...}
+{212}{}{TÅ±njÃ¼nk innen!}
+{213}{}{"A hÃ¡z megtisztult."}
+{214}{}{MegpiszkÃ¡lhatom egy bottal, hogy biztosak legyÃ¼nk?}
+{215}{}{Nem kell bevÃ¡rnod minket!}
 {216}{}{Piszkos munka ez, de pont ezt szeretem!}
-{217}{}{Gyerünk vissza járõrözni!}
-{218}{}{A Mosdatlan Falusiak. A béke õrei ebben a rohadt sivatagban.}
-{219}{}{Megkapta, amit megérdemelt.}
+{217}{}{GyerÃ¼nk vissza jÃ¡rÅ‘rÃ¶zni!}
+{218}{}{A Mosdatlan Falusiak. A bÃ©ke Å‘rei ebben a rohadt sivatagban.}
+{219}{}{Megkapta, amit megÃ©rdemelt.}
 {220}{}{A nyomodban leszek!}
-{300}{}{Szappan? Nincs szükségünk ragadós szappanra!}
-{301}{}{Gyûljetek mosdatlanok! Pusztuljon a Spammer!}
-{302}{}{Halál a Spammerre!}
-{303}{}{Ezt azért kapod, mert az emberek életét fenyegeted!}
+{300}{}{Szappan? Nincs szÃ¼ksÃ©gÃ¼nk ragadÃ³s szappanra!}
+{301}{}{GyÅ±ljetek mosdatlanok! Pusztuljon a Spammer!}
+{302}{}{HalÃ¡l a Spammerre!}
+{303}{}{Ezt azÃ©rt kapod, mert az emberek Ã©letÃ©t fenyegeted!}
 {304}{}{Now you will die, Grim Reaper.}
-{305}{}{Mehetsz vissza "délre"!}
-{306}{}{A génállomány tisztítgatásra szorul.}
-{307}{}{Most megfizetünk!}
+{305}{}{Mehetsz vissza "dÃ©lre"!}
+{306}{}{A gÃ©nÃ¡llomÃ¡ny tisztÃ­tgatÃ¡sra szorul.}
+{307}{}{Most megfizetÃ¼nk!}
 {308}{}{Most megkapod!}
-{309}{}{A Mosdatlan Falusiak azért jöttek, hogy megvédjék az embereket az olyan gennyektõl, mint te!}
-{310}{}{Hagyd az embereket békén!}
+{309}{}{A Mosdatlan Falusiak azÃ©rt jÃ¶ttek, hogy megvÃ©djÃ©k az embereket az olyan gennyektÅ‘l, mint te!}
+{310}{}{Hagyd az embereket bÃ©kÃ©n!}
 {311}{}{A KOSZ ereje!}
-{312}{}{Mosdatlanok vagyunk ugyan, de azért jöttünk, hogy feltakarítsunk!}
-{313}{}{Ezúttal nem fogsz meglógni!}
-{314}{}{Védjük meg a Kiválasztottat a Spammerek hülyeségétõl!}
-{315}{}{Kiválasztott! Csatlakozz hozzánk!}
-{316}{}{MOSDATLAN BOSSZÚ!}
+{312}{}{Mosdatlanok vagyunk ugyan, de azÃ©rt jÃ¶ttÃ¼nk, hogy feltakarÃ­tsunk!}
+{313}{}{EzÃºttal nem fogsz meglÃ³gni!}
+{314}{}{VÃ©djÃ¼k meg a KivÃ¡lasztottat a Spammerek hÃ¼lyesÃ©gÃ©tÅ‘l!}
+{315}{}{KivÃ¡lasztott! Csatlakozz hozzÃ¡nk!}
+{316}{}{MOSDATLAN BOSSZÃš!}
 {317}{}{You will never be 'Unwashed', childish fool!}
-{318}{}{Nincs esélyed!}
-{319}{}{Még nem fejeztük be!}
-{320}{}{Hooooosszúúú ideje vártam már erre a pillanatra.}
-{400}{}{Ezt azért kapod, mert megfenyegettél!}
+{318}{}{Nincs esÃ©lyed!}
+{319}{}{MÃ©g nem fejeztÃ¼k be!}
+{320}{}{HooooosszÃºÃºÃº ideje vÃ¡rtam mÃ¡r erre a pillanatra.}
+{400}{}{Ezt azÃ©rt kapod, mert megfenyegettÃ©l!}
 {401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
-{402}{}{"A bosszú csak hidegen felszolgálva jó."}
+{402}{}{"A bosszÃº csak hidegen felszolgÃ¡lva jÃ³."}
 {403}{}{I'm Buffy... you're toast.}
-{405}{}{Senki sem szõrözhet Doombottal!}
+{405}{}{Senki sem szÅ‘rÃ¶zhet Doombottal!}
 {406}{}{Grim Buster!}
-{410}{}{Csak egy ananásznak van olyan édes íze, mint a mi gyõzelmünknek...}
-{415}{}{A falu vidám hely, de te most nagyon-nagyon dühössé tetted.}
-{420}{}{Utoljára fenyegetted kis hazánkat gonosz tetteiddel!}
-{430}{}{Örök álmot bocsátok rád!}
-{435}{}{Mindannyian a pokolba tartunk, és én vezetem a buszt.}
-{436}{}{Jer gyermekem, hadd szüntessem fájdalmadat!}
-{437}{}{Halott vagy. Csak még nem tudod.}
-{440}{}{Most kapsz!}
-{441}{}{Szeretnél egy kicsit?}
+{410}{}{Csak egy ananÃ¡sznak van olyan Ã©des Ã­ze, mint a mi gyÅ‘zelmÃ¼nknek...}
+{415}{}{A falu vidÃ¡m hely, de te most nagyon-nagyon dÃ¼hÃ¶ssÃ© tetted.}
+{420}{}{UtoljÃ¡ra fenyegetted kis hazÃ¡nkat gonosz tetteiddel!}
+{430}{}{Ã–rÃ¶k Ã¡lmot bocsÃ¡tok rÃ¡d!}
+{435}{}{Mindannyian a pokolba tartunk, Ã©s Ã©n vezetem a buszt.}
+{436}{}{Jer gyermekem, hadd szÃ¼ntessem fÃ¡jdalmadat!}
+{437}{}{Halott vagy. Csak mÃ©g nem tudod.}
+{440}{}{Nesze!}
+{441}{}{Ezt akartad?}
 {442}{}{Ne az arcomba, ne az arcombaaa!}
-{445}{}{Dante nem arról a pokolról írt, amibe téged küldelek...}
+{445}{}{Dante nem arrÃ³l a pokolrÃ³l Ã­rt, amibe tÃ©ged kÃ¼ldelek...}
 {450}{}{Fegyverek! Fegyverek! Fegyverek! Hol vannak a fegyvereim?!}
-{451}{}{Oké, igen. Õrült vagyok. Ezzel számolnod kell.}
+{451}{}{OkÃ©, igen. ÅrÃ¼lt vagyok. Ezzel szÃ¡molnod kell.}

@@ -4,20 +4,20 @@
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
-{106}{}{Rejtek}
-{107}{}{Rejtek}
-{108}{}{Rejtek}
+{106}{}{Hogy jutok el Rejtekbe?}
+{107}{}{Hogy jutok el Rejtekbe?}
+{108}{}{Hogy jutok el Rejtekbe?}
 {109}{}{Klamath}
 {110}{}{Klamath}
 {111}{}{Klamath}
 {112}{}{Klamath}
 {113}{}{Klamath}
 {114}{}{Klamath}
-{115}{}{MenedÈkv·ros}
-{116}{}{MenedÈkv·ros}
-{117}{}{MenedÈkv·ros}
+{115}{}{Mened√©kv√°ros}
+{116}{}{Mened√©kv√°ros}
+{117}{}{Mened√©kv√°ros}
 {118}{}{error:Map Name}
-{119}{}{V·rosi romok}
+{119}{}{V√°rosi romok}
 {120}{}{Part}
 {121}{}{Part}
 {122}{}{Sivatag}
@@ -40,33 +40,33 @@
 {139}{}{Hub}
 {140}{}{Hub}
 {141}{}{Hub}
-{142}{}{Izz·s}
-{143}{}{Izz·s}
+{142}{}{Izz√°s}
+{143}{}{Izz√°s}
 {144}{}{Boneyard}
 {145}{}{Boneyard}
 {146}{}{Boneyard}
-{147}{}{Katedr·lis}
+{147}{}{Katedr√°lis}
 {148}{}{Katonai}
-{149}{}{Hegyek}
-{150}{}{Hegyek}
+{149}{}{Hegy}
+{150}{}{Hegy}
 {151}{}{Sivatag}
 {152}{}{Sivatag}
 {153}{}{Sivatag}
 {154}{}{Sivatag}
-{155}{}{TestvÈrisÈg}
+{155}{}{Testv√©ris√©g}
 {156}{}{Sivatag}
 {157}{}{Sivatag}
-{158}{}{Hegyek}
-{159}{}{Hegyek}
-{160}{}{Viper·k t·bora}
+{158}{}{Hegy}
+{159}{}{Hegy}
+{160}{}{Viper√°k t√°bora}
 {161}{}{Sivatag}
-{162}{}{Hegyek}
+{162}{}{Hegy}
 {163}{}{Sivatag}
-{164}{}{Hegyek}
+{164}{}{Hegy}
 {165}{}{EPA}
 {166}{}{EPA}
 {167}{}{EPA Warehouse}
-{168}{}{Kereskedı}
+{168}{}{Keresked≈ë}
 {169}{}{Shi Submarine}
 {200}{}{Sivatag}
 {201}{}{}
@@ -77,14 +77,14 @@
 {206}{}{Sivatag}
 {207}{}{}
 {208}{}{}
-{209}{}{Templom: elıcsarnok}
-{210}{}{Templom: folyosÛ}
-{211}{}{Templom: szentÈly}
+{209}{}{Templom: el≈ëcsarnok}
+{210}{}{Templom: folyos√≥}
+{211}{}{Templom: szent√©ly}
 {212}{}{Falu}
 {213}{}{}
 {214}{}{}
-{215}{}{HÌd}
-{216}{}{Lerombolt hÌd}
+{215}{}{Hid}
+{216}{}{Lerombolt hid}
 {217}{}{}
 {218}{}{Nyugati oldal}
 {219}{}{}
@@ -92,43 +92,43 @@
 {221}{}{Keleti oldal}
 {222}{}{}
 {223}{}{}
-{224}{}{LakÛnegyed}
+{224}{}{Lakonegyed}
 {225}{}{}
 {226}{}{}
-{227}{}{Belv·ros}
-{228}{}{Belv·ros}
-{229}{}{Belv·ros}
-{230}{}{FıtÈr}
-{231}{}{FıtÈr}
+{227}{}{Belvaros}
+{228}{}{Belvaros}
+{229}{}{Belvaros}
+{230}{}{F≈ët√©r}
+{231}{}{F≈ët√©r}
 {232}{}{}
-{233}{}{Patk·nybarlang}
-{234}{}{Patk·nybarlang}
-{235}{}{Patk·nybarlang}
-{236}{}{Bej·rat}
+{233}{}{Patkanybarlang}
+{234}{}{Patkanybarlang}
+{235}{}{Patkanybarlang}
+{236}{}{Bejarat}
 {237}{}{Waste Tunnels}
 {238}{}{Storage}
-{239}{}{Vad·szmezı}
-{240}{}{Vad·szmezı}
-{241}{}{Vad·szmezı}
-{242}{}{Legelı}
-{243}{}{Legelı}
+{239}{}{Vadaszmezo}
+{240}{}{Vadaszmezo}
+{241}{}{Vadaszmezo}
+{242}{}{Legelo}
+{243}{}{Legelo}
 {244}{}{}
-{245}{}{Elıv·ros}
+{245}{}{Elovaros}
 {246}{}{}
 {247}{}{}
-{248}{}{Belv·ros}
+{248}{}{Belvaros}
 {249}{}{}
 {250}{}{}
-{251}{}{V·rosh·za}
+{251}{}{V√°rosh√°za}
 {252}{}{}
 {253}{}{}
-{254}{}{Fı utca}
+{254}{}{Fo ut}
 {255}{}{}
 {256}{}{}
-{257}{}{PanziÛ}
-{258}{}{PanziÛ}
+{257}{}{Panzio}
+{258}{}{Panzio}
 {259}{}{}
-{260}{}{Brahmin legelı}
+{260}{}{Brahmin legel≈ë}
 {261}{}{}
 {262}{}{}
 {263}{}{Farrel kertje}
@@ -137,7 +137,7 @@
 {266}{}{Pocegodor}
 {267}{}{}
 {268}{}{}
-{269}{}{V·rosi k˙t}
+{269}{}{Varosi kut}
 {270}{}{}
 {271}{}{}
 {272}{}{Farm}
@@ -146,46 +146,46 @@
 {275}{}{Barlang}
 {276}{}{}
 {277}{}{}
-{278}{}{Fˆldalatti tÛ}
+{278}{}{Foldalatti to}
 {279}{}{}
 {280}{}{}
-{281}{}{Harcmezı}
+{281}{}{Csatater}
 {282}{}{}
 {283}{}{}
-{284}{}{PihenırÈszleg}
-{285}{}{Rakt·r}
+{284}{}{Pihen≈ër√©szleg}
+{285}{}{Rakt√°r}
 {286}{}{Robottechnikai labor}
-{287}{}{Bio-kutatÛ laboratÛrium}
+{287}{}{Bio-kutat√≥ laborat√≥rium}
 {288}{}{}
 {289}{}{}
-{290}{}{MenedÈk: 1. szint}
-{291}{}{MenedÈk: 2. szint}
-{292}{}{MenedÈk: 3. szint}
-{293}{}{Telep¸lÈs}
-{294}{}{Telep¸lÈs}
-{295}{}{Telep¸lÈs}
-{296}{}{Erım˚}
-{297}{}{Erım˚}
+{290}{}{Mened√©k: 1. szint}
+{291}{}{Mened√©k: 2. szint}
+{292}{}{Mened√©k: 3. szint}
+{293}{}{Telepules}
+{294}{}{Telepules}
+{295}{}{Telepules}
+{296}{}{Eromu}
+{297}{}{Eromu}
 {298}{}{}
 {299}{}{Roncstelep}
 {300}{}{Roncstelep}
 {301}{}{Roncstelep}
-{302}{}{Alag˙t}
-{303}{}{Alag˙t}
-{304}{}{Alag˙t}
+{302}{}{Alagsor}
+{303}{}{Alagsor}
+{304}{}{Alagsor}
 {305}{}{Vadon}
 {306}{}{}
 {307}{}{}
-{308}{}{15-ˆs MenedÈk: 1. szint}
-{309}{}{15-ˆs MenedÈk: 2. szint}
-{310}{}{15-ˆs MenedÈk: 3. szint}
-{311}{}{FˆldfoglalÛk}
+{308}{}{15-√∂s Mened√©k: 1. szint}
+{309}{}{15-√∂s Mened√©k: 2. szint}
+{310}{}{15-√∂s Mened√©k: 3. szint}
+{311}{}{Foldbitorlok}
 {312}{}{}
 {313}{}{}
-{314}{}{FˆldfoglalÛk}
+{314}{}{Foldbitorlok}
 {315}{}{}
 {316}{}{}
-{317}{}{Keleti bej·rat}
+{317}{}{Keleti Bejarat}
 {318}{}{}
 {319}{}{}
 {320}{}{1. szint}
@@ -194,22 +194,22 @@
 {323}{}{Barlang}
 {324}{}{}
 {325}{}{}
-{326}{}{Belv·ros}
+{326}{}{Belvaros}
 {327}{}{}
 {328}{}{}
-{329}{}{V·rosh·za}
+{329}{}{Varoshaza}
 {330}{}{}
 {331}{}{}
-{332}{}{Westin farm}
+{332}{}{Westin Farm}
 {333}{}{}
 {334}{}{}
-{335}{}{Legelı}
+{335}{}{Legelok}
 {336}{}{}
 {337}{}{}
-{338}{}{Baz·r}
+{338}{}{Bazar}
 {339}{}{}
 {340}{}{}
-{341}{}{V·rosh·za}
+{341}{}{Varoshaza}
 {342}{}{}
 {343}{}{}
 {344}{}{Kanyon}
@@ -221,60 +221,60 @@
 {350}{}{3. szint}
 {351}{}{4. szint}
 {352}{}{}
-{353}{}{Bej·rat}
+{353}{}{Bejarat}
 {354}{}{}
 {355}{}{}
 {356}{}{Sivatag}
 {357}{}{Falu}
-{358}{}{T·bor}
+{358}{}{T√°bor}
 {359}{}{Sivatag}
 {360}{}{}
 {361}{}{}
-{362}{}{Sz˚z utca}
+{362}{}{Szuz utca}
 {363}{}{Desperado alagsora}
 {364}{}{Desperado, 2. emelet}
-{365}{}{2. utca}
+{365}{}{Masodik utca}
 {366}{}{Shark Club 2nd Floor}
 {367}{}{Shark Klub 3. emelet}
 {368}{}{Kereskedelmi negyed}
 {369}{}{New Reno, Fegyverbolt alagsora}
 {370}{}{}
 {371}{}{Keleti oldal}
-{372}{}{Vas˙t·llom·s}
+{372}{}{Vas√∫t√°llom√°s}
 {373}{}{}
-{374}{}{RontÛ-BontÛ}
+{374}{}{Ronto-Bonto}
 {375}{}{}
 {376}{}{}
-{377}{}{Temetı}
-{378}{}{”vÛhely}
+{377}{}{Temet≈ë}
+{378}{}{√ìv√≥hely}
 {379}{}{}
 {380}{}{Slave Pens}
 {381}{}{Labor}
 {382}{}{}
-{383}{}{Boksz arÈna}
-{384}{}{Boksz arÈna}
-{385}{}{Boksz arÈna}
-{386}{}{B·nyabej·rat}
-{387}{}{B·nyabej·rat}
-{388}{}{B·nyabej·rat}
-{389}{}{B·nya: 1. szint}
-{390}{}{B·nya: 2. szint}
+{383}{}{Boksz arena}
+{384}{}{Boksz arena}
+{385}{}{Boksz arena}
+{386}{}{B√°nyabej√°rat}
+{387}{}{B√°nyabej√°rat}
+{388}{}{B√°nyabej√°rat}
+{389}{}{B√°nya: 1. szint}
+{390}{}{B√°nya: 2. szint}
 {391}{}{}
-{392}{}{Belv·ros}
-{393}{}{Belv·ros}
-{394}{}{Belv·ros}
+{392}{}{Belvaros}
+{393}{}{Belvaros}
+{394}{}{Belvaros}
 {395}{}{Banyasztabor}
 {396}{}{Banyasztabor}
 {397}{}{Banyasztabor}
-{398}{}{Alag˙t}
-{399}{}{Alag˙t}
-{400}{}{Alag˙t}
-{401}{}{Alag˙t}
-{402}{}{Alag˙t}
-{403}{}{Alag˙t}
-{404}{}{V·ros}
-{405}{}{V·ros}
-{406}{}{V·ros}
+{398}{}{Alag√∫t}
+{399}{}{Alag√∫t}
+{400}{}{Alag√∫t}
+{401}{}{Alag√∫t}
+{402}{}{Alag√∫t}
+{403}{}{Alag√∫t}
+{404}{}{V√°ros}
+{405}{}{V√°ros}
+{406}{}{V√°ros}
 {407}{}{Hegy}
 {408}{}{Hegy}
 {409}{}{Hegy}
@@ -302,12 +302,12 @@
 {431}{}{Part}
 {432}{}{Part}
 {433}{}{Part}
-{434}{}{Belv·ros}
+{434}{}{Belvaros}
 {435}{}{Alagsor}
 {436}{}{Unused}
-{437}{}{LakÛnegyed}
+{437}{}{Lakonegyed}
 {438}{}{Alagsor}
-{439}{}{B·nya}
+{439}{}{B√°nya}
 {440}{}{Barlang}
 {441}{}{Barlang}
 {442}{}{Barlang}
@@ -344,11 +344,11 @@
 {473}{}{Part}
 {474}{}{Part}
 {475}{}{Part}
-{476}{}{FosztogatÛk t·bora}
-{477}{}{FosztogatÛk t·bora}
-{478}{}{FosztogatÛk t·bora}
-{479}{}{Barlangbej·rat}
-{480}{}{SkorpiÛfÈszek}
+{476}{}{Fosztogat√≥k t√°bora}
+{477}{}{Fosztogat√≥k t√°bora}
+{478}{}{Fosztogat√≥k t√°bora}
+{479}{}{Barlang bejarat}
+{480}{}{Skorpi√≥f√©szek}
 {481}{}{Barakk}
 {482}{}{Sivatag}
 {483}{}{Sivatag}
@@ -371,33 +371,33 @@
 {500}{}{Sivatag}
 {501}{}{Sivatag}
 {502}{}{Sivatag}
-{503}{}{A Hal·l HÌdja}
-{504}{}{A Hal·l HÌdja}
-{505}{}{A Hal·l HÌdja}
-{506}{}{Szettort Almok Kavezoja}
-{507}{}{Szettort Almok Kavezoja}
-{508}{}{Szettort Almok Kavezoja}
+{503}{}{A Hal√°l H√≠dja}
+{504}{}{A Hal√°l H√≠dja}
+{505}{}{A Hal√°l H√≠dja}
+{506}{}{Sz√©tt√∂rt √Ålmok K√°v√©z√≥ja}
+{507}{}{Sz√©tt√∂rt √Ålmok K√°v√©z√≥ja}
+{508}{}{Sz√©tt√∂rt √Ålmok K√°v√©z√≥ja}
 {509}{}{Sivatag}
 {510}{}{Sivatag}
 {511}{}{Sivatag}
 {512}{}{Hegy}
 {513}{}{Barlang}
 {514}{}{Barlang}
-{515}{}{’rzı}
-{516}{}{13-as Menedek}
-{517}{}{13-as Menedek}
-{518}{}{Mergezo hulladek lerakat}
-{519}{}{Mergezo hulladek lerakat}
-{520}{}{Mergezo hulladek lerakat}
+{515}{}{≈êrz≈ë}
+{516}{}{Mened√©k 13}
+{517}{}{Mened√©k 13}
+{518}{}{M√©rgez≈ë-hullad√©k lerakat.}
+{519}{}{M√©rgez≈ë-hullad√©k lerakat.}
+{520}{}{M√©rgez≈ë-hullad√©k lerakat.}
 {521}{}{Sivatag}
 {522}{}{Sivatag}
 {523}{}{Sivatag}
 {524}{}{Sivatag}
 {525}{}{Sivatag}
 {526}{}{Sivatag}
-{527}{}{Benzink˙t}
+{527}{}{Benzinkut}
 {528}{}{Alagsor}
-{529}{}{GÈpmad·r b·zis}
+{529}{}{G√©pmad√°r b√°zis}
 {530}{}{Partvonal}
 {531}{}{Partvonal}
 {532}{}{Partvonal}
@@ -443,75 +443,75 @@
 {572}{}{Hegy}
 {573}{}{Hegy}
 {574}{}{Hegy}
-{575}{}{Elhagyatott v·ros}
-{576}{}{Romos v·ros}
-{577}{}{Romos v·ros}
-{578}{}{Templom bej·rata}
-{579}{}{Templom bej·rata}
-{580}{}{Templom bej·rata}
-{581}{}{Lerombolt hÌd}
-{582}{}{Lerombolt hÌd}
-{583}{}{Lerombolt hÌd}
-{584}{}{Cell·k}
-{585}{}{Cell·k}
-{586}{}{Cell·k}
+{575}{}{Elhagyatott v√°ros}
+{576}{}{Lerombolt v√°ros}
+{577}{}{Lerombolt v√°ros}
+{578}{}{Templom bejarat}
+{579}{}{Templom bejarat}
+{580}{}{Templom bejarat}
+{581}{}{Lerombolt hid}
+{582}{}{Lerombolt hid}
+{583}{}{Lerombolt hid}
+{584}{}{Cell√°k}
+{585}{}{Cell√°k}
+{586}{}{Cell√°k}
 {587}{}{Dokk}
 {588}{}{Vertibird Unloading Pad}
 {589}{}{Dokk}
 {590}{}{Entry Hall}
 {591}{}{Entry Hall}
 {592}{}{Entry Hall}
-{593}{}{’rˆk barakkja}
-{594}{}{’rˆk barakkja}
-{595}{}{’rˆk barakkja}
-{596}{}{Elnˆki szint}
-{597}{}{Elnˆki szint}
-{598}{}{Elnˆki szint}
+{593}{}{≈êr√∂k barakkja}
+{594}{}{≈êr√∂k barakkja}
+{595}{}{≈êr√∂k barakkja}
+{596}{}{Elnoki szint}
+{597}{}{Elnoki szint}
+{598}{}{Elnoki szint}
 {599}{}{Reaktor}
 {600}{}{Reaktor}
 {601}{}{Reaktor}
-{602}{}{FolyosÛ}
-{603}{}{FolyosÛ}
-{604}{}{FolyosÛ}
-{605}{}{TankhajÛ}
-{606}{}{TankhajÛ}
-{607}{}{TankhajÛ}
+{602}{}{Folyos√≥}
+{603}{}{Folyos√≥}
+{604}{}{Folyos√≥}
+{605}{}{Tankhaj√≥}
+{606}{}{Tankhaj√≥}
+{607}{}{Tankhaj√≥}
 {608}{}{Dokk}
 {609}{}{Dokk}
 {610}{}{Dokk}
-{611}{}{KÌnai negyed}
-{612}{}{KÌnai negyed}
-{613}{}{KÌnai negyed}
-{614}{}{€rhajÛ dokk}
-{615}{}{€rhajÛ dokk}
-{616}{}{€rhajÛ dokk}
-{617}{}{€rhajÛ belseje}
-{618}{}{€rhajÛ belseje}
-{619}{}{€rhajÛ belseje}
-{620}{}{Hubologista b·zis}
-{621}{}{Hubologista b·zis}
-{622}{}{Hubologista b·zis}
-{623}{}{Elpusztult v·ros}
-{624}{}{Elpusztult v·ros}
-{625}{}{Elpusztult v·ros}
-{626}{}{Elpusztult v·ros}
-{627}{}{Elpusztult v·ros}
-{628}{}{Elpusztult v·ros}
-{629}{}{Elpusztult v·ros}
-{630}{}{Elpusztult v·ros}
-{631}{}{Elpusztult v·ros}
-{632}{}{Elpusztult v·ros}
-{633}{}{Elpusztult v·ros}
-{634}{}{Elpusztult v·ros}
-{635}{}{Elpusztult v·ros}
-{636}{}{Elpusztult v·ros}
-{637}{}{Elpusztult v·ros}
-{638}{}{Elpusztult v·ros}
-{639}{}{Elpusztult v·ros}
-{640}{}{Elpusztult v·ros}
-{641}{}{GÈpmad·r}
-{642}{}{GÈpmad·r}
-{643}{}{GÈpmad·r}
+{611}{}{Kinai negyed}
+{612}{}{Kinai negyed}
+{613}{}{Kinai negyed}
+{614}{}{≈∞rhaj√≥ dokk}
+{615}{}{≈∞rhaj√≥ dokk}
+{616}{}{≈∞rhaj√≥ dokk}
+{617}{}{Ursiklo beltere}
+{618}{}{Ursiklo beltere}
+{619}{}{Ursiklo beltere}
+{620}{}{Hubologista b√°zis}
+{621}{}{Hubologista b√°zis}
+{622}{}{Hubologista b√°zis}
+{623}{}{Elpusztult v√°ros}
+{624}{}{Elpusztult v√°ros}
+{625}{}{Elpusztult v√°ros}
+{626}{}{Elpusztult v√°ros}
+{627}{}{Elpusztult v√°ros}
+{628}{}{Elpusztult v√°ros}
+{629}{}{Elpusztult v√°ros}
+{630}{}{Elpusztult v√°ros}
+{631}{}{Elpusztult v√°ros}
+{632}{}{Elpusztult v√°ros}
+{633}{}{Elpusztult v√°ros}
+{634}{}{Elpusztult v√°ros}
+{635}{}{Elpusztult v√°ros}
+{636}{}{Elpusztult v√°ros}
+{637}{}{Elpusztult v√°ros}
+{638}{}{Elpusztult v√°ros}
+{639}{}{Elpusztult v√°ros}
+{640}{}{Elpusztult v√°ros}
+{641}{}{Gepmadar}
+{642}{}{Gepmadar}
+{643}{}{Gepmadar}
 {644}{}{Shi templom}
 {645}{}{}
 {646}{}{Brotherhood Base}
@@ -521,7 +521,7 @@
 {650}{}{Sivatag}
 {651}{}{Sivatag}
 {652}{}{Sivatag}
-{653}{}{Bej·rat}
+{653}{}{Bejarat}
 {654}{}{Second Floor}
 {655}{}{Third Floor}
 {656}{}{Alagsor}
@@ -539,7 +539,7 @@
 {668}{}{Fishing Area}
 {669}{}{Small Cave}
 {670}{}{enter name}
-{671}{}{Bej·rat}
+{671}{}{Bejarat}
 {672}{}{Air, Water, and Power Facility Level}
 {673}{}{Robot Maintenance}
 {674}{}{Level One}
@@ -554,7 +554,7 @@
 {683}{}{Sivatag}
 {684}{}{Sivatag}
 {685}{}{Sivatag}
-{686}{}{Bej·rat}
+{686}{}{Bejarat}
 {687}{}{Level One}
 {688}{}{Level Two}
 {689}{}{Ranger Safe House}
@@ -588,20 +588,20 @@
 {717}{}{Barlang}
 {718}{}{}
 {1500}{}{Arroyo}
-{1501}{}{Rejtek}
+{1501}{}{Hogy jutok el Rejtekbe?}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
-{1504}{}{MenedÈkv·ros}
-{1505}{}{GekkÛ}
+{1504}{}{Mened√©kv√°ros}
+{1505}{}{Gekko}
 {1506}{}{Broken Hills}
-{1507}{}{New Reno}
-{1508}{}{Sierra hadiraktar}
-{1509}{}{a 15-ˆs MenedÈk}
-{1510}{}{Az ⁄j Kalifornia Kˆzt·rsas·got keresem.}
-{1511}{}{13-as Menedek}
+{1507}{}{New Reno √©rdekelne.}
+{1508}{}{Sierra hadirakt√°r}
+{1509}{}{15-os Menedek}
+{1510}{}{Uj Kalifornia Koztarsasag}
+{1511}{}{Mened√©k 13}
 {1512}{}{Katonai bazis}
-{1513}{}{Redding}
-{1514}{}{San Francisco}
+{1513}{}{Hol tal√°lom Reddinget?}
+{1514}{}{Merre van San Francisco?}
 {1515}{}{Navarro}
 {1516}{}{Az Enklave}
 {1517}{}{Abbey}
@@ -610,32 +610,32 @@
 {1520}{}{Kisertet farm}
 {1521}{}{Kifogyott az uzemanyag}
 {1522}{}{Arroyo}
-{1523}{}{Toxikus barlang}
-{1524}{}{Rejtek rabszolga-hajtas}
+{1523}{}{Toxikus Barlangrendszer}
+{1524}{}{Rejtek-i rabszolga-hajtas}
 {1525}{}{Fosztogatok tabora}
 {1526}{}{Sivatag}
 {1527}{}{Hegy}
-{1528}{}{Romos v·ros}
+{1528}{}{Lerombolt v√°ros}
 {1529}{}{Part}
 {1530}{}{Golgota}
 {1531}{}{Lezuhant balna}
-{1532}{}{Badogember}
+{1532}{}{B√°dogember.}
 {1533}{}{Beszelo fej}
-{1534}{}{SzovetsÈgi ursiklo}
+{1534}{}{Szovets√©gi ursiklo}
 {1535}{}{Mosdatlan falusiak}
-{1536}{}{HÌd}
-{1537}{}{Szettort Almok Kavezoja}
+{1536}{}{Hid}
+{1537}{}{Sz√©tt√∂rt √Ålmok K√°v√©z√≥ja}
 {1538}{}{Lovagok}
 {1539}{}{Vorpal Patkanybarlang}
-{1540}{}{Az Orokkevalosag Orzoje}
-{1541}{}{Mergezo hulladek lerakat}
+{1540}{}{A V√©gtelens√©g ≈êrz≈ëje}
+{1541}{}{M√©rgez≈ë-hullad√©k lerakat.}
 {1542}{}{Pariak}
 {1543}{}{Veszett brahminok}
 {1544}{}{Karavan}
-{1545}{}{13-as Menedek}
+{1545}{}{Mened√©k 13}
 {1546}{}{Kamu 13-as Menedek}
 {1547}{}{Veletlenszeru esemeny}
-{1548}{}{Istallo}
+{1548}{}{Ist√°ll√≥}
 {1549}{}{Falu}
 {1550}{}{Slaver Camp}
 {1551}{}{Hubologist Stash}
@@ -643,8 +643,8 @@
 {1553}{}{Safe House}
 {1554}{}{Safe House}
 {1555}{}{RP Easter Egg Encounter}
-{1556}{}{Kereskedı}
-{1557}{}{Kereskedı}
+{1556}{}{Keresked≈ë}
+{1557}{}{Keresked≈ë}
 {1558}{}{Shi Submarine}
 {1559}{}{Abandoned House}
 {1560}{}{Gecko Enclave Patrol}

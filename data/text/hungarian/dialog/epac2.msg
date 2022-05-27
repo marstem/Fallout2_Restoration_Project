@@ -48,12 +48,12 @@
 {311}{}{What kind of help do you need?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
 {321}{}{Hell yeah I would!}
-{322}{}{Hogyne.}
+{322}{}{Persze.}
 {323}{}{I think I'll pass.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
  wandering into this facility. It's bound to happen again within a century or two. Goodbye.}
 {340}{}{Hello again. I don't suppose you've reconsidered my offer of helping me to test an experimental weapon?}
-{341}{}{Nem, kösz. Elnézést.}
+{341}{}{Nem, kÃ¶sz. ElnÃ©zÃ©st.}
 {342}{}{Alright. Sure.}
 {350}{}{Excellent! You're the perfect candidate. You see, in an effort to help the military become more "environmentally
  friendly", I developed a new weapon that requires no ammo, as it runs completely on *light*. I call it, the
@@ -72,16 +72,16 @@
 {390}{}{Ah, welcome back. Have you gotten a chance to test the Solar Scorcher?}
 {391}{}{Sure did. It scorched the hell out of things.}
 {392}{}{Sure did, but the piece of shit broke on me. I had to trash it.}
-{393}{}{Nem, még nem.}
+{393}{}{Nem, mÃ©g nem.}
 {394}{}{I'll get around to it.}
 {400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
  ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}
-{401}{}{Köszönöm!}
+{401}{}{KÃ¶szÃ¶nÃ¶m!}
 {402}{}{Good, because I didn't plan on giving it back anyway.}
 {410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
  sadly.] Anyway, thanks for assisting me.}
-{411}{}{Ahogy gondolja.}
-{412}{}{Nem gond.}
+{411}{}{JÃ³l van, jÃ³l van...}
+{412}{}{Nem problÃ©ma.}
 {420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
 {421}{}{[End.]}
 {500}{}{You fix Hologram 00000.}

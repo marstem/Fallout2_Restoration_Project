@@ -28,13 +28,13 @@
 {401}{}{I think I just might. I have some questions though.}
 {402}{}{Thanks. I think I'll go do that now.}
 {500}{}{I am at your service. What would you like to know?}
-{501}{}{Mit tudsz mondani nekem errıl a v·rosrÛl?}
+{501}{}{Mit tudna mondani err≈ël a helyr≈ël?}
 {502}{}{You seem to be very poetic in your preaching. Any reason for this?}
 {503}{}{Nevermind. Take care.}
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
  visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
  this old monastery not long after the great Flame Deluge.}
-{601}{}{Folytasd!}
+{601}{}{Folytassa, k√©rem!}
 {602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
  here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
  in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
@@ -45,6 +45,6 @@
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
 {701}{}{Fair enough. Another question.}
 {800}{}{It is good to see you again }
-{801}{}{. Mit tehetek Èrted?}
-{802}{}{Volna nÈh·ny kÈrdÈsem.}
+{801}{}{. Mit tehetek √©rted?}
+{802}{}{Volna n√©h√°ny k√©rd√©sem.}
 {803}{}{Nothing. See you around.}

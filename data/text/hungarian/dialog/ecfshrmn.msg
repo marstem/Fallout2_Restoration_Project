@@ -1,26 +1,24 @@
 {100}{}{You see a Fisherman.}
-{101}{}{…pp idıben ÈrkeztÈl, hogy saj·t szemeddel l·sd a Tenger IstennıjÈnek ·ld·s·t.}
-{102}{}{[TOV¡BB]}
+{101}{}{√âpp id≈ëben √©rkezt√©l, hogy saj√°t szemeddel l√°sd a Tenger Istenn≈ëj√©nek √°ld√°s√°t.}
+{102}{}{[TOV√ÅBBI LEHET≈êS√âG]}
 {103}{}{}
-{104}{}{Minden nagy vihar elıtt l·ndzs·kat hajÌtunk a tengerbe, hogy megmutassuk az elemeknek a b·tors·gunkat. Ha mÈltÛnak tal·ltatunk, az Istennı gy¸mˆlccsel aj·ndÈkoz meg minket.}
-{105}{}{When the season of storms begins, we throw Broc flowers out on the sea with the tide. After
- the Goddess works her magic, she returns the Broc flowers as the rare Xander root. }
-{106}{}{We offer tribute to the Goddess of the Sea each year in the form of Xander root. If the
- Goddess deems us worthy, she will turn the Xander root into Broc flowers. }
-{107}{}{Minden arat·s ut·n ·ldozatot mutatunk be a Tenger IstennıjÈnek, hogy vigy·zzon r·nk Ès vÈdjen minket. ¡hÌtatunkat minden Èvben l·ndzs·kkal jutalmazza, melyeket a hull·mok vetnek partra. Ez a jel, hogy figyelni fog r·nk.}
-{108}{}{L·thatn·m, mivel aj·ndÈkozott meg titeket az Istennı?}
-{109}{}{Ah...}
-{110}{}{Itt l·thatod, ami a magass·gos istennı ebben az Èvben adott nek¸nk. SzÌvesen megosztjuk veled az ı ·ld·s·t, megfelelı ellenÈrtÈkÈrt.}
+{104}{}{Minden nagy vihar el≈ëtt l√°ndzs√°kat haj√≠tunk a tengerbe, hogy megmutassuk az elemeknek a b√°tors√°gunkat. Ha m√©lt√≥nak tal√°ltatunk, az Istenn≈ë gy√ºm√∂lccsel aj√°nd√©koz meg minket.}
+{105}{}{Az viharos √©vszak kezdetekor broc-vir√°gokat sz√≥runk a tengerbe dag√°ly idej√©n. Az Istenn≈ë m√°gi√°j√°nak hat√°s√°ra a vir√°gok helyett nagyon ritka xander gy√∂kereket sodornak partra a hull√°mok.}
+{106}{}{Minden √©vben xander gy√∂k√©r √°ldozatot mutatunk be a Tenger Istenn≈ëj√©nek. Ha az √°ldozat elfogadtatik, az Istenn≈ë √°tv√°ltoztatja a gy√∂kereket broc vir√°gg√°. }
+{107}{}{Minden arat√°s ut√°n √°ldozatot mutatunk be a Tenger Istenn≈ëj√©nek, hogy vigy√°zzon r√°nk √©s v√©djen minket. √Åh√≠tatunkat minden √©vben l√°ndzs√°kkal jutalmazza, melyeket a hull√°mok vetnek partra. Ez a jel, hogy figyelni fog r√°nk.}
+{108}{}{L√°thatn√°m, mivel aj√°nd√©kozott meg titeket az Istenn≈ë?}
+{109}{}{Uh!}
+{110}{}{Itt l√°thatod, ami a magass√°gos istenn≈ë ebben az √©vben adott nek√ºnk. Sz√≠vesen megosztjuk veled az ≈ë √°ld√°s√°t, megfelel≈ë ellen√©rt√©k√©rt.}
 {111}{}{Junk [$10]}
-{112}{}{LÈzerpisztoly [10000]}
+{112}{}{L√©zerpisztoly [10000]}
 {113}{}{Sharpened sticks [$40]}
 {114}{}{Fruit [$5]}
 {115}{}{Xander [$20]}
 {116}{}{Broc [$10]}
-{117}{}{Viszl·t!}
-{118}{}{[A tenger felÈ mutat.] Menj egyenesen elıre! Az Istennı szemÈlyesen akar tal·lkozni veled.}
-{119}{}{[VÈge]}
-{120}{}{A Tenger IstennıjÈnek ·ld·sa kÌsÈrjen utadon!}
-{121}{}{[VÈge]}
-{122}{}{[He frowns as you fail to produce the required sum of money.] Perhaps another time, then.}
-{123}{}{[VÈge]}
+{117}{}{Viszl√°t!}
+{118}{}{[A tenger fel√© mutat.] Menj egyenesen el≈ëre! Az Istenn≈ë szem√©lyesen akar tal√°lkozni veled.}
+{119}{}{[V√©ge]}
+{120}{}{A Tenger Istenn≈ëj√©nek √°ld√°sa k√≠s√©rjen utadon!}
+{121}{}{[V√©ge]}
+{122}{}{[Amikor l√°tja, hogy nincs el√©g p√©nzed, √∂sszeh√∫zza a szem√∂ld√∂k√©t.] Tal√°n majd legk√∂zelebb.}
+{123}{}{[V√©ge]}

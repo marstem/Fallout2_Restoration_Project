@@ -1,20 +1,20 @@
-{1}{}{%d ponttal nõtt az %s.}
-{2}{}{%d ponttal csökkent az %s.}
-{3}{}{Jobban érzed magad.}
+{1}{}{%d ponttal nÅ‘tt az %s.}
+{2}{}{%d ponttal csÃ¶kkent az %s.}
+{3}{}{Jobban vagy.}
 {4}{}{You suffer a fatal heart attack from drug overdose.}
-{5}{}{A nálad lévõ %s kifogyott.}
-{6}{}{A nálad lévõ %s bekapcsolt.}
-{7}{}{A nálad lévõ %s kikapcsolt.}
-{8}{}{Végighúzod magadon a Geiger-számlálót. A kijelzõ %d értéket mutat.}
-{9}{}{Ezt a tárgyat csak a kezedbõl tudod használni.}
-{10}{}{Semmi nem történik.}
-{50}{}{Nem úgy tûnik, mintha túl sokat csinált volna.}
-{500}{}{Nincs elég fény a tárgy feltöltéséhez.}
+{5}{}{A nÃ¡lad lÃ©vÅ‘ %s kifogyott.}
+{6}{}{A nÃ¡lad lÃ©vÅ‘ %s bekapcsolt.}
+{7}{}{A nÃ¡lad lÃ©vÅ‘ %s kikapcsolt.}
+{8}{}{VÃ©gighÃºzod magadon a Geiger-szÃ¡mlÃ¡lÃ³t. A kijelzÅ‘ %d Ã©rtÃ©ket mutat.}
+{9}{}{Ezt a tÃ¡rgyat csak a kezedbÅ‘l tudod hasznÃ¡lni.}
+{10}{}{Nem tÃ¶rtÃ©nt semmi.}
+{50}{}{Nem Ãºgy tÅ±nik, mintha tÃºl sokat csinÃ¡lt volna.}
+{500}{}{Nincs elÃ©g fÃ©ny a tÃ¡rgy feltÃ¶ltÃ©sÃ©hez.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{Weapon Damage}{Light}
-{801}{}{Közepes}
-{802}{}{Nehéz}
-{803}{}{Extrém}
-{820}{}{Rövid}
-{821}{}{Közepes}
-{822}{}{Hosszú}
+{800}{Weapon Damage}{KÃ¶nnyÅ±}
+{801}{}{KÃ¶zepes}
+{802}{}{NehÃ©z}
+{803}{}{ExtrÃ©m}
+{820}{}{RÃ¶vid}
+{821}{}{KÃ¶zepes}
+{822}{}{HosszÃº}

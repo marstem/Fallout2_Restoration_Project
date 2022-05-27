@@ -1,48 +1,48 @@
-{100}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
-{101}{}{Holden, a "B" Komfort Osztály vezetõje.}
-{102}{}{Egy Polgárt látsz világoskék overálban ami olyan, mint a Menedéklakó ruhája, csak nics szám a hátulján.}
+{100}{}{Ez a PolgÃ¡r vilÃ¡goskÃ©k kezeslÃ¡bast hord. Olyan mint a MenedÃ©klakÃ³Ã©, csak nincs rajta szÃ¡m.}
+{101}{}{Holden, a "B" Komfort OsztÃ¡ly vezetÅ‘je.}
+{102}{}{Ez a PolgÃ¡r vilÃ¡goskÃ©k kezeslÃ¡bast hord. Olyan mint a MenedÃ©klakÃ³Ã©, csak nincs rajta szÃ¡m.}
 {103}{}{::tapsol::}
-{104}{}{Itt a hõs! Nézzétek!}
-{105}{}{Atya ég! Itt a hõs, Menedékvárosban!}
-{106}{}{Jó napot, Kapitány.}
-{107}{}{Menedékváros mindenek felett, Kapitány.}
-{108}{}{Jó napot, Polgártárs!}
-{109}{}{Menedékváros mindenek felett, Polgártárs.}
-{110}{}{Egy mutáns! Õrség! Õrség!!!}
-{111}{}{Egy ghoul! Õrség! Õrség!!!}
-{112}{}{Lássuk csak ... három stimpakk, egy doboz Rad-X.}
-{113}{}{Randal még mindig hiányolja a leltár-jegyzéket.}
-{114}{}{Lássuk csak! Át kell nézni a készletet, megcsinálni a leltárt, le kell ellenõrizni a listákat, aztán felvinni a gépre.}
-{115}{}{Pótolni kell az elhasznált elsõsegély csomagokat.}
-{119}{}{Sajnálom, de a "B" Komfort Osztály este zárva tart.}
-{120}{}{Gyere vissza reggel! Zárva vagyunk.}
-{121}{}{Most épp leltározok. Holnap nyitva leszünk.}
-{122}{}{Segíthetek, Kapitány?}
-{123}{}{Segíthetek, Polgártárs?}
+{104}{}{NÃ©zzÃ©tek! A hÅ‘sÃ¼nk!}
+{105}{}{Emberek! A hÅ‘sÃ¼nk itt van MenedÃ©kvÃ¡rosban!}
+{106}{}{JÃ³ napot, KapitÃ¡ny.}
+{107}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny!}
+{108}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{109}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{110}{}{Egy mutÃ¡ns! ÅrsÃ©g! ÅrsÃ©g!!!}
+{111}{}{Egy ghoul! ÅrsÃ©g! ÅrsÃ©g!!!}
+{112}{}{LÃ¡ssuk csak ... hÃ¡rom stimpakk, egy doboz Rad-X.}
+{113}{}{Randal mÃ©g mindig hiÃ¡nyolja a leltÃ¡r-jegyzÃ©ket.}
+{114}{}{LÃ¡ssuk csak! Ãt kell nÃ©zni a kÃ©szletet, megcsinÃ¡lni a leltÃ¡rt, le kell ellenÅ‘rizni a listÃ¡kat, aztÃ¡n felvinni a gÃ©pre.}
+{115}{}{PÃ³tolni kell az elhasznÃ¡lt elsÅ‘segÃ©ly csomagokat.}
+{119}{}{SajnÃ¡lom, de a "B" Komfort OsztÃ¡ly este zÃ¡rva tart.}
+{120}{}{Gyere vissza reggel! ZÃ¡rva vagyunk.}
+{121}{}{Most Ã©pp leltÃ¡rozok. Holnap nyitva leszÃ¼nk.}
+{122}{}{SegÃ­thetek, KapitÃ¡ny?}
+{123}{}{SegÃ­thetek, PolgÃ¡rtÃ¡rs?}
 {124}{}{Igen? Mit akarsz?}
 {125}{}{Mida... karsz.}
-{126}{}{[Elcsoszogsz]}
-{127}{}{Mi ez a hely tulajdonképpen?}
-{128}{}{Láthatnám az áruját?}
-{129}{}{Kösz, egyelõre elleszek magam is.}
-{130}{}{Nagyszerû! Megint egy ostoba Kívülálló. Õrség! Van itt egy fickó, akit ki kellene kísérni.}
-{131}{}{NEM SZERET ÕRT. TE NYÚVADNI KI}
-{132}{}{*Szipp* Én MEGY az ÕRÖK}
-{133}{}{Tudnod kell, hogy ez itt nem a piac, fiam. Legközelebb Boldog Harry boltjában vásárolj!}
-{134}{}{Öö, köszi.}
-{135}{}{Ez itt nem... a piac?! Bocsánat, hülye vagyok, szegény apámtól örököltem. Na, tûnjünk innen!}
-{136}{}{Menedékváros mindenek felett, Polgártárs!}
-{137}{}{Menedékváros mindenek felett, Kapitány!}
-{138}{}{Menedékváros mindenek felett, Polgártárs.}
-{139}{}{Jó napot, Polgártárs!}
-{140}{}{Ez? Ez a "B" Komfort Osztály és Menedékváros gyógyszer ellátásával foglalkozunk. Én Holden vagyok, az Osztály vezetõje. Miben lehetek a segítségedre, Polgártárs?}
-{141}{}{Ez itt a "B" Komfort Osztály és Menedékváros gyógyszer ellátásával foglalkozunk. Ezt kerested?}
-{142}{}{Láthatnám az áruját?}
-{143}{}{Igen. Láthatnám a készleteket?}
-{144}{}{Kösz, egyelõre elleszek magam is.}
-{145}{}{Talán. Viszlát!}
-{150}{}{Ez? Ez a "B" Komfort Osztály és Menedékváros gyógyszer ellátásával foglalkozunk. Én Holden vagyok, az Osztály vezetõje. Miben lehetek a segítségedre, Kapitány?}
-{151}{}{Hé! Azt hagyd békén!}
-{152}{}{Elég! Mars ki innen!}
-{153}{}{Köszi.}
-{154}{}{[tovább]}
+{126}{}{[TovÃ¡bbÃ¡llsz]}
+{127}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{128}{}{VÃ¡sÃ¡rolni szeretnÃ©k.}
+{129}{}{TÅ‘led? Semmit.}
+{130}{}{NagyszerÅ±! Megint egy ostoba KÃ­vÃ¼lÃ¡llÃ³. ÅrsÃ©g! Van itt egy fickÃ³, akit ki kellene kÃ­sÃ©rni.}
+{131}{}{NEM SZERET ÅRT. TE NYÃšVADNI KI}
+{132}{}{*Szipp* Ã‰n MEGY az ÅRÃ–K}
+{133}{}{Tudnod kell, hogy ez itt nem a piac, fiam. LegkÃ¶zelebb Boldog Harry boltjÃ¡ban vÃ¡sÃ¡rolj!}
+{134}{}{Ã–Ã¶, kÃ¶szÃ¶net...}
+{135}{}{Ez itt nem... a piac?! BocsÃ¡nat, hÃ¼lye vagyok, szegÃ©ny apÃ¡mtÃ³l Ã¶rÃ¶kÃ¶ltem. Na, tÅ±njÃ¼nk innen!}
+{136}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{137}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny!}
+{138}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{139}{}{JÃ³ napot, PolgÃ¡rtÃ¡rs!}
+{140}{}{Ez? Ez a "B" Komfort OsztÃ¡ly Ã©s MenedÃ©kvÃ¡ros gyÃ³gyszer ellÃ¡tÃ¡sÃ¡val foglalkozunk. Ã‰n Holden vagyok, az OsztÃ¡ly vezetÅ‘je. Miben lehetek a segÃ­tsÃ©gedre, PolgÃ¡rtÃ¡rs?}
+{141}{}{Ez itt a "B" Komfort OsztÃ¡ly Ã©s MenedÃ©kvÃ¡ros gyÃ³gyszer ellÃ¡tÃ¡sÃ¡val foglalkozunk. Ezt kerested?}
+{142}{}{VÃ¡sÃ¡rolni szeretnÃ©k.}
+{143}{}{Igen. LÃ¡thatnÃ¡m a kÃ©szleteket?}
+{144}{}{TÅ‘led? Semmit.}
+{145}{}{TalÃ¡n. ViszlÃ¡t!}
+{150}{}{Ez? Ez a "B" Komfort OsztÃ¡ly Ã©s MenedÃ©kvÃ¡ros gyÃ³gyszer ellÃ¡tÃ¡sÃ¡val foglalkozunk. Ã‰n Holden vagyok, az OsztÃ¡ly vezetÅ‘je. Miben lehetek a segÃ­tsÃ©gedre, KapitÃ¡ny?}
+{151}{}{HÃ©! Azt hagyd bÃ©kÃ©n!}
+{152}{}{ElÃ©g! Mars ki innen!}
+{153}{}{KÃ¶sz.}
+{154}{}{[tovÃ¡bb]}

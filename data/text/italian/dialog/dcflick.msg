@@ -2,7 +2,7 @@
 {150}{}{Vedi Flick. Si sta dando una prolungata grattata al pacco.}
 {151}{}{Vedi un tipo poco pulito con un brutto tic facciale.}
 {200}{}{Fora dae bae, goldon.}
-{201}{}{Ehi, digo a ti! Si', ti. Fora!}
+{201}{}{Ehi, digo a ti! Si', ti. Fora.}
 {202}{}{Ti xe sordo o cossa?}
 {203}{}{Che problemi ti ga, eh?}
 {204}{}{Fora dae bae.}
@@ -18,7 +18,7 @@
 {243}{}{That did it. See you around, Flick.}
 {260}{}{Mi so un mercante, cossa ti credi? 'na specie de bon Samurai-tano.}
 {261}{}{Come?}
-{262}{}{Certo, ehm, beh…lascia che ti chieda qualcos'altro.}
+{262}{}{Certo, ehm, behâ€¦lascia che ti chieda qualcos'altro.}
 {263}{}{Ah, oh. OK. Ci vediamo, Flick.}
 {280}{}{Vendo per i miei fioi.}
 {281}{}{Vendi fiori?}

@@ -1,30 +1,30 @@
-{100}{}{Egy katona szolgálati egyenruhában.}
-{101}{}{Valami X fokozatú PFC technikus.}
-{102}{}{Egy katonai egyenruhát viselõ fickó. Mondjuk inkább technikusnak néz ki, mint katonának.}
-{103}{}{Hányszor kell nektek elmondanom, idióták? Ne így csináljátok!}
-{104}{}{Nincs valami, amire lövöldözhetnél?}
-{105}{}{Üdvözlet, katona!}
-{106}{}{Ki a franc vagy te? Õrség!}
-{107}{}{Mi a faszom ez? Behatoló a bázison!}
-{108}{}{Picsába! Hol a fegyverem?}
-{109}{}{Nézd, itt már kerestem és nem találtam semmit.}
-{110}{}{Anyááám, ezek a hamis riadók megõrjítenek!}
-{111}{}{Nagyszerû, újabb próbariadó! Most aztán végig kell hallgatnunk az egész hangzavart és nekünk is kell a rendszert visszaállítani. }
-{112}{}{Picsába! Oda nézzetek! Kapjátok el a kémet!}
-{113}{}{Mi van? Megtámadtak! Hol van a fegyverem?}
-{114}{}{Lövöldözés? Senki sem mondta, hogy lövöldözés is lesz!}
-{115}{}{Ki a franc vagy te? Õrség!}
-{116}{}{Te nem vagy enklávés! Õrség!}
-{117}{}{Behatoló! Szabotõr! Ott van!}
-{118}{}{Hé, ne buzeráld a terveket! Dolgozom.}
-{119}{}{Hol a francba' van a teleszóp alkatrésze?}
-{120}{}{Kurva kóklerek, mindig szétbasszák a gépeket!}
-{121}{}{Képben vagy ám... Most viszont ne zavarj, más dolgom van!}
-{122}{}{Személyes ügyeket nem lehet innen intézni, katona.}
-{123}{}{Bocs, nem segíthetek.}
-{124}{}{Dolgod van itt? Ha nem, akkor tûnés a picsába!}
-{125}{}{Ez lezárt terület, katona.}
-{126}{}{El az utamból, katona!}
-{127}{}{Mi a szar? Mi történik odafenn?}
-{128}{}{Picsába! Betörtek ide!}
-{129}{}{Micsoda bohóc társaság! Biztos megint csak hamis riadó!}
+{100}{}{Egy katona szolgÃ¡lati egyenruhÃ¡ban.}
+{101}{}{Valami X fokozatÃº PFC technikus.}
+{102}{}{Egy katonai egyenruhÃ¡t viselÅ‘ fickÃ³. Mondjuk inkÃ¡bb technikusnak nÃ©z ki, mint katonÃ¡nak.}
+{103}{}{HÃ¡nyszor kell nektek elmondanom, idiÃ³tÃ¡k? Ne Ã­gy csinÃ¡ljÃ¡tok!}
+{104}{}{Nincs valami, amire lÃ¶vÃ¶ldÃ¶zhetnÃ©l?}
+{105}{}{ÃœdvÃ¶zlet, katona!}
+{106}{}{Ki a franc vagy te? ÅrsÃ©g!}
+{107}{}{Mi a faszom ez? BehatolÃ³ a bÃ¡zison!}
+{108}{}{PicsÃ¡ba! Hol a fegyverem?}
+{109}{}{NÃ©zd, itt mÃ¡r kerestem Ã©s nem talÃ¡ltam semmit.}
+{110}{}{AnyÃ¡Ã¡Ã¡m, ezek a hamis riadÃ³k megÅ‘rjÃ­tenek!}
+{111}{}{NagyszerÅ±, Ãºjabb prÃ³bariadÃ³! Most aztÃ¡n vÃ©gig kell hallgatnunk az egÃ©sz hangzavart Ã©s nekÃ¼nk is kell a rendszert visszaÃ¡llÃ­tani. }
+{112}{}{PicsÃ¡ba! Oda nÃ©zzetek! KapjÃ¡tok el a kÃ©met!}
+{113}{}{Mi van? MegtÃ¡madtak! Hol van a fegyverem?}
+{114}{}{LÃ¶vÃ¶ldÃ¶zÃ©s? Senki sem mondta, hogy lÃ¶vÃ¶ldÃ¶zÃ©s is lesz!}
+{115}{}{Ki a franc vagy te? ÅrsÃ©g!}
+{116}{}{Te nem vagy enklÃ¡vÃ©s! ÅrsÃ©g!}
+{117}{}{BehatolÃ³! SzabotÅ‘r! Ott van!}
+{118}{}{HÃ©, ne buzerÃ¡ld a terveket! Dolgozom.}
+{119}{}{Hol a francba' van a teleszÃ³p alkatrÃ©sze?}
+{120}{}{Kurva kÃ³klerek, mindig szÃ©tbasszÃ¡k a gÃ©peket!}
+{121}{}{KÃ©pben vagy Ã¡m... Most viszont ne zavarj, mÃ¡s dolgom van!}
+{122}{}{SzemÃ©lyes Ã¼gyeket nem lehet innen intÃ©zni, katona.}
+{123}{}{Bocs, nem segÃ­thetek.}
+{124}{}{Dolgod van itt? Ha nem, akkor tÅ±nÃ©s a picsÃ¡ba!}
+{125}{}{Ez lezÃ¡rt terÃ¼let, katona.}
+{126}{}{El az utambÃ³l, katona!}
+{127}{}{Mi a szar? Mi tÃ¶rtÃ©nik odafenn?}
+{128}{}{PicsÃ¡ba! BetÃ¶rtek ide!}
+{129}{}{Micsoda bohÃ³c tÃ¡rsasÃ¡g! Biztos megint csak hamis riadÃ³!}

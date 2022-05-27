@@ -1,4 +1,4 @@
-{100}{}{Ez egy igen ramaty kinézetû kutya. Bármelyik pillanatban kimúlhat.}
-{101}{}{Ez az a rohadt, balszerencsét hozó dög.}
-{102}{}{Ennek a kutyának sok helyen hiányzik a szõre, és leginkább egy négy lábon járó csontvázra hasonlít. Ráadásul úgy tûnik, üvegszeme is van.}
-{103}{}{A kutya láthatólag kedvel téged. Ez nem jó jel!}
+{100}{}{Ez egy igen ramaty kinÃ©zetÅ± kutya. BÃ¡rmelyik pillanatban kimÃºlhat.}
+{101}{}{Ez az a rohadt, balszerencsÃ©t hozÃ³ dÃ¶g.}
+{102}{}{Ennek a kutyÃ¡nak sok helyen hiÃ¡nyzik a szÅ‘re, Ã©s leginkÃ¡bb egy nÃ©gy lÃ¡bon jÃ¡rÃ³ csontvÃ¡zra hasonlÃ­t. RÃ¡adÃ¡sul Ãºgy tÅ±nik, Ã¼vegszeme is van.}
+{103}{}{A kutya lÃ¡thatÃ³lag kedvel tÃ©ged. Ez nem jÃ³ jel!}

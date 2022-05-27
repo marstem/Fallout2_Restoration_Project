@@ -1,6 +1,6 @@
-{100}{}{Egy Hal·lkarmot l·tsz.}
-{101}{}{Hal·lkarom ır.}
-{102}{}{Egy ·tlagos Hal·lkarom. ”ri·si teremtmÈny, erıs testtel, Èles fogakkal Ès karmokkal felvÈrtezve..}
-{103}{}{HellÛ!}
-{104}{}{HellÛ! Nem beszÈlni. Lenni ırszolg·latban.}
-{105}{}{Falka ellensÈgnek kell meghalni!}
+{100}{}{Hal√°lkarom.}
+{101}{}{Hal√°lkarom ≈ër.}
+{102}{}{Egy tipikus Hal√°lkarmot l√°tsz. A teremtm√©nynek hatalmas, er≈ëteljes teste, √©les fogai, √©s hossz√∫ karmai vannak.}
+{103}{}{Hell√≥!}
+{104}{}{Hell√≥! Nem besz√©lni. Lenni ≈ërszolg√°latban.}
+{105}{}{Falka ellens√©gnek kell meghalni!}

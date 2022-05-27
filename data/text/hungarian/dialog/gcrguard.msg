@@ -1,61 +1,61 @@
-{100}{}{Az illetõnek rendesen megégett a bõre. Úgy tûnik, õrszolgálatot lát itt el.}
-{101}{}{Ezt a ghoult szemlátomást õrnek osztották be ide.}
-{102}{}{Az illetõnek rendesen megégett a bõre a sugárzástól. Ekkora dózistól rendszerint bárki meghalna, de õ egész jól elvan. Ha minden igaz, õrszolgálatot lát el.}
-{110}{}{Tanácsos lenne felhagyni a lopással.}
-{111}{}{Egyik simabõrû olyan, mint a másik! Jobb lenne, ha nem lopkodnál többet!}
+{100}{}{Az illetÅ‘nek rendesen megÃ©gett a bÅ‘re. Ãšgy tÅ±nik, Å‘rszolgÃ¡latot lÃ¡t itt el.}
+{101}{}{Ezt a ghoult szemlÃ¡tomÃ¡st Å‘rnek osztottÃ¡k be ide.}
+{102}{}{Az illetÅ‘nek rendesen megÃ©gett a bÅ‘re a sugÃ¡rzÃ¡stÃ³l. Ekkora dÃ³zistÃ³l rendszerint bÃ¡rki meghalna, de Å‘ egÃ©sz jÃ³l elvan. Ha minden igaz, Å‘rszolgÃ¡latot lÃ¡t el.}
+{110}{}{TanÃ¡csos lenne felhagyni a lopÃ¡ssal.}
+{111}{}{Egyik simabÅ‘rÅ± olyan, mint a mÃ¡sik! Jobb lenne, ha nem lopkodnÃ¡l tÃ¶bbet!}
 {112}{}{Gondolod, hogy valamidet a zsebemben felejtetted?}
-{113}{}{Szüntesd ezt be nagyon gyorsan, különben én szüntetlek be téged!}
-{114}{}{Ha a helyedben lennék, nem próbálkoznék újra ezzel.}
-{115}{}{A kezed levágása csak a kezdet lenne.}
-{116}{}{Nézd csak, a kis barátságos!}
-{117}{}{Próbálok magyarázatot találni. Nem akarsz legalább egyet mondani?}
-{120}{}{Mondd már meg, mi a fészkes fenét settenkedsz itt!}
-{121}{}{Ha lopakodáson járna az eszed, ennél sokkal halkabban kéne csinálnod.}
-{122}{}{Ó, a kis settenkedõ!}
-{123}{}{Látom, jól megy ez neked.}
-{124}{}{Gagyerák! Járj már normális módon!!!}
-{125}{}{Na, egy újabb szerencsétlen a Hülye Járások Minisztériumából...}
-{126}{}{Hát nem sikerült elbújnod. Az a helyzet, hogy most széthasítom a fejed.}
-{127}{}{Szerinted ez azt jelenti, hogy te sem látsz engem?}
-{128}{}{Ez mi volt? Ez itt nem a Most Mutasd Meg! Teljes koncentrációt igényel.}
-{129}{}{Te most tényleg halkan akarsz itt közlekedni?}
-{130}{}{Ez az ajtó elzárt területre vezet. A sárga beléptetõkártya nélkül nem mehetsz át.}
-{131}{}{Ha át akarsz menni, szerezz egy sárga beléptetõkártyát.}
-{132}{}{Ha igényelni akarsz egy sárga beléptetõkártyát, beszélj Harolddal!}
-{133}{}{Ha nincs beléptetõkártya, nincs átjárás.}
-{134}{}{Hellóka, a sárga beléptetõkártya nélkül át nem mész ezen az ajtón.}
-{140}{}{Örülök, hogy szereztél engedélyt.}
-{141}{}{Üdv, simabûrû!}
-{142}{}{Ha bármi baj történik, téged veszünk elõ.}
-{143}{}{Jobb, ha nyitva tartod a szemed. A te fajtádnak egy kicsit meleg van itt.}
-{144}{}{Hát, az a beléptetõkártya eléggé megfelelõnek tûnik.}
-{150}{}{Ha nincs beléptetõkártya, nincs átjárás.}
-{151}{}{Ez elzárt terület.}
-{152}{}{Jobb ha semmi oktalanságon nem töröd a fejed itt!}
-{153}{}{Ha át akarsz jutni ezen az ajtón, kéne szerezned egy piros beléptetõkártyát.}
-{154}{}{Ha be akarsz jutni ide, kérdd meg Haroldot, hogy adjon egy piros beléptetõkártyát!}
+{113}{}{SzÃ¼ntesd ezt be nagyon gyorsan, kÃ¼lÃ¶nben Ã©n szÃ¼ntetlek be tÃ©ged!}
+{114}{}{Ha a helyedben lennÃ©k, nem prÃ³bÃ¡lkoznÃ©k Ãºjra ezzel.}
+{115}{}{A kezed levÃ¡gÃ¡sa csak a kezdet lenne.}
+{116}{}{NÃ©zd csak, a kis barÃ¡tsÃ¡gos!}
+{117}{}{PrÃ³bÃ¡lok magyarÃ¡zatot talÃ¡lni. Nem akarsz legalÃ¡bb egyet mondani?}
+{120}{}{Mondd mÃ¡r meg, mi a fÃ©szkes fenÃ©t settenkedsz itt!}
+{121}{}{Ha lopakodÃ¡son jÃ¡rna az eszed, ennÃ©l sokkal halkabban kÃ©ne csinÃ¡lnod.}
+{122}{}{Ã“, a kis settenkedÅ‘!}
+{123}{}{LÃ¡tom, jÃ³l megy ez neked.}
+{124}{}{GagyerÃ¡k! JÃ¡rj mÃ¡r normÃ¡lis mÃ³don!!!}
+{125}{}{Na, egy Ãºjabb szerencsÃ©tlen a HÃ¼lye JÃ¡rÃ¡sok MinisztÃ©riumÃ¡bÃ³l...}
+{126}{}{HÃ¡t nem sikerÃ¼lt elbÃºjnod. Az a helyzet, hogy most szÃ©thasÃ­tom a fejed.}
+{127}{}{Szerinted ez azt jelenti, hogy te sem lÃ¡tsz engem?}
+{128}{}{Ez mi volt? Ez itt nem a Most Mutasd Meg! Teljes koncentrÃ¡ciÃ³t igÃ©nyel.}
+{129}{}{Te most tÃ©nyleg halkan akarsz itt kÃ¶zlekedni?}
+{130}{}{Ez az ajtÃ³ elzÃ¡rt terÃ¼letre vezet. A sÃ¡rga belÃ©ptetÅ‘kÃ¡rtya nÃ©lkÃ¼l nem mehetsz Ã¡t.}
+{131}{}{Ha Ã¡t akarsz menni, szerezz egy sÃ¡rga belÃ©ptetÅ‘kÃ¡rtyÃ¡t.}
+{132}{}{Ha igÃ©nyelni akarsz egy sÃ¡rga belÃ©ptetÅ‘kÃ¡rtyÃ¡t, beszÃ©lj Harolddal!}
+{133}{}{Ha nincs belÃ©ptetÅ‘kÃ¡rtya, nincs Ã¡tjÃ¡rÃ¡s.}
+{134}{}{HellÃ³ka, a sÃ¡rga belÃ©ptetÅ‘kÃ¡rtya nÃ©lkÃ¼l Ã¡t nem mÃ©sz ezen az ajtÃ³n.}
+{140}{}{Ã–rÃ¼lÃ¶k, hogy szereztÃ©l engedÃ©lyt.}
+{141}{}{Ãœdv, simabÅ±rÅ±!}
+{142}{}{Ha bÃ¡rmi baj tÃ¶rtÃ©nik, tÃ©ged veszÃ¼nk elÅ‘.}
+{143}{}{Jobb, ha nyitva tartod a szemed. A te fajtÃ¡dnak egy kicsit meleg van itt.}
+{144}{}{HÃ¡t, az a belÃ©ptetÅ‘kÃ¡rtya elÃ©ggÃ© megfelelÅ‘nek tÅ±nik.}
+{150}{}{Ha nincs belÃ©ptetÅ‘kÃ¡rtya, nincs Ã¡tjÃ¡rÃ¡s.}
+{151}{}{Ez elzÃ¡rt terÃ¼let.}
+{152}{}{Jobb ha semmi oktalansÃ¡gon nem tÃ¶rÃ¶d a fejed itt!}
+{153}{}{Ha Ã¡t akarsz jutni ezen az ajtÃ³n, kÃ©ne szerezned egy piros belÃ©ptetÅ‘kÃ¡rtyÃ¡t.}
+{154}{}{Ha be akarsz jutni ide, kÃ©rdd meg Haroldot, hogy adjon egy piros belÃ©ptetÅ‘kÃ¡rtyÃ¡t!}
 {160}{}{Tartsd nyitva a szemed!}
-{161}{}{Légy üdvözölve az irányító részlegben.}
-{162}{}{Ne nyúlj semmihez!}
+{161}{}{LÃ©gy Ã¼dvÃ¶zÃ¶lve az irÃ¡nyÃ­tÃ³ rÃ©szlegben.}
+{162}{}{Ne nyÃºlj semmihez!}
 {163}{}{If something goes wrong in there, we'll come looking for you.}
-{164}{}{Ha csak egyetlen probléma is felmerül... téged teszünk felelõssé.}
-{170}{}{Elég meglepõ, hogy egy hozzád hasonló simabõrût itt látunk.}
-{171}{}{Látom, le szeretnél barnulni itt egy kicsit.}
-{172}{}{Mmm, nagyon bírom a háttérsugárzást. Te hogy vagy vele?}
-{173}{}{Ne nyúlj itt semmihez!}
-{174}{}{Fogd vissza magad, és akkor nem lesz itt semmi gond.}
-{180}{}{Engedély nélkül nem lehet itt semmit igényelni.}
-{181}{}{Igénylõlap nélkül nem lehet semmit kivinni innen.}
-{182}{}{Ha akarsz valamit, beszélj Jeremyvel, vagy Harolddal.}
-{183}{}{Engedély nélkül nem kerül ki innen semmi.}
-{184}{}{Ha nincs igénylõlap, nincs alkatrész.}
-{190}{}{Vigyázz minden mozdulatodra, simabõrû!}
-{191}{}{Nem zavar téged az itteni sugárzás?}
-{192}{}{Jól gondold meg, mit csinálsz itt!}
-{193}{}{Ha bármi elromlik, téged teszünk felelõssé!}
-{194}{}{Mosolyogj a biztonsági kamerákba...}
-{200}{}{Te mi a fenét csinálsz azzal az ajtóval?}
-{201}{}{Kopj le róla, és addig húzz el, amíg jókedvemben találsz!}
-{202}{}{Hát ez távolról sem tûnik beléptetõkártyának.}
-{203}{}{Ha újra megpróbálod, halál fia vagy!}
-{204}{}{Ha a jelenlétünkben próbálkozol ilyesmivel, zazább vagy, mint a sokéves átlag!}
+{164}{}{Ha csak egyetlen problÃ©ma is felmerÃ¼l... tÃ©ged teszÃ¼nk felelÅ‘ssÃ©.}
+{170}{}{ElÃ©g meglepÅ‘, hogy egy hozzÃ¡d hasonlÃ³ simabÅ‘rÅ±t itt lÃ¡tunk.}
+{171}{}{LÃ¡tom, le szeretnÃ©l barnulni itt egy kicsit.}
+{172}{}{Mmm, nagyon bÃ­rom a hÃ¡ttÃ©rsugÃ¡rzÃ¡st. Te hogy vagy vele?}
+{173}{}{Ne nyÃºlj itt semmihez!}
+{174}{}{Fogd vissza magad, Ã©s akkor nem lesz itt semmi gond.}
+{180}{}{EngedÃ©ly nÃ©lkÃ¼l nem lehet itt semmit igÃ©nyelni.}
+{181}{}{IgÃ©nylÅ‘lap nÃ©lkÃ¼l nem lehet semmit kivinni innen.}
+{182}{}{Ha akarsz valamit, beszÃ©lj Jeremyvel, vagy Harolddal.}
+{183}{}{EngedÃ©ly nÃ©lkÃ¼l nem kerÃ¼l ki innen semmi.}
+{184}{}{Ha nincs igÃ©nylÅ‘lap, nincs alkatrÃ©sz.}
+{190}{}{VigyÃ¡zz minden mozdulatodra, simabÅ‘rÅ±!}
+{191}{}{Nem zavar tÃ©ged az itteni sugÃ¡rzÃ¡s?}
+{192}{}{JÃ³l gondold meg, mit csinÃ¡lsz itt!}
+{193}{}{Ha bÃ¡rmi elromlik, tÃ©ged teszÃ¼nk felelÅ‘ssÃ©!}
+{194}{}{Mosolyogj a biztonsÃ¡gi kamerÃ¡kba...}
+{200}{}{Te mi a fenÃ©t csinÃ¡lsz azzal az ajtÃ³val?}
+{201}{}{Kopj le rÃ³la, Ã©s addig hÃºzz el, amÃ­g jÃ³kedvemben talÃ¡lsz!}
+{202}{}{HÃ¡t ez tÃ¡volrÃ³l sem tÅ±nik belÃ©ptetÅ‘kÃ¡rtyÃ¡nak.}
+{203}{}{Ha Ãºjra megprÃ³bÃ¡lod, halÃ¡l fia vagy!}
+{204}{}{Ha a jelenlÃ©tÃ¼nkben prÃ³bÃ¡lkozol ilyesmivel, zazÃ¡bb vagy, mint a sokÃ©ves Ã¡tlag!}

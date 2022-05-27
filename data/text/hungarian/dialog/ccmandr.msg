@@ -1,29 +1,29 @@
-{100}{}{Egy erõpáncélt viselõ egyén.}
-{101}{}{A navarrói bázisparancsnok.}
-{102}{}{Egy õrt látsz, aki az erõpáncél egy különös változatát viseli. A mellkasán van egy jel, amit nem tudsz hova tenni.}
-{103}{}{Kik ezek a fickók?... Riadó! Behatolók!}
-{104}{}{Nem érek rá a katonákkal társalogni. Lelépni!}
-{105}{}{Legfõbb ideje, hogy a föld alá kerülj!}
-{106}{}{Oké.}
-{107}{}{Megmondtam, hogy nincs idõm magára. Hagyja el az irodámat és csak akkor jöjjön vissza, ha én küldök magáért. Lelépni!}
-{108}{}{A felettesei parancsának megtagadása hazaárulás. Nincs idõm rögtönítélõ bíróságot felállítani, szóval az ügyet személyesen veszem a kezembe.}
-{109}{}{Oké.}
+{100}{}{Egy erÅ‘pÃ¡ncÃ©lt viselÅ‘ egyÃ©n.}
+{101}{}{A navarrÃ³i bÃ¡zisparancsnok.}
+{102}{}{Egy Å‘rt lÃ¡tsz, aki az erÅ‘pÃ¡ncÃ©l egy kÃ¼lÃ¶nÃ¶s vÃ¡ltozatÃ¡t viseli. A mellkasÃ¡n van egy jel, amit nem tudsz hova tenni.}
+{103}{}{Kik ezek a fickÃ³k?... RiadÃ³! BehatolÃ³k!}
+{104}{}{Nem Ã©rek rÃ¡ a katonÃ¡kkal tÃ¡rsalogni. LelÃ©pni!}
+{105}{}{LegfÅ‘bb ideje, hogy a fÃ¶ld alÃ¡ kerÃ¼ljÃ¶n!}
+{106}{}{OkÃ©.}
+{107}{}{Megmondtam, hogy nincs idÅ‘m magÃ¡ra. Hagyja el az irodÃ¡mat Ã©s csak akkor jÃ¶jjÃ¶n vissza, ha Ã©n kÃ¼ldÃ¶k magÃ¡Ã©rt. LelÃ©pni!}
+{108}{}{A felettesei parancsÃ¡nak megtagadÃ¡sa hazaÃ¡rulÃ¡s. Nincs idÅ‘m rÃ¶gtÃ¶nÃ­tÃ©lÅ‘ bÃ­rÃ³sÃ¡got felÃ¡llÃ­tani, szÃ³val az Ã¼gyet szemÃ©lyesen veszem a kezembe.}
+{109}{}{OkÃ©.}
 {110}{}{Baszd meg!}
-{111}{}{Az FBK itt van a szekrényemben. Mondd meg az ügyeletes tisztnek, lépjen kapcsolatba velem, ha már elzárta a kódkártyát. Lelépni!}
-{112}{}{Igen, uram!}
-{113}{}{Haladjon már katona, nincs idõm magával foglalkozni.}
-{114}{}{Igen, uram!}
-{115}{}{Hagyja békén a szekrényemet, különben szíjat hasítok a hátából!}
-{116}{}{Igen, uram!}
-{117}{}{Riadó van, és nem ismerem fel. Mutassa a papírjait, katona!}
-{118}{}{Milyen papírokat?}
+{111}{}{Az FBK itt van a szekrÃ©nyemben. Mondd meg az Ã¼gyeletes tisztnek, lÃ©pjen kapcsolatba velem, ha mÃ¡r elzÃ¡rta a kÃ³dkÃ¡rtyÃ¡t. LelÃ©pni!}
+{112}{}{Igenis, uram!}
+{113}{}{Haladjon mÃ¡r katona, nincs idÅ‘m magÃ¡val foglalkozni.}
+{114}{}{Igenis, uram!}
+{115}{}{Hagyja bÃ©kÃ©n a szekrÃ©nyemet, kÃ¼lÃ¶nben szÃ­jat hasÃ­tok a hÃ¡tÃ¡bÃ³l!}
+{116}{}{Igenis, uram!}
+{117}{}{RiadÃ³ van, Ã©s nem ismerem fel. Mutassa a papÃ­rjait, katona!}
+{118}{}{Milyen papÃ­rokat?}
 {119}{}{Kapd be!}
-{120}{}{Hát, úgy tûnik, nincsenek nálam...}
-{121}{}{Papírok? Ja, persze a papírok! Itt vannak, ni...}
-{122}{}{Rossz válasz! A katona mindig magánál hordja a papírjait! Ezt tudnia kellett volna!}
+{120}{}{HÃ¡t, Ãºgy tÅ±nik, nincsenek nÃ¡lam...}
+{121}{}{PapÃ­rok? Ja, persze a papÃ­rok! Itt vannak, ni...}
+{122}{}{Rossz vÃ¡lasz! A katona mindig magÃ¡nÃ¡l hordja a papÃ­rjait! Ezt tudnia kellett volna!}
 {123}{}{Baszd meg!}
-{124}{}{Hagyja békén a szekrényemet, különben szíjat hasítok a hátából!}
-{125}{}{Legfõbb ideje, hogy a föld alá kerülj!}
+{124}{}{Hagyja bÃ©kÃ©n a szekrÃ©nyemet, kÃ¼lÃ¶nben szÃ­jat hasÃ­tok a hÃ¡tÃ¡bÃ³l!}
+{125}{}{LegfÅ‘bb ideje, hogy a fÃ¶ld alÃ¡ kerÃ¼ljÃ¶n!}
 {200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
  for the Salvatores? }
 {201}{}{None of your business, asshole.}
@@ -34,7 +34,7 @@
 {210}{}{I don't have time for this bullshit. Guards! Kill this mutie!}
 {220}{}{So you're saying you're nothing more than a stray wasteland rat that happened to wander into one of our vertibirds?}
 {221}{}{Uh, yeah, pretty much . . . except for that part about me being a rat.}
-{222}{}{Így van!}
+{222}{}{Ãgy van!}
 {223}{}{No, I'm saying that this is all just a big misunderstanding. I don't know who you guys are, and I don't care.
  So if you don't mind, I'll be moving along now.}
 {230}{}{Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!}
@@ -50,8 +50,8 @@
 {270}{}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
  Kill this mutie!}
 {280}{}{Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?}
-{281}{}{Miért szólít még mindig mutánsnak?}
-{282}{}{Ki a fenék vagytok ti, srácok?}
+{281}{}{MiÃ©rt szÃ³lÃ­t mÃ©g mindig mutÃ¡nsnak?}
+{282}{}{Kik vagytok ti, srÃ¡cok?}
 {283}{}{Where am I? }
 {284}{}{How can I get some of that sweet armor?}
 {285}{}{Eleget hallottam.}

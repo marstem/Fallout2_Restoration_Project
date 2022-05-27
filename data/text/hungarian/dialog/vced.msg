@@ -1,67 +1,67 @@
-{100}{}{Egy foghíjas embert látsz koszos, kék pulóverben. Erõsen bûzlik a brahmintól.}
-{101}{}{Ed, a brahmin-kereskedõ.}
-{102}{}{Kibaszott brahminok! Abba nem hagynák a bõgést.}
-{103}{}{Esküszöm, hallottam, ahogy az egyik brahmin megszólalt. "Mondom, múúú!"... vagy valami ilyesmi.}
-{104}{}{Idén alacsony a brahmin ára.}
-{105}{}{Nem tudok rájönni, honnan lesz ez a sok brahminszar. Hirtelen csak úgy megjelenik.}
-{106}{}{Üdvözöllek, idegen. Ed vagyok, a helyi brahmin-kereskedõ. Segíthetek?}
-{107}{}{Good to see you again. What can I do you for?}
-{108}{}{Ismersz egy Vic nevû kereskedõt? Azt mondta, hogy ezt a kulacsot tõled vette.}
-{109}{}{Ismersz egy Vic nevû kereskedõt?}
-{110}{}{Az egyik társam, Vic azt állítja, hogy évekkel ezelõtt vett tõled egy kulacsot.}
-{111}{}{Eszedbe jutott már, honnan szerezted azt a kulacsot?}
-{112}{}{A Menedéket keresem.}
-{113}{}{Tudna mesélni Menedékvárosról?}
-{114}{}{Mit csinál itt, jóember?}
-{115}{}{Viszlát!}
+{100}{}{Egy foghÃ­jas embert lÃ¡tsz koszos, kÃ©k pulÃ³verben. ErÅ‘sen bÅ±zlik a brahmintÃ³l.}
+{101}{}{Ed, a brahmin-kereskedÅ‘.}
+{102}{}{Kibaszott brahminok! Abba nem hagynÃ¡k a bÅ‘gÃ©st.}
+{103}{}{EskÃ¼szÃ¶m, hallottam, ahogy az egyik brahmin megszÃ³lalt. "Mondom, mÃºÃºÃº!"... vagy valami ilyesmi.}
+{104}{}{IdÃ©n alacsony a brahmin Ã¡ra.}
+{105}{}{Nem tudok rÃ¡jÃ¶nni, honnan lesz ez a sok brahminszar. Hirtelen csak Ãºgy megjelenik.}
+{106}{}{ÃœdvÃ¶zÃ¶llek, idegen. Ed vagyok, a helyi brahmin-kereskedÅ‘. SegÃ­thetek?}
+{107}{}{Ãœdv, Ã¶rÃ¼lÃ¶k, hogy Ãºjra lÃ¡tlak. Mit tehetek Ã©rted?}
+{108}{}{Ismersz egy Vic nevÅ± kereskedÅ‘t? Azt mondta, hogy tÅ‘led vette ezt a kulacsot.}
+{109}{}{Ismersz egy Vic nevÅ± kereskedÅ‘t?}
+{110}{}{Az egyik tÃ¡rsam, Vic azt Ã¡llÃ­tja, hogy Ã©vekkel ezelÅ‘tt vett tÅ‘led egy kulacsot.}
+{111}{}{Eszedbe jutott mÃ¡r, hogy honnan szerezted a kulacsot?}
+{112}{}{MenedÃ©ket keresem.}
+{113}{}{Mi a vÃ©lemÃ©nyed MenedÃ©kvÃ¡rosrÃ³l?}
+{114}{}{Mivel foglalkozik itt?}
+{115}{}{ViszlÃ¡t!}
 {116}{}{Vic?}
-{117}{}{Eladtál neki egy kulacsot? Egy 13-as feliratút?}
-{118}{}{Semmi gond. Viszont mennem kell.}
-{119}{}{Nálad van? Talán felfrissítené az emlékezetem.}
-{120}{}{Mindegy. Másra lennék kíváncsi.}
-{121}{}{Talán elõkeríthetem. Késõbb visszajövök.}
-{122}{}{Hmm... igen, dereng valami. Egy kulacs? Miért érdekel?}
-{123}{}{Hmm... igen, dereng valami. Egy kopaszodó, dagadt fickó, bõr mellényben. Emlékszem rá. Mi van vele?}
-{124}{}{Elárulnád, honnan származik?}
-{125}{}{Azt mondta, eladtál neki egy kulacsot.}
-{126}{}{Egyszerû kíváncsiság. Kösz.}
-{127}{}{Õszintén szólva nem emlékszem pontosan, de azt hiszem, az egyik brahmin-karavánutam során szereztem.}
-{128}{}{Brahmin-karavánút?}
-{129}{}{Értem. Köszönöm a segítséget.}
-{130}{}{Amikor fiatalabb voltam, brahmin-karavánokat vezettem át a 'Nagy Körön'... Broken Hills, New Reno, Redding, Rejtek, Modoc és aztán vissza ide. Egy idõ után már túl veszélyessé vált az út, ezért letelepedtem itt.}
+{117}{}{EladtÃ¡l neki egy kulacsot? Egy 13-as feliratÃºt?}
+{118}{}{Felejtse el. Most mennem kell.}
+{119}{}{NÃ¡lad van? TalÃ¡n felfrissÃ­tenÃ© az emlÃ©kezetem.}
+{120}{}{Mindegy. MÃ¡sra lennÃ©k kÃ­vÃ¡ncsi.}
+{121}{}{TalÃ¡n elÅ‘kerÃ­thetem. KÃ©sÅ‘bb visszajÃ¶vÃ¶k.}
+{122}{}{Hmm... igen, dereng valami. Egy kulacs? MiÃ©rt Ã©rdekel?}
+{123}{}{Hmm... igen, dereng valami. Egy kopaszodÃ³, dagadt fickÃ³, bÅ‘r mellÃ©nyben. EmlÃ©kszem rÃ¡. Mi van vele?}
+{124}{}{ElÃ¡rulnÃ¡d, honnan szÃ¡rmazik?}
+{125}{}{Azt mondta, eladtÃ¡l neki egy kulacsot.}
+{126}{}{EgyszerÅ± kÃ­vÃ¡ncsisÃ¡g. KÃ¶sz.}
+{127}{}{ÅszintÃ©n szÃ³lva nem emlÃ©kszem pontosan, de azt hiszem, az egyik brahmin-karavÃ¡nutam sorÃ¡n szereztem.}
+{128}{}{Brahmin-karavÃ¡nÃºt?}
+{129}{}{Ã‰rtem. KÃ¶szÃ¶nÃ¶m a segÃ­tsÃ©get.}
+{130}{}{Amikor fiatalabb voltam, brahmin-karavÃ¡nokat vezettem Ã¡t a 'Nagy KÃ¶rÃ¶n'... Broken Hills, New Reno, Redding, Rejtek, Modoc Ã©s aztÃ¡n vissza ide. Egy idÅ‘ utÃ¡n mÃ¡r tÃºl veszÃ©lyessÃ© vÃ¡lt az Ãºt, ezÃ©rt letelepedtem itt.}
 {131}{}{Hol vannak ezek a helyek?}
-{132}{}{Értem. Viszlát!}
-{133}{}{Bejelölöm a térképeden. Látod, itt van Broken Hills, attól egy kicsit nyugatra Reno, északnyugatra pedig Redding. Ha innen északnak fordulsz, Rejtekbe jutsz, attól keletre meg Modoc van. Ha továbbra is keletnek tartasz visszajutsz ide, Menedékvárosba.}
+{132}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{133}{}{BejelÃ¶lÃ¶m a tÃ©rkÃ©peden. LÃ¡tod, itt van Broken Hills, attÃ³l egy kicsit nyugatra Reno, Ã©szaknyugatra pedig Redding. Ha innen Ã©szaknak fordulsz, Rejtekbe jutsz, attÃ³l keletre meg Modoc van. Ha tovÃ¡bbra is keletnek tartasz visszajutsz ide, MenedÃ©kvÃ¡rosba.}
 {134}{}{Van tipped, hogy a kulacsot melyik helyen szerezted?}
-{135}{}{Köszönöm az információkat.}
-{136}{}{Sajnálom, de nem emlékszem, az már nagyon rég volt. Miért akarod tudni?}
-{137}{}{Azt a Menedéket keresem, ahonnan a kulacs származik.}
-{138}{}{Köszönöm az információkat.}
-{139}{}{Hát ha Menedéket keresel, akkor van egy Menedékváros falain túl.}
-{140}{}{Ami a városban van, az a 13-as Menedék?}
-{141}{}{Köszönöm az információkat.}
-{142}{}{Gõzöm sincs, de a Menedék központi számítógépe talán meg tudja mondani. Minden kibaszott adatot abban tárolnak.}
-{143}{}{Lenne pár kérdésem.}
-{144}{}{Köszönöm az információkat.}
-{145}{}{Rendben. Mit szeretnél tudni?}
-{146}{}{Ismersz egy Vic nevû kereskedõt? Azt mondta, hogy ezt a kulacsot tõled vette.}
-{147}{}{Ismersz egy Vic nevû kereskedõt?}
-{148}{}{Az egyik társam, Vic azt állítja, hogy évekkel ezelõtt vett tõled egy kulacsot.}
-{149}{}{Eszedbe jutott már, honnan szerezted azt a kulacsot?}
-{150}{}{A Menedéket keresem.}
-{151}{}{Tudna mesélni Menedékvárosról?}
-{152}{}{Mit csinál itt, jóember?}
-{153}{}{Viszlát!}
-{154}{}{Van egy a város központjában, azt megnézted már? Lehet hogy az az.}
-{155}{}{Van egy a város központjában, talán az lesz az.}
-{156}{}{Lehet. Volna még pár kérdésem...}
-{157}{}{Meglehet. Kösz a tippet.}
-{158}{}{Nem rossz hely ez... ha megszokod a Polgárokat. Néhányuktól viszket a tenyerem, de azért egész jó életem van itt.}
-{159}{}{Lenne pár kérdésem.}
-{160}{}{Értem. Viszlát!}
-{161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
-{162}{}{Lenne pár kérdésem.}
-{163}{}{Értem. Viszlát!}
-{164}{}{I got brahmin smarter than you. Move along.}
-{165}{}{Úgy tûnik, ez Ed lakhelye. Õ az, akitõl a kulacsot vettem.}
-{166}{}{Megtaláltad a kulacs korábbi tulajdonosát.}
+{135}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{136}{}{SajnÃ¡lom, de nem emlÃ©kszem, az mÃ¡r nagyon rÃ©g volt. MiÃ©rt akarod tudni?}
+{137}{}{Azt a MenedÃ©ket keresem, ahonnan a kulacs szÃ¡rmazik.}
+{138}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{139}{}{HÃ¡t ha MenedÃ©ket keresel, akkor van egy MenedÃ©kvÃ¡ros falain tÃºl.}
+{140}{}{Ami a vÃ¡rosban van, az a 13-as MenedÃ©k?}
+{141}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{142}{}{GÅ‘zÃ¶m sincs, de a MenedÃ©k kÃ¶zponti szÃ¡mÃ­tÃ³gÃ©pe talÃ¡n meg tudja mondani. Minden kibaszott adatot abban tÃ¡rolnak.}
+{143}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{144}{}{KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³kat.}
+{145}{}{Rendben. Mit szeretnÃ©l tudni?}
+{146}{}{Ismersz egy Vic nevÅ± kereskedÅ‘t? Azt mondta, hogy tÅ‘led vette ezt a kulacsot.}
+{147}{}{Ismersz egy Vic nevÅ± kereskedÅ‘t?}
+{148}{}{Az egyik tÃ¡rsam, Vic azt Ã¡llÃ­tja, hogy Ã©vekkel ezelÅ‘tt vett tÅ‘led egy kulacsot.}
+{149}{}{Eszedbe jutott mÃ¡r, hogy honnan szerezted a kulacsot?}
+{150}{}{MenedÃ©ket keresem.}
+{151}{}{Mi a vÃ©lemÃ©nyed MenedÃ©kvÃ¡rosrÃ³l?}
+{152}{}{Mivel foglalkozik itt?}
+{153}{}{ViszlÃ¡t!}
+{154}{}{Van egy a vÃ¡ros kÃ¶zpontjÃ¡ban, azt megnÃ©zted mÃ¡r? Lehet hogy az az.}
+{155}{}{Van egy a vÃ¡ros kÃ¶zpontjÃ¡ban, talÃ¡n az lesz az.}
+{156}{}{Lehet. Volna mÃ©g egy kÃ©rdÃ©sem.}
+{157}{}{Meglehet. KÃ¶sz a tippet.}
+{158}{}{Nem rossz hely ez... ha megszokod a PolgÃ¡rokat. NÃ©hÃ¡nyuktÃ³l viszket a tenyerem, de azÃ©rt egÃ©sz jÃ³ Ã©letem van itt.}
+{159}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{160}{}{Ã‰rtem. KÃ¶sz a segÃ­tsÃ©get. ViszlÃ¡t!}
+{161}{}{Brahminokat Ã¡rulok. EbbÅ‘l tartom el magam Ã©s fizetem a vÃ©delmi pÃ©nzt az Å‘rÃ¶knek.}
+{162}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{163}{}{Ã‰rtem. KÃ¶sz a segÃ­tsÃ©get. ViszlÃ¡t!}
+{164}{}{NÃ¡lad bÃ¡rmelyik brahminom okosabb. KifelÃ©!}
+{165}{}{Ãšgy tÅ±nik, ez Ed lakhelye. Å az, akitÅ‘l a kulacsot vettem.}
+{166}{}{MegtalÃ¡ltad a kulacs korÃ¡bbi tulajdonosÃ¡t.}

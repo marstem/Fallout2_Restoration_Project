@@ -1,326 +1,326 @@
-{100}{}{A hölgy Mrs. Bishop.}
-{101}{}{Ez itt a sikoltozó Mrs. Bishop.}
-{150}{}{Egy vonzó, középkorú nõt látsz. Eléggé unatkozik.}
-{151}{}{A hölgy Bishop felesége. Zavartnak tûnik és a semmibe bámul.}
-{200}{}{(A nõ megfordul, és rádnéz. Mélyen dekoltált, aranygekkó bõrbõl készült ruhájában meglehetõsen vonzó jelenség. Rövidke pillanatig végigfuttatja rajtad a szemét, aztán összevonja a szemöldökét.) Igen? Mi az?}
-{201}{}{(Kissé összevonja a szemöldökét.) Igen? Újra erre evett a fene?}
+{100}{}{A hÃ¶lgy Mrs. Bishop.}
+{101}{}{Ez itt a sikoltozÃ³ Mrs. Bishop.}
+{150}{}{Egy vonzÃ³, kÃ¶zÃ©pkorÃº nÅ‘t lÃ¡tsz. ElÃ©ggÃ© unatkozik.}
+{151}{}{A hÃ¶lgy Bishop felesÃ©ge. Zavartnak tÅ±nik Ã©s a semmibe bÃ¡mul.}
+{200}{}{(A nÅ‘ megfordul, Ã©s rÃ¡dnÃ©z. MÃ©lyen dekoltÃ¡lt, aranygekkÃ³ bÅ‘rbÅ‘l kÃ©szÃ¼lt ruhÃ¡jÃ¡ban meglehetÅ‘sen vonzÃ³ jelensÃ©g. RÃ¶vidke pillanatig vÃ©gigfuttatja rajtad a szemÃ©t, aztÃ¡n Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t.) Igen? Mi az?}
+{201}{}{(KissÃ© Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t.) Igen? Ãšjra erre evett a fene?}
 {203}{}{Kop-kop}
-{204}{}{(A melleit bámulod, és közben nyáladzol.)}
-{205}{}{Elpályázol}
-{206}{}{Ki vagy te?}
-{207}{}{Szerettem volna néhány kérdést feltenni, Mrs. Bishop.}
-{208}{}{Bocsánat, összetévesztettem valaki mással. Viszlát!}
+{204}{}{(A melleit bÃ¡mulod, Ã©s kÃ¶zben nyÃ¡ladzol.)}
+{205}{}{Otthagyod}
+{206}{}{Ki vagy?}
+{207}{}{Szerettem volna nÃ©hÃ¡ny kÃ©rdÃ©st feltenni, Mrs. Bishop.}
+{208}{}{BocsÃ¡nat, Ã¶sszetÃ©vesztettem valaki mÃ¡ssal. ViszlÃ¡t!}
 {210}{}{*Micsoda?*}
 {211}{}{Kop-kop!}
-{212}{}{(A melleit bámulod, és közben nyáladzol.)}
+{212}{}{(A melleit bÃ¡mulod, Ã©s kÃ¶zben nyÃ¡ladzol.)}
 {215}{}{(Pislog.) Ki az?}
-{216}{}{Búú}
-{217}{}{Én elfelejt}
+{216}{}{BÃºÃº}
+{217}{}{Ã‰n elfelejt}
 {218}{}{Ki hol?}
-{220}{}{(Eléggé meg van lepõdve.) Minek Búúzol?}
-{221}{}{Búú Búú! Kis tehén! HA HA HA HA hA HA HA Hah Hahhh... búúú... érteni?}
-{225}{}{(Szúrós szemekkel méreget.) Na, most azonnal menj innen, mielõtt lelövetlek, te faragatlan csótány.}
-{226}{}{Kis te... HÉN... hehehehehehe... búzok? BÚÚÚZOK! HA HA HA HA HA...}
-{227}{}{Én lenni nem farkatlan csótány... *szipogsz* ...én lenni nem közönséges... MAMA mongya... *szipogsz*}
-{230}{}{(Követi a tekintetedet egészen a melléig. Hirtelen elvörösödik a dühtõl, már-már rádkiáltana... aztán mégsem.) Nem vagy valami eszes... (Tetõtõl-talpig végigmér) Mindenesetre... erõs legénynek látszol. Gyere velem!}
-{231}{}{(Követi a tekintetedet egészen a melléig. Hirtelen elvörösödik a dühtõl, már-már rádkiáltana... aztán mégsem.) Nem vagy valami eszes... (Tetõtõl-talpig végigmér) Mindenesetre van... vonzerõd. Gyere velem!}
-{232}{}{(Követi a tekintetedet egészen a melle domborulatáig, aztán fagyossá válik a hangja.) Látom, nem vagy a finom megoldások embere. (Undorral néz rád.) Távozz innen, melõtt lelövetlek!}
-{233}{}{(Követed õt.)}
-{234}{}{Mi menni jó hely?}
-{235}{}{Te megy. Én marad.}
-{236}{}{[Elcsoszogsz]}
-{240}{}{(Megereszt egy halovány mosolyt.) Igen. Egy *igen* jó helyre megyünk. Na, ne kéresd magad!}
-{245}{}{(Összevonja a szemöldökét és elvörösödik.) Tûnés innen, mielõtt lelövetlek!}
-{246}{}{Boccsánatoskodok... menek én}
-{250}{}{(Felvonja a szemöldökét.) Szerintem ezt a kérdést *nekem* kéne feltennem. (Keresztbe fonja a karját.) Én Leslie Anne Bishop vagyok. }
-{251}{}{A férjem a Bishop családfõ New Renóban. Benned kit tisztelhetünk?}
-{252}{}{A megboldogult férjem a Bishop családfõ volt New Renóban. Benned kit tisztelhetünk?}
+{220}{}{(ElÃ©ggÃ© meg van lepÅ‘dve.) Minek BÃºÃºzol?}
+{221}{}{BÃºÃº BÃºÃº! Kis tehÃ©n! HA HA HA HA hA HA HA Hah Hahhh... bÃºÃºÃº... Ã©rteni?}
+{225}{}{(SzÃºrÃ³s szemekkel mÃ©reget.) Na, most azonnal menj innen, mielÅ‘tt lelÃ¶vetlek, te faragatlan csÃ³tÃ¡ny.}
+{226}{}{Kis te... HÃ‰N... hehehehehehe... bÃºzok? BÃšÃšÃšZOK! HA HA HA HA HA...}
+{227}{}{Ã‰n lenni nem farkatlan csÃ³tÃ¡ny... *szipogsz* ...Ã©n lenni nem kÃ¶zÃ¶nsÃ©ges... MAMA mongya... *szipogsz*}
+{230}{}{(KÃ¶veti a tekintetedet egÃ©szen a mellÃ©ig. Hirtelen elvÃ¶rÃ¶sÃ¶dik a dÃ¼htÅ‘l, mÃ¡r-mÃ¡r rÃ¡dkiÃ¡ltana... aztÃ¡n mÃ©gsem.) Nem vagy valami eszes... (TetÅ‘tÅ‘l-talpig vÃ©gigmÃ©r) Mindenesetre... erÅ‘s legÃ©nynek lÃ¡tszol. Gyere velem!}
+{231}{}{(KÃ¶veti a tekintetedet egÃ©szen a mellÃ©ig. Hirtelen elvÃ¶rÃ¶sÃ¶dik a dÃ¼htÅ‘l, mÃ¡r-mÃ¡r rÃ¡dkiÃ¡ltana... aztÃ¡n mÃ©gsem.) Nem vagy valami eszes... (TetÅ‘tÅ‘l-talpig vÃ©gigmÃ©r) Mindenesetre van... vonzerÅ‘d. Gyere velem!}
+{232}{}{(KÃ¶veti a tekintetedet egÃ©szen a melle domborulatÃ¡ig, aztÃ¡n fagyossÃ¡ vÃ¡lik a hangja.) LÃ¡tom, nem vagy a finom megoldÃ¡sok embere. (Undorral nÃ©z rÃ¡d.) TÃ¡vozz innen, melÅ‘tt lelÃ¶vetlek!}
+{233}{}{(KÃ¶veted Å‘t.)}
+{234}{}{Mi menni jÃ³ hely?}
+{235}{}{Te megy. Ã‰n marad.}
+{236}{}{[TovÃ¡bbÃ¡llsz]}
+{240}{}{(Megereszt egy halovÃ¡ny mosolyt.) Igen. Egy *igen* jÃ³ helyre megyÃ¼nk. Na, ne kÃ©resd magad!}
+{245}{}{(Ã–sszevonja a szemÃ¶ldÃ¶kÃ©t Ã©s elvÃ¶rÃ¶sÃ¶dik.) TÅ±nÃ©s innen, mielÅ‘tt lelÃ¶vetlek!}
+{246}{}{BoccsÃ¡natoskodok... menek Ã©n}
+{250}{}{(Felvonja a szemÃ¶ldÃ¶kÃ©t.) Szerintem ezt a kÃ©rdÃ©st *nekem* kÃ©ne feltennem. (Keresztbe fonja a karjÃ¡t.) Ã‰n Leslie Anne Bishop vagyok. }
+{251}{}{A fÃ©rjem a Bishop csalÃ¡dfÅ‘ New RenÃ³ban. Benned kit tisztelhetÃ¼nk?}
+{252}{}{A megboldogult fÃ©rjem a Bishop csalÃ¡dfÅ‘ volt New RenÃ³ban. Benned kit tisztelhetÃ¼nk?}
 {253}{}{A nevem }
-{254}{}{Hétköznapi utazó vagyok.}
-{255}{}{Utazó vagyok, és a 13-as Menedéket keresem. Hallott róla valamit?}
-{256}{}{Utazó vagyok... nem tudja, hol találhatnék egy bizonyos Édenkert Létrehozást Elõsegítõ Táskát?}
-{257}{}{Hát azt hiszem, most jobb, ha megyek. Viszlát!}
+{254}{}{HÃ©tkÃ¶znapi utazÃ³ vagyok.}
+{255}{}{UtazÃ³ vagyok, Ã©s a 13-as MenedÃ©ket keresem. Hallott rÃ³la valamit?}
+{256}{}{UtazÃ³ vagyok... nem tudja, hol talÃ¡lhatnÃ©k egy bizonyos Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t?}
+{257}{}{HÃ¡t azt hiszem, most jobb, ha megyek. ViszlÃ¡t!}
 {260}{}{Igen?}
-{261}{}{Tudna valamit mondani Mr. Bishopról?}
-{262}{}{Megtudhatnék egy s mást a Bishop családról?}
-{263}{}{Hallott valaha egy 13-as Menedéknek nevezett helyrõl?}
-{264}{}{Nem tudja, hol találhatnék egy bizonyos Édenkert Létrehozást Elõsegítõ Táskát?}
-{265}{}{Inkább hagyjuk. Jobb, ha megyek.}
-{270}{}{A férjemet kérdi? Rém egyszerû. Elhunyt. ÓRIÁSI tragédia. Még mindig nem józanodtam ki a hír hallatán elfogytasztott pezsgõtõl.}
-{271}{}{A férjemet kérded? Õ a Bishop családfõ. A diplomáciában, üzletben, és bûncselekmények végrehajtásában valami egészen különleges állati ösztön hajtja, amit az ember csak csodálni tud annak ellenére, hogy egyéb tulajdonságai már hagynak némi kivetnivalót maguk után.}
-{272}{}{Igen, a "fosztogatók" felbérlése, hogy rámásszon Menedékvárosra, szerfelett hatékonynak tûnik.}
-{273}{}{Miféle egyéb tulajdonságairól van szó?}
-{275}{}{Bocsánat, hogy rákérdeztem. Jobb, ha most megyek.}
-{276}{}{Bocsánat, Mrs. Bishop. Nem akartam nagyon feszegetni a dolgot. Megyek is.}
-{280}{}{(Elkomorul.) Ezt a képzeletedre bízom. (Eléggé bosszús.) Ez *minden*?}
+{261}{}{Tudna valamit mondani Mr. BishoprÃ³l?}
+{262}{}{MegtudhatnÃ©k egy s mÃ¡st a Bishop csalÃ¡drÃ³l?}
+{263}{}{Hallott valaha egy 13-as MenedÃ©knek nevezett helyrÅ‘l?}
+{264}{}{Nem tudja, hol talÃ¡lhatnÃ©k egy bizonyos Ã‰denkert LÃ©trehozÃ¡st ElÅ‘segÃ­tÅ‘ TÃ¡skÃ¡t?}
+{265}{}{InkÃ¡bb hagyjuk. Jobb, ha megyek.}
+{270}{}{A fÃ©rjemet kÃ©rdi? RÃ©m egyszerÅ±. Elhunyt. Ã“RIÃSI tragÃ©dia. MÃ©g mindig nem jÃ³zanodtam ki a hÃ­r hallatÃ¡n elfogytasztott pezsgÅ‘tÅ‘l.}
+{271}{}{A fÃ©rjemet kÃ©rded? Å a Bishop csalÃ¡dfÅ‘. A diplomÃ¡ciÃ¡ban, Ã¼zletben, Ã©s bÅ±ncselekmÃ©nyek vÃ©grehajtÃ¡sÃ¡ban valami egÃ©szen kÃ¼lÃ¶nleges Ã¡llati Ã¶sztÃ¶n hajtja, amit az ember csak csodÃ¡lni tud annak ellenÃ©re, hogy egyÃ©b tulajdonsÃ¡gai mÃ¡r hagynak nÃ©mi kivetnivalÃ³t maguk utÃ¡n.}
+{272}{}{Igen, a "fosztogatÃ³k" felbÃ©rlÃ©se, hogy rÃ¡mÃ¡sszon MenedÃ©kvÃ¡rosra, szerfelett hatÃ©konynak tÅ±nik.}
+{273}{}{MifÃ©le egyÃ©b tulajdonsÃ¡gairÃ³l van szÃ³?}
+{275}{}{BocsÃ¡nat, hogy rÃ¡kÃ©rdeztem. Jobb, ha most megyek.}
+{276}{}{BocsÃ¡nat, Mrs. Bishop. Nem akartam nagyon feszegetni a dolgot. Megyek is.}
+{280}{}{(Elkomorul.) Ezt a kÃ©pzeletedre bÃ­zom. (ElÃ©ggÃ© bosszÃºs.) Ez *minden*?}
 {281}{}{Actually, I had some other questions...}
-{285}{}{Igazán nincs mit mondanom a Bishop "Család"-ról. Az a helyzet, hogy... a "család" egy rakás bérencbõl, zsoldosból, kurvából, dílerbõl és hajcsárból áll, de ennél többet tényleg nem nagyon tudunk felmutatni.}
-{286}{}{Úgy tûnik, a házassága nem annyira rózsás, mint amilyen lehetne.}
-{287}{}{Aztán ott van az a zsoldos "család", amit felbérelt Menedékváros ellen.}
-{288}{}{Kérdeznék valami mást.}
-{295}{}{(Derült pillantást vet a házastársadra.) És a tied talán rózsás? (Újra összevonja a szemöldökét.) }
-{296}{}{Valóban nem az... megboldogult férjem a hatalom építgetésén fáradozott, és ez ritkán enged teret... bármi egyébnek. }
-{297}{}{Valóban nem az... a férjem a hatalom építgetésén fáradozik, és ez ritkán enged teret... bármi egyébnek. }
-{298}{}{Ráadásul a drága kislányom gyorsan megtanulta, mit jelent nõnek lenni New Renóban.}
-{299}{}{A kislánya?}
-{300}{}{Angela az ön lánya?}
-{301}{}{Lenne pár kérdésem.}
-{305}{}{Igen, az az Angela, akivel együtt *aludtatok*. Nyilván emlékszel. (Száraz pillantást vet rád.) Nagyon remélem, hogy használtatok profilaktikus szerkentyût. A hormonjai annyira fel vannak spannolva, hogy még a spermium említésétõl is teherbe esik.}
-{306}{}{Igen, a lányom, Angela. Egy kis cafka lett belõle. (Megbánóan mosolyog.) Anyja, lánya... (Bosszankodva sóhajt.) Akarsz még valamit tudni?}
-{308}{}{Öö, profi... prof-é-lak...? Öö, asszem, használtunk olyasmit... akármi is legyen az. Na, tudja mit? Most gyorsan leellenõrzöm.}
-{309}{}{Öö, óvszerre gondol? Persze, hogy használtunk. Úgy értem, eléggé meg vagyok róla gyõzõdve. Na, megyek és utánanézek.}
+{285}{}{IgazÃ¡n nincs mit mondanom a Bishop "CsalÃ¡d"-rÃ³l. Az a helyzet, hogy... a "csalÃ¡d" egy rakÃ¡s bÃ©rencbÅ‘l, zsoldosbÃ³l, kurvÃ¡bÃ³l, dÃ­lerbÅ‘l Ã©s hajcsÃ¡rbÃ³l Ã¡ll, de ennÃ©l tÃ¶bbet tÃ©nyleg nem nagyon tudunk felmutatni.}
+{286}{}{Ãšgy tÅ±nik, a hÃ¡zassÃ¡ga nem annyira rÃ³zsÃ¡s, mint amilyen lehetne.}
+{287}{}{AztÃ¡n ott van az a zsoldos "csalÃ¡d", amit felbÃ©relt MenedÃ©kvÃ¡ros ellen.}
+{288}{}{Ã“h... mÃ©g volna nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{295}{}{(DerÃ¼lt pillantÃ¡st vet a hÃ¡zastÃ¡rsadra.) Ã‰s a tied talÃ¡n rÃ³zsÃ¡s? (Ãšjra Ã¶sszevonja a szemÃ¶ldÃ¶kÃ©t.) }
+{296}{}{ValÃ³ban nem az... megboldogult fÃ©rjem a hatalom Ã©pÃ­tgetÃ©sÃ©n fÃ¡radozott, Ã©s ez ritkÃ¡n enged teret... bÃ¡rmi egyÃ©bnek. }
+{297}{}{ValÃ³ban nem az... a fÃ©rjem a hatalom Ã©pÃ­tgetÃ©sÃ©n fÃ¡radozik, Ã©s ez ritkÃ¡n enged teret... bÃ¡rmi egyÃ©bnek. }
+{298}{}{RÃ¡adÃ¡sul a drÃ¡ga kislÃ¡nyom gyorsan megtanulta, mit jelent nÅ‘nek lenni New RenÃ³ban.}
+{299}{}{A kislÃ¡nya?}
+{300}{}{Angela az Ã¶n lÃ¡nya?}
+{301}{}{Van itt valami, ami nagyon Ã©rdekel.}
+{305}{}{Igen, az az Angela, akivel egyÃ¼tt *aludtatok*. NyilvÃ¡n emlÃ©kszel. (SzÃ¡raz pillantÃ¡st vet rÃ¡d.) Nagyon remÃ©lem, hogy hasznÃ¡ltatok profilaktikus szerkentyÅ±t. A hormonjai annyira fel vannak spannolva, hogy mÃ©g a spermium emlÃ­tÃ©sÃ©tÅ‘l is teherbe esik.}
+{306}{}{Igen, a lÃ¡nyom, Angela. Egy kis cafka lett belÅ‘le. (MegbÃ¡nÃ³an mosolyog.) Anyja, lÃ¡nya... (Bosszankodva sÃ³hajt.) Akarsz mÃ©g valamit tudni?}
+{308}{}{Ã–Ã¶, profi... prof-Ã©-lak...? Ã–Ã¶, asszem, hasznÃ¡ltunk olyasmit... akÃ¡rmi is legyen az. Na, tudja mit? Most gyorsan leellenÅ‘rzÃ¶m.}
+{309}{}{Ã–Ã¶, Ã³vszerre gondol? Persze, hogy hasznÃ¡ltunk. Ãšgy Ã©rtem, elÃ©ggÃ© meg vagyok rÃ³la gyÅ‘zÅ‘dve. Na, megyek Ã©s utÃ¡nanÃ©zek.}
 {315}{}{'}
-{316}{}{(Homlokát ráncolja.) Szóval hétköznapi utazó vagy... Figyelemreméltóan nyílt és bizalmomgerjesztõ. Mégis, az isten szerelmére, miben segíthetnék én neked, te "egyszerû utazó"?}
-{321}{}{Semmiben, köszönöm. Most aztán tényleg mennem kell.}
-{325}{}{Én tudom, hol találhatnál egy olyan táskát... de hiába mondanám el, ugyanis már felhasználták.}
-{326}{}{Hol van az a bizonyos ÉLET?}
-{328}{}{Akkor sokra nem megyek vele... köszönöm azért.}
-{330}{}{(Megereszt egy halovány mosolyt, mintha valami kellemes emléket idézne fel.) Voltál valaha Menedékvárosban? Észak-kelet felé van New Renótól. Nekik volt olyan táskájuk... egyszer ...régen, de felhasználták, amikor feljöttek a felszínre a Menedék mélyérõl.}
-{331}{}{Tudna mesélni Menedékvárosról?}
-{332}{}{Kérdezhetek valami mást?}
-{333}{}{Akkor megyek, utánanézek ennek a Menedékvárosnak. Köszönöm az információt.}
-{335}{}{(A mosoly eltûnik, arca megkeményedik és másfelé fordítja a tekintetét.) Nem sok minden mesélnivaló akad. Az ottani klímát egy kicsit... másnak fogod találni. Ezt akartad tudni?}
-{336}{}{Nem igazán, tulajdonképpen másra lennék kiváncsi...}
-{337}{}{Igen, ezt. Bocsánat, hogy zavartam.}
-{340}{}{Ahogy mondtam, észak-kelet felé ott van Menedékváros. Arra a városra gondolsz?}
-{341}{}{Ismerek egy Menedékváros nevû helyet észak-kelet felé. Arra a városra gondolsz?}
-{342}{}{Nem. Nyilvánvalóan rossz helyre jöttem.}
-{343}{}{Akár.}
-{345}{}{Lehet... megyek és utánanézek. Köszönöm.}
-{350}{}{Hmmm. Akkor viszont nem tudok segíteni.}
-{352}{}{Ismer valakit, aki többet tudna róla mondani?}
-{353}{}{Igen... nos... azért köszönöm.}
-{354}{}{Hát... köszönöm, hogy idõt szakított rám, Mrs. Bishop. Lekötelezett.}
-{360}{}{Akkor esetleg el is mehetnél oda.}
-{362}{}{Jól van akkor, megyek és utánanézek.}
-{363}{}{Nagyon jó, köszönöm, hogy idõt szakított rám. Lekötelezett.}
-{370}{}{Drága egyetlen fiam... }
-{371}{}{Drága egyetlen leányom... }
-{372}{}{amikor reggel felkelnek, a renói lakosok már arra is alig emlékeznek, melyik kurvát kefélték tegnap, nemhogy még azt tudják, hol lehet olyan izét találni, amirõl te beszélsz itt nekem.}
-{374}{}{Na, jó, csak úgy kérdeztem. Még találkozunk.}
-{375}{}{Jól van. Köszönöm, hogy idõt szakított rám.}
-{380}{}{Lassan a testtel! (Megtanulmányoz.) Mintha nemrég érkeztél volna... a városba. Nem volna kedved egy italra a szobámban? Beszélgethetnénk New Renóról. Elég veszélyes egy hely azoknak, akik nincsenek tisztában a szabályaival.}
-{381}{}{Ne rohanj el már megint! (Újra végigmér téged.) Van kedved ahhoz az italhoz? Vagy újra faképnél hagysz?}
-{382}{}{Csak akkor, ha nem állunk meg az italnál.}
-{383}{}{Hogyne. Egy ital sosem árthat.}
-{384}{}{Sajnálom, Mrs. Bishop, de én házas vagyok.}
-{385}{}{Nem, köszönöm. Most már igazán mennem kell.}
-{386}{}{Szó sem lehet róla! Nem akarom, hogy a férje... megorroljon.}
-{387}{}{Én az ön férjének dolgozom, Mrs. Bishop. Nem volna helyes.}
-{390}{}{(Felvonja az egyik szemöldökét.) Meglátjuk.}
-{391}{}{Errõl van szó! Menjünk!}
-{392}{}{Mrs. Bishop, sajnálom, de vissza kell utasítanom... ezegyszer.}
-{393}{}{Sajnálom, Mrs. Bishop, de nem tehetem. Idõközben mennem is kéne.}
-{394}{}{Isten ments! Semmi kedvem keresztbetenni a férjének.}
-{400}{}{(Felkacag.) Ne butáskodj! Ez csak egy ital. }
-{401}{}{És ha netán BÁRMI is történne, biztosíthatlak róla, hogy a férjem ELÉGGÉ meghalt.}
-{402}{}{És ha netán BÁRMI is történne, biztosíthatlak róla, hogy a férjem nem egy féltékeny típus.}
-{404}{}{Mrs. Bishop, sajnálom, de vissza kell utasítanom... ezegyszer.}
-{410}{}{(Felhúzza az egyik szemöldökét.) Lehet, hogy a férjem halott, de az emberei az én parancsaimnak engedelmeskednek. Meglehetõsen... ingerültek lennének, ha megtudnák, hogy Mrs. Bishop meghívását valaki visszautasította. *Teljességgel* biztos vagy abban, hogy nem akarod azt az italt?}
-{411}{}{(Felhúzza az egyik szemöldökét.) A férjem nem az a féltékeny típus, és meglehetõsen... ingerült lenne, ha megtudná, hogy egy Bishop családtag meghívását valaki visszautasította. *Teljességgel* biztos vagy abban, hogy nem akarod azt az italt?}
-{412}{}{Én azért... csak azt mondom, hogy "nem".}
-{413}{}{Na, jó. Egy ital nem a világ.}
-{414}{}{Nézze, Mrs. Bishop, nekem most mennem kell.}
-{415}{}{(Komor lesz az arca.) Akkor csak menj! Ha bármikor is találkoznánk, biztos lehetsz benne, hogy egy fikarcnyi érdeklõdést sem fogok tanúsítani irántad.}
-{416}{}{Rendben... viszlát!}
-{420}{}{(Bólint és mosolyog hozzá.) Remek. Gyere utánam!}
-{425}{}{Ha bármikor ráérsz, nyugodtan látogass meg! Az ajánlat továbbra is áll.}
-{426}{}{Öö... rendben. Viszlát!}
-{430}{}{Nincs mit mondanunk egymásnak. Távozz, mielõtt hívom az õrséget!}
-{435}{}{(Ahogy meglát, Mrs. Bishop elmosolyintja magát.) Helló, helló. Tehetek valamit érted?}
-{436}{}{Ha van ideje, Mrs. Bishop, most benne lennék abban az italban.}
-{437}{}{Ha van ideje, Mrs. Bishop, benne lennék egy... másik italban.}
+{316}{}{(HomlokÃ¡t rÃ¡ncolja.) SzÃ³val hÃ©tkÃ¶znapi utazÃ³ vagy... FigyelemremÃ©ltÃ³an nyÃ­lt Ã©s bizalmomgerjesztÅ‘. MÃ©gis, az isten szerelmÃ©re, miben segÃ­thetnÃ©k Ã©n neked, te "egyszerÅ± utazÃ³"?}
+{321}{}{Semmiben, kÃ¶szÃ¶nÃ¶m. Most aztÃ¡n tÃ©nyleg mennem kell.}
+{325}{}{Ã‰n tudom, hol talÃ¡lhatnÃ¡l egy olyan tÃ¡skÃ¡t... de hiÃ¡ba mondanÃ¡m el, ugyanis mÃ¡r felhasznÃ¡ltÃ¡k.}
+{326}{}{Hol van az a bizonyos Ã‰LET?}
+{328}{}{Akkor sokra nem megyek vele... kÃ¶szÃ¶nÃ¶m azÃ©rt.}
+{330}{}{(Megereszt egy halovÃ¡ny mosolyt, mintha valami kellemes emlÃ©ket idÃ©zne fel.) VoltÃ¡l valaha MenedÃ©kvÃ¡rosban? Ã‰szak-kelet felÃ© van New RenÃ³tÃ³l. Nekik volt olyan tÃ¡skÃ¡juk... egyszer ...rÃ©gen, de felhasznÃ¡ltÃ¡k, amikor feljÃ¶ttek a felszÃ­nre a MenedÃ©k mÃ©lyÃ©rÅ‘l.}
+{331}{}{Mi a vÃ©lemÃ©nyed MenedÃ©kvÃ¡rosrÃ³l?}
+{332}{}{Feltehetek mÃ©g egy kÃ©rdÃ©st?}
+{333}{}{Akkor megyek, utÃ¡nanÃ©zek ennek a MenedÃ©kvÃ¡rosnak. KÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t.}
+{335}{}{(A mosoly eltÅ±nik, arca megkemÃ©nyedik Ã©s mÃ¡sfelÃ© fordÃ­tja a tekintetÃ©t.) Nem sok minden mesÃ©lnivalÃ³ akad. Az ottani klÃ­mÃ¡t egy kicsit... mÃ¡snak fogod talÃ¡lni. Ezt akartad tudni?}
+{336}{}{Nem igazÃ¡n, tulajdonkÃ©ppen mÃ¡sra lennÃ©k kivÃ¡ncsi...}
+{337}{}{Igen, ezt. BocsÃ¡nat, hogy zavartam.}
+{340}{}{Ahogy mondtam, Ã©szak-kelet felÃ© ott van MenedÃ©kvÃ¡ros. Arra a vÃ¡rosra gondolsz?}
+{341}{}{Ismerek egy MenedÃ©kvÃ¡ros nevÅ± helyet Ã©szak-kelet felÃ©. Arra a vÃ¡rosra gondolsz?}
+{342}{}{Nem. NyilvÃ¡nvalÃ³an rossz helyre jÃ¶ttem.}
+{343}{}{AkÃ¡r.}
+{345}{}{Lehet... megyek Ã©s utÃ¡nanÃ©zek. KÃ¶szÃ¶nÃ¶m.}
+{350}{}{Hmmm. Akkor viszont nem tudok segÃ­teni.}
+{352}{}{Ismer valakit, aki tÃ¶bbet tudna rÃ³la mondani?}
+{353}{}{Igen... nos... azÃ©rt kÃ¶szÃ¶nÃ¶m.}
+{354}{}{HÃ¡t... kÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m, Mrs. Bishop. LekÃ¶telezett.}
+{360}{}{Akkor esetleg el is mehetnÃ©l oda.}
+{362}{}{JÃ³l van akkor, megyek Ã©s utÃ¡nanÃ©zek.}
+{363}{}{Nagyon jÃ³, kÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m. LekÃ¶telezett.}
+{370}{}{DrÃ¡ga egyetlen fiam... }
+{371}{}{DrÃ¡ga egyetlen leÃ¡nyom... }
+{372}{}{amikor reggel felkelnek, a renÃ³i lakosok mÃ¡r arra is alig emlÃ©keznek, melyik kurvÃ¡t kefÃ©ltÃ©k tegnap, nemhogy mÃ©g azt tudjÃ¡k, hol lehet olyan izÃ©t talÃ¡lni, amirÅ‘l te beszÃ©lsz itt nekem.}
+{374}{}{Na, jÃ³, csak Ãºgy kÃ©rdeztem. MÃ©g talÃ¡lkozunk.}
+{375}{}{JÃ³l van. KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m.}
+{380}{}{Lassan a testtel! (MegtanulmÃ¡nyoz.) Mintha nemrÃ©g Ã©rkeztÃ©l volna... a vÃ¡rosba. Nem volna kedved egy italra a szobÃ¡mban? BeszÃ©lgethetnÃ©nk New RenÃ³rÃ³l. ElÃ©g veszÃ©lyes egy hely azoknak, akik nincsenek tisztÃ¡ban a szabÃ¡lyaival.}
+{381}{}{Ne rohanj el mÃ¡r megint! (Ãšjra vÃ©gigmÃ©r tÃ©ged.) Van kedved ahhoz az italhoz? Vagy Ãºjra fakÃ©pnÃ©l hagysz?}
+{382}{}{Csak akkor, ha nem Ã¡llunk meg az italnÃ¡l.}
+{383}{}{Hogyne. Egy ital sosem Ã¡rthat.}
+{384}{}{SajnÃ¡lom, Mrs. Bishop, de Ã©n hÃ¡zas vagyok.}
+{385}{}{Nem, kÃ¶szÃ¶nÃ¶m. Most mÃ¡r igazÃ¡n mennem kell.}
+{386}{}{SzÃ³ sem lehet rÃ³la! Nem akarom, hogy a fÃ©rje... megorroljon.}
+{387}{}{Ã‰n az Ã¶n fÃ©rjÃ©nek dolgozom, Mrs. Bishop. Nem volna helyes.}
+{390}{}{(Felvonja az egyik szemÃ¶ldÃ¶kÃ©t.) MeglÃ¡tjuk.}
+{391}{}{ErrÅ‘l van szÃ³! MenjÃ¼nk!}
+{392}{}{Mrs. Bishop, sajnÃ¡lom, de vissza kell utasÃ­tanom... ezegyszer.}
+{393}{}{SajnÃ¡lom, Mrs. Bishop, de nem tehetem. IdÅ‘kÃ¶zben mennem is kÃ©ne.}
+{394}{}{Isten ments! Semmi kedvem keresztbetenni a fÃ©rjÃ©nek.}
+{400}{}{(Felkacag.) Ne butÃ¡skodj! Ez csak egy ital. }
+{401}{}{Ã‰s ha netÃ¡n BÃRMI is tÃ¶rtÃ©nne, biztosÃ­thatlak rÃ³la, hogy a fÃ©rjem ELÃ‰GGÃ‰ meghalt.}
+{402}{}{Ã‰s ha netÃ¡n BÃRMI is tÃ¶rtÃ©nne, biztosÃ­thatlak rÃ³la, hogy a fÃ©rjem nem egy fÃ©ltÃ©keny tÃ­pus.}
+{404}{}{Mrs. Bishop, sajnÃ¡lom, de vissza kell utasÃ­tanom... ezegyszer.}
+{410}{}{(FelhÃºzza az egyik szemÃ¶ldÃ¶kÃ©t.) Lehet, hogy a fÃ©rjem halott, de az emberei az Ã©n parancsaimnak engedelmeskednek. MeglehetÅ‘sen... ingerÃ¼ltek lennÃ©nek, ha megtudnÃ¡k, hogy Mrs. Bishop meghÃ­vÃ¡sÃ¡t valaki visszautasÃ­totta. *TeljessÃ©ggel* biztos vagy abban, hogy nem akarod azt az italt?}
+{411}{}{(FelhÃºzza az egyik szemÃ¶ldÃ¶kÃ©t.) A fÃ©rjem nem az a fÃ©ltÃ©keny tÃ­pus, Ã©s meglehetÅ‘sen... ingerÃ¼lt lenne, ha megtudnÃ¡, hogy egy Bishop csalÃ¡dtag meghÃ­vÃ¡sÃ¡t valaki visszautasÃ­totta. *TeljessÃ©ggel* biztos vagy abban, hogy nem akarod azt az italt?}
+{412}{}{Ã‰n azÃ©rt... csak azt mondom, hogy "nem".}
+{413}{}{Na, jÃ³. Egy ital nem a vilÃ¡g.}
+{414}{}{NÃ©zze, Mrs. Bishop, nekem most mennem kell.}
+{415}{}{(Komor lesz az arca.) Akkor csak menj! Ha bÃ¡rmikor is talÃ¡lkoznÃ¡nk, biztos lehetsz benne, hogy egy fikarcnyi Ã©rdeklÅ‘dÃ©st sem fogok tanÃºsÃ­tani irÃ¡ntad.}
+{416}{}{Rendben... viszlÃ¡t!}
+{420}{}{(BÃ³lint Ã©s mosolyog hozzÃ¡.) Remek. Gyere utÃ¡nam!}
+{425}{}{Ha bÃ¡rmikor rÃ¡Ã©rsz, nyugodtan lÃ¡togass meg! Az ajÃ¡nlat tovÃ¡bbra is Ã¡ll.}
+{426}{}{Ã–Ã¶... rendben. ViszlÃ¡t!}
+{430}{}{Nincs mit mondanunk egymÃ¡snak. TÃ¡vozz, mielÅ‘tt hÃ­vom az Å‘rsÃ©get!}
+{435}{}{(Ahogy meglÃ¡t, Mrs. Bishop elmosolyintja magÃ¡t.) HellÃ³, hellÃ³. Tehetek valamit Ã©rted?}
+{436}{}{Ha van ideje, Mrs. Bishop, most benne lennÃ©k abban az italban.}
+{437}{}{Ha van ideje, Mrs. Bishop, benne lennÃ©k egy... mÃ¡sik italban.}
 {438}{}{I had some questions...}
-{439}{}{Jelen pillanatban nem, köszönöm. Mennem kell.}
-{440}{}{És? Én is. Szerinted mire szól az én meghívásom? Talán valami házasságtörés elõjátékához? Ugyan már, ne légy buta! Na, jössz, vagy nem?}
-{441}{}{Rendben van. Egy ital nem a világ.}
-{443}{}{Sajnálom, de nem tehetem, Mrs. Bishop. Most tényleg mennem kell.}
-{445}{}{Ó, igen... a férjem jól átgondolt próbálkozása arra, hogy a jóakaratának megnyilvánulását elfogadtassa másokkal. Jobb lett volna, ha Menedékváros lézerágyúi hamuvá égetik azokat a fosztogatókat.}
-{446}{}{"Jóakaratának megnyilvánulását"? Ezt hogy kell érteni?}
-{447}{}{Értem. Hadd kérdezzek valami mást...}
-{448}{}{Érdekes... hát köszönöm az információt. Viszlát!}
-{449}{}{Hmmm... érdekes. Köszönöm, hogy idõt szakított rám, Mrs. Bishop.}
-{450}{}{Igen. A szövetségre tett elsõ ajánlatát visszautasították. Ezután, hogy Menedékváros beadja a derekát, erõszak váltotta fel a békés közeledést... közvetítõn keresztül persze.}
-{451}{}{Hát már én is törtem ezen a fejem. Menedékváros nem akar máshoz fordulni segítségért ahelyett, hogy csatlakozzon Bishophoz?}
-{452}{}{Hát már én is törtem ezen a fejem. Menedékváros nem akar máshoz fordulni segítségért... teszem azt az ÚKK-hoz... ahelyett, hogy csatlakozzon Bishophoz?}
-{453}{}{Van erre bizonyítéka?}
-{460}{}{(A nõ kaján mosolyt küld feléd.) Hogy te milyen éles eszû vagy...}
-{461}{}{Ön tudta, Bishop mit tervel?}
-{462}{}{Hát, néhanapján... attól függ, kit kérdez róla. Kérdeznék mást...}
-{470}{}{(Felhúzza a szemöldökét.) Nem. Miért, kéne? (Gondosan végigmér, aztán elmosolyodik.) }
-{471}{}{(Felhúzza a szemöldökét.) Nem. Miért, kéne? (Gondosan végigmér, aztán újra elmosolyodik.) }
-{472}{}{Te aztán egy csomó veszélyes kérdést tesztel fel a férjem üzleteivel kapcsolatban. A helyedben én *nagyon* elõvigyázatos lennék.}
-{473}{}{Öö, köszönöm a tanácsot. Lenne még néhány "biztonságosabb" kérdésem...}
-{474}{}{Úgy lesz. Viszlát!}
-{475}{}{Köszönöm, hogy beszélgettünk... és köszönöm a tanácsát, Mrs. Bishop.}
-{480}{}{*Sóhajt*}
-{481}{}{Megint egy SZÉPSÉGES renói nap. Az ördög körtáncot jár.}
-{482}{}{A kaszinóban összesereglett tömegrõl ítélve, úgy látom már megint az emberi mocsok újabb hulláma érkezett Renóba...}
-{483}{}{Reno... "A kis pöcegödrök legnagyobbika a világon." Hmmm}
-{490}{}{Látod, ahogy Mrs. Bishop alszik. Elégedetten mosolyog közben.}
-{491}{}{Látod, ahogy Mrs. Bishop alszik. Miközben figyeled õt, megelégedetten felsóhajt és átfordul alvás közben.}
-{500}{}{Ez itt Mrs. Bishop. Miközben éppen az õrséget szólongatja, elég nehéz a külsejére koncentrálni, }
-{510}{}{Mmmmm... ó, }
+{439}{}{Jelen pillanatban nem, kÃ¶szÃ¶nÃ¶m. Mennem kell.}
+{440}{}{Ã‰s? Ã‰n is. Szerinted mire szÃ³l az Ã©n meghÃ­vÃ¡som? TalÃ¡n valami hÃ¡zassÃ¡gtÃ¶rÃ©s elÅ‘jÃ¡tÃ©kÃ¡hoz? Ugyan mÃ¡r, ne lÃ©gy buta! Na, jÃ¶ssz, vagy nem?}
+{441}{}{Rendben van. Egy ital nem a vilÃ¡g.}
+{443}{}{SajnÃ¡lom, de nem tehetem, Mrs. Bishop. Most tÃ©nyleg mennem kell.}
+{445}{}{Ã“, igen... a fÃ©rjem jÃ³l Ã¡tgondolt prÃ³bÃ¡lkozÃ¡sa arra, hogy a jÃ³akaratÃ¡nak megnyilvÃ¡nulÃ¡sÃ¡t elfogadtassa mÃ¡sokkal. Jobb lett volna, ha MenedÃ©kvÃ¡ros lÃ©zerÃ¡gyÃºi hamuvÃ¡ Ã©getik azokat a fosztogatÃ³kat.}
+{446}{}{"JÃ³akaratÃ¡nak megnyilvÃ¡nulÃ¡sÃ¡t"? Ezt hogy kell Ã©rteni?}
+{447}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{448}{}{Ã‰rdekes... hÃ¡t kÃ¶szÃ¶nÃ¶m az informÃ¡ciÃ³t. ViszlÃ¡t!}
+{449}{}{Hmmm... Ã©rdekes. KÃ¶szÃ¶nÃ¶m, hogy idÅ‘t szakÃ­tott rÃ¡m, Mrs. Bishop.}
+{450}{}{Igen. A szÃ¶vetsÃ©gre tett elsÅ‘ ajÃ¡nlatÃ¡t visszautasÃ­tottÃ¡k. EzutÃ¡n, hogy MenedÃ©kvÃ¡ros beadja a derekÃ¡t, erÅ‘szak vÃ¡ltotta fel a bÃ©kÃ©s kÃ¶zeledÃ©st... kÃ¶zvetÃ­tÅ‘n keresztÃ¼l persze.}
+{451}{}{HÃ¡t mÃ¡r Ã©n is tÃ¶rtem ezen a fejem. MenedÃ©kvÃ¡ros nem akar mÃ¡shoz fordulni segÃ­tsÃ©gÃ©rt ahelyett, hogy csatlakozzon Bishophoz?}
+{452}{}{HÃ¡t mÃ¡r Ã©n is tÃ¶rtem ezen a fejem. MenedÃ©kvÃ¡ros nem akar mÃ¡shoz fordulni segÃ­tsÃ©gÃ©rt... teszem azt az ÃšKK-hoz... ahelyett, hogy csatlakozzon Bishophoz?}
+{453}{}{Van erre bizonyÃ­tÃ©ka?}
+{460}{}{(A nÅ‘ kajÃ¡n mosolyt kÃ¼ld felÃ©d.) Hogy te milyen Ã©les eszÅ± vagy...}
+{461}{}{Ã–n tudta, Bishop mit tervel?}
+{462}{}{HÃ¡t, nÃ©hanapjÃ¡n... attÃ³l fÃ¼gg, kit kÃ©rdez rÃ³la. KÃ©rdeznÃ©k mÃ¡st...}
+{470}{}{(FelhÃºzza a szemÃ¶ldÃ¶kÃ©t.) Nem. MiÃ©rt, kÃ©ne? (Gondosan vÃ©gigmÃ©r, aztÃ¡n elmosolyodik.) }
+{471}{}{(FelhÃºzza a szemÃ¶ldÃ¶kÃ©t.) Nem. MiÃ©rt, kÃ©ne? (Gondosan vÃ©gigmÃ©r, aztÃ¡n Ãºjra elmosolyodik.) }
+{472}{}{Te aztÃ¡n egy csomÃ³ veszÃ©lyes kÃ©rdÃ©st tesztel fel a fÃ©rjem Ã¼zleteivel kapcsolatban. A helyedben Ã©n *nagyon* elÅ‘vigyÃ¡zatos lennÃ©k.}
+{473}{}{Ã–Ã¶, kÃ¶szÃ¶nÃ¶m a tanÃ¡csot. Lenne mÃ©g nÃ©hÃ¡ny "biztonsÃ¡gosabb" kÃ©rdÃ©sem...}
+{474}{}{Ãšgy lesz. ViszlÃ¡t!}
+{475}{}{KÃ¶szÃ¶nÃ¶m, hogy beszÃ©lgettÃ¼nk... Ã©s kÃ¶szÃ¶nÃ¶m a tanÃ¡csÃ¡t, Mrs. Bishop.}
+{480}{}{*SÃ³hajt*}
+{481}{}{Megint egy SZÃ‰PSÃ‰GES renÃ³i nap. Az Ã¶rdÃ¶g kÃ¶rtÃ¡ncot jÃ¡r.}
+{482}{}{A kaszinÃ³ban Ã¶sszesereglett tÃ¶megrÅ‘l Ã­tÃ©lve, Ãºgy lÃ¡tom mÃ¡r megint az emberi mocsok Ãºjabb hullÃ¡ma Ã©rkezett RenÃ³ba...}
+{483}{}{Reno... "A kis pÃ¶cegÃ¶drÃ¶k legnagyobbika a vilÃ¡gon." Hmmm}
+{490}{}{LÃ¡tod, ahogy Mrs. Bishop alszik. ElÃ©gedetten mosolyog kÃ¶zben.}
+{491}{}{LÃ¡tod, ahogy Mrs. Bishop alszik. MikÃ¶zben figyeled Å‘t, megelÃ©gedetten felsÃ³hajt Ã©s Ã¡tfordul alvÃ¡s kÃ¶zben.}
+{500}{}{Ez itt Mrs. Bishop. MikÃ¶zben Ã©ppen az Å‘rsÃ©get szÃ³longatja, elÃ©g nehÃ©z a kÃ¼lsejÃ©re koncentrÃ¡lni, }
+{510}{}{Mmmmm... Ã³, }
 {511}{}{Mmmzrrmnmn....again, }
-{512}{}{Kombbináziójja széfhez... }
-{515}{}{Behatoló! Segítség!}
+{512}{}{KombbinÃ¡ziÃ³jja szÃ©fhez... }
+{515}{}{BehatolÃ³! SegÃ­tsÃ©g!}
 {516}{}{Tolvaj! Tolvaj!}
-{517}{}{Behatoló! Õrség! Õrség!}
-{520}{}{(A nõ felvisz az emeletre, egy furcsa, jóillatú szobába. Amikor beléptek, olyan dolgokat kezd mûvelni, ami egyszerre okoz boldogságot és kényelmetlenséget.) Nem akarod megfogni a kezem?}
-{521}{}{[Bólogatsz]}
-{522}{}{[Ingatod a fejed]}
-{525}{}{Hmmmm. Jól van. Feküdj csak le az ágyra, én majd kézbe veszem a dolgokat!}
-{526}{}{Én utasít elfele én nem AKARNI én akar menni haza Arroyo-yo}
+{517}{}{BehatolÃ³! ÅrsÃ©g! ÅrsÃ©g!}
+{520}{}{(A nÅ‘ felvisz az emeletre, egy furcsa, jÃ³illatÃº szobÃ¡ba. Amikor belÃ©ptek, olyan dolgokat kezd mÅ±velni, ami egyszerre okoz boldogsÃ¡got Ã©s kÃ©nyelmetlensÃ©get.) Nem akarod megfogni a kezem?}
+{521}{}{(BÃ³logatsz)}
+{522}{}{(Ingatod a fejed)}
+{525}{}{Hmmmm. JÃ³l van. FekÃ¼dj csak le az Ã¡gyra, Ã©n majd kÃ©zbe veszem a dolgokat!}
+{526}{}{Ã‰n utasÃ­t elfele Ã©n nem AKARNI Ã©n akar menni haza Arroyo-yo}
 {527}{}{Azt teszed, amit mond.}
-{530}{}{(Hatalmas levegõt vesz, aztán olyan éktelenül kezd el visítani, hogy belesajdul a füled! Valami õrsegg meg toll-vaj, de nem lehet nagyon kivenni, mert olyan nagy zajt csap.)}
-{531}{}{Shhh! Ha nem csitulsz, George nem haggya, hogy jáccak a tengeri nyulakkal! Shhh!}
-{532}{}{Mi van a toll-vajával? Minek ide õrök segge?}
-{533}{}{Ne sikíccs! Ne sikíccs!}
-{535}{}{Igen, tudom. A szóbeszéd gyorsan terjed Renóban. (Felsóhajt.) Nem számít... Szerintem rá fogsz jönni, hogy egy férfi kielégítésében sokkal tapasztaltabb vagyok, mint õ. (Hirtelen rádnéz.) Használtatok profilaktikus szerkentyût, ugye?}
-{536}{}{Profi... prof-é... óvszerre gondol?}
-{537}{}{Óvszert?}
-{538}{}{Igen, elhasználtam egyet a tárgylistámból. Elõször nem tudtam, hova lett, de aztán rájöttem.}
-{539}{}{Ööö... Most aztán tényleg itt az ideje, hogy menjek, Mrs. Bishop.}
-{540}{}{Igen, *óvszert*. (Rádbámul.) Nagyszerû! Nagyon nagyszerû. (Vállat von.) Hát lehet, hogy nagymama leszek, vagy nem? Hagyjuk a beszédet, gyere közelebb!}
-{541}{}{Hát ez nem annyira egyértelmû, mint amilyennek gondolod. Dizájner humor, fogadjunk. (Vállat von.) Na, hagyjuk a fecsegést, gyere közelebb!}
-{542}{}{Azt mondja, még Angelánál is tapasztaltabb? Hát ezt látnom kell!}
+{530}{}{(Hatalmas levegÅ‘t vesz, aztÃ¡n olyan Ã©ktelenÃ¼l kezd el visÃ­tani, hogy belesajdul a fÃ¼led! Valami Å‘rsegg meg toll-vaj, de nem lehet nagyon kivenni, mert olyan nagy zajt csap.)}
+{531}{}{Shhhh! Ha te nem csitÃºni, George nem haggya, hogy jÃ¡ccak a nyuszikÃ¡kkal! Shhhh! }
+{532}{}{Mi van a toll-vajÃ¡val? Minek ide Å‘rÃ¶k segge?}
+{533}{}{Ne sikÃ­ccs! Ne sikÃ­ccs!}
+{535}{}{Igen, tudom. A szÃ³beszÃ©d gyorsan terjed RenÃ³ban. (FelsÃ³hajt.) Nem szÃ¡mÃ­t... Szerintem rÃ¡ fogsz jÃ¶nni, hogy egy fÃ©rfi kielÃ©gÃ­tÃ©sÃ©ben sokkal tapasztaltabb vagyok, mint Å‘. (Hirtelen rÃ¡dnÃ©z.) HasznÃ¡ltatok profilaktikus szerkentyÅ±t, ugye?}
+{536}{}{Profi... prof-Ã©... Ã³vszerre gondol?}
+{537}{}{Ã“vszert?}
+{538}{}{Igen, elhasznÃ¡ltam egyet a tÃ¡rgylistÃ¡mbÃ³l. ElÅ‘szÃ¶r nem tudtam, hova lett, de aztÃ¡n rÃ¡jÃ¶ttem.}
+{539}{}{Ã–Ã¶Ã¶... Most aztÃ¡n tÃ©nyleg itt az ideje, hogy menjek, Mrs. Bishop.}
+{540}{}{Igen, *Ã³vszert*. (RÃ¡dbÃ¡mul.) NagyszerÅ±! Nagyon nagyszerÅ±. (VÃ¡llat von.) HÃ¡t lehet, hogy nagymama leszek, vagy nem? Hagyjuk a beszÃ©det, gyere kÃ¶zelebb!}
+{541}{}{HÃ¡t ez nem annyira egyÃ©rtelmÅ±, mint amilyennek gondolod. DizÃ¡jner humor, fogadjunk. (VÃ¡llat von.) Na, hagyjuk a fecsegÃ©st, gyere kÃ¶zelebb!}
+{542}{}{Azt mondja, mÃ©g AngelÃ¡nÃ¡l is tapasztaltabb? HÃ¡t ezt lÃ¡tnom kell!}
 {543}{}{Mennem kell!}
-{545}{}{(Csatlakozol Mrs. Bishophoz egy italra a szobájában. Beszélgettek egy jó darabig, aztán közelebb húzódik és cirógatni kezd.)}
+{545}{}{(Csatlakozol Mrs. Bishophoz egy italra a szobÃ¡jÃ¡ban. BeszÃ©lgettek egy jÃ³ darabig, aztÃ¡n kÃ¶zelebb hÃºzÃ³dik Ã©s cirÃ³gatni kezd.)}
 {546}{}{[Go to it.]}
-{547}{}{Átöleled õt...}
-{548}{}{Öö, Mrs. Bishop, együtt voltam a lányával. Talán nekünk nem kéne...}
-{549}{}{Mielõtt belefognánk, nem akarja kinyitni a faliszéfjét, ahogy az ön lá... ööö ahogy az szokás?}
-{550}{}{Nézze, Mrs. Bishop, nekem most tényleg mehetnékem van.}
-{555}{}{Nem. Idejössz és kész!}
+{547}{}{ÃtÃ¶leled Å‘t...}
+{548}{}{Ã–Ã¶, Mrs. Bishop, egyÃ¼tt voltam a lÃ¡nyÃ¡val. TalÃ¡n nekÃ¼nk nem kÃ©ne...}
+{549}{}{MielÅ‘tt belefognÃ¡nk, nem akarja kinyitni a faliszÃ©fjÃ©t, ahogy az Ã¶n lÃ¡... Ã¶Ã¶Ã¶ ahogy az szokÃ¡s?}
+{550}{}{NÃ©zze, Mrs. Bishop, nekem most tÃ©nyleg mehetnÃ©kem van.}
+{555}{}{Nem. IdejÃ¶ssz Ã©s kÃ©sz!}
 {556}{}{[Go to it.]}
-{557}{}{Nézze, Mrs. Bishop, nekem most aztán tényleg mennem kéne.}
+{557}{}{NÃ©zze, Mrs. Bishop, nekem most aztÃ¡n tÃ©nyleg mennem kÃ©ne.}
 {560}{}{Oh?! Where do you have to go right now?}
 {561}{}{Mindegy, csak el innen.}
-{562}{}{Találkoznom kell Jules-lel a bejáratnál egy... különleges tranzakciót kell lebonyolítanunk.}
-{563}{}{Találkoznom kell egy barátommal, és nem késhetek el.}
-{564}{}{Nem kötöm az orrára. Viszlát, Mrs. Bishop.}
-{565}{}{Ha megpróbálsz kimenni a szobámból, összecsõdítem az õrséget!}
-{566}{}{Mindent számításba véve asszem, jobb lesz az õrök társaságában. Viszlát!}
-{567}{}{Találkoznom kell Jules-lel az elõvárosban egy... különleges tranzakciót kell lebonyolítanunk... nem várhat a dolog.}
-{569}{}{Rendben, rendben. Csak ne kelletnéd magad ennyire. Gyere közelebb!}
-{570}{}{Csak szeretném tudatni önnel, hogy ez nem helyes és ha erõsebb erkölcsi szálak feszülnének bennem, szigorú leckében részesíteném. Így viszont... nem kéretem magam.}
-{575}{}{Õrség! Behatoló! Tolvaj! Õrség! Behatoló a szobámban!}
-{576}{}{Hol? Mirõl beszél ön, Mrs. Bishop?}
-{577}{}{Bassza meg! Gyûlölöm ezt a játékot!}
-{580}{}{Remek! Szeretném tudatni veled, ha most nem fekszel le velem, attól még bármikor jöhetsz, ha akarsz, és összehozhatjuk a dolgot. Érted, amit mondok?}
+{562}{}{TalÃ¡lkoznom kell Jules-lel a bejÃ¡ratnÃ¡l egy... kÃ¼lÃ¶nleges tranzakciÃ³t kell lebonyolÃ­tanunk.}
+{563}{}{TalÃ¡lkoznom kell egy barÃ¡tommal, Ã©s nem kÃ©shetek el.}
+{564}{}{Nem kÃ¶tÃ¶m az orrÃ¡ra. ViszlÃ¡t, Mrs. Bishop.}
+{565}{}{Ha megprÃ³bÃ¡lsz kimenni a szobÃ¡mbÃ³l, Ã¶sszecsÅ‘dÃ­tem az Å‘rsÃ©get!}
+{566}{}{Mindent szÃ¡mÃ­tÃ¡sba vÃ©ve asszem, jobb lesz az Å‘rÃ¶k tÃ¡rsasÃ¡gÃ¡ban. ViszlÃ¡t!}
+{567}{}{TalÃ¡lkoznom kell Jules-lel az elÅ‘vÃ¡rosban egy... kÃ¼lÃ¶nleges tranzakciÃ³t kell lebonyolÃ­tanunk... nem vÃ¡rhat a dolog.}
+{569}{}{Rendben, rendben. Csak ne kelletnÃ©d magad ennyire. Gyere kÃ¶zelebb!}
+{570}{}{Csak szeretnÃ©m tudatni Ã¶nnel, hogy ez nem helyes Ã©s ha erÅ‘sebb erkÃ¶lcsi szÃ¡lak feszÃ¼lnÃ©nek bennem, szigorÃº leckÃ©ben rÃ©szesÃ­tenÃ©m. Ãgy viszont... nem kÃ©retem magam.}
+{575}{}{ÅrsÃ©g! BehatolÃ³! Tolvaj! ÅrsÃ©g! BehatolÃ³ a szobÃ¡mban!}
+{576}{}{Hol? MirÅ‘l beszÃ©l Ã¶n, Mrs. Bishop?}
+{577}{}{Bassza meg! GyÅ±lÃ¶lÃ¶m ezt a jÃ¡tÃ©kot!}
+{580}{}{Remek! SzeretnÃ©m tudatni veled, ha most nem fekszel le velem, attÃ³l mÃ©g bÃ¡rmikor jÃ¶hetsz, ha akarsz, Ã©s Ã¶sszehozhatjuk a dolgot. Ã‰rted, amit mondok?}
 {581}{}{Igen, de most hadd menjek.}
-{582}{}{Igen, megértettem.}
-{585}{}{(Mindketten elhagyjátok a szobát, és Mrs. Bishop kivezet. Együtt lementek az alsóbb szintre.)}
-{586}{}{Fúh.}
-{590}{}{(Szeretkeztek. Nem a legjobb, nem a legnagyszerûbb, de a viharos életetekbe csempészett rövidke együttlét során mindketten elfelejtitek a világ kegyetlenségeit és egymásba feledkeztek.)}
-{591}{}{(Szenvedélyes szeretkezésbe fogtok. A szexuális maraton végeztével Mrs. Bishop hozzádsímul és elégedetten mosolyog.) Mmmmm, }
-{592}{}{Te aztán *férfi* vagy a javából. (Megborzong.) Amit a nyelveddel csináltál, egyszerûen...}
-{593}{}{Te aztán *nõ* vagy a javából. (Megborzong.) Amit a nyelveddel csináltál, egyszerûen...}
-{594}{}{Most akkor... mit szándékozik tenni?}
+{582}{}{Igen, Ã©rthetÅ‘...}
+{585}{}{(Mindketten elhagyjÃ¡tok a szobÃ¡t, Ã©s Mrs. Bishop kivezet. EgyÃ¼tt lementek az alsÃ³bb szintre.)}
+{586}{}{FÃºh.}
+{590}{}{(Szeretkeztek. Nem a legjobb, nem a legnagyszerÅ±bb, de a viharos Ã©letetekbe csempÃ©szett rÃ¶vidke egyÃ¼ttlÃ©t sorÃ¡n mindketten elfelejtitek a vilÃ¡g kegyetlensÃ©geit Ã©s egymÃ¡sba feledkeztek.)}
+{591}{}{(SzenvedÃ©lyes szeretkezÃ©sbe fogtok. A szexuÃ¡lis maraton vÃ©geztÃ©vel Mrs. Bishop hozzÃ¡dsÃ­mul Ã©s elÃ©gedetten mosolyog.) Mmmmm, }
+{592}{}{Te aztÃ¡n *fÃ©rfi* vagy a javÃ¡bÃ³l. (Megborzong.) Amit a nyelveddel csinÃ¡ltÃ¡l, egyszerÅ±en...}
+{593}{}{Te aztÃ¡n *nÅ‘* vagy a javÃ¡bÃ³l. (Megborzong.) Amit a nyelveddel csinÃ¡ltÃ¡l, egyszerÅ±en...}
+{594}{}{Most akkor... mit szÃ¡ndÃ©kozik tenni?}
 {595}{}{Mmmmm, Leslie.}
-{596}{}{Öö, nézze, meglehet, hogy figyelnek bennünket felülrõl és minden szavunkat kihallgatják, ezért azt javaslom, hogy a párnák rejtekében beszéljük meg a kis titkainkat.}
-{600}{}{(Mrs. Bishop elégedetten felsóhajt és nyújtóztatja a végtagjait.)}
-{601}{}{Meséljen a férjérõl!}
-{602}{}{Meséljen nekem a lányáról!}
-{603}{}{Mondjon pár szót a családjáról!}
-{604}{}{Ugye ön nem New Renóból származik, Mrs. Bishop? Annyira máshogy beszél, mint az itteniek.}
-{605}{}{Menedékvárosból származik?}
+{596}{}{Ã–Ã¶, nÃ©zze, meglehet, hogy figyelnek bennÃ¼nket felÃ¼lrÅ‘l Ã©s minden szavunkat kihallgatjÃ¡k, ezÃ©rt azt javaslom, hogy a pÃ¡rnÃ¡k rejtekÃ©ben beszÃ©ljÃ¼k meg a kis titkainkat.}
+{600}{}{(Mrs. Bishop elÃ©gedetten felsÃ³hajt Ã©s nyÃºjtÃ³ztatja a vÃ©gtagjait.)}
+{601}{}{MesÃ©ljen a fÃ©rjÃ©rÅ‘l!}
+{602}{}{MesÃ©ljen nekem a lÃ¡nyÃ¡rÃ³l!}
+{603}{}{Mondjon pÃ¡r szÃ³t a csalÃ¡djÃ¡rÃ³l!}
+{604}{}{Ugye Ã¶n nem New RenÃ³bÃ³l szÃ¡rmazik, Mrs. Bishop? Annyira mÃ¡shogy beszÃ©l, mint az itteniek.}
+{605}{}{MenedÃ©kvÃ¡rosbÃ³l szÃ¡rmazik?}
 {606}{}{Sajnos most mennem kell, Mrs. Bishop.}
-{610}{}{(Mrs. Bishop kissé felhúzza a szemöldökét és összébbhúzza magán a lepedõt.) Biztos, hogy most RÓLA kell beszélnünk? Ne törjük meg a pillanat varázsát!}
-{611}{}{Igazán tudni szeretnék ezt-azt. Meséljen róla, kérem!}
-{612}{}{Rendben van, inkább másra térek...}
-{615}{}{(Felnevet.) Kit érdekel? Meghalt John, éljen John! A mocsadék...}
-{616}{}{Ha! Biztosíthatlak, hogy én és John nem szeretjük egymást. Ha volt is valaha némi kötõdés, mára már egészséges rosszindulattá fajult. Megvannak a saját nõi és nekem is megvannak a saját... kis kedvteléseim.}
-{617}{}{Ha csak egy kicsit is, de bizonyára szeretik még egymást.}
-{618}{}{Mi köze van neki az ÚKK-hoz?}
-{619}{}{Mi köze van neki az általam sokat hallott fosztogatókhoz?}
-{620}{}{Tudja, hogy mi Bishop széfjének a kombinációja?}
-{621}{}{Mi lenne, ha valami másra terelnénk a szót?...}
-{625}{}{(Homlokát ráncolja.) Ezt a képzeletedre bízom. Nem lehetne ejteni a témát? Beszéljünk valami másról inkább!}
-{630}{}{Nem akarja, hogy megöljem magának?}
-{635}{}{Ó... Hát *ásít*... szerintem John jóban akar lenni velük. (Nyújtózkodik.) ...és meg akarja szerezni a segítségüket, hogy a többi családot eltakarítsa az útból.}
-{636}{}{Ez minden, amit Bishop az ÚKK-tól akar?}
-{637}{}{Rendben van akkor, beszéljünk másról...}
-{638}{}{Érdekelne még egy-két dolog, miben törte John a fejét.}
-{645}{}{(Közelebb gurul.) John elküldött néhány zsoldost Keletre, Menedékváros közelébe, hogy "rámásszon" a városra. Megpróbál nyomást gyakorolni rájuk. Ki akarja kényszeríteni, hogy az ÚKK-hoz könyörögjenek segítségért.}
-{646}{}{Hogy az ÚKK-hoz könyörögjenek segítségért? Miért?}
-{650}{}{Mmmmm... ó... szóval... (Hátára fordul.) John megígérte az ÚKK-nak, hogy Menedékvárost átjátssza nekik. Ezért küldte oda néhány emberét, és meghagyta nekik, hogy Menedékváros bevételéig tettessék magukat fosztogatóknak.}
-{651}{}{Tudja, hol vannak ezek a fosztogatók?}
-{652}{}{Öö... van erre bármiféle bizonyíték?}
+{610}{}{(Mrs. Bishop kissÃ© felhÃºzza a szemÃ¶ldÃ¶kÃ©t Ã©s Ã¶sszÃ©bbhÃºzza magÃ¡n a lepedÅ‘t.) Biztos, hogy most RÃ“LA kell beszÃ©lnÃ¼nk? Ne tÃ¶rjÃ¼k meg a pillanat varÃ¡zsÃ¡t!}
+{611}{}{IgazÃ¡n tudni szeretnÃ©k ezt-azt. MesÃ©ljen rÃ³la, kÃ©rem!}
+{612}{}{Rendben van, inkÃ¡bb mÃ¡sra tÃ©rek...}
+{615}{}{(Felnevet.) Kit Ã©rdekel? Meghalt John, Ã©ljen John! A mocsadÃ©k...}
+{616}{}{Ha! BiztosÃ­thatlak, hogy Ã©n Ã©s John nem szeretjÃ¼k egymÃ¡st. Ha volt is valaha nÃ©mi kÃ¶tÅ‘dÃ©s, mÃ¡ra mÃ¡r egÃ©szsÃ©ges rosszindulattÃ¡ fajult. Megvannak a sajÃ¡t nÅ‘i Ã©s nekem is megvannak a sajÃ¡t... kis kedvtelÃ©seim.}
+{617}{}{Ha csak egy kicsit is, de bizonyÃ¡ra szeretik mÃ©g egymÃ¡st.}
+{618}{}{Mi kÃ¶ze van neki az ÃšKK-hoz?}
+{619}{}{Mi kÃ¶ze van neki az Ã¡ltalam sokat hallott fosztogatÃ³khoz?}
+{620}{}{Tudja, hogy mi Bishop szÃ©fjÃ©nek a kombinÃ¡ciÃ³ja?}
+{621}{}{Mi lenne, ha valami mÃ¡sra terelnÃ©nk a szÃ³t?...}
+{625}{}{(HomlokÃ¡t rÃ¡ncolja.) Ezt a kÃ©pzeletedre bÃ­zom. Nem lehetne ejteni a tÃ©mÃ¡t? BeszÃ©ljÃ¼nk valami mÃ¡srÃ³l inkÃ¡bb!}
+{630}{}{Nem akarja, hogy megÃ¶ljem magÃ¡nak?}
+{635}{}{Ã“... HÃ¡t *Ã¡sÃ­t*... szerintem John jÃ³ban akar lenni velÃ¼k. (NyÃºjtÃ³zkodik.) ...Ã©s meg akarja szerezni a segÃ­tsÃ©gÃ¼ket, hogy a tÃ¶bbi csalÃ¡dot eltakarÃ­tsa az ÃºtbÃ³l.}
+{636}{}{Ez minden, amit Bishop az ÃšKK-tÃ³l akar?}
+{637}{}{Rendben van akkor, beszÃ©ljÃ¼nk mÃ¡srÃ³l...}
+{638}{}{Ã‰rdekelne mÃ©g egy-kÃ©t dolog, miben tÃ¶rte John a fejÃ©t.}
+{645}{}{(KÃ¶zelebb gurul.) John elkÃ¼ldÃ¶tt nÃ©hÃ¡ny zsoldost Keletre, MenedÃ©kvÃ¡ros kÃ¶zelÃ©be, hogy "rÃ¡mÃ¡sszon" a vÃ¡rosra. MegprÃ³bÃ¡l nyomÃ¡st gyakorolni rÃ¡juk. Ki akarja kÃ©nyszerÃ­teni, hogy az ÃšKK-hoz kÃ¶nyÃ¶rÃ¶gjenek segÃ­tsÃ©gÃ©rt.}
+{646}{}{Hogy az ÃšKK-hoz kÃ¶nyÃ¶rÃ¶gjenek segÃ­tsÃ©gÃ©rt? MiÃ©rt?}
+{650}{}{Mmmmm... Ã³... szÃ³val... (HÃ¡tÃ¡ra fordul.) John megÃ­gÃ©rte az ÃšKK-nak, hogy MenedÃ©kvÃ¡rost Ã¡tjÃ¡tssza nekik. EzÃ©rt kÃ¼ldte oda nÃ©hÃ¡ny emberÃ©t, Ã©s meghagyta nekik, hogy MenedÃ©kvÃ¡ros bevÃ©telÃ©ig tettessÃ©k magukat fosztogatÃ³knak.}
+{651}{}{Tudja, hol vannak ezek a fosztogatÃ³k?}
+{652}{}{Ã–Ã¶... van erre bÃ¡rmifÃ©le bizonyÃ­tÃ©k?}
 {655}{}{No... John probably has a map of their location somewhere around here...
  (Sniffs slightly, rubs nose.) Mmmmm....}
-{657}{}{Beszéljünk inkább valami másról...}
+{657}{}{BeszÃ©ljÃ¼nk inkÃ¡bb valami mÃ¡srÃ³l...}
 {660}{}{, gondolom... valami ilyesmi...}
-{663}{}{Kiváló... itt az idõ, hogy megbontsuk a széfet... szép álmokat, Mrs. Bishop.}
-{665}{}{Ó, }
-{666}{}{Ó, köszönöm.}
-{670}{}{(A homlokát ráncolja.) Mi van *vele*?}
-{671}{}{Ha a kettõtök paráználkodásáról akarsz beszélni, nem érdekel a téma. A saját érdekedben reméld, hogy használtatok óvszert!}
-{672}{}{A kis cafka bármelyik törzsbélivel lefekszik, aki megrázza neki a békepipáját...}
-{673}{}{Öö... hát... beszéljünk inkább valami másról...}
-{675}{}{(Megvonja kissé a vállát.) Nincs mit mondanom. Egy rakás bérenc, zsoldos, kurva, díler és hajcsár... (Arrébbgurul.) ...errõl szól a Bishop "család". Bárcsak soha ne jöttem volna össze Johnnal...}
+{663}{}{KivÃ¡lÃ³... itt az idÅ‘, hogy megbontsuk a szÃ©fet... szÃ©p Ã¡lmokat, Mrs. Bishop.}
+{665}{}{Ã“, }
+{666}{}{Ã“, kÃ¶szÃ¶nÃ¶m.}
+{670}{}{(A homlokÃ¡t rÃ¡ncolja.) Mi van *vele*?}
+{671}{}{Ha a kettÅ‘tÃ¶k parÃ¡znÃ¡lkodÃ¡sÃ¡rÃ³l akarsz beszÃ©lni, nem Ã©rdekel a tÃ©ma. A sajÃ¡t Ã©rdekedben remÃ©ld, hogy hasznÃ¡ltatok Ã³vszert!}
+{672}{}{A kis cafka bÃ¡rmelyik tÃ¶rzsbÃ©livel lefekszik, aki megrÃ¡zza neki a bÃ©kepipÃ¡jÃ¡t...}
+{673}{}{Ã–Ã¶... hÃ¡t... beszÃ©ljÃ¼nk inkÃ¡bb valami mÃ¡srÃ³l...}
+{675}{}{(Megvonja kissÃ© a vÃ¡llÃ¡t.) Nincs mit mondanom. Egy rakÃ¡s bÃ©renc, zsoldos, kurva, dÃ­ler Ã©s hajcsÃ¡r... (ArrÃ©bbgurul.) ...errÅ‘l szÃ³l a Bishop "csalÃ¡d". BÃ¡rcsak soha ne jÃ¶ttem volna Ã¶ssze Johnnal...}
 {677}{}{Hmmmm. I had some other questions...}
-{680}{}{És a tied? Ami azt illeti... }
-{681}{}{Valóban, az én "házasságom" nem volt felhõtlen. Megboldogult férjem a hatalom építgetésén fáradozott, és ez ritkán enged teret... bármi egyébnek.}
-{682}{}{Valóban, az én "házasságom" nem felhõtlen. A férjem a hatalom építgetésén fáradozik, és ez ritkán enged teret... bármi egyébnek.}
-{683}{}{Boldogtalannak látszik. Elõbb vagy utóbb le kéne lépnie innen.}
-{684}{}{Hmmm. Volna még néhány egyéb kérdésem...}
-{690}{}{Na, ez aztán a BRILIÁNS ötlet! Mégis hova mehetnék? Egyenesen a pusztába, hogy a vademberekkel élhessek? Délre az ÚKK-ba? Észak-keletre, Reddingbe, hogy bányászoknak adhassam el a testem?}
-{691}{}{Miért lenne már lehetetlen itthagyni Renót? Ön nem ostoba liba. Szerintem ön bárhol, bármiben megállná a helyét.}
-{692}{}{Felejtse el, hogy egyáltalán megemlítettem! Inkább kérdeznék valami mást...}
-{700}{}{Ha elmegyek, a férjem visszahozat. Akarod vagy nem akarod, a Család odafigyel a tagjaira.}
-{701}{}{Hmmm. Talán meg lehetne csinálni... most, hogy John megkapta, ami neki jár, (Megbánóan mosolyog.) akár még meg is tehetném. Reno már jó ideje... kikészít engem. (Gondolkodóba esik.) Lehet, hogy csak menedzsmentet kéne váltani.}
+{680}{}{Ã‰s a tied? Ami azt illeti... }
+{681}{}{ValÃ³ban, az Ã©n "hÃ¡zassÃ¡gom" nem volt felhÅ‘tlen. Megboldogult fÃ©rjem a hatalom Ã©pÃ­tgetÃ©sÃ©n fÃ¡radozott, Ã©s ez ritkÃ¡n enged teret... bÃ¡rmi egyÃ©bnek.}
+{682}{}{ValÃ³ban, az Ã©n "hÃ¡zassÃ¡gom" nem felhÅ‘tlen. A fÃ©rjem a hatalom Ã©pÃ­tgetÃ©sÃ©n fÃ¡radozik, Ã©s ez ritkÃ¡n enged teret... bÃ¡rmi egyÃ©bnek.}
+{683}{}{Boldogtalannak lÃ¡tszik. ElÅ‘bb vagy utÃ³bb le kÃ©ne lÃ©pnie innen.}
+{684}{}{FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{690}{}{Na, ez aztÃ¡n a BRILIÃNS Ã¶tlet! MÃ©gis hova mehetnÃ©k? Egyenesen a pusztÃ¡ba, hogy a vademberekkel Ã©lhessek? DÃ©lre az ÃšKK-ba? Ã‰szak-keletre, Reddingbe, hogy bÃ¡nyÃ¡szoknak adhassam el a testem?}
+{691}{}{MiÃ©rt lenne mÃ¡r lehetetlen itthagyni RenÃ³t? Ã–n nem ostoba liba. Szerintem Ã¶n bÃ¡rhol, bÃ¡rmiben megÃ¡llnÃ¡ a helyÃ©t.}
+{692}{}{Felejtse el, hogy egyÃ¡ltalÃ¡n megemlÃ­tettem! InkÃ¡bb kÃ©rdeznÃ©k valami mÃ¡st...}
+{700}{}{Ha elmegyek, a fÃ©rjem visszahozat. Akarod vagy nem akarod, a CsalÃ¡d odafigyel a tagjaira.}
+{701}{}{Hmmm. TalÃ¡n meg lehetne csinÃ¡lni... most, hogy John megkapta, ami neki jÃ¡r, (MegbÃ¡nÃ³an mosolyog.) akÃ¡r mÃ©g meg is tehetnÃ©m. Reno mÃ¡r jÃ³ ideje... kikÃ©szÃ­t engem. (GondolkodÃ³ba esik.) Lehet, hogy csak menedzsmentet kÃ©ne vÃ¡ltani.}
 {702}{}{Say, I had some other questions...}
-{705}{}{Nem. (Átfordul és álmában motyog.) Ne légy idióta! Ha megtalálnak, egész rövidke életedben menekülnöd kell majd!}
-{706}{}{De mi van, ha az emberek nem jönnek rá, hogy én voltam?}
-{710}{}{(Megborzong és pislog hozzá.) Mirõl beszélsz te itt? Ne hordj össze butákat!}
-{711}{}{Nem is tudom, talán egy csapda volt? Vagy valami, ami eléggé balesetnek látszott?}
+{705}{}{Nem. (Ãtfordul Ã©s Ã¡lmÃ¡ban motyog.) Ne lÃ©gy idiÃ³ta! Ha megtalÃ¡lnak, egÃ©sz rÃ¶vidke Ã©letedben menekÃ¼lnÃ¶d kell majd!}
+{706}{}{De mi van, ha az emberek nem jÃ¶nnek rÃ¡, hogy Ã©n voltam?}
+{710}{}{(Megborzong Ã©s pislog hozzÃ¡.) MirÅ‘l beszÃ©lsz te itt? Ne hordj Ã¶ssze butÃ¡kat!}
+{711}{}{Nem is tudom, talÃ¡n egy csapda volt? Vagy valami, ami elÃ©ggÃ© balesetnek lÃ¡tszott?}
 {712}{}{All right. Look, I had some other questions...}
-{715}{}{(Felnyílik a szeme.) A széf... egy robbanószerkezetet szerelt fel rá az illetéktelenek ellen. Csak akkor biztonságos, ha a megfelelõ kódot gépeled be. Persze ha valaki megváltoztatná... "megpiszkálná" ...a tudta nélkül...}
-{716}{}{Hmmm. Talán ha "megreparálnám" azt a zárat a széfjén... Még visszatérünk rá. Addig is hadd kérdezzek egy s mást...}
-{720}{}{Nem, én valóban nem úgy beszélek, mint az itteniek. Képzésnek hívják a titkot. (Átfordul a másik oldalára.) Miért nem alszol?}
-{721}{}{Hol részesülhetnék képzésben?}
-{725}{}{*Ásít*... te máris éppen elég okos vagy nekem... aludj szépen! Ha egyfolytában információt akarsz belõlem kicsikarni, gondjaid lesznek.}
-{726}{}{Gondjaim? Itt az ágyban? Nekem ugyan nem...}
-{730}{}{(Felnyitja az egyik szemét.) Ezt ki mondta neked?}
-{731}{}{Kitaláltam, ahogy beszélt nekem Menedékvárosról. Hirtelen olyan nosztalgikus lett a nézése.}
-{735}{}{(Arckifejezése egy pillanatra elkomorul, aztán átfordul, így nem láthatod az arcát.) Ne is említsd azt a helyet!}
-{736}{}{Mi történt?}
+{715}{}{(FelnyÃ­lik a szeme.) A szÃ©f... egy robbanÃ³szerkezetet szerelt fel rÃ¡ az illetÃ©ktelenek ellen. Csak akkor biztonsÃ¡gos, ha a megfelelÅ‘ kÃ³dot gÃ©peled be. Persze ha valaki megvÃ¡ltoztatnÃ¡... "megpiszkÃ¡lnÃ¡" ...a tudta nÃ©lkÃ¼l...}
+{716}{}{Hmmm. TalÃ¡n ha "megreparÃ¡lnÃ¡m" azt a zÃ¡rat a szÃ©fjÃ©n... MÃ©g visszatÃ©rÃ¼nk rÃ¡. Addig is hadd kÃ©rdezzek egy s mÃ¡st...}
+{720}{}{Nem, Ã©n valÃ³ban nem Ãºgy beszÃ©lek, mint az itteniek. KÃ©pzÃ©snek hÃ­vjÃ¡k a titkot. (Ãtfordul a mÃ¡sik oldalÃ¡ra.) MiÃ©rt nem alszol?}
+{721}{}{Hol rÃ©szesÃ¼lhetnÃ©k kÃ©pzÃ©sben?}
+{725}{}{*ÃsÃ­t*... te mÃ¡ris Ã©ppen elÃ©g okos vagy nekem... aludj szÃ©pen! Ha egyfolytÃ¡ban informÃ¡ciÃ³t akarsz belÅ‘lem kicsikarni, gondjaid lesznek.}
+{726}{}{Gondjaim? Itt az Ã¡gyban? Nekem ugyan nem...}
+{730}{}{(Felnyitja az egyik szemÃ©t.) Ezt ki mondta neked?}
+{731}{}{KitalÃ¡ltam, ahogy beszÃ©lt nekem MenedÃ©kvÃ¡rosrÃ³l. Hirtelen olyan nosztalgikus lett a nÃ©zÃ©se.}
+{735}{}{(ArckifejezÃ©se egy pillanatra elkomorul, aztÃ¡n Ã¡tfordul, Ã­gy nem lÃ¡thatod az arcÃ¡t.) Ne is emlÃ­tsd azt a helyet!}
+{736}{}{Mi tÃ¶rtÃ©nt?}
 {740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
-{741}{}{És?}
-{745}{}{Volt nekik egy PipBoyokba való memóriabõvítõjük. Szótárakat és enciklopédiákat tartalmazott. Amikor eljöttem, magammal hoztam egyet, de gõzöm nincs miért.}
-{746}{}{Hol van ez a memóriabõvítõ?}
-{750}{}{*Ásít*... (Összegömbölyödik.) A széfemben. PipBoy nélkül nem sokat ér. Máig nem tudom, minek õrizgettem.}
-{751}{}{Enyém lehet?}
+{741}{}{Ã‰s?}
+{745}{}{Volt nekik egy PipBoyokba valÃ³ memÃ³riabÅ‘vÃ­tÅ‘jÃ¼k. SzÃ³tÃ¡rakat Ã©s enciklopÃ©diÃ¡kat tartalmazott. Amikor eljÃ¶ttem, magammal hoztam egyet, de gÅ‘zÃ¶m nincs miÃ©rt.}
+{746}{}{Hol van ez a memÃ³riabÅ‘vÃ­tÅ‘?}
+{750}{}{*ÃsÃ­t*... (Ã–sszegÃ¶mbÃ¶lyÃ¶dik.) A szÃ©femben. PipBoy nÃ©lkÃ¼l nem sokat Ã©r. MÃ¡ig nem tudom, minek Å‘rizgettem.}
+{751}{}{EnyÃ©m lehet?}
 {752}{}{Hmmmnn. I had some other questions...}
-{760}{}{(Vállat von.) Persze, ha kell. A kombináció }
-{761}{}{Hogy kell használni?}
+{760}{}{(VÃ¡llat von.) Persze, ha kell. A kombinÃ¡ciÃ³ }
+{761}{}{Hogy kell hasznÃ¡lni?}
 {762}{}{Thanks. Say, I had some other questions...}
-{770}{}{(Mrs. Bishop átfordul és behúnyja a szemét. Néhány másodperc múlva már alszik is.)}
-{771}{}{Csendben kicsusszansz az ágyból és felöltözöl.}
-{780}{}{Neki a szerelmeskedés annyiból állt, hogy betört a hálószobámba, és meghágott, mint egy részeg brahmin. És ez még az enyhébbik hiányosságai közé tartozik a többihez képest.}
-{781}{}{Miért, mik a többi hiányosságai?}
+{770}{}{(Mrs. Bishop Ã¡tfordul Ã©s behÃºnyja a szemÃ©t. NÃ©hÃ¡ny mÃ¡sodperc mÃºlva mÃ¡r alszik is.)}
+{771}{}{Csendben kicsusszansz az Ã¡gybÃ³l Ã©s felÃ¶ltÃ¶zÃ¶l.}
+{780}{}{Neki a szerelmeskedÃ©s annyibÃ³l Ã¡llt, hogy betÃ¶rt a hÃ¡lÃ³szobÃ¡mba, Ã©s meghÃ¡gott, mint egy rÃ©szeg brahmin. Ã‰s ez mÃ©g az enyhÃ©bbik hiÃ¡nyossÃ¡gai kÃ¶zÃ© tartozik a tÃ¶bbihez kÃ©pest.}
+{781}{}{MiÃ©rt, mik a tÃ¶bbi hiÃ¡nyossÃ¡gai?}
 {790}{}{He also probably wants a say in who controls the drug trade in the new California
  Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
-{791}{}{Szóval gyakorlatilag azt szeretné, ha Reno CSATLAKOZNA a Köztársasághoz... hmmmmm. Oké. Beszéljünk most valami másról...}
-{792}{}{Érdekes. Megtudhatnék még egy s mást, miben mesterkedett John?}
+{791}{}{SzÃ³val gyakorlatilag azt szeretnÃ©, ha Reno CSATLAKOZNA a KÃ¶ztÃ¡rsasÃ¡ghoz... hmmmmm. OkÃ©. BeszÃ©ljÃ¼nk most valami mÃ¡srÃ³l...}
+{792}{}{Ã‰rdekes. MegtudhatnÃ©k mÃ©g egy s mÃ¡st, miben mesterkedett John?}
 {800}{}{Drugs are illegal in Vault City, of course. The other Citizens found out and revoked my Citizenship. John was the only one I could turn to... he knew that, of course. He'd planned the whole thing.}
-{801}{}{Szóval ön Menedékvárosban tanult? Ezek szerint ezért különbözik annyira a többi New Reno-i lakostól?}
-{810}{}{Vedd fel a fejpántot, helyezd az optikai érzékelõt a jobb szemed elé, aztán csatlakoztasd a másik végét... hmmmm... (Arrébbgurul.) ...a PipBoyhoz. Kisebb problémákat fog okozni, rosszul leszel, aztán úgy fogod érezni, mintha... kitisztult volna a fejed.}
-{815}{}{Mmmmmmnnn...? Nem tudom. Talán John széfjében van... oda szokta rejteni a gondosan vezetett zsarolási naplóját is.}
-{820}{}{(Kérdésedet síri csend fogadja... Mrs. Bishop elaludt. Miközben magához szorítja a párnáját, arcán széles mosoly ül, és a nevedet ismételgeti.)}
-{821}{}{(Kérdésedet síri csend fogadja... Mrs. Bishop elaludt. Képtelen vagy elhessegetni a gondolatot, hogy esetleg ébren maradt volna, ha tapasztaltabb vagy a szex terén. Ezért aztán gyorsan lerázod magadról a feltételezést, nehogy még megártson az egódnak.)}
-{822}{}{(Csendesen kicsusszansz az ágyból.)}
-{825}{}{(Néhány perc szeretkezés után Mrs. Bishop hirtelen elalszik. Halk horkolást hallani felõle.)}
-{826}{}{(Befejezed, aztán távozol.)}
-{900}{}{Meggyõzted Mrs. Bishopot, hogy megváltoztathatja az életét... gyökeresen.}
-{1253}{}{ vagyok.}
+{801}{}{SzÃ³val Ã¶n MenedÃ©kvÃ¡rosban tanult? Ezek szerint ezÃ©rt kÃ¼lÃ¶nbÃ¶zik annyira a tÃ¶bbi New Reno-i lakostÃ³l?}
+{810}{}{Vedd fel a fejpÃ¡ntot, helyezd az optikai Ã©rzÃ©kelÅ‘t a jobb szemed elÃ©, aztÃ¡n csatlakoztasd a mÃ¡sik vÃ©gÃ©t... hmmmm... (ArrÃ©bbgurul.) ...a PipBoyhoz. Kisebb problÃ©mÃ¡kat fog okozni, rosszul leszel, aztÃ¡n Ãºgy fogod Ã©rezni, mintha... kitisztult volna a fejed.}
+{815}{}{Mmmmmmnnn...? Nem tudom. TalÃ¡n John szÃ©fjÃ©ben van... oda szokta rejteni a gondosan vezetett zsarolÃ¡si naplÃ³jÃ¡t is.}
+{820}{}{(KÃ©rdÃ©sedet sÃ­ri csend fogadja... Mrs. Bishop elaludt. MikÃ¶zben magÃ¡hoz szorÃ­tja a pÃ¡rnÃ¡jÃ¡t, arcÃ¡n szÃ©les mosoly Ã¼l, Ã©s a nevedet ismÃ©telgeti.)}
+{821}{}{(KÃ©rdÃ©sedet sÃ­ri csend fogadja... Mrs. Bishop elaludt. KÃ©ptelen vagy elhessegetni a gondolatot, hogy esetleg Ã©bren maradt volna, ha tapasztaltabb vagy a szex terÃ©n. EzÃ©rt aztÃ¡n gyorsan lerÃ¡zod magadrÃ³l a feltÃ©telezÃ©st, nehogy mÃ©g megÃ¡rtson az egÃ³dnak.)}
+{822}{}{(Csendesen kicsusszansz az Ã¡gybÃ³l.)}
+{825}{}{(NÃ©hÃ¡ny perc szeretkezÃ©s utÃ¡n Mrs. Bishop hirtelen elalszik. Halk horkolÃ¡st hallani felÅ‘le.)}
+{826}{}{(Befejezed, aztÃ¡n tÃ¡vozol.)}
+{900}{}{MeggyÅ‘zted Mrs. Bishopot, hogy megvÃ¡ltoztathatja az Ã©letÃ©t... gyÃ¶keresen.}
+{1253}{}{ dollÃ¡r.}
 {1315}{}{...' So...'}
 {1510}{}{, mmm-mmmm... mmmzmzrrm}
 {1511}{}{... oooh... }
 {1512}{}{... mmm...}
-{1591}{}{. }
-{1665}{}{... (Mrs. Bishop... Leslie... megfordul és a könyökére támaszkodik.) A széfjén csapda van. Vigyázz vele, oké? Ujjak nélkül nem megyek veled semmire. (Mosolyog, és újra végigheveredik az ágyon.)}
-{1760}{}{. A bõvítõ a széf aljában lévõ rekeszben van... tolvaj sosem találná meg, hacsak nem tudja, mit kell keresnie.}
-{2315}{}{' ...az isten szerelmére, mondd már el, szerinted miben segíthetnék neked?}
+{1591}{}{.}
+{1665}{}{... (Mrs. Bishop... Leslie... megfordul Ã©s a kÃ¶nyÃ¶kÃ©re tÃ¡maszkodik.) A szÃ©fjÃ©n csapda van. VigyÃ¡zz vele, okÃ©? Ujjak nÃ©lkÃ¼l nem megyek veled semmire. (Mosolyog, Ã©s Ãºjra vÃ©gigheveredik az Ã¡gyon.)}
+{1760}{}{. A bÅ‘vÃ­tÅ‘ a szÃ©f aljÃ¡ban lÃ©vÅ‘ rekeszben van... tolvaj sosem talÃ¡lnÃ¡ meg, hacsak nem tudja, mit kell keresnie.}
+{2315}{}{' ...az isten szerelmÃ©re, mondd mÃ¡r el, szerinted miben segÃ­thetnÃ©k neked?}
 {2511}{}{... mmm}

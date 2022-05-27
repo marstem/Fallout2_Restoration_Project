@@ -1,4 +1,4 @@
-{100}{}{Ezek a sziklák túl nagyok, hogy el tudd mozdítani õket.}
+{100}{}{Ezek a sziklÃ¡k tÃºl nagyok, hogy el tudd mozdÃ­tani Å‘ket.}
 {101}{}{The rocks budge a little, but not enough.}
-{102}{}{A sziklák már majdnem eltûntek az útból.}
-{103}{}{Nem ér semmit. Ezek a sziklák egyszerûen túl nagyok, hogy elmozdíthasd õket.}
+{102}{}{A sziklÃ¡k mÃ¡r majdnem eltÅ±ntek az ÃºtbÃ³l.}
+{103}{}{Nem Ã©r semmit. Ezek a sziklÃ¡k egyszerÅ±en tÃºl nagyok, hogy elmozdÃ­thasd Å‘ket.}

@@ -1,11 +1,11 @@
-{100}{}{Ez egy szeszfõzõ.}
-{101}{}{Ez a szeszfõzõ mûködõképesnek látszik.}
+{100}{}{Ez egy szeszfÅ‘zÅ‘.}
+{101}{}{Ez a szeszfÅ‘zÅ‘ mÅ±kÃ¶dÅ‘kÃ©pesnek lÃ¡tszik.}
 {102}{}{You see a damaged distilling device.}
 {103}{}{You see a damaged distilling device. Someone beat this thing up pretty badly.}
-{110}{}{Úgy tûnik, a szeszfõzõ most már szépen üzemel. }
+{110}{}{Ãšgy tÅ±nik, a szeszfÅ‘zÅ‘ most mÃ¡r szÃ©pen Ã¼zemel. }
 {111}{}{ experience points for refueling the still.}
-{120}{}{Ezzel nem jutottál semmire.}
-{130}{}{Beindítod a szeszfõzõt, de a whisky-nek rossz íze van.}
-{140}{}{A kazánba már nem fér több fa.}
+{120}{}{Ez nem csinÃ¡l semmit.}
+{130}{}{BeindÃ­tod a szeszfÅ‘zÅ‘t, de a whisky-nek rossz Ã­ze van.}
+{140}{}{A kazÃ¡nba mÃ¡r nem fÃ©r tÃ¶bb fa.}
 {150}{}{This still is no longer operational. There is no need for any wood.}
 {160}{}{You better not. It's best not to do something before being told to do so, right?}

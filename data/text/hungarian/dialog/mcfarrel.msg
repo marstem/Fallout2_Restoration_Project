@@ -1,68 +1,68 @@
 {100}{}{You see an old man. He makes a prune look fresh.}
 {101}{}{You see Farrel.}
-{102}{}{Minden egyes mozdulatát követõen száraz gallyak roppanó hangját hallod.}
-{150}{}{Hé, tûnjön onnan!}
+{102}{}{Minden egyes mozdulatÃ¡t kÃ¶vetÅ‘en szÃ¡raz gallyak roppanÃ³ hangjÃ¡t hallod.}
+{150}{}{HÃ©, tÅ±njÃ¶n onnan!}
 {151}{}{Hagyja abba!}
 {152}{}{Tolvaj!}
-{153}{}{Nem loptam el az órát, szóval ne jöjjön ide nekem az öreg Farrelt toszogatni ilyesmivel!}
-{154}{}{Cornelius azt állítja, hogy maga lopta el az óráját.}
-{155}{}{Honnan szedte a pénzt az új szerszámokra?}
-{156}{}{Mit tart érdemesnek elmondani Modocról?}
-{157}{}{Mit csinál itt, jóember?}
-{158}{}{Órát? Mirõl beszél?}
+{153}{}{Nem loptam el az Ã³rÃ¡t, szÃ³val ne jÃ¶jjÃ¶n ide nekem az Ã¶reg Farrelt toszogatni ilyesmivel!}
+{154}{}{Cornelius azt Ã¡llÃ­tja, hogy maga lopta el az Ã³rÃ¡jÃ¡t.}
+{155}{}{Honnan szedte a pÃ©nzt az Ãºj szerszÃ¡mokra?}
+{156}{}{Mit tart Ã©rdemesnek elmondani ModocrÃ³l?}
+{157}{}{Mivel foglalkozik itt?}
+{158}{}{Ã“rÃ¡t? MirÅ‘l beszÃ©l?}
 {159}{}{Igen?}
-{162}{}{Mit rejteget a faliszéfben?}
-{165}{}{Elkísérne a kertbe?}
-{166}{}{Kiirtottam a rágcsálókat a kertjébõl.}
-{167}{}{Valami órát emlegetett korábban.}
-{168}{}{Ez az az óra, amit keresett?}
-{169}{}{Szõrmókoknak annyi!}
-{170}{}{Érdem?}
-{171}{}{Jaj ne, már megint! Hány embert fog még küldeni Cornelius az órájáért? Nem én loptam el. Az az igazság, hogy ugyanaz a tolvaj engem is megrövidített. Amikor az óra eltûnt, a szerszámaim némelyikének is lába kélt. Tudom, hogy nem hisz nekem, de akár körül is nézhet, különben tudom, sosem megy el. Csinálja csak!}
-{172}{}{Asszem, körülnézek.}
-{173}{}{Miria mondta ezt magának? Majd jól elfenekelem, ha megint pletykálkodik! ha megint pletykálok! Nézze, lehet, hogy szegény ember vagyok, de van arcom. Segítettem az egyik kereskedõnek megszerelni a kocsiját, ezért cserébe pedig adott néhány szerszámot.}
-{174}{}{Vallja be, hogy bûnös!}
-{175}{}{Milyen bizonyítéka van, hogy igaz, amit mond?}
-{176}{}{Ezt most el kellene hinnem?}
-{177}{}{A becsületem az igazi bizonyíték, hogy igazat beszélek. Többet nem mondhatok.}
+{162}{}{Mit rejteget a faliszÃ©fben?}
+{165}{}{ElkÃ­sÃ©rne a kertbe?}
+{166}{}{Kiirtottam a rÃ¡gcsÃ¡lÃ³kat a kertjÃ©bÅ‘l.}
+{167}{}{Valami Ã³rÃ¡t emlegetett korÃ¡bban.}
+{168}{}{Ez az az Ã³ra, amit keresett?}
+{169}{}{SzÅ‘rmÃ³koknak annyi!}
+{170}{}{Ã‰rdem?}
+{171}{}{Jaj ne, mÃ¡r megint! HÃ¡ny embert fog mÃ©g kÃ¼ldeni Cornelius az Ã³rÃ¡jÃ¡Ã©rt? Nem Ã©n loptam el. Az az igazsÃ¡g, hogy ugyanaz a tolvaj engem is megrÃ¶vidÃ­tett. Amikor az Ã³ra eltÅ±nt, a szerszÃ¡maim nÃ©melyikÃ©nek is lÃ¡ba kÃ©lt. Tudom, hogy nem hisz nekem, de akÃ¡r kÃ¶rÃ¼l is nÃ©zhet, kÃ¼lÃ¶nben tudom, sosem megy el. CsinÃ¡lja csak!}
+{172}{}{Asszem, kÃ¶rÃ¼lnÃ©zek.}
+{173}{}{Miria mondta ezt magÃ¡nak? Majd jÃ³l elfenekelem, ha megint pletykÃ¡lkodik! ha megint pletykÃ¡lok! NÃ©zze, lehet, hogy szegÃ©ny ember vagyok, de van arcom. SegÃ­tettem az egyik kereskedÅ‘nek megszerelni a kocsijÃ¡t, ezÃ©rt cserÃ©be pedig adott nÃ©hÃ¡ny szerszÃ¡mot.}
+{174}{}{Vallja be, hogy bÅ±nÃ¶s!}
+{175}{}{Milyen bizonyÃ­tÃ©ka van, hogy igaz, amit mond?}
+{176}{}{Ezt el kÃ©ne hinnem?}
+{177}{}{A becsÃ¼letem az igazi bizonyÃ­tÃ©k, hogy igazat beszÃ©lek. TÃ¶bbet nem mondhatok.}
 {178}{}{Ha nem maga tette el, akkor ki lehetett?}
-{179}{}{Azt gyanítom, hogy egy tolvaj jár a városban, és elvitte az órát. Aztán meglépett. El nem tudom képzelni, milyen okból kifolyólag kellhetnek neki az én ócska szerszámaim.}
-{180}{}{Ezt most el kellene hinnem?}
-{181}{}{Nem, de mivel tudom, hogy nem én tettem, csak ezt az egy teóriát tudom felhozni.}
-{182}{}{Feltehetek még néhány kérdést?}
-{183}{}{Na, hiszen! Ha maga szerint bûnös vagyok, miért nem lõ le, és esünk túl rajta?! Kis gyökér barátom, gyere oszt kapj el!}
-{184}{}{Hogy találta meg? Úgy eldugtam azt a széfet, hogy senki ne találhassa meg. Maga profi tolvaj! Hmm... Hol is volt éppen, amikor eltûnt az aranyóra? Szerintem jobban tenné, ha most lelépne, és a széfbõl nem hiányozna semmi, különben magára eresztem Jo seriffet. Most pedig kifelé!}
-{185}{}{Modoc földmûvelõk és állattenyésztõk kicsiny közössége. Azzal, hogy a terményünket különféle alapanyagokra cseréljük be, mi látjuk el a környezõ városokat élelemmel. Az igazat megvallva ez egy igen jól kialakult rendszer, de egycsapásra megváltozhat az aszály miatt. Lassan a saját élelmünkre sem futja, és kereskednivalónk sincs már.}
-{187}{}{Fõleg a kertben szöszmötölök, és próbálom elérni, hogy azok a nyavalyás növények víz nélkül is nõjenek. Most nem tudok mit tenni, mert egy nagy valami költözött be oda és nemigen tudok tõle megszabadulni. Mindennek a tetejébe senki nem segít nekem, mert a jónép azt hiszi, hogy én loptam el Cornelius aranyóráját.}
-{188}{}{Fõleg a kertben szöszmötölök, és próbálom elérni, hogy azok a nyavalyás növények víz nélkül is nõjenek. Most viszont nem tudom megcsinálni, mert valami nagy lény beköltözött oda és esélyem sincs, hogy kifüstöljem onnan. Ha nem tudok a kertben termeszteni, éhezni fogok.}
-{189}{}{Segíthetek magán, ha fizet érte.}
-{190}{}{Boldogan segítek.}
-{191}{}{Vallja be, hogy maga lopta el az órát, és akkor segítek!}
-{193}{}{Nézzen körül! Én csak egy öregember vagyok. Alig futja élelemre, nemhogy még fizetni is tudjak magának.}
-{194}{}{Igazából... örülök, ha segíthetek.}
-{195}{}{Már megbocsásson, de akkor nincs segítség.}
-{196}{}{Ez csodálatos lenne. Nem tudom eléggé megköszönni. A kertem nem messze van ide keletre. Jöjjön velem, megmutatom!}
-{197}{}{Köszönöm! Maga aztán a hõsök hõse! Nem sokan kockáztatnák az életüket egy vadidegen emberért. Köszönöm! Köszönöm! Köszönöm... [boldog melegség önt el egészen a lábujjad hegyéig]}
-{198}{}{Feltehetek további kérdéseket?}
-{199}{}{Inkább éhezem, de nem szennyezem be a jóhíremet! Eridjen a pokolba!}
-{200}{}{Cornelius mindig is a barátom volt, sosem venném el az óráját. Én magam is tûvé tettem érte az egész várost, hogy újra barátok lehessünk, de sajnos nem jártam szerencsével.}
-{201}{}{Itt leszek még egy darabig. Ha rálelek, szólok.}
-{202}{}{Hát ez elkeserítõ. Kérdezhetek még?}
-{203}{}{Tényleg megtenné? Senki nem segít nekem, mert azt hiszik, hogy én loptam el az órát. Jó lenne, ha valaki legalább egyszer az én pártomat fogná. Én már egyszer végigkérdeztem mindenkit, de nem hinném, hogy probléma lenne újra végigjárni õket. Talán elmondanak magának olyasmit is, amit elõlem elhallgattak. Az sem ártana szerintem, ha egy kicsit körbeszaglászná a Rose Panziót. Cornelius következetesen letesz dolgokat, és már egy perccel késõbb sem tudja, hova tette.}
-{205}{}{Hadd nézzem csak! Igen, ez az! Azt állítja, hogy egy latrinában lakó patkány lopta el? Maga meg lemászott és visszahozta? A mindenségit! Most azonnal megyek és odaadom Corneliusnak! Újra barátok leszünk. Köszönöm.}
-{206}{}{Úga neked is. Mit szólnál, ha tennél Farrelnek egy kis szívességet, hombárfejû barátom? A kertem nyüzsög a rágcsálóktól. Ha megszabadítasz tõlük, megjutalmazlak.}
-{207}{}{Nem, nem, nem... én nem tenni.}
+{179}{}{Azt gyanÃ­tom, hogy egy tolvaj jÃ¡r a vÃ¡rosban, Ã©s elvitte az Ã³rÃ¡t. AztÃ¡n meglÃ©pett. El nem tudom kÃ©pzelni, milyen okbÃ³l kifolyÃ³lag kellhetnek neki az Ã©n Ã³cska szerszÃ¡maim.}
+{180}{}{Ezt el kÃ©ne hinnem?}
+{181}{}{Nem, de mivel tudom, hogy nem Ã©n tettem, csak ezt az egy teÃ³riÃ¡t tudom felhozni.}
+{182}{}{Feltehetek mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©st?}
+{183}{}{Na, hiszen! Ha maga szerint bÅ±nÃ¶s vagyok, miÃ©rt nem lÅ‘ le, Ã©s esÃ¼nk tÃºl rajta?! Kis gyÃ¶kÃ©r barÃ¡tom, gyere oszt kapj el!}
+{184}{}{Hogy talÃ¡lta meg? Ãšgy eldugtam azt a szÃ©fet, hogy senki ne talÃ¡lhassa meg. Maga profi tolvaj! Hmm... Hol is volt Ã©ppen, amikor eltÅ±nt az aranyÃ³ra? Szerintem jobban tennÃ©, ha most lelÃ©pne, Ã©s a szÃ©fbÅ‘l nem hiÃ¡nyozna semmi, kÃ¼lÃ¶nben magÃ¡ra eresztem Jo seriffet. Most pedig kifelÃ©!}
+{185}{}{Modoc fÃ¶ldmÅ±velÅ‘k Ã©s Ã¡llattenyÃ©sztÅ‘k kicsiny kÃ¶zÃ¶ssÃ©ge. Azzal, hogy a termÃ©nyÃ¼nket kÃ¼lÃ¶nfÃ©le alapanyagokra cserÃ©ljÃ¼k be, mi lÃ¡tjuk el a kÃ¶rnyezÅ‘ vÃ¡rosokat Ã©lelemmel. Az igazat megvallva ez egy igen jÃ³l kialakult rendszer, de egycsapÃ¡sra megvÃ¡ltozhat az aszÃ¡ly miatt. Lassan a sajÃ¡t Ã©lelmÃ¼nkre sem futja, Ã©s kereskednivalÃ³nk sincs mÃ¡r.}
+{187}{}{FÅ‘leg a kertben szÃ¶szmÃ¶tÃ¶lÃ¶k, Ã©s prÃ³bÃ¡lom elÃ©rni, hogy azok a nyavalyÃ¡s nÃ¶vÃ©nyek vÃ­z nÃ©lkÃ¼l is nÅ‘jenek. Most nem tudok mit tenni, mert egy nagy valami kÃ¶ltÃ¶zÃ¶tt be oda Ã©s nemigen tudok tÅ‘le megszabadulni. Mindennek a tetejÃ©be senki nem segÃ­t nekem, mert a jÃ³nÃ©p azt hiszi, hogy Ã©n loptam el Cornelius aranyÃ³rÃ¡jÃ¡t.}
+{188}{}{FÅ‘leg a kertben szÃ¶szmÃ¶tÃ¶lÃ¶k, Ã©s prÃ³bÃ¡lom elÃ©rni, hogy azok a nyavalyÃ¡s nÃ¶vÃ©nyek vÃ­z nÃ©lkÃ¼l is nÅ‘jenek. Most viszont nem tudom megcsinÃ¡lni, mert valami nagy lÃ©ny bekÃ¶ltÃ¶zÃ¶tt oda Ã©s esÃ©lyem sincs, hogy kifÃ¼stÃ¶ljem onnan. Ha nem tudok a kertben termeszteni, Ã©hezni fogok.}
+{189}{}{SegÃ­thetek magÃ¡n, ha fizet Ã©rte.}
+{190}{}{Boldogan segÃ­tek.}
+{191}{}{Vallja be, hogy maga lopta el az Ã³rÃ¡t, Ã©s akkor segÃ­tek!}
+{193}{}{NÃ©zzen kÃ¶rÃ¼l! Ã‰n csak egy Ã¶regember vagyok. Alig futja Ã©lelemre, nemhogy mÃ©g fizetni is tudjak magÃ¡nak.}
+{194}{}{IgazÃ¡bÃ³l... Ã¶rÃ¼lÃ¶k, ha segÃ­thetek.}
+{195}{}{MÃ¡r megbocsÃ¡sson, de akkor nincs segÃ­tsÃ©g.}
+{196}{}{Ez csodÃ¡latos lenne. Nem tudom elÃ©ggÃ© megkÃ¶szÃ¶nni. A kertem nem messze van ide keletre. JÃ¶jjÃ¶n velem, megmutatom!}
+{197}{}{KÃ¶szÃ¶nÃ¶m! Maga aztÃ¡n a hÅ‘sÃ¶k hÅ‘se! Nem sokan kockÃ¡ztatnÃ¡k az Ã©letÃ¼ket egy vadidegen emberÃ©rt. KÃ¶szÃ¶nÃ¶m! KÃ¶szÃ¶nÃ¶m! KÃ¶szÃ¶nÃ¶m... [boldog melegsÃ©g Ã¶nt el egÃ©szen a lÃ¡bujjad hegyÃ©ig]}
+{198}{}{Feltehetek nÃ©hÃ¡ny tovÃ¡bbi kÃ©rdÃ©st?}
+{199}{}{InkÃ¡bb Ã©hezem, de nem szennyezem be a jÃ³hÃ­remet! Eridjen a pokolba!}
+{200}{}{Cornelius mindig is a barÃ¡tom volt, sosem vennÃ©m el az Ã³rÃ¡jÃ¡t. Ã‰n magam is tÅ±vÃ© tettem Ã©rte az egÃ©sz vÃ¡rost, hogy Ãºjra barÃ¡tok lehessÃ¼nk, de sajnos nem jÃ¡rtam szerencsÃ©vel.}
+{201}{}{Itt leszek mÃ©g egy darabig. Ha rÃ¡lelek, szÃ³lok.}
+{202}{}{HÃ¡t ez elkeserÃ­tÅ‘. KÃ©rdezhetek mÃ©g?}
+{203}{}{TÃ©nyleg megtennÃ©? Senki nem segÃ­t nekem, mert azt hiszik, hogy Ã©n loptam el az Ã³rÃ¡t. JÃ³ lenne, ha valaki legalÃ¡bb egyszer az Ã©n pÃ¡rtomat fognÃ¡. Ã‰n mÃ¡r egyszer vÃ©gigkÃ©rdeztem mindenkit, de nem hinnÃ©m, hogy problÃ©ma lenne Ãºjra vÃ©gigjÃ¡rni Å‘ket. TalÃ¡n elmondanak magÃ¡nak olyasmit is, amit elÅ‘lem elhallgattak. Az sem Ã¡rtana szerintem, ha egy kicsit kÃ¶rbeszaglÃ¡sznÃ¡ a Rose PanziÃ³t. Cornelius kÃ¶vetkezetesen letesz dolgokat, Ã©s mÃ¡r egy perccel kÃ©sÅ‘bb sem tudja, hova tette.}
+{205}{}{Hadd nÃ©zzem csak! Igen, ez az! Azt Ã¡llÃ­tja, hogy egy latrinÃ¡ban lakÃ³ patkÃ¡ny lopta el? Maga meg lemÃ¡szott Ã©s visszahozta? A mindensÃ©git! Most azonnal megyek Ã©s odaadom Corneliusnak! Ãšjra barÃ¡tok leszÃ¼nk. KÃ¶szÃ¶nÃ¶m.}
+{206}{}{Ãšga neked is. Mit szÃ³lnÃ¡l, ha tennÃ©l Farrelnek egy kis szÃ­vessÃ©get, hombÃ¡rfejÅ± barÃ¡tom? A kertem nyÃ¼zsÃ¶g a rÃ¡gcsÃ¡lÃ³ktÃ³l. Ha megszabadÃ­tasz tÅ‘lÃ¼k, megjutalmazlak.}
+{207}{}{Nem, nem, nem... Ã©n nem tenni.}
 {208}{}{Rendbe'. Megtesz.}
-{209}{}{Viszlát!}
-{210}{}{Akkor kifelé, te agyalágyult barlanglakó!}
-{211}{}{Olyan jó hozzám, kedves barátom. [Megragadja a kezed, és elmentek a kerthez]. Nem szeretném, ha eltévedne. Nézzen be újra, ha kiirtotta õket.}
-{212}{}{Édes, kedves kisasszony, annyira jó az öregemberhez. [Megragadja a kezed, és elmentek a kerthez]. Nem szeretném, ha eltévedne. Nézzen be újra, ha kiirtotta õket.}
-{213}{}{Fantasztikus! Itt van a jutalmad. [Belekotor a zsebébe, és elõhalász egy félig megrágott sütit]. Most pedig légy jó, kedves barlanglakó barátom, vidd a sütit és kint játssz!}
-{300}{}{Megölöm azt a kurafit!}
-{301}{}{Gyûlölöm...}
+{209}{}{ViszlÃ¡t!}
+{210}{}{Akkor kifelÃ©, te agyalÃ¡gyult barlanglakÃ³!}
+{211}{}{Olyan jÃ³ hozzÃ¡m, kedves barÃ¡tom. [Megragadja a kezed, Ã©s elmentek a kerthez]. Nem szeretnÃ©m, ha eltÃ©vedne. NÃ©zzen be Ãºjra, ha kiirtotta Å‘ket.}
+{212}{}{Ã‰des, kedves kisasszony, annyira jÃ³ az Ã¶regemberhez. [Megragadja a kezed, Ã©s elmentek a kerthez]. Nem szeretnÃ©m, ha eltÃ©vedne. NÃ©zzen be Ãºjra, ha kiirtotta Å‘ket.}
+{213}{}{Fantasztikus! Itt van a jutalmad. [Belekotor a zsebÃ©be, Ã©s elÅ‘halÃ¡sz egy fÃ©lig megrÃ¡gott sÃ¼tit]. Most pedig lÃ©gy jÃ³, kedves barlanglakÃ³ barÃ¡tom, vidd a sÃ¼tit Ã©s kint jÃ¡tssz!}
+{300}{}{MegÃ¶lÃ¶m azt a kurafit!}
+{301}{}{GyÅ±lÃ¶lÃ¶m...}
 {302}{}{Grrr...}
-{501}{}{Nem loptam el azt a vacak órát!}
-{502}{}{Ártatlan vagyok, esküszöm!}
-{503}{}{Semmit nem értél vele!}
+{501}{}{Nem loptam el azt a vacak Ã³rÃ¡t!}
+{502}{}{Ãrtatlan vagyok, eskÃ¼szÃ¶m!}
+{503}{}{Semmit nem Ã©rtÃ©l vele!}
 {550}{}{Nem figyel arra, amit mondasz.}
-{600}{}{Békésen elsimítottad a Farrel és Cornelius közti áldatlan vitát.}
+{600}{}{BÃ©kÃ©sen elsimÃ­tottad a Farrel Ã©s Cornelius kÃ¶zti Ã¡ldatlan vitÃ¡t.}

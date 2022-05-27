@@ -9,13 +9,13 @@
 {220}{}{Dammit. I don't have time for this crap, my shift's almost over.}
 {221}{}{Look, he seemed pretty pissed. I wouln't keep him waiting.}
 {230}{}{Ah, hell. Fine. Watch over things while I'm gone. I'll be back in a few minutes.}
-{231}{}{Nem gond.}
+{231}{}{Nem probléma.}
 {240}{}{New recruit, huh? We get those here from time to time. Pretty boring job doing security here if you ask me. It's better than recruitment
  though, so I aint complaining. Good to have you aboard.}
 {241}{}{Thanks. So, I wouldn't keep Ashton waiting if I were you.}
 {242}{}{I appreciate the welcome. So, interested in getting off shift early?}
 {250}{}{Sure, why the hell not? Nothing exciting happens down here anyway. See you around.}
-{251}{}{Vigy�zzatok magadokra!}
+{251}{}{Vigyázzatok magadokra!}
 {260}{}{New recruit? Bullshit. Reinforcements are way too rare out here. Sounds like we got a rat on our hands. So long!}
 {300}{}{What the fuck! Aston never asked to see me. I don't know what the hell's going on but there's no record of you being allowed here. Looks to me like we got an intruder on our hands -- Soon to be a dead intruder}
 {400}{}{Woah, what the hell do you think you're doing!? Trying to rob us, right before my eyes... holy shit, you're a dumbass. Finally, I get to kill someone.}

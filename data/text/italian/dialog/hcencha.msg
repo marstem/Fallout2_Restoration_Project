@@ -28,7 +28,7 @@
 {127}{}{Bene. Ci si vede, allora.}
 {128}{}{Che tipo di persona e'? Beh... e' amichevole, ma ruvido. E' un buon capo ed e' solito essere giusto con noi. Non ci tratta male, se e' questo che vuoi sapere. Altre domande?}
 {129}{}{Beh, io penso che si sia portato dietro il denaro quando e' arrivato qui -- un sacco di denaro, se e' per quello. Non e' il genere di cose che si chiedono alla gente, comunque. Altre domande?}
-{130}{}{Beh, e' un po' ambiguo, credo… tuttavia, la maggior parte delle persone sono cosi', di questi tempi. Altre domande?}
+{130}{}{Beh, e' un po' ambiguo, credoâ€¦ tuttavia, la maggior parte delle persone sono cosi', di questi tempi. Altre domande?}
 {131}{}{Non ho idea di quale sia la sua storia. Voglio dire, quasi tutti noi guardiani di carovane siamo degli sbandati che sono arrivati qui in cerca di un lavoro. Immagino sia uno dei tanti costretti ad abbandonare in fretta un posto. Altre domande?}
 {132}{}{Dal momento che sono io il nuovo capo, probabilmente sono l'unica persona qui a non odiarti. Cosa posso fare per te?}
 {133}{}{Voglio un lavoro.}
@@ -38,8 +38,7 @@
 {137}{}{Parla con Bill, come sempre.}
 {138}{}{Okay.}
 {139}{}{Dopo quel che e' successo a Chad? Non credo proprio. Altro?}
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
- earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
+{140}{}{Siamo arrivati. Ecco i tuoi 500$. Se vuoi tornare indietro, noi partiamo alla fine della giornata. Ti pagheremo anche per il viaggio di ritorno, se vuoi. In un modo o nell'altro, comunque, partiremo per allora.}
 {141}{}{Ci vediamo.}
 {142}{}{Sei pronto per partire?}
 {143}{}{Grazie. Ecco i tuoi 500$. Se vuoi un altro lavoro, parla con Bill.}

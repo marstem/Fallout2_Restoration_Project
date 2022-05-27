@@ -2770,7 +2770,7 @@
 {40964}{}{Tu miri per divertimento. Io sparo per uccidere.}
 {40965}{}{Non hai le palle per sconfiggermi.}
 {40966}{}{Sembra proprio che tu sia stupido E cieco.}
-{40967}{}{Missed me by a few percentage points.}
+{40967}{}{Mi hai mancato solo per pochi punti percentuali.}
 {40968}{}{Sei uno di quegli stronzi con il prosciutto sugli occhi?}
 {40969}{}{La tua mira e' andata. La prossima volta, sara' il turno della tua testa.}
 {40970}{}{Diavolo, sono praticamente un fossile, eppure riesco a colpire meglio di te.}
@@ -3343,7 +3343,7 @@
 {44436}{}{Malfunzionamento sistemi.}
 {44437}{}{Fluttuazione nei sistemi energetici. Attivata energia di riserva.}
 {44438}{}{Integrita' corazza principale compromessa. Circuiti principali esposti.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
+{44439}{}{Unita' regolazione energia danneggiata. Funzionante al 75% della capacita'.}
 {44460}{}{Motivatore destro colpito. Danno minimo.}
 {44461}{}{Carrello sinistro spostato fuori allineamento.}
 {44462}{}{Ruota motrice destra piegata.}
@@ -3635,23 +3635,23 @@
 {70363}{}{Hell, I almost feel sorry for you. Almost.}
 {70400}{}{Ah! My head!}
 {70401}{}{I think my ear's bleeding.}
-{70402}{}{Cào! I hope that didn't break my nose.}
-{70410}{}{Cào! My arm!}
+{70402}{}{CÃ o! I hope that didn't break my nose.}
+{70410}{}{CÃ o! My arm!}
 {70411}{}{Dannazione, che male!}
 {70412}{}{At least it's not broken... I don't think.}
-{70420}{}{Cào! My arm!}
+{70420}{}{CÃ o! My arm!}
 {70421}{}{Dannazione, che male!}
 {70422}{}{At least it's not broken... I don't think.}
 {70430}{}{I think I broke a rib.}
 {70431}{}{I won't die that easily.}
-{70432}{}{Cào! That hurt!}
+{70432}{}{CÃ o! That hurt!}
 {70440}{}{Not the legs!}
 {70441}{}{Ah! Right in the shin.}
 {70442}{}{That hurt, but at least I can still walk.}
 {70450}{}{Not the legs!}
 {70451}{}{Ah! Right in the shin.}
 {70452}{}{That hurt, but at least I can still walk.}
-{70460}{}{Cào! My eyes!}
+{70460}{}{CÃ o! My eyes!}
 {70461}{}{Cheap shot!}
 {70462}{}{Hey! I can't afford another eye surgery!}
 {70470}{}{I can't believe you just hit me there.}

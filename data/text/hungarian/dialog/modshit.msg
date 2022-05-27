@@ -1,1 +1,1 @@
-{100}{}{Ez a hely bûzlik a metántól. Egyetlen kis szikra is levegõbe repítené ezt a lyukat.}
+{100}{}{Ez a hely bÅ±zlik a metÃ¡ntÃ³l. Egyetlen kis szikra is levegÅ‘be repÃ­tenÃ© ezt a lyukat.}

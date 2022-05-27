@@ -37,7 +37,7 @@
 {261}{}{Il banco ha vinto ancora!}
 {262}{}{Devo prendere qualche moneta...}
 {263}{}{Dannata macchinetta! Continui a fregarti tutti i miei soldi...}
-{270}{}{You done have my apology, stranger. Luck be with ya.}
+{270}{}{Ti devo le mie scuse.  Ti auguro la miglior fortuna.}
 {271}{}{Scusa se ho perso le staffe. Il sole del deserto ti fa dire cose terribili.}
 {272}{}{::Fa il gesto di alzare il cappello::}
 {275}{}{}
@@ -112,7 +112,7 @@
 {410}{}{Come non detto. Scusa il disturbo.}
 {415}{}{}
 {416}{}{}
-{417}{}{Tra un po' saranno cinque anni... Sono certo che questa macchinetta è sul punto di cedere. E quando lo fara'... JACKPOT! Eh eh eh!}
+{417}{}{Tra un po' saranno cinque anni... Sono certo che questa macchinetta Ã¨ sul punto di cedere. E quando lo fara'... JACKPOT! Eh eh eh!}
 {418}{}{Uh, ti auguro buona fortuna, allora.}
 {419}{}{Caaaaaaaavoli. Ci vediamo dopo, eh?}
 {425}{}{}

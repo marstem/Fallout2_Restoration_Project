@@ -1,253 +1,253 @@
-{100}{}{Egy piszkos barna pulóvert viselõ, ápolatlan külsejû embert látsz. A karjait ronda, vörös kiütések borítják, amit gyakran vakargat.}
+{100}{}{Egy piszkos barna pulÃ³vert viselÅ‘, Ã¡polatlan kÃ¼lsejÅ± embert lÃ¡tsz. A karjait ronda, vÃ¶rÃ¶s kiÃ¼tÃ©sek borÃ­tjÃ¡k, amit gyakran vakargat.}
 {101}{}{"Doktor" Andrew.}
-{102}{}{Egy piszkos barna pulóvert viselõ, ápolatlan külsejû embert látsz. A karjait ronda, vörös kiütések borítják, amit gyakran vakargat.}
-{103}{}{Úgy látom, akad némi kozmetikáznivaló rajtad, barátom.}
-{104}{}{Ejha, úgy látom, alaposan helybenhagytak, barátom.}
-{105}{}{Aszentségit, hogy nézel ki?! Átgázolt rajtad egy brahmin-csorda, vagy mi?}
-{106}{}{Jézusom!!! Mindjárt kifolyik a beled a padlóra!}
-{107}{}{Helyrepofozás kell?}
+{102}{}{Egy piszkos barna pulÃ³vert viselÅ‘, Ã¡polatlan kÃ¼lsejÅ± embert lÃ¡tsz. A karjait ronda, vÃ¶rÃ¶s kiÃ¼tÃ©sek borÃ­tjÃ¡k, amit gyakran vakargat.}
+{103}{}{Ãšgy lÃ¡tom, akad nÃ©mi kozmetikÃ¡znivalÃ³ rajtad, barÃ¡tom.}
+{104}{}{Ejha, Ãºgy lÃ¡tom, alaposan helybenhagytak, barÃ¡tom.}
+{105}{}{AszentsÃ©git, hogy nÃ©zel ki?! ÃtgÃ¡zolt rajtad egy brahmin-csorda, vagy mi?}
+{106}{}{JÃ©zusom!!! MindjÃ¡rt kifolyik a beled a padlÃ³ra!}
+{107}{}{HelyrepofozÃ¡s kell?}
 {108}{}{Patssshh.}
 {109}{}{Nm.}
-{110}{}{Jól jönne némi orvosi ellátás.}
-{111}{}{Egy kinövést kéne eltávolítani... a hatodik lábujjamat.}
-{112}{}{Eltaláltad. A barátom nincs túl jól.}
-{113}{}{Eltaláltad. A barátaim elég romos állapotban vannak.}
-{114}{}{Mi ez a hely tulajdonképpen?}
-{115}{}{Bocs, mi is ez a hely tulajdonképpen?}
-{116}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Végrehajtanál egy ilyen operációt?}
-{117}{}{Kösz nem, ez csak egy karcolás. Viszlát!}
-{118}{}{Csak benéztem. Viszlát!}
-{119}{}{Állok rendelkezésedre. Ha jól számolom, összesen }
-{120}{}{ dollár lesz. Ez abszolúte jutányos ár, igazam van?}
-{121}{}{Azért elõre szólok, nincs garancia. Eléggé leharcolt berendezésrõl van szó.}
-{122}{}{Patshhh? Patshh! Elveszi lovéé, betöm lukak.}
-{123}{}{Viszlát!}
-{124}{}{Nem elég lovéé. Viszlát!}
-{125}{}{Rendben.}
-{126}{}{Most csak viccelsz, ugye? Bõségesen elég kell legyen }
-{127}{}{?}
-{128}{}{Felejtsd el! Mi a helyzet a barátommal?}
-{129}{}{Felejtsd el! Mi a helyzet a barátaimmal?}
-{130}{}{Mi ez a hely tulajdonképpen?}
-{131}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Végrehajtanál egy ilyen operációt?}
-{132}{}{Nincs ennyi pénzem. Késõbb majd visszajövök.}
-{133}{}{Dolgom van, mennem kell.}
-{134}{}{Rendben.}
-{135}{}{Kezeket a bilincsbe... úgy... csuklópántok feszesek...}
+{110}{}{JÃ³l jÃ¶nne nÃ©mi orvosi ellÃ¡tÃ¡s.}
+{111}{}{Egy kinÃ¶vÃ©st kÃ©ne eltÃ¡volÃ­tani... a hatodik lÃ¡bujjamat.}
+{112}{}{EltalÃ¡ltad. A barÃ¡tom nincs tÃºl jÃ³l.}
+{113}{}{EltalÃ¡ltad. A barÃ¡taim elÃ©g romos Ã¡llapotban vannak.}
+{114}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{115}{}{Bocs, mi is ez a hely tulajdonkÃ©ppen?}
+{116}{}{TalÃ¡ltam nÃ©hÃ¡ny harci beÃ¼ltetÃ©s tervet MenedÃ©kvÃ¡ros orvosi adatbÃ¡zisÃ¡ban. KÃ©pes vagy vÃ©grehajtani egy ilyen operÃ¡ciÃ³t?}
+{117}{}{KÃ¶sz nem, ez csak egy karcolÃ¡s. ViszlÃ¡t!}
+{118}{}{Csak benÃ©ztem. ViszlÃ¡t!}
+{119}{}{Ahogy elnÃ©zem, ez uszkve }
+{120}{}{ dollÃ¡r lesz. Ha van pÃ©nzed, akÃ¡r kezdhetjÃ¼k is.}
+{121}{}{AzÃ©rt elÅ‘re szÃ³lok, nincs garancia. ElÃ©ggÃ© leharcolt berendezÃ©srÅ‘l van szÃ³.}
+{122}{}{Patshhh? Patshh! Elveszi lovÃ©Ã©, betÃ¶m lukak.}
+{123}{}{ViszlÃ¡t!}
+{124}{}{Nem elÃ©g lovÃ©Ã©. ViszlÃ¡t!}
+{125}{}{Ã‰rtem.}
+{126}{}{Az tÃºl sok. Legyen inkÃ¡bb }
+{127}{}{ barÃ¡toddal?}
+{128}{}{Felejtsd el! Mi a helyzet a barÃ¡tommal?}
+{129}{}{Felejtsd el! Mi a helyzet a barÃ¡taimmal?}
+{130}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{131}{}{TalÃ¡ltam nÃ©hÃ¡ny harci beÃ¼ltetÃ©s tervet MenedÃ©kvÃ¡ros orvosi adatbÃ¡zisÃ¡ban. KÃ©pes vagy vÃ©grehajtani egy ilyen operÃ¡ciÃ³t?}
+{132}{}{Nincs nÃ¡lam ennyi. VisszajÃ¶vÃ¶k, ha lesz elÃ©g pÃ©nzem.}
+{133}{}{KÃ¶sz, nem. ViszlÃ¡t!}
+{134}{}{Rendben van, megegyeztÃ¼nk.}
+{135}{}{Kezeket a bilincsbe... Ãºgy... csuklÃ³pÃ¡ntok feszesek...}
 {136}{}{Fade out for 3 Seconds}
-{137}{}{Oké! Tudtam, hogy a vén Doki nem hagy cserben.}
-{138}{}{Én akarja mégeccer! Mégeccer!}
-{139}{}{Hellóóóóó...}
-{140}{}{Segítesz a barátomon?}
-{141}{}{Segítesz a barátaimon?}
-{142}{}{Mi ez a hely tulajdonképpen?}
-{143}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Végrehajtanál egy ilyen operációt?}
-{144}{}{Sokkal jobban érzem magam, köszönöm.}
-{145}{}{Hm... nos...  elég nagy a rizikó, barátom. Ahogy elnézem, már volt dolgod a vén Dokival. De ha nagyon akarod...}
+{137}{}{OkÃ©! Tudtam, hogy a vÃ©n Doki nem hagy cserben.}
+{138}{}{Ã‰n akarja mÃ©geccer! MÃ©geccer!}
+{139}{}{HellÃ³Ã³Ã³Ã³Ã³...}
+{140}{}{SegÃ­tesz a barÃ¡tomon?}
+{141}{}{SegÃ­tesz a barÃ¡taimon?}
+{142}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{143}{}{TalÃ¡ltam nÃ©hÃ¡ny harci beÃ¼ltetÃ©s tervet MenedÃ©kvÃ¡ros orvosi adatbÃ¡zisÃ¡ban. KÃ©pes vagy vÃ©grehajtani egy ilyen operÃ¡ciÃ³t?}
+{144}{}{Sokkal jobban Ã©rzem magam, kÃ¶szÃ¶nÃ¶m.}
+{145}{}{Hm... nos...  elÃ©g nagy a rizikÃ³, barÃ¡tom. Ahogy elnÃ©zem, mÃ¡r volt dolgod a vÃ©n Dokival. De ha nagyon akarod...}
 {146}{}{Fade out for 3 Seconds}
-{147}{}{Nos, hogy érzed? Jobb lett vagy rosszabb?}
-{148}{}{Még! Még! Méég!}
-{149}{}{Én érzem, visszajönni erõm, én lenni most jóóó. Helóóóóó.}
-{150}{}{Én figyelmeztettelek.}
+{147}{}{Nos, hogy Ã©rzed? Jobb lett vagy rosszabb?}
+{148}{}{MÃ©g! MÃ©g! MÃ©Ã©g!}
+{149}{}{Ã‰n Ã©rzem, visszajÃ¶nni erÅ‘m, Ã©n lenni most jÃ³Ã³Ã³. HelÃ³Ã³Ã³Ã³Ã³.}
+{150}{}{Ã‰n figyelmeztettelek.}
 {151}{}{Fade out for 3 Seconds}
-{152}{}{Hoppszla. Úgy látom, a Vén Doki kikanyarított belõled vagy két kiló húst. Bocsi.}
-{153}{}{Áhhhhrghhh... én megsérülni... belhüll... én nem akarni soha többet beülni ebbe gonosz izébe megin'.}
-{154}{}{Én csak a burkolattal foglalkozom. Szóval nem tudok mit kezdeni azzal a masszával, amit a fejedben hordasz. Sajnálom.}
-{155}{}{Meg tudsz gyógyítani?}
-{156}{}{Értem. Kérdeznék valami mást.}
-{157}{}{Rendben. Azért kösz.}
-{158}{}{Állok rendelkezésedre. Ha jól számolom, összesen }
-{159}{}{ dollár lesz. Ez abszolúte jutányos ár, igazam van?}
-{160}{}{Garancia persze nincs, ezt jobb, ha tudod. Elég lepukkant Auto-dokit használok.}
-{161}{}{Rendben.}
-{162}{}{Most csak viccelsz, ugye? Bõségesen elég kell legyen }
-{163}{}{?}
+{152}{}{Hoppszla. Ãšgy lÃ¡tom, a VÃ©n Doki kikanyarÃ­tott belÅ‘led vagy kÃ©t kilÃ³ hÃºst. Bocsi.}
+{153}{}{Ãhhhhrghhh... Ã©n megsÃ©rÃ¼lni... belhÃ¼ll... Ã©n nem akarni soha tÃ¶bbet beÃ¼lni ebbe gonosz izÃ©be megin'.}
+{154}{}{Ã‰n csak a burkolattal foglalkozom. SzÃ³val nem tudok mit kezdeni azzal a masszÃ¡val, amit a fejedben hordasz. SajnÃ¡lom.}
+{155}{}{Meg tudsz gyÃ³gyÃ­tani?}
+{156}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{157}{}{Rendben. AzÃ©rt kÃ¶sz.}
+{158}{}{Ahogy elnÃ©zem, ez uszkve }
+{159}{}{ dollÃ¡r lesz. Ha van pÃ©nzed, akÃ¡r kezdhetjÃ¼k is.}
+{160}{}{Garancia persze nincs, ezt jobb, ha tudod. ElÃ©g lepukkant Auto-dokit hasznÃ¡lok.}
+{161}{}{Ã‰rtem.}
+{162}{}{Az tÃºl sok. Legyen inkÃ¡bb }
+{163}{}{ barÃ¡toddal?}
 {164}{}{Felejtsd el! Mi a helyzet velem?}
-{165}{}{Mi ez a hely tulajdonképpen?}
-{166}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Végrehajtanál egy ilyen operációt?}
-{167}{}{Nincs ennyi pénzem. Késõbb majd visszajövök.}
-{168}{}{Meggondoltam magam. Viszlát!}
+{165}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{166}{}{TalÃ¡ltam nÃ©hÃ¡ny harci beÃ¼ltetÃ©s tervet MenedÃ©kvÃ¡ros orvosi adatbÃ¡zisÃ¡ban. KÃ©pes vagy vÃ©grehajtani egy ilyen operÃ¡ciÃ³t?}
+{167}{}{Nincs nÃ¡lam ennyi. VisszajÃ¶vÃ¶k, ha lesz elÃ©g pÃ©nzem.}
+{168}{}{Meggondoltam magam. ViszlÃ¡t!}
 {169}{}{Nos... mondok valamit. Legyen }
-{170}{}{ dollár az egészért, és pöpecül rendbeteszek mindent! Mit mondasz?}
-{171}{}{Rendben.}
-{172}{}{Nem is tudom, ez soknak tûnik. Legyen inkább }
+{170}{}{ dollÃ¡r az egÃ©szÃ©rt, Ã©s pÃ¶pecÃ¼l rendbeteszek mindent! Mit mondasz?}
+{171}{}{Ã‰rtem.}
+{172}{}{Nem is tudom, ez soknak tÅ±nik. Legyen inkÃ¡bb }
 {173}{}{. Szerinted?}
-{174}{}{Nem tudnál inkább csak engem helyrepofozni?}
-{175}{}{Mi ez a hely tulajdonképpen?}
-{176}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Végrehajtanál egy ilyen operációt?}
-{177}{}{Nincs ennyi pénzem. Késõbb majd visszajövök.}
-{178}{}{Meggondoltam magam. Viszlát!}
-{179}{}{Rendben.}
-{180}{}{Kezdjünk hozzá... miután imádkoztunk!}
+{174}{}{Nem tudnÃ¡l inkÃ¡bb csak engem helyrepofozni?}
+{175}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{176}{}{TalÃ¡ltam nÃ©hÃ¡ny harci beÃ¼ltetÃ©s tervet MenedÃ©kvÃ¡ros orvosi adatbÃ¡zisÃ¡ban. KÃ©pes vagy vÃ©grehajtani egy ilyen operÃ¡ciÃ³t?}
+{177}{}{Nincs nÃ¡lam ennyi. VisszajÃ¶vÃ¶k, ha lesz elÃ©g pÃ©nzem.}
+{178}{}{Meggondoltam magam. ViszlÃ¡t!}
+{179}{}{Rendben van, megegyeztÃ¼nk.}
+{180}{}{Akkor vÃ¡gjunk is bele!... Nyugi, nem szÃ³ szerint Ã©rtettem. Bilincsek a helyÃ¼kÃ¶n... pÃ¡ntok meghÃºzva...}
 {181}{}{Fade out for 3 Seconds}
-{182}{}{Kész is vagyunk! Tudtam, hogy a Vén Dokiban van még egy kis élet, szépen összefércelte a sebeket.}
-{183}{}{Kösz. Kérdeznék tõled valamit.}
-{184}{}{Remek munkát végeztél. Viszlát!}
-{185}{}{Ez Elõváros "általános testrész áruháza", vagy ha úgy jobban tetszik, egy klinika. Én, és a Vén Doki ott hátul, bárkit rendbeteszünk egészségügyileg.}
-{186}{}{Vén Doki?!}
-{187}{}{Értem. Kérdeznék még valamit.}
-{188}{}{Most mennem kell. Viszlát!}
-{189}{}{Az. Tudod, én már csak így hívom az Auto-dokit a hátsó szobában. A városból adták kölcsön.}
-{190}{}{Néha elég rakoncátlan tud lenni, de általában megcsinálja, amit kell. Mondom... általában.}
-{191}{}{Mostanában sokkal jobban vagdos, mint korábban, ami ugye jó dolog. Lefaragja a törzsvendégek számát.}
-{192}{}{Kicseréltem néhány kábelt és kitisztítottam a belsejét. Ezután nem lesz vele gondod.}
-{193}{}{Értem. Kérdeznék még valamit.}
-{194}{}{Rakoncátlan? Rendbeteszem semmi perc alatt.}
-{195}{}{Késõbb még találkozunk.}
-{196}{}{Hááát... kösz szépen. Igazán rendes tõled, hogy ingyen megjavítottad.}
-{197}{}{Álljunk csak meg egy szóra, doki! Ki beszélt itt ingyenmunkáról?! Tessék csak felköhögni egy kis lét!}
-{198}{}{Szívesen. Esetleg részesülhetnék némi árengedményben?}
-{199}{}{Örülök, hogy segíthettem.}
-{200}{}{Ki van zárva! Kértelek egy szóval is, hogy buzeráld a masinát? Önként, puszta kedvtelésbõl csináltad és... hohó... nyugi... csak lassan a testtel! Én nem ugrálnék a helyedben, az õrök a közelben vannak!}
-{201}{}{Hívd csak õket! Mire ideérnek, már szitát csináltam a seggedbõl.}
-{202}{}{Hát, ezesetben... [fogcsikorgatás]... szívesen.}
-{203}{}{Csak vicceltem, barátom, nem kell lesápadni! Rendes srác vagy te, kösz a segítséget.}
-{204}{}{Miben segíthetek?}
-{205}{}{Jól jönne némi orvosi ellátás.}
-{206}{}{Egy kinövést kéne eltávolítani... a hatodik lábujjamat.}
-{207}{}{A barátom nincs túl jól. Mennyibe kerül az orvosi ellátása?}
-{208}{}{A barátaim nincsenek túl jól. Mennyibe kerül az orvosi ellátásuk?}
-{209}{}{Mi ez a hely tulajdonképpen?}
-{210}{}{Mi is ez a hely tulajdonképpen?}
-{211}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Végrehajtanál egy ilyen operációt?}
+{182}{}{KÃ©sz is vagyunk! Tudtam, hogy a VÃ©n Dokiban van mÃ©g egy kis Ã©let, szÃ©pen Ã¶sszefÃ©rcelte a sebeket.}
+{183}{}{KÃ¶sz. KÃ©rdeznÃ©k tÅ‘led valamit.}
+{184}{}{Remek munkÃ¡t vÃ©geztÃ©l. ViszlÃ¡t!}
+{185}{}{Ez ElÅ‘vÃ¡ros "Ã¡ltalÃ¡nos testrÃ©sz Ã¡ruhÃ¡za", vagy ha Ãºgy jobban tetszik, egy klinika. Ã‰n, Ã©s a VÃ©n Doki ott hÃ¡tul, bÃ¡rkit rendbeteszÃ¼nk egÃ©szsÃ©gÃ¼gyileg.}
+{186}{}{VÃ©n Doki?!}
+{187}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{188}{}{Most mennem kell. ViszlÃ¡t!}
+{189}{}{Az. Tudod, Ã©n mÃ¡r csak Ã­gy hÃ­vom az Auto-dokit a hÃ¡tsÃ³ szobÃ¡ban. A vÃ¡rosbÃ³l adtÃ¡k kÃ¶lcsÃ¶n.}
+{190}{}{NÃ©ha elÃ©g rakoncÃ¡tlan tud lenni, de Ã¡ltalÃ¡ban megcsinÃ¡lja, amit kell. Mondom... Ã¡ltalÃ¡ban.}
+{191}{}{MostanÃ¡ban sokkal jobban vagdos, mint korÃ¡bban, ami ugye jÃ³ dolog. Lefaragja a tÃ¶rzsvendÃ©gek szÃ¡mÃ¡t.}
+{192}{}{KicserÃ©ltem nÃ©hÃ¡ny kÃ¡belt Ã©s kitisztÃ­tottam a belsejÃ©t. EzutÃ¡n nem lesz vele gondod.}
+{193}{}{Ã‰rtem. KÃ©rdeznÃ©k valami mÃ¡st.}
+{194}{}{RakoncÃ¡tlan? Rendbeteszem semmi perc alatt.}
+{195}{}{KÃ©sÅ‘bb mÃ©g talÃ¡lkozunk.}
+{196}{}{HÃ¡Ã¡Ã¡t... kÃ¶sz szÃ©pen. IgazÃ¡n rendes tÅ‘led, hogy ingyen megjavÃ­tottad.}
+{197}{}{Ãlljunk csak meg egy szÃ³ra, doki! Ki beszÃ©lt itt ingyenmunkÃ¡rÃ³l?! TessÃ©k csak felkÃ¶hÃ¶gni egy kis lÃ©t!}
+{198}{}{SzÃ­vesen. Esetleg rÃ©szesÃ¼lhetnÃ©k nÃ©mi Ã¡rengedmÃ©nyben?}
+{199}{}{Ã–rÃ¼lÃ¶k, hogy segÃ­thettem.}
+{200}{}{Ki van zÃ¡rva! KÃ©rtelek egy szÃ³val is, hogy buzerÃ¡ld a masinÃ¡t? Ã–nkÃ©nt, puszta kedvtelÃ©sbÅ‘l csinÃ¡ltad Ã©s... hohÃ³... nyugi... csak lassan a testtel! Ã‰n nem ugrÃ¡lnÃ©k a helyedben, az Å‘rÃ¶k a kÃ¶zelben vannak!}
+{201}{}{HÃ­vd csak Å‘ket! Mire ideÃ©rnek, mÃ¡r szitÃ¡t csinÃ¡ltam a seggedbÅ‘l.}
+{202}{}{HÃ¡t, ezesetben... [fogcsikorgatÃ¡s]... szÃ­vesen.}
+{203}{}{Csak vicceltem, barÃ¡tom, nem kell lesÃ¡padni! Rendes srÃ¡c vagy te, kÃ¶sz a segÃ­tsÃ©get.}
+{204}{}{Miben lehetek a segÃ­tsÃ©gedre?}
+{205}{}{JÃ³l jÃ¶nne nÃ©mi orvosi ellÃ¡tÃ¡s.}
+{206}{}{Egy kinÃ¶vÃ©st kÃ©ne eltÃ¡volÃ­tani... a hatodik lÃ¡bujjamat.}
+{207}{}{A barÃ¡tom nincs tÃºl jÃ³l. Mennyibe kerÃ¼l az orvosi ellÃ¡tÃ¡sa?}
+{208}{}{A barÃ¡taim nincsenek tÃºl jÃ³l. Mennyibe kerÃ¼l az orvosi ellÃ¡tÃ¡suk?}
+{209}{}{Ã‰n is Ã¶rÃ¼lÃ¶k, hogy lÃ¡tlak. Mi ez a hely?}
+{210}{}{Mi ez a hely tulajdonkÃ©ppen? Komfort Hivatal?}
+{211}{}{TalÃ¡ltam nÃ©hÃ¡ny harci beÃ¼ltetÃ©s tervet MenedÃ©kvÃ¡ros orvosi adatbÃ¡zisÃ¡ban. KÃ©pes vagy vÃ©grehajtani egy ilyen operÃ¡ciÃ³t?}
 {212}{}{Mennem kell.}
-{213}{}{Harci beültetések? Ezt hogy érted?}
+{213}{}{Harci beÃ¼ltetÃ©sek? Ezt hogy Ã©rted?}
 {214}{}{Well, according to the schematics I saw, you can graft dermal plates and thermal dissipaters to a person's skeleton using the following procedure...}
 {215}{}{Huh. Well, I suppose with help from the ol' Doctor I could do that operation. Course, I'd need some impact plates and dissipaters first... might be able to pry some out of a suit of combat armor, if you can find one.}
-{216}{}{Mondanál nekem még valamit a beültetésekrõl?}
-{217}{}{Épp van nálam egy harci páncél. Mondanál valamit a beültetésekrõl?}
-{218}{}{Értem. Kérdeznék még valamit.}
-{219}{}{Kösz. Viszlát!}
-{220}{}{Látom, komolyan gondolod. Azonban ez egy kockázatos kaland. Ha a Polgárok megtudják, hogy ilyenre használtam a Vén Dokit, azonnal elveszik tõlem.}
-{221}{}{Értem. Mennyibe lesz a beültetés?}
-{222}{}{Akkor inkább hagyjuk! Viszont volna itt még valami.}
-{223}{}{Akkor hagyjuk! Viszlát!}
-{224}{}{Az attól függ. Kis vagy nagy ütés-ellenállásút, illetve alacsony vagy magas hõelnyelõ beültetést akarsz? Mindegyiknek megvan a maga ára.}
-{225}{}{Melyiket? A kis ütés-ellenállásút, a nagy ütés-ellenállásút, az alacsony hõelnyelõt, vagy a magas hõelnyelõt?}
-{226}{}{A kis ütés-ellenállásút.}
-{227}{}{A nagy ütés-ellenállásút.}
-{228}{}{Az alacsony hõelnyelõt.}
-{229}{}{A magas hõelnyelõt.}
-{230}{}{Felejtsd el! Kérdeznék inkább valami mást.}
+{216}{}{MondanÃ¡l nekem mÃ©g valamit a beÃ¼ltetÃ©sekrÅ‘l?}
+{217}{}{Ã‰pp van nÃ¡lam egy harci pÃ¡ncÃ©l. MondanÃ¡l valamit a beÃ¼ltetÃ©sekrÅ‘l?}
+{218}{}{Ã‰rtem. KÃ©rdeznÃ©k mÃ©g valamit.}
+{219}{}{KÃ¶sz. ViszlÃ¡t!}
+{220}{}{LÃ¡tom, komolyan gondolod. Azonban ez egy kockÃ¡zatos kaland. Ha a PolgÃ¡rok megtudjÃ¡k, hogy ilyenre hasznÃ¡ltam a VÃ©n Dokit, azonnal elveszik tÅ‘lem.}
+{221}{}{Ã‰rtem. Mennyibe lesz a beÃ¼ltetÃ©s?}
+{222}{}{Akkor inkÃ¡bb hagyjuk! Viszont volna itt mÃ©g valami.}
+{223}{}{Akkor hagyjuk! ViszlÃ¡t!}
+{224}{}{Az attÃ³l fÃ¼gg. Kis vagy nagy Ã¼tÃ©s-ellenÃ¡llÃ¡sÃºt, illetve alacsony vagy magas hÅ‘elnyelÅ‘ beÃ¼ltetÃ©st akarsz? Mindegyiknek megvan a maga Ã¡ra.}
+{225}{}{Melyiket? A kis Ã¼tÃ©s-ellenÃ¡llÃ¡sÃºt, a nagy Ã¼tÃ©s-ellenÃ¡llÃ¡sÃºt, az alacsony hÅ‘elnyelÅ‘t, vagy a magas hÅ‘elnyelÅ‘t?}
+{226}{}{A kis Ã¼tÃ©s-ellenÃ¡llÃ¡sÃºt.}
+{227}{}{A nagy Ã¼tÃ©s-ellenÃ¡llÃ¡sÃºt.}
+{228}{}{Az alacsony hÅ‘elnyelÅ‘t.}
+{229}{}{A magas hÅ‘elnyelÅ‘t.}
+{230}{}{Na, sebaj. KÃ©rdezek mÃ¡st...}
 {231}{}{Hagyjuk! Mennem kell.}
-{232}{}{A Dermális Páncélzat felfogja az ütések, rúgások, robbanások és hasonlók energiájának kb. 5%-át. Szükségem lesz egy harci páncélra a bõrlemezek miatt, valamint két napot fog igénybe venni maga a mûtét. 7000 dollár elég lesz.}
-{233}{}{Rendben. Itt a pénz és a páncél.}
-{234}{}{Hét... e... zer!? Te nem vagy magadnál, doki. Ötezer. És bõkezû voltam.}
-{235}{}{Még meggondolom. Mesélj inkább a többi beültetésrõl!}
-{236}{}{Hagyjuk! Kérdeznék valami mást.}
-{237}{}{Ha meglesz a pénz, visszajövök.}
-{238}{}{Visszajövök, ha lesz egy harci páncélom.}
-{239}{}{Értem. Viszlát!}
-{240}{}{Nos, technikailag a "nagy ütés-ellenállású" beültetés a Dermális Páncélzatra épül, amit további  lemezekkel erõsítek meg a bõröd alatt.}
-{241}{}{Tehát elõtte szükséged lesz egy "kis ütés-ellenállású" beültetésre.}
-{242}{}{Oké, és mi kell hozzá?}
-{243}{}{Beszélj inkább más beültetésekrõl!}
-{244}{}{Felejtsd el! Kérdeznék valami mást.}
-{245}{}{Értem. Viszlát!}
-{246}{}{Rendben, de akkor szükségem lesz egy újabb harci páncélra az extra lemezek miatt. Az a jó a dologban, hogy a plusz lemezek megduplázzák az eredeti beültetés által nyújtott védelmet, szóval a becsapódások kb. 10%-át nyelik el. Mellesleg van egy kis gond.}
+{232}{}{A DermÃ¡lis PÃ¡ncÃ©lzat felfogja az Ã¼tÃ©sek, rÃºgÃ¡sok, robbanÃ¡sok Ã©s hasonlÃ³k energiÃ¡jÃ¡nak kb. 5%-Ã¡t. SzÃ¼ksÃ©gem lesz egy harci pÃ¡ncÃ©lra a bÅ‘rlemezek miatt, valamint kÃ©t napot fog igÃ©nybe venni maga a mÅ±tÃ©t. 7000 dollÃ¡r elÃ©g lesz.}
+{233}{}{Rendben. Itt a pÃ©nz Ã©s a pÃ¡ncÃ©l.}
+{234}{}{HÃ©t... e... zer!? Te nem vagy magadnÃ¡l, doki. Ã–tezer. Ã‰s bÅ‘kezÅ± voltam.}
+{235}{}{MÃ©g meggondolom. MesÃ©lj inkÃ¡bb a tÃ¶bbi beÃ¼ltetÃ©srÅ‘l!}
+{236}{}{Nem szÃ¡mÃ­t. Volna mÃ©g nÃ©hÃ¡ny kÃ©rdÃ©sem...}
+{237}{}{Sajnos most nincs pÃ©nzem, de majd benÃ©zek mÃ©g ide. Tetszik ez a hely.}
+{238}{}{VisszajÃ¶vÃ¶k, ha lesz egy harci pÃ¡ncÃ©lom.}
+{239}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
+{240}{}{Nos, technikailag a "nagy Ã¼tÃ©s-ellenÃ¡llÃ¡sÃº" beÃ¼ltetÃ©s a DermÃ¡lis PÃ¡ncÃ©lzatra Ã©pÃ¼l, amit tovÃ¡bbi  lemezekkel erÅ‘sÃ­tek meg a bÅ‘rÃ¶d alatt.}
+{241}{}{TehÃ¡t elÅ‘tte szÃ¼ksÃ©ged lesz egy "kis Ã¼tÃ©s-ellenÃ¡llÃ¡sÃº" beÃ¼ltetÃ©sre.}
+{242}{}{OkÃ©, Ã©s mi kell hozzÃ¡?}
+{243}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{244}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{245}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
+{246}{}{Rendben, de akkor szÃ¼ksÃ©gem lesz egy Ãºjabb harci pÃ¡ncÃ©lra az extra lemezek miatt. Az a jÃ³ a dologban, hogy a plusz lemezek megduplÃ¡zzÃ¡k az eredeti beÃ¼ltetÃ©s Ã¡ltal nyÃºjtott vÃ©delmet, szÃ³val a becsapÃ³dÃ¡sok kb. 10%-Ã¡t nyelik el. Mellesleg van egy kis gond.}
 {247}{}{Igen?}
-{248}{}{Beszélj inkább más beültetésekrõl!}
-{249}{}{Felejtsd el! Kérdeznék valami mást.}
-{250}{}{Értem. Viszlát!}
-{251}{}{A mûtét tovább tart. Legkevesebb négy nap, feltéve, hogy a Vén Doki nem cseszi el a dolgot. És nagyon drága. 40000 dollár, ha jól számolom. Plusz... az operáció után nem leszel túl csábító.}
-{252}{}{Mennyire cseszi el a kinézetemet?}
-{253}{}{Beszélj inkább más beültetésekrõl!}
-{254}{}{Felejtsd el! Kérdeznék valami mást.}
-{255}{}{Értem. Viszlát!}
-{256}{}{Valószínûleg... szögletesebbé válnak a vonalaid...}
-{257}{}{Olyan... hehe... kocka forma leszel, mire végzünk.}
-{258}{}{Azzal a sok lemezzel a bõröd alatt igencsak megcsappan majd a vonzerõd. Biztos, hogy ezt akarod?}
-{259}{}{Szarok a kinézetemre. Itt a pénz, meg a harci páncélzat.}
-{260}{}{Nem is tudom. 40000 borzalmasan hangzik. 30000 már kevésbé sokkoló.}
-{261}{}{Beszélj inkább más beültetésekrõl!}
-{262}{}{Felejtsd el! Kérdeznék valami mást.}
-{263}{}{Ha meglesz a pénz, visszajövök.}
-{264}{}{Visszajövök, ha lesz egy harci páncélzatom.}
-{265}{}{Értem. Viszlát!}
+{248}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{249}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{250}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
+{251}{}{A mÅ±tÃ©t tovÃ¡bb tart. Legkevesebb nÃ©gy nap, feltÃ©ve, hogy a VÃ©n Doki nem cseszi el a dolgot. Ã‰s nagyon drÃ¡ga. 40000 dollÃ¡r, ha jÃ³l szÃ¡molom. Plusz... az operÃ¡ciÃ³ utÃ¡n nem leszel tÃºl csÃ¡bÃ­tÃ³.}
+{252}{}{Mennyire cseszi el a kinÃ©zetemet?}
+{253}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{254}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{255}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
+{256}{}{ValÃ³szÃ­nÅ±leg... szÃ¶gletesebbÃ© vÃ¡lnak a vonalaid...}
+{257}{}{Olyan... hehe... kocka forma leszel, mire vÃ©gzÃ¼nk.}
+{258}{}{Azzal a sok lemezzel a bÅ‘rÃ¶d alatt igencsak megcsappan majd a vonzerÅ‘d. Biztos, hogy ezt akarod?}
+{259}{}{Szarok a kinÃ©zetemre. Itt a pÃ©nz, meg a harci pÃ¡ncÃ©lzat.}
+{260}{}{Nem is tudom. 40000 borzalmasan hangzik. 30000 mÃ¡r kevÃ©sbÃ© sokkolÃ³.}
+{261}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{262}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{263}{}{Sajnos most nincs pÃ©nzem, de majd benÃ©zek mÃ©g ide. Tetszik ez a hely.}
+{264}{}{VisszajÃ¶vÃ¶k, ha lesz egy harci pÃ¡ncÃ©lzatom.}
+{265}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
 {266}{}{The Phoenix Implants take the bite outta fire, lasers and plasma burns... about 5%. I'll need to strip some combat armor for the thermal membranes, and it'll take two days for the operation. 10K oughta cover it.}
-{267}{}{Jól hangzik. Itt a páncél meg a fizetséged.}
-{268}{}{10000?! Ez enyhén szólva meghaladja a tárcám kapacitását. Mit szólnál 8000-hez?}
-{269}{}{Beszélj inkább más beültetésekrõl!}
-{270}{}{Felejtsd el! Kérdeznék valami mást.}
-{271}{}{Ha meglesz a pénz, visszajövök.}
-{272}{}{Visszajövök, ha lesz egy harci páncélzatom.}
-{273}{}{Értem. Viszlát!}
+{267}{}{JÃ³l hangzik. Itt a pÃ¡ncÃ©l meg a fizetsÃ©ged.}
+{268}{}{10000?! Ez enyhÃ©n szÃ³lva meghaladja a tÃ¡rcÃ¡m kapacitÃ¡sÃ¡t. Mit szÃ³lnÃ¡l 8000-hez?}
+{269}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{270}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{271}{}{Sajnos most nincs pÃ©nzem, de majd benÃ©zek mÃ©g ide. Tetszik ez a hely.}
+{272}{}{VisszajÃ¶vÃ¶k, ha lesz egy harci pÃ¡ncÃ©lzatom.}
+{273}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
 {274}{}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes.}
-{275}{}{Szóval elõbb szükséged lesz egy alap Fõnix páncélzatra.}
-{276}{}{Oké, és mi kell hozzá?}
-{277}{}{Beszélj inkább más beültetésekrõl!}
-{278}{}{Felejtsd el! Kérdeznék valami mást.}
-{279}{}{Értem. Viszlát!}
+{275}{}{SzÃ³val elÅ‘bb szÃ¼ksÃ©ged lesz egy alap FÅ‘nix pÃ¡ncÃ©lzatra.}
+{276}{}{OkÃ©, Ã©s mi kell hozzÃ¡?}
+{277}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{278}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{279}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
 {280}{}{Well, I'm gonna need to scavenge thermal dissipaters from another set of combat armor. Good thing is, the dissipaters'll double the thermal resistance, absorbing 10% of the bite. But...}
 {281}{}{Igen?}
-{282}{}{Beszélj inkább más beültetésekrõl!}
-{283}{}{Felejtsd el! Kérdeznék valami mást.}
-{284}{}{Értem. Viszlát!}
-{285}{}{Hólyagos lesz tõle a bõröd. Szar ügy. Tudod, úgy nézel majd ki, mint egy békebeli légbuborékos csomagolófólia, szóval ne számíts túl sok randira. És persze ára is van, 50000 dollár.}
-{286}{}{Nem érdekel, szükségem van erre a beültetésre! Itt a pénzed meg egy páncél.}
-{287}{}{40000 és megállapodtunk.}
-{288}{}{Beszélj inkább más beültetésekrõl!}
-{289}{}{Felejtsd el! Kérdeznék valami mást.}
-{290}{}{Ha meglesz a pénz, visszajövök.}
-{291}{}{Visszajövök, ha lesz egy harci páncélom.}
-{292}{}{Értem. Viszlát!}
-{293}{}{Rendben.}
-{294}{}{Akkor beszíjazlak ide. Remélem, az anesztézia tartály nem dugult el már megint. Tudod mit? Talán jobb lenne, ha ráharapnál erre a brahmin csontra! Érted, csak a biztonság kedvéért.}
-{295}{}{Hmmm... oké. Gondolom, az Auto-dokit rendszeresen karbantartjátok meg minden, igaz? Csak nem lehet olyan rossz a helyzet.}
-{296}{}{Tudod mit? Felejtsd el! Nem akarom megkockáztatni, hogy a "Vén Doki" épp ma ne legyen formában.}
-{297}{}{Ááááááááááááááááááááááááá!}
+{282}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{283}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{284}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
+{285}{}{HÃ³lyagos lesz tÅ‘le a bÅ‘rÃ¶d. Szar Ã¼gy. Tudod, Ãºgy nÃ©zel majd ki, mint egy bÃ©kebeli lÃ©gbuborÃ©kos csomagolÃ³fÃ³lia, szÃ³val ne szÃ¡mÃ­ts tÃºl sok randira. Ã‰s persze Ã¡ra is van, 50000 dollÃ¡r.}
+{286}{}{Nem Ã©rdekel, szÃ¼ksÃ©gem van erre a beÃ¼ltetÃ©sre! Itt a pÃ©nzed meg egy pÃ¡ncÃ©l.}
+{287}{}{40000 Ã©s megÃ¡llapodtunk.}
+{288}{}{BeszÃ©lj inkÃ¡bb mÃ¡s beÃ¼ltetÃ©sekrÅ‘l!}
+{289}{}{Nem tesz semmit. FeltehetnÃ©k mÃ©g egy kÃ©rdÃ©st?}
+{290}{}{Sajnos most nincs pÃ©nzem, de majd benÃ©zek mÃ©g ide. Tetszik ez a hely.}
+{291}{}{VisszajÃ¶vÃ¶k, ha lesz egy harci pÃ¡ncÃ©lom.}
+{292}{}{Ã‰rtem. TalÃ¡n majd mÃ¡skor.}
+{293}{}{MegegyeztÃ¼nk.}
+{294}{}{Akkor most beszÃ­jazlak ide. RemÃ©lem, az anesztÃ©zia tartÃ¡ly nem dugult el mÃ¡r megint. Tudod mit? TalÃ¡n jobb lenne, ha rÃ¡harapnÃ¡l erre a brahmin csontra! Ã‰rted, csak a biztonsÃ¡g kedvÃ©Ã©rt.}
+{295}{}{Hmmm... okÃ©. Gondolom, az Auto-dokit rendszeresen karbantartjÃ¡tok meg minden, igaz? Csak nem lehet olyan rossz a helyzet.}
+{296}{}{Tudod mit? Felejtsd el! Nem akarom megkockÃ¡ztatni, hogy a "VÃ©n Doki" Ã©pp ma ne legyen formÃ¡ban.}
+{297}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
 {298}{}{Wait 2 Seconds.}
 {299}{}{Hmmmm... hmmm...}
 {300}{}{Player explodes in gruesome death animation.}
 {301}{}{Wait 2 Seconds.}
-{302}{}{Úgy látszik, a Vén Doki ma tényleg nem volt formában...}
+{302}{}{Ãšgy lÃ¡tszik, a VÃ©n Doki ma tÃ©nyleg nem volt formÃ¡ban...}
 {303}{}{Wait 2 Seconds}
-{304}{}{Szép cipõje van. Talán el tudom adni...}
+{304}{}{SzÃ©p cipÅ‘je van. TalÃ¡n el tudom adni...}
 {305}{}{Goto Death Screen}
-{306}{}{Rendben.}
-{307}{}{Akkor beszíjazlak ide. Remélem, az anesztézia tartály nem dugult el már megint. Tudod mit? Talán jobb lenne, ha ráharapnál erre a brahmin csontra! Érted, csak a biztonság kedvéért.}
+{306}{}{MegegyeztÃ¼nk.}
+{307}{}{Akkor most beszÃ­jazlak ide. RemÃ©lem, az anesztÃ©zia tartÃ¡ly nem dugult el mÃ¡r megint. Tudod mit? TalÃ¡n jobb lenne, ha rÃ¡harapnÃ¡l erre a brahmin csontra! Ã‰rted, csak a biztonsÃ¡g kedvÃ©Ã©rt.}
 {308}{}{Fade out for 3 Seconds}
-{309}{}{Hát, azt hiszem kész. Ami a fájdalmat és a duzzanatokat illeti, biztos vagyok benne, hogy csak ideiglenes mellékhatások. Egy héten belül elmúlik.}
-{310}{}{Hallasz engem? Phhjjuuu... Nem hittem volna, hogy maradt hely azoknak a beültetéseknek, de sikerült kiszednem néhány kiló izomszövetet és porcot az útból. Abba az üvegbe tettem õket, ha akarod elteheted szuvenírnek.}
-{311}{}{Aszentségit!!! Ez volt a legrázósabb mûtét, amit valaha láttam. A végére amputálnom kellett számos idegvégzõdésedet. Emiatt van az az égetõ és viszketõ érzés a bõröd alatt. Reménykedjünk, hogy néhány héten belül elmúlik.}
-{312}{}{Hallasz engem?... Jól vagy, az ég szerelmére?!... Ha újra érezni kezded a tagjaidat, iszonyúan fog viszketni mindened... Ne vakard! Ha megteszed, az infúziódba adagolt kötõanyag beég, és borzalmas heget hagy maga után. Adj neki néhány hetet, rendben?}
-{313}{}{Köff. Kérhefhnéh méh ffhalamit?}
-{314}{}{Köffi Adreffff. Na, fffia...}
-{315}{}{Rendben.}
-{316}{}{Na, veselkedjünk neki! Pántok a helyükön,... szíjak feszesek...}
+{309}{}{HÃ¡t, azt hiszem kÃ©sz. Ami a fÃ¡jdalmat Ã©s a duzzanatokat illeti, biztos vagyok benne, hogy csak ideiglenes mellÃ©khatÃ¡sok. Egy hÃ©ten belÃ¼l elmÃºlik.}
+{310}{}{Hallasz engem? Phhjjuuu... Nem hittem volna, hogy maradt hely azoknak a beÃ¼ltetÃ©seknek, de sikerÃ¼lt kiszednem nÃ©hÃ¡ny kilÃ³ izomszÃ¶vetet Ã©s porcot az ÃºtbÃ³l. Abba az Ã¼vegbe tettem Å‘ket, ha akarod elteheted szuvenÃ­rnek.}
+{311}{}{AszentsÃ©git!!! Ez volt a legrÃ¡zÃ³sabb mÅ±tÃ©t, amit valaha lÃ¡ttam. A vÃ©gÃ©re amputÃ¡lnom kellett szÃ¡mos idegvÃ©gzÅ‘dÃ©sedet. Emiatt van az az Ã©getÅ‘ Ã©s viszketÅ‘ Ã©rzÃ©s a bÅ‘rÃ¶d alatt. RemÃ©nykedjÃ¼nk, hogy nÃ©hÃ¡ny hÃ©ten belÃ¼l elmÃºlik.}
+{312}{}{Hallasz engem?... JÃ³l vagy, az Ã©g szerelmÃ©re?!... Ha Ãºjra Ã©rezni kezded a tagjaidat, iszonyÃºan fog viszketni mindened... Ne vakard! Ha megteszed, az infÃºziÃ³dba adagolt kÃ¶tÅ‘anyag beÃ©g, Ã©s borzalmas heget hagy maga utÃ¡n. Adj neki nÃ©hÃ¡ny hetet, rendben?}
+{313}{}{KÃ¶ff. KÃ©rhefhnÃ©h mÃ©h ffhalamit?}
+{314}{}{KÃ¶ffi Adreffff. Na, fffia...}
+{315}{}{Rendben van, megegyeztÃ¼nk.}
+{316}{}{Na, veselkedjÃ¼nk neki! PÃ¡ntok a helyÃ¼kÃ¶n,... szÃ­jak feszesek...}
 {317}{}{Fade out for 3 Seconds}
-{318}{}{Hoppszla... úgy látszik, a vén Doki megint bekrepált. Egy roncshalmaz az egész. Istenadta szerencse, hogy idõben leállítottam a boncolóprogramot.}
-{319}{}{Hoppszla?! Na... szélsebesen add csak vissza a pénzem, doki!}
-{320}{}{Ezt a mázlit! Ennek örömére kérdeznék még valamit.}
-{321}{}{Tûnjünk errõl a mészárszékrõl!}
-{322}{}{Bocs, de nem említettem, hogy itt nincs garancia? Esély volt, eredmény most nincs. Ennyi. Ha meg valami gondod van, azt az õrökkel rendezd le!}
-{323}{}{Azonnal add vissza a pénzemet, vagy felraklak a haverodra, és felszeleteltetlek vele, mint egy szalámit!}
-{324}{}{Jól van, hagyjuk! Azonban lenne egy kérdésem.}
-{325}{}{Hát ez óriási! Tûnjünk innen!}
-{326}{}{Hát... megpróbálhatom. Persze a vén Dokinál nincs garancia és nem is lesz olcsó... meg aztán azt sem tudom, sikerül-e egyáltalán. Akár vissza is nõhet. }
-{327}{}{Nem érdekel! Le akarom vágatni, mielõtt egy újabb nõ ki belõle, értve vagyok?}
-{328}{}{Kérdeznék valami mást.}
-{329}{}{Inkább hagyjuk! Viszlát!}
-{330}{}{Ötszáz és akkor olcsó voltam. Nem vagyok felhatalmazva, hogy amputációt végezzek. Ha kiderül, az az állásomba kerülhet.}
-{331}{}{Rendben. Ötszáz, csak vágd már le ezt a szart!}
-{332}{}{Legyen inkább 300! Tudod, ha már az olcsó beavatkozásokról beszéltünk.}
-{333}{}{Kérdeznék valami mást.}
-{334}{}{Inkább hagyjuk! Viszlát!}
-{335}{}{Most nincs nálam annyi. Majd visszajövök.}
-{336}{}{Rendben.}
-{337}{}{Kezdjünk hozzá... miután imádkoztunk!}
+{318}{}{Hoppszla... Ãºgy lÃ¡tszik, a vÃ©n Doki megint bekrepÃ¡lt. Egy roncshalmaz az egÃ©sz. Istenadta szerencse, hogy idÅ‘ben leÃ¡llÃ­tottam a boncolÃ³programot.}
+{319}{}{Hoppszla?! Na... szÃ©lsebesen add csak vissza a pÃ©nzem, doki!}
+{320}{}{Ezt a mÃ¡zlit! Ennek Ã¶rÃ¶mÃ©re kÃ©rdeznÃ©k mÃ©g valamit.}
+{321}{}{TÅ±njÃ¼nk errÅ‘l a mÃ©szÃ¡rszÃ©krÅ‘l!}
+{322}{}{Bocs, de nem emlÃ­tettem, hogy itt nincs garancia? EsÃ©ly volt, eredmÃ©ny most nincs. Ennyi. Ha meg valami gondod van, azt az Å‘rÃ¶kkel rendezd le!}
+{323}{}{Azonnal add vissza a pÃ©nzemet, vagy felraklak a haverodra, Ã©s felszeleteltetlek vele, mint egy szalÃ¡mit!}
+{324}{}{JÃ³l van, hagyjuk! Azonban lenne egy kÃ©rdÃ©sem.}
+{325}{}{HÃ¡t ez Ã³riÃ¡si! TÅ±njÃ¼nk innen!}
+{326}{}{HÃ¡t... megprÃ³bÃ¡lhatom. Persze a vÃ©n DokinÃ¡l nincs garancia Ã©s nem is lesz olcsÃ³... meg aztÃ¡n azt sem tudom, sikerÃ¼l-e egyÃ¡ltalÃ¡n. AkÃ¡r vissza is nÅ‘het. }
+{327}{}{Nem Ã©rdekel! Le akarom vÃ¡gatni, mielÅ‘tt egy Ãºjabb nÅ‘ ki belÅ‘le, Ã©rtve vagyok?}
+{328}{}{InkÃ¡bb hagyjuk! KÃ©rdeznÃ©k valami mÃ¡st.}
+{329}{}{Felejtsd el! TalÃ¡n majd visszajÃ¶vÃ¶k.}
+{330}{}{Ã–tszÃ¡z Ã©s akkor olcsÃ³ voltam. Nem vagyok felhatalmazva, hogy amputÃ¡ciÃ³t vÃ©gezzek. Ha kiderÃ¼l, az az Ã¡llÃ¡somba kerÃ¼lhet.}
+{331}{}{Rendben. Ã–tszÃ¡z, csak vÃ¡gd mÃ¡r le ezt a szart!}
+{332}{}{Legyen inkÃ¡bb 300! Tudod, ha mÃ¡r az olcsÃ³ beavatkozÃ¡sokrÃ³l beszÃ©ltÃ¼nk.}
+{333}{}{InkÃ¡bb hagyjuk! KÃ©rdeznÃ©k valami mÃ¡st.}
+{334}{}{Felejtsd el! TalÃ¡n majd visszajÃ¶vÃ¶k.}
+{335}{}{Most nincs nÃ¡lam annyi. Majd visszajÃ¶vÃ¶k.}
+{336}{}{Rendben van, megegyeztÃ¼nk.}
+{337}{}{Akkor vÃ¡gjunk is bele!... Nyugi, nem szÃ³ szerint Ã©rtettem. Bilincsek a helyÃ¼kÃ¶n... pÃ¡ntok meghÃºzva...}
 {338}{}{Fade out for 3 Seconds}
-{339}{}{Sikerült a kis barátodat eltûntetnünk. Remélem, véglegesen. Nehéz dolog volt kipréselni az összes gennyes csontvelõdet. Mindenesetre, most rendben vagy. }
-{340}{}{Kösz a mûtétet. Kérdeznék valamit.}
-{341}{}{Reméljük, nem fog visszanõni, különben elõfordulhat, hogy megsérülsz. Alapos sérülésrõl beszélek.}
-{342}{}{Kösz szépen. Viszlát!}
-{343}{}{+2 Max. ÉP-t szereztél.}
-{344}{}{+4 Max. ÉP-t szereztél.}
-{345}{}{-2 Max. ÉP a büntetésed.}
-{346}{}{Hmmm... nos... rendben... de utoljára figyelmeztetlek, hogy a beavatkozás kockázatos. }
-{347}{}{ dollár az egész, és rendben is vagyunk... [a gép felé fordul]... Menni fog a dolog azzal a berozsdállt robot-agyaddal, haver? Mit gondolsz?}
-{348}{}{Remek! Mindig is úgy akartam kinézni, mint Kryten! Itt a pénz meg a harci páncél.}
-{349}{}{All right. Here we go.}
+{339}{}{SikerÃ¼lt a kis barÃ¡todat eltÅ±ntetnÃ¼nk. RemÃ©lem, vÃ©glegesen. NehÃ©z dolog volt kiprÃ©selni az Ã¶sszes gennyes csontvelÅ‘det. Mindenesetre, most rendben vagy. }
+{340}{}{KÃ¶sz a mÅ±tÃ©tet. KÃ©rdeznÃ©k valamit.}
+{341}{}{RemÃ©ljÃ¼k, nem fog visszanÅ‘ni, kÃ¼lÃ¶nben elÅ‘fordulhat, hogy megsÃ©rÃ¼lsz. Alapos sÃ©rÃ¼lÃ©srÅ‘l beszÃ©lek.}
+{342}{}{KÃ¶sz szÃ©pen. ViszlÃ¡t!}
+{343}{}{+2 Max. Ã‰P-t szereztÃ©l.}
+{344}{}{+4 Max. Ã‰P-t szereztÃ©l.}
+{345}{}{-2 Max. Ã‰P a bÃ¼ntetÃ©sed.}
+{346}{}{Hmmm... nos... rendben... de utoljÃ¡ra figyelmeztetlek, hogy a beavatkozÃ¡s kockÃ¡zatos. }
+{347}{}{ dollÃ¡r az egÃ©sz, Ã©s rendben is vagyunk... [a gÃ©p felÃ© fordul]... Menni fog a dolog azzal a berozsdÃ¡llt robot-agyaddal, haver? Mit gondolsz?}
+{348}{}{Remek! Mindig is Ãºgy akartam kinÃ©zni, mint Kryten! Itt a pÃ©nz meg a harci pÃ¡ncÃ©l.}
+{349}{}{Rendben. Akkor essÃ¼nk neki!}
 {350}{}{You have lost -4 Max HP.}
 {351}{}{Wahh? Me still fee no good. Me go sleep now.}
 {352}{}{Ugh... otay. Byeeee}

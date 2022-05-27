@@ -1,1 +1,1 @@
-{100}{}{A ládákba különbözõ vegyszereket pakoltak, de nem tudsz velük mit kezdeni.}
+{100}{}{A lÃ¡dÃ¡kba kÃ¼lÃ¶nbÃ¶zÅ‘ vegyszereket pakoltak, de nem tudsz velÃ¼k mit kezdeni.}

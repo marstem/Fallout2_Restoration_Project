@@ -1,84 +1,84 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{Különbözõ helyeken és pózokban egy hiányos öltözetû nõ bukkan fel a számítógép képernyõjén.}
-{102}{}{Képtelen vagy elolvasni, mi van a képernyõre írva.}
-{103}{}{Hadianyag Hozzáférési Terminál
-                                      Erõterek - Kikapcsolva
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l. Bugos!!!}
+{101}{}{KÃ¼lÃ¶nbÃ¶zÅ‘ helyeken Ã©s pÃ³zokban egy hiÃ¡nyos Ã¶ltÃ¶zetÅ± nÅ‘ bukkan fel a szÃ¡mÃ­tÃ³gÃ©p kÃ©pernyÅ‘jÃ©n.}
+{102}{}{KÃ©ptelen vagy elolvasni, mi van a kÃ©pernyÅ‘n.}
+{103}{}{Hadianyag HozzÃ¡fÃ©rÃ©si TerminÃ¡l
+                                      ErÅ‘terek - Kikapcsolva
                                              Elektromos Lapok - Kikapcsolva}
-{104}{}{Hadianyag Hozzáférési Terminál
-                                      Erõterek - Kikapcsolva
+{104}{}{Hadianyag HozzÃ¡fÃ©rÃ©si TerminÃ¡l
+                                      ErÅ‘terek - Kikapcsolva
                                              Elektromos Lapok - Bekapcsolva}
-{105}{}{Hadianyag Hozzáférési Terminál
-                                      Erõterek - Bekapcsolva
+{105}{}{Hadianyag HozzÃ¡fÃ©rÃ©si TerminÃ¡l
+                                      ErÅ‘terek - Bekapcsolva
                                              Elektromos Lapok - Kikapcsolva}
-{106}{}{Hadianyag Hozzáférési Terminál
-                                      Erõterek - Bekapcsolva
+{106}{}{Hadianyag HozzÃ¡fÃ©rÃ©si TerminÃ¡l
+                                      ErÅ‘terek - Bekapcsolva
                                              Elektromos Lapok - Bekapcsolva}
-{107}{}{Elektromos lapok kikapcsolása}
-{108}{}{Erõterek kikapcsolása}
-{109}{}{Levelek olvasása}
-{110}{}{Kilépés}
-{111}{}{[Nem gond, hogy megpróbáld, de ez a macskakaparás nem mond valami sokat neked.]}
-{112}{}{Elektromos lapok kikapcsolása.
-                                     Kérem, adja meg a jelszót:}
-{113}{}{Feltöröd a védelmi rendszert}
-{114}{}{Megpróbálsz rájönni a jelszóra}
-{115}{}{Visszatérés a Fõmenübe}
-{116}{}{Kilépés}
-{117}{}{[Ez a program túl összetett ahhoz, hogy megértsd.]}
-{118}{}{Visszatérés a Fõmenübe}
-{119}{}{Kilépés}
-{120}{}{[Sikerül megkerülnöd a jelszót és kikapcsolni az elektromos lapokat.]}
-{121}{}{Visszatérés a Fõmenübe}
-{122}{}{Kilépés}
-{123}{}{Erõterek kikapcsolása.
-                                                 Kérem, adja meg a jelszót:}
-{124}{}{Feltöröd a védelmi rendszert}
-{125}{}{Megpróbálsz rájönni a jelszóra}
-{126}{}{Visszatérés a Fõmenübe}
-{127}{}{Kilépés}
-{128}{}{[A fájlok titkosítottak, így a megfelelõ dekódoló nélkül képtelen vagy bármit is elolvasni.]}
-{129}{}{Visszatérés a Fõmenübe}
-{130}{}{Kilépés}
-{131}{}{[Puszta gyerekjáték! Az erõterek mostantól ki vannak kapcsolva.]}
-{132}{}{Visszatérés a Fõmenübe}
-{133}{}{Kilépés}
-{134}{}{[Valaki elfelejtette bezárni a postafiókját.]
-                      1.) Rendelés megerõsítése
-                                           2.) Értesítés az evakuálásról
-                                       3.) Egy levelezõtárs üdvözlete
-                                     4.) Üzlet}
-{135}{}{[Kiválasztod, melyik tárgyú levelet szeretnéd elolvasni]}
-{136}{}{Elolvasom a "Rendelés megerõsítése" tárgyú levelet.}
-{137}{}{Elolvasom az "Értesítés az evakuálásról" tárgyú levelet.}
-{138}{}{Elolvasom a "Levelezõtárs üdvözlete" tárgyú levelet.}
-{139}{}{Elolvasom az "Üzlet" tárgyú levelet.}
-{140}{}{Visszatérés a Fõmenübe}
-{141}{}{Kilépés}
-{142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. Thank you for your order.}
-{143}{}{Más levelet is elolvasok}
-{144}{}{Kilépés}
-{145}{}{A Sierra Hadiraktár evakuálása egy hétre lett szûkítve. Clifton Tábornok parancsára minden biztonsági intézkedést hatályba kell léptetni ez idõ alatt.}
-{146}{}{Más levelet is elolvasok}
-{147}{}{Kilépés}
-{148}{}{[Miközben füst tör fel a számítógép-terminálból, halk búgásra leszel figyelmes. Megdöbbenve állsz és bámulod, ahogy a billentyûzet ragacsos tócsává változik. Hmm... ez valószínûleg egyike azoknak a vírusoknak, amirõl már hallottál korábban.]}
-{149}{}{Kilépés}
-{150}{}{This is Klinger from the 8063rd. We're in desperate need of part number 102-53B. I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
-{151}{}{Más levelet is elolvasok}
-{152}{}{Kilépés}
-{153}{}{[Milyen hihetetlen szerencse! Sikerült rájönnöd a helyes jelszóra. "Dudák"] Elektromos Lapok kikapcsolása folyamatban!}
-{154}{}{Visszatérés a Fõmenübe}
-{155}{}{Kilépés}
-{156}{}{[Akárhogy is próbálkozol, képtelen vagy rájönni a jelszóra.]}
-{157}{}{Visszatérés a Fõmenübe}
-{158}{}{Kilépés}
-{159}{}{[Ez az ember bizonyára nagyon rajong a nõi keblekért. A jelszó a következõ volt: "Mellbimbók"]  Erõterek kikapcsolása folyamatban!}
-{160}{}{Visszatérés a Fõmenübe}
-{161}{}{Kilépés}
-{162}{}{[Akárhogy is próbálkozol, képtelen vagy rájönni a jelszóra.]}
-{163}{}{Visszatérés a Fõmenübe}
-{164}{}{Kilépés}
-{165}{}{[Ügyködésednek hála, a képernyõ hirtelen az arcodba robbant.]}
-{166}{}{Kilépés}
-{200}{}{[Ez a terminál többé már nem mûködõképes.]}
+{107}{}{Elektromos lapok kikapcsolÃ¡sa}
+{108}{}{ErÅ‘terek kikapcsolÃ¡sa}
+{109}{}{Levelek olvasÃ¡sa}
+{110}{}{BefejezÃ©s}
+{111}{}{[Nem gond, hogy megprÃ³bÃ¡ld, de ez a macskakaparÃ¡s nem mond valami sokat neked.]}
+{112}{}{Elektromos lapok kikapcsolÃ¡sa.
+                                     KÃ©rem, adja meg a jelszÃ³t:}
+{113}{}{VÃ©delmi rendszer feltÃ¶rÃ©se}
+{114}{}{MegprÃ³bÃ¡lsz rÃ¡jÃ¶nni a jelszÃ³ra}
+{115}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{116}{}{BefejezÃ©s}
+{117}{}{[Ez a program tÃºl Ã¶sszetett ahhoz, hogy megÃ©rtsd.]}
+{118}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{119}{}{BefejezÃ©s}
+{120}{}{[SikerÃ¼l megkerÃ¼lnÃ¶d a jelszÃ³t Ã©s kikapcsolni az elektromos lapokat.]}
+{121}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{122}{}{BefejezÃ©s}
+{123}{}{ErÅ‘terek kikapcsolÃ¡sa.
+                                                 KÃ©rem, adja meg a jelszÃ³t:}
+{124}{}{VÃ©delmi rendszer feltÃ¶rÃ©se}
+{125}{}{MegprÃ³bÃ¡lsz rÃ¡jÃ¶nni a jelszÃ³ra}
+{126}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{127}{}{BefejezÃ©s}
+{128}{}{[A fÃ¡jlok titkosÃ­tottak, Ã­gy a megfelelÅ‘ dekÃ³dolÃ³ nÃ©lkÃ¼l kÃ©ptelen vagy bÃ¡rmit is elolvasni.]}
+{129}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{130}{}{BefejezÃ©s}
+{131}{}{[Puszta gyerekjÃ¡tÃ©k! Az erÅ‘terek mostantÃ³l ki vannak kapcsolva.]}
+{132}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{133}{}{BefejezÃ©s}
+{134}{}{[Valaki elfelejtette bezÃ¡rni a postafiÃ³kjÃ¡t.]
+                      1.) RendelÃ©s megerÅ‘sÃ­tÃ©se
+                                           2.) Ã‰rtesÃ­tÃ©s az evakuÃ¡lÃ¡srÃ³l
+                                       3.) Egy levelezÅ‘tÃ¡rs Ã¼dvÃ¶zlete
+                                     4.) Ãœzlet}
+{135}{}{[KivÃ¡lasztod, melyik tÃ¡rgyÃº levelet szeretnÃ©d elolvasni]}
+{136}{}{Elolvasom a "RendelÃ©s megerÅ‘sÃ­tÃ©se" tÃ¡rgyÃº levelet.}
+{137}{}{Elolvasom az "Ã‰rtesÃ­tÃ©s az evakuÃ¡lÃ¡srÃ³l" tÃ¡rgyÃº levelet.}
+{138}{}{Elolvasom a "LevelezÅ‘tÃ¡rs Ã¼dvÃ¶zlete" tÃ¡rgyÃº levelet.}
+{139}{}{Elolvasom az "Ãœzlet" tÃ¡rgyÃº levelet.}
+{140}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{141}{}{BefejezÃ©s}
+{142}{}{Ez egy megerÅ‘sÃ­tÃ©s az Ã¶n videÃ³film rendelÃ©sÃ©re, pontosabban a "Debbie lerendezi a hadsereget" Ã©s a "MÃ©ly torok" 1059. epizÃ³djÃ¡ra. A kÃ¼ldemÃ©ny a levÃ©l Ã©rkezÃ©sÃ©tÅ‘l szÃ¡molva 2-4 hÃ©ten belÃ¼l vÃ¡rhatÃ³. KÃ¶szÃ¶njÃ¼k rendelÃ©sÃ©t.}
+{143}{}{MÃ¡s levelet is elolvasok}
+{144}{}{BefejezÃ©s}
+{145}{}{A Sierra HadiraktÃ¡r evakuÃ¡lÃ¡sa egy hÃ©tre lett szÅ±kÃ­tve. Clifton TÃ¡bornok parancsÃ¡ra minden biztonsÃ¡gi intÃ©zkedÃ©st hatÃ¡lyba kell lÃ©ptetni ez idÅ‘ alatt.}
+{146}{}{MÃ¡s levelet is elolvasok}
+{147}{}{BefejezÃ©s}
+{148}{}{[MikÃ¶zben fÃ¼st tÃ¶r fel a szÃ¡mÃ­tÃ³gÃ©p-terminÃ¡lbÃ³l, halk bÃºgÃ¡sra leszel figyelmes. MegdÃ¶bbenve Ã¡llsz Ã©s bÃ¡mulod, ahogy a billentyÅ±zet ragacsos tÃ³csÃ¡vÃ¡ vÃ¡ltozik. Hmm... ez valÃ³szÃ­nÅ±leg egyike azoknak a vÃ­rusoknak, amirÅ‘l mÃ¡r hallottÃ¡l korÃ¡bban.]}
+{149}{}{BefejezÃ©s}
+{150}{}{Klinger vagyok a 8063-as kÃ¶rzetbÅ‘l. Ã‰getÅ‘ szÃ¼ksÃ©gÃ¼nk van a 102-53B sorozatszÃ¡mÃº alkatrÃ©szre. Ha megsÃ¼rgeted az eljÃ¡rÃ¡st, van egy lÃ¡da 2155-es Ã©vjÃ¡ratÃº Chateau Lafayett-em a szÃ¡modra. KÃ¼ldd el nekem, amilyen gyorsan csak lehet!}
+{151}{}{MÃ¡s levelet is elolvasok}
+{152}{}{BefejezÃ©s}
+{153}{}{[Milyen hihetetlen szerencse! SikerÃ¼lt rÃ¡jÃ¶nnÃ¶d a helyes jelszÃ³ra. "DudÃ¡k"] Elektromos Lapok kikapcsolÃ¡sa folyamatban!}
+{154}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{155}{}{BefejezÃ©s}
+{156}{}{[AkÃ¡rhogy is prÃ³bÃ¡lkozol, kÃ©ptelen vagy rÃ¡jÃ¶nni a jelszÃ³ra.]}
+{157}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{158}{}{BefejezÃ©s}
+{159}{}{[Ez az ember bizonyÃ¡ra nagyon rajong a nÅ‘i keblekÃ©rt. A jelszÃ³ a kÃ¶vetkezÅ‘ volt: "MellbimbÃ³k"]  ErÅ‘terek kikapcsolÃ¡sa folyamatban!}
+{160}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{161}{}{BefejezÃ©s}
+{162}{}{[AkÃ¡rhogy is prÃ³bÃ¡lkozol, kÃ©ptelen vagy rÃ¡jÃ¶nni a jelszÃ³ra.]}
+{163}{}{VisszatÃ©rÃ©s a FÅ‘menÃ¼be}
+{164}{}{BefejezÃ©s}
+{165}{}{[ÃœgykÃ¶dÃ©sednek hÃ¡la, a kÃ©pernyÅ‘ hirtelen az arcodba robbant.]}
+{166}{}{BefejezÃ©s}
+{200}{}{[Ez a terminÃ¡l tÃ¶bbÃ© mÃ¡r nem mÅ±kÃ¶dÅ‘kÃ©pes.]}
 {300}{}{You disable the shock plates.}
-{400}{}{A Számítógép Diagnosztikai Módban van. Kérem, várjon, amíg a Diagnosztikai Program futása befejezõdik!}
+{400}{}{A SzÃ¡mÃ­tÃ³gÃ©p Diagnosztikai MÃ³dban van. KÃ©rem, vÃ¡rjon, amÃ­g a Diagnosztikai Program futÃ¡sa befejezÅ‘dik!}

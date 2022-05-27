@@ -1,1 +1,1 @@
-{100}{}{Úgy tûnik, ezen nincs se kilincs, se zár.}
+{100}{}{Ãšgy tÅ±nik, ezen nincs se kilincs, se zÃ¡r.}

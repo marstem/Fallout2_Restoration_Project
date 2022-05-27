@@ -1,67 +1,67 @@
-{100}{}{Figyellek ám, idegen!}
-{101}{}{Azt hiszem, itt az ideje, hogy távozz!}
+{100}{}{Figyellek Ã¡m, idegen!}
+{101}{}{Azt hiszem, ideje eltÅ±nnÃ¶d innen.}
 {102}{}{Nem tetszik a tekinteted.}
-{103}{}{Fújd ki az orrod, vagy elveszem a belépõdet!}
-{104}{}{Késõre jár, itt az ideje, hogy elhagyd a várost!}
+{103}{}{FÃºjd ki az orrod, vagy elveszem a belÃ©pÅ‘det!}
+{104}{}{KÃ©sÅ‘re jÃ¡r, itt az ideje, hogy elhagyd a vÃ¡rost!}
 {105}{}{Rendben.}
-{106}{}{Csak még egy percet adj!}
-{107}{}{Még dolgom van. Elmegyek, amint végeztem.}
+{106}{}{Csak mÃ©g egy percet adj!}
+{107}{}{MÃ©g dolgom van. Elmegyek, amint vÃ©geztem.}
 {108}{}{Menni? NEM MENNI!}
-{109}{}{Biztos akarok lenni benne, hogy gond nélkül kijutsz a kapun. Kikísérlek.}
+{109}{}{Biztos akarok lenni benne, hogy gond nÃ©lkÃ¼l kijutsz a kapun. KikÃ­sÃ©rlek.}
 {110}{}{Okay. Let's go.}
 {111}{}{He?}
-{112}{}{Egyedül is kitalálok, ne rángass!}
-{113}{}{Sajnálom, de parancsom van. Ki kell, hogy kísérjelek.}
-{114}{}{Rendben van, bár nem örülök neki. Írni fogok egy hivatalos panaszlevelet.}
-{115}{}{Nem érdekel. Maradok!}
-{116}{}{[hozzád hajol]... Nézd! Nehéz nap volt ez a mai. Gyere szépen velem, és ne csináld a balhét, oké?}
-{117}{}{Oké. Indulhatunk.}
-{118}{}{Mássz ki az arcomból, seggfej!}
-{119}{}{Menedékváros mindenek felett, Polgártárs.}
-{120}{}{Jó, hogy látlak, Polgártárs.}
-{121}{}{Mozgalmas nap ez a mai igaz, Polgártárs!}
-{122}{}{Csak ön után, Polgártárs!}
-{123}{}{Üdvözöllek, utazó!}
-{124}{}{Foglalkozz a magad dolgával, idegen!}
+{112}{}{EgyedÃ¼l is kitalÃ¡lok, ne rÃ¡ngass!}
+{113}{}{SajnÃ¡lom, de parancsom van. Ki kell, hogy kÃ­sÃ©rjelek.}
+{114}{}{Rendben van, bÃ¡r nem Ã¶rÃ¼lÃ¶k neki. Ãrni fogok egy hivatalos panaszlevelet.}
+{115}{}{Nem Ã©rdekel. Maradok!}
+{116}{}{[hozzÃ¡d hajol]... NÃ©zd! NehÃ©z nap volt ez a mai. Gyere szÃ©pen velem, Ã©s ne csinÃ¡ld a balhÃ©t, okÃ©?}
+{117}{}{OkÃ©. Indulhatunk.}
+{118}{}{MÃ¡ssz ki az arcombÃ³l, seggfej!}
+{119}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{120}{}{JÃ³ hogy lÃ¡tom, PolgÃ¡rtÃ¡rs.}
+{121}{}{Sok a tennivalÃ³ ugye, PolgÃ¡rtÃ¡rs?}
+{122}{}{Csak Ã¶n utÃ¡n, PolgÃ¡rtÃ¡rs.}
+{123}{}{Ne Ã¡csorogj itt!}
+{124}{}{TÃ¶rÅ‘dj a magad dolgÃ¡val, idegen!}
 {125}{}{Ne felejtsd, csak este hatig maradhatsz!}
-{126}{}{Hat után el kell hagynod a várost!}
-{127}{}{Vigyázok a rendre.}
-{128}{}{Nem történt rendkívüli esemény, Kapitány.}
-{129}{}{Vigyázok a felszerelésre, Kapitány.}
-{130}{}{Menedékváros mindenek felett, Kapitány.}
-{131}{}{Jó napot, Kapitány.}
-{132}{}{Hé te! Állj csak meg! Mit keres ez a ghoul itt, Menedékvárosban?!}
-{133}{}{Hé te! Állj csak meg! Mit keres ez a mutáns itt, Menedékvárosban?!}
-{134}{}{Állni meg?}
+{126}{}{Hat utÃ¡n el kell hagynod a vÃ¡rost!}
+{127}{}{VigyÃ¡zok a rendre.}
+{128}{}{Nem tÃ¶rtÃ©nt rendkÃ­vÃ¼li esemÃ©ny, KapitÃ¡ny.}
+{129}{}{VigyÃ¡zok a felszerelÃ©sre, KapitÃ¡ny.}
+{130}{}{MenedÃ©kvÃ¡ros mindenek felett, KapitÃ¡ny!}
+{131}{}{JÃ³ napot, KapitÃ¡ny.}
+{132}{}{HÃ© te! Ãllj csak meg! Mit keres ez a ghoul itt, MenedÃ©kvÃ¡rosban?!}
+{133}{}{HÃ© te! Ãllj csak meg! Mit keres ez a mutÃ¡ns itt, MenedÃ©kvÃ¡rosban?!}
+{134}{}{Ãllni meg?}
 {135}{}{Egy ghoul? Hol?}
-{136}{}{Egy mutáns? Hol?}
+{136}{}{Egy mutÃ¡ns? Hol?}
 {137}{}{Velem van.}
-{138}{}{Együtt utazunk, õ a társam. Ha bármelyik rasszistának gondja van ezzel, megbeszélhetjük. Itt és most.}
-{139}{}{Együtt vagytok? Akkor velünk jöttök. Visszamegyünk Elõvárosba, ahová te, és ez az... izé... tartoztok.}
-{140}{}{Rendben, békésen távozunk.}
-{141}{}{Azt próbáld meg! Garantálom, hogy megrázó élményben lesz részed.}
-{142}{}{Remek. Úgy tûnik, söpredék vagyunk. Rendben, kapisgálom. }
+{138}{}{EgyÃ¼tt utazunk, Å‘ a tÃ¡rsam. Ha bÃ¡rmelyik rasszistÃ¡nak gondja van ezzel, megbeszÃ©lhetjÃ¼k. Itt Ã©s most.}
+{139}{}{EgyÃ¼tt vagytok? Akkor velÃ¼nk jÃ¶ttÃ¶k. VisszamegyÃ¼nk ElÅ‘vÃ¡rosba, ahovÃ¡ te, Ã©s ez az... izÃ©... tartoztok.}
+{140}{}{Rendben. BÃ©kÃ©sen tÃ¡vozunk.}
+{141}{}{Azt prÃ³bÃ¡ld meg! GarantÃ¡lom, hogy megrÃ¡zÃ³ Ã©lmÃ©nyben lesz rÃ©szed.}
+{142}{}{Remek. Ãšgy tÅ±nik, sÃ¶predÃ©k vagyunk. Rendben, kapisgÃ¡lom. }
 {143}{}{Nagyon vicces.}
-{144}{}{Velünk jöttök. Visszakísérünk Elõvárosba, ahová te, és ez az... izé... tartoztok.}
-{145}{}{ÉN NEM MENNI! TE NEM BARÁT!}
-{146}{}{Megyünk... megyünk elfele... nem rángassa engemet.}
-{147}{}{Rendben, békésen távozunk.}
-{148}{}{Õ a társam. Ha bármelyik seggfejnek baja van vele, rendezhetünk egy kis vérfürdõt!}
-{149}{}{Szóval a nehezebb utat választod? Remek. Õrség! Õrség!!}
+{144}{}{VelÃ¼nk jÃ¶ttÃ¶k. VisszakÃ­sÃ©rÃ¼nk ElÅ‘vÃ¡rosba, ahovÃ¡ te, Ã©s ez az... izÃ©... tartoztok.}
+{145}{}{Ã‰N NEM MENNI! TE NEM BARÃT!}
+{146}{}{MegyÃ¼nk... megyÃ¼nk elfele... nem rÃ¡ngassa engemet.}
+{147}{}{Rendben. BÃ©kÃ©sen tÃ¡vozunk.}
+{148}{}{Å a tÃ¡rsam. Ha bÃ¡rmelyik seggfejnek baja van vele, rendezhetÃ¼nk egy kis vÃ©rfÃ¼rdÅ‘t!}
+{149}{}{SzÃ³val a nehezebb utat vÃ¡lasztod? Remek. ÅrsÃ©g! ÅrsÃ©g!!}
 {150}{}{Hrnghhhhhhhhhh!}
-{151}{}{Mire a haverjaid elõkerülnek, hulla leszel!}
-{152}{}{Hé! Õ az, aki legyõzte az Enklávét!}
-{153}{}{Gratulálok a hõstettedhez!}
-{154}{}{Üdvözlünk Menedékvárosban, népünk megmentõje!}
-{155}{}{Az Enklávé elleni harcod nagy hatással volt még az Elsõ Polgárra is.}
-{156}{}{Úgy hallottam, hogy délrõl, San Franciscóból jöttél. Igaz ez?}
-{157}{}{Igaz, hogy az Egyesült Államok még mindig háborúban áll?}
-{158}{}{Készíthetnél egy szép listát az utazásaidról a menedékvárosi számítógépek számára.}
-{159}{}{Bármikor szívesen látunk Menedékvárosban.}
-{160}{}{Írhatnál egy listát az Enklávé elleni harcodról és feltölthetnéd a Lista Szerverre.}
-{161}{}{Nem emlékszem rád. Hol vannak a papírjaid?}
-{162}{}{Itt vannak, parancsolj. Remélem, mindent rendben találsz.}
-{163}{}{Most épp nincsenek nálam, de... }
-{164}{}{Hmmmm. Jól van, úgy tûnik minden  rendben. Elnézést, hogy zavartalak, Polgártárs. Menedékváros mindenek felett!}
-{165}{}{Menedékváros mindenek felett, Polgártárs!}
-{166}{}{Mázlid van, nem jelentem az esetet. De most már ki innen!}
+{151}{}{Mire a haverjaid elÅ‘kerÃ¼lnek, hulla leszel!}
+{152}{}{HÃ©! Å az, aki legyÅ‘zte az EnklÃ¡vÃ©t!}
+{153}{}{GratulÃ¡lok a hÅ‘stettedhez!}
+{154}{}{ÃœdvÃ¶zlÃ¼nk MenedÃ©kvÃ¡rosban, nÃ©pÃ¼nk megmentÅ‘je!}
+{155}{}{Az EnklÃ¡vÃ© elleni harcod nagy hatÃ¡ssal volt mÃ©g az ElsÅ‘ PolgÃ¡rra is.}
+{156}{}{Ãšgy hallottam, hogy dÃ©lrÅ‘l, San FranciscÃ³bÃ³l jÃ¶ttÃ©l. Igaz ez?}
+{157}{}{Igaz, hogy az EgyesÃ¼lt Ãllamok mÃ©g mindig hÃ¡borÃºban Ã¡ll?}
+{158}{}{KÃ©szÃ­thetnÃ©l egy szÃ©p listÃ¡t az utazÃ¡saidrÃ³l a menedÃ©kvÃ¡rosi szÃ¡mÃ­tÃ³gÃ©pek szÃ¡mÃ¡ra.}
+{159}{}{BÃ¡rmikor szÃ­vesen lÃ¡tunk MenedÃ©kvÃ¡rosban.}
+{160}{}{ÃrhatnÃ¡l egy listÃ¡t az EnklÃ¡vÃ© elleni harcodrÃ³l Ã©s feltÃ¶lthetnÃ©d a Lista Szerverre.}
+{161}{}{Nem emlÃ©kszem rÃ¡d. Hol vannak a papÃ­rjaid?}
+{162}{}{Itt vannak, parancsolj. RemÃ©lem, mindent rendben talÃ¡lsz.}
+{163}{}{Most Ã©pp nincsenek nÃ¡lam, de... }
+{164}{}{Hmmmm. JÃ³l van, Ãºgy tÅ±nik minden  rendben. ElnÃ©zÃ©st, hogy zavartalak, PolgÃ¡rtÃ¡rs. MenedÃ©kvÃ¡ros mindenek felett!}
+{165}{}{MenedÃ©kvÃ¡ros mindenek felett, PolgÃ¡rtÃ¡rs!}
+{166}{}{MÃ¡zlid van, nem jelentem az esetet. De most mÃ¡r ki innen!}

@@ -1,3 +1,3 @@
-{100}{}{Ez az ember halottnak tûnik.}
-{101}{}{Úgy tûnik, ezeket az embereket meggyilkolták.}
-{102}{}{Sajnálatot érzel a halottak iránt.}
+{100}{}{Ez az ember halottnak tÅ±nik.}
+{101}{}{Ãšgy tÅ±nik, ezeket az embereket meggyilkoltÃ¡k.}
+{102}{}{SajnÃ¡latot Ã©rzel a halottak irÃ¡nt.}

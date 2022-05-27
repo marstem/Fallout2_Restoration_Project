@@ -1,14 +1,14 @@
-{100}{}{Semmiképpen nem tudod használni az emittert.}
-{101}{}{Semmiképpen nem tudod használni az erõteret.}
-{102}{}{Elektromosan sebzõdtél a gyengített erõtértõl.}
-{103}{}{ elektromosan sebzõdött a gyengített erõtértõl.}
-{107}{}{Elektromosan sebzõdtél az erõtértõl.}
-{108}{}{ elektromosan sebzõdött az erõtértõl.}
+{100}{}{SemmikÃ©ppen nem tudod hasznÃ¡lni az emittert.}
+{101}{}{SemmikÃ©ppen nem tudod hasznÃ¡lni az erÅ‘teret.}
+{102}{}{Elektromosan sebzÅ‘dtÃ©l a gyengÃ­tett erÅ‘tÃ©rtÅ‘l.}
+{103}{}{ elektromosan sebzÅ‘dÃ¶tt a gyengÃ­tett erÅ‘tÃ©rtÅ‘l.}
+{107}{}{Elektromosan sebzÅ‘dtÃ©l az erÅ‘tÃ©rtÅ‘l.}
+{108}{}{ elektromosan sebzÅ‘dÃ¶tt az erÅ‘tÃ©rtÅ‘l.}
 {109}{}{You fail to affect the force field.}
-{110}{}{ nem tudta kikapcsolni az erõteret.}
-{111}{}{Egy hangosbemondóra leszel figyelmes: Figyelem! Betolakodó Veszély! Biztonsági Rendszer Bekapcsolva.}
-{112}{}{Kikapcsoltad az erõteret.}
-{113}{}{ kikapcsolta az erõteret.}
-{114}{}{Bekapcsoltad az erõteret.}
-{115}{}{ bekapcsolta az erõteret.}
-{116}{}{Elpusztítottad az erõtér-emittert.}
+{110}{}{ nem tudta kikapcsolni az erÅ‘teret.}
+{111}{}{Egy hangosbemondÃ³ra leszel figyelmes: Figyelem! BetolakodÃ³ VeszÃ©ly! BiztonsÃ¡gi Rendszer Bekapcsolva.}
+{112}{}{Kikapcsoltad az erÅ‘teret.}
+{113}{}{ kikapcsolta az erÅ‘teret.}
+{114}{}{Bekapcsoltad az erÅ‘teret.}
+{115}{}{ bekapcsolta az erÅ‘teret.}
+{116}{}{ElpusztÃ­tottad az erÅ‘tÃ©r-emittert.}

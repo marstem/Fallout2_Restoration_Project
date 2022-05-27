@@ -2,7 +2,7 @@
 {101}{}{You see Cassidy.}
 {102}{}{You see an elderly man with deep wrinkles along his face. He nods at you.}
 {103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
-{104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
+{104}{Cas0104}{Bem, se não é o meu herói. O que a mãe pode fazer por você hoje?}
 {105}{}{Ug Nog?}
 {106}{}{Desliga}
 {107}{}{Estou a procura da Vault.}
@@ -15,7 +15,7 @@
 {114}{Cas0114}{Vault? Only Vault I know of is the one inside the city. Big friggin' hole... you can't miss it, trust me.}
 {115}{}{What do you have to drink here?}
 {116}{}{Anything interesting going on around here?}
-{117}{}{Obrigado pelas dire��es. Tchau.}
+{117}{}{Obrigado pelas direções. Tchau.}
 {118}{Cas0118}{Beer for $20, shot of whiskey for $30. Nothing special. Why, you want something?}
 {119}{}{Estou a procura da Vault.}
 {120}{}{I'll take a beer.}
@@ -63,27 +63,27 @@
 {161}{}{All right. Well, good luck.}
 {162}{}{Forget I asked then, asshole. Go back to tending bar in this shitwater burg.}
 {163}{}{Nevermind then. Your loss.}
-{164}{Cas0164}{Heh. You serious?}
+{164}{Cas0164}{Ei, tá falando sério?}
 {165}{}{Sure. Why the hell not? You look like you know how to take care of yourself in a fight.}
 {166}{}{On second thought, it's pretty dangerous out there, especially for someone with heart trouble. You'd be better off here.}
-{167}{Cas0167}{All right, count me in.}
+{167}{Cas0167}{Tudo bem, conte comigo.}
 {168}{}{Let's hit it.}
 {169}{}{}
 {170}{}{}
 {171}{Cas0171}{What's up? You got that "I need to tell you something you might not like" look again.}
-{172}{Cas0172}{Yeah?}
+{172}{Cas0172}{Sim?}
 {173}{Cas0173}{What's up? You got that "I'm pulling rank" look again.}
 {174}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
 {176}{}{Cassidy, I need you to wait here until I come back.}
-{177}{}{Coloque sua arma de dist�ncia.}
+{177}{}{Coloque sua arma de distância.}
 {178}{}{Ficar perto de mim.}
-{179}{}{N�o fique muito longe.}
+{179}{}{Não fique muito longe.}
 {180}{}{Devemos espalhar um pouco.}
 {181}{}{C'mon, Cassidy. Time to head out.}
 {182}{}{Nada, esquece.}
 {261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
-{262}{Cas0262}{What's on your mind?}
+{262}{Cas0262}{O que tem em mente?}
 {263}{}{Why do you want to cap Myron?}
 {264}{}{What weapons are you skilled with?}
 {265}{}{Actually, I had something else I wanted you to do...}
@@ -120,7 +120,7 @@
 {296}{}{We're going to the Vault, then return the GECK to my village.}
 {297}{}{My village has been kidnapped. I'm trying to find out what happened to them.}
 {298}{Cas0298}{Them things come in kits now, huh? Man, the good book don't mention that, does it? Well, all right then. Let's get hunting.}
-{299}{Cas0299}{Huh. All right then, just checking.}
+{299}{Cas0299}{Ok, certo, apenas verificando.}
 {300}{Cas0300}{I wouldn't mind plugging a few holes in some kidnappers. A little frontier justice never hurt anyone... well, at least not me.}
 {301}{}{All right. Let's go.}
 {302}{Cas0302}{The things that little cuss says ain't fit for decent ears.}
@@ -130,11 +130,11 @@
 {306}{}{You know, you cuss a lot, too, Cassidy.}
 {307}{}{Tell me about it. Let's get going.}
 {308}{Cas0308}{Yeah, but when I do it, it's got style. He's just a little trash mouth.}
-{309}{Cas0309}{And I don't like the way he looks at you, neither.}
+{309}{Cas0309}{E eu também não gosto do jeito que ele olha para você.}
 {310}{}{Why, Cassidy, I didn't know you cared. My heart's all a-flutter.}
 {311}{}{So? What are you saying?}
 {312}{}{Tell me about it. Let's get going.}
-{313}{Cas0313}{Now hold on, I didn't mean it like that.}
+{313}{Cas0313}{Espere um pouco, eu não quis dizer nada disso.}
 {314}{Cas0314}{All I'm saying is that bona fide little asshole's gonna get his number clocked one day when it's just me and him and a hole in the desert.}
 {315}{}{Well, life can be a harsh teacher on its own. I had some other questions for you...}
 {316}{}{Well, he's bound to bite it any time now anyway. I wouldn't worry about it.}
@@ -194,7 +194,7 @@
 {370}{}{Cassidy dies of a heart attack.}
 {371}{}{You have convinced Cassidy to join your party.}
 {372}{}{Just let me pop a heart pill first...}
-{1000}{Cas1000}{Bem... tudo bem ent�o. Vou esperar aqui at� voc� voltar. }
+{1000}{Cas1000}{Bem... tudo bem então. Vou esperar aqui até você voltar. }
 {1100}{Cas1100}{Sure. Can't promise I won't pull it out again if there's trouble, though.}
 {1200}{Cas1200}{All right, I'll stick close to you then. You must be expecting trouble.}
 {1300}{Cas1300}{All right, I'll keep some distance. Get a better vantage point that way.}
@@ -203,29 +203,29 @@
 {2100}{Cas2100}{Naw, I don't travel with slavers. They have a nasty habit o' selling you when they get low on cash. No offense.}
 {2200}{Cas2200}{Naw, you have the look of somebody with one foot in the grave and the other in hell. I don't think I need to stain my reputation any more than it is.}
 {2300}{Cas2300}{Naw... you look like you got enough of a crowd already.}
-{2400}{Cas2400}{All right, then.}
+{2400}{Cas2400}{Tudo bem, então.}
 {2999}{}{All right. Take care, then.}
 {3000}{}{Vamos sair.}
-{3100}{}{Esque�a que eu disse, idiota.}
+{3100}{}{Esqueça que eu disse, idiota.}
 {3200}{}{Never mind, then. Your loss.}
-{4100}{Cas4100}{Okay, everything's stitched up. I'm good to go.}
-{4200}{Cas4200}{Okay, pretty much everything is patched up.}
+{4100}{Cas4100}{Ok, está tudo remendado. Estou pronto para ir.}
+{4200}{Cas4200}{Ok, praticamente tudo está remendado.}
 {4300}{Cas4300}{That pretty much did it, but I could use a couple more stims.}
 {4400}{Cas4400}{I used what I could, but I'm still pretty messed up. If you got any more stims to spare, I could sure use 'em. I can still walk, though.}
 {9999}{}{Eu gostaria de lhe fazer algumas perguntas...}
 {10001}{}{Tome um estimulante e se cure.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
-{10003}{}{Coloque sua arma de dist�ncia.}
+{10003}{}{Coloque sua arma de distância.}
 {10004}{}{Ficar perto de mim.}
-{10005}{}{N�o fique muito longe.}
+{10005}{}{Não fique muito longe.}
 {10006}{}{Devemos espalhar um pouco.}
 {10007}{}{Vamos sair.}
 {10100}{}{C'mon, Cassidy. Time to head out.}
-{20000}{Cas20000}{All right, I'm listening.}
-{20001}{Cas20001}{My gear? What about it?}
+{20000}{Cas20000}{Tudo bem, estou ouvindo.}
+{20001}{Cas20001}{Meu equipamento? O que tem ele?}
 {20002}{Cas20002}{No problem. Too hot for that kinda gear, anyway. Makes me sweat like a New Reno whore.}
 {20003}{}{Let's try a different formation.}
-{20004}{}{Eu preciso falar com voc� sobre seu equipamento.}
+{20004}{}{Eu preciso falar com você sobre seu equipamento.}
 {20005}{}{Forget it. Let's stick to the formation we have now.}
 {20006}{}{Never mind. There's nothing I need to know about your gear.}
 {20007}{}{I need you to remove that armor you're wearing.}

@@ -1,43 +1,43 @@
-{100}{}{Egy koszos, borostás férfit látsz.}
-{101}{}{Prémvadász.}
-{102}{}{Jobb, ha nem mész túl közel! Lehet, hogy a ruhájában rejtõzõ egynémely élõlény éppen tisztább otthont keres.}
-{103}{}{Helló! Nem találkozunk túl gyakran emberekkel errefelé. Mit akarsz?}
-{104}{}{Van eladó gekkóbõrötök?}
-{105}{}{Csak erre jártam.}
-{106}{}{Ah...}
-{107}{}{Hát, éppenséggel van pár eladásra szánt bõrõm. Megkímélnél a város meglátogatásától, ha megvennéd õket.}
+{100}{}{Egy koszos, borostÃ¡s fÃ©rfit lÃ¡tsz.}
+{101}{}{PrÃ©mvadÃ¡sz.}
+{102}{}{Jobb, ha nem mÃ©sz tÃºl kÃ¶zel! Lehet, hogy a ruhÃ¡jÃ¡ban rejtÅ‘zÅ‘ egynÃ©mely Ã©lÅ‘lÃ©ny Ã©ppen tisztÃ¡bb otthont keres.}
+{103}{}{HellÃ³! Nem talÃ¡lkozunk tÃºl gyakran emberekkel errefelÃ©. Mit akarsz?}
+{104}{}{Van eladÃ³ gekkÃ³bÅ‘rÃ¶tÃ¶k?}
+{105}{}{ÃtutazÃ³ban vagyok.}
+{106}{}{Aghhh!}
+{107}{}{HÃ¡t, Ã©ppensÃ©ggel van pÃ¡r eladÃ¡sra szÃ¡nt bÅ‘rÅ‘m. MegkÃ­mÃ©lnÃ©l a vÃ¡ros meglÃ¡togatÃ¡sÃ¡tÃ³l, ha megvennÃ©d Å‘ket.}
 {108}{}{Mutasd, mid van!}
-{109}{}{Értem.}
-{110}{}{Ah...}
+{109}{}{RÃ¡ se rÃ¡nts!}
+{110}{}{Aghhh!}
 {111}{}{Here's what I got: }
-{112}{}{ regular gecko pelts.}
-{113}{}{ golden gecko pelts.}
+{112}{}{gekkÃ³bÅ‘r.}
+{113}{}{aranygekkÃ³ bÅ‘r.}
 {114}{}{Mindet megveszem.}
-{115}{}{Talán legközelebb. Viszlát!}
-{116}{}{Köszönöm a vásárlást. Viszlát legközelebb!}
-{117}{}{Viszlát!}
-{118}{}{Úgy néz ki, nincs elég pénz nálad. Mi lenne, ha adnál nekem öt percet, amit a nõddel tölthetnék? Hidd el, megérné!}
-{119}{}{Úgy néz ki, nincs elég pénz nálad. Mi lenne, ha adnál nekem öt percet, amit a pasiddal tölthetnék? Érted, mire gondolok. Rendes csereüzletrõl van szó.}
-{120}{}{Úgy néz ki, nincs elég pénzed. Figyelj csak! TÚL régóta vagyok már egyedül ebben az erdõben, ha érted, mire akarok kilyukadni. Megérné neked, hidd el!}
-{121}{}{Hogyne.}
-{122}{}{Kizárt dolog! Viszlát!}
-{123}{}{[Miria meg fog bocsátani... alkalmasint. De nézd a jó oldalát! Kaptál pár gekkóbõrt a prémvadásztól.]}
-{124}{}{[Davin nem tûnik túl megviseltnek az eset után.]}
-{125}{}{[Mocskosnak érzed magad a szó számos értelmében... de lagalább van pár gekkóbõröd.]}
-{126}{}{Viszlát!}
-{127}{}{[Felemeli a jobb karját, és úgy beszél hozzád] Uff! Én lenni hatalmas prémvadász. Vadászni nagy gekkókra. Nem akarni háborgatni te földed. Békésen távozni. [Átad egy ajándék gekkóbõrt.]}
-{128}{}{[vége]}
-{129}{}{Nincs több dolgom veled.}
-{130}{}{Gyáva kutya!}
-{131}{}{Ez az én vadászterületem. Távozz!}
-{132}{}{Elevenen megnyúzlak!}
-{133}{}{Trófeát csinálok a fejedbõl.}
-{134}{}{Egy sima gekkóbõr: $}
-{135}{}{Egy aranygekkó bõre: $}
-{136}{}{Oké, haver. Nyertél.}
-{137}{}{Mázlista, utána kell néznem a csapdáimnak.}
-{138}{}{Mintha anyu szólítana, mennem kell.}
+{115}{}{TalÃ¡n legkÃ¶zelebb. ViszlÃ¡t!}
+{116}{}{KÃ¶szÃ¶nÃ¶m a vÃ¡sÃ¡rlÃ¡st. ViszlÃ¡t legkÃ¶zelebb!}
+{117}{}{ViszlÃ¡t!}
+{118}{}{Ãšgy nÃ©z ki, nincs elÃ©g pÃ©nz nÃ¡lad. Mi lenne, ha adnÃ¡l nekem Ã¶t percet, amit a nÅ‘ddel tÃ¶lthetnÃ©k? Hidd el, megÃ©rnÃ©!}
+{119}{}{Ãšgy nÃ©z ki, nincs elÃ©g pÃ©nz nÃ¡lad. Mi lenne, ha adnÃ¡l nekem Ã¶t percet, amit a pasiddal tÃ¶lthetnÃ©k? Ã‰rted, mire gondolok. Rendes csereÃ¼zletrÅ‘l van szÃ³.}
+{120}{}{Ãšgy nÃ©z ki, nincs elÃ©g pÃ©nzed. Figyelj csak! TÃšL rÃ©gÃ³ta vagyok mÃ¡r egyedÃ¼l ebben az erdÅ‘ben, ha Ã©rted, mire akarok kilyukadni. MegÃ©rnÃ© neked, hidd el!}
+{121}{}{Persze.}
+{122}{}{KizÃ¡rt dolog! ViszlÃ¡t!}
+{123}{}{[Miria meg fog bocsÃ¡tani... alkalmasint. De nÃ©zd a jÃ³ oldalÃ¡t! KaptÃ¡l pÃ¡r gekkÃ³bÅ‘rt a prÃ©mvadÃ¡sztÃ³l.]}
+{124}{}{[Davin nem tÅ±nik tÃºl megviseltnek az eset utÃ¡n.]}
+{125}{}{[Mocskosnak Ã©rzed magad a szÃ³ szÃ¡mos Ã©rtelmÃ©ben... de lagalÃ¡bb van pÃ¡r gekkÃ³bÅ‘rÃ¶d.]}
+{126}{}{ViszlÃ¡t!}
+{127}{}{[Felemeli a jobb karjÃ¡t, Ã©s Ãºgy beszÃ©l hozzÃ¡d] Uff! Ã‰n lenni hatalmas prÃ©mvadÃ¡sz. VadÃ¡szni nagy gekkÃ³kra. Nem akarni hÃ¡borgatni te fÃ¶lded. BÃ©kÃ©sen tÃ¡vozni. [Ãtad egy ajÃ¡ndÃ©k gekkÃ³bÅ‘rt.]}
+{128}{}{[BefejezÃ©s]}
+{129}{}{Nincs tÃ¶bb dolgom veled.}
+{130}{}{GyÃ¡va kutya!}
+{131}{}{Ez az Ã©n vadÃ¡szterÃ¼letem. TÃ¡vozz!}
+{132}{}{Elevenen megnyÃºzlak!}
+{133}{}{TrÃ³feÃ¡t csinÃ¡lok a fejedbÅ‘l.}
+{134}{}{Egy sima gekkÃ³bÅ‘r: $}
+{135}{}{Egy aranygekkÃ³ bÅ‘re: $}
+{136}{}{OkÃ©, haver. NyertÃ©l.}
+{137}{}{MÃ¡zlista, utÃ¡na kell nÃ©znem a csapdÃ¡imnak.}
+{138}{}{Mintha anyu szÃ³lÃ­tana, mennem kell.}
 {140}{}{Looks like I don't have any regular gecko pelts, but I do have }
 {141}{}{Looks like I don't have any golden gecko pelts, but I do have }
 {142}{}{Sorry, looks like I'm all out of stock.}
-{200}{}{Egy piszkos, szedett-vedett nõt látsz.}
+{200}{}{Egy piszkos, szedett-vedett nÅ‘t lÃ¡tsz.}

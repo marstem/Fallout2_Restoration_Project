@@ -1,2 +1,2 @@
-{100}{}{Befûtöd a PipBoy nyelvi kiegészítõjét, mire egy valóságos nyelvi lavina tódul az agyadba.}
-{200}{}{Száz szónak is egy a vége. A nyelvi tudásanyag valóságos zuhataga özönlött a koponyámba.}
+{100}{}{BefÅ±tÃ¶d a PipBoy nyelvi kiegÃ©szÃ­tÅ‘jÃ©t, mire egy valÃ³sÃ¡gos nyelvi lavina tÃ³dul az agyadba.}
+{200}{}{SzÃ¡z szÃ³nak is egy a vÃ©ge. A nyelvi tudÃ¡sanyag valÃ³sÃ¡gos zuhataga Ã¶zÃ¶nlÃ¶tt a koponyÃ¡mba.}

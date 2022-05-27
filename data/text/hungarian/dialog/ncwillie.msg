@@ -1,27 +1,27 @@
-{100}{}{Ez itt Koporsós Willie.}
-{150}{}{Ez itt egy öreg, büdös, ráncos ghoul. Barátom, ez úgy bûzlik, hogy arra nincs szó!}
-{200}{}{Atyám! Ez a sír bûzlik, mint állat!}
-{201}{}{Aha... ássunk csak tovább...}
+{100}{}{Ez itt KoporsÃ³s Willie.}
+{150}{}{Ez itt egy Ã¶reg, bÃ¼dÃ¶s, rÃ¡ncos ghoul. BarÃ¡tom, ez Ãºgy bÅ±zlik, hogy arra nincs szÃ³!}
+{200}{}{AtyÃ¡m! Ez a sÃ­r bÅ±zlik, mint Ã¡llat!}
+{201}{}{Aha... Ã¡ssunk csak tovÃ¡bb...}
 {202}{}{Mi a...?}
-{203}{}{Na, hogy oda ne csesszek! Az ásás aztán nem az erõsséged, marharépa!}
-{204}{}{Menj elõlem, simabõrû!}
+{203}{}{Na, hogy oda ne csesszek! Az Ã¡sÃ¡s aztÃ¡n nem az erÅ‘ssÃ©ged, marharÃ©pa!}
+{204}{}{Menj elÅ‘lem, simabÅ‘rÅ±!}
 {205}{}{A'apu?}
-{206}{}{Most ne, Lenny, nincs kedvem beszélgetni!}
-{300}{}{Az ember beugrik Renóba' egy kis itókára meg kurvázásra, erre a francos simabõrûek bevágnak egy sírgödörbe...}
-{301}{}{Jó, hogy nincs egy fia orrom se, különben felfordulnék a saját szagomtól.}
+{206}{}{Most ne, Lenny, nincs kedvem beszÃ©lgetni!}
+{300}{}{Az ember beugrik RenÃ³ba' egy kis itÃ³kÃ¡ra meg kurvÃ¡zÃ¡sra, erre a francos simabÅ‘rÅ±ek bevÃ¡gnak egy sÃ­rgÃ¶dÃ¶rbe...}
+{301}{}{JÃ³, hogy nincs egy fia orrom se, kÃ¼lÃ¶nben felfordulnÃ©k a sajÃ¡t szagomtÃ³l.}
 {302}{}{A ghoulokat francba se veszik!}
-{303}{}{Beugrok a városba egy italra, erre a renói seggfejek élve eltemetnek.}
-{304}{}{Nincs unalmasabb, mint hónapokig egy koporsóban lakni.}
-{305}{}{El a kezekkel, simabõrû! Dolgom van.}
-{306}{}{Vedd le a simabõrû mancsodat rólam, te!}
-{500}{}{A fejfán ez áll: "Itt nyugszik a legostobább fasz, aki valaha betette a lábát New Renóba."}
-{550}{}{A sírgödörbõl szörnyû szag árad.}
-{600}{}{Hé!}
-{601}{}{Hallok valamit odakinntrõl!}
-{602}{}{Ne lépjé' a sírra! Hullik a fõd a fejemre!}
-{603}{}{Gyorsan, SZEREZZ EGY ÁSÓT!}
-{604}{}{Kiásna már végre valaki? Inni akarok!}
-{605}{}{Ez itt egy féreg? Végül is... mindegy.}
+{303}{}{Beugrok a vÃ¡rosba egy italra, erre a renÃ³i seggfejek Ã©lve eltemetnek.}
+{304}{}{Nincs unalmasabb, mint hÃ³napokig egy koporsÃ³ban lakni.}
+{305}{}{El a kezekkel, simabÅ‘rÅ±! Dolgom van.}
+{306}{}{Vedd le a simabÅ‘rÅ± mancsodat rÃ³lam, te!}
+{500}{}{A fejfÃ¡n ez Ã¡ll: "Itt nyugszik a legostobÃ¡bb fasz, aki valaha betette a lÃ¡bÃ¡t New RenÃ³ba."}
+{550}{}{A sÃ­rgÃ¶dÃ¶rbÅ‘l szÃ¶rnyÅ± szag Ã¡rad.}
+{600}{}{HÃ©!}
+{601}{}{Hallok valamit odakinntrÅ‘l!}
+{602}{}{Ne lÃ©pjÃ©' a sÃ­rra! Hullik a fÅ‘d a fejemre!}
+{603}{}{Gyorsan, SZEREZZ EGY ÃSÃ“T!}
+{604}{}{KiÃ¡sna mÃ¡r vÃ©gre valaki? Inni akarok!}
+{605}{}{Ez itt egy fÃ©reg? VÃ©gÃ¼l is... mindegy.}
 {700}{}{Ug, smellie in hole.}
 {701}{}{Me dig more for smellie shinies.}
 {702}{}{Huh, You not shini-!?}

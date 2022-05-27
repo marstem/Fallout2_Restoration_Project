@@ -1,47 +1,47 @@
-{100}{}{Egy kereskedõ.}
+{100}{}{Egy kereskedÅ‘.}
 {101}{}{Willy.}
-{102}{}{Egy hétköznapi, utazó kereskedõ.}
+{102}{}{Egy hÃ©tkÃ¶znapi, utazÃ³ kereskedÅ‘.}
 {103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
  a card, and after a while you doze off.]}
 {104}{}{Zzzzzzz...}
-{105}{}{[Nagy nehezen kinyitod a szemedet, mikor végre ráeszmélsz, hogy valaki rúgdos.] Na, most akkor érdekel vagy nem?}
-{106}{}{Mi érdekel?}
-{107}{}{Hö?}
-{108}{}{Üthetsz vele, vághatsz vele és különösen jól jöhet rosszindulatú állatok ellen. Ártól függetlenül elõnyös vétel, de csak neked, csak ma nem több, mint }
-{109}{}{A környék legjobb fájából készült. Lehet vele szúrkálni, állatokat távol tartani, sõt, ha elég jó vagy, el is dobhatod. Csodálatosan áramvonalas és nem törik el becsapódáskor. Na, mit szólsz? Kész rablás, hogy az ára csak }
-{110}{}{Ez a fegyver a legjobb újrahasznosított acélból készült. Nézd csak meg, milyen kényelmesen illeszkedik a kezedbe! Nem kell aggódni, a mérnökeink biztonsági- és megbízhatósági teszteknek vetették alá. Nincs az az épeszû útonálló, aki beléd köt, ha ezt a kis aranyost a kezedben lóbálod. Az ára potom }
-{111}{}{Ez a kis gyöngyszem igazán egyedülálló. Származási helye... öö... Úgy mûködik, hogy rámutatsz vele...  mindegy, gõzöm sincs, mi a franc lehet ez. Kell vagy nem? Az ára }
-{112}{}{Ez a kis készség mintha azt mondaná: "Ne kekeckedj velem!" A puszta látványa menekülésre készteti az ellenségeidet. Alkalmi vétel. Az ára }
-{113}{}{Nekem úgy tûnik, hogy te az a fajta fickó vagy, aki harcban szeret közeli és személyes kapcsolatot kialakítani az ellenféllel. Nos, neked pont erre a kis aranyos készségre van szükséged, és nem kerül többe, mint }
+{105}{}{[Nagy nehezen kinyitod a szemedet, mikor vÃ©gre rÃ¡eszmÃ©lsz, hogy valaki rÃºgdos.] Na, most akkor Ã©rdekel vagy nem?}
+{106}{}{Mi Ã©rdekel?}
+{107}{}{HÃ¶?}
+{108}{}{Ãœthetsz vele, vÃ¡ghatsz vele Ã©s kÃ¼lÃ¶nÃ¶sen jÃ³l jÃ¶het rosszindulatÃº Ã¡llatok ellen. ÃrtÃ³l fÃ¼ggetlenÃ¼l elÅ‘nyÃ¶s vÃ©tel, de csak neked, csak ma nem tÃ¶bb, mint }
+{109}{}{A kÃ¶rnyÃ©k legjobb fÃ¡jÃ¡bÃ³l kÃ©szÃ¼lt. Lehet vele szÃºrkÃ¡lni, Ã¡llatokat tÃ¡vol tartani, sÅ‘t, ha elÃ©g jÃ³ vagy, el is dobhatod. CsodÃ¡latosan Ã¡ramvonalas Ã©s nem tÃ¶rik el becsapÃ³dÃ¡skor. Na, mit szÃ³lsz? KÃ©sz rablÃ¡s, hogy az Ã¡ra csak }
+{110}{}{Ez a fegyver a legjobb ÃºjrahasznosÃ­tott acÃ©lbÃ³l kÃ©szÃ¼lt. NÃ©zd csak meg, milyen kÃ©nyelmesen illeszkedik a kezedbe! Nem kell aggÃ³dni, a mÃ©rnÃ¶keink biztonsÃ¡gi- Ã©s megbÃ­zhatÃ³sÃ¡gi teszteknek vetettÃ©k alÃ¡. Nincs az az Ã©peszÅ± ÃºtonÃ¡llÃ³, aki belÃ©d kÃ¶t, ha ezt a kis aranyost a kezedben lÃ³bÃ¡lod. Az Ã¡ra potom }
+{111}{}{Ez a kis gyÃ¶ngyszem igazÃ¡n egyedÃ¼lÃ¡llÃ³. SzÃ¡rmazÃ¡si helye... Ã¶Ã¶... Ãšgy mÅ±kÃ¶dik, hogy rÃ¡mutatsz vele...  mindegy, gÅ‘zÃ¶m sincs, mi a franc lehet ez. Kell vagy nem? Az Ã¡ra }
+{112}{}{Ez a kis kÃ©szsÃ©g mintha azt mondanÃ¡: "Ne kekeckedj velem!" A puszta lÃ¡tvÃ¡nya menekÃ¼lÃ©sre kÃ©szteti az ellensÃ©geidet. Alkalmi vÃ©tel. Az Ã¡ra }
+{113}{}{Nekem Ãºgy tÅ±nik, hogy te az a fajta fickÃ³ vagy, aki harcban szeret kÃ¶zeli Ã©s szemÃ©lyes kapcsolatot kialakÃ­tani az ellenfÃ©llel. Nos, neked pont erre a kis aranyos kÃ©szsÃ©gre van szÃ¼ksÃ©ged, Ã©s nem kerÃ¼l tÃ¶bbe, mint }
 {114}{}{Megveszem.}
 {115}{}{Nem kell.}
-{116}{}{Természetesen nem fogod megbánni. Örülök, hogy találkoztunk. Viszlát legközelebb!}
-{117}{}{[Vége]}
-{118}{}{Francba! Ezért pocsékoltam a drága idõmet?! A fene vigye!}
-{119}{}{[Vége]}
-{120}{}{Hát, akkor hiába beszéltem annyit. }
+{116}{}{TermÃ©szetesen nem fogod megbÃ¡nni. Ã–rÃ¼lÃ¶k, hogy talÃ¡lkoztunk. ViszlÃ¡t legkÃ¶zelebb!}
+{117}{}{[VÃ©ge]}
+{118}{}{Francba! EzÃ©rt pocsÃ©koltam a drÃ¡ga idÅ‘met?! A fene vigye!}
+{119}{}{[VÃ©ge]}
+{120}{}{HÃ¡t, akkor hiÃ¡ba beszÃ©ltem annyit. }
 {121}{}{Ige'.}
 {122}{}{Nem.}
-{123}{}{Megint te vagy az? Nahát! Van új árum, érdekel?}
+{123}{}{Megint te vagy az? NahÃ¡t! Van Ãºj Ã¡rum, Ã©rdekel?}
 {124}{}{Persze, mutasd csak!}
-{125}{}{Kizárt dolog, Willy.}
+{125}{}{KizÃ¡rt dolog, Willy.}
 {126}{}{Ige'.}
 {127}{}{Nem.}
-{128}{}{Francba! Nem érek rá!}
-{129}{}{Gyere vissza, ha van pénzed is!}
-{130}{}{TÛNJ EL!}
-{131}{}{Pénzt vissza nem fizetek.}
-{132}{}{Pénzt nem váltok.}
+{128}{}{Francba! Nem Ã©rek rÃ¡!}
+{129}{}{Gyere vissza, ha van pÃ©nzed is!}
+{130}{}{TÅ°NJ EL!}
+{131}{}{PÃ©nzt vissza nem fizetek.}
+{132}{}{PÃ©nzt nem vÃ¡ltok.}
 {133}{}{Nincs hitel.}
-{134}{}{Menj innen, nem érek rá!}
+{134}{}{Menj innen, nem Ã©rek rÃ¡!}
 {135}{}{Rossz mozdulat volt!}
-{136}{}{Rohadék!}
-{137}{}{Ezzel akarsz rávenni az árak csökkentésére?}
-{138}{}{Rendben, csökkentem az árakat.}
-{139}{}{Mit szólsz mondjuk 20%-os árengedményhez?}
-{140}{}{Mit szólsz mondjuk 40%-os árengedményhez?}
-{141}{}{Mit szólsz mondjuk 80%-os árengedményhez?}
-{142}{}{Jól van, INGYEN! Nesze, vidd!}
+{136}{}{KÃ¶csÃ¶g!}
+{137}{}{Ezzel akarsz rÃ¡venni az Ã¡rak csÃ¶kkentÃ©sÃ©re?}
+{138}{}{Rendben, csÃ¶kkentem az Ã¡rakat.}
+{139}{}{Mit szÃ³lsz mondjuk 20%-os Ã¡rengedmÃ©nyhez?}
+{140}{}{Mit szÃ³lsz mondjuk 40%-os Ã¡rengedmÃ©nyhez?}
+{141}{}{Mit szÃ³lsz mondjuk 80%-os Ã¡rengedmÃ©nyhez?}
+{142}{}{JÃ³l van, INGYEN! Nesze, vidd!}
 {143}{}{Willy}
 {144}{}{George}
 {145}{}{Mike}
@@ -51,5 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-{152}{}{ dollár. Kell vagy nem kell?}
-{200}{}{ vagyok.}
+{152}{}{ dollÃ¡r. Kell vagy nem kell?}
+{200}{}{ dollÃ¡r.}

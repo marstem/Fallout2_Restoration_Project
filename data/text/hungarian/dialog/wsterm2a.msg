@@ -1,80 +1,80 @@
-{100}{}{Számítógép-terminál.}
-{101}{}{A képerernyõkímélõ aktív.}
-{103}{}{Skynet Biztonsági Rendszer
-                                 Betolakodó a 2. szinten
-                                                   Ellenintézkedések aktiválása az 1. szinten
-                        Ellenintézkedések - A továbbítás megszûnt
-                        Automata javító rendszer aktiválása}
-{104}{}{Skynet Biztonsági Rendszer
-                                          Betolakodó a 2. szinten
-                                             Ellenintézkedések aktiválása az 1. szinten
-                       Energia-átirányítási kísérlet az erõtér-emittereknek}
-{105}{}{Skynet Biztonsági Rendszer
-                                          Betolakodó a 2. szinten
-                                             Ellenintézkedések aktiválása az 1. szinten}
-{106}{}{2. Szint Riasztásának Vége - Téves Riasztás}
-{107}{}{[Felfedezel egy "Súgó" feliratú billentyût a klaviatúrán.] Megnyomod.}
-{108}{}{Feltöröd a védelmi rendszert}
-{109}{}{Megkísérled kikapcsolni a riasztót}
-{110}{}{Kilépés}
-{111}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre.]}
+{100}{}{SzÃ¡mÃ­tÃ³gÃ©p-terminÃ¡l. Bugos!!!}
+{101}{}{A kÃ©perernyÅ‘kÃ­mÃ©lÅ‘ aktÃ­v.}
+{103}{}{Skynet BiztonsÃ¡gi Rendszer
+                                 BetolakodÃ³ a 2. szinten
+                                                   EllenintÃ©zkedÃ©sek aktivÃ¡lÃ¡sa az 1. szinten
+                        EllenintÃ©zkedÃ©sek - A tovÃ¡bbÃ­tÃ¡s megszÅ±nt
+                        Automata javÃ­tÃ³ rendszer aktivÃ¡lÃ¡sa}
+{104}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          BetolakodÃ³ a 2. szinten
+                                             EllenintÃ©zkedÃ©sek aktivÃ¡lÃ¡sa az 1. szinten
+                       Energia-Ã¡tirÃ¡nyÃ­tÃ¡si kÃ­sÃ©rlet az erÅ‘tÃ©r-emittereknek}
+{105}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          BetolakodÃ³ a 2. szinten
+                                             EllenintÃ©zkedÃ©sek aktivÃ¡lÃ¡sa az 1. szinten}
+{106}{}{2. Szint RiasztÃ¡sÃ¡nak VÃ©ge - TÃ©ves RiasztÃ¡s}
+{107}{}{[Felfedezel egy "SÃºgÃ³" feliratÃº billentyÅ±t a klaviatÃºrÃ¡n.] Megnyomod.}
+{108}{}{VÃ©delmi rendszer feltÃ¶rÃ©se}
+{109}{}{MegkÃ­sÃ©rled kikapcsolni a riasztÃ³t}
+{110}{}{BefejezÃ©s}
+{111}{}{Agrr! [Ã–klÃ¶ddel csalÃ³dottan rÃ¡vÃ¡gsz az billentyÅ±zetre.]}
 {113}{}{Skynet Security Systems}
 {114}{}{Retina Scanner Activated
                                            Scanning...
                                                               Searching Database}
-{115}{}{A 2. szint Riasztó Rendszerének aktiválása.}
-{116}{}{Saját diagnosztikai program futtatása.}
-{117}{}{Kilépés}
-{118}{}{Agrr! [Öklöddel csalódottan rávágsz a billentyûzetre.]}
-{120}{}{Skynet Biztonsági Rendszer
-                                          Hozzáférés a terminálhoz: Elutasítva}
-{122}{}{Kilépés}
+{115}{}{A 2. szint RiasztÃ³ RendszerÃ©nek aktivÃ¡lÃ¡sa.}
+{116}{}{SajÃ¡t diagnosztikai program futtatÃ¡sa.}
+{117}{}{BefejezÃ©s}
+{118}{}{Agrr! [Ã–klÃ¶ddel csalÃ³dottan rÃ¡vÃ¡gsz az billentyÅ±zetre.]}
+{120}{}{Skynet BiztonsÃ¡gi Rendszer
+                                          HozzÃ¡fÃ©rÃ©s a terminÃ¡lhoz: ElutasÃ­tva}
+{122}{}{BefejezÃ©s}
 {124}{}{Hiba!
-                                                                 Nincsenek rendszerfájlok jelen
-                                            Kérem, indítsa újra a gépet}
-{126}{}{Kilépés}
-{127}{}{Parancs megvizsgálása - Kérem, várjon...
-                           Felülbírált felhasználói parancs
-                                     Belépés elutasítva}
-{128}{}{[TOVÁBB]}
-{129}{}{A Riasztó kikapcsolásához nyomja meg az 1-est!
-                 Diagnosztikához nyomja meg a 2-est!
-                             Kilépéshez nyomja meg a 3-ast!}
-{130}{}{A Riasztó kikapcsolását választod, és megnyomod az 1-es gombot}
-{131}{}{A Diagnosztikai ellenõrzést választod, és megnyomod a 2-es gombot }
-{132}{}{A Kilépést választod, és megnyomod a 3-as gombot }
-{133}{}{Kilépés}
-{134}{}{Figyelem! Ez a program akkor mûködik a leghatásosabban, ha ön minden programot bezár. Biztosan szeretné most futtatni?}
+                                                                 Nincsenek rendszerfÃ¡jlok jelen
+                                            KÃ©rem, indÃ­tsa Ãºjra a gÃ©pet}
+{126}{}{BefejezÃ©s}
+{127}{}{Parancs megvizsgÃ¡lÃ¡sa - KÃ©rem, vÃ¡rjon...
+                           FelÃ¼lbÃ­rÃ¡lt felhasznÃ¡lÃ³i parancs
+                                     BelÃ©pÃ©s elutasÃ­tva}
+{128}{}{[TOVÃBBI LEHETÅSÃ‰G]}
+{129}{}{A RiasztÃ³ kikapcsolÃ¡sÃ¡hoz nyomja meg az 1-est!
+                 DiagnosztikÃ¡hoz nyomja meg a 2-est!
+                             KilÃ©pÃ©shez nyomja meg a 3-ast!}
+{130}{}{Megnyomod az 1-est!}
+{131}{}{Megnyomod a 2-est!}
+{132}{}{Megnyomod a 3-ast!}
+{133}{}{BefejezÃ©s}
+{134}{}{Figyelem! Ez a program akkor mÅ±kÃ¶dik a leghatÃ¡sosabban, ha Ã¶n minden programot bezÃ¡r. Biztosan szeretnÃ© most futtatni?}
 {135}{}{Igen.}
 {136}{}{Nem.}
-{137}{}{Kilépés}
-{138}{}{===Biztonsági program bezárása===
-                                Adat-struktúra analizálása...
-                                       Diagnosztikai program félbeszakadt
+{137}{}{BefejezÃ©s}
+{138}{}{===BiztonsÃ¡gi program bezÃ¡rÃ¡sa===
+                                Adat-struktÃºra analizÃ¡lÃ¡sa...
+                                       Diagnosztikai program fÃ©lbeszakadt
                                Diagnosztikai program kikapcsolva
-                                 Biztonsági program újraindítása
-                                   Riasztás visszaállítása
-                                              Skynet Biztonsági Rendszer - Készenléti állapot}
-{139}{}{Kilépés}
-{140}{}{Hozzáférés megtagadva...
-                                             Hozzáférés megtagadva...
-                                           Hozzáférés engedélyezve
-                                           A 2. szint riasztó rendszere kikapcsolva}
-{141}{}{Kilépés}
-{142}{}{Illetéktelen hozzáférés
-                                                Biztonsági kizárás elindítása a terminálon}
-{143}{}{Kilépés}
-{144}{}{Parancs Értelmezése - Kérem, várjon...
-                             Befejezni az összes...
-                                                Figyelem! Skynet által felülbírálva - 667. Kód
-                    Hozzáférés ehhez a terminálhoz: Elutasítva.}
-{145}{}{Kilépés}
-{146}{}{Diagnosztikai Program befejezése.}
-{147}{}{[TOVÁBB]}
+                                 BiztonsÃ¡gi program ÃºjraindÃ­tÃ¡sa
+                                   RiasztÃ¡s visszaÃ¡llÃ­tÃ¡sa
+                                              Skynet BiztonsÃ¡gi Rendszer - KÃ©szenlÃ©ti Ã¡llapot}
+{139}{}{BefejezÃ©s}
+{140}{}{HozzÃ¡fÃ©rÃ©s megtagadva...
+                                             HozzÃ¡fÃ©rÃ©s megtagadva...
+                                           HozzÃ¡fÃ©rÃ©s engedÃ©lyezve
+                                           A 2. szint riasztÃ³ rendszere kikapcsolva}
+{141}{}{BefejezÃ©s}
+{142}{}{IlletÃ©ktelen hozzÃ¡fÃ©rÃ©s
+                                                BiztonsÃ¡gi kizÃ¡rÃ¡s elindÃ­tÃ¡sa a terminÃ¡lon}
+{143}{}{BefejezÃ©s}
+{144}{}{Parancs Ã‰rtelmezÃ©se - KÃ©rem, vÃ¡rjon...
+                             Befejezni az Ã¶sszes...
+                                                Figyelem! Skynet Ã¡ltal felÃ¼lbÃ­rÃ¡lva - 667. KÃ³d
+                    HozzÃ¡fÃ©rÃ©s ehhez a terminÃ¡lhoz: ElutasÃ­tva.}
+{145}{}{BefejezÃ©s}
+{146}{}{Diagnosztikai Program befejezÃ©se.}
+{147}{}{[TOVÃBBI LEHETÅSÃ‰G]}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }
-{303}{}{Clifton tábornok }
+{303}{}{Clifton tÃ¡bornok }
 {304}{}{                                         Dixon tizedes }
 {305}{}{August 5, 2077}
 {306}{}{ napja./                        }

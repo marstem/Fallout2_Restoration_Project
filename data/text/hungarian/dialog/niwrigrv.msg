@@ -1,6 +1,6 @@
-{100}{}{A sírkövön ez áll: "Itt nyugszik szeretett gyermekünk, Richard Wright. Emléke örökké szívünkben él."}
-{200}{}{A koporsóban egy tinédzser testét találod.}
-{201}{}{Átvizsgálod Richard Wright sírját. A testbõl émelyítõ szag árad.}
-{202}{}{A testbõl áradó szag radskorpió méregre utal... a gyerek nem Jet túladagolásban halt meg, hanem megmérgezték.}
-{203}{}{A gyerek testébõl áradó szag nagyon ismerõs, de nem akar beugrani...}
-{300}{}{Rájöttél, hogy Richard Wrightot megmérgezték.}
+{100}{}{A sÃ­rkÃ¶vÃ¶n ez Ã¡ll: "Itt nyugszik szeretett gyermekÃ¼nk, Richard Wright. EmlÃ©ke Ã¶rÃ¶kkÃ© szÃ­vÃ¼nkben Ã©l."}
+{200}{}{A koporsÃ³ban egy tinÃ©dzser testÃ©t talÃ¡lod.}
+{201}{}{ÃtvizsgÃ¡lod Richard Wright sÃ­rjÃ¡t. A testbÅ‘l Ã©melyÃ­tÅ‘ szag Ã¡rad.}
+{202}{}{A testbÅ‘l Ã¡radÃ³ szag radskorpiÃ³ mÃ©regre utal... a gyerek nem Jet tÃºladagolÃ¡sban halt meg, hanem megmÃ©rgeztÃ©k.}
+{203}{}{A gyerek testÃ©bÅ‘l Ã¡radÃ³ szag nagyon ismerÅ‘s, de nem akar beugrani...}
+{300}{}{RÃ¡jÃ¶ttÃ©l, hogy Richard Wrightot megmÃ©rgeztÃ©k.}

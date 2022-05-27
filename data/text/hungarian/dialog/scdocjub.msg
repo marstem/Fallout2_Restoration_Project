@@ -1,80 +1,80 @@
-{100}{}{Egy idõsebb személyt látsz. Barátságosnak tûnik.}
+{100}{}{Egy idÅ‘sebb szemÃ©lyt lÃ¡tsz. BarÃ¡tsÃ¡gosnak tÅ±nik.}
 {101}{}{Ez itt Jubilee doktor.}
-{102}{}{Elég koros ember, hófehér szakálla van, és kissé üres a tekintete.}
-{103}{}{Jubilee doktor vagyok. Mi a problémája, fiatalember?}
-{104}{}{Mi a problémája, fiatalember?}
-{105}{}{Én sebesült.}
-{106}{}{Orvosra van szükségem.}
-{107}{}{Elbújhat ezzel a kis karcolással. Inkább szedjen be valamilyen tablettát, engem meg hagyjon békén!}
-{108}{}{Úristen, maga súlyosan vérzik!}
-{109}{}{Nem is tudom. Nem hinném, hogy meg tudom menteni a lábát. A legjobb lenne levágni.}
+{102}{}{ElÃ©g koros ember, hÃ³fehÃ©r szakÃ¡lla van, Ã©s kissÃ© Ã¼res a tekintete.}
+{103}{}{Jubilee doktor vagyok. Mi a problÃ©mÃ¡ja, fiatalember?}
+{104}{}{Mi a problÃ©mÃ¡ja, fiatalember?}
+{105}{}{Ã‰n sebesÃ¼lt.}
+{106}{}{SzÃ¼ksÃ©gem van egy orvosra!}
+{107}{}{ElbÃºjhat ezzel a kis karcolÃ¡ssal. InkÃ¡bb szedjen be valamilyen tablettÃ¡t, engem meg hagyjon bÃ©kÃ©n!}
+{108}{}{Ãšristen, maga sÃºlyosan vÃ©rzik!}
+{109}{}{Nem is tudom. Nem hinnÃ©m, hogy meg tudom menteni a lÃ¡bÃ¡t. A legjobb lenne levÃ¡gni.}
 {110}{}{Ugye csak viccel?}
 {111}{}{Haha.}
-{112}{}{Itt van hát, fiam!}
-{113}{}{Újra találkozunk?}
-{114}{}{Kösz doki. Válaszolhatna pár kérdésre.}
-{115}{}{Viszlát!}
-{116}{}{50 dollár lesz.}
-{117}{}{Csak gyógyítson meg!}
+{112}{}{Itt van hÃ¡t, fiam!}
+{113}{}{Mar megint...}
+{114}{}{KÃ¶sz doki. VÃ¡laszolhatna pÃ¡r kÃ©rdÃ©sre.}
+{115}{}{ViszlÃ¡t!}
+{116}{}{50 dollÃ¡r lesz.}
+{117}{}{Csak gyÃ³gyÃ­tson meg!}
 {118}{}{Nem maradok itt!}
-{119}{}{Maga jobban csinálja.}
-{120}{}{Én menni mostan.}
-{121}{}{Nem. Én sosem hazudok. El fog üszkösödni, ha nem vágom le.}
+{119}{}{Maga jobban csinÃ¡lja.}
+{120}{}{Ã‰n menek mostan.}
+{121}{}{Nem. Ã‰n sosem hazudok. El fog Ã¼szkÃ¶sÃ¶dni, ha nem vÃ¡gom le.}
 {122}{}{No way you're cutting anything off, understand?}
 {123}{}{Ennyi lett volna, megyek is.}
-{124}{}{Ha elüszkösödik, ne engem hibáztasson!}
-{125}{}{Ez nem jótékonysági kórház. Ha nincs pénz, nem dolgozom.}
-{126}{}{Mit tehetek magáért?}
-{127}{}{Ne kíméljen!}
-{128}{}{13-as Menedék?}
-{129}{}{Tudja, hol találom a 13-as Menedéket?}
+{124}{}{Ha elÃ¼szkÃ¶sÃ¶dik, ne engem hibÃ¡ztasson!}
+{125}{}{Ez nem jÃ³tÃ©konysÃ¡gi kÃ³rhÃ¡z. Ha nincs pÃ©nz, nem dolgozom.}
+{126}{}{Mit tehetek magÃ¡Ã©rt?}
+{127}{}{Na, lÃ¶kjed!}
+{128}{}{Tizen-hÃ¡romos menedÃ©k?}
+{129}{}{Tudja, hol talÃ¡lom a 13-as MenedÃ©ket?}
 {130}{}{I heard somebody saying Mr. Westin's not well. That true? I'm worried something might happen to him. He owes me money.}
-{131}{}{Sóshús azt mondta, maga ellopott tõle egy térképet. Igaz ez?}
-{132}{}{Munkát keresek. Tudna segíteni?}
-{133}{}{Doki, tud valamit egy bizonyos csoportról, akik a rabszolga-kereskedõk ellen harcolnak?}
-{134}{}{Nem kell aggódnia, fiam! Ha nem terheli túl a szervezetét, talán tovább eléldegél bármelyikõnknél. Feltéve, ha nem felejti el bevenni a gyógyszereit.}
-{135}{}{Ennek örülök. Érdekelne még valami.}
-{136}{}{Kösz, doki.}
-{137}{}{Az a részeg disznó! Egyetlen dolgot szereztem tõle, egy "Velvet Elvii" festményt... természetesen pénz ellenében.}
-{138}{}{Velvet Elvii? Láthatnám esetleg?}
-{139}{}{Hát ez nem éppen térkép. Na, hadd noszogassam egy kicsit más témában!}
+{131}{}{SÃ³shÃºs azt mondta, maga ellopott tÅ‘le egy tÃ©rkÃ©pet. Igaz ez?}
+{132}{}{MunkÃ¡t keresek. Tudna segÃ­teni?}
+{133}{}{Doki, tud valamit egy bizonyos csoportrÃ³l, akik a rabszolga-kereskedÅ‘k ellen harcolnak?}
+{134}{}{Nem kell aggÃ³dnia, fiam! Ha nem terheli tÃºl a szervezetÃ©t, talÃ¡n tovÃ¡bb elÃ©ldegÃ©l bÃ¡rmelyikÅ‘nknÃ©l. FeltÃ©ve, ha nem felejti el bevenni a gyÃ³gyszereit.}
+{135}{}{Ennek Ã¶rÃ¼lÃ¶k. Ã‰rdekelne mÃ©g valami.}
+{136}{}{KÃ¶sz, doki.}
+{137}{}{Az a rÃ©szeg disznÃ³! Egyetlen dolgot szereztem tÅ‘le, egy "Velvet Elvii" festmÃ©nyt... termÃ©szetesen pÃ©nz ellenÃ©ben.}
+{138}{}{Velvet Elvii? LÃ¡thatnÃ¡m esetleg?}
+{139}{}{HÃ¡t ez nem Ã©ppen tÃ©rkÃ©p. Na, hadd noszogassam egy kicsit mÃ¡s tÃ©mÃ¡ban!}
 {140}{}{Sajna mennem kell.}
-{141}{}{Ezt még senki sem említette, mióta az öreg Sóshúst idehozták. Három napig lázas volt, egész idõ alatt arról mormolt, hogyan találta meg a 13-as Menedéket.}
-{142}{}{Sóshús?}
-{143}{}{Szóval hol is van?}
-{144}{}{Hun lenni menedék?}
-{145}{}{Nem tudom. Sóshús mindig mondta, hogy van róla térképe, de még sohasem látta senki.}
-{146}{}{Sóshús?}
-{147}{}{Kérdezni még.}
-{148}{}{Ez is több, mint a semmi...}
-{149}{}{Sóshús egy öreg földmérõ - jobban mondva - egy részeg disznó. Westin birtokán él.}
-{150}{}{Lenne még valami...}
-{151}{}{Kösz a történetet.}
-{152}{}{Hát, reméltem, hogy nem ingyen válok meg tõle. Legyen az ára }
-{153}{}{Talán késõbb, de még valami érdekelne...}
-{154}{}{Talán késõbb, de most mennem kell.}
-{155}{}{Sóshús egy öreg földmérõ - jobban mondva - egy részeg disznó. Westin birtokán él.}
-{156}{}{Lenne még valami...}
-{157}{}{Kösz a történetet.}
-{158}{}{A legjobb lesz, ha beszél Tandival, az elnökkel. Hallottam, hogy valamiféle különleges embert keres.}
-{159}{}{Lenne még valami...}
-{160}{}{Köszi.}
-{161}{}{Meglehet... Tudok egy csoportról, akik a rabszolga-kereskedõk ellen küzdenek. Mindig ott lézengenek annál a nagy mûhelynél... egy autó javításán munkálkodnak.}
-{162}{}{Lenne még valami...}
-{163}{}{Köszi.}
+{141}{}{Ezt mÃ©g senki sem emlÃ­tette, miÃ³ta az Ã¶reg SÃ³shÃºst idehoztÃ¡k. HÃ¡rom napig lÃ¡zas volt, egÃ©sz idÅ‘ alatt arrÃ³l mormolt, hogyan talÃ¡lta meg a 13-as MenedÃ©ket.}
+{142}{}{SÃ³shÃºs?}
+{143}{}{SzÃ³val hol is van?}
+{144}{}{Hun lenni menedÃ©k?}
+{145}{}{Nem tudom. SÃ³shÃºs mindig mondta, hogy van rÃ³la tÃ©rkÃ©pe, de mÃ©g sohasem lÃ¡tta senki.}
+{146}{}{SÃ³shÃºs?}
+{147}{}{KÃ©rdezni mÃ©g.}
+{148}{}{Ez is tÃ¶bb, mint a semmi...}
+{149}{}{SÃ³shÃºs egy Ã¶reg fÃ¶ldmÃ©rÅ‘ - jobban mondva - egy rÃ©szeg disznÃ³. Westin birtokÃ¡n Ã©l.}
+{150}{}{KÃ©rdeznÃ©k mÃ©g...}
+{151}{}{KÃ¶szÃ¶nÃ¶m, hogy megosztotta ezt velem.}
+{152}{}{HÃ¡t, remÃ©ltem, hogy nem ingyen vÃ¡lok meg tÅ‘le. Legyen az Ã¡ra }
+{153}{}{TalÃ¡n kÃ©sÅ‘bb, de mÃ©g valami Ã©rdekelne...}
+{154}{}{TalÃ¡n kÃ©sÅ‘bb, de most mennem kell.}
+{155}{}{SÃ³shÃºs egy Ã¶reg fÃ¶ldmÃ©rÅ‘ - jobban mondva - egy rÃ©szeg disznÃ³. Westin birtokÃ¡n Ã©l.}
+{156}{}{KÃ©rdeznÃ©k mÃ©g...}
+{157}{}{KÃ¶szÃ¶nÃ¶m, hogy megosztotta ezt velem.}
+{158}{}{A legjobb lesz, ha beszÃ©l Tandival, az elnÃ¶kkel. Hallottam, hogy valamifÃ©le kÃ¼lÃ¶nleges embert keres.}
+{159}{}{KÃ©rdeznÃ©k mÃ©g...}
+{160}{}{KÃ¶sz.}
+{161}{}{Meglehet... Tudok egy csoportrÃ³l, akik a rabszolga-kereskedÅ‘k ellen kÃ¼zdenek. Mindig ott lÃ©zengenek annÃ¡l a nagy mÅ±helynÃ©l... egy autÃ³ javÃ­tÃ¡sÃ¡n munkÃ¡lkodnak.}
+{162}{}{KÃ©rdeznÃ©k mÃ©g...}
+{163}{}{KÃ¶sz.}
 {164}{}{El a kezekkel, punk!}
 {165}{}{Careful there! Just takes tiny amount to expose yourself.}
-{166}{}{Tedd azt vissza! Nem gyerekjáték!}
-{167}{}{Azok Mr. Westin gyógyszerei, ne nyúlj hozzájuk!}
-{168}{}{Ne piszkáld azokat! Nem szeretném, ha Mr. Westin tévedésbõl a rossz gyógyszereket kapná.}
-{169}{}{Ne piszkáld! Épp most mértem ki Mr. Westin adagját.}
-{170}{}{Jubilee doktor vagyok. Mi a probléma, szép hölgy?}
-{171}{}{Mi a probléma, szép hölgy?}
-{172}{}{Hát újra itt van, hölgyem?!}
-{173}{}{Nem kell aggódnia, hölgyem! Ha nem terheli túl a szervezetét, bizonyára tovább eléldegél, mint bármelyikõnk. Feltéve, ha nem felejti el bevenni a gyógyszereit.}
+{166}{}{Tedd azt vissza! Nem gyerekjÃ¡tÃ©k!}
+{167}{}{Azok Mr. Westin gyÃ³gyszerei, ne nyÃºlj hozzÃ¡juk!}
+{168}{}{Ne piszkÃ¡ld azokat! Nem szeretnÃ©m, ha Mr. Westin tÃ©vedÃ©sbÅ‘l a rossz gyÃ³gyszereket kapnÃ¡.}
+{169}{}{Ne piszkÃ¡ld! Ã‰pp most mÃ©rtem ki Mr. Westin adagjÃ¡t.}
+{170}{}{Jubilee doktor vagyok. Mi a problÃ©ma, szÃ©p hÃ¶lgy?}
+{171}{}{Mi a problÃ©ma, szÃ©p hÃ¶lgy?}
+{172}{}{HÃ¡t Ãºjra itt van, hÃ¶lgyem?!}
+{173}{}{Nem kell aggÃ³dnia, hÃ¶lgyem! Ha nem terheli tÃºl a szervezetÃ©t, bizonyÃ¡ra tovÃ¡bb elÃ©ldegÃ©l, mint bÃ¡rmelyikÅ‘nk. FeltÃ©ve, ha nem felejti el bevenni a gyÃ³gyszereit.}
 {174}{}{Rendben. Itt van a jussa, }
-{175}{}{Kösz. Próbáltam már Sóshústól némi pénzt kicsikarni, de annak a részeg disznónak mindig üres volt a zsebe.}
-{176}{}{ vagyok.}
+{175}{}{KÃ¶sz. PrÃ³bÃ¡ltam mÃ¡r SÃ³shÃºstÃ³l nÃ©mi pÃ©nzt kicsikarni, de annak a rÃ©szeg disznÃ³nak mindig Ã¼res volt a zsebe.}
+{176}{}{ dollÃ¡r.}
 {200}{}{Whoa there, }
 {201}{}{son! }
 {202}{}{missy! }

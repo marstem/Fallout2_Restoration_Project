@@ -1,18 +1,18 @@
-{100}{}{Hivatalos személynek néz ki, mert az ÚKK jelvényével díszített egyenruhát viseli.}
-{101}{}{Ez csak egy városi õr.}
-{102}{}{Lássuk csak: nehéz fiú, van fegyvere, jelvénye, páncélja... hmm, minden bizonnyal egy õr.}
-{103}{}{Üdvözlöm az ÚKK-ban. A miheztartás végett: ha van fegyvere, jobb, ha a tokjában tartja. Itt nem tûrjük a fegyverek használatát, idegen.}
-{104}{}{Üdvözlöm az ÚKK-ban, az Új Kaliforniai Köztársaság fõvárosában, Tandi Elnöknõ irányítása alatt.}
-{105}{}{Üdvözlet, idegen. Üzleti ügyek miatt jött az ÚKK-ba?}
-{106}{}{Az ÚKK üdvözli önt... feltéve, ha nem okoz bajt.}
-{107}{}{Hé, maga, tegye el azt a fegyvert. Az ÚKK-ban nem nézik jó szemmel az ilyesmit.}
-{108}{}{Idegen, az ÚKK-nak törvényei vannak, és az egyik úgy szól, hogy "Nem tûrjük a fegyvereket". Tegye el, akkor nem lesz semmi zûr!}
-{109}{}{Elolvasta a feliratot befelé jövet? "Nem tûrjük a fegyvereket", és ezt mi komolyan is gondoljuk. Megértette?}
-{110}{}{Az összes csavargó ugyanolyan. Ez egy békés város, ami azt jelenti, hogy nincs szükségünk a fegyverüket hadonászókra. Tegye el a fegyvert, és nem lesz semmi zûr!}
-{111}{}{A kapu zárva van éjszakára. Ha sürgõs ügye van, menjen az Õrsre!}
-{112}{}{Ha be akar jutni a kapun, az õrség kapitányával kell beszélnie!}
-{113}{}{Elég késõ van a látogatáshoz. Menjen, keresse meg a kapitányt, talán õ beengedi.}
-{114}{}{A maga helyében én most megfordulnék szépen, és nagyon gyorsan elpályáznék innen.}
-{115}{}{A magafajtákat nem látjuk szívesen az ÚKK-ban.}
-{116}{}{Jöjjön csak közelebb, és nagyon megbánja!}
-{117}{}{Figyelmeztettük, úgyhogy távozzon békével! Megértette?}
+{100}{}{Hivatalos szemÃ©lynek nÃ©z ki, mert az ÃšKK jelvÃ©nyÃ©vel dÃ­szÃ­tett egyenruhÃ¡t viseli.}
+{101}{}{Ez csak egy vÃ¡rosi Å‘r.}
+{102}{}{LÃ¡ssuk csak: nehÃ©z fiÃº, van fegyvere, jelvÃ©nye, pÃ¡ncÃ©lja... hmm, minden bizonnyal egy Å‘r.}
+{103}{}{ÃœdvÃ¶zlÃ¶m az ÃšKK-ban. A miheztartÃ¡s vÃ©gett: ha van fegyvere, jobb, ha a tokjÃ¡ban tartja. Itt nem tÅ±rjÃ¼k a fegyverek hasznÃ¡latÃ¡t, idegen.}
+{104}{}{ÃœdvÃ¶zlÃ¶m az ÃšKK-ban, az Ãšj Kaliforniai KÃ¶ztÃ¡rsasÃ¡g fÅ‘vÃ¡rosÃ¡ban, Tandi ElnÃ¶knÅ‘ irÃ¡nyÃ­tÃ¡sa alatt.}
+{105}{}{ÃœdvÃ¶zlet, idegen. Ãœzleti Ã¼gyek miatt jÃ¶tt az ÃšKK-ba?}
+{106}{}{Az ÃšKK Ã¼dvÃ¶zli Ã¶nt... feltÃ©ve, ha nem okoz bajt.}
+{107}{}{HÃ©, maga, tegye el azt a fegyvert. Az ÃšKK-ban nem nÃ©zik jÃ³ szemmel az ilyesmit.}
+{108}{}{Idegen, az ÃšKK-nak tÃ¶rvÃ©nyei vannak, Ã©s az egyik Ãºgy szÃ³l, hogy "Nem tÅ±rjÃ¼k a fegyvereket". Tegye el, akkor nem lesz semmi zÅ±r!}
+{109}{}{Elolvasta a feliratot befelÃ© jÃ¶vet? "Nem tÅ±rjÃ¼k a fegyvereket", Ã©s ezt mi komolyan is gondoljuk. MegÃ©rtette?}
+{110}{}{Az Ã¶sszes csavargÃ³ ugyanolyan. Ez egy bÃ©kÃ©s vÃ¡ros, ami azt jelenti, hogy nincs szÃ¼ksÃ©gÃ¼nk a fegyverÃ¼ket hadonÃ¡szÃ³kra. Tegye el a fegyvert, Ã©s nem lesz semmi zÅ±r!}
+{111}{}{A kapu zÃ¡rva van Ã©jszakÃ¡ra. Ha sÃ¼rgÅ‘s Ã¼gye van, menjen az Årsre!}
+{112}{}{Ha be akar jutni a kapun, az Å‘rsÃ©g kapitÃ¡nyÃ¡val kell beszÃ©lnie!}
+{113}{}{ElÃ©g kÃ©sÅ‘ van a lÃ¡togatÃ¡shoz. Menjen, keresse meg a kapitÃ¡nyt, talÃ¡n Å‘ beengedi.}
+{114}{}{A maga helyÃ©ben Ã©n most megfordulnÃ©k szÃ©pen, Ã©s nagyon gyorsan elpÃ¡lyÃ¡znÃ©k innen.}
+{115}{}{A magafajtÃ¡kat nem lÃ¡tjuk szÃ­vesen az ÃšKK-ban.}
+{116}{}{JÃ¶jjÃ¶n csak kÃ¶zelebb, Ã©s nagyon megbÃ¡nja!}
+{117}{}{FigyelmeztettÃ¼k, Ãºgyhogy tÃ¡vozzon bÃ©kÃ©vel! MegÃ©rtette?}

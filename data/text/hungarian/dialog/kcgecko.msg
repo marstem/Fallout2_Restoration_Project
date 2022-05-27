@@ -1,49 +1,49 @@
-{100}{}{Egy koszos prémvadászt látsz.}
-{101}{}{Termetes prémvadász.}
-{102}{}{Egy gekkó-prémvadászt látsz.}
-{200}{}{Közéjük illesz.}
-{201}{}{Mi lenne, ha mindekit meghívnál egy körre?}
-{202}{}{Szkanderezel Duntonékkal?}
-{203}{}{Pont úgy nézel ki, mintha Rejtektõl északra jöttél volna. }
-{204}{}{Mit nézel?}
-{205}{}{Neked aztán sötét a bõröd, édesem. Heh, heh, heh.}
-{206}{}{Hükk, jól jönne egy újabb korsó gekkópisa.}
-{207}{}{Ha pénz kell, akkor fordulj a Duntonokhoz.}
-{208}{}{Nem is vagy olyan rossz, ahhoz képest, hogy törzsbéli vagy.}
-{209}{}{Lökd ide a sört...}
-{210}{}{Egyszer elmegyek délre, Rejteken túlra. Ott aztán sok meló akad.}
-{211}{}{Salvadore, lökj ide még egy gekkópisát!}
-{212}{}{A vadászat nem megy olyan jól mostanában, biztos van könnyebb pénzszerzési lehetõség is.}
-{213}{}{Nem vagyok annyira bepiálva, mint gondolod.}
-{214}{}{Hé, haver, szerinted ezek cinkelt kockák? (csörög, csörög)}
-{215}{}{Beszélj a Duntonokkal vagy a csapossal, ha munka kell!}
-{216}{}{Jó helyre jöttél piálni, haver!}
-{217}{}{Hé, Bishop, mutasd meg mit tudsz azzal a késsel!}
-{218}{}{Akar valaki kockázni?}
-{219}{}{Lagalább Aldo nem szennyezi itt a levegõt.}
-{220}{}{Loptál már brahmint?}
-{221}{}{Légy óvatos a Járkáló Szellemmel!}
+{100}{}{Egy koszos prÃ©mvadÃ¡szt lÃ¡tsz.}
+{101}{}{Termetes prÃ©mvadÃ¡sz.}
+{102}{}{Egy gekkÃ³-prÃ©mvadÃ¡szt lÃ¡tsz.}
+{200}{}{KÃ¶zÃ©jÃ¼k illesz.}
+{201}{}{Mi lenne, ha mindekit meghÃ­vnÃ¡l egy kÃ¶rre?}
+{202}{}{Szkanderezel DuntonÃ©kkal?}
+{203}{}{Pont Ãºgy nÃ©zel ki, mintha RejtektÅ‘l Ã©szakra jÃ¶ttÃ©l volna. }
+{204}{}{Mit nÃ©zel?}
+{205}{}{Neked aztÃ¡n sÃ¶tÃ©t a bÅ‘rÃ¶d, Ã©desem. Heh, heh, heh.}
+{206}{}{HÃ¼kk, jÃ³l jÃ¶nne egy Ãºjabb korsÃ³ gekkÃ³pisa.}
+{207}{}{Ha pÃ©nz kell, akkor fordulj a Duntonokhoz.}
+{208}{}{Nem is vagy olyan rossz, ahhoz kÃ©pest, hogy tÃ¶rzsbÃ©li vagy.}
+{209}{}{LÃ¶kd ide a sÃ¶rt...}
+{210}{}{Egyszer elmegyek dÃ©lre, Rejteken tÃºlra. Ott aztÃ¡n sok melÃ³ akad.}
+{211}{}{Salvadore, lÃ¶kj ide mÃ©g egy gekkÃ³pisÃ¡t!}
+{212}{}{A vadÃ¡szat nem megy olyan jÃ³l mostanÃ¡ban, biztos van kÃ¶nnyebb pÃ©nzszerzÃ©si lehetÅ‘sÃ©g is.}
+{213}{}{Nem vagyok annyira bepiÃ¡lva, mint gondolod.}
+{214}{}{HÃ©, haver, szerinted ezek cinkelt kockÃ¡k? (csÃ¶rÃ¶g, csÃ¶rÃ¶g)}
+{215}{}{BeszÃ©lj a Duntonokkal vagy a csapossal, ha munka kell!}
+{216}{}{JÃ³ helyre jÃ¶ttÃ©l piÃ¡lni, haver!}
+{217}{}{HÃ©, Bishop, mutasd meg mit tudsz azzal a kÃ©ssel!}
+{218}{}{Akar valaki kockÃ¡zni?}
+{219}{}{LagalÃ¡bb Aldo nem szennyezi itt a levegÅ‘t.}
+{220}{}{LoptÃ¡l mÃ¡r brahmint?}
+{221}{}{LÃ©gy Ã³vatos a JÃ¡rkÃ¡lÃ³ Szellemmel!}
 {222}{}{Van egy szellem a kanyonban innen keletre.}
-{223}{}{A vadászat veszélyes. Pár héttel ezelõtt eltûnt az egyik legjobb prémvadászunk.}
-{224}{}{Imádom Torrt ugratni.}
+{223}{}{A vadÃ¡szat veszÃ©lyes. PÃ¡r hÃ©ttel ezelÅ‘tt eltÅ±nt az egyik legjobb prÃ©mvadÃ¡szunk.}
+{224}{}{ImÃ¡dom Torrt ugratni.}
 {300}{}{Nicsak, ki van itt!}
-{301}{}{(motyog magában) ...belevaló ember ez... (motyog)}
+{301}{}{(motyog magÃ¡ban) ...belevalÃ³ ember ez... (motyog)}
 {302}{}{Nem gondolod, hogy rossz helyen vagy?}
-{303}{}{Nem kell ide a te fajtád, vadember!}
-{304}{}{Fizess egy kört, akkor talán megengedjük, hogy itt maradj!}
+{303}{}{Nem kell ide a te fajtÃ¡d, vadember!}
+{304}{}{Fizess egy kÃ¶rt, akkor talÃ¡n megengedjÃ¼k, hogy itt maradj!}
 {305}{}{Takarodj, vadember!}
-{306}{}{Mit bámulsz?}
+{306}{}{Mit bÃ¡mulsz?}
 {307}{}{A Duntonok majd helyreraknak!}
-{308}{}{Te aztán a legrosszabb helyet választottad a piálásra!}
-{309}{}{Mama nincs itt kölyök, nézd meg a Fürdõházban!}
-{310}{}{Miért nem játszol máshol?}
-{311}{}{Nézd meg a kanyot, csak keletre kell menni!}
-{312}{}{Mit akarsz?}
-{313}{}{Jobb lesz, ha csak a saját dolgoddal törõdsz!}
-{314}{}{Torrnak hívnak? (he-he-he)}
-{315}{}{Menj, igyál Aldóval.}
-{316}{}{Ez a hely nem neked való, punk!}
-{317}{}{Nem vagy az ivópajtásom!}
-{318}{}{Hmmm. (a padlóra köp)}
-{319}{}{Te aztán nem vagy egy hej de nagy látványosság...}
-{320}{}{Na, kellemetlenül érzed már magad?}
+{308}{}{Te aztÃ¡n a legrosszabb helyet vÃ¡lasztottad a piÃ¡lÃ¡sra!}
+{309}{}{Mama nincs itt kÃ¶lyÃ¶k, nÃ©zd meg a FÃ¼rdÅ‘hÃ¡zban!}
+{310}{}{MiÃ©rt nem jÃ¡tszol mÃ¡shol?}
+{311}{}{NÃ©zd meg a kanyot, csak keletre kell menni!}
+{312}{}{Mit akar?}
+{313}{}{Jobb lesz, ha csak a sajÃ¡t dolgoddal tÃ¶rÅ‘dsz!}
+{314}{}{Torrnak hÃ­vnak? (he-he-he)}
+{315}{}{Menj, igyÃ¡l AldÃ³val.}
+{316}{}{Ez a hely nem neked valÃ³, punk!}
+{317}{}{Nem vagy az ivÃ³pajtÃ¡som!}
+{318}{}{Hmmm. (a padlÃ³ra kÃ¶p)}
+{319}{}{Te aztÃ¡n nem vagy egy hej de nagy lÃ¡tvÃ¡nyossÃ¡g...}
+{320}{}{Na, kellemetlenÃ¼l Ã©rzed mÃ¡r magad?}

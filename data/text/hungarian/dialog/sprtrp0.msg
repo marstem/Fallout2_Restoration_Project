@@ -1,7 +1,7 @@
-{100}{}{Egy kiemelkedõ követ látsz. Egy csapda részének tûnik. }
-{101}{}{egy kiemelkedett követ lát. Egy csapda részének tûnik.}
-{102}{}{Egy kiemelkedett követ látsz.}
-{103}{}{ egy kiemelkedett követ lát.}
-{104}{}{Kioldod a csapdát és csak egy hajszállal kerülöd el a falból kicsapódó lövedéket.}
-{105}{}{ kioldja a csapdát és csak egy hajszállal kerüli el a falból kicsapódó lövedéket.}
-{106}{}{Egy kiemelkedett követ látsz. Ártalmatlannak tûnik.}
+{100}{}{Egy kiemelkedÅ‘ kÃ¶vet lÃ¡tsz. Egy csapda rÃ©szÃ©nek tÅ±nik. }
+{101}{}{egy kiemelkedett kÃ¶vet lÃ¡t. Egy csapda rÃ©szÃ©nek tÅ±nik.}
+{102}{}{Egy kiemelkedett kÃ¶vet lÃ¡tsz.}
+{103}{}{ egy kiemelkedett kÃ¶vet lÃ¡t.}
+{104}{}{Kioldod a csapdÃ¡t Ã©s csak egy hajszÃ¡llal kerÃ¼lÃ¶d el a falbÃ³l kicsapÃ³dÃ³ lÃ¶vedÃ©ket.}
+{105}{}{ kioldja a csapdÃ¡t Ã©s csak egy hajszÃ¡llal kerÃ¼li el a falbÃ³l kicsapÃ³dÃ³ lÃ¶vedÃ©ket.}
+{106}{}{Egy kiemelkedett kÃ¶vet lÃ¡tsz. Ãrtalmatlannak tÅ±nik.}
