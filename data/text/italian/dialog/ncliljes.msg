@@ -188,6 +188,7 @@
 {863}{}{Provaci, e aggiungero' talmente tante cicatrici alla tua faccia da farti assomigliare ad un puzzle.}
 {864}{}{Calmati... stavo solo scherzando.}
 {865}{}{Chill. I had some other questions...}
+{866}{}{That's it, never mind.}
 {867}{}{Me ne vado. E' stato bello parlare con una persona raffinata come te.}
 {880}{}{Ah! Okay, chica. Okay. Lil' Jesus ti terra' d'occhio... e davvero non potrei fare altrimenti. Cosa posso fare per te?}
 {881}{}{La prima cosa che potresti fare per me e' tenere i tuoi occhi al loro posto, PICCOLO Jesus. Preferirei baciare un porcospino piuttosto che toccare quell'ammasso di crateri che tu chiami faccia.}

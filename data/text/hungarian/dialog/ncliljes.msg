@@ -192,6 +192,7 @@
 {863}{}{Próbáld csak meg, és annyi sebet ejtek rajtad, hogy az arcodat fasírtnak fogják nézni.}
 {864}{}{Nyugalom... csak poénkodtam veled.}
 {865}{}{Chill. I had some other questions...}
+{866}{}{That's it, never mind.}
 {867}{}{Na, akkor inkább lelépek. Nagyszerű egy ilyen kulturált emberrel társalogni.}
 {880}{}{Ha! Igazad van, chica. Igazad van. Kis Jesus szemmel fog tartani téged... nem mintha nem tudnék magam is boldogulni. Mit tehetek érted?}
 {881}{}{Az első dolog, amit kérnék tőled, KIS Jesus, hogy ne bámulj engem ilyen pofátlanul. Előbb feküdnék le egy sziklával, minthogy hozzáérjek ahhoz a csúfsághoz, amit az arcodnak nevezel.}

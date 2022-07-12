@@ -188,6 +188,7 @@
 {863}{}{Zkus to a já ti pořežu ksicht takovým způsobem, že budeš vypadat jako pexeso.}
 {864}{}{Uklidni se... jenom si dělám srandu.}
 {865}{}{Chill. I had some other questions...}
+{866}{}{That's it, never mind.}
 {867}{}{Odcházím. Moc hezky se mi povídalo s někým civilizovaným, jako jsi ty.}
 {880}{}{Haha! To bylo dobrý, chica. Malej Ježíš z tebe nespustí oči... teda ne, že bych si nemohl pomoct. Co pro tebe můžu udělat?}
 {881}{}{Můžeš začít tím, že si necháš oči pro sebe, MALEJ Ježíši. Raději přefiknu lavičku, než se dotknout toho tvého uhrovitého ksichtu.}

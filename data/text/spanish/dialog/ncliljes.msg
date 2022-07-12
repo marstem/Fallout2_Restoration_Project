@@ -195,6 +195,7 @@
 {863}{}{Inténtalo, y te haré tantas cicatrices en la cara que parecerás un puzzle.}
 {864}{}{Calma… sólo te tomaba el pelo.}
 {865}{}{Chill. Yo tenía algunas otras preguntas...}
+{866}{}{That's it, never mind.}
 {867}{}{Me marcho. Es genial hablar con alguien tan culto como tú.}
 {880}{}{¡Ja! Seguro que no, chica. Seguro que no. Pequeño Jesús va a mantener sus ojos sobre ti… tampoco es que no es que pueda evitarlo. ¿Qué
  puedo hacer por ti?}

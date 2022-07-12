@@ -199,6 +199,7 @@
 {863}{}{Try it, and I'll add so many scars to your face you'll look like a jigsaw puzzle.}
 {864}{}{Tranquilo... Eu só estava zuando.}
 {865}{}{Frio. Eu tenha outras perguntas...}
+{866}{}{That's it, never mind.}
 {867}{}{I'm leaving. Great talking to someone as cultured as you.}
 {880}{}{Ha! You all right, chica. You all right. Lil' Jesus gonna be keeping an eye on you... not that I couldn't help myself. What
  can I do for you?}

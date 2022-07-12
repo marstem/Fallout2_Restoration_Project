@@ -188,6 +188,7 @@
 {863}{}{Essaie, et je te dessinerai tellement de cicatrices sur ton visage que t'auras l'air d'un puzzle.}
 {864}{}{Calme-toi... Ce n'était qu'une plaisanterie.}
 {865}{}{Oh. J'avais d'autres questions...}
+{866}{}{That's it, never mind.}
 {867}{}{J'y vais. C'était super de parler avec quelqu'un de cultivé comme toi.}
 {880}{}{Ha ! Ca va, chica. Ca va. Petit Jésus va garder un oeil sur toi... C'est pas que je pourrais faire sans, de toute façon. Comment puis-je t'aider ?}
 {881}{}{Premièrement, tu peux garder tes yeux pour toi, PETIT Jésus. Je préférerais baiser avec du gravier plutôt que toucher au champ de cratères que t'as à la place du visage.}

@@ -188,6 +188,7 @@
 {863}{}{Tylko spróbuj, a zrobię ci na twarzy tyle blizn, że będziesz wyglądał jak puzzle.}
 {864}{}{Uspokój się... tylko sobie żartuję.}
 {865}{}{Spokojnie. Mam kilka innych pytań...}
+{866}{}{That's it, never mind.}
 {867}{}{Odchodzę. Miło mi się rozmawiało z tak kulturalną osobą jak ty.}
 {880}{}{Ha! Jezdeś w porządku chica. W porządeczku. Mały Jesus będzie miał na ciebie oko... nie to, żebym nie mógł sobie sam poradzić. Co mogę dla ciebie zrobić?}
 {881}{}{Pierwsza rzecz, jaką możesz dla mnie zrobić, MAŁY Jesusie, to zatrzymać swoje oczy dla siebie. Prędzej zastanowię się nad rżnięciem litej skały, niż dotknę tego księżycowego krajobrazu, który nazywasz twarzą.}

@@ -188,6 +188,7 @@
 {863}{}{Versuch's und ich werd dir so viele Kratzer ins Gesicht machen, dass du aussiehst wie ein Puzzle.}
 {864}{}{Beruhig dich... hab nur Spaß gemacht.}
 {865}{}{Beruhig dich. Ich hab da noch ein paar andere Fragen...}
+{866}{}{That's it, never mind.}
 {867}{}{Ich gehe. Hat Spaß gemacht mit einem kultivierten Menschen wie dir zu sprechen.}
 {880}{}{Ha! Du bist in Ordnung, Chica. Du bist in Ordnung. Lil' Jesus wird ein Auge auf dich haben... nicht, dass ich das müsste. Was kann ich für dich tun?}
 {881}{}{Das erste, was du tun kannst, ist, deine Augen bei dir zu behalten, LITTLE Jesus. Ich werd eher Felsen schleppen, als diese Kraterlandschaft anzufassen, die du Gesicht nennst.}
