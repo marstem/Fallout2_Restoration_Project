@@ -550,7 +550,7 @@ procedure Node014 begin
       dude_caps_adjust(tmp);
       set_local_var(LVAR_Enclave_Reward,1);
    end else if (dude_has_porn_star_rep) then begin
-      Reply("" + mstr(360) + porn_star_name + mstr(361) + mstr(casino_name) + mstr(1361));
+      Reply("" + mstr(360) + porn_star_name + mstr(361) + mstr(904+(self_family == mordino_casino)) + mstr(1361));
    end else if (dude_is_made_man) then begin
          Reply("" + made_man_name + mstr(341 - dude_is_male - (2*dude_has_important_rep)));
    end else if (dude_is_prizefighter) then begin
